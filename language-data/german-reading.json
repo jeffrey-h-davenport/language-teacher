@@ -1,0 +1,1099 @@
+{
+  "meta": {
+    "language": "German",
+    "languageCode": "de",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "text": "Söhne konnten einen Mann zur Weißglut treiben, sicher (er hatte zwei solche Exemplare; Victor, der Älteste, konnte vor Selbstgerechtigkeit kaum aus den Augen schauen, und Leo, der Jüngste, vertat sein Leben als mittelloser Maler), aber hin und wieder konnte man sie anschreien und böse Worte zu ihnen sagen und sich das Herz erleichtern, indem man ihnen alle Strafen des Himmels an den Hals wünschte.",
+      "questions": [
+        {
+          "question": "Was ist das Hauptthema dieses Textabschnitts?",
+          "choices": [
+            "Die Beschreibung einer harmonischen Familie.",
+            "Die Frustration eines Mannes über seine zwei Söhne, die ihn zur Weißglut treiben.",
+            "Die Karriere eines Malers in der Großstadt.",
+            "Die Freude eines Vaters über die Erfolge seiner Söhne."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie wird Victor, der ältere Sohn, im Text beschrieben?",
+          "choices": [
+            "Als mittelloser Künstler.",
+            "Als von Selbstgerechtigkeit erfüllt.",
+            "Als bescheiden und zurückhaltend.",
+            "Als erfolgreicher Geschäftsmann."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie erleichtert sich der Mann laut dem Text gelegentlich das Herz?",
+          "choices": [
+            "Indem er sie anschreit und ihnen böse Worte sagt.",
+            "Indem er mit Freunden über seine Söhne spricht.",
+            "Indem er das Haus verlässt.",
+            "Indem er seinen Söhnen Geld gibt."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was erfahren wir über Leo, den jüngsten Sohn?",
+          "choices": [
+            "Er vertut sein Leben als mittelloser Maler.",
+            "Er ist ebenso selbstgerecht wie sein Bruder Victor.",
+            "Er ist ein erfolgreicher Geschäftsmann.",
+            "Er lebt im Ausland und schreibt selten."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "text": "Der alte Domberg knurrte wütend. »Früher war es üblich, daß solche, die zu spät kommen, eben nichts mehr kriegen«, sagte er zornig, »aber heutzutage wird gewartet, bis auch der letzte einzutreffen geruht. Eine Schande ist das!« Er schlug mit der Faust auf den Tisch, daß das Geschirr schepperte. Laetitia wandte sich ihm zu. In ihrer Jugend hatte sie zu den schönsten Mädchen der östlichen Provinzen gehört, und noch im Alter erkannte man die grandiose Beauté, die sie einst gewesen war. Sie hatte die schmalen, eisgrauen Augen, die den meisten Frauen ihrer Familie zu eigen waren, eine gerade Nase und schmale Lippen. Sie sprach mit tiefer, rauchiger Stimme und galt als unumschränkte Herrscherin auf Lulinn. »Reg dich nicht auf, Ferdinand«, sagte sie, »du hast ein schwaches Herz, vergiß das nicht. Victor und Gertrud sind übrigens gerade ins Haus gekommen. Sie müssen gleich hier sein.«",
+      "questions": [
+        {
+          "question": "Worüber beschwert sich der alte Domberg?",
+          "choices": [
+            "Darüber, daß heutzutage auf Zuspätkommende gewartet wird.",
+            "Über die hohen Steuern.",
+            "Über das laute Geschirr.",
+            "Über das schlechte Essen."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie wird Laetitia im Text beschrieben?",
+          "choices": [
+            "Als einstige Schönheit mit eisgrauen Augen, die als Herrscherin auf Lulinn gilt.",
+            "Als Dienerin im Haus.",
+            "Als kränkliche alte Frau ohne Autorität.",
+            "Als schüchterne junge Frau ohne Einfluß."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was sagt Laetitia zu Ferdinand über seine Gesundheit?",
+          "choices": [
+            "Daß er zu viel ißt.",
+            "Daß er ein schwaches Herz hat und sich nicht aufregen soll.",
+            "Daß er zum Arzt gehen soll.",
+            "Daß er sich ausruhen soll."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wer ist laut Laetitia gerade ins Haus gekommen?",
+          "choices": [
+            "Victor und Gertrud.",
+            "Fremde Gäste aus der Stadt.",
+            "Der alte Domberg und ein Diener.",
+            "Leo und eine unbekannte Frau."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie reagiert Domberg körperlich auf seinen Ärger?",
+          "choices": [
+            "Er verläßt wortlos den Raum.",
+            "Er wirft sein Glas zu Boden.",
+            "Er schlägt mit der Faust auf den Tisch, sodaß das Geschirr scheppert.",
+            "Er steht auf und geht zum Fenster."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p003",
+      "text": "Belle lebte seit ihrer dramatischen Hochzeit mit Oberst Julius von Bergstrom in Petersburg. Sie führte ein aufwendiges gesellschaftliches Leben, ging am Zarenhof ein und aus, und Ferdinand verfärbte sich jedesmal vor Wut, wenn er daran dachte, daß seine Enkelin Nicola zwischen lauter Russen aufwachsen mußte, Slawen, von denen er immer sagte, daß sie noch mal Unglück über Deutschland bringen würden.",
+      "questions": [
+        {
+          "question": "Wo lebt Belle seit ihrer Hochzeit?",
+          "choices": [
+            "In Paris.",
+            "Auf Lulinn.",
+            "In Berlin.",
+            "In Petersburg."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mit wem ist Belle verheiratet?",
+          "choices": [
+            "Mit ihrem Cousin Victor.",
+            "Mit Oberst Julius von Bergstrom.",
+            "Mit einem mittellosen Maler.",
+            "Mit einem russischen Adligen."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie reagiert Ferdinand, wenn er daran denkt, wie seine Enkelin Nicola aufwächst?",
+          "choices": [
+            "Er plant, sie nach Deutschland zu holen.",
+            "Er ist gleichgültig.",
+            "Er verfärbt sich vor Wut.",
+            "Er freut sich über ihr Leben am Zarenhof."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was glaubt Ferdinand über die Russen bzw. Slawen?",
+          "choices": [
+            "Er hält sie für völlig harmlos.",
+            "Er glaubt, sie würden eines Tages Unglück über Deutschland bringen.",
+            "Er hält sie für den Deutschen kulturell überlegen.",
+            "Er bewundert ihre Gastfreundschaft."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "In welchem verwandtschaftlichen Verhältnis steht Nicola zu Ferdinand?",
+          "choices": [
+            "Sie ist seine Nichte.",
+            "Sie ist seine Frau.",
+            "Sie ist seine Enkelin.",
+            "Sie ist seine Tochter."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p004",
+      "text": "In Wien quartierten sie sich bei einer Freundin von Laetitia ein, die verschwiegen und absolut vertrauenswürdig sein sollte. Elsa blieben die Wochen in der dunklen, allzu üppig und beengend eingerichteten Wohnung ein Leben lang als Alptraum im Gedächtnis haften. Es war Mai, die Kirschbäume blühten, die Sonne strahlte, aber Elsa durfte kaum einen Fuß auf die Straße setzen, weil Laetitias Freundin zwar verschwiegen, aber auch überaus prüde war und nicht wollte, daß die Nachbarschaft etwas von dem heimlichen Besuch erfuhr. Elsa lief wie eine gefangene Katze in ihrem Zimmer hin und her, dachte an Manuel und hoffte zu sterben.",
+      "questions": [
+        {
+          "question": "Wo halten sich Elsa und die anderen in diesem Abschnitt auf?",
+          "choices": [
+            "In Petersburg.",
+            "In Wien, bei einer Freundin von Laetitia.",
+            "In Berlin, bei Verwandten.",
+            "Auf Lulinn."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie erinnert sich Elsa später an die Wochen in dieser Wohnung?",
+          "choices": [
+            "Sie erinnert sich kaum daran.",
+            "Als eine der glücklichsten Zeiten ihres Lebens.",
+            "Als langweilig, aber angenehm.",
+            "Als Alptraum."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Warum durfte Elsa kaum die Wohnung verlassen?",
+          "choices": [
+            "Weil Laetitias Freundin prüde war und die Nachbarschaft nichts von dem Besuch erfahren sollte.",
+            "Weil die Straßen gefährlich waren.",
+            "Weil Elsa krank war.",
+            "Weil es die ganze Zeit regnete."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Welcher Kontrast wird in diesem Abschnitt beschrieben?",
+          "choices": [
+            "Der Kontrast zwischen dem blühenden Mai draußen und Elsas Gefangenschaft drinnen.",
+            "Der Kontrast zwischen Elsas Jugend und ihrem Alter.",
+            "Der Kontrast zwischen Wien und Petersburg.",
+            "Der Kontrast zwischen Laetitia und ihrer Freundin."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "An wen denkt Elsa, während sie wie eine gefangene Katze im Zimmer hin und her läuft?",
+          "choices": [
+            "An Victor.",
+            "An Ferdinand.",
+            "An Manuel.",
+            "An Laetitia."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p005",
+      "text": "Jadzia trat ein, in jeder Hand einen großen Krug mit eiskalter Buttermilch. Sie zündete die Kerzen auf dem Tisch an, brachte frisches Brot und eine Schüssel mit Quark. Alle setzten sich. Eine friedvolle Stimmung breitete sich aus, während draußen die Sonne hinter den Hügeln versank: Der einzige, der hin und wieder poltern mußte, war Ferdinand. »Christian und Jorias fehlen. Und Felicia auch. Sie kriegen nichts mehr, wenn sie so unpünktlich kommen.«",
+      "questions": [
+        {
+          "question": "Was bringt Jadzia mit, als sie den Raum betritt?",
+          "choices": [
+            "Wein und Käse.",
+            "Zwei Krüge eiskalte Buttermilch, frisches Brot und Quark.",
+            "Kaffee und Kuchen.",
+            "Suppe und Fleisch."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was tut Jadzia außerdem, bevor sich alle setzen?",
+          "choices": [
+            "Sie deckt den Tisch neu ein.",
+            "Sie öffnet die Fenster.",
+            "Sie ruft die fehlenden Familienmitglieder.",
+            "Sie zündet die Kerzen auf dem Tisch an."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Welche Stimmung herrscht, während draußen die Sonne hinter den Hügeln versinkt?",
+          "choices": [
+            "Eine angespannte, feindselige Stimmung.",
+            "Eine ausgelassene, laute Stimmung.",
+            "Eine traurige, melancholische Stimmung.",
+            "Eine friedvolle Stimmung."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wer ist laut dem Text der einzige, der hin und wieder poltern muß?",
+          "choices": [
+            "Laetitia.",
+            "Victor.",
+            "Ferdinand.",
+            "Jadzia."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Wer fehlt laut Ferdinand noch am Tisch?",
+          "choices": [
+            "Belle und Nicola.",
+            "Laetitia und Domberg.",
+            "Victor und Leo.",
+            "Christian, Jorias und Felicia."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p006",
+      "text": "»Wir werden hier warten. Und wenn wir dich um Hilfe schreien hören, springen wir durchs Fenster«, sagte einer der beiden Begleiter. Sie waren Brüder, Benjamin und Albrecht Lavergne vom Nachbargut Skollna. Albrecht leistete gerade seinen Militärdienst ab, Benjamin war Student in Heidelberg. Die Sommermonate verbrachten sie daheim, und seit Maksim abgereist war, waren sie beinahe jeden Tag mit Felicia zusammen. Als Kinder hatten sie oft zusammen gespielt; später waren sie gemeinsam zu den Jagdgesellschaften in der Rominter Heide geritten, wenn sich dort im Herbst Kaiser und Adel trafen. Heute hatten sie einen Ausflug zum See gemacht und fühlten sich nun ebenso hungrig wie müde und glücklich.",
+      "questions": [
+        {
+          "question": "Was kündigt einer der Begleiter für den Fall an, daß er einen Hilferuf hört?",
+          "choices": [
+            "Er wird die Polizei rufen.",
+            "Er wird die Tür aufbrechen.",
+            "Er wird einfach warten.",
+            "Er wird durchs Fenster springen."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wer sind die beiden Begleiter?",
+          "choices": [
+            "Die Brüder Benjamin und Albrecht Lavergne vom Nachbargut Skollna.",
+            "Zwillinge aus Petersburg.",
+            "Freunde von Manuel.",
+            "Cousins von Ferdinand."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was machen Albrecht und Benjamin gerade in ihrem Leben?",
+          "choices": [
+            "Beide studieren in Heidelberg.",
+            "Beide leisten Militärdienst ab.",
+            "Albrecht leistet Militärdienst ab, Benjamin studiert in Heidelberg.",
+            "Albrecht ist Maler, Benjamin ist Student."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Seit wann verbringen die Brüder beinahe jeden Tag mit Felicia?",
+          "choices": [
+            "Seit dem Tod ihrer Eltern.",
+            "Seit ihrer Kindheit ununterbrochen.",
+            "Seit dem Ausflug zum See.",
+            "Seit Maksim abgereist ist."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Woran nahmen die Brüder und Felicia früher gemeinsam teil, laut dem Text?",
+          "choices": [
+            "An Jagdgesellschaften in der Rominter Heide.",
+            "An Konzerten in Berlin.",
+            "An Universitätsvorlesungen.",
+            "An Reisen nach Petersburg."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p007",
+      "text": "»Ich werde ebenfalls abreisen«, verkündete Elsa, »ich muß natürlich in Berlin sein, wenn Johannes heiratet. Und ich...«Sie brach ab, doch jeder wußte, was sie hatte sagen wollen. Es hätte ihr das Herz gebrochen, ihn nicht mehr zu sehen, ehe der Krieg ausbrach. Christian und Jorias beschlossen nach kurzem Überlegen, sich anzuschließen. Sie hatten die Worte ihres Hauptmannes noch im Gedächtnis, und es schien ihnen, als herrsche jetzt die akute Kriegsgefahr, von der er gesprochen hatte. Elsa bestritt natürlich, daß irgend etwas akut sei. »Ihr bleibt hier und genießt eure Ferien«, sagte sie, »in einem Krieg haben Kinder sowieso nichts zu suchen!«",
+      "questions": [
+        {
+          "question": "Warum muß Elsa nach Berlin abreisen?",
+          "choices": [
+            "Weil sie krank ist.",
+            "Weil der Krieg ausgebrochen ist.",
+            "Weil Johannes heiratet.",
+            "Weil ihre Mutter sie ruft."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was deutet der Text über Elsas Gefühle an, auch wenn sie es nicht ausspricht?",
+          "choices": [
+            "Daß es ihr das Herz gebrochen hätte, ihn nicht mehr zu sehen, ehe der Krieg ausbricht.",
+            "Daß sie erleichtert ist, abreisen zu können.",
+            "Daß sie Angst vor der Heirat hat.",
+            "Daß sie Christian und Jorias nicht mag."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Warum beschließen Christian und Jorias, sich Elsa anzuschließen?",
+          "choices": [
+            "Weil Elsa sie darum bittet.",
+            "Weil sie ihre Ferien in Berlin verbringen wollen.",
+            "Weil ihr Vater es ihnen befiehlt.",
+            "Weil sie sich an die Worte ihres Hauptmanns über die Kriegsgefahr erinnern."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wie reagiert Elsa auf die Sorge der beiden jungen Männer?",
+          "choices": [
+            "Sie stimmt ihnen zu, daß die Gefahr akut ist.",
+            "Sie bestreitet, daß irgend etwas akut sei, und sagt, sie sollen hierbleiben und ihre Ferien genießen.",
+            "Sie schickt sie sofort zum Militär.",
+            "Sie ignoriert ihre Bemerkung völlig."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was ist laut Elsa der Grund, warum die jungen Männer nicht mitkommen sollen?",
+          "choices": [
+            "Weil sie zu jung für die Schule sind.",
+            "Weil ihr Vater dagegen ist.",
+            "Weil Kinder in einem Krieg nichts zu suchen haben.",
+            "Weil sie ihre Prüfungen noch nicht bestanden haben."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p008",
+      "text": "Als einziger war ihr Benjamin Lavergne von Skollna geblieben. Dessen Bruder war vorzeitig in seine Kaserne zurückgekehrt, und Benjamin rang mit sich, ob er sich überhaupt noch für das nächste Semester einschreiben sollte. »Wenn es Krieg gibt, kann ich doch nicht in Heidelberg im Hörsaal sitzen!« sagte er zornig. »Nicht wenn alle anderen kämpfen!« Er warf sich auf den Rücken und starrte in den blauen Sommerhimmel. Er und Felicia hatten einen Ausflug zum See gemacht und dort Federball gespielt. Nun lagen sie müde im Gras. Felicia hatte Schuhe und Strümpfe ausgezogen, ihren Hut an einen Ast gehängt. Gelangweilt zerrieb sie eine Kamillenblüte zwischen den Fingern. »Jetzt fang nicht schon wieder damit an«, sagte sie, »es ist ja noch gar nicht raus, ob es Krieg gibt. Ihr Männer könnt es wohl gar nicht erwarten, in die Gewehre der anderen hineinzulaufen!«",
+      "questions": [
+        {
+          "question": "Wer ist als einziger bei Felicia geblieben?",
+          "choices": [
+            "Christian.",
+            "Jorias.",
+            "Benjamin Lavergne von Skollna.",
+            "Manuel."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was ist mit Benjamins Bruder geschehen?",
+          "choices": [
+            "Er ist vorzeitig in seine Kaserne zurückgekehrt.",
+            "Er hat geheiratet.",
+            "Er ist nach Petersburg gereist.",
+            "Er hat sein Studium abgebrochen."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Worüber rang Benjamin mit sich?",
+          "choices": [
+            "Ob er nach Petersburg reisen soll.",
+            "Ob er das Gut seiner Familie übernehmen soll.",
+            "Ob er Felicia um ihre Hand bitten soll.",
+            "Ob er sich noch für das nächste Semester in Heidelberg einschreiben soll."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Was haben Benjamin und Felicia an diesem Tag am See gemacht?",
+          "choices": [
+            "Sie sind geschwommen.",
+            "Sie haben Federball gespielt.",
+            "Sie haben ein Picknick gemacht.",
+            "Sie sind Boot gefahren."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie reagiert Felicia auf Benjamins Sorge wegen eines möglichen Krieges?",
+          "choices": [
+            "Sie sagt, es sei noch nicht entschieden, und wirft den Männern vor, es kaum erwarten zu können, in die Gewehre der anderen zu laufen.",
+            "Sie stimmt ihm sofort zu und macht sich große Sorgen.",
+            "Sie ignoriert ihn völlig und schweigt.",
+            "Sie ermutigt ihn, sich sofort freiwillig zu melden."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p009",
+      "text": "Seine Hand umfaßte ihren Arm, mit der anderen fühlte er ihren Herzschlag unter dem dünnen Stoff ihres Kleides. Irgendwo schrien schrill zwei Finken, eine Flugente hob sich aus dem Schilf am Seeufer. Ihre Flügel zerteilten laut schlagend die Luft. Felicia wich zurück. »Ich hatte eben für einen Augenblick alles vergessen«, sagte sie leise. Die Worte schienen ihr passend, weil sie nichts preisgaben, Benjamin aber die Freiheit ließen herauszuhören, was immer er hören mochte. Er wirkte sehr verletzlich, wie er da vor ihr kauerte. Als er bemerkte, wo seine Hand lag, zog er sie errötend zurück. »Würdest du mich heiraten, Felicia?« fragte er. Wie viele schüchterne Menschen neigte er in mutigen Momenten zu Sprüngen ins kalte Wasser. Felicia, die das die ganze Zeit befürchtet hatte, strich sich die Haare zurück. »Ich mag dich sehr gern, Benjamin, wirklich. Aber ich glaube, ich kenne dich schon zu lange, und deshalb...«",
+      "questions": [
+        {
+          "question": "Was tut Benjamin zu Beginn des Abschnitts?",
+          "choices": [
+            "Er hilft Felicia aufzustehen.",
+            "Er hält ihren Arm und fühlt mit der anderen Hand ihren Herzschlag.",
+            "Er streichelt ihr Haar.",
+            "Er reicht ihr eine Kamillenblüte."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was geschieht in der Natur, während die beiden zusammen sind?",
+          "choices": [
+            "Ein Gewitter zieht auf.",
+            "Die Sonne geht unter.",
+            "Ein Fischer fährt mit seinem Boot vorbei.",
+            "Zwei Finken schreien schrill, und eine Flugente hebt sich aus dem Schilf."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Warum erscheinen Felicia die Worte »Ich hatte eben für einen Augenblick alles vergessen« passend?",
+          "choices": [
+            "Weil sie genau ausdrücken, was sie fühlt.",
+            "Weil sie Benjamin damit zurückweisen will.",
+            "Weil sie nichts preisgeben, Benjamin aber die Freiheit lassen, herauszuhören, was er will.",
+            "Weil sie ihn eifersüchtig machen will."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was fragt Benjamin Felicia?",
+          "choices": [
+            "Ob sie ihn heiraten würde.",
+            "Ob sie mit ihm nach Heidelberg kommen würde.",
+            "Ob sie ihn liebt.",
+            "Ob sie mit ihm tanzen würde."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie reagiert Felicia auf Benjamins Heiratsantrag?",
+          "choices": [
+            "Sie sagt sofort ja.",
+            "Sie lacht ihn aus.",
+            "Sie verläßt wortlos den Ort.",
+            "Sie sagt, sie möge ihn sehr gern, glaube aber, ihn schon zu lange zu kennen, und bricht den Satz ab."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p010",
+      "text": "Gertrud, die gerade mit Modeste die Treppe hinaufkam, schrie auf. »Das darfst du nicht«, rief sie, und ihrem Gesicht war anzusehen, daß sie bereits überlegte, wie ihr die Rolle der angstvoll daheim wartenden Soldatenfrau stehen würde, »ich sterbe vor Angst, wenn du das tust!« »Ja, Vater, du mußt bleiben!« bat auch Modeste und hängte sich an seinen Arm. Victor blickte äußerst heroisch drein. »Der Ernst der Stunde erfordert von jedem Mann die höchste Treue zu seinem Vaterland«, verkündete er, »und Tapferkeit von jeder Frau. Rußland hat Österreich den Krieg erklärt.« Einen Moment schwiegen alle, dann fragte Modeste: »Aber was hat das mit uns zu tun?«",
+      "questions": [
+        {
+          "question": "Worauf reagiert Gertrud, als sie aufschreit »Das darfst du nicht«?",
+          "choices": [
+            "Auf eine geplante Reise nach Rußland.",
+            "Auf Victors Vorhaben, in den Krieg zu ziehen.",
+            "Auf Modestes ungehorsames Verhalten.",
+            "Auf ein aufziehendes Gewitter."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was verrät der Text über Gertruds Reaktion, obwohl sie vorgibt, vor Angst zu sterben?",
+          "choices": [
+            "Sie ist völlig aufrichtig und denkt nur an Victor.",
+            "Sie plant bereits ihre eigene Abreise.",
+            "Ihrem Gesicht ist anzusehen, daß sie bereits überlegt, wie ihr die Rolle der ängstlich wartenden Soldatenfrau stehen würde.",
+            "Sie ist eigentlich wütend auf Modeste."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Wie verhält sich Modeste gegenüber Victor?",
+          "choices": [
+            "Sie bleibt gleichgültig und schweigt.",
+            "Sie zieht sich zurück und sagt nichts.",
+            "Sie schimpft mit ihm.",
+            "Sie bittet ihn zu bleiben und hängt sich an seinen Arm."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Was verkündet Victor als Grund für den Ernst der Lage?",
+          "choices": [
+            "Rußland hat Österreich den Krieg erklärt.",
+            "Er hat eine neue Arbeitsstelle in Rußland gefunden.",
+            "Er möchte mit Gertrud nach Wien reisen.",
+            "Sein Vater Ferdinand zwingt ihn dazu."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie reagiert Modeste auf Victors Ankündigung?",
+          "choices": [
+            "Sie stimmt ihm begeistert zu.",
+            "Sie beginnt zu weinen und rennt weg.",
+            "Sie fragt, was das mit ihnen zu tun habe.",
+            "Sie verlangt, selbst in den Krieg zu ziehen."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p011",
+      "text": "Ich schlüpfte ins Bad und nahm mir vor, gleich nach dem Frühstück zu verschwinden. Mama hatte mir zwar gestern das Versprechen abgenommen, wenigstens mit ihr und Papa zum Geburtstag am Nachmittag Kaffee zu trinken, aber davor konnte ich mich bestimmt noch drücken. Wo stand geschrieben, dass ein dreißigster Geburtstag unbedingt gefeiert werden musste? Nirgends! Theoretisch ist dieser Anlass im Leben einer Frau ja was Feines. Der Mann ihres Herzens steht nun an ihrer Seite, die Familienplanung ist angelaufen. Na gut, klappt nicht bei allen. Aber wenigstens geht es mit der Karriere steil bergauf. Auf mich traf definitiv weder das eine noch das andere Lebensmodell zu.",
+      "questions": [
+        {
+          "question": "Was nimmt sich die Erzählerin vor, nachdem sie ins Bad geschlüpft ist?",
+          "choices": [
+            "Gleich nach dem Frühstück zu verschwinden.",
+            "Den ganzen Tag im Bett zu bleiben.",
+            "Sofort zu ihren Eltern zu gehen.",
+            "Eine große Geburtstagsfeier zu organisieren."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Welches Versprechen hat die Mutter der Erzählerin abgenommen?",
+          "choices": [
+            "Den ganzen Geburtstag bei den Eltern zu verbringen.",
+            "Eine Rede auf der Feier zu halten.",
+            "Ein Geschenk für die Mutter zu kaufen.",
+            "Am Nachmittag mit ihr und dem Vater zum Geburtstag Kaffee zu trinken."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Welche Haltung hat die Erzählerin zu ihrem dreißigsten Geburtstag?",
+          "choices": [
+            "Sie freut sich riesig auf die Feier.",
+            "Sie sieht keinen Grund, warum er unbedingt gefeiert werden müsste.",
+            "Sie hat die Feier bereits selbst geplant.",
+            "Sie ist traurig, weil niemand an sie denkt."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie beschreibt die Erzählerin das theoretische Idealbild eines dreißigsten Geburtstags einer Frau?",
+          "choices": [
+            "Man reist um die Welt und genießt die Freiheit.",
+            "Man zieht zurück zu den Eltern.",
+            "Der Mann ihres Herzens steht ihr zur Seite, die Familienplanung läuft, und die Karriere geht bergauf.",
+            "Man beginnt ein neues Studium."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Trifft dieses Idealbild laut der Erzählerin auf sie selbst zu?",
+          "choices": [
+            "Ja, beides trifft voll und ganz auf sie zu.",
+            "Nein, weder das eine noch das andere Lebensmodell trifft auf sie zu.",
+            "Nur die Karriere trifft auf sie zu.",
+            "Nur die Beziehung trifft auf sie zu."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p012",
+      "text": "Zur Zeit des Kaisers Augustus, heute vor zweitausend Jahren, haben etwa zweihundert, allerhöchstens dreihundert Millionen Menschen auf der Erde gelebt. Eine genaue Zahl ist einstweilen noch nicht ermittelt worden, sie ist aber auch gar nicht wichtig. Wichtig ist: Die Menschheit hat neunzehn volle Jahrhunderte benötigt, um sich bis zum Jahre 1900 auf 1600 Millionen zu vermehren. Danach aber, vor allem seit dem Ende des Zweiten Weltkrieges, ist die Weltbevölkerung nahezu explodiert, sie hat sich im Laufe des 20. Jahrhunderts auf 6000 Millionen vervierfacht. Es erscheint als sicher, daß wir in der Mitte des 21. Jahrhunderts bei etwa 9000 Millionen stehen werden. Der Raum, der auf der Erdoberfläche pro Person durchschnittlich zur Verfügung steht, wird dann, verglichen mit dem Jahre 1900, auf weniger als ein Fünftel geschrumpft sein. Und dieser Raum ist sehr ungleich verteilt.",
+      "questions": [
+        {
+          "question": "Wie viele Menschen lebten laut dem Text zur Zeit des Kaisers Augustus auf der Erde?",
+          "choices": [
+            "Etwa eine Milliarde.",
+            "Etwa zweihundert bis dreihundert Millionen.",
+            "Etwa fünfzig Millionen.",
+            "Etwa 1600 Millionen."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie lange brauchte die Menschheit, um bis zum Jahr 1900 auf 1600 Millionen anzuwachsen?",
+          "choices": [
+            "Zehn Jahrhunderte.",
+            "Fünf Jahrhunderte.",
+            "Neunzehn volle Jahrhunderte.",
+            "Dreißig Jahrhunderte."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Seit wann hat sich das Bevölkerungswachstum laut dem Text vor allem beschleunigt?",
+          "choices": [
+            "Seit der Zeit des Kaisers Augustus.",
+            "Seit dem Jahr 1900.",
+            "Seit der Mitte des 21. Jahrhunderts.",
+            "Vor allem seit dem Ende des Zweiten Weltkrieges."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Auf wie viele Millionen hat sich die Weltbevölkerung im Laufe des 20. Jahrhunderts vervierfacht?",
+          "choices": [
+            "Auf 6000 Millionen.",
+            "Auf 1600 Millionen.",
+            "Auf 9000 Millionen.",
+            "Auf 300 Millionen."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was wird laut dem Text mit dem verfügbaren Raum pro Person bis zur Mitte des 21. Jahrhunderts geschehen?",
+          "choices": [
+            "Er wird sich verdoppeln.",
+            "Er wird, verglichen mit 1900, auf weniger als ein Fünftel schrumpfen.",
+            "Er wird gleich bleiben.",
+            "Er wird auf die Hälfte schrumpfen."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p013",
+      "text": "Auch das Bevölkerungswachstum ist von Kontinent zu Kontinent höchst unterschiedlich. Zu Beginn des 21. Jahrhunderts leben sechzig Prozent aller Menschen in Asien, 14 Prozent in Afrika, zwölf Prozent in Europa, neun Prozent in Lateinamerika und fünf Prozent in Nordamerika. Aber bis zum Jahre 2050 werden sich die Afrikaner verdoppeln, die Zahl der Asiaten wird auf das Anderthalbfache ansteigen; die in Latein- und in Nordamerika lebenden Menschen werden an Zahl ein wenig zunehmen. Einzig die Zahl der Europäer wird schrumpfen; ihr Anteil an der Menschheit wird auf rund sieben Prozent zurückgehen, während der Anteil der Afrikaner auf über zwanzig Prozent steigen wird. Die Zahl der Kinder pro gebärfähiger Frau hat in Europa einen historischen Tiefpunkt erreicht.",
+      "questions": [
+        {
+          "question": "Wie hoch ist laut dem Text der Anteil Asiens an der Weltbevölkerung zu Beginn des 21. Jahrhunderts?",
+          "choices": [
+            "Vierzig Prozent.",
+            "Zwölf Prozent.",
+            "Sechzig Prozent.",
+            "Achtzig Prozent."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Welcher Kontinent wird laut Prognose bis 2050 als einziger an Bevölkerungszahl verlieren?",
+          "choices": [
+            "Afrika.",
+            "Asien.",
+            "Nordamerika.",
+            "Europa."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wie wird sich die Zahl der Afrikaner laut Text bis 2050 verändern?",
+          "choices": [
+            "Sie wird sich verdoppeln.",
+            "Sie wird sich verdreifachen.",
+            "Sie wird um die Hälfte sinken.",
+            "Sie wird ungefähr gleich bleiben."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Auf welchen Anteil wird der europäische Bevölkerungsanteil laut Prognose bis 2050 zurückgehen?",
+          "choices": [
+            "Auf rund zwanzig Prozent.",
+            "Auf rund sieben Prozent.",
+            "Auf rund zwölf Prozent.",
+            "Auf rund drei Prozent."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was hat laut dem Text in Europa einen historischen Tiefpunkt erreicht?",
+          "choices": [
+            "Die Lebenserwartung.",
+            "Die Zahl der Eheschließungen.",
+            "Die Zahl der Kinder pro gebärfähiger Frau.",
+            "Die Zahl der Einwanderer."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p014",
+      "text": "Alle diese Probleme sind in Europa weitgehend ungelöst, aber sie werden an Gewicht noch zunehmen. Aufgrund der durch die Überalterung der europäischen Gesellschaften eingetretenen Krise der herkömmlichen Alterssicherung rückt daher eine neue Frage immer stärker in den Mittelpunkt: Brauchen wir Einwanderer mit traditionell höheren Geburtenraten, um unsere sozialen Sicherungssysteme finanziell aufrechterhalten zu können – oder müssen wir statt dessen einen Umbau der Altersversorgung vornehmen und uns auf längere Lebensarbeitszeiten einrichten?",
+      "questions": [
+        {
+          "question": "Wie werden die im Text angesprochenen Probleme laut dem Autor in Zukunft?",
+          "choices": [
+            "Sie werden sich von selbst lösen.",
+            "Sie werden unwichtiger werden.",
+            "Sie betreffen nur Nordamerika.",
+            "Sie werden an Gewicht zunehmen, obwohl sie bisher ungelöst sind."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wodurch wird laut Text die Krise der herkömmlichen Alterssicherung ausgelöst?",
+          "choices": [
+            "Durch die Überalterung der europäischen Gesellschaften.",
+            "Durch die Migration aus Afrika.",
+            "Durch die sinkenden Steuern.",
+            "Durch die Digitalisierung der Wirtschaft."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Welche zwei möglichen Lösungen stellt der Text als Frage gegenüber?",
+          "choices": [
+            "Höhere Steuern oder weniger Sozialleistungen.",
+            "Mehr Einwanderer mit höheren Geburtenraten oder ein Umbau der Altersversorgung mit längeren Lebensarbeitszeiten.",
+            "Auswanderung der älteren Bevölkerung oder mehr Kinder pro Familie.",
+            "Weniger Einwanderung oder frühere Rente."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum könnten laut dem Text Einwanderer für die sozialen Sicherungssysteme wichtig sein?",
+          "choices": [
+            "Weil sie weniger Steuern zahlen müssen.",
+            "Weil sie im Durchschnitt älter sind als Europäer.",
+            "Weil sie traditionell höhere Geburtenraten haben.",
+            "Weil sie keine Rente benötigen."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p015",
+      "text": "Für die nächsten Jahrzehnte kommen Kernenergie, Solarenergie und Windenergie in Betracht; Energie aus Wasserkraft steht nur in seltenen geographischen Ausnahmefällen zur Verfügung. Die westeuropäischen Staaten haben sich bisher für verschiedene Energiepolitiken entschieden: England, Holland und Norwegen verlassen sich auf ihre eigenen Reserven an Kohlenwasserstoffen; Frankreich hat seine Elektrizitätsversorgung weitestgehend auf Kernenergie gestellt; Deutschland ist im Begriff, sowohl auf Kernenergie als auch auf seine eigene – sehr teure – Kohle zu verzichten, und verläßt sich zunehmend auf importierte Kohlenwasserstoffe. Ähnlich verhalten sich die anderen europäischen Staaten; Solarenergie und Windenergie spielen bisher überall eine geringe Rolle. Eine gemeinsame Energiepolitik der Europäischen Union gibt es einstweilen genausowenig wie eine globale Klima- und Energiepolitik. Es ist aber ziemlich sicher, daß im Laufe des Jahrhunderts eine Antwort auf diese Fragen gefunden werden muß.",
+      "questions": [
+        {
+          "question": "Welche Energiequelle kommt laut Text nur in seltenen geographischen Ausnahmefällen in Betracht?",
+          "choices": [
+            "Kernenergie.",
+            "Windenergie.",
+            "Solarenergie.",
+            "Wasserkraft."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Worauf verlassen sich England, Holland und Norwegen laut Text?",
+          "choices": [
+            "Auf importierte Kernenergie.",
+            "Auf Windenergie.",
+            "Auf ihre eigenen Reserven an Kohlenwasserstoffen.",
+            "Auf importierte Kohle."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Worauf hat Frankreich seine Elektrizitätsversorgung weitgehend gestellt?",
+          "choices": [
+            "Auf Kernenergie.",
+            "Auf Solarenergie.",
+            "Auf eigene Kohle.",
+            "Auf importierte Kohlenwasserstoffe."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Worauf verzichtet Deutschland laut Text zunehmend?",
+          "choices": [
+            "Nur auf importierte Kohlenwasserstoffe.",
+            "Sowohl auf Kernenergie als auch auf die eigene, teure Kohle.",
+            "Nur auf Windenergie.",
+            "Auf jegliche Elektrizitätsproduktion im eigenen Land."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was gibt es laut Text bisher weder auf europäischer noch auf globaler Ebene?",
+          "choices": [
+            "Einen gemeinsamen Markt für Kohlenwasserstoffe.",
+            "Eine gemeinsame Währung.",
+            "Einen gemeinsamen Verteidigungspakt.",
+            "Eine gemeinsame Energiepolitik bzw. eine globale Klima- und Energiepolitik."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p016",
+      "text": "Die globale Verfügbarkeit des Wissens und besonders der Technologien wird dazu führen, daß in manchen Entwicklungsländern, vor allem in den sogenannten Schwellenländern, künftig vermehrt Güter industriell gefertigt werden, die dort bisher aus den fortgeschrittenen Industriestaaten importiert wurden. Man wird einen Teil dieser industriellen Produkte erfolgreich exportieren, weil die Löhne und deshalb auch die Preise deutlich niedriger sind als in den alten Industriestaaten. Diese billigere Konkurrenz bringt die Unternehmen, die Arbeitsplätze und den Lebensstandard in den Industriestaaten unter Kostendruck – zunächst im Bereich der einfachen Konsumgüter, aber zunehmend auch auf den Märkten der Investitionsgüter. Schon lange haben zum Beispiel südkoreanische Schiffbauer den deutschen, den amerikanischen und sogar den japanischen Schiffbau von den Weltmärkten verdrängt; ähnlich haben indische Software-Ingenieure einen hohen Anteil am Weltmarkt erobert.",
+      "questions": [
+        {
+          "question": "Was wird laut Text die globale Verfügbarkeit von Wissen und Technologie bewirken?",
+          "choices": [
+            "Daß die Industriestaaten ihre Technologieführerschaft weiter ausbauen.",
+            "Daß Schwellenländer künftig vermehrt Güter selbst herstellen, die sie bisher importiert haben.",
+            "Daß der Welthandel insgesamt zurückgeht.",
+            "Daß Entwicklungsländer auf Industrieproduktion verzichten."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum können Schwellenländer laut Text ihre industriellen Produkte erfolgreich exportieren?",
+          "choices": [
+            "Weil sie bessere Rohstoffe besitzen.",
+            "Weil ihre Produkte technisch überlegen sind.",
+            "Weil die Industriestaaten ihnen Exportsubventionen zahlen.",
+            "Weil ihre Löhne und Preise deutlich niedriger sind als in den alten Industriestaaten."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Worauf wirkt sich die billigere Konkurrenz laut Text zunächst aus?",
+          "choices": [
+            "Auf einfache Konsumgüter.",
+            "Nur auf Investitionsgüter.",
+            "Auf den Bankensektor.",
+            "Auf die Landwirtschaft."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Welches Beispiel nennt der Text für eine Branche, in der südkoreanische Anbieter die alten Industriestaaten verdrängt haben?",
+          "choices": [
+            "Die Automobilindustrie.",
+            "Die Textilindustrie.",
+            "Den Schiffbau.",
+            "Die Stahlproduktion."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "In welchem Bereich haben laut Text indische Fachkräfte einen hohen Marktanteil erobert?",
+          "choices": [
+            "Im Bereich des Schiffbaus.",
+            "Im Bereich der Software-Entwicklung.",
+            "Im Bereich der Textilproduktion.",
+            "Im Bereich der Landwirtschaft."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p017",
+      "text": "Allerdings würde sich kein Zentralbankchef der Welt ein Urteil darüber zutrauen, wie der Wechselkurs zwischen Dollar und Euro oder Yuan in fünf Jahren oder auch nur in fünf Monaten aussehen wird. Zwar hat es von Zeit zu Zeit immer mal wieder Münzverschlechterungen gegeben; aber bis 1914 konnte sich, wer Münzen oder Banknoten großer Staaten besaß, auf deren Gegenwert in Gold oder Silber verlassen, und deshalb blieben auch die Wechselkurse lange stabil. Am Ende des Zweiten Weltkrieges wurde in dem kleinen nordamerikanischen Ort Bretton Woods versucht, ein stabiles Wechselkurssystem herzustellen: Der Wert jeder Währung wurde in US-Dollars festgelegt, der Wert des Dollars selbst aber in Gold. Nach einem Vierteljahrhundert brach dieses System wegen der von den Kosten des Vietnam-Krieges ausgelösten Schwäche des Dollars schrittweise zusammen. Die USA druckten zu viele Dollarscheine, sie lösten die Dollars aber nicht mehr in Gold ein, und alsbald verfielen die Wechselkurse. Seit den frühen siebziger Jahren schwimmen (floaten) die Wechselkurse frei in der Weltgeschichte umher. So haben wir den Dollar-Wechselkurs ursprünglich bei vier D-Mark erlebt, später bei 1,40, dann wieder bei 3,30; im Sommer 2004 stand er bei 0,80 Euro, das entsprach 1,60 DM.",
+      "questions": [
+        {
+          "question": "Warum würde sich laut Text kein Zentralbankchef ein Urteil über zukünftige Wechselkurse zutrauen?",
+          "choices": [
+            "Weil die Wechselkurse gesetzlich festgelegt sind.",
+            "Weil es keine Zentralbanken mehr gibt.",
+            "Weil niemand vorhersagen kann, wie der Wechselkurs in fünf Jahren oder auch nur in fünf Monaten aussehen wird.",
+            "Weil der Goldstandard noch gilt."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Worauf konnte man sich laut Text bis 1914 bei Münzen und Banknoten großer Staaten verlassen?",
+          "choices": [
+            "Auf eine feste Kopplung an den Dollar.",
+            "Auf staatliche Garantien ohne Edelmetalldeckung.",
+            "Auf internationale Handelsabkommen.",
+            "Auf deren Gegenwert in Gold oder Silber."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Was wurde beim Bretton-Woods-System festgelegt?",
+          "choices": [
+            "Der Wert jeder Währung in US-Dollar, der Wert des Dollars selbst in Gold.",
+            "Ein fester Wechselkurs aller Währungen zueinander ohne Bezug zu Gold.",
+            "Eine gemeinsame Weltwährung.",
+            "Der Wert aller Währungen in Silber."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wodurch wurde laut Text der schrittweise Zusammenbruch des Bretton-Woods-Systems ausgelöst?",
+          "choices": [
+            "Durch eine weltweite Wirtschaftskrise in den 1980er Jahren.",
+            "Durch die Einführung des Euro.",
+            "Durch die von den Kosten des Vietnam-Kriegs ausgelöste Schwäche des Dollars.",
+            "Durch einen Beschluß der Vereinten Nationen."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Wie haben sich die Wechselkurse seit den frühen siebziger Jahren laut Text entwickelt?",
+          "choices": [
+            "Sie sind seitdem staatlich fest vorgegeben.",
+            "Sie floaten (schwanken) seitdem frei.",
+            "Sie sind seitdem an Gold gebunden geblieben.",
+            "Sie werden seitdem von der UNO festgelegt."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p018",
+      "text": "In dem Jahrzehnt nach Auflösung der Sowjetunion war zunächst ein weltweiter Rückgang der Militärausgaben zu verzeichnen, am stärksten wohl in Rußland (und anderen Nachfolgestaaten der Sowjetunion) und in Europa. Diese erfreuliche Entwicklung hat sich dann jedoch umgekehrt, und im Jahre 2002 erreichten die globalen Militärausgaben wieder das Niveau des Jahres 1992. Auch die Zahl der bewaffneten Konflikte, der Toten und Verletzten hat nicht abgenommen. Großwaffensysteme wie Flugzeuge, Panzer, Raketen oder Artillerie spielen in diesen Konflikten, verglichen mit den Wirkungen der Kleinwaffen, nur eine untergeordnete Rolle. Drei Viertel aller zivilen Opfer sind durch Handfeuerwaffen, Maschinenpistolen, Gewehre und Handgranaten getötet oder verletzt worden.",
+      "questions": [
+        {
+          "question": "Was geschah in dem Jahrzehnt nach Auflösung der Sowjetunion zunächst mit den weltweiten Militärausgaben?",
+          "choices": [
+            "Sie stiegen stark an.",
+            "Sie blieben unverändert.",
+            "Sie wurden weltweit verboten.",
+            "Sie gingen zunächst zurück, am stärksten in Rußland und Europa."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Was geschah mit den globalen Militärausgaben im Jahr 2002?",
+          "choices": [
+            "Sie erreichten wieder das Niveau des Jahres 1992.",
+            "Sie sanken auf einen historischen Tiefstand.",
+            "Sie verdoppelten sich gegenüber 1992.",
+            "Sie wurden erstmals veröffentlicht."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie hat sich laut Text die Zahl der bewaffneten Konflikte, Toten und Verletzten entwickelt?",
+          "choices": [
+            "Sie ist deutlich gesunken.",
+            "Sie hat nicht abgenommen.",
+            "Sie ist auf null zurückgegangen.",
+            "Sie wird im Text nicht erwähnt."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Welche Rolle spielen Großwaffensysteme wie Flugzeuge, Panzer und Artillerie laut Text in diesen Konflikten?",
+          "choices": [
+            "Die entscheidende, dominierende Rolle.",
+            "Überhaupt keine Rolle mehr.",
+            "Nur eine untergeordnete Rolle, verglichen mit Kleinwaffen.",
+            "Eine größere Rolle als früher."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Wodurch sind laut Text drei Viertel aller zivilen Opfer getötet oder verletzt worden?",
+          "choices": [
+            "Durch Luftangriffe und Bombardierungen.",
+            "Durch Landminen ausschließlich.",
+            "Durch chemische Waffen.",
+            "Durch Handfeuerwaffen, Maschinenpistolen, Gewehre und Handgranaten."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p019",
+      "text": "Seit Hiroshima und Nagasaki hat kein Staat von einer nuklearen Waffe Gebrauch gemacht. Damals verfügten allein die USA über nukleare Waffen (nicht über Raketen), heute gibt es acht nuklear bewaffnete Staaten. Die Fähigkeit zur Herstellung nuklearer Waffen breitet sich als zwangsläufige Folge der technologischen Globalisierung weiter aus. In mindestens sechzig Staaten verfügt man heute über ausreichende theoretische Kenntnisse, dazu kommen die Gefahren des Diebstahls und des schwarzen Marktes. Der Nichtverbreitungsvertrag ist lückenhaft, zumal die USA und Rußland, welche ihn seit den sechziger Jahren energisch betrieben, sich selbst nicht an alle seine Bestimmungen gehalten haben; durch die Herstellung neuer Nuklearwaffen unterminieren sie den Vertrag. Im übrigen kann ein Staat seine Beteiligung am NPT auch kündigen, wie durch Nordkorea geschehen. Man kann nicht ausschließen, daß sich die Zahl der nuklear bewaffneten Staaten weiter erhöht. Die größere Gefahr liegt wahrscheinlich aber in der Möglichkeit, daß nukleare (oder chemische oder biologische) Massenvernichtungswaffen in die Hände von Terroristen geraten.",
+      "questions": [
+        {
+          "question": "Wie viele nuklear bewaffnete Staaten gibt es laut Text heute?",
+          "choices": [
+            "Acht.",
+            "Zwei.",
+            "Fünf.",
+            "Zwanzig."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Warum breitet sich laut Text die Fähigkeit zur Herstellung nuklearer Waffen weiter aus?",
+          "choices": [
+            "Weil die UNO es fördert.",
+            "Als zwangsläufige Folge der technologischen Globalisierung.",
+            "Weil immer mehr Staaten Öl exportieren.",
+            "Weil der Nichtverbreitungsvertrag dies erlaubt."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum ist der Nichtverbreitungsvertrag laut Text lückenhaft?",
+          "choices": [
+            "Weil er nie von einem Staat unterzeichnet wurde.",
+            "Weil er nur für Entwicklungsländer gilt.",
+            "Weil auch die USA und Rußland sich nicht an alle seine Bestimmungen gehalten und durch neue Nuklearwaffen den Vertrag unterminiert haben.",
+            "Weil er keine Kontrollmechanismen vorsieht."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Welches Land wird als Beispiel dafür genannt, daß ein Staat seine Beteiligung am NPT kündigen kann?",
+          "choices": [
+            "Iran.",
+            "Pakistan.",
+            "Indien.",
+            "Nordkorea."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Worin liegt laut Text wahrscheinlich die größere Gefahr als in der Zunahme nuklear bewaffneter Staaten?",
+          "choices": [
+            "Darin, daß die USA ihre Waffen verkaufen könnten.",
+            "Darin, daß Massenvernichtungswaffen in die Hände von Terroristen geraten könnten.",
+            "Darin, daß die Weltbevölkerung zu schnell wächst.",
+            "Darin, daß der Dollar seinen Wert verliert."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p020",
+      "text": "Es wird oft übersehen, daß der amerikanische Unilateralismus, der nach dem 11. September 2001 offen zutage trat, eine lange Vorgeschichte hat und schon seit vielen Jahren im Vormarsch war. Zur Zeit des Kalten Krieges war es für den Westen ganz natürlich gewesen, daß die USA die führende Rolle einnahmen; sie ergab sich aus dem Kräfteverhältnis, das sich am Ende des Zweiten Weltkrieges unter den Staaten des Westens herausgebildet hatte. Die außerordentliche politische, militärische und finanzielle Hilfe und Führung, die in den ersten beiden Nachkriegsjahrzehnten von Amerika ausgingen, ließen die Vormachtstellung der USA bis in die Mitte der sechziger Jahre als durchaus angemessen erscheinen – Präsident de Gaulle bildete die einzige wichtige Ausnahme. Die besiegten Länder Japan und Westdeutschland waren dankbar, durch die USA in das westliche Allianzsystem einbezogen und geschützt zu sein.",
+      "questions": [
+        {
+          "question": "Was wird laut Text oft übersehen?",
+          "choices": [
+            "Daß der amerikanische Unilateralismus schon lange vor dem 11. September 2001 im Vormarsch war.",
+            "Daß die USA erst nach 2001 eine Führungsrolle übernahmen.",
+            "Daß Europa stets gegen die USA opponierte.",
+            "Daß der Kalte Krieg nie wirklich endete."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Woraus ergab sich laut Text die Führungsrolle der USA während des Kalten Krieges?",
+          "choices": [
+            "Aus einem UN-Beschluß.",
+            "Aus einer Volksabstimmung in Europa.",
+            "Aus dem Kräfteverhältnis, das sich am Ende des Zweiten Weltkriegs unter den westlichen Staaten herausgebildet hatte.",
+            "Aus einem Vertrag mit der Sowjetunion."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Wer bildete laut Text die einzige wichtige Ausnahme, welche die Vormachtstellung der USA nicht als angemessen ansah?",
+          "choices": [
+            "Präsident Churchill.",
+            "Bundeskanzler Adenauer.",
+            "Kaiser Hirohito.",
+            "Präsident de Gaulle."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wie standen Japan und Westdeutschland laut Text zu ihrer Einbeziehung in das westliche Allianzsystem?",
+          "choices": [
+            "Sie lehnten die Einbeziehung entschieden ab.",
+            "Sie waren dankbar, dadurch geschützt zu sein.",
+            "Sie waren völlig gleichgültig.",
+            "Sie forderten sofort ihre Unabhängigkeit von den USA."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

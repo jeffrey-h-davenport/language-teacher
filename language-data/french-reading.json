@@ -1,0 +1,1379 @@
+{
+  "meta": {
+    "language": "French",
+    "languageCode": "fr",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "text": "Du monde de la mode, je ne vois plus ni le glamour ni les paillettes. Désormais, tout n'est qu'épuisement, lassitude, compétition. J'ai compris que je n'étais qu'une image, une femme jetable, un produit proche de sa date de péremption.",
+      "questions": [
+        {
+          "question": "Quel est le thème principal exprimé par le narrateur dans ce texte ?",
+          "choices": [
+            "L'excitation et la joie de travailler dans le milieu de la mode.",
+            "L'admiration pour le luxe et les paillettes du métier.",
+            "La désillusion et la fatigue face à la réalité de l'industrie de la mode.",
+            "L'envie de devenir une créatrice de mode célèbre."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Dans la phrase « je n'étais qu'une image, une femme jetable », que signifie l'expression « femme jetable » dans ce contexte ?",
+          "choices": [
+            "Que la femme est facilement remplaçable et sans importance aux yeux de l'industrie.",
+            "Que la femme doit être lavée après chaque utilisation.",
+            "Que la femme est très utile et précieuse pour l'industrie de la mode.",
+            "Que la femme aime porter des vêtements à usage unique."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quel est le ton dominant de la narratrice lorsqu'elle décrit l'industrie de la mode ?",
+          "choices": [
+            "Optimiste et enthousiaste.",
+            "Désabusé et critique.",
+            "Neutre et purement informatif.",
+            "Amusé et ironique."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "text": "Le fait que sa fille puisse avoir une vie sexuelle l'anéantissait. C'était trop tôt ! Cela remettait en question les projets précis qu'il avait pour elle. Le violon, les études, les différentes professions à envisager : tout était planifié, réglé comme du papier à musique, il ne pouvait y avoir de place pour autre chose…",
+      "questions": [
+        {
+          "question": "Quelle est la réaction du père face à la vie amoureuse de sa fille ?",
+          "choices": [
+            "Il l'accepte car il estime que sa fille est assez grande.",
+            "Il est dévasté, car cela bouleverse ses projets pour elle.",
+            "Il cherche à en discuter ouvertement avec sa fille.",
+            "Il décide d'assouplir les plans qu'il avait établis."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Lequel des éléments suivants faisait partie des projets du père pour sa fille ?",
+          "choices": [
+            "Le violon, les études et différentes options professionnelles.",
+            "Des voyages culturels et des cours de langues étrangères.",
+            "Une seule carrière bien précise dans le domaine artistique.",
+            "Des activités sportives et des études universitaires à l'étranger."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que suggère l'expression « réglé comme du papier à musique » concernant les projets du père ?",
+          "choices": [
+            "Que ses projets étaient centrés uniquement sur la musique et le violon.",
+            "Que ses projets avaient été élaborés en collaboration avec sa fille.",
+            "Que tout était minutieusement organisé et ne laissait aucune place à l'imprévu.",
+            "Que sa fille était destinée à devenir musicienne professionnelle."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Comment peut-on qualifier l'attitude du père dans ce texte ?",
+          "choices": [
+            "Bienveillant et attentif aux désirs de sa fille.",
+            "Inquiet mais prêt à réviser ses attentes.",
+            "Déçu et résigné face aux choix de sa fille.",
+            "Rigide et incapable d'accepter ce qui échappe à son contrôle."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p003",
+      "text": "Sebastian s'installa à sa table de travail et chaussa de fines lunettes avant de s'emparer de la pièce qu'il devait expertiser. C'était un objet assez rare : il avait appartenu à Carlo Bergonzi, le plus doué des élèves de Stradivari. Datant de 1720, il était étonnamment bien conservé et la célèbre maison d'enchères Farasio était décidée à en tirer plus de 1 million de dollars, lors de sa prochaine grande vente d'automne.",
+      "questions": [
+        {
+          "question": "Que fait Sebastian au début du passage avant d'examiner l'objet ?",
+          "choices": [
+            "Il contacte la maison d'enchères Farasio pour discuter du prix.",
+            "Il s'installe à sa table et chausse des lunettes.",
+            "Il consulte des documents sur Carlo Bergonzi.",
+            "Il photographie l'objet sous plusieurs angles."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que prévoit la maison d'enchères Farasio pour cet objet ?",
+          "choices": [
+            "En obtenir plus d'un million de dollars lors de sa grande vente d'automne.",
+            "Le vendre à un musée spécialisé dans les instruments anciens.",
+            "L'exposer au public avant de fixer son prix de réserve.",
+            "Attendre une offre privée d'au moins deux millions de dollars."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qu'est-ce qui est remarquable concernant l'état de l'objet ?",
+          "choices": [
+            "Il a été récemment restauré par un expert reconnu.",
+            "Il porte encore la signature originale de Stradivari.",
+            "Il est étonnamment bien conservé pour un objet datant de 1720.",
+            "Il a été modifié au fil des siècles pour en améliorer la qualité."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quel était le lien entre Carlo Bergonzi et Stradivari selon le texte ?",
+          "choices": [
+            "Bergonzi était le rival commercial le plus redouté de Stradivari.",
+            "Bergonzi avait formé Stradivari au début de sa carrière.",
+            "Bergonzi et Stradivari étaient associés dans la même maison d'enchères.",
+            "Bergonzi était le plus talentueux des élèves de Stradivari."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p004",
+      "text": "Pour sauver ses enfants de ce naufrage et en obtenir la garde, Sebastian avait engagé un spécialiste du divorce et du droit de la famille. Un ténor du barreau qui s'était employé à traîner Nikki plus bas que terre pour l'obliger à renoncer à l'essentiel de ses droits parentaux. Mais les choses s'étaient révélées plus difficiles que prévu. Sebastian avait finalement proposé un accord particulier à sa future ex-femme : il lui abandonnait la garde quasi exclusive de Jeremy en échange de celle de Camille. Pour ne pas risquer de tout perdre en s'engageant dans une bataille juridique, elle avait accepté ce partage.",
+      "questions": [
+        {
+          "question": "Dans quel but Sebastian a-t-il engagé un spécialiste du droit de la famille ?",
+          "choices": [
+            "Pour obtenir une pension alimentaire avantageuse.",
+            "Pour obtenir la garde de ses enfants lors du divorce.",
+            "Pour contraindre Nikki à quitter le domicile familial.",
+            "Pour accélérer les procédures administratives du divorce."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quelle stratégie l'avocat de Sebastian a-t-il employée contre Nikki ?",
+          "choices": [
+            "Proposer rapidement un accord amiable pour éviter un long procès.",
+            "Démontrer devant le tribunal l'instabilité financière de Nikki.",
+            "La discréditer au maximum pour la forcer à abandonner ses droits parentaux.",
+            "Convaincre les enfants de témoigner en faveur de Sebastian."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quel accord Sebastian a-t-il finalement proposé à Nikki ?",
+          "choices": [
+            "La garde quasi exclusive de Jeremy pour Nikki, et celle de Camille pour Sebastian.",
+            "Le partage égal de la garde des deux enfants, semaine par semaine.",
+            "La garde exclusive des deux enfants pour Sebastian, avec droit de visite pour Nikki.",
+            "La garde de Camille pour Nikki, en échange d'une compensation financière."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Pourquoi Nikki a-t-elle accepté l'accord proposé par Sebastian ?",
+          "choices": [
+            "Parce qu'elle estimait que cet arrangement était dans l'intérêt des enfants.",
+            "Parce qu'elle ne souhaitait pas s'occuper des deux enfants seule.",
+            "Parce que son avocat lui avait conseillé d'accepter sans conditions.",
+            "Pour éviter une bataille juridique où elle risquait de tout perdre."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p005",
+      "text": "Son visage était toujours d'une indéniable distinction : pommettes saillantes, nez pointu et regard félin. Mais il y avait chez elle une volonté de dissimuler cette grâce sous une allure faussement négligée. Teints en roux, ses longs cheveux étaient tressés en deux nattes relevées en un chignon informe. Ses yeux verts en amande étaient soulignés de trop de khôl, son corps de liane perdu dans un pantalon bouffant, sa poitrine serrée dans un tee-shirt exagérément décolleté.",
+      "questions": [
+        {
+          "question": "Quelle contradiction le texte met-il en évidence à propos du personnage ?",
+          "choices": [
+            "Elle soigne son apparence avec soin mais reste discrète dans ses choix vestimentaires.",
+            "Elle est belle mais n'en est pas consciente et ne s'en préoccupe pas.",
+            "Elle possède une beauté naturelle indéniable qu'elle cherche délibérément à dissimuler.",
+            "Elle veut paraître élégante mais n'y parvient pas faute de moyens."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Comment les cheveux du personnage sont-ils décrits dans ce texte ?",
+          "choices": [
+            "Teints en roux, longs et tressés en deux nattes formant un chignon informe.",
+            "Courts et naturellement roux, coiffés en un chignon soigné.",
+            "Longs et blonds, laissés librement sur les épaules.",
+            "Noirs et raides, attachés en une simple queue de cheval."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que suggère l'expression « corps de liane » dans ce passage ?",
+          "choices": [
+            "Que le personnage est très grande et athlétique.",
+            "Que le personnage a un corps mince et souple.",
+            "Que le personnage est fragile et souffre de problèmes de santé.",
+            "Que le personnage manque de grâce dans ses mouvements."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que signifie l'expression « allure faussement négligée » dans ce contexte ?",
+          "choices": [
+            "Que le personnage n'accorde aucune importance à son apparence.",
+            "Que sa tenue négligée est le résultat d'un manque de moyens financiers.",
+            "Que sa tenue désordonnée est involontaire et due à la précipitation.",
+            "Que son apparence désordonnée est soigneusement calculée pour masquer sa grâce naturelle."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p006",
+      "text": "Le téléphone de Sebastian vibra dans sa poche. Il regarda l'écran : c'étaient les types de Farasio qui devaient s'inquiéter pour l'expertise de leur violon. – Là, j'ai vraiment commencé à avoir peur, enchaîna Nikki. J'ai voulu aller au commissariat, mais… je n'étais pas certaine que les flics m'auraient prise au sérieux. – Pourquoi ? – Pour être honnête, ce n'est pas la première fois que Jeremy découche…",
+      "questions": [
+        {
+          "question": "Pourquoi les gens de Farasio contactent-ils Sebastian ?",
+          "choices": [
+            "Parce qu'ils s'inquiètent au sujet de l'expertise de leur violon.",
+            "Pour lui proposer d'expertiser un deuxième instrument rare.",
+            "Pour confirmer la date et les modalités de la vente d'automne.",
+            "Pour l'informer que la vente a été reportée à une date ultérieure."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que souhaitait faire Nikki face à sa peur, mais sans en être certaine ?",
+          "choices": [
+            "Appeler Sebastian pour lui faire part de ses inquiétudes.",
+            "Quitter la ville avec Jeremy pour le mettre en sécurité.",
+            "Consulter un avocat spécialisé dans les affaires familiales.",
+            "Se rendre au commissariat pour signaler la situation."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Pourquoi Nikki hésite-t-elle à aller au commissariat ?",
+          "choices": [
+            "Elle craint que la police ne convoque Sebastian et ne complique leur divorce.",
+            "Elle n'est pas certaine que les policiers prendraient sa situation au sérieux.",
+            "Elle pense que Jeremy rentrera à la maison avant qu'ils puissent intervenir.",
+            "Elle a eu une mauvaise expérience avec la police par le passé."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quelle information Nikki révèle-t-elle sur Jeremy à la fin du passage ?",
+          "choices": [
+            "C'est la première fois qu'il rentre aussi tard sans prévenir.",
+            "Il lui avait promis de rentrer avant une certaine heure.",
+            "Il n'en est pas à sa première nuit passée hors du domicile.",
+            "Il a l'habitude de passer la nuit chez des amis avec sa permission."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p007",
+      "text": "Sebastian voyait le tableau. Il ferma les yeux, se massa les paupières et proposa : – Cette fois, c'est moi qui les appelle, mais sans passer par un sous-fifre. Je connais le maire. Sa fille est dans la même classe que Camille et j'ai réparé le violon de sa femme. Je vais lui demander de me mettre en rapport avec… – Attends, tu ne sais pas tout, Sebastian. – Quoi encore ? – Jeremy a déjà eu un petit problème : il a un casier judiciaire. Il resta sans voix et la regarda avec incrédulité. – Tu plaisantes ? Et tu ne m'as jamais mis au courant ? – Il a fait des conneries ces derniers temps.",
+      "questions": [
+        {
+          "question": "Que signifie l'expression « voyait le tableau » dans ce contexte ?",
+          "choices": [
+            "Que Sebastian admirait une œuvre d'art accrochée au mur.",
+            "Que Sebastian regardait attentivement des documents posés sur la table.",
+            "Que Sebastian comprenait clairement la gravité de la situation.",
+            "Que Sebastian imaginait un scénario idéal pour retrouver Jeremy."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Comment Sebastian connaît-il le maire ?",
+          "choices": [
+            "La fille du maire est dans la même classe que Camille et il a réparé le violon de sa femme.",
+            "Le maire est un ancien client de son cabinet d'expertise en instruments rares.",
+            "Il a rencontré le maire lors d'une vente aux enchères organisée par Farasio.",
+            "Il a joué du violon lors d'un événement officiel organisé par la mairie."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quelle information sur Jeremy bouleverse Sebastian dans ce passage ?",
+          "choices": [
+            "Jeremy a fugué à plusieurs reprises au cours de l'année passée.",
+            "Jeremy est surveillé par la police depuis plusieurs semaines.",
+            "Jeremy a menti à ses deux parents sur ses allées et venues.",
+            "Jeremy a un casier judiciaire que Nikki n'avait jamais révélé à Sebastian."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Quelle est la réaction de Sebastian lorsqu'il apprend la nouvelle sur Jeremy ?",
+          "choices": [
+            "Il se met en colère et décide de contacter immédiatement son avocat.",
+            "Il reste sans voix et regarde Nikki avec incrédulité.",
+            "Il accepte la nouvelle calmement et propose aussitôt une solution.",
+            "Il reproche à Nikki d'avoir mal élevé leur fils."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p008",
+      "text": "La chambre de Jeremy bénéficiait des dimensions généreuses offertes par la configuration atypique de l'ancienne usine. C'était une tanière de geek baignant dans un joyeux désordre. Épinglées au mur, des affiches de films cultes : Retour vers le futur, WarGames, L'Aventure intérieure, Tron. Posé contre une cloison, un vélo à pignon fixe. Dans un coin de la pièce, une borne d'arcade Donkey Kong datant des années 1980. Dans la poubelle, une pyramide de boîtes de nuggets, de pizzas surgelées et de canettes de Red Bull. – C'est un bordel indescriptible ! s'exclama Sebastian. Ça lui arrive de ranger sa chambre ? Nikki le fusilla du regard. Elle marqua un instant d'arrêt, puis s'attela à la tâche. Elle ouvrit la penderie : – Apparemment, il a emporté son sac à dos, nota-t-elle.",
+      "questions": [
+        {
+          "question": "Quelle découverte importante Nikki fait-elle à la fin du passage ?",
+          "choices": [
+            "Jeremy semble avoir emporté son sac à dos, suggérant un départ intentionnel.",
+            "La fenêtre de la chambre est ouverte, laissant penser à une fuite précipitée.",
+            "Le téléphone de Jeremy est resté sur son bureau, ce qui inquiète davantage Nikki.",
+            "Le lit de Jeremy n'a pas été défait, indiquant qu'il n'a pas dormi chez lui."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que signifie l'expression « tanière de geek » pour décrire la chambre de Jeremy ?",
+          "choices": [
+            "Que la chambre est parfaitement rangée selon un système très précis.",
+            "Qu'il s'agit d'un espace caractéristique d'un passionné de technologie et de culture populaire.",
+            "Que la chambre est sombre et peu confortable, comme une grotte.",
+            "Que Jeremy partage sa chambre avec des amis accros aux jeux vidéo."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Comment Nikki réagit-elle à la remarque de Sebastian sur le désordre de la chambre ?",
+          "choices": [
+            "Elle acquiesce et commence à ranger la chambre avec lui.",
+            "Elle lui explique calmement que Jeremy traverse une période difficile.",
+            "Elle lui lance un regard noir avant de se mettre à fouiller la chambre.",
+            "Elle éclate en sanglots et s'effondre sur le lit de Jeremy."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Lequel des éléments suivants se trouve dans la chambre de Jeremy ?",
+          "choices": [
+            "Une collection de vinyles et une chaîne hi-fi des années 1980.",
+            "Des maquettes de voitures de course accrochées au plafond.",
+            "Une guitare électrique posée contre un amplificateur.",
+            "Une borne d'arcade Donkey Kong datant des années 1980."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p009",
+      "text": "Avec une certaine tristesse, il se rendit à l'évidence : il ne connaissait pas son fils. Et cela ne tenait pas au fait qu'il le voyait peu : ces dernières années, leurs rapports viraient au dialogue de sourds. Il n'y avait même plus d'opposition. Seulement de l'indifférence. Considérant que Jeremy n'était pas le fils qu'il aurait voulu avoir, parce qu'il ressemblait trop à sa mère, Sebastian s'était désintéressé de son évolution, de ses études, de ses aspirations. Lentement, mais sûrement, il avait jeté l'éponge, sans grande culpabilité.",
+      "questions": [
+        {
+          "question": "À quelle prise de conscience Sebastian arrive-t-il dans ce passage ?",
+          "choices": [
+            "Qu'il a consacré trop peu de temps à sa fille Camille ces dernières années.",
+            "Qu'il ne connaît pas vraiment son fils, malgré leur lien de parenté.",
+            "Que Jeremy est la cause principale de l'échec de son mariage avec Nikki.",
+            "Qu'il aurait dû consulter un thérapeute familial bien plus tôt."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quelle est la raison principale pour laquelle Sebastian s'est désintéressé de Jeremy ?",
+          "choices": [
+            "Il estime que Jeremy ressemble trop à sa mère pour être le fils qu'il aurait voulu avoir.",
+            "Jeremy a explicitement rejeté toute relation avec son père après le divorce.",
+            "Les aspirations de Jeremy lui semblent trop éloignées de ses propres valeurs.",
+            "Sebastian est trop absorbé par son travail pour s'investir dans leur relation."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qu'est-ce qui caractérise la relation entre Sebastian et Jeremy selon ce passage ?",
+          "choices": [
+            "Une hostilité ouverte qui éclate régulièrement en disputes violentes.",
+            "Une rivalité silencieuse fondée sur leur trop grande ressemblance.",
+            "Non plus de l'opposition, mais une indifférence totale l'un envers l'autre.",
+            "Une affection discrète que Sebastian ne parvient pas à exprimer."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Que signifie l'expression « dialogue de sourds » pour décrire les rapports entre Sebastian et Jeremy ?",
+          "choices": [
+            "Qu'ils communiquent principalement par écrit pour éviter les confrontations.",
+            "Que leurs disputes sont si violentes qu'ils finissent par ne plus s'entendre.",
+            "Que Sebastian refuse systématiquement d'écouter les demandes de Jeremy.",
+            "Que leurs échanges sont sans véritable écoute mutuelle, chacun restant sur ses positions."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p010",
+      "text": "Sebastian s'empara du notebook, y connecta le disque dur et en explora le contenu. Le périphérique débordait de films et de fichiers musicaux téléchargés sur Internet. Apparemment, Jeremy était un fan acharné d'un groupe de rock, The Shooters. Sebastian visionna quelques secondes de la captation d'un de leurs concerts : du garage rock un peu bourrin, pâle imitation des Strokes ou des Libertines. – Tu connais cette daube ? – C'est un groupe de Brooklyn autoproduit, précisa Nikki. Jeremy les suit souvent en concert. Misère… pensa-t-il en écoutant les paroles.",
+      "questions": [
+        {
+          "question": "Que contient principalement le disque dur de Jeremy ?",
+          "choices": [
+            "Des films et des fichiers musicaux téléchargés sur Internet.",
+            "Des documents scolaires et des projets personnels non terminés.",
+            "Des enregistrements vidéo de concerts filmés par Jeremy lui-même.",
+            "Des logiciels de création musicale et des maquettes de compositions."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quelle information Nikki donne-t-elle sur le groupe The Shooters ?",
+          "choices": [
+            "Que le groupe vient d'être signé par un grand label américain.",
+            "Que c'est un groupe autoproduit de Brooklyn que Jeremy suit souvent en concert.",
+            "Que Jeremy a rencontré les membres du groupe lors d'un festival.",
+            "Que le groupe joue principalement dans les clubs parisiens."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Comment Sebastian qualifie-t-il la musique des Shooters après en avoir écouté quelques secondes ?",
+          "choices": [
+            "Un rock alternatif innovant qui renouvelle le genre.",
+            "Un style musical complexe et difficile à classer.",
+            "Du garage rock un peu grossier, pâle imitation des Strokes ou des Libertines.",
+            "Une musique trop commerciale et entièrement sans originalité."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Que révèle l'emploi du mot « daube » par Sebastian ?",
+          "choices": [
+            "Que Sebastian reconnaît le talent du groupe mais n'apprécie pas le style.",
+            "Que Sebastian est surpris que ce groupe soit connu au-delà de Brooklyn.",
+            "Que Sebastian pense que Jeremy pourrait faire de meilleurs choix musicaux.",
+            "Que Sebastian juge la musique du groupe de très mauvaise qualité."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p011",
+      "text": "Il ignora la recommandation de son ex-femme, alluma sa clope et tira une longue bouffée de tabac avant de se masser les paupières. Tenaillé par une inquiétude sourde, il fit mentalement le point sur ce que lui avait appris la fouille de la chambre de son fils. Jeremy avait menti en demandant à passer la nuit chez son copain Simon alors qu'il savait que celui-ci était en voyage d'études. Puis il était parti en emportant son sac à dos et son passeport, ce qui laissait supposer un voyage lointain, peut-être même en avion. Enfin, il n'avait pris avec lui ni son téléphone ni la carte de crédit que lui prêtait sa mère : les deux « mouchards » grâce auxquels n'importe quel service de police aurait pu tracer ses déplacements et remonter sa piste…",
+      "questions": [
+        {
+          "question": "Pourquoi Jeremy n'a-t-il emporté ni son téléphone ni la carte de crédit de sa mère ?",
+          "choices": [
+            "Pour éviter d'être localisé et tracé par les services de police.",
+            "Parce que sa mère lui avait retiré ces privilèges avant son départ.",
+            "Parce qu'il prévoyait de se procurer de l'argent liquide à destination.",
+            "Pour ne pas risquer de les perdre durant un long voyage."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que fait Sebastian malgré la recommandation de son ex-femme ?",
+          "choices": [
+            "Il appelle directement le commissariat de police.",
+            "Il allume une cigarette pour tenter de calmer son inquiétude.",
+            "Il repart fouiller la chambre de Jeremy une deuxième fois.",
+            "Il contacte le maire pour obtenir de l'aide."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "En quoi le mensonge de Jeremy concernant Simon est-il révélateur ?",
+          "choices": [
+            "Il prouve que Simon était complice du plan de Jeremy depuis le début.",
+            "Il montre que Jeremy souhaitait passer une nuit ordinaire loin de chez lui.",
+            "Il indique que Jeremy avait choisi délibérément une excuse que personne ne pourrait vérifier sur le moment.",
+            "Il révèle que Jeremy et Simon avaient prévu de voyager ensemble à l'étranger."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qu'est-ce que le passeport emporté par Jeremy laisse supposer ?",
+          "choices": [
+            "Que Jeremy avait besoin d'une pièce d'identité pour s'inscrire dans un hôtel.",
+            "Que Jeremy prévoyait de renouveler son passeport durant son absence.",
+            "Que Jeremy avait prévu de rejoindre Simon dans son voyage d'études.",
+            "Que Jeremy envisageait un voyage lointain, peut-être à l'étranger en avion."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p012",
+      "text": "Les yeux de Nikki s'embuèrent et une boule se forma dans sa gorge. Une peur lancinante, de plus en plus vive, s'était installée dans son ventre. Intelligent et débrouillard, son fils était aussi beaucoup trop naïf et lunaire. Qu'il vole ne lui plaisait pas. Qu'il ait disparu la terrifiait !",
+      "questions": [
+        {
+          "question": "Quels signes physiques décrivent l'état émotionnel de Nikki au début du passage ?",
+          "choices": [
+            "Elle tremble et ne parvient plus à articuler un seul mot.",
+            "Ses yeux s'embuent et une boule se forme dans sa gorge.",
+            "Elle pâlit brusquement et doit s'asseoir pour ne pas tomber.",
+            "Elle pleure à chaudes larmes sans pouvoir se retenir."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Comment Nikki perçoit-elle la personnalité de son fils dans ce passage ?",
+          "choices": [
+            "Comme un adolescent irresponsable et peu digne de confiance.",
+            "Comme un garçon courageux mais impulsif qui agit sans réfléchir.",
+            "Comme un enfant intelligent et débrouillard, mais trop naïf et dans la lune.",
+            "Comme un jeune homme mature et capable de se défendre seul."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Que signifie l'expression « une peur lancinante » dans ce contexte ?",
+          "choices": [
+            "Une peur soudaine et passagère qui disparaît rapidement.",
+            "Une peur que Nikki parvient à contrôler grâce à son sang-froid.",
+            "Une peur partagée également par Sebastian et Nikki.",
+            "Une peur persistante et douloureuse qui s'intensifie progressivement."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Quelle distinction Nikki établit-elle entre le fait que Jeremy vole et le fait qu'il ait disparu ?",
+          "choices": [
+            "Le vol la déçoit profondément, mais la disparition la terrifie bien davantage.",
+            "Le vol lui semble inexcusable, tandis que la disparition lui paraît compréhensible.",
+            "Elle accepte les deux avec résignation, convaincue que Jeremy reviendra.",
+            "Elle est aussi choquée par l'un que par l'autre, sans hiérarchie entre les deux."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p013",
+      "text": "Perché au-dessus des maisons, à bonne distance de Manhattan, on dominait le bruit et l'agitation de la ville. Une colonie d'abeilles, pressée de faire ses dernières provisions avant l'hiver, bourdonnait autour d'une ruche. Filtrés par les arbustes, les rayons du soleil coloraient d'une lumière blonde une petite citerne de bois prise dans une armature rouillée.",
+      "questions": [
+        {
+          "question": "Quel effet les rayons du soleil filtrés par les arbustes produisent-ils sur la petite citerne de bois ?",
+          "choices": [
+            "Ils la baignent dans une lumière dorée.",
+            "Ils projettent des ombres mouvantes sur sa surface.",
+            "Ils font ressortir la rouille de l'armature qui l'entoure.",
+            "Ils réchauffent la citerne au point de faire évaporer son contenu."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que font les abeilles décrites dans ce passage ?",
+          "choices": [
+            "Elles construisent une nouvelle ruche dans les arbustes environnants.",
+            "Elles se pressent de constituer leurs dernières réserves avant l'hiver.",
+            "Elles profitent du soleil pour polliniser les dernières fleurs de la saison.",
+            "Elles abandonnent leur ruche en prévision des grands froids à venir."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "D'où provient le point de vue décrit au début du passage ?",
+          "choices": [
+            "Au niveau de la rue, dans un quartier calme à l'écart du centre.",
+            "Dans un appartement donnant directement sur le cœur de Manhattan.",
+            "En hauteur, au-dessus des maisons, à bonne distance de Manhattan.",
+            "Sur un pont surplombant la rivière qui longe Manhattan."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quel contraste le passage met-il en évidence ?",
+          "choices": [
+            "L'opposition entre la modernité des gratte-ciels et la vétusté des maisons environnantes.",
+            "La différence entre l'activité frénétique des abeilles et l'inertie de la nature automnale.",
+            "Le contraste entre la chaleur du soleil et la fraîcheur annoncée par l'approche de l'hiver.",
+            "L'opposition entre la tranquillité de ce lieu en hauteur et l'agitation urbaine en contrebas."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p014",
+      "text": "– Qu'est-ce que tu entreposes là-dedans ? – Rien, répondit-elle un peu trop rapidement. Enfin, seulement des outils. Il la dévisagea avec méfiance. Il n'avait pas oublié l'inflexion particulière que prenait sa voix lorsqu'elle mentait. Et c'était le cas. Il écarta les pans de toile et jeta un coup d'œil dans la tente. À l'abri des regards, une dizaine de plants de cannabis poussaient dans des pots en terre. L'abri était équipé d'un matériel perfectionné : rangées de lampes au sodium, systèmes de climatisation et d'arrosage automatique, sacs d'engrais et produits horticoles dernier cri.",
+      "questions": [
+        {
+          "question": "Que nous apprend l'expression « à l'abri des regards » concernant les plants de cannabis ?",
+          "choices": [
+            "Qu'ils sont intentionnellement dissimulés pour ne pas être vus de l'extérieur.",
+            "Qu'ils nécessitent une obscurité totale pour pousser correctement.",
+            "Qu'ils sont trop fragiles pour être exposés à la lumière naturelle.",
+            "Qu'ils se trouvent dans un endroit difficile d'accès même pour leur propriétaire."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Comment « il » parvient-il à deviner qu'elle lui ment ?",
+          "choices": [
+            "Il remarque qu'elle évite de le regarder dans les yeux en répondant.",
+            "Il se souvient de l'inflexion particulière que prend sa voix quand elle ment.",
+            "Il constate qu'elle hésite longuement avant de donner sa réponse.",
+            "Il entend un bruit suspect provenant de la tente au moment où elle parle."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que suggère la sophistication de l'équipement trouvé dans la tente ?",
+          "choices": [
+            "Que le matériel a été installé récemment par plusieurs personnes à la fois.",
+            "Que la tente est utilisée à des fins légales mais nécessite un équipement spécialisé.",
+            "Que la culture du cannabis est organisée de façon méthodique et professionnelle.",
+            "Que le propriétaire de la tente est un professionnel reconnu dans le domaine horticole."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Que découvre-t-il en écartant les pans de toile de la tente ?",
+          "choices": [
+            "Des caisses d'outils de jardinage soigneusement rangées.",
+            "Un laboratoire équipé d'appareils électroniques sophistiqués.",
+            "Des sacs d'engrais et du matériel de stockage ordinaire.",
+            "Une dizaine de plants de cannabis cultivés dans des pots en terre."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p015",
+      "text": "Dans un accès de fureur, il la saisit à la gorge et la plaqua contre une étagère métallique. – Si, de près ou de loin, tu as mêlé mon fils à tes trafics, je te briserai, tu comprends ? Il resserra sa prise, enfonçant ses deux pouces pour lui comprimer les voies respiratoires. – Tu comprends ? répéta-t-il. Elle suffoquait et ne put rien répondre. Dépassé par la colère et le ressentiment, il accentua encore sa pression. – Jure-moi que la disparition de Jeremy n'a rien à voir avec tes histoires de dope !",
+      "questions": [
+        {
+          "question": "Que suggère la présence du mot « ressentiment » pour décrire l'état émotionnel de « il » ?",
+          "choices": [
+            "Que sa colère ne se limite pas à la situation présente, mais est nourrie de rancœurs plus anciennes.",
+            "Qu'il regrette aussitôt son geste violent et cherche à se justifier.",
+            "Qu'il est conscient d'agir de manière irrationnelle mais ne peut pas se contrôler.",
+            "Que son ressentiment est dirigé contre lui-même autant que contre elle."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que signifie l'expression « de près ou de loin » dans la menace qu'il lui adresse ?",
+          "choices": [
+            "Qu'il surveille ses activités depuis longtemps, de près comme de loin.",
+            "Que Jeremy aurait été impliqué dans ses trafics, directement ou indirectement.",
+            "Qu'il parle de contacts passés entre Jeremy et elle à différentes occasions.",
+            "Que les trafics dont il parle s'étendent sur plusieurs quartiers de la ville."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pourquoi ne peut-elle pas répondre à ses questions ?",
+          "choices": [
+            "Elle est trop effrayée pour trouver ses mots face à sa violence.",
+            "Elle refuse délibérément de lui répondre pour le provoquer davantage.",
+            "Il comprime ses voies respiratoires, l'empêchant de parler.",
+            "Elle a perdu connaissance sous l'effet de la pression exercée sur sa gorge."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qu'est-ce qu'il exige qu'elle lui jure à la fin du passage ?",
+          "choices": [
+            "Qu'elle lui dira où se trouve Jeremy dès qu'elle le saura.",
+            "Qu'elle cessera immédiatement toute activité de trafic de drogue.",
+            "Qu'elle n'a jamais rencontré Jeremy en dehors du domicile familial.",
+            "Que la disparition de Jeremy n'a aucun lien avec ses affaires de drogue."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p016",
+      "text": "– Je te déconseille les spécialités d'Amérique du Sud, prévint Nikki. Par défi, il ignora cette mise en garde et commanda une portion de ceviche, un plat péruvien à base de poisson cru mariné. – À quoi il ressemble, ce Thomas ? demanda-t-il alors que la cloche retentissait pour annoncer la fin des cours et qu'un flot d'élèves se déversait sur le trottoir. – Je te ferai signe, répondit-elle en plissant les yeux pour ne pas rater la sortie de l'adolescent. Sebastian paya sa commande et goûta son poisson. Il en avala une bouchée. La marinade pimentée lui brûla aussitôt la trachée, lui arrachant une grimace. – Je t'avais prévenu, soupira Nikki.",
+      "questions": [
+        {
+          "question": "Pour quelle raison Sebastian commande-t-il le ceviche malgré la mise en garde de Nikki ?",
+          "choices": [
+            "Parce qu'il a l'habitude de manger des plats épicés et ne craint pas la marinade.",
+            "Parce qu'il veut goûter à toutes les spécialités disponibles sur place.",
+            "Par défi, pour montrer qu'il n'a pas à suivre les conseils de son ex-femme.",
+            "Parce qu'il n'a pas bien entendu la mise en garde de Nikki."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quelle est la réaction de Sebastian lorsqu'il goûte le ceviche ?",
+          "choices": [
+            "Il trouve le plat délicieux malgré la mise en garde de Nikki.",
+            "La marinade pimentée lui brûle la trachée et lui arrache une grimace.",
+            "Il recrache discrètement sa bouchée sans que Nikki ne le remarque.",
+            "Il avale sa commande sans réaction mais admet que Nikki avait raison."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Qu'est-ce que le ceviche, tel qu'il est décrit dans ce passage ?",
+          "choices": [
+            "Un plat péruvien à base de poisson cru mariné.",
+            "Une spécialité brésilienne à base de viande épicée.",
+            "Un plat mexicain à base de légumes marinés dans du citron.",
+            "Une soupe péruvienne servie froide avec des fruits de mer."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Pourquoi Nikki plisse-t-elle les yeux pendant qu'ils attendent ?",
+          "choices": [
+            "La marinade épicée de son propre plat lui irrite les yeux.",
+            "Elle reconnaît Thomas et cherche à attirer discrètement son attention.",
+            "Le soleil de l'après-midi l'éblouit et l'empêche de voir correctement.",
+            "Elle cherche à ne pas rater la sortie de Thomas parmi le flot d'élèves."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p017",
+      "text": "– Le voilà ! s'exclama Nikki en désignant un jeune homme dans la foule. – C'est lequel ? Le boutonneux ou la petite tête à claques ? – Tu me laisses parler, d'accord ? – On verra… Jean slim, lunettes Wayfarer, veste noire étriquée, air désinvolte, tignasse savamment décoiffée, chemise blanche ouverte sur un torse fluet : Thomas prenait grand soin de son apparence. Chaque matin, il devait passer des heures dans sa salle de bains, affinant par petites touches son image de rockeur juvénile. Nikki le rattrapa devant le terrain de basket grillagé. – Hé ! Thomas !",
+      "questions": [
+        {
+          "question": "Que signifie l'expression « tignasse savamment décoiffée » pour décrire Thomas ?",
+          "choices": [
+            "Que son apparence négligée est en réalité le résultat d'un soin minutieux et calculé.",
+            "Que Thomas a les cheveux naturellement ébouriffés et ne les coiffe jamais.",
+            "Que Thomas est sorti trop vite ce matin-là et n'a pas eu le temps de se coiffer.",
+            "Que Thomas porte une coiffure typique des jeunes de son quartier."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que révèle la réplique de Sebastian (« le boutonneux ou la petite tête à claques ? ») sur son attitude ?",
+          "choices": [
+            "Qu'il est incapable de distinguer les jeunes les uns des autres dans une foule.",
+            "Qu'il porte un regard moqueur et peu bienveillant sur les adolescents.",
+            "Qu'il est impatient de rentrer et ne souhaite pas prolonger la rencontre.",
+            "Qu'il reconnaît Thomas mais fait semblant de ne pas le voir."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Pourquoi Nikki dit-elle à Sebastian « Tu me laisses parler » ?",
+          "choices": [
+            "Elle craint que Sebastian ne révèle trop d'informations sur la disparition de Jeremy.",
+            "Elle sait que Sebastian a tendance à intimider les gens sans le vouloir.",
+            "Elle veut conduire l'échange avec Thomas sans que Sebastian n'interfère maladroitement.",
+            "Elle pense que Thomas sera plus à l'aise si c'est une femme qui lui parle en premier."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quelle image Thomas cherche-t-il à projeter selon le narrateur ?",
+          "choices": [
+            "Celle d'un étudiant sérieux et appliqué, attentif à son image professionnelle.",
+            "Celle d'un sportif décontracté, parfaitement à l'aise dans son environnement.",
+            "Celle d'un artiste bohème qui se moque totalement de son apparence.",
+            "Celle d'un jeune rockeur à l'allure nonchalante, construite avec soin chaque matin."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p018",
+      "text": "Sebastian regarda l'adolescent plus attentivement. Il n'aimait ni le ton ni l'allure de ce petit merdeux qui portait des bagues gothiques, des chapelets de nacre et des bracelets. Il masqua toutefois son hostilité pour demander : – Tu n'as aucune idée d'où il pourrait être ? Thomas se tourna vers Nikki. – C'est qui, celui-là ? – Je suis le pape, espèce de petit con ! L'ado eut un mouvement de recul, mais se fit un peu plus bavard : – Ces derniers temps, on se voyait moins. Jerem' séchait toutes les répétitions de notre groupe. – Pourquoi ? – Il préférait jouer au poker.",
+      "questions": [
+        {
+          "question": "Quelle nouvelle information Thomas révèle-t-il sur Jeremy ?",
+          "choices": [
+            "Jeremy séchait les répétitions du groupe et préférait jouer au poker.",
+            "Jeremy avait rompu son amitié avec Thomas plusieurs semaines auparavant.",
+            "Jeremy projetait de quitter le groupe pour monter sa propre formation musicale.",
+            "Jeremy avait confié à Thomas son intention de partir à l'étranger."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Comment Thomas réagit-il après l'éclat de Sebastian ?",
+          "choices": [
+            "Il prend la fuite sans répondre à aucune de leurs questions.",
+            "Il se montre un peu plus bavard et livre de nouvelles informations.",
+            "Il exige des excuses avant de poursuivre la conversation.",
+            "Il se tourne vers Nikki en la suppliant de calmer Sebastian."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quelle est la réaction de Sebastian lorsque Thomas lui demande qui il est ?",
+          "choices": [
+            "Il se présente calmement comme le père de Jeremy pour ne pas l'effrayer.",
+            "Il laisse Nikki répondre à sa place, conformément à leur accord.",
+            "Il répond de manière sarcastique et agressive, le traitant de « petit con ».",
+            "Il ignore la question et continue à interroger Thomas sur Jeremy."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Qu'est-ce qui déplaît à Sebastian chez Thomas dès le premier regard ?",
+          "choices": [
+            "Sa façon de se tenir à l'écart des autres élèves à la sortie des cours.",
+            "Son manque apparent d'intérêt pour la disparition de Jeremy.",
+            "Ses résultats scolaires médiocres dont Nikki l'avait informé.",
+            "Son ton, son allure et ses accessoires gothiques — bagues, chapelets et bracelets."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p019",
+      "text": "Sebastian ne découvrait pas la Lune. Cela faisait plus de vingt ans qu'il collaborait avec des artistes : des êtres capricieux, tourmentés, perclus de doutes. Des interprètes aussi instables que géniaux. Des musiciens à l'ego surdimensionné qui mettaient un point d'honneur à travailler avec le meilleur luthier. Et le meilleur, c'était lui ! En moins de deux décennies, il avait fait de Larabee & Son la lutherie la plus réputée des États-Unis. Plus qu'une habileté, on lui reconnaissait un véritable don, une ouïe exceptionnelle et une empathie sincère envers ses clients, qui lui permettaient de leur proposer des instruments parfaitement adaptés à leur personnalité et à leur jeu.",
+      "questions": [
+        {
+          "question": "Quelles qualités permettent à Sebastian de proposer des instruments parfaitement adaptés à ses clients ?",
+          "choices": [
+            "Une ouïe exceptionnelle et une empathie sincère envers ses clients.",
+            "Une formation académique rigoureuse et une connaissance encyclopédique des instruments.",
+            "Une habileté technique incomparable et une rapidité d'exécution remarquable.",
+            "Une longue expérience de la scène musicale et des liens privilégiés avec les maisons de disques."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Comment les artistes avec lesquels Sebastian collabore sont-ils décrits dans ce passage ?",
+          "choices": [
+            "Comme des professionnels rigoureux, exigeants mais faciles à satisfaire.",
+            "Comme des êtres capricieux, tourmentés, instables mais géniaux, à l'ego surdimensionné.",
+            "Comme des musiciens modestes qui n'accordent guère d'importance à leur instrument.",
+            "Comme des clients fidèles et reconnaissants envers le talent de Sebastian."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que nous apprend l'expression « ne découvrait pas la Lune » sur Sebastian ?",
+          "choices": [
+            "Qu'il n'avait jamais eu l'occasion de voyager et de découvrir le monde des artistes.",
+            "Qu'il était souvent dépassé par les exigences extravagantes de ses clients.",
+            "Que la fréquentation d'artistes capricieux ne lui apprenait rien de nouveau.",
+            "Qu'il était lui-même un artiste frustré qui enviait le talent de ses clients."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quel accomplissement professionnel Sebastian a-t-il réalisé en moins de deux décennies ?",
+          "choices": [
+            "Devenir le fournisseur exclusif d'instruments pour les plus grands orchestres américains.",
+            "Former une nouvelle génération de luthiers au sein de son atelier Larabee & Son.",
+            "Publier plusieurs ouvrages de référence sur la facture instrumentale aux États-Unis.",
+            "Faire de Larabee & Son la lutherie la plus réputée des États-Unis."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p020",
+      "text": "Nikki raccrocha et le rejoignit sans mot dire. Elle enfourcha la moto, mit les gaz, fit vrombir le moteur avant de partir en trombe vers les docks. Visage balayé par le vent, fesses et dents serrées, Sebastian s'agrippait à son siège. Il avait oublié son imperméable à l'appartement et grelottait dans son costume élégant, mais léger. Contrairement à son ex-femme, il était plutôt casanier. Pas aventurier pour un sou, il préférait le confort cossu de sa Jaguar au supplice de ce tape-cul.",
+      "questions": [
+        {
+          "question": "Pourquoi Sebastian grelotte-t-il durant le trajet à moto ?",
+          "choices": [
+            "La vitesse de la moto rend le trajet particulièrement éprouvant par grand vent.",
+            "Il souffre d'une maladie qui le rend très sensible au froid.",
+            "Il a oublié son imperméable à l'appartement et son costume est trop léger.",
+            "Nikki est partie si brusquement qu'il n'a pas eu le temps de se préparer."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quel contraste le passage établit-il entre Nikki et Sebastian ?",
+          "choices": [
+            "Nikki est une femme d'action et d'aventure, tandis que Sebastian est un homme casanier qui préfère le confort.",
+            "Nikki conduit prudemment, tandis que Sebastian l'incite à accélérer pour arriver plus vite.",
+            "Nikki est silencieuse et fermée, tandis que Sebastian cherche à engager la conversation.",
+            "Nikki est indifférente au froid, tandis que Sebastian a pensé à se couvrir avant de partir."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que révèle l'expression « pas aventurier pour un sou » sur la personnalité de Sebastian ?",
+          "choices": [
+            "Qu'il est trop économe pour se permettre des activités aventureuses.",
+            "Qu'il a renoncé à l'aventure depuis un incident qui l'a profondément marqué.",
+            "Qu'il était autrefois aventurier, mais que l'âge l'a rendu plus prudent.",
+            "Qu'il n'a absolument aucun goût pour l'aventure et préfère la sécurité du confort."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Comment Sebastian supporte-t-il le trajet en moto vers les docks ?",
+          "choices": [
+            "Excité par la vitesse, mais inquiet à l'idée d'arriver trop tard.",
+            "Mal à l'aise et transi de froid, agrippé à son siège, le visage balayé par le vent.",
+            "Parfaitement à l'aise, admirant le paysage urbain qui défile devant lui.",
+            "Agacé par la conduite de Nikki mais résigné à supporter le trajet en silence."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p021",
+      "text": "J'ai ainsi vécu seul, sans personne avec qui parler véritablement, jusqu'à une panne dans le désert du Sahara, il y a six ans. Quelque chose s'était cassé dans mon moteur. Et comme je n'avais avec moi ni mécanicien, ni passagers, je me préparai à essayer de réussir, tout seul, une réparation difficile. C'était pour moi une question de vie ou de mort. J'avais à peine de l'eau à boire pour huit jours.",
+      "questions": [
+        {
+          "question": "Quelle était la situation du narrateur avant la panne dans le désert ?",
+          "choices": [
+            "Il voyageait régulièrement en compagnie d'un mécanicien expérimenté.",
+            "Il vivait seul, sans personne avec qui parler véritablement.",
+            "Il effectuait une mission officielle à travers plusieurs pays.",
+            "Il attendait depuis longtemps une occasion de traverser le Sahara."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que s'est-il passé dans le désert du Sahara il y a six ans ?",
+          "choices": [
+            "Quelque chose s'est cassé dans le moteur du narrateur, le forçant à s'arrêter.",
+            "Le narrateur a rencontré un autre voyageur qui l'a aidé à surmonter ses difficultés.",
+            "Une tempête de sable a endommagé son véhicule et l'a contraint à faire demi-tour.",
+            "Le narrateur a manqué d'eau et a dû attendre des secours pendant plusieurs jours."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quel détail souligne le mieux la gravité de la situation du narrateur ?",
+          "choices": [
+            "L'immensité du désert du Sahara qui l'entourait de toutes parts.",
+            "L'absence totale de toute habitation dans un rayon de plusieurs kilomètres.",
+            "Il ne disposait que d'à peine suffisamment d'eau pour survivre huit jours.",
+            "L'impossibilité de contacter qui que ce soit pour obtenir de l'aide."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Pourquoi la réparation était-elle particulièrement difficile à effectuer pour le narrateur ?",
+          "choices": [
+            "La chaleur du désert l'empêchait de travailler plus de quelques minutes d'affilée.",
+            "Les pièces nécessaires n'étaient pas compatibles avec son moteur.",
+            "Il ignorait complètement comment fonctionne un moteur de ce type.",
+            "Il se trouvait seul, sans mécanicien ni passager pour l'assister."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p022",
+      "text": "Je regardai donc cette apparition avec des yeux tout ronds d'étonnement. N'oubliez pas que je me trouvais à mille milles de toute région habitée. Or mon petit bonhomme ne me semblait ni égaré, ni mort de fatigue, ni mort de faim, ni mort de soif, ni mort de peur. Il n'avait en rien l'apparence d'un enfant perdu au milieu du désert, à mille milles de toute région habitée. Quand je réussis enfin à parler, je lui dis: -Mais qu'est-ce que tu fais là? Et il me répéta alors, tout doucement, comme une chose très sérieuse: -S'il vous plaît...dessine-moi un mouton...",
+      "questions": [
+        {
+          "question": "Comment le narrateur réagit-il en voyant cette apparition inattendue ?",
+          "choices": [
+            "Il se mit à courir vers elle en appelant à l'aide.",
+            "Il resta sans voix, croyant à une hallucination causée par la chaleur.",
+            "Il sortit immédiatement un carnet pour noter ce qu'il voyait.",
+            "Il la regarda avec des yeux tout ronds d'étonnement."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Qu'est-ce qui étonna le narrateur dans l'apparence du petit bonhomme ?",
+          "choices": [
+            "Il n'avait pas du tout l'air d'un enfant perdu et en danger.",
+            "Il portait des habits inadaptés à la chaleur du désert.",
+            "Il semblait connaître parfaitement les environs du désert.",
+            "Il était beaucoup plus âgé que ce que le narrateur imaginait."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que dit le narrateur au petit bonhomme quand il réussit enfin à parler ?",
+          "choices": [
+            "Il lui demanda d'où il venait et comment il avait trouvé cet endroit.",
+            "Il lui demanda ce qu'il faisait là.",
+            "Il lui proposa de l'eau et de la nourriture en premier lieu.",
+            "Il l'avertit qu'ils se trouvaient très loin de toute région habitée."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Que demanda le petit bonhomme au narrateur, de manière très sérieuse ?",
+          "choices": [
+            "Comment rentrer chez lui le plus vite possible.",
+            "Où trouver de l'eau dans ce désert immense.",
+            "De lui dessiner un mouton.",
+            "Si le narrateur pouvait le ramener dans une région habitée."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p023",
+      "text": "Car l'hiver arrivait. Les jours raccourcissaient, et au cours de la nuit le givre grimpait le long des vitres. Bientôt, la neige tomberait. Alors, la maison serait enfouie sous les congères, le lac et les ruisseaux gèleraient. Et par ce froid rigoureux, Papa ne serait pas sûr de rapporter du gibier. Les ours iraient se cacher dans leur caverne où ils dormiraient profondément de longs mois durant. Les écureuils se blottiraient dans les arbres creux, le nez dans leur queue. Les cerfs, les biches et les lapins se sauveraient à la moindre alerte. Et même si Papa pouvait abattre un cerf, celui-ci serait maigre au lieu d'être grassouillet comme à l'automne.",
+      "questions": [
+        {
+          "question": "Quels signes annoncent l'arrivée de l'hiver dans ce passage ?",
+          "choices": [
+            "Les feuilles tombent des arbres et les oiseaux migrent vers le sud.",
+            "Les jours raccourcissent et le givre monte le long des vitres la nuit.",
+            "Le vent se lève et les nuages s'accumulent au-dessus du lac.",
+            "Les animaux commencent à fuir vers des régions plus chaudes."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Comment les ours réagissent-ils face à l'arrivée de l'hiver ?",
+          "choices": [
+            "Ils cherchent de la nourriture en s'approchant des maisons.",
+            "Ils migrent vers des forêts plus denses pour se protéger du froid.",
+            "Ils se blottissent dans les arbres creux avec les écureuils.",
+            "Ils se cachent dans leur caverne pour y dormir de longs mois."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Pourquoi Papa aurait-il du mal à rapporter du gibier en hiver ?",
+          "choices": [
+            "Les animaux seraient rares, craintifs et trop maigres pour valoir la peine.",
+            "La neige rendrait les déplacements dans la forêt impossibles.",
+            "Les lois interdiraient la chasse pendant les mois d'hiver.",
+            "Le froid serait si rigoureux qu'il ne pourrait pas sortir de la maison."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quelle différence le narrateur souligne-t-il entre un cerf d'automne et un cerf d'hiver ?",
+          "choices": [
+            "Le cerf d'hiver est plus difficile à chasser car il fuit plus vite.",
+            "Le cerf d'automne a un pelage plus épais qui le protège du froid.",
+            "Le cerf d'hiver serait maigre, contrairement au cerf grassouillet d'automne.",
+            "Le cerf d'automne vit en groupe alors que celui d'hiver est solitaire."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p024",
+      "text": "Mais mieux encore que cette vessie, il y avait la queue du cochon. Papa l'avait soigneusement dépouillée et avait enfoncé un bâton pointu dans l'extrémité la plus large. Maman ouvrit la porte du fourneau et ratissa les braises jusqu'au bord du foyer. Alors Laura et Marie tinrent à tour de rôle la queue au-dessus des braises. Elle grillait en grésillant et des gouttes de graisse tombaient et s'enflammaient sur les charbons rouges. Puis Maman mit du sel dessus. On avait les mains et le visage très chauds et Laura se brûla même le doigt, elle était si excitée qu'elle n'y fit presque pas attention. C'était tellement amusant de griller cette queue de cochon qu'elles renâclaient un peu lorsque l'une devait laisser son tour à l'autre.",
+      "questions": [
+        {
+          "question": "Comment Papa avait-il préparé la queue du cochon avant de la faire griller ?",
+          "choices": [
+            "Il l'avait coupée en petits morceaux et assaisonnée avec du sel et des herbes.",
+            "Il l'avait mise à tremper dans de l'eau froide pour la nettoyer.",
+            "Il l'avait soigneusement dépouillée et y avait enfoncé un bâton pointu.",
+            "Il l'avait enveloppée dans un chiffon humide pour la garder fraîche."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Comment Laura et Marie faisaient-elles griller la queue du cochon ?",
+          "choices": [
+            "Elles la tenaient à tour de rôle au-dessus des braises.",
+            "Elles la posaient directement sur les charbons rouges du fourneau.",
+            "Elles la suspendaient au-dessus du feu à l'aide d'une ficelle.",
+            "Elles la faisaient tourner rapidement pour qu'elle cuise uniformément."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que se passait-il pendant que la queue grillait au-dessus des braises ?",
+          "choices": [
+            "Une odeur agréable se répandait dans toute la maison et attirait les voisins.",
+            "La queue changeait de couleur et devenait croustillante très rapidement.",
+            "Maman devait souffler sur les braises pour maintenir la chaleur nécessaire.",
+            "Des gouttes de graisse tombaient sur les charbons et s'enflammaient en grésillant."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Pourquoi les filles renâclaient-elles lorsqu'elles devaient laisser leur tour à l'autre ?",
+          "choices": [
+            "Parce qu'elles avaient peur de se brûler les doigts comme Laura l'avait déjà fait.",
+            "Parce que griller cette queue était tellement amusant qu'elles ne voulaient pas s'arrêter.",
+            "Parce qu'elles craignaient que la queue ne brûle si une autre personne la tenait.",
+            "Parce qu'elles voulaient chacune manger la plus grande part possible."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p025",
+      "text": "Les glaçons tintent dans le verre et l'alcool danse, telles des vagues s'échouant sur un rocher. Paul avale une gorgée de whisky et jette un regard à sa montre. Vingt heures trente. Luna devrait être là depuis une demi-heure. Que fait-elle ? D'un geste, il hèle la serveuse et commande un deuxième verre. Non, il ne souhaite pas manger pour le moment, il consultera la carte des plats lorsque sa femme sera là.",
+      "questions": [
+        {
+          "question": "Où se trouve Paul au début de ce passage ?",
+          "choices": [
+            "Dans un restaurant ou un bar, attendant quelqu'un.",
+            "Chez lui, regardant par la fenêtre en attendant sa femme.",
+            "Dans son bureau, travaillant tard le soir.",
+            "Dans la rue, cherchant un taxi pour rejoindre sa femme."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Depuis combien de temps Luna est-elle en retard lorsque Paul regarde sa montre ?",
+          "choices": [
+            "Dix minutes à peine, ce qui l'inquiète peu.",
+            "Une heure entière, ce qui le met dans une colère noire.",
+            "Une demi-heure, alors qu'elle aurait dû être là à vingt heures.",
+            "Quelques minutes seulement, mais Paul est très impatient."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Que décide de faire Paul en attendant Luna ?",
+          "choices": [
+            "Il appelle Luna sur son téléphone pour savoir où elle est.",
+            "Il commande un deuxième verre sans manger pour l'instant.",
+            "Il demande l'addition et décide de partir sans elle.",
+            "Il demande à la serveuse si elle a aperçu une femme correspondant à Luna."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quel lien unit Paul et Luna dans ce passage ?",
+          "choices": [
+            "Ce sont des collègues qui se retrouvent pour un dîner d'affaires.",
+            "Ce sont des amis de longue date qui ne se sont pas vus depuis des années.",
+            "Ce sont des voisins qui partagent parfois un repas ensemble.",
+            "Luna est la femme de Paul."
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p026",
+      "text": "Il est tout juste huit heures quand la sonnerie de son téléphone le réveille. Sans prendre la peine de regarder qui est l'auteur de cet appel, Paul saisit son portable, le coupe et le jette sur la table basse. Les vertèbres en compote, les membres engourdis et les yeux encore collés par le sommeil sont le lot gagnant d'une nuit passée affalé sur le canapé, encore vêtu de son pantalon et de sa chemise complètement froissée.",
+      "questions": [
+        {
+          "question": "Que fait Paul lorsque son téléphone sonne à huit heures du matin ?",
+          "choices": [
+            "Il décroche et répond d'une voix endormie.",
+            "Il regarde le nom de l'appelant avant de décider de répondre.",
+            "Il coupe l'appel sans regarder qui appelle et jette le téléphone sur la table basse.",
+            "Il laisse le téléphone sonner jusqu'au bout sans y toucher."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Où Paul a-t-il passé la nuit ?",
+          "choices": [
+            "Dans sa chambre à coucher, mais dans une position inconfortable.",
+            "Affalé sur le canapé, encore habillé de ses vêtements de la veille.",
+            "Chez un ami, après être rentré très tard.",
+            "Dans sa voiture, après avoir oublié de rentrer chez lui."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quels sont les signes physiques qui témoignent de la mauvaise nuit de Paul ?",
+          "choices": [
+            "Il a mal à la tête et la nausée à cause de l'alcool de la veille.",
+            "Il est trop fatigué pour se lever et reste immobile sur le canapé.",
+            "Il frissonne de froid car il avait oublié d'allumer le chauffage.",
+            "Il a les vertèbres douloureuses, les membres engourdis et les yeux encore collés."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Que révèle la tenue de Paul sur la façon dont il a passé la nuit ?",
+          "choices": [
+            "Il s'était endormi sans se déshabiller, encore en pantalon et chemise froissée.",
+            "Il avait eu le temps de se changer avant de s'effondrer sur le canapé.",
+            "Il portait un pyjama qu'il avait enfilé rapidement avant de s'endormir.",
+            "Il avait gardé son manteau, signe qu'il était rentré très tard dans la nuit."
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p027",
+      "text": "Dix appels manqués. Dix, mais pas un seul de Luna. Paul jette son téléphone sur la table du salon et s'affale dans le canapé Chesterfield en velours vert. Luna lui a cassé les pieds pour acheter ce fichu divan. Il voulait une décoration sobre, mais elle tenait absolument à mettre des touches de couleur partout dans la maison. « Ça donne de la joie de vivre ! », s'entêtait-elle à dire. Il a accepté à une condition : elle choisissait la couleur, tandis qu'il optait pour le modèle. « OK, il faut de l'équité dans un couple, les concessions doivent être faites des deux côtés », a-t-elle conclu gaiement. Ils se sont alors promis de toujours trouver des alternatives qui conviendraient à chacun.",
+      "questions": [
+        {
+          "question": "Qu'est-ce qui inquiète Paul en regardant ses appels manqués ?",
+          "choices": [
+            "Il a raté un appel important de son travail qu'il ne peut pas rappeler.",
+            "Il a reçu dix appels manqués, mais aucun n'est de Luna.",
+            "Tous les appels proviennent d'un numéro inconnu qui l'inquiète.",
+            "Il réalise que sa batterie est presque vide et qu'il ne peut plus appeler Luna."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quel était le désaccord entre Paul et Luna concernant la décoration de la maison ?",
+          "choices": [
+            "Paul voulait acheter des meubles neufs, tandis que Luna préférait les meubles anciens.",
+            "Paul aimait les couleurs vives, mais Luna souhaitait une décoration minimaliste.",
+            "Paul voulait peindre les murs en blanc, mais Luna voulait du papier peint.",
+            "Paul préférait une décoration sobre, tandis que Luna voulait des touches de couleur partout."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Comment Paul et Luna ont-ils résolu leur désaccord sur le canapé ?",
+          "choices": [
+            "Elle choisissait la couleur et lui choisissait le modèle.",
+            "Ils ont laissé un ami décider à leur place pour éviter les conflits.",
+            "Paul a finalement cédé et laissé Luna choisir entièrement le canapé.",
+            "Ils ont tiré au sort pour décider qui aurait le dernier mot."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que révèle la citation de Luna sur sa vision du couple ?",
+          "choices": [
+            "Elle pense que l'un des partenaires doit toujours faire plus de sacrifices que l'autre.",
+            "Elle croit que les couples ne devraient jamais avoir de désaccords sur la décoration.",
+            "Elle estime que l'équité et les concessions mutuelles sont essentielles dans un couple.",
+            "Elle juge que les questions de décoration ne méritent pas de longues discussions."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p028",
+      "text": "Au loin, la grande grille noire se rapproche dangereusement. Luna est là, derrière. Paul se gare à quelques mètres, coupe le moteur et les feux de croisement. Les gouttes explosent sur la tôle dans un boucan monstrueux. Les yeux rivés sur le portail, Paul sort un paquet de cigarettes de la poche de sa veste, en saisit une et l'allume avec un briquet qu'il trouve en tâtonnant le fond de sa boîte à gants. Il aspire une première bouffée de nicotine, ouvre de deux centimètres la fenêtre côté conducteur et laisse s'échapper la fumée nauséabonde. La pluie en profite pour s'infiltrer dans l'habitacle. Qu'importe. Il n'arrive pas à lâcher du regard cette grande grille, digne d'un film d'épouvante, sombre, robuste et aux extrémités pointues. Pourtant, son corps, englué dans le fauteuil en cuir de la berline, refuse de s'aventurer plus loin.",
+      "questions": [
+        {
+          "question": "Comment Paul décrit-il la grande grille noire dans ce passage ?",
+          "choices": [
+            "Elle est rouillée et vétuste, ce qui la rend peu impressionnante.",
+            "Elle est ouverte, ce qui l'invite à entrer mais quelque chose le retient.",
+            "Elle est décorée de motifs en fer forgé qui lui donnent un aspect accueillant.",
+            "Elle est sombre, robuste et aux extrémités pointues, digne d'un film d'épouvante."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Que fait Paul pour se calmer en observant la grille depuis sa voiture ?",
+          "choices": [
+            "Il allume une cigarette et laisse s'échapper la fumée par la fenêtre entrouverte.",
+            "Il écoute de la musique pour tenter de se détendre et rassembler son courage.",
+            "Il appelle quelqu'un sur son téléphone pour lui demander conseil.",
+            "Il tambourine nerveusement sur le volant en fixant la grille."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Quelle difficulté Paul éprouve-t-il malgré la présence de Luna derrière la grille ?",
+          "choices": [
+            "Ses jambes sont trop engourdies après la longue nuit sur le canapé pour marcher.",
+            "La pluie violente l'empêche de sortir de la voiture sans se faire tremper.",
+            "Son corps, englué dans le fauteuil en cuir, refuse de s'aventurer plus loin.",
+            "Il ne trouve pas la poignée de sa portière dans l'obscurité de l'habitacle."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Comment la pluie affecte-t-elle l'intérieur de la voiture de Paul ?",
+          "choices": [
+            "Elle forme une buée épaisse sur les vitres qui l'empêche de voir la grille.",
+            "Elle s'infiltre dans l'habitacle par la fenêtre entrouverte, mais Paul s'en moque.",
+            "Elle fait un bruit assourdissant sur le toit qui l'empêche de réfléchir clairement.",
+            "Elle inonde le plancher de la voiture, forçant Paul à sortir malgré lui."
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p029",
+      "text": "Depuis la cuisine, il la regarde s'avancer vers lui. Elle n'a pas changé et fait toujours plus jeune que son âge, à peine trente ans, alors qu'elle en a déjà trente-six. Le même âge que Luna. Paul a toujours aimé les femmes plus jeunes que lui, c'est d'ailleurs cette attirance qui l'a mené à tomber amoureux à vingt-cinq ans d'une petite blondinette qui venait tout juste de fêter sa majorité. À la différence de sa femme, Éva a des cheveux longs avec une épaisse frange brune qui lui retombe sous les sourcils. Elle mesure un bon mètre soixante-dix, et avec ses beaux yeux marron et son nez fin, elle aurait largement pu devenir mannequin. À défaut, la jeune femme est devenue secrétaire de direction.",
+      "questions": [
+        {
+          "question": "Quel âge a Éva en réalité, et comment paraît-elle ?",
+          "choices": [
+            "Elle a trente-six ans, mais en paraît à peine trente.",
+            "Elle a trente ans, ce qui correspond parfaitement à son apparence.",
+            "Elle a vingt-cinq ans, mais paraît plus vieille en raison de son poste.",
+            "Elle a trente-six ans, le même âge que Paul."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Qu'est-ce que ce passage révèle sur la rencontre de Paul avec Luna ?",
+          "choices": [
+            "Ils se sont rencontrés lors d'une soirée organisée par des amis communs.",
+            "Paul l'a rencontrée au travail alors qu'il était son supérieur hiérarchique.",
+            "Paul est tombé amoureux d'elle lors d'un voyage à l'étranger.",
+            "À vingt-cinq ans, Paul est tombé amoureux d'une petite blondinette qui venait de fêter sa majorité."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Quelle différence physique principale distingue Éva de la femme de Paul ?",
+          "choices": [
+            "Éva est beaucoup plus grande que Luna et a les yeux bleus.",
+            "Éva a des cheveux longs avec une épaisse frange brune, contrairement à la femme de Paul.",
+            "Éva a les yeux verts tandis que Luna a les yeux marron.",
+            "Éva est plus mince que Luna et a un style vestimentaire très différent."
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Quelle carrière Éva a-t-elle choisie, et pourquoi cela surprend-il ?",
+          "choices": [
+            "Elle est devenue actrice, alors que Paul l'imaginait plutôt dans les affaires.",
+            "Elle est devenue cuisinière, alors que ses parents espéraient qu'elle ferait médecine.",
+            "Elle est devenue secrétaire de direction, alors qu'elle aurait largement pu être mannequin.",
+            "Elle est devenue professeure, malgré sa passion pour la mode et le stylisme."
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p030",
+      "text": "Marie était plus grande que Laura et elle avait une poupée de chiffon appelée Nettie. Laura n'avait qu'un épi de maïs enveloppé dans un mouchoir, mais c'était une bonne poupée. Elle s'appelait Suzanne. Ce n'était pas la faute de Suzanne si elle n'était qu'un pauvre épi de maïs. Parfois Marie laissait Laura tenir Nettie, mais seulement lorsque Suzanne ne pouvait pas les voir. Le meilleur moment de la journée, c'était le soir. Après le dîner, Papa allait chercher ses pièges dans l'appentis pour les graisser près du feu. Il les astiquait et enduisait les charnières, les mâchoires et les ressorts de graisse d'ours en s'aidant d'une plume. Il y avait des pièges de toutes tailles : des petits, des moyens, et des gros pour les ours, avec des mâchoires dont les dents pouvaient broyer la jambe d'un homme.",
+      "questions": [
+        {
+          "question": "Quelle était la différence entre les poupées de Marie et de Laura ?",
+          "choices": [
+            "Marie avait une poupée en porcelaine, tandis que Laura avait une poupée en bois sculptée par Papa.",
+            "Marie n'avait pas de poupée, mais elle jouait parfois avec celle de Laura.",
+            "Marie avait une poupée de chiffon appelée Nettie, tandis que Laura n'avait qu'un épi de maïs enveloppé dans un mouchoir.",
+            "Les deux sœurs avaient des poupées identiques, mais de couleurs différentes."
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Dans quelles conditions Marie permettait-elle à Laura de tenir sa poupée Nettie ?",
+          "choices": [
+            "Seulement lorsque Suzanne ne pouvait pas les voir.",
+            "Seulement le dimanche après-midi, quand Papa n'était pas à la maison.",
+            "À condition que Laura lui prête Suzanne en échange pour la même durée.",
+            "Jamais, car Marie était très jalouse de sa poupée Nettie."
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Que faisait Papa le soir après le dîner selon ce passage ?",
+          "choices": [
+            "Il racontait des histoires aux filles autour du feu avant de les mettre au lit.",
+            "Il jouait du violon pour égayer les longues soirées d'hiver en famille.",
+            "Il réparait les meubles et les outils abîmés pendant la journée de travail.",
+            "Il graissait et astiquait ses pièges dans l'appentis puis près du feu."
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Pourquoi les grands pièges à ours étaient-ils particulièrement dangereux ?",
+          "choices": [
+            "Ils étaient si lourds qu'ils pouvaient blesser Papa s'il les laissait tomber.",
+            "Leurs mâchoires dentées pouvaient broyer la jambe d'un homme.",
+            "Ils étaient rouillés et risquaient de se refermer brusquement sans prévenir.",
+            "Leur taille imposante les rendait difficiles à dissimuler dans la forêt."
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

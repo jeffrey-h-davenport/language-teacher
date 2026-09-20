@@ -1,0 +1,1539 @@
+{
+  "meta": {
+    "language": "Czech",
+    "languageCode": "cs",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A2",
+      "text": "Dobrý den. Jmenuji se Anna. Jsem z Ameriky, ale žiju v Praze. Ráno vstávám v sedm hodin. Piju černou kávu a jedím chléb s máslem. Pak jdu do práce. Pracuji v kanceláři. V poledne obědvám v restauraci. Mám rád(a) české jídlo.",
+      "questions": [
+        {
+          "question": "Odkud je Anna?",
+          "choices": [
+            "Z Německa",
+            "Z Ameriky",
+            "Z Francie",
+            "Z Prahy"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "V kolik hodin Anna ráno vstává?",
+          "choices": [
+            "V šest hodin",
+            "V osm hodin",
+            "V sedm hodin",
+            "V devět hodin"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co pije Anna ráno?",
+          "choices": [
+            "Čaj",
+            "Mléko",
+            "Pomerančový džus",
+            "Černou kávu"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kde Anna pracuje?",
+          "choices": [
+            "V kanceláři",
+            "Ve škole",
+            "V restauraci",
+            "V obchodě"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Kde Anna obědvá v poledne?",
+          "choices": [
+            "V kavárně",
+            "Doma",
+            "V restauraci",
+            "Ve škole"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p002",
+      "cefr": "A2",
+      "text": "Toto je můj pokoj. Je velký a světlý. V pokoji je postel, stůl a židle. Na stole je počítač a lampa. Na podlaze je koberec. Vedle stolu je skříň. Ve skříni jsou moje šaty. Mám v pokoji také velkou knihu. Můj pokoj se mi líbí.",
+      "questions": [
+        {
+          "question": "Jaký je pokoj?",
+          "choices": [
+            "Malý a tmavý",
+            "Studený a vlhký",
+            "Malý a světlý",
+            "Velký a světlý"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co je na stole?",
+          "choices": [
+            "Počítač a lampa",
+            "Kniha a sešit",
+            "Talíř a sklenice",
+            "Telefon a hodiny"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co je na podlaze?",
+          "choices": [
+            "Postel",
+            "Koberec",
+            "Skříň",
+            "Židle"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co je ve skříni?",
+          "choices": [
+            "Knihy",
+            "Boty",
+            "Moje šaty",
+            "Talíře"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Líbí se vypravěči jeho pokoj?",
+          "choices": [
+            "Ano, líbí se mu",
+            "Ne, nelíbí se mu",
+            "Je mu to jedno",
+            "Chce jiný pokoj"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p003",
+      "cefr": "A2",
+      "text": "Ahoj, já jsem Tomáš a chci vám představit moji rodinu. Moje manželka se jmenuje Jana, pracuje jako učitelka v základní škole a velmi ji to baví. Máme dvě malé děti, syna Jakuba a dceru Annu. O víkendu nepracujeme, a proto často jezdíme na výlety do přírody nebo navštěvujeme babičku a dědečka. Když je hezké počasí, rádi grilujeme na zahradě, ale když prší, zůstáváme doma a hrajeme deskové hry.",
+      "questions": [
+        {
+          "question": "Jak se jmenuje Tomášova manželka?",
+          "choices": [
+            "Petra",
+            "Jana",
+            "Eva",
+            "Lucie"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kde Jana pracuje?",
+          "choices": [
+            "Jako lékařka",
+            "Jako prodavačka",
+            "Jako sekretářka",
+            "Jako učitelka v základní škole"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kolik dětí mají Tomáš a Jana?",
+          "choices": [
+            "Dvě",
+            "Tři",
+            "Jedno",
+            "Čtyři"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co dělají Tomáš a Jana o víkendu, když je hezké počasí?",
+          "choices": [
+            "Jezdí k moři",
+            "Zůstávají doma",
+            "Grilují na zahradě",
+            "Jdou do kina"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co dělají, když prší?",
+          "choices": [
+            "Jdou na procházku",
+            "Hrají deskové hry doma",
+            "Navštěvují babičku",
+            "Jezdí na výlet"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p004",
+      "cefr": "A2",
+      "text": "Od minulého měsíce mám novou práci v mezinárodní firmě v Brně. Moje kancelář je moderní a světlá, ale bohužel je trochu daleko od mého bytu. Každé ráno musím vstávat brzy, protože jedu autobusem a potom musím jet ještě pět stanic metrem. Moji noví kolegové jsou velmi milí a často mi pomáhají, protože ještě nemluvím perfektně česky. V poledne chodíme společně na oběd do blízké restaurace, kde mají výborné denní menu.",
+      "questions": [
+        {
+          "question": "Kde vypravěč nyní pracuje?",
+          "choices": [
+            "Ve škole v Praze",
+            "V obchodě v Brně",
+            "V bance v Ostravě",
+            "V mezinárodní firmě v Brně"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Proč musí vypravěč vstávat brzy?",
+          "choices": [
+            "Protože jede autobusem a pak metrem",
+            "Protože bydlí daleko od centra",
+            "Protože má ranní schůzku",
+            "Protože musí vzbudit děti"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jací jsou vypravěčovi noví kolegové?",
+          "choices": [
+            "Nepříjemní a nemluvní",
+            "Velmi milí a nápomocní",
+            "Líní a nezodpovědní",
+            "Přísní a chladní"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Proč mu kolegové často pomáhají?",
+          "choices": [
+            "Protože je nový v týmu",
+            "Protože má hodně práce",
+            "Protože ještě nemluví perfektně česky",
+            "Protože je nemocný"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kam chodí v poledne na oběd?",
+          "choices": [
+            "Domů",
+            "Do kanceláře",
+            "Do kavárny",
+            "Do blízké restaurace s dobrým denním menu"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p005",
+      "cefr": "A2",
+      "text": "Jmenuji se Petr. Mám rád sport a hudbu. Ve volném čase hraji fotbal s kamarády. Také rád jezdím na kole. Doma poslouchám hudbu a čtu knihy. O víkendu chodím plavat do bazénu. Moje sestra ráda maluje a tancuje. Večer se dívám na televizi.",
+      "questions": [
+        {
+          "question": "Co má Petr rád?",
+          "choices": [
+            "Sport a hudbu",
+            "Vaření",
+            "Tanec a zpěv",
+            "Cestování"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co Petr dělá ve volném čase s kamarády?",
+          "choices": [
+            "Plave",
+            "Hraje fotbal",
+            "Vaří",
+            "Čte knihy"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co Petr rád dělá doma?",
+          "choices": [
+            "Hraje fotbal",
+            "Jezdí na kole",
+            "Poslouchá hudbu a čte",
+            "Tancuje"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kam Petr chodí o víkendu?",
+          "choices": [
+            "Do kina",
+            "Do obchodu",
+            "Do školy",
+            "Do bazénu"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co ráda dělá Petrova sestra?",
+          "choices": [
+            "Maluje a tancuje",
+            "Hraje fotbal",
+            "Jezdí na kole",
+            "Čte noviny"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p006",
+      "cefr": "A2",
+      "text": "Dnes je krásný den. Svítí slunce a obloha je modrá. V létě je velké horko a často jezdíme k moři. Na podzim prší a fouká vítr. V zimě padá sníh a je velká zima. Na jaře je teplo a kvetou květiny. Moje oblíbené roční období je léto, protože můžu plavat v moři.",
+      "questions": [
+        {
+          "question": "Jaké je dnes počasí?",
+          "choices": [
+            "Prší a je zima",
+            "Svítí slunce a obloha je modrá",
+            "Padá sníh",
+            "Fouká silný vítr"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co se často děje v létě?",
+          "choices": [
+            "Padá sníh",
+            "Prší celý den",
+            "Jezdíme k moři",
+            "Kvetou květiny"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co se děje na podzim?",
+          "choices": [
+            "Je velké horko",
+            "Kvetou květiny",
+            "Svítí slunce celý den",
+            "Prší a fouká vítr"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co se děje v zimě?",
+          "choices": [
+            "Padá sníh a je zima",
+            "Je teplo",
+            "Kvetou květiny",
+            "Jezdíme k moři"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jaké je oblíbené roční období vypravěče?",
+          "choices": [
+            "Podzim",
+            "Léto",
+            "Zima",
+            "Jaro"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p007",
+      "cefr": "A2",
+      "text": "Dnes jdu nakupovat do obchodu. Potřebuji chléb, mléko a vejce. V obchodě je také ovoce a zelenina. Kupuji jablka a banány, protože je mám ráda. Na pokladně platím kartou. Prodavačka je velmi milá. Potom jdu domů a vařím oběd. Oběd je vždycky lepší, když mám čerstvé potraviny.",
+      "questions": [
+        {
+          "question": "Kam dnes vypravěčka jde?",
+          "choices": [
+            "Do školy",
+            "Do restaurace",
+            "Do obchodu",
+            "Do parku"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co vypravěčka potřebuje koupit?",
+          "choices": [
+            "Oblečení",
+            "Knihy",
+            "Nábytek",
+            "Chléb, mléko a vejce"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Proč kupuje jablka a banány?",
+          "choices": [
+            "Protože je má ráda",
+            "Protože jsou levné",
+            "Protože nemá jiné ovoce",
+            "Protože je chce darovat"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jak vypravěčka platí na pokladně?",
+          "choices": [
+            "Hotově",
+            "Kartou",
+            "Šekem",
+            "Neplatí"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co dělá vypravěčka po nákupu?",
+          "choices": [
+            "Jde spát",
+            "Jde do práce",
+            "Jde domů a vaří oběd",
+            "Jde na procházku"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p008",
+      "cefr": "A2",
+      "text": "Mám doma psa. Jmenuje se Rex a je velký a hnědý. Rex je velmi hravý a má rád procházky. Každý den ho venčím ráno a večer. Rex rád běhá v parku a hraje si s míčem. Doma spí v košíku vedle mé postele. Miluji svého psa a jsem moc ráda, že ho mám.",
+      "questions": [
+        {
+          "question": "Jak se jmenuje pes?",
+          "choices": [
+            "Max",
+            "Alík",
+            "Bobík",
+            "Rex"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Jaký je Rex?",
+          "choices": [
+            "Velký a hnědý",
+            "Malý a černý",
+            "Bílý a starý",
+            "Šedý a líný"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Kolikrát denně vypravěčka venčí psa?",
+          "choices": [
+            "Jednou",
+            "Dvakrát, ráno a večer",
+            "Třikrát",
+            "Nikdy"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co Rex rád dělá v parku?",
+          "choices": [
+            "Spí",
+            "Jí trávu",
+            "Běhá a hraje si s míčem",
+            "Štěká na lidi"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kde Rex doma spí?",
+          "choices": [
+            "Na zahradě",
+            "V kuchyni",
+            "Venku před domem",
+            "V košíku vedle postele"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p009",
+      "cefr": "A2",
+      "text": "Bydlím v malém městě na jihu Čech. Naše město má krásné náměstí a starý kostel. Ve městě je také škola, obchod a malá restaurace. Lidé tady jsou milí a přátelští. V neděli chodíme na náměstí a povídáme si se sousedy. Blízko města je les, kam chodíme na procházky. Mám své město moc ráda.",
+      "questions": [
+        {
+          "question": "Kde vypravěčka bydlí?",
+          "choices": [
+            "V malém městě na jihu Čech",
+            "Ve velkém městě na severu",
+            "Na vesnici na Moravě",
+            "V hlavním městě"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co má město na náměstí?",
+          "choices": [
+            "Nádraží",
+            "Starý kostel",
+            "Nemocnici",
+            "Divadlo"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Jací jsou lidé ve městě?",
+          "choices": [
+            "Nepřátelští",
+            "Hluční",
+            "Milí a přátelští",
+            "Líní"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co dělají v neděli?",
+          "choices": [
+            "Jedou na výlet",
+            "Zůstávají doma",
+            "Jdou nakupovat",
+            "Chodí na náměstí a povídají si se sousedy"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co je blízko města?",
+          "choices": [
+            "Moře",
+            "Les",
+            "Hory",
+            "Řeka"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p010",
+      "cefr": "A2",
+      "text": "Večer jdeme s přáteli do restaurace na večeři. Číšník nám přináší jídelní lístek. Já si objednávám polévku a kuřecí maso s rýží. Můj kamarád si dává pizzu a salát. K pití máme vodu a limonádu. Jídlo je velmi dobré a číšník je milý. Na konci platíme účet a dáváme spropitné.",
+      "questions": [
+        {
+          "question": "Kam vypravěč jde večer s přáteli?",
+          "choices": [
+            "Do kina",
+            "Domů",
+            "Do restaurace na večeři",
+            "Do parku"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co přináší číšník?",
+          "choices": [
+            "Účet",
+            "Pití",
+            "Dezert",
+            "Jídelní lístek"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co si vypravěč objednává?",
+          "choices": [
+            "Polévku a kuřecí maso s rýží",
+            "Pizzu a salát",
+            "Sendvič",
+            "Steak"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co si dává kamarád?",
+          "choices": [
+            "Polévku",
+            "Pizzu a salát",
+            "Rybu",
+            "Sushi"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co dělají na konci večeře?",
+          "choices": [
+            "Odcházejí bez placení",
+            "Objednávají další jídlo",
+            "Zpívají",
+            "Platí účet a dávají spropitné"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p011",
+      "cefr": "A2",
+      "text": "Dnes mám narozeniny. Je mi třicet let. Ráno mi maminka a tatínek přejí vše nejlepší. Odpoledne přijdou moji kamarádi na oslavu. Máme velký dort s čokoládou. Kamarádi mi dávají dárky: knihu, hudbu a hezké tričko. Večer hrajeme hry a posloucháme hudbu. Je to krásný den a jsem moc šťastná.",
+      "questions": [
+        {
+          "question": "Co dnes vypravěčka slaví?",
+          "choices": [
+            "Narozeniny",
+            "Svátek",
+            "Vánoce",
+            "Absolvování školy"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Kdo ráno přeje vypravěčce vše nejlepší?",
+          "choices": [
+            "Kamarádi",
+            "Sousedé",
+            "Maminka a tatínek",
+            "Učitelka"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co mají na oslavě k jídlu?",
+          "choices": [
+            "Pizzu",
+            "Velký dort s čokoládou",
+            "Polévku",
+            "Saláty"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co vypravěčce dávají kamarádi?",
+          "choices": [
+            "Knihu, hudbu a tričko",
+            "Peníze",
+            "Kytku",
+            "Nic"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co dělají večer?",
+          "choices": [
+            "Jdou spát brzy",
+            "Jdou ven",
+            "Hrají hry a poslouchají hudbu",
+            "Uklízí"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p012",
+      "cefr": "A1",
+      "text": "Matyáš žije v Brně s matkou a otcem. Jeho otec Jiří pracuje v Praze jako učitel. Matyáš má malou sestru Věru. Chodí do školy, ale ta je na školu ještě moc malá.",
+      "questions": [
+        {
+          "question": "Kde žije Matyáš se svou rodinou?",
+          "choices": [
+            "V Praze",
+            "V Ostravě",
+            "V Plzni",
+            "V Brně"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Čím pracuje Matyášův otec Jiří?",
+          "choices": [
+            "Jako učitel",
+            "Jako lékař",
+            "Jako prodavač",
+            "Jako řidič"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jak se jmenuje Matyášova sestra?",
+          "choices": [
+            "Anna",
+            "Jana",
+            "Věra",
+            "Eva"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Proč sestra Věra nechodí do školy?",
+          "choices": [
+            "Je nemocná",
+            "Je ještě moc malá",
+            "Nechce",
+            "Bydlí jinde"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p013",
+      "cefr": "A1",
+      "text": "Klára žije v Olomouci s matkou a otcem. Její matka Petra pracuje v Olomouci jako lékařka. Klára má malého bratra Honzu. Chodí do školy, ale on je na školu ještě moc malý.",
+      "questions": [
+        {
+          "question": "Kde žije Klára se svou rodinou?",
+          "choices": [
+            "V Praze",
+            "V Olomouci",
+            "V Brně",
+            "V Ostravě"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Čím pracuje Klářina matka Petra?",
+          "choices": [
+            "Jako učitelka",
+            "Jako prodavačka",
+            "Jako kuchařka",
+            "Jako lékařka"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Jak se jmenuje Klářin bratr?",
+          "choices": [
+            "Honza",
+            "Petr",
+            "Jakub",
+            "Tomáš"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Proč bratr Honza nechodí do školy?",
+          "choices": [
+            "Je nemocný",
+            "Nechce",
+            "Je ještě moc malý",
+            "Bydlí jinde"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p014",
+      "cefr": "A1",
+      "text": "Ondřej žije v Liberci s manželkou a dcerou. Pracuje jako řidič autobusu. Ráno jezdí autobusem po městě. Vozí lidi do práce a do školy. Jeho dcera Lucie je ještě malá a nechodí do školy.",
+      "questions": [
+        {
+          "question": "Kde Ondřej žije?",
+          "choices": [
+            "V Praze",
+            "V Brně",
+            "V Ostravě",
+            "V Liberci"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Jako co Ondřej pracuje?",
+          "choices": [
+            "Jako řidič autobusu",
+            "Jako učitel",
+            "Jako kuchař",
+            "Jako lékař"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co Ondřej dělá ráno?",
+          "choices": [
+            "Vaří snídani",
+            "Jezdí autobusem po městě",
+            "Jde do školy",
+            "Spí"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Koho Ondřej vozí autobusem?",
+          "choices": [
+            "Jenom děti",
+            "Jenom turisty",
+            "Lidi do práce a do školy",
+            "Nikoho"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Jak se jmenuje Ondřejova dcera?",
+          "choices": [
+            "Petra",
+            "Anna",
+            "Věra",
+            "Lucie"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p015",
+      "cefr": "A1",
+      "text": "O víkendu jedeme navštívit babičku. Babička bydlí na vesnici blízko Českých Budějovic. Má tam malou zahradu se slepicemi. Vždycky nám peče výborné koláče.",
+      "questions": [
+        {
+          "question": "Kdy jedou navštívit babičku?",
+          "choices": [
+            "V pátek",
+            "Ve středu",
+            "O víkendu",
+            "Ráno"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kde babička bydlí?",
+          "choices": [
+            "Na vesnici blízko Českých Budějovic",
+            "Ve velkém městě",
+            "V Praze",
+            "V zahraničí"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co má babička na zahradě?",
+          "choices": [
+            "Psa",
+            "Bazén",
+            "Skleník",
+            "Slepice"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co babička vždycky peče?",
+          "choices": [
+            "Chleba",
+            "Výborné koláče",
+            "Pizzu",
+            "Nic"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p016",
+      "cefr": "A1",
+      "text": "Příští týden jedeme na výlet do Prahy. Pojedeme tam vlakem. V Praze chceme vidět Pražský hrad a Karlův most. Budeme tam dva dny a bydlet budeme v malém hotelu.",
+      "questions": [
+        {
+          "question": "Kam jedou na výlet?",
+          "choices": [
+            "Do Brna",
+            "Do Prahy",
+            "Do Olomouce",
+            "Do Ostravy"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Čím tam pojedou?",
+          "choices": [
+            "Autem",
+            "Autobusem",
+            "Letadlem",
+            "Vlakem"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co chtějí v Praze vidět?",
+          "choices": [
+            "Pražský hrad a Karlův most",
+            "Zoo",
+            "Muzeum",
+            "Divadlo"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Kde budou bydlet?",
+          "choices": [
+            "U kamarádů",
+            "Ve stanu",
+            "V malém hotelu",
+            "Na chatě"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p017",
+      "cefr": "A1",
+      "text": "Náš syn Marek má ve třídě hodně kamarádů. Jeho nejlepší kamarád se jmenuje David. Chlapci si spolu hrají po škole a jezdí na kolech. O víkendu si David chodí k Markovi hrát.",
+      "questions": [
+        {
+          "question": "Kdo má hodně kamarádů ve třídě?",
+          "choices": [
+            "Dcera",
+            "Otec",
+            "Matka",
+            "Syn Marek"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Jak se jmenuje Markův nejlepší kamarád?",
+          "choices": [
+            "Petr",
+            "David",
+            "Honza",
+            "Tomáš"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co chlapci dělají po škole?",
+          "choices": [
+            "Dívají se na televizi",
+            "Spí",
+            "Hrají si a jezdí na kolech",
+            "Čtou knihy"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kam David chodí o víkendu?",
+          "choices": [
+            "K Markovi hrát",
+            "Do školy",
+            "Na výlet",
+            "K babičce"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p018",
+      "cefr": "A1",
+      "text": "Doma máme kocoura. Jmenuje se Micka a je celý černý. Micka rád spí na gauči a honí myši na zahradě. Každý večer mu dáváme mléko a suché granule.",
+      "questions": [
+        {
+          "question": "Jak se jmenuje kocour?",
+          "choices": [
+            "Micka",
+            "Rex",
+            "Alík",
+            "Punťa"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jaký je Micka?",
+          "choices": [
+            "Bílý",
+            "Hnědý",
+            "Celý černý",
+            "Šedý"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kde Micka rád spí?",
+          "choices": [
+            "V košíku",
+            "Na gauči",
+            "Na zahradě",
+            "Pod postelí"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co Micka dostává každý večer?",
+          "choices": [
+            "Jenom vodu",
+            "Rybu",
+            "Piškoty",
+            "Mléko a suché granule"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p019",
+      "cefr": "A1",
+      "text": "Naše děti chodí do základní školy. Ve škole se učí číst, psát a počítat. Syn má nejraději matematiku a tělocvik. Dcera má nejraději angličtinu a výtvarnou výchovu.",
+      "questions": [
+        {
+          "question": "Kam chodí děti?",
+          "choices": [
+            "Do školky",
+            "Na univerzitu",
+            "Na střední školu",
+            "Do základní školy"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co se ve škole učí?",
+          "choices": [
+            "Číst, psát a počítat",
+            "Vařit",
+            "Zpívat",
+            "Řídit auto"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co má syn nejraději?",
+          "choices": [
+            "Angličtinu",
+            "Matematiku a tělocvik",
+            "Hudbu",
+            "Výtvarnou výchovu"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co má dcera nejraději?",
+          "choices": [
+            "Matematiku",
+            "Tělocvik",
+            "Angličtinu a výtvarnou výchovu",
+            "Dějepis"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p020",
+      "cefr": "A1",
+      "text": "O Vánocích je celá rodina spolu doma. Zdobíme stromeček a pečeme cukroví. Na Štědrý den večer si dáváme dárky. Děti mají Vánoce nejraději ze všech svátků.",
+      "questions": [
+        {
+          "question": "Kdy je celá rodina spolu doma?",
+          "choices": [
+            "O prázdninách",
+            "O Vánocích",
+            "O narozeninách",
+            "V neděli"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Co rodina dělá o Vánocích?",
+          "choices": [
+            "Jede na dovolenou",
+            "Uklízí dům",
+            "Zdobí stromeček a peče cukroví",
+            "Nic zvláštního"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kdy si dávají dárky?",
+          "choices": [
+            "Na Štědrý den večer",
+            "Ráno prvního ledna",
+            "O víkendu",
+            "Na Nový rok"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Který svátek mají děti nejraději?",
+          "choices": [
+            "Velikonoce",
+            "Narozeniny",
+            "Nový rok",
+            "Vánoce"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p021",
+      "cefr": "A1",
+      "text": "Chlapec má psa. Pes je hnědý a velký. Chlapec a pes jdou do parku. V parku je strom a tráva. Pes běhá a chlapec se směje. Chlapec má rád svého psa.",
+      "questions": [
+        {
+          "question": "Jaký je pes?",
+          "choices": [
+            "Černý a malý",
+            "Bílý a starý",
+            "Hnědý a velký",
+            "Žlutý a mladý"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kam jdou chlapec a pes?",
+          "choices": [
+            "Do parku",
+            "Do školy",
+            "Do obchodu",
+            "Do kanceláře"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co je v parku?",
+          "choices": [
+            "Auto a silnice",
+            "Stůl a židle",
+            "Postel a skříň",
+            "Strom a tráva"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co dělá pes v parku?",
+          "choices": [
+            "Spí",
+            "Běhá",
+            "Čte",
+            "Píše"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p022",
+      "cefr": "A1",
+      "text": "Dívka má kočku. Kočka je černá a malá. Dívka sedí na gauči. Kočka spí vedle dívky. Dívka je šťastná, když kočka spí.",
+      "questions": [
+        {
+          "question": "Jaká je kočka?",
+          "choices": [
+            "Hnědá a velká",
+            "Černá a malá",
+            "Bílá a stará",
+            "Žlutá a mladá"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kde dívka sedí?",
+          "choices": [
+            "Na židli",
+            "Na posteli",
+            "Na stole",
+            "Na gauči"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kde kočka spí?",
+          "choices": [
+            "Vedle dívky",
+            "Na stole",
+            "V kuchyni",
+            "V parku"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jaká je dívka, když kočka spí?",
+          "choices": [
+            "Smutná",
+            "Naštvaná",
+            "Šťastná",
+            "Hladová"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p023",
+      "cefr": "A1",
+      "text": "Chlapec a dívka jdou do školy. Učitelka je milá. Děti sedí na židlích. Studují a píšou. Tužka a papír jsou na stole.",
+      "questions": [
+        {
+          "question": "Kam jdou chlapec a dívka?",
+          "choices": [
+            "Do parku",
+            "Do obchodu",
+            "Do kanceláře",
+            "Do školy"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Jaká je učitelka?",
+          "choices": [
+            "Zlá",
+            "Milá",
+            "Smutná",
+            "Naštvaná"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Na čem děti sedí?",
+          "choices": [
+            "Na gauči",
+            "Na posteli",
+            "Na židlích",
+            "Na stole"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co je na stole?",
+          "choices": [
+            "Tužka a papír",
+            "Talíř a lžíce",
+            "Nůž a vidlička",
+            "Sklenice a láhev"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p024",
+      "cefr": "A1",
+      "text": "Máma stojí v kuchyni. Krájí a míchá. Na stole je nůž, talíř a lžíce. Táta myje sklenici. Kuchyně je čistá.",
+      "questions": [
+        {
+          "question": "Kde máma stojí?",
+          "choices": [
+            "V kuchyni",
+            "V ložnici",
+            "V koupelně",
+            "V obývacím pokoji"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co máma dělá?",
+          "choices": [
+            "Spí",
+            "Píše",
+            "Krájí a míchá",
+            "Uklízí"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Co je na stole?",
+          "choices": [
+            "Sklenice a láhev",
+            "Pero a tužka",
+            "Vidlička a hrnek",
+            "Nůž, talíř a lžíce"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Jaká je kuchyně?",
+          "choices": [
+            "Špinavá",
+            "Čistá",
+            "Tmavá",
+            "Studená"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p025",
+      "cefr": "A1",
+      "text": "Babička a dědeček mají dům. Dům je starý a velký. Syn a dcera jdou k babičce a dědečkovi. Babička je šťastná. Dědeček mluví a syn poslouchá.",
+      "questions": [
+        {
+          "question": "Co mají babička a dědeček?",
+          "choices": [
+            "Auto",
+            "Dům",
+            "Obchod",
+            "Klavír"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Jaký je dům?",
+          "choices": [
+            "Nový a malý",
+            "Špinavý a tmavý",
+            "Čistý a světlý",
+            "Starý a velký"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kam jdou syn a dcera?",
+          "choices": [
+            "K babičce a dědečkovi",
+            "Do školy",
+            "Do parku",
+            "Do obchodu"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Kdo mluví?",
+          "choices": [
+            "Syn",
+            "Dcera",
+            "Dědeček",
+            "Babička"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p026",
+      "cefr": "A1",
+      "text": "Teta jde do obchodu. Obchod je velký a čistý. Teta chce sklenici a láhev. Strýc jde taky do obchodu. Teta a strýc jsou šťastní.",
+      "questions": [
+        {
+          "question": "Kam jde teta?",
+          "choices": [
+            "Do parku",
+            "Do školy",
+            "Do obchodu",
+            "Do kanceláře"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Jaký je obchod?",
+          "choices": [
+            "Velký a čistý",
+            "Malý a špinavý",
+            "Starý a tmavý",
+            "Nový a studený"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co chce teta?",
+          "choices": [
+            "Talíř a vidličku",
+            "Nůž a lžíci",
+            "Pero a papír",
+            "Sklenici a láhev"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kdo jde taky do obchodu?",
+          "choices": [
+            "Bratranec",
+            "Strýc",
+            "Soused",
+            "Dědeček"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p027",
+      "cefr": "A1",
+      "text": "Na ulici je auto, kolo a motorka. Chlapec jede na kole. Auto jede po silnici. Motorka je rychlá. Muž chodí po chodníku.",
+      "questions": [
+        {
+          "question": "Co je na ulici?",
+          "choices": [
+            "Stůl a židle",
+            "Talíř a lžíce",
+            "Postel a skříň",
+            "Auto, kolo a motorka"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Na čem jede chlapec?",
+          "choices": [
+            "Na motorce",
+            "Na kole",
+            "V autě",
+            "Pěšky"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kde jede auto?",
+          "choices": [
+            "Po silnici",
+            "Po chodníku",
+            "V parku",
+            "Ve škole"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jaká je motorka?",
+          "choices": [
+            "Pomalá",
+            "Stará",
+            "Rychlá",
+            "Špinavá"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p028",
+      "cefr": "A1",
+      "text": "Chlapec kašle. Chlapec je slabý. Chlapec leží v posteli. Máma se dívá na chlapce. Chlapec chce spát.",
+      "questions": [
+        {
+          "question": "Co dělá chlapec?",
+          "choices": [
+            "Píše",
+            "Kašle",
+            "Skáče",
+            "Čte"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Jaký je chlapec?",
+          "choices": [
+            "Silný",
+            "Šťastný",
+            "Hladový",
+            "Slabý"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kde chlapec leží?",
+          "choices": [
+            "V posteli",
+            "Na gauči",
+            "Na židli",
+            "Ve vaně"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co chlapec chce?",
+          "choices": [
+            "Jíst",
+            "Pít",
+            "Spát",
+            "Hrát si"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p029",
+      "cefr": "A1",
+      "text": "Sestra hraje na klavír. Bratr poslouchá. Sestra je šťastná, když hraje. Bratr se usmívá. Sestra a bratr jsou v obývacím pokoji.",
+      "questions": [
+        {
+          "question": "Na co hraje sestra?",
+          "choices": [
+            "Na klavír",
+            "Na počítač",
+            "Na telefon",
+            "Na tablet"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co dělá bratr?",
+          "choices": [
+            "Píše",
+            "Čte",
+            "Poslouchá",
+            "Spí"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Jaká je sestra, když hraje?",
+          "choices": [
+            "Smutná",
+            "Šťastná",
+            "Naštvaná",
+            "Hladová"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kde jsou sestra a bratr?",
+          "choices": [
+            "V kuchyni",
+            "V ložnici",
+            "V kanceláři",
+            "V obývacím pokoji"
+          ],
+          "answer": 3
+        }
+      ]
+    },
+    {
+      "id": "p030",
+      "cefr": "A1",
+      "text": "Otec pracuje v kanceláři. Šéf je chytrý. Otec píše na počítači. Otec má telefon. Otec chce jít domů.",
+      "questions": [
+        {
+          "question": "Kde otec pracuje?",
+          "choices": [
+            "Ve škole",
+            "V obchodě",
+            "V kanceláři",
+            "V kuchyni"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Jaký je šéf?",
+          "choices": [
+            "Chytrý",
+            "Hloupý",
+            "Smutný",
+            "Naštvaný"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Na čem otec píše?",
+          "choices": [
+            "Na tabletu",
+            "Na papíru",
+            "Na telefonu",
+            "Na počítači"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co chce otec?",
+          "choices": [
+            "Jíst",
+            "Jít domů",
+            "Spát",
+            "Hrát si"
+          ],
+          "answer": 1
+        }
+      ]
+    }
+  ]
+}

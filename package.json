@@ -1,0 +1,12 @@
+{
+  "name": "language-teacher",
+  "version": "1.0.0",
+  "description": "Language learning app for macOS",
+  "main": "app/main.js",
+  "scripts": {
+    "start": "ELECTRON_RUN_AS_NODE= electron ."
+  },
+  "devDependencies": {
+    "electron": "^33.0.0"
+  }
+}

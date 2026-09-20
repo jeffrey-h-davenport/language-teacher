@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' 'unsafe-inline'">
+  <title>Language Teacher</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <!-- ── Welcome Screen ─────────────────────────────── -->
+  <div id="welcome-screen" class="screen active">
+    <div class="welcome-hero">
+      <div id="welcome-flag" class="flag">🌍</div>
+      <h1>Language Teacher</h1>
+      <p id="welcome-subtitle" class="subtitle">Train your vocabulary</p>
+      <button id="open-file-btn" class="btn-primary large">
+        Open Language File
+      </button>
+      <button id="browse-btn-welcome" class="btn-secondary large" style="display:none">
+        Browse Words
+      </button>
+      <p class="hint">Choose a JSON file to begin</p>
+    </div>
+  </div>
+
+  <!-- ── Quiz Screen ────────────────────────────────── -->
+  <div id="quiz-screen" class="screen">
+
+    <div class="quiz-header">
+      <button id="quit-btn" class="btn-ghost">Quit</button>
+      <button id="browse-btn-quiz" class="btn-ghost">Browse</button>
+      <div class="progress-group">
+        <span id="question-counter" class="counter-text">1 / 20</span>
+        <div class="progress-bar">
+          <div id="progress-fill" class="progress-fill"></div>
+        </div>
+      </div>
+      <div id="cefr-level-chip" class="cefr-level-chip"></div>
+      <div id="session-score" class="score-chip">0 pts</div>
+    </div>
+
+    <div class="quiz-body">
+      <div class="question-row">
+        <div id="direction-badge" class="direction-badge">English → German</div>
+        <div class="word-actions">
+          <button id="mark-learned-btn" class="btn-mark-learned hidden">Mark as Learned</button>
+          <button id="edit-word-btn" class="btn-edit-word">Edit Word</button>
+        </div>
+      </div>
+
+      <div class="question-card">
+        <div id="word-display" class="word-display"></div>
+        <div id="word-register" class="word-register hidden"></div>
+        <div id="word-ipa" class="word-ipa"></div>
+        <div id="word-pos" class="word-pos"></div>
+        <div id="grammar-area" class="context-area hidden">
+          <button id="grammar-reveal-btn" class="btn-show-context">Show grammar</button>
+          <span id="word-grammar" class="word-grammar hidden"></span>
+        </div>
+        <div id="context-area" class="context-area hidden">
+          <button id="context-reveal-btn" class="btn-show-context">Show context</button>
+          <span id="context-text" class="context-text hidden"></span>
+        </div>
+        <div id="word-progress" class="word-progress-row">
+          <div class="word-progress-bar">
+            <div id="word-progress-fill" class="word-progress-fill"></div>
+          </div>
+          <span id="word-progress-label" class="word-progress-label"></span>
+        </div>
+      </div>
+
+      <div id="choices-grid" class="choices-grid"></div>
+
+      <div id="feedback-bar" class="feedback-bar hidden">
+        <span id="feedback-icon"></span>
+        <span id="feedback-text"></span>
+      </div>
+
+      <button id="next-btn" class="btn-primary next-btn hidden">
+        Next Word →
+      </button>
+    </div>
+  </div>
+
+  <!-- ── Summary Screen ─────────────────────────────── -->
+  <div id="summary-screen" class="screen">
+    <div class="summary-content">
+      <h2>Session Complete!</h2>
+
+      <div class="stats-row">
+        <div class="stat-card">
+          <span id="stat-score" class="stat-value">0</span>
+          <span class="stat-label">Net Points</span>
+        </div>
+        <div class="stat-card">
+          <span id="stat-accuracy" class="stat-value">0%</span>
+          <span class="stat-label">Accuracy</span>
+        </div>
+        <div class="stat-card">
+          <span id="stat-learned" class="stat-value">0</span>
+          <span class="stat-label">Words Learned</span>
+        </div>
+      </div>
+
+      <div class="results-list" id="results-list"></div>
+
+      <div class="summary-actions">
+        <button id="new-session-btn" class="btn-primary">New Session</button>
+        <button id="browse-btn-summary" class="btn-secondary">Browse Words</button>
+        <button id="load-file-btn" class="btn-secondary">Load Different File</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Edit Screen ──────────────────────────────────── -->
+  <div id="edit-screen" class="screen">
+    <div class="edit-content">
+      <h2 class="edit-title">Edit Word</h2>
+
+      <div class="form-group">
+        <label for="edit-english">English</label>
+        <input type="text" id="edit-english" autocomplete="off" spellcheck="false">
+      </div>
+
+      <div class="form-group">
+        <label id="edit-target-label" for="edit-target">Target Word</label>
+        <input type="text" id="edit-target" autocomplete="off" spellcheck="false">
+      </div>
+
+      <div class="form-group">
+        <label for="edit-pos">Part of Speech</label>
+        <select id="edit-pos">
+          <option value="noun">noun</option>
+          <option value="verb">verb</option>
+          <option value="adjective">adjective</option>
+          <option value="adverb">adverb</option>
+          <option value="preposition">preposition</option>
+          <option value="conjunction">conjunction</option>
+          <option value="interjection">interjection</option>
+          <option value="pronoun">pronoun</option>
+          <option value="noun-declension">noun declension</option>
+          <option value="adjective-declension">adjective declension</option>
+          <option value="verb-conjugation">verb conjugation</option>
+          <option value="pronoun-declension">pronoun declension</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="edit-grammar-group">
+        <label for="edit-grammar">Grammar</label>
+        <input type="text" id="edit-grammar" autocomplete="off" spellcheck="false" placeholder="e.g. genitive sg, past 3sg masc.">
+      </div>
+
+      <div class="form-group" id="edit-gender-group">
+        <label for="edit-gender">Gender</label>
+        <select id="edit-gender">
+          <option value="">— none —</option>
+          <option value="masculine">masculine</option>
+          <option value="feminine">feminine</option>
+          <option value="neuter">neuter</option>
+          <option value="common">common</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="edit-countability-group">
+        <div class="countability-label-row">
+          <label for="edit-countability">Countability</label>
+          <button type="button" id="countability-info-btn" class="info-btn" aria-label="Noun type definitions">ⓘ</button>
+        </div>
+        <select id="edit-countability">
+          <option value="countable">countable</option>
+          <option value="mass">mass (uncountable)</option>
+          <option value="collective">collective</option>
+          <option value="plural-only">plural only</option>
+        </select>
+        <div id="countability-info-popover" class="info-popover hidden">
+          <dl class="info-defs">
+            <dt>Countable</dt>
+            <dd>Has both singular and plural forms. <em>e.g. cat / cats, book / books</em></dd>
+            <dt>Mass</dt>
+            <dd>Refers to a substance, material, or concept with no natural plural. <em>e.g. water, sand, music</em></dd>
+            <dt>Collective</dt>
+            <dd>Refers to a group as a single unit; used with a singular verb and has no plural. <em>e.g. flock, team, herd</em></dd>
+            <dt>Plural only</dt>
+            <dd>Exists only in plural form with no singular. <em>e.g. scissors, trousers, pants</em></dd>
+          </dl>
+        </div>
+      </div>
+
+      <div class="form-group" id="edit-plural-group">
+        <label for="edit-plural">Plural Form</label>
+        <input type="text" id="edit-plural" autocomplete="off" spellcheck="false">
+      </div>
+
+      <div class="form-group" id="edit-hmuet-group">
+        <label class="checkbox-label">
+          <input type="checkbox" id="edit-hmuet">
+          <span>H muet (use l' instead of le/la)</span>
+        </label>
+      </div>
+
+      <div class="form-group">
+        <label for="edit-cefr">CEFR Level</label>
+        <select id="edit-cefr">
+          <option value="">— none —</option>
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+          <option value="C1">C1</option>
+          <option value="C2">C2</option>
+        </select>
+      </div>
+
+      <div class="form-group" id="edit-register-group">
+        <label>Register</label>
+        <div id="edit-register-checkboxes" class="checkbox-group"></div>
+      </div>
+
+      <div class="form-group">
+        <label for="edit-ipa">IPA Pronunciation</label>
+        <input type="text" id="edit-ipa" autocomplete="off" spellcheck="false" placeholder="e.g. [ˈbajspil]">
+      </div>
+
+      <div class="form-group">
+        <label for="edit-context">Context</label>
+        <input type="text" id="edit-context" autocomplete="off" spellcheck="false" placeholder="e.g. in computing, when referring to food…">
+      </div>
+
+      <div class="form-group">
+        <label for="edit-score" id="edit-score-label">Score (0 – 10)</label>
+        <input type="number" id="edit-score" min="0" max="10" step="1" autocomplete="off">
+      </div>
+
+      <div class="edit-actions">
+        <button id="edit-save-btn" class="btn-primary">Save Changes</button>
+        <button id="edit-cancel-btn" class="btn-secondary">Cancel</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Search Screen ────────────────────────────────── -->
+  <div id="search-screen" class="screen">
+
+    <div class="search-header">
+      <button id="search-back-btn" class="btn-ghost">← Back</button>
+      <h2 class="search-title">Browse Words</h2>
+      <span id="search-count" class="search-count"></span>
+    </div>
+
+    <div class="search-controls">
+      <div class="filter-row">
+        <input type="text" id="search-text" class="search-input" placeholder="Search word or English…" autocomplete="off" spellcheck="false">
+        <select id="search-pos" class="search-select">
+          <option value="">All parts of speech</option>
+          <option value="noun">noun</option>
+          <option value="verb">verb</option>
+          <option value="adjective">adjective</option>
+          <option value="adverb">adverb</option>
+          <option value="preposition">preposition</option>
+          <option value="conjunction">conjunction</option>
+          <option value="interjection">interjection</option>
+          <option value="pronoun">pronoun</option>
+          <option value="noun-declension">noun declension</option>
+          <option value="adjective-declension">adjective declension</option>
+          <option value="verb-conjugation">verb conjugation</option>
+          <option value="pronoun-declension">pronoun declension</option>
+        </select>
+        <select id="search-cefr" class="search-select">
+          <option value="">All levels</option>
+          <option value="A1">A1</option>
+          <option value="A2">A2</option>
+          <option value="B1">B1</option>
+          <option value="B2">B2</option>
+          <option value="C1">C1</option>
+          <option value="C2">C2</option>
+        </select>
+        <select id="search-status" class="search-select">
+          <option value="">All statuses</option>
+          <option value="notstarted">Not started</option>
+          <option value="inprogress">In progress</option>
+          <option value="learned">Learned</option>
+        </select>
+        <select id="search-register" class="search-select hidden">
+          <option value="">All registers</option>
+        </select>
+      </div>
+      <div class="sort-row">
+        <span class="sort-label">Sort by</span>
+        <select id="search-sort-by" class="search-select">
+          <option value="target">Target word</option>
+          <option value="english">English</option>
+          <option value="cefr">CEFR level</option>
+          <option value="pos">Part of speech</option>
+          <option value="score">Score</option>
+        </select>
+        <button id="search-sort-dir" class="btn-sort-dir" data-dir="asc">↑ Asc</button>
+        <div class="columns-picker">
+          <button type="button" id="columns-picker-btn" class="btn-sort-dir">Columns ▾</button>
+          <div id="columns-menu" class="columns-menu hidden">
+            <div id="columns-menu-list"></div>
+            <button type="button" id="columns-menu-close-btn" class="columns-menu-close">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="selection-toolbar hidden" id="selection-toolbar">
+      <span id="selection-count" class="selection-count"></span>
+      <button type="button" id="selection-dup-btn" class="btn-sort-dir">Duplicate</button>
+      <button type="button" id="selection-learned-btn" class="btn-sort-dir">Mark Learned</button>
+      <button type="button" id="selection-clear-btn" class="btn-ghost">Clear</button>
+    </div>
+
+    <div class="search-results">
+      <table class="search-table">
+        <thead>
+          <tr id="search-thead-row"></tr>
+        </thead>
+        <tbody id="search-tbody"></tbody>
+      </table>
+    </div>
+
+    <div class="search-pagination hidden" id="search-pagination">
+      <button id="search-prev-btn" class="btn-ghost">← Prev</button>
+      <span id="search-page-label">Page 1 of 1</span>
+      <button id="search-next-btn" class="btn-ghost">Next →</button>
+    </div>
+
+  </div>
+
+  <!-- ── Reading Lobby Screen ────────────────────────── -->
+  <div id="reading-lobby-screen" class="screen">
+    <div class="welcome-hero">
+      <div id="reading-lobby-flag" class="flag">🌍</div>
+      <h1 id="reading-lobby-title">Reading Comprehension</h1>
+      <p id="reading-lobby-subtitle" class="subtitle"></p>
+      <div id="reading-level-picker" class="level-picker hidden">
+        <p class="level-picker-label">Choose a level to be tested at:</p>
+        <div id="reading-level-buttons" class="level-buttons"></div>
+      </div>
+      <button id="reading-start-btn" class="btn-primary large">Start Session</button>
+      <button id="reading-change-file-btn" class="btn-secondary large">Load Different File</button>
+    </div>
+  </div>
+
+  <!-- ── Reading Passage Screen ───────────────────────── -->
+  <div id="reading-passage-screen" class="screen">
+    <div class="quiz-header">
+      <button id="reading-passage-quit-btn" class="btn-ghost">Quit</button>
+      <div class="progress-group">
+        <span id="reading-passage-counter" class="counter-text">Passage 1 of 10</span>
+        <div class="progress-bar">
+          <div id="reading-passage-progress" class="progress-fill"></div>
+        </div>
+      </div>
+    </div>
+    <div class="reading-passage-body">
+      <div id="reading-passage-text" class="reading-passage-card"></div>
+      <button id="reading-begin-btn" class="btn-primary reading-begin-btn">Begin Questions →</button>
+    </div>
+  </div>
+
+  <!-- ── Reading Question Screen ──────────────────────── -->
+  <div id="reading-question-screen" class="screen">
+    <div class="quiz-header">
+      <button id="reading-question-quit-btn" class="btn-ghost">Quit</button>
+      <span id="reading-question-counter" class="counter-text">Question 1 of 3</span>
+    </div>
+    <div class="reading-question-body">
+      <div id="reading-question-passage" class="reading-passage-mini"></div>
+      <div class="reading-question-section">
+        <p id="reading-question-text" class="reading-question-text"></p>
+        <div id="reading-choices-grid" class="reading-choices-grid"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Reading Score Screen ─────────────────────────── -->
+  <div id="reading-score-screen" class="screen">
+    <div class="summary-content">
+      <h2>Session Complete!</h2>
+      <div class="reading-score-hero">
+        <span id="reading-score-pct" class="reading-score-pct">0%</span>
+        <span class="reading-score-desc">Reading Comprehension Score</span>
+      </div>
+      <div class="stats-row">
+        <div class="stat-card">
+          <span id="reading-stat-correct" class="stat-value">0</span>
+          <span class="stat-label">Correct</span>
+        </div>
+        <div class="stat-card">
+          <span id="reading-stat-total" class="stat-value">0</span>
+          <span class="stat-label">Questions</span>
+        </div>
+        <div class="stat-card">
+          <span id="reading-stat-passages" class="stat-value">0</span>
+          <span class="stat-label">Passages</span>
+        </div>
+      </div>
+      <div class="summary-actions">
+        <button id="reading-review-btn" class="btn-primary">Review Answers</button>
+        <button id="reading-new-session-btn" class="btn-secondary">New Session</button>
+        <button id="reading-home-btn" class="btn-secondary">Home</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ── Reading Review Screen ────────────────────────── -->
+  <div id="reading-review-screen" class="screen">
+    <div class="reading-review-header">
+      <button id="reading-review-back-btn" class="btn-ghost">← Back to Score</button>
+      <h2>Answer Review</h2>
+    </div>
+    <div class="reading-review-content" id="reading-review-content"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

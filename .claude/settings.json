@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(python3 tools/migrate-countability.py)",
+      "Bash(grep -o \"\\\\$\\('[a-z][a-z0-9-]*'\\)\" /Users/jdav/SourceCode/language-teacher/app/renderer/app.js)",
+      "Bash(grep -oE \"\\\\\\\\\\\\$\\\\\\('[a-z][a-z0-9-]+'\\\\\\)\" /Users/jdav/SourceCode/language-teacher/app/renderer/app.js)"
+    ]
+  }
+}
