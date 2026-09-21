@@ -1,9 +1,31 @@
-const { app, BrowserWindow, ipcMain, dialog } = require('electron')
+const { app, BrowserWindow, ipcMain } = require('electron')
 const path = require('path')
 const fs = require('fs')
 
 let mainWindow
-let currentFilePath = null
+let currentSlug = null
+let currentMode = null // 'vocabulary' | 'reading'
+
+const LANGUAGE_DATA_DIR = path.join(__dirname, '..', 'language-data')
+
+const LANGUAGE_INFO = {
+  czech:   { language: 'Czech',   languageCode: 'cs' },
+  finnish: { language: 'Finnish', languageCode: 'fi' },
+  french:  { language: 'French',  languageCode: 'fr' },
+  german:  { language: 'German',  languageCode: 'de' },
+  spanish: { language: 'Spanish', languageCode: 'es' },
+  swedish: { language: 'Swedish', languageCode: 'sv' },
+}
+
+function capitalize(s) { return s.charAt(0).toUpperCase() + s.slice(1) }
+
+function vocabularyPath(slug) { return path.join(LANGUAGE_DATA_DIR, `${slug}-vocabulary.json`) }
+function progressPath(slug)   { return path.join(LANGUAGE_DATA_DIR, `${slug}-progress.json`) }
+function readingPath(slug)    { return path.join(LANGUAGE_DATA_DIR, `${slug}-reading.json`) }
+
+function readJson(filePath) {
+  return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+}
 
 function createWindow() {
   mainWindow = new BrowserWindow({
@@ -36,40 +58,75 @@ app.on('activate', () => {
   if (BrowserWindow.getAllWindows().length === 0) createWindow()
 })
 
-ipcMain.handle('open-file', async () => {
-  const result = await dialog.showOpenDialog(mainWindow, {
-    defaultPath: path.join(__dirname, '..', 'language-data'),
-    properties: ['openFile'],
-    filters: [{ name: 'JSON Files', extensions: ['json'] }],
-    message: 'Select your language file'
-  })
+ipcMain.handle('list-content', async () => {
+  const files = fs.readdirSync(LANGUAGE_DATA_DIR)
+  const slugs = new Set()
+  for (const f of files) {
+    const m = f.match(/^([a-z]+)-(vocabulary|reading)\.json$/)
+    if (m) slugs.add(m[1])
+  }
+  return [...slugs].map(slug => {
+    const info = LANGUAGE_INFO[slug] || { language: capitalize(slug), languageCode: '' }
+    return {
+      slug,
+      language:      info.language,
+      languageCode:  info.languageCode,
+      hasVocabulary: files.includes(`${slug}-vocabulary.json`),
+      hasReading:    files.includes(`${slug}-reading.json`),
+    }
+  }).sort((a, b) => a.language.localeCompare(b.language))
+})
 
-  if (result.canceled || result.filePaths.length === 0) return null
-
-  currentFilePath = result.filePaths[0]
+ipcMain.handle('load-vocabulary', async (_event, slug) => {
   try {
-    const raw = fs.readFileSync(currentFilePath, 'utf-8')
-    return { path: currentFilePath, data: JSON.parse(raw) }
+    const vocab = readJson(vocabularyPath(slug))
+    let progress = { progress: {} }
+    try {
+      progress = readJson(progressPath(slug))
+    } catch (e) {
+      if (e.code !== 'ENOENT') throw e
+    }
+    currentSlug = slug
+    currentMode = 'vocabulary'
+    return { vocab, progress }
   } catch (e) {
-    return { error: `Could not read file: ${e.message}` }
+    return { error: `Could not load ${slug}: ${e.message}` }
   }
 })
 
-ipcMain.handle('read-json-file', async (_event, filePath) => {
+ipcMain.handle('load-reading', async (_event, slug) => {
   try {
-    const raw = fs.readFileSync(filePath, 'utf-8')
-    return { data: JSON.parse(raw) }
+    const reading = readJson(readingPath(slug))
+    let vocab = { words: [] }
+    try {
+      vocab = readJson(vocabularyPath(slug))
+    } catch (e) {
+      if (e.code !== 'ENOENT') throw e
+    }
+    currentSlug = slug
+    currentMode = 'reading'
+    return { reading, vocabWords: vocab.words || [], vocabMeta: vocab.meta || {} }
   } catch (e) {
-    return { error: e.message }
+    return { error: `Could not load ${slug}: ${e.message}` }
   }
 })
 
-ipcMain.handle('save-data', async (_event, data) => {
-  if (!currentFilePath) return { error: 'No file is open' }
+ipcMain.handle('save-vocabulary', async (_event, data) => {
+  if (!currentSlug || currentMode !== 'vocabulary') return { error: 'No vocabulary file is open' }
   try {
-    fs.writeFileSync(currentFilePath, JSON.stringify(data, null, 2), 'utf-8')
+    fs.writeFileSync(vocabularyPath(currentSlug), JSON.stringify(data, null, 2), 'utf-8')
     return { success: true }
   } catch (e) {
-    return { error: `Could not save file: ${e.message}` }
+    return { error: `Could not save vocabulary: ${e.message}` }
+  }
+})
+
+ipcMain.handle('save-progress', async (_event, data) => {
+  if (!currentSlug || currentMode !== 'vocabulary') return { error: 'No vocabulary file is open' }
+  try {
+    fs.writeFileSync(progressPath(currentSlug), JSON.stringify(data, null, 2), 'utf-8')
+    return { success: true }
+  } catch (e) {
+    return { error: `Could not save progress: ${e.message}` }
   }
 })

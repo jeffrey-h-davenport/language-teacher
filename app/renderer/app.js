@@ -158,6 +158,42 @@ function ensureDefaults(word) {
   return word
 }
 
+const PROGRESS_FIELDS = ['score', 'learned', 'totalAttempts', 'correctAttempts', 'lastSeen']
+
+function stripProgress(word) {
+  const content = {}
+  for (const key in word) {
+    if (!PROGRESS_FIELDS.includes(key)) content[key] = word[key]
+  }
+  return content
+}
+
+// Vocabulary content and learning progress live in separate files on disk
+// (joined by word id) so routine study doesn't churn the content file. Call
+// whichever of these matches what actually changed — most actions touch
+// only one side.
+function persistVocabulary() {
+  if (!currentMeta) return
+  window.api.saveVocabulary({ meta: currentMeta, words: allWords.map(stripProgress) })
+}
+
+function persistProgress() {
+  if (!currentMeta) return
+  const progress = {}
+  for (const w of allWords) {
+    if (w.score > 0 || w.learned || w.totalAttempts > 0 || w.lastSeen) {
+      progress[w.id] = {
+        score:           w.score,
+        learned:         w.learned,
+        totalAttempts:   w.totalAttempts,
+        correctAttempts: w.correctAttempts,
+        lastSeen:        w.lastSeen,
+      }
+    }
+  }
+  window.api.saveProgress({ meta: { languageCode: currentMeta.languageCode }, progress })
+}
+
 // ── Welcome Screen ────────────────────────────────────
 function updateWelcomeScreen() {
   const flag = flagFor(currentMeta?.languageCode)
@@ -451,7 +487,7 @@ function handleChoice(btn, chosen) {
     ? '✓ Learned'
     : `${word.score} / ${learnedThreshold()}`
 
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  persistProgress()
 }
 
 // ── Mark Current Word as Learned ─────────────────────
@@ -483,7 +519,7 @@ function markCurrentAsLearned() {
   $('next-btn').classList.remove('hidden')
   autoAdvanceTimer = setTimeout(nextQuestion, 2000)
 
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  persistProgress()
 }
 
 // ── Edit Screen ───────────────────────────────────────
@@ -637,7 +673,10 @@ function saveEdit() {
     delete word.hMuet
   }
 
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  // The edit screen's score field can change learning state directly
+  // (in addition to content), so both files need to be rewritten here.
+  persistVocabulary()
+  persistProgress()
 
   if (editReturnScreen === 'search-screen') {
     currentQ = savedQuizQ
@@ -728,53 +767,83 @@ function startSession() {
   showScreen('quiz-screen')
 }
 
+// ── Welcome Screen: Language / Mode Picker ────────────
+// Two-step drill-down (language, then mode) replacing the old native
+// file-open dialog — the app already knows what's in language-data/.
+async function renderLanguagePicker() {
+  const container = $('language-buttons')
+  container.innerHTML = ''
+  const entries = await window.api.listContent()
+  entries.forEach(entry => {
+    const btn = document.createElement('button')
+    btn.className   = 'level-btn'
+    btn.textContent = `${flagFor(entry.languageCode)} ${entry.language}`
+    btn.addEventListener('click', () => renderModePicker(entry))
+    container.appendChild(btn)
+  })
+}
+
+function renderModePicker(entry) {
+  const container = $('mode-buttons')
+  container.innerHTML = ''
+
+  if (entry.hasVocabulary) {
+    const btn = document.createElement('button')
+    btn.className   = 'level-btn'
+    btn.textContent = '📚 Vocabulary Quiz'
+    btn.addEventListener('click', () => loadVocabulary(entry.slug))
+    container.appendChild(btn)
+  }
+  if (entry.hasReading) {
+    const btn = document.createElement('button')
+    btn.className   = 'level-btn'
+    btn.textContent = '📖 Reading Comprehension'
+    btn.addEventListener('click', () => loadReading(entry.slug))
+    container.appendChild(btn)
+  }
+
+  $('language-picker').classList.add('hidden')
+  $('mode-picker').classList.remove('hidden')
+}
+
+function resetWelcomePicker() {
+  $('mode-picker').classList.add('hidden')
+  $('language-picker').classList.remove('hidden')
+}
+
 // ── File Loading ──────────────────────────────────────
-async function openFile() {
-  const result = await window.api.openFile()
-  if (!result) return
+async function loadVocabulary(slug) {
+  const result = await window.api.loadVocabulary(slug)
   if (result.error) { alert(result.error); return }
 
-  const raw = result.data
-  if (raw.passages) {
-    // Reading comprehension file
-    readingMeta       = raw.meta || {}
-    readingPassages   = raw.passages || []
-    readingHoverIndex = null
-
-    // Best-effort: silently load the paired {language}-vocabulary.json
-    // sitting next to this reading file to power hover-translation hints.
-    const vocabPath = result.path.replace(/-reading\.json$/, '-vocabulary.json')
-    if (vocabPath !== result.path) {
-      const vocabResult = await window.api.readJsonFile(vocabPath)
-      if (vocabResult && !vocabResult.error && vocabResult.data?.words) {
-        readingHoverIndex = buildReadingHoverIndex(vocabResult.data.words)
-      }
-    }
-
-    showReadingLobby()
-    return
+  currentMeta = result.vocab.meta || {}
+  // Default targetField to lowercase language name if not specified
+  if (!currentMeta.targetField && currentMeta.language) {
+    currentMeta.targetField = currentMeta.language.toLowerCase()
   }
-
-  if (Array.isArray(raw)) {
-    // Legacy format: plain array — assume German for backward compat
-    currentMeta = {
-      language:       'German',
-      languageCode:   'de',
-      nativeLanguage: 'English',
-      targetField:    'german',
-    }
-    allWords = raw.map(ensureDefaults)
-  } else {
-    currentMeta = raw.meta || {}
-    // Default targetField to lowercase language name if not specified
-    if (!currentMeta.targetField && currentMeta.language) {
-      currentMeta.targetField = currentMeta.language.toLowerCase()
-    }
-    allWords = (raw.words || []).map(ensureDefaults)
-  }
+  const progressById = result.progress?.progress || {}
+  allWords = (result.vocab.words || [])
+    .map(word => ensureDefaults(Object.assign({}, word, progressById[word.id])))
 
   updateWelcomeScreen()
   startSession()
+}
+
+async function loadReading(slug) {
+  const result = await window.api.loadReading(slug)
+  if (result.error) { alert(result.error); return }
+
+  readingMeta     = result.reading.meta || {}
+  readingPassages = result.reading.passages || []
+
+  // The hover index keys off the vocabulary file's target-language field
+  // (e.g. "german", "czech") — not the reading file's own meta, which
+  // doesn't carry targetField.
+  const vocabMeta    = result.vocabMeta || {}
+  const targetField  = vocabMeta.targetField || vocabMeta.language?.toLowerCase()
+  readingHoverIndex  = targetField ? buildReadingHoverIndex(result.vocabWords || [], targetField) : new Map()
+
+  showReadingLobby()
 }
 
 // ── Search / Browse ───────────────────────────────────
@@ -1007,7 +1076,7 @@ function massDuplicateSelected() {
     allWords.splice(sourceIdx + 1, 0, newWord)
   }
   selectedWordIds.clear()
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  persistVocabulary()
   applySearch()
 }
 
@@ -1021,7 +1090,7 @@ function massMarkLearnedSelected() {
     word.score   = learnedThreshold()
   }
   selectedWordIds.clear()
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  persistProgress()
   applySearch()
 }
 
@@ -1042,7 +1111,7 @@ function duplicateFromSearch(wordId) {
   allWords.splice(sourceIdx + 1, 0, newWord)
 
   lastDuplicatePair = { sourceId: wordId, newId: newWord.id }
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  persistVocabulary()
   applySearch()
 }
 
@@ -1051,12 +1120,15 @@ function toggleLearnedFromSearch(wordId) {
   if (!word) return
   if (word.learned) {
     word.learned = false
-    word.score   = Math.max(0, learnedThreshold() - 1)
+    // Floor at 1, not 0 — a word that's been unlearned still has SOME
+    // history and should stay distinguishable from "never studied" in the
+    // progress file (which only keeps entries for engaged words).
+    word.score   = Math.max(1, learnedThreshold() - 1)
   } else {
     word.learned = true
     word.score   = learnedThreshold()
   }
-  window.api.saveData(currentMeta ? { meta: currentMeta, words: allWords } : allWords)
+  persistProgress()
   applySearch()
 }
 
@@ -1072,11 +1144,15 @@ function editFromSearch(wordId) {
 // ── Event Wiring ──────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   updateWelcomeScreen()
+  renderLanguagePicker()
 
-  $('open-file-btn').addEventListener('click', openFile)
+  $('mode-back-btn').addEventListener('click', resetWelcomePicker)
 
   $('quit-btn').addEventListener('click', () => {
-    if (confirm('End this session?')) showScreen('welcome-screen')
+    if (confirm('End this session?')) {
+      resetWelcomePicker()
+      showScreen('welcome-screen')
+    }
   })
 
   $('next-btn').addEventListener('click', nextQuestion)
@@ -1186,6 +1262,7 @@ document.addEventListener('DOMContentLoaded', () => {
     allWords    = []
     currentMeta = null
     updateWelcomeScreen()
+    resetWelcomePicker()
     showScreen('welcome-screen')
   })
 
@@ -1195,6 +1272,7 @@ document.addEventListener('DOMContentLoaded', () => {
   $('reading-change-file-btn').addEventListener('click', () => {
     readingPassages = []
     readingMeta     = null
+    resetWelcomePicker()
     showScreen('welcome-screen')
   })
 
@@ -1214,7 +1292,10 @@ document.addEventListener('DOMContentLoaded', () => {
 
   $('reading-review-btn').addEventListener('click', showReadingReview)
   $('reading-new-session-btn').addEventListener('click', startReadingSession)
-  $('reading-home-btn').addEventListener('click', () => showScreen('welcome-screen'))
+  $('reading-home-btn').addEventListener('click', () => {
+    resetWelcomePicker()
+    showScreen('welcome-screen')
+  })
   $('reading-review-back-btn').addEventListener('click', () => showScreen('reading-score-screen'))
 })
 
@@ -1277,12 +1358,13 @@ function startReadingSession() {
 // everything else (base words, and verb-conjugation forms which have no
 // baseId) just uses its own english field. Base-POS entries always win over
 // declension/conjugation entries when a surface form collides between them.
-function buildReadingHoverIndex(vocabWords) {
+function buildReadingHoverIndex(vocabWords, targetField) {
   const byId = new Map(vocabWords.map(w => [w.id, w]))
   const index = new Map()
 
   for (const w of vocabWords) {
-    if (!w.czech || !w.english) continue
+    const surface = w[targetField]
+    if (!surface || !w.english) continue
     const isBase = BASE_POS.has(w['part-of-speech'])
     let gloss = w.english
     if (w.baseId) {
@@ -1290,7 +1372,7 @@ function buildReadingHoverIndex(vocabWords) {
       if (base?.english) gloss = base.english
     }
 
-    for (const variant of w.czech.split(' / ')) {
+    for (const variant of surface.split(' / ')) {
       const key = variant.trim().toLowerCase()
       if (!key || key.includes(' ')) continue   // skip multi-word surface forms
       const existing = index.get(key)

@@ -15,13 +15,21 @@
       <div id="welcome-flag" class="flag">🌍</div>
       <h1>Language Teacher</h1>
       <p id="welcome-subtitle" class="subtitle">Train your vocabulary</p>
-      <button id="open-file-btn" class="btn-primary large">
-        Open Language File
-      </button>
+
+      <div id="language-picker" class="level-picker">
+        <p class="level-picker-label">Choose a language</p>
+        <div id="language-buttons" class="level-buttons"></div>
+      </div>
+
+      <div id="mode-picker" class="level-picker hidden">
+        <p class="level-picker-label">What do you want to do?</p>
+        <div id="mode-buttons" class="level-buttons"></div>
+        <button id="mode-back-btn" class="btn-ghost">← Choose a different language</button>
+      </div>
+
       <button id="browse-btn-welcome" class="btn-secondary large" style="display:none">
         Browse Words
       </button>
-      <p class="hint">Choose a JSON file to begin</p>
     </div>
   </div>
 
@@ -109,7 +117,7 @@
       <div class="summary-actions">
         <button id="new-session-btn" class="btn-primary">New Session</button>
         <button id="browse-btn-summary" class="btn-secondary">Browse Words</button>
-        <button id="load-file-btn" class="btn-secondary">Load Different File</button>
+        <button id="load-file-btn" class="btn-secondary">Choose a Different Language</button>
       </div>
     </div>
   </div>
@@ -341,7 +349,7 @@
         <div id="reading-level-buttons" class="level-buttons"></div>
       </div>
       <button id="reading-start-btn" class="btn-primary large">Start Session</button>
-      <button id="reading-change-file-btn" class="btn-secondary large">Load Different File</button>
+      <button id="reading-change-file-btn" class="btn-secondary large">Choose a Different Language</button>
     </div>
   </div>
 

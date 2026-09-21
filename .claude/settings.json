@@ -4,7 +4,23 @@
       "Bash(python3 -c ' *)",
       "Bash(python3 tools/migrate-countability.py)",
       "Bash(grep -o \"\\\\$\\('[a-z][a-z0-9-]*'\\)\" /Users/jdav/SourceCode/language-teacher/app/renderer/app.js)",
-      "Bash(grep -oE \"\\\\\\\\\\\\$\\\\\\('[a-z][a-z0-9-]+'\\\\\\)\" /Users/jdav/SourceCode/language-teacher/app/renderer/app.js)"
+      "Bash(grep -oE \"\\\\\\\\\\\\$\\\\\\('[a-z][a-z0-9-]+'\\\\\\)\" /Users/jdav/SourceCode/language-teacher/app/renderer/app.js)",
+      "Bash(node --check app/main.js)",
+      "Bash(node --check app/preload.js)",
+      "Bash(node --check app/renderer/app.js)",
+      "Bash(mkdir -p /private/tmp/claude-501/-Users-jdav-SourceCode-language-teacher/32d4bde2-6347-46bf-816a-7ab561ad0278/scratchpad/pw-verify)",
+      "Bash(npm init *)",
+      "Bash(npm install *)",
+      "Bash(md5 -q language-data/german-vocabulary.json)",
+      "Bash(md5 -q language-data/german-progress.json)",
+      "Bash(node test.mjs)",
+      "Read(//tmp/shots3/**)",
+      "Read(//private/tmp/shots3/**)",
+      "Bash(rm -rf /private/tmp/claude-501/-Users-jdav-SourceCode-language-teacher/32d4bde2-6347-46bf-816a-7ab561ad0278/scratchpad/pw-verify /tmp/shots3 *)",
+      "Bash(mkdir -p /private/tmp/claude-501/-Users-jdav-SourceCode-language-teacher/32d4bde2-6347-46bf-816a-7ab561ad0278/scratchpad/pw-hover)"
+    ],
+    "additionalDirectories": [
+      "/private/tmp/shots3"
     ]
   }
 }
