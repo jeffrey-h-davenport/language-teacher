@@ -298,7 +298,7 @@
       "cefr": "A1",
       "gender": "neuter",
       "plural": "måsten",
-      "ipa": "/²mɔstɛ/",
+      "ipa": "[²mɔstɛ]",
       "register": [
         "All"
       ]
@@ -576,7 +576,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[ɪˈjɛn]"
     },
     {
       "id": "f27c8ce9-6a1d-4f67-813b-836a9fd24506",
@@ -905,7 +906,7 @@
       "english": "to say",
       "swedish": "säga",
       "cefr": "A1",
-      "ipa": "/²sɛjːa/",
+      "ipa": "[²sɛjːa]",
       "register": [
         "All"
       ]
@@ -926,7 +927,7 @@
     {
       "id": "bd662644-65e8-4fba-bda4-c9c26290112f",
       "part-of-speech": "adverb",
-      "english": "down; in a direction downwards",
+      "english": "downwards",
       "swedish": "ner",
       "cefr": "A1",
       "ipa": "/neːr/",
@@ -977,7 +978,7 @@
       "english": "second",
       "swedish": "andra",
       "cefr": "A1",
-      "ipa": "/ˈanˌdra/",
+      "ipa": "[²andra]",
       "register": [
         "All"
       ]
@@ -1028,10 +1029,10 @@
     {
       "id": "3da901b7-e7ff-4a03-ac25-cbb4a085deef",
       "part-of-speech": "adjective",
-      "english": "wide (having great width)",
+      "english": "wide",
       "swedish": "vid",
       "cefr": "A1",
-      "ipa": "/viːd/",
+      "ipa": "[¹viːdᶻ]",
       "register": [
         "All"
       ]
@@ -1044,7 +1045,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²heːla]"
     },
     {
       "id": "d6464a9e-23fb-4891-8fb1-dbc27bcefeb7",
@@ -1517,11 +1519,11 @@
     {
       "id": "8350e0e1-5f70-44e7-ab53-ba3a4b064f14",
       "part-of-speech": "noun",
-      "english": "help (something or someone that helps)",
+      "english": "a helpful (person or thing)",
       "swedish": "hjälp",
       "cefr": "A1",
       "gender": "common",
-      "ipa": "/jɛlp/",
+      "ipa": "[jɛlp]",
       "countability": "mass",
       "register": [
         "All"
@@ -1680,7 +1682,7 @@
       "english": "moral",
       "swedish": "god",
       "cefr": "A1",
-      "ipa": "/ɡuːd/",
+      "ipa": "[¹ɡuːdᶻ]",
       "register": [
         "All"
       ]
@@ -1740,10 +1742,10 @@
     {
       "id": "6a34145a-db2e-4784-9921-e23d2d683927",
       "part-of-speech": "adjective",
-      "english": "what a, such (exclamatory adjective)",
+      "english": "what a",
       "swedish": "vilken",
       "cefr": "A1",
-      "ipa": "/ˈvɪ(l)kɛn/",
+      "ipa": "[¹vɪlːkɛn]",
       "register": [
         "All"
       ]
@@ -2209,7 +2211,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²trɛfːa]"
     },
     {
       "id": "b95d1e79-3659-4fde-9b5f-5e247f2fe944",
@@ -2334,7 +2337,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²sæːkæʐ]"
     },
     {
       "id": "4a4b8f38-9318-4e2a-87fb-5ca12d19f019",
@@ -2931,7 +2935,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²nɛsːtan]"
     },
     {
       "id": "5f6b2a39-9992-4ba4-97a4-55fe98150054",
@@ -2939,7 +2944,7 @@
       "english": "alone",
       "swedish": "ensam",
       "cefr": "A1",
-      "ipa": "/²ɛnːsamː/",
+      "ipa": "[²ɛnːsamː]",
       "register": [
         "All"
       ]
@@ -3073,7 +3078,8 @@
       "plural": "turer",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[¹tʉːr]"
     },
     {
       "id": "d961db60-a821-4346-a00b-c0ab85e930de",
@@ -3214,12 +3220,13 @@
     {
       "id": "2a8cb596-6769-4e6b-b1ab-127a3f6ed59c",
       "part-of-speech": "verb",
-      "english": "to ask for, request someone else to do something",
+      "english": "to request",
       "swedish": "be",
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[¹beː]"
     },
     {
       "id": "61b32ab3-0a08-4385-9446-e886577e3039",
@@ -3231,7 +3238,8 @@
       "plural": "rör",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[¹rœːʐ]"
     },
     {
       "id": "0d9dfaac-230f-4853-9d1d-30e2645aa909",
@@ -3439,7 +3447,7 @@
     {
       "id": "17713f7f-b820-42f6-8059-70d434ba0c16",
       "part-of-speech": "verb",
-      "english": "to hit, punch or beat (someone); to give a blow.",
+      "english": "to punch",
       "swedish": "slå",
       "cefr": "A1",
       "ipa": "/sloː/",
@@ -3633,9 +3641,9 @@
     },
     {
       "id": "97ace4f9-8b2d-4be1-813b-dfd217f94351",
-      "part-of-speech": "adverb",
-      "english": "only used in komma ihåg and ihågkomma",
-      "swedish": "ihåg",
+      "part-of-speech": "verb",
+      "english": "to commemorate",
+      "swedish": "ihågkomma",
       "cefr": "A1",
       "register": [
         "All"
@@ -3740,7 +3748,7 @@
     {
       "id": "6134c457-e04c-473c-b2f6-e1e805817576",
       "part-of-speech": "adjective",
-      "english": "old (having existed for a long time)",
+      "english": "old",
       "swedish": "gammal",
       "cefr": "A1",
       "ipa": "/²ɡamːal/",
@@ -4068,7 +4076,7 @@
       "english": "easily",
       "swedish": "lätt",
       "cefr": "A1",
-      "ipa": "/lɛt/",
+      "ipa": "[¹lɛtː]",
       "register": [
         "All"
       ]
@@ -4131,12 +4139,13 @@
     {
       "id": "23046684-58bd-4e2e-bb00-620e4893fab8",
       "part-of-speech": "adverb",
-      "english": "of course, self-evident, obviously",
+      "english": "of course, obviously",
       "swedish": "självklart",
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²ɧɛlvˌklɑːʈ]"
     },
     {
       "id": "aa66633f-95bd-44b6-ac82-2da4b41f06a1",
@@ -4161,14 +4170,15 @@
     {
       "id": "31a3cd36-16e9-48eb-9427-4f87c7c54e82",
       "part-of-speech": "noun",
-      "english": "an attempt, try, go",
+      "english": "an attempt",
       "swedish": "försök",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "försök",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[¹fœ-ˈsøːk]"
     },
     {
       "id": "b2bc67b4-e5ee-420f-9305-a47b4b9c4f9d",
@@ -4239,7 +4249,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²stɔpːa]"
     },
     {
       "id": "6d040e32-8274-49ab-b493-863638a34dac",
@@ -4362,7 +4373,7 @@
       "english": "to teach, to instruct",
       "swedish": "lära",
       "cefr": "A1",
-      "ipa": "/ˈlæːˌra/",
+      "ipa": "[²læːra]",
       "register": [
         "All"
       ]
@@ -4496,12 +4507,13 @@
     {
       "id": "5d37ff0f-ac7e-495f-abef-8d23d17d779b",
       "part-of-speech": "verb",
-      "english": "to hurry; to move quickly, to do something quickly",
+      "english": "to hurry",
       "swedish": "skynda",
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[²ɧʏnda]"
     },
     {
       "id": "e79e31c5-d1e7-4712-acdd-8e9ae168a2db",
@@ -4549,13 +4561,16 @@
     },
     {
       "id": "7823d539-e696-4009-aa43-7b90092ee9bc",
-      "part-of-speech": "adverb",
+      "part-of-speech": "noun",
       "english": "pain",
       "swedish": "ont",
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[¹ʊɳʈ]",
+      "gender": "neuter",
+      "countability": "mass"
     },
     {
       "id": "e1867cbb-4f5e-425f-bbcf-bb9acc963f8a",
@@ -4654,7 +4669,8 @@
       "cefr": "A1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[ɪˈɡoːr]"
     },
     {
       "id": "52533df2-45c8-4891-bcc6-2ec51cf9b17e",

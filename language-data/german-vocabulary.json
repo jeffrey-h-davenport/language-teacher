@@ -362,7 +362,7 @@
     {
       "id": "1430b12a-3ddc-44b6-a2d8-3f5d23818d4b",
       "part-of-speech": "verb",
-      "english": "achieve",
+      "english": "receive",
       "german": "erhalten",
       "cefr": "B1",
       "register": [
@@ -1014,7 +1014,7 @@
     {
       "id": "3a61a953-7c07-4a03-bbb8-610b570c99e2",
       "part-of-speech": "noun",
-      "english": "decree",
+      "english": "court order",
       "german": "Verfügung",
       "gender": "feminine",
       "plural": "Verfügungen",
@@ -1090,7 +1090,7 @@
     {
       "id": "2fd37903-49de-4797-8d9d-812dcac85cb7",
       "part-of-speech": "noun",
-      "english": "halyard",
+      "english": "hoisting rope",
       "german": "Fall",
       "gender": "neuter",
       "plural": "Fallen",
@@ -1724,7 +1724,7 @@
     {
       "id": "734c3ed0-1671-4cf5-af29-1beb652413ff",
       "part-of-speech": "noun",
-      "english": "period",
+      "english": "menstrual period",
       "german": "Regel",
       "gender": "feminine",
       "plural": "Regeln",
@@ -1815,7 +1815,7 @@
       "id": "54914220-4b5c-4ff0-b1ea-9471bb7acd24",
       "part-of-speech": "verb",
       "english": "advocate",
-      "german": "einsetzen",
+      "german": "sich einsetzen",
       "cefr": "B1",
       "register": [
         "All"
@@ -2216,7 +2216,7 @@
     {
       "id": "bc22cc8c-c017-4dd6-bb31-2f7e132a3603",
       "part-of-speech": "noun",
-      "english": "article",
+      "english": "news article",
       "german": "Beitrag",
       "gender": "masculine",
       "plural": "Beiträge",
@@ -3168,12 +3168,13 @@
     {
       "id": "265c7bf2-3359-4de4-aaf3-31cfdd4e8f78",
       "part-of-speech": "verb",
-      "english": "breed",
+      "english": "cultivate, rear",
       "german": "ziehen",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "agriculture"
     },
     {
       "id": "dafc1b52-86d4-41e1-8ddc-f66f1f210f3f",
@@ -4170,7 +4171,7 @@
     {
       "id": "fe63460b-5793-4d97-8fe6-9e597aac7022",
       "part-of-speech": "verb",
-      "english": "absorb",
+      "english": "preoccupy, engross",
       "german": "beschäftigen",
       "cefr": "B1",
       "register": [
@@ -4216,14 +4217,15 @@
     {
       "id": "98e301cb-6e7c-4f7b-96f8-d76b7f0996e9",
       "part-of-speech": "noun",
-      "english": "equipment",
+      "english": "setup gear",
       "german": "Technik",
       "gender": "feminine",
       "plural": "Techniken",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "performance, event"
     },
     {
       "id": "d37385bc-f58c-4dc5-9790-89bfe2d8a813",
@@ -4602,19 +4604,20 @@
     {
       "id": "c8dcf609-d25e-4412-a67d-d05253a55dd5",
       "part-of-speech": "noun",
-      "english": "attachment",
+      "english": "attachment, enclosure",
       "german": "Anlage",
       "gender": "feminine",
       "plural": "Anlagen",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "letter, email"
     },
     {
       "id": "40458a07-e146-4e80-84d3-c0065cb9ccc3",
       "part-of-speech": "noun",
-      "english": "bed",
+      "english": "layer",
       "german": "Lage",
       "gender": "feminine",
       "plural": "Lagen",
@@ -5012,7 +5015,7 @@
     {
       "id": "fd167c85-6cf0-454b-8bc0-b7b86af5e6b7",
       "part-of-speech": "verb",
-      "english": "elate",
+      "english": "fulfill",
       "german": "erfüllen",
       "cefr": "B1",
       "register": [
@@ -5056,7 +5059,7 @@
     {
       "id": "074b10e1-7f7e-4063-bb02-9713c1eb6e87",
       "part-of-speech": "noun",
-      "english": "care",
+      "english": "treatment",
       "german": "Behandlung",
       "gender": "feminine",
       "plural": "Behandlungen",
@@ -5333,7 +5336,7 @@
     {
       "id": "2a79ba40-e45e-4f9f-b181-e4e2084bfa24",
       "part-of-speech": "noun",
-      "english": "accounts",
+      "english": "financial statements",
       "german": "Abschluss",
       "gender": "masculine",
       "plural": "Abschlüsse",
@@ -5401,7 +5404,7 @@
     {
       "id": "0cc872e0-b3a7-47a6-bc82-b4ac3b92ca80",
       "part-of-speech": "noun",
-      "english": "affair",
+      "english": "connection",
       "german": "Verbindung",
       "gender": "feminine",
       "plural": "Verbindungen",
@@ -5469,7 +5472,7 @@
     {
       "id": "71aef431-5095-4298-8c25-3794b63d4124",
       "part-of-speech": "noun",
-      "english": "coherence",
+      "english": "logical coherence",
       "german": "Zusammenhang",
       "gender": "masculine",
       "plural": "Zusammenhänge",
@@ -5720,7 +5723,7 @@
     {
       "id": "cf764b59-c1a5-4b88-8476-7732b5aaa203",
       "part-of-speech": "noun",
-      "english": "act",
+      "english": "legislative act",
       "german": "Gesetz",
       "gender": "neuter",
       "plural": "Gesetze",
@@ -6827,7 +6830,7 @@
     {
       "id": "a0dace29-6b0b-4953-baa2-86ee100554cf",
       "part-of-speech": "verb",
-      "english": "cover",
+      "english": "cover, be about",
       "german": "behandeln",
       "cefr": "B1",
       "register": [
@@ -7259,7 +7262,7 @@
     {
       "id": "6d9256e5-4496-44a3-b4cd-4e029518810c",
       "part-of-speech": "verb",
-      "english": "agitate",
+      "english": "stir emotionally",
       "german": "bewegen",
       "cefr": "B1",
       "register": [
@@ -7893,7 +7896,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "only for travel tickets"
     },
     {
       "id": "a6155f35-1a8f-4849-8a71-e6b6fa87761e",
@@ -7932,7 +7936,7 @@
     {
       "id": "34b95368-b311-4143-8c45-7577ab652604",
       "part-of-speech": "noun",
-      "english": "emotion",
+      "english": "turmoil",
       "german": "Bewegung",
       "gender": "feminine",
       "plural": "Bewegungen",
@@ -7991,7 +7995,7 @@
       "id": "758af3df-db9c-419e-87db-1d3e377cc8e2",
       "part-of-speech": "verb",
       "english": "address",
-      "german": "wenden",
+      "german": "sich wenden an",
       "cefr": "B1",
       "register": [
         "All"
@@ -8640,7 +8644,7 @@
     {
       "id": "97ed8221-1338-4069-a84f-9c92693335ca",
       "part-of-speech": "noun",
-      "english": "care",
+      "english": "care, support",
       "german": "Betreuung",
       "gender": "feminine",
       "plural": "Betreuungen",
@@ -8652,7 +8656,7 @@
     {
       "id": "71478ea2-3c41-4632-ab4e-1982e919effc",
       "part-of-speech": "noun",
-      "english": "file",
+      "english": "formation",
       "german": "Linie",
       "gender": "feminine",
       "plural": "Linien",
@@ -8736,7 +8740,7 @@
     {
       "id": "02588100-6387-4970-9800-9b132aa8c7c1",
       "part-of-speech": "noun",
-      "english": "circumstance",
+      "english": "condition, situation",
       "german": "Bedingung",
       "gender": "feminine",
       "plural": "Bedingungen",
@@ -8857,11 +8861,12 @@
       "id": "1cf98c0f-729f-4193-ab4d-caf3d2990b17",
       "part-of-speech": "verb",
       "english": "enlist",
-      "german": "melden",
+      "german": "sich melden",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "military"
     },
     {
       "id": "f10d7b4c-2a3a-4b7f-a7bb-7743af60e0fa",
@@ -9024,7 +9029,7 @@
     {
       "id": "622f2e81-2b3e-4064-9256-403c31528b70",
       "part-of-speech": "noun",
-      "english": "adoption",
+      "english": "introduction, instituting",
       "german": "Einführung",
       "gender": "feminine",
       "plural": "Einführungen",
@@ -12068,7 +12073,7 @@
     {
       "id": "0b2ea63b-097c-43e2-b87f-65d95206e67a",
       "part-of-speech": "noun",
-      "english": "bag",
+      "english": "stretch, length, distance",
       "german": "Strecke",
       "gender": "feminine",
       "plural": "Strecken",
@@ -12219,7 +12224,7 @@
     {
       "id": "cea0a682-fbff-4545-903b-9b4dc471e8b0",
       "part-of-speech": "verb",
-      "english": "award",
+      "english": "award, grant",
       "german": "vergeben",
       "cefr": "B1",
       "register": [
@@ -12934,7 +12939,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "film"
     },
     {
       "id": "e800e5ec-4257-4349-907b-ced2e4136084",
@@ -13956,13 +13962,14 @@
     {
       "id": "a7291a7d-0801-40ec-814e-77ae8d44ca54",
       "part-of-speech": "noun",
-      "english": "acting",
+      "english": "action, conduct",
       "german": "Handeln",
       "gender": "neuter",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "countability": "mass"
     },
     {
       "id": "7b3892b4-bfaf-4a8c-8e69-c751718a2517",
@@ -14026,7 +14033,7 @@
     {
       "id": "4603480b-cf35-4819-86db-e4d4aa4a13b7",
       "part-of-speech": "noun",
-      "english": "amylum",
+      "english": "starch",
       "german": "Stärke",
       "gender": "feminine",
       "plural": "Stärken",
@@ -14257,7 +14264,7 @@
     {
       "id": "221b2e11-5a3f-4f9d-b4af-ef6496f0b19a",
       "part-of-speech": "verb",
-      "english": "correlate",
+      "english": "depend",
       "german": "abhängen",
       "cefr": "B1",
       "register": [
@@ -14279,7 +14286,7 @@
     {
       "id": "2382f87a-9315-4c0f-ab08-7cb444fafa52",
       "part-of-speech": "adjective",
-      "english": "contingent",
+      "english": "possible",
       "german": "eventuell",
       "cefr": "B1",
       "register": [
@@ -15060,7 +15067,7 @@
     {
       "id": "34503c25-3ce1-4da6-b2bb-c8a2398f84f4",
       "part-of-speech": "noun",
-      "english": "cage",
+      "english": "gate",
       "german": "Tor",
       "gender": "neuter",
       "plural": "Tore",
@@ -15506,7 +15513,7 @@
     {
       "id": "21507957-072c-4b8e-970f-ce52c311be4d",
       "part-of-speech": "noun",
-      "english": "estate",
+      "english": "plot of land",
       "german": "Grundstück",
       "gender": "neuter",
       "plural": "Grundstücke",
@@ -15618,7 +15625,7 @@
     {
       "id": "07c52dcb-0077-40e6-a335-170d8da483c3",
       "part-of-speech": "noun",
-      "english": "Paul trap",
+      "english": "trap",
       "german": "Falle",
       "gender": "feminine",
       "plural": "Fallen",
@@ -15727,7 +15734,7 @@
       "id": "63205abf-a21b-4683-b2e4-2f85e61e1c80",
       "part-of-speech": "verb",
       "english": "coordinate",
-      "german": "abstimmen",
+      "german": "sich abstimmen",
       "cefr": "B1",
       "register": [
         "All"
@@ -16152,7 +16159,7 @@
     {
       "id": "3f737ef0-ec94-44f9-8854-84f29dfad1e7",
       "part-of-speech": "adjective",
-      "english": "duly",
+      "english": "punctual",
       "german": "rechtzeitig",
       "cefr": "B1",
       "register": [
@@ -17280,8 +17287,8 @@
     {
       "id": "abf86875-6731-4fa2-a4bd-3349ba789bfd",
       "part-of-speech": "adjective",
-      "english": "conforming",
-      "german": "gerecht",
+      "english": "conforming to the rules",
+      "german": "regelgerecht",
       "cefr": "B1",
       "register": [
         "All"
@@ -17630,7 +17637,7 @@
     {
       "id": "f3ec7667-58b3-46dd-b8d0-e53998711e4b",
       "part-of-speech": "noun",
-      "english": "damage",
+      "english": "disadvantage",
       "german": "Nachteil",
       "gender": "masculine",
       "plural": "Nachteile",
@@ -17917,8 +17924,8 @@
     {
       "id": "1af3b127-d480-48af-a7ea-997ea2a96e74",
       "part-of-speech": "verb",
-      "english": "disappear",
-      "german": "verlaufen",
+      "english": "get lost",
+      "german": "sich verlaufen",
       "cefr": "B2",
       "register": [
         "All"
@@ -17957,12 +17964,13 @@
     {
       "id": "f7202ea8-8849-48ab-8705-f7c7feb590cd",
       "part-of-speech": "verb",
-      "english": "adopt",
+      "english": "adopt, pass",
       "german": "verabschieden",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "legislation"
     },
     {
       "id": "18e6680f-4e50-4c11-94b7-00740bd3560f",
@@ -18259,7 +18267,7 @@
     {
       "id": "0063e8bb-bb5f-460e-905e-f1325fc40f31",
       "part-of-speech": "noun",
-      "english": "item",
+      "english": "unit",
       "german": "Einheit",
       "gender": "feminine",
       "plural": "Einheiten",
@@ -19140,7 +19148,7 @@
     {
       "id": "f4fc21bb-fe39-46fb-b6e6-f7d6e0151cb3",
       "part-of-speech": "noun",
-      "english": "angel",
+      "english": "darling",
       "german": "Stern",
       "gender": "masculine",
       "plural": "Sterne",
@@ -19709,7 +19717,7 @@
     {
       "id": "14a8662c-57c1-4663-a18a-ce8dfe7810c9",
       "part-of-speech": "verb",
-      "english": "dilute",
+      "english": "extend",
       "german": "verlängern",
       "cefr": "B1",
       "register": [
@@ -20401,12 +20409,14 @@
     {
       "id": "f4e82372-b89f-474b-8c27-a60ec5c7b854",
       "part-of-speech": "verb",
-      "english": "cover",
+      "english": "put on, throw on",
       "german": "übergeben",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[ˈyːbɐˌɡeːbŋ̍]",
+      "context": "separable; clothing, covering"
     },
     {
       "id": "9212dab5-add0-4f4e-ac4f-9d2b4de5eecb",
@@ -20578,7 +20588,7 @@
     {
       "id": "652ce0c2-35ea-4b41-8043-4b36c2b767f6",
       "part-of-speech": "noun",
-      "english": "mangle",
+      "english": "wringer",
       "german": "Mangel",
       "gender": "feminine",
       "plural": "Mangeln",
@@ -20590,7 +20600,7 @@
     {
       "id": "1306ab4c-9cde-4fb3-85ef-1a592ff1208e",
       "part-of-speech": "noun",
-      "english": "humour",
+      "english": "mood",
       "german": "Stimmung",
       "gender": "feminine",
       "plural": "Stimmungen",
@@ -21727,7 +21737,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "schoolwork"
     },
     {
       "id": "dd814ab2-6c1b-4806-b4a4-35d26f15a098",
@@ -22561,7 +22572,7 @@
     {
       "id": "647c4bc4-dd83-43a2-8919-e2b421bbe335",
       "part-of-speech": "verb",
-      "english": "cause",
+      "english": "bring, cause (a physical or emotion state)",
       "german": "bereiten",
       "cefr": "B1",
       "register": [
@@ -22779,7 +22790,7 @@
     {
       "id": "cbe2fd2e-a4d5-4a7d-b315-8a2088b7b21f",
       "part-of-speech": "verb",
-      "english": "propose",
+      "english": "suggest",
       "german": "vorschlagen",
       "cefr": "B1",
       "register": [
@@ -23945,7 +23956,7 @@
     {
       "id": "c4708428-91b2-4c9a-ad54-5ea585d1f53b",
       "part-of-speech": "noun",
-      "english": "basic item",
+      "english": "cell",
       "german": "Zelle",
       "gender": "feminine",
       "plural": "Zellen",
@@ -24399,8 +24410,8 @@
     {
       "id": "57689317-40a7-417d-903d-be182076e464",
       "part-of-speech": "verb",
-      "english": "be",
-      "german": "verhalten",
+      "english": "behave",
+      "german": "sich verhalten",
       "cefr": "B1",
       "register": [
         "All"
@@ -25045,7 +25056,7 @@
     {
       "id": "25e8f5bc-dc46-4631-b209-04f7977c7cd4",
       "part-of-speech": "noun",
-      "english": "family",
+      "english": "lineage",
       "german": "Geschlecht",
       "gender": "neuter",
       "plural": "Geschlechter",
@@ -25593,7 +25604,7 @@
     {
       "id": "8df1bf12-d118-4f7a-ac0e-f473afe9e915",
       "part-of-speech": "verb",
-      "english": "be certain",
+      "english": "remain (located, scheduled, set to)",
       "german": "feststehen",
       "cefr": "B1",
       "register": [
@@ -25613,7 +25624,7 @@
     {
       "id": "94a7e69f-c41b-4532-8678-6adcf09080ca",
       "part-of-speech": "noun",
-      "english": "enquiry",
+      "english": "inquiry",
       "german": "Recherche",
       "gender": "feminine",
       "plural": "Recherchen",
@@ -25714,7 +25725,7 @@
     {
       "id": "5bd9b2db-b32b-4e4c-839a-81f6a336ffcc",
       "part-of-speech": "noun",
-      "english": "bags",
+      "english": "dark circle under an eye",
       "german": "Rand",
       "gender": "masculine",
       "plural": "Ränder",
@@ -26124,7 +26135,7 @@
     {
       "id": "de89afd0-7685-439d-b440-6e8da87a5ecd",
       "part-of-speech": "adjective",
-      "english": "close",
+      "english": "familiar",
       "german": "vertraut",
       "cefr": "B1",
       "register": [
@@ -26446,7 +26457,7 @@
     {
       "id": "7a66278f-7680-4961-96cd-44c32f53d54c",
       "part-of-speech": "verb",
-      "english": "balk",
+      "english": "thwart",
       "german": "aufhalten",
       "cefr": "B1",
       "register": [
@@ -26580,7 +26591,7 @@
     {
       "id": "c235b505-a354-4e99-a80b-3e276f382860",
       "part-of-speech": "noun",
-      "english": "belongings",
+      "english": "property",
       "german": "Besitz",
       "gender": "masculine",
       "plural": "Besitze",
@@ -28190,7 +28201,7 @@
     {
       "id": "dfde984c-5803-4995-bc00-7f7ecc1c2bd6",
       "part-of-speech": "verb",
-      "english": "crack",
+      "english": "fracture",
       "german": "springen",
       "cefr": "B1",
       "register": [
@@ -29015,7 +29026,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "astronomy, meteorology"
     },
     {
       "id": "e8f5d162-aacb-49cd-85ea-c50bc4068320",
@@ -29282,14 +29294,15 @@
     {
       "id": "b436c297-5d3a-45ba-b938-b5118181f07a",
       "part-of-speech": "noun",
-      "english": "chord",
-      "german": "Klang",
+      "english": "triad",
+      "german": "Dreiklang",
       "gender": "masculine",
-      "plural": "Klänge",
+      "plural": "Dreiklänge",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "music"
     },
     {
       "id": "abd04f18-7a88-4419-8b53-cff7148e7eb8",
@@ -30240,8 +30253,11 @@
       "german": "heben",
       "cefr": "B1",
       "register": [
-        "All"
-      ]
+        "umgangssprachlich",
+        "salopp",
+        "derb"
+      ],
+      "context": "regional"
     },
     {
       "id": "5366bf79-1e19-49eb-92e6-1322fed183a1",
@@ -30256,7 +30272,7 @@
     {
       "id": "47255eae-36ea-490b-9bc9-548ef2e53bc6",
       "part-of-speech": "verb",
-      "english": "leave over",
+      "english": "allow to handle",
       "german": "überlassen",
       "cefr": "B1",
       "register": [
@@ -33542,7 +33558,7 @@
     {
       "id": "e9541313-ef07-4ee6-8a80-7a1efe272765",
       "part-of-speech": "verb",
-      "english": "address",
+      "english": "touch on",
       "german": "berühren",
       "cefr": "B1",
       "register": [
@@ -33562,7 +33578,7 @@
     {
       "id": "cba9ef6d-a869-4825-9c85-3d06c196874a",
       "part-of-speech": "adjective",
-      "english": "in bad condition",
+      "english": "in good condition",
       "german": "erhalten",
       "cefr": "B1",
       "register": [
@@ -33572,7 +33588,7 @@
     {
       "id": "0bdee150-a349-48cd-a5a2-6b8e8b28a260",
       "part-of-speech": "adjective",
-      "english": "diligent",
+      "english": "meticulous",
       "german": "gründlich",
       "cefr": "B1",
       "register": [
@@ -33787,10 +33803,10 @@
     {
       "id": "326162ec-0d9c-4b4e-a668-54ff3fedc7a9",
       "part-of-speech": "noun",
-      "english": "level",
-      "german": "Spiegel",
+      "english": "sea level",
+      "german": "Meeresspiegel",
       "gender": "masculine",
-      "plural": "Spiegel",
+      "plural": "Meeresspiegel",
       "cefr": "B1",
       "register": [
         "All"
@@ -36087,14 +36103,15 @@
     {
       "id": "229a6989-c0ac-49d8-98af-d2dd5cfbb4a1",
       "part-of-speech": "noun",
-      "english": "agency",
+      "english": "representative agency",
       "german": "Vertretung",
       "gender": "feminine",
       "plural": "Vertretungen",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "business"
     },
     {
       "id": "159bc1d2-61be-495c-ac3e-19258c90ea00",
@@ -37521,24 +37538,25 @@
     {
       "id": "cfbb75e8-f0bc-412e-a8e6-63d4ff872e33",
       "part-of-speech": "verb",
-      "english": "impute",
+      "english": "ascribe",
       "german": "schieben",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "only for blame"
     },
     {
       "id": "e04b114e-9bc8-45ce-b0cf-2b5f0452dc40",
       "part-of-speech": "noun",
-      "english": "part-time",
+      "english": "part-time basis",
       "german": "Teilzeit",
       "gender": "feminine",
-      "plural": "Teilzeiten",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "countability": "mass"
     },
     {
       "id": "c9f713d2-adc7-41c0-b0fc-20c6c5b07709",
@@ -37764,7 +37782,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "science, research"
     },
     {
       "id": "32d5d6bd-7e30-4d8b-97c7-8f10c1419002",
@@ -38329,7 +38348,7 @@
       "id": "99a67875-c799-40d6-8b2c-4ad34226b57e",
       "part-of-speech": "verb",
       "english": "dare",
-      "german": "trauen",
+      "german": "sich trauen",
       "cefr": "B1",
       "register": [
         "All"
@@ -38804,7 +38823,7 @@
     {
       "id": "a0dc3405-fff0-4d95-9b25-f8b88beeda35",
       "part-of-speech": "noun",
-      "english": "appearance",
+      "english": "appearing",
       "german": "Auftreten",
       "gender": "neuter",
       "cefr": "B1",
@@ -39556,7 +39575,7 @@
     {
       "id": "3db06461-e723-4ed8-ad54-7466c94ea7d2",
       "part-of-speech": "noun",
-      "english": "assault",
+      "english": "onslaught",
       "german": "Sturm",
       "gender": "masculine",
       "plural": "Stürme",
@@ -40660,12 +40679,13 @@
     {
       "id": "f706bb54-531e-413c-99f8-1b404ff849e9",
       "part-of-speech": "adjective",
-      "english": "bright",
+      "english": "bright, cheerful",
       "german": "fröhlich",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "colors"
     },
     {
       "id": "bdcce21c-f501-400e-8cf3-06c26b905710",
@@ -41034,7 +41054,7 @@
     {
       "id": "76e682e5-0d1c-4f5b-b7d3-f79a34ac5702",
       "part-of-speech": "verb",
-      "english": "answer",
+      "english": "answer the phone",
       "german": "abheben",
       "cefr": "B1",
       "register": [
@@ -41451,12 +41471,13 @@
     {
       "id": "3a300583-b067-4614-a89d-6309f41696a2",
       "part-of-speech": "adjective",
-      "english": "bright",
+      "english": "saturated",
       "german": "satt",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "color"
     },
     {
       "id": "56f0f832-ee4e-4596-bb9d-6fcbde218561",
@@ -44475,7 +44496,7 @@
     {
       "id": "c4f9951e-62f2-443b-bd29-29d773a3aeb8",
       "part-of-speech": "verb",
-      "english": "comprehend",
+      "english": "overlook, miss",
       "german": "übersehen",
       "cefr": "B2",
       "register": [
@@ -45316,7 +45337,7 @@
     {
       "id": "ccffa281-2319-4abc-96a7-6fc2513554a0",
       "part-of-speech": "noun",
-      "english": "carriageroad",
+      "english": "traffic lanes",
       "german": "Fahrbahn",
       "gender": "feminine",
       "plural": "Fahrbahnen",
@@ -45328,7 +45349,7 @@
     {
       "id": "4c53cf53-ed5f-46a2-92a8-fa4f7e498da0",
       "part-of-speech": "verb",
-      "english": "at",
+      "english": "eat",
       "german": "fressen",
       "cefr": "B1",
       "register": [
@@ -51176,7 +51197,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "physical harm"
     },
     {
       "id": "6cc75215-7e97-4fc5-9d61-bf7b5a5cff5c",
@@ -53345,7 +53367,7 @@
       "id": "91abab83-4f9c-4eae-a967-ee7bef07046e",
       "part-of-speech": "verb",
       "english": "blow over",
-      "german": "beruhigen",
+      "german": "sich beruhigen",
       "cefr": "B1",
       "register": [
         "All"
@@ -53808,7 +53830,7 @@
     {
       "id": "7fa40a49-a2f8-4158-a16e-3e9212f0997a",
       "part-of-speech": "verb",
-      "english": "halt",
+      "english": "put on hold, pause",
       "german": "ruhen",
       "cefr": "B1",
       "register": [
@@ -58685,7 +58707,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "large or bulk items"
     },
     {
       "id": "eb0024b1-2f43-4f66-9696-1ed0682b9e15",
@@ -59269,13 +59292,15 @@
     {
       "id": "6271c09e-dd38-4dee-95ae-a874e2e474d4",
       "part-of-speech": "noun",
-      "english": "banger",
+      "english": "car",
       "german": "Schüssel",
       "gender": "feminine",
       "plural": "Schüsseln",
       "cefr": "B1",
       "register": [
-        "All"
+        "umgangssprachlich",
+        "salopp",
+        "derb"
       ]
     },
     {
@@ -59957,13 +59982,15 @@
     {
       "id": "5faaeb23-83a3-4a1f-b3ff-417ff64a092b",
       "part-of-speech": "noun",
-      "english": "blunder",
+      "english": "something impressive",
       "german": "Hammer",
       "gender": "masculine",
       "plural": "Hämmer",
       "cefr": "B1",
       "register": [
-        "All"
+        "umgangssprachlich",
+        "salopp",
+        "derb"
       ]
     },
     {
@@ -62225,7 +62252,7 @@
     {
       "id": "4763fb53-015b-426e-ada0-9340d19f671e",
       "part-of-speech": "noun",
-      "english": "hiring",
+      "english": "renting",
       "german": "Vermietung",
       "gender": "feminine",
       "plural": "Vermietungen",
@@ -63008,11 +63035,12 @@
       "id": "1549d60b-b229-4625-9b00-243b51aff241",
       "part-of-speech": "verb",
       "english": "harm",
-      "german": "anhaben",
+      "german": "\"etwas\" anhaben",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "etwas is literal"
     },
     {
       "id": "d7aa901e-bb85-4d06-ab88-555dc0b8e1ab",
@@ -63498,7 +63526,7 @@
     {
       "id": "8ef7cc75-deb6-49f9-ad5a-fc6edac7b66f",
       "part-of-speech": "verb",
-      "english": "cope",
+      "english": "deal, cope",
       "german": "zurechtkommen",
       "cefr": "B1",
       "register": [
@@ -63531,7 +63559,7 @@
       "id": "b155c69b-1511-43dd-9937-ba1810763ffa",
       "part-of-speech": "verb",
       "english": "bleach",
-      "german": "ausziehen",
+      "german": "bleichen",
       "cefr": "B1",
       "register": [
         "All"
@@ -65009,7 +65037,7 @@
     {
       "id": "89155494-6d7b-4549-b372-f5a74751a77b",
       "part-of-speech": "noun",
-      "english": "fraud",
+      "english": "con artist",
       "german": "Betrüger",
       "gender": "masculine",
       "plural": "Betrüger",
@@ -66296,7 +66324,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "geology, mining"
     },
     {
       "id": "89447f76-b9a0-4022-9bd9-10d869a6058d",
@@ -71729,11 +71758,14 @@
     {
       "id": "84eec172-5dc7-45f2-a2ca-2d307e833b3e",
       "part-of-speech": "verb",
-      "english": "be in charge",
-      "german": "schalten",
+      "english": "do as one pleases",
+      "german": "schalten und walten",
       "cefr": "B1",
       "register": [
-        "All"
+        "normalsprachlich",
+        "umgangssprachlich",
+        "salopp",
+        "derb"
       ]
     },
     {
@@ -74732,13 +74764,14 @@
     {
       "id": "77108c43-7c1d-47ef-882f-91d24e11f93d",
       "part-of-speech": "noun",
-      "english": "game",
+      "english": "game animals",
       "german": "Wild",
       "gender": "neuter",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "countability": "mass"
     },
     {
       "id": "18c53575-88e3-486d-b916-086ea2c56d04",
@@ -77815,7 +77848,7 @@
     {
       "id": "b73b1b35-1ab3-4889-9b5b-0699872e60cd",
       "part-of-speech": "noun",
-      "english": "closing time",
+      "english": "closing/quitting time",
       "german": "Feierabend",
       "gender": "masculine",
       "plural": "Feierabende",
@@ -79010,14 +79043,15 @@
     {
       "id": "fa77b70d-5b1e-4a6b-9479-14e69c53a8b0",
       "part-of-speech": "noun",
-      "english": "draw",
+      "english": "draw, tie",
       "german": "Unentschieden",
       "gender": "neuter",
       "plural": "Unentschieden",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "competition"
     },
     {
       "id": "e77bca1a-966b-4609-b381-aaddd64c0907",
@@ -80008,7 +80042,7 @@
     {
       "id": "4c5dbe4d-a990-4d2d-ad28-aba99042805e",
       "part-of-speech": "noun",
-      "english": "discussion",
+      "english": "clearing the air, debate",
       "german": "Aussprache",
       "gender": "feminine",
       "plural": "Aussprachen",
@@ -82885,7 +82919,7 @@
     {
       "id": "b348b750-905c-4893-8f4f-4e24a42f75df",
       "part-of-speech": "noun",
-      "english": "patch",
+      "english": "patch of ground",
       "german": "Fleck",
       "gender": "masculine",
       "plural": "Flecke",
@@ -87388,7 +87422,7 @@
     {
       "id": "09521016-029d-4625-a214-7df0163cc96a",
       "part-of-speech": "adjective",
-      "english": "acceptable",
+      "english": "satisfying",
       "german": "befriedigend",
       "cefr": "B1",
       "register": [
@@ -91774,8 +91808,8 @@
     },
     {
       "id": "13e84b36-d41c-4502-9fb7-c525ea81b812",
-      "part-of-speech": "adjective",
-      "english": "pure",
+      "part-of-speech": "adverb",
+      "english": "nothing but",
       "german": "lauter",
       "cefr": "B1",
       "register": [
@@ -92279,8 +92313,8 @@
     {
       "id": "d4fc55fd-c4e8-40b1-89ec-b42dbd0fd4b4",
       "part-of-speech": "noun",
-      "english": "cloud",
-      "german": "Wehe",
+      "english": "snowdrift",
+      "german": "Schneewehe",
       "gender": "feminine",
       "plural": "Wehen",
       "cefr": "B2",
@@ -94196,7 +94230,7 @@
     {
       "id": "7e301fbc-0a98-4e85-a1a3-34df820b1a3a",
       "part-of-speech": "noun",
-      "english": "class test",
+      "english": "proctored written test",
       "german": "Klassenarbeit",
       "gender": "feminine",
       "plural": "Klassenarbeiten",
@@ -101068,7 +101102,7 @@
     {
       "id": "95129984-9d49-452d-a4e9-b1e5e49ff04f",
       "part-of-speech": "adjective",
-      "english": "taken",
+      "english": "spoken for",
       "german": "vergeben",
       "cefr": "B1",
       "register": [
@@ -102726,7 +102760,7 @@
     {
       "id": "7c4efd4a-b18d-4949-98d3-8fa8c78d1857",
       "part-of-speech": "verb",
-      "english": "befool",
+      "english": "fool",
       "german": "betrügen",
       "cefr": "B1",
       "register": [
@@ -102968,13 +103002,14 @@
     },
     {
       "id": "b992905b-c54b-4589-87ad-49fa92abe56d",
-      "part-of-speech": "adjective",
-      "english": "blackletter",
-      "german": "gebrochen",
+      "part-of-speech": "noun",
+      "english": "Gothic typeface",
+      "german": "gebrochene Schrift",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "gender": "feminine"
     },
     {
       "id": "7e3f76c0-e3b1-445a-a163-bc356db57531",
@@ -105692,7 +105727,7 @@
     {
       "id": "b325ec60-7f86-4358-9d4b-d16b1d3e47a6",
       "part-of-speech": "verb",
-      "english": "beat",
+      "english": "punch, hit",
       "german": "hauen",
       "cefr": "B1",
       "register": [
@@ -107680,7 +107715,7 @@
     {
       "id": "05dd8cd2-1574-4490-9a68-c378534f1c95",
       "part-of-speech": "noun",
-      "english": "dust bin",
+      "english": "trash can",
       "german": "Mülltonne",
       "gender": "feminine",
       "plural": "Mülltonnen",
@@ -112595,7 +112630,7 @@
     {
       "id": "d5489c39-0ccb-445a-b4a6-b1eb2e40e42a",
       "part-of-speech": "adverb",
-      "english": "finally; lastly; in the end",
+      "english": "finally",
       "german": "zuletzt",
       "cefr": "B1",
       "register": [
@@ -113650,7 +113685,7 @@
     {
       "id": "1fa35e0a-2193-4916-89e6-18fde27ab4e7",
       "part-of-speech": "noun",
-      "english": "waste paper basket",
+      "english": "inbox, filing system",
       "german": "Ablage",
       "gender": "feminine",
       "plural": "Ablagen",
@@ -116562,7 +116597,8 @@
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "context": "medical treatment"
     },
     {
       "id": "980514dd-ca89-47b9-a74f-e230a298c3c0",
@@ -116754,6 +116790,240 @@
       "english": "entwined",
       "german": "verschlungen",
       "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3024c793-2ebf-4ed9-ba90-96f367ece2de",
+      "part-of-speech": "verb",
+      "english": "gasp",
+      "german": "japsen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce340845-93dd-4739-859e-916bb9c766c1",
+      "part-of-speech": "noun",
+      "english": "scrap box",
+      "german": "Schrottkiste",
+      "gender": "feminine",
+      "plural": "Schrottkisten",
+      "cefr": "C1",
+      "register": [
+        "umgangssprachlich"
+      ]
+    },
+    {
+      "id": "5f6a07ab-6844-42d5-8eac-2cb7566b7a46",
+      "part-of-speech": "verb",
+      "english": "fertilize",
+      "german": "düngen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44064ea3-468a-4861-a6d7-80b2aa565776",
+      "part-of-speech": "noun",
+      "english": "shredder",
+      "german": "Häcksler",
+      "gender": "masculine",
+      "plural": "Häcksler",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "145a4c57-cbc5-457f-b294-cb0d28b54216",
+      "part-of-speech": "noun",
+      "english": "mess",
+      "german": "Sauerei",
+      "gender": "feminine",
+      "plural": "Sauereien",
+      "cefr": "B2",
+      "register": [
+        "salopp"
+      ]
+    },
+    {
+      "id": "4869fa13-bd88-4c80-a517-643cfbd7188e",
+      "part-of-speech": "verb",
+      "english": "dismember",
+      "german": "zerstückeln",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb3c74e4-4e2f-444c-8126-2cb3fef270d0",
+      "part-of-speech": "verb",
+      "english": "decay",
+      "german": "verwesen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a44c90bd-6144-494f-9049-cc5fb1feca2b",
+      "part-of-speech": "noun",
+      "english": "rhinestone",
+      "german": "Strass",
+      "gender": "masculine",
+      "countability": "mass",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0df02d4-3f51-4c8e-a569-6bd426a34080",
+      "part-of-speech": "verb",
+      "english": "assess",
+      "german": "taxieren",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b78b046-46d1-45a1-883b-9ff01f843ab9",
+      "part-of-speech": "noun",
+      "english": "executor",
+      "german": "Nachlassverwalter",
+      "gender": "masculine",
+      "plural": "Nachlassverwalter",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38507fcb-565f-44f0-bc7d-a277abd64084",
+      "part-of-speech": "noun",
+      "english": "death",
+      "german": "Ableben",
+      "gender": "neuter",
+      "countability": "mass",
+      "cefr": "C2",
+      "register": [
+        "gehoben"
+      ]
+    },
+    {
+      "id": "7f290a26-0888-48a1-86d0-06841d54d6b5",
+      "part-of-speech": "adjective",
+      "english": "sneering",
+      "german": "höhnisch",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c683fe85-b54b-415f-857c-84f777a52f51",
+      "part-of-speech": "adjective",
+      "english": "suddenly",
+      "german": "schlagartig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c7b33c8-3686-4088-9524-28f98065ac5f",
+      "part-of-speech": "adjective",
+      "english": "conservative",
+      "german": "bieder",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7f86f06-cf6c-4e6b-a2a0-00e8d6a118ca",
+      "part-of-speech": "noun",
+      "english": "wrong path",
+      "german": "Holzweg",
+      "gender": "masculine",
+      "plural": "Holzwege",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db363842-b671-4131-9d70-c8b81b9929b4",
+      "part-of-speech": "adjective",
+      "english": "blurred",
+      "german": "verschwommen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "488d83bb-7ff0-46b5-9cf2-4de4611c1e87",
+      "part-of-speech": "adjective",
+      "english": "tightened",
+      "german": "zugeschnürt",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "528e5750-ce02-4b4b-9f88-b16feb342916",
+      "part-of-speech": "noun",
+      "english": "heat of the moment",
+      "german": "Eifer des Gefechts",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "747c1c75-efba-4cd2-b1e9-5b86b307e3f0",
+      "part-of-speech": "adjective",
+      "english": "grumpy",
+      "german": "miesepetrig",
+      "cefr": "C2",
+      "register": [
+        "umgangssprachlich"
+      ]
+    },
+    {
+      "id": "cd285eef-55c8-4a67-bc2c-f20a3eb305ae",
+      "part-of-speech": "adjective",
+      "english": "ruled out",
+      "german": "hinfällig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3104c2e-9ec2-4401-92ae-a96805f2e29c",
+      "part-of-speech": "verb",
+      "english": "hesitate",
+      "german": "sich zieren",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc14ba95-131a-40f7-aea8-ed0bcee9d618",
+      "part-of-speech": "verb",
+      "english": "meander",
+      "german": "schlängeln",
+      "cefr": "C1",
       "register": [
         "All"
       ]

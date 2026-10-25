@@ -617,6 +617,10 @@ html, body {
   max-width: 540px;
 }
 
+.choices-grid.non-latin-choices .choice-btn {
+  font-size: calc(1rem * var(--non-latin-scale, 1.25));
+}
+
 .choice-btn {
   background: var(--surface);
   border: 2px solid var(--border);
@@ -640,12 +644,17 @@ html, body {
 }
 
 .choice-text {
-  display: -webkit-box;
-  -webkit-line-clamp: 1;
-  -webkit-box-orient: vertical;
   overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
   width: 100%;
   text-align: center;
+}
+
+/* Boosts a base-letter-plus-combining-mark cluster (e.g. Korean's tense
+   consonant diacritic) so a subtle-but-meaningful mark is actually visible. */
+.ipa-mark-cluster {
+  font-size: 1.5em;
 }
 
 /* hover tooltip for truncated text */
@@ -657,14 +666,14 @@ html, body {
   transform: translateX(-50%);
   background: rgba(29, 29, 31, 0.88);
   color: #fff;
-  padding: 8px 12px;
-  border-radius: 8px;
-  font-size: 0.82rem;
+  padding: 12px 18px;
+  border-radius: 12px;
+  font-size: 1.23rem;
   font-weight: 400;
   line-height: 1.45;
   white-space: normal;
   width: max-content;
-  max-width: 260px;
+  max-width: 390px;
   text-align: center;
   pointer-events: none;
   opacity: 0;
@@ -737,17 +746,25 @@ html, body {
 
 /* ── Summary Screen ────────────────────────────────── */
 #summary-screen {
-  overflow-y: auto;
-  padding-top: 48px;
+  overflow: hidden;
 }
 
 .summary-content {
   max-width: 580px;
+  width: 100%;
+  height: 100%;
   margin: 0 auto;
-  padding: 40px 32px;
+  padding: 28px 32px 24px;
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
-  gap: 28px;
+  gap: 20px;
+}
+
+.summary-content h2,
+.stats-row,
+.summary-actions {
+  flex-shrink: 0;
 }
 
 .summary-content h2 {
@@ -794,7 +811,8 @@ html, body {
   display: flex;
   flex-direction: column;
   gap: 8px;
-  max-height: 280px;
+  flex: 0 1 auto;
+  min-height: 0;
   overflow-y: auto;
 }
 
@@ -1114,6 +1132,7 @@ html, body {
   font-weight: 700;
   white-space: nowrap;
 }
+.cefr-A0 { background: #fef3c7; color: #92400e; }
 .cefr-A1 { background: #d1fae5; color: #065f46; }
 .cefr-A2 { background: #d1fae5; color: #065f46; }
 .cefr-B1 { background: #dbeafe; color: #1e40af; }
@@ -1499,4 +1518,98 @@ html, body {
   background: rgba(255,59,48,0.08);
   border-color: var(--red);
   color: var(--text);
+}
+
+/* ── Script Guide Modal ───────────────────────────────── */
+.modal-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.45);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  z-index: 100;
+}
+
+.modal-card {
+  background: var(--surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow-md);
+  width: 100%;
+  max-width: 560px;
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.modal-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px 20px;
+  border-bottom: 1px solid var(--border);
+  flex-shrink: 0;
+}
+
+.modal-header h2 {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.modal-body {
+  padding: 16px 20px 24px;
+  overflow-y: auto;
+}
+
+.script-guide-intro {
+  font-size: 0.9rem;
+  color: var(--text-2);
+  line-height: 1.5;
+  margin-bottom: 18px;
+}
+
+.script-guide-heading {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 20px 0 10px;
+}
+.script-guide-heading:first-of-type { margin-top: 0; }
+
+.script-guide-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));
+  gap: 8px;
+}
+
+.script-char-cell {
+  background: var(--surface-2);
+  border-radius: var(--radius-xs);
+  padding: 10px 6px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.script-char {
+  font-size: 1.4rem;
+  color: var(--text);
+  line-height: 1.2;
+}
+
+.script-char-ipa {
+  font-size: 0.78rem;
+  color: var(--accent);
+  font-family: 'SF Mono', Menlo, monospace;
+}
+
+.script-char-note {
+  font-size: 0.68rem;
+  color: var(--text-2);
+  line-height: 1.2;
 }

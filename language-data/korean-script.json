@@ -1,0 +1,97 @@
+{
+  "scriptName": "Hangul",
+  "fontScale": 1.5,
+  "intro": "Hangul is a featural alphabet, not an abugida like Devanagari: every syllable needs an explicit vowel (there is no inherent vowel), and letters (jamo) are arranged into a syllable block — an initial consonant, a vowel, and an optional final consonant (batchim) — rather than written in a single line. Korean's main three-way contrast is laryngeal, not voicing: lenis (plain), aspirated, and fortis (tense) versions of the same consonant.",
+  "sections": [
+    {
+      "heading": "Vowels (모음)",
+      "items": [
+        { "char": "ㅏ", "ipa": "/a/", "note": "" },
+        { "char": "ㅑ", "ipa": "/ja/", "note": "" },
+        { "char": "ㅓ", "ipa": "/ʌ/", "note": "" },
+        { "char": "ㅕ", "ipa": "/jʌ/", "note": "" },
+        { "char": "ㅗ", "ipa": "/o/", "note": "" },
+        { "char": "ㅛ", "ipa": "/jo/", "note": "" },
+        { "char": "ㅜ", "ipa": "/u/", "note": "" },
+        { "char": "ㅠ", "ipa": "/ju/", "note": "" },
+        { "char": "ㅡ", "ipa": "/ɯ/", "note": "no English equivalent" },
+        { "char": "ㅣ", "ipa": "/i/", "note": "" }
+      ]
+    },
+    {
+      "heading": "Compound Vowels (복모음)",
+      "items": [
+        { "char": "ㅐ", "ipa": "/ɛ/", "note": "" },
+        { "char": "ㅒ", "ipa": "/jɛ/", "note": "" },
+        { "char": "ㅔ", "ipa": "/e/", "note": "near-merged with ㅐ" },
+        { "char": "ㅖ", "ipa": "/je/", "note": "" },
+        { "char": "ㅘ", "ipa": "/wa/", "note": "" },
+        { "char": "ㅙ", "ipa": "/wɛ/", "note": "" },
+        { "char": "ㅚ", "ipa": "/we/", "note": "near-merged with ㅞ" },
+        { "char": "ㅝ", "ipa": "/wʌ/", "note": "" },
+        { "char": "ㅞ", "ipa": "/we/", "note": "near-merged with ㅚ" },
+        { "char": "ㅟ", "ipa": "/wi/", "note": "" },
+        { "char": "ㅢ", "ipa": "/ɰi/", "note": "" }
+      ]
+    },
+    {
+      "heading": "Velar Consonants",
+      "items": [
+        { "char": "ㄱ", "ipa": "/k/", "note": "lenis" },
+        { "char": "ㅋ", "ipa": "/kʰ/", "note": "aspirated" },
+        { "char": "ㄲ", "ipa": "/k͈/", "note": "fortis (tense)" }
+      ]
+    },
+    {
+      "heading": "Alveolar Stop Consonants",
+      "items": [
+        { "char": "ㄷ", "ipa": "/t/", "note": "lenis" },
+        { "char": "ㅌ", "ipa": "/tʰ/", "note": "aspirated" },
+        { "char": "ㄸ", "ipa": "/t͈/", "note": "fortis (tense)" }
+      ]
+    },
+    {
+      "heading": "Bilabial Consonants",
+      "items": [
+        { "char": "ㅂ", "ipa": "/p/", "note": "lenis" },
+        { "char": "ㅍ", "ipa": "/pʰ/", "note": "aspirated" },
+        { "char": "ㅃ", "ipa": "/p͈/", "note": "fortis (tense)" }
+      ]
+    },
+    {
+      "heading": "Affricates",
+      "items": [
+        { "char": "ㅈ", "ipa": "/tɕ/", "note": "lenis" },
+        { "char": "ㅊ", "ipa": "/tɕʰ/", "note": "aspirated" },
+        { "char": "ㅉ", "ipa": "/t͈ɕ/", "note": "fortis (tense)" }
+      ]
+    },
+    {
+      "heading": "Alveolar Fricative",
+      "items": [
+        { "char": "ㅅ", "ipa": "/s/", "note": "lenis — no aspirated counterpart" },
+        { "char": "ㅆ", "ipa": "/s͈/", "note": "fortis (tense)" }
+      ]
+    },
+    {
+      "heading": "Nasals",
+      "items": [
+        { "char": "ㄴ", "ipa": "/n/", "note": "" },
+        { "char": "ㅁ", "ipa": "/m/", "note": "" },
+        { "char": "ㅇ", "ipa": "/ŋ/", "note": "silent as an initial — only /ŋ/ as a final" }
+      ]
+    },
+    {
+      "heading": "Liquid",
+      "items": [
+        { "char": "ㄹ", "ipa": "/l/", "note": "a tap [ɾ] between vowels" }
+      ]
+    },
+    {
+      "heading": "Glottal",
+      "items": [
+        { "char": "ㅎ", "ipa": "/h/", "note": "" }
+      ]
+    }
+  ]
+}

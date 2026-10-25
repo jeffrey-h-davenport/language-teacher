@@ -4,9 +4,29 @@
   "description": "Language learning app for macOS",
   "main": "app/main.js",
   "scripts": {
-    "start": "ELECTRON_RUN_AS_NODE= electron ."
+    "start": "ELECTRON_RUN_AS_NODE= electron .",
+    "dist": "electron-builder --mac"
   },
   "devDependencies": {
-    "electron": "^33.0.0"
+    "electron": "^33.0.0",
+    "electron-builder": "^26.18.0"
+  },
+  "build": {
+    "appId": "com.languageteacher.app",
+    "productName": "Language Teacher",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "app/**/*",
+      "language-data/**/*",
+      "package.json",
+      "!language-data/*-progress.json"
+    ],
+    "asar": false,
+    "mac": {
+      "category": "public.app-category.education",
+      "target": "dmg"
+    }
   }
 }

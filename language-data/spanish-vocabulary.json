@@ -645,7 +645,7 @@
     {
       "id": "aca0a09c-35c2-4044-bcb4-ea7a1c918ea5",
       "part-of-speech": "adverb",
-      "english": "there: used to designate a place near the listener",
+      "english": "there (nearby)",
       "spanish": "ahí",
       "cefr": "A1",
       "register": [
@@ -949,7 +949,7 @@
     {
       "id": "a5231cf0-6b22-41ab-8ba2-ca972cfc6565",
       "part-of-speech": "verb",
-      "english": "makes pluperfect to verbs as part of the auxiliary verb haber.",
+      "english": "there was/were",
       "spanish": "había",
       "cefr": "A1",
       "register": [
@@ -1120,8 +1120,8 @@
     },
     {
       "id": "4d79c823-c8ec-406a-9595-7857577f72c0",
-      "part-of-speech": "adjective",
-      "english": "apocopic form of grande; great, grand",
+      "part-of-speech": "adjective-declension",
+      "english": "great (before noun)",
       "spanish": "gran",
       "cefr": "A1",
       "register": [
@@ -1688,7 +1688,7 @@
     {
       "id": "ea8d838d-49cd-4c52-af10-d95d12c9e422",
       "part-of-speech": "adjective",
-      "english": "ingenious, genius",
+      "english": "ingenious",
       "spanish": "genial",
       "cefr": "A1",
       "register": [
@@ -1734,8 +1734,8 @@
     {
       "id": "db418488-b8b4-4fec-9c55-be73d81eee28",
       "part-of-speech": "verb",
-      "english": "only used in te personas, second-person singular present indicative of personarse",
-      "spanish": "personas",
+      "english": "appear in person",
+      "spanish": "personarse",
       "cefr": "A1",
       "register": [
         "All"
@@ -2028,7 +2028,7 @@
     {
       "id": "efc2b82d-dd1d-4e26-813a-9c8baf51ea3d",
       "part-of-speech": "adjective",
-      "english": "happy, merry (trait)",
+      "english": "happy",
       "spanish": "feliz",
       "cefr": "A1",
       "register": [
@@ -2104,7 +2104,7 @@
     {
       "id": "804b254e-ca0e-4302-9a7c-bea8eff051cb",
       "part-of-speech": "noun",
-      "english": "rest (that remaining after cutting textiles)",
+      "english": "scrap",
       "spanish": "deja",
       "gender": "feminine",
       "plural": "dejas",
@@ -2116,7 +2116,7 @@
     {
       "id": "57c514ce-d136-4869-9f49-4396124d147c",
       "part-of-speech": "adjective",
-      "english": "important, that cares, that matters.",
+      "english": "important, that matters",
       "spanish": "importante",
       "cefr": "A1",
       "register": [

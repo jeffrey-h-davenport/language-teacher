@@ -1,0 +1,7604 @@
+{
+  "meta": {
+    "language": "Hindi",
+    "languageCode": "hi",
+    "nativeLanguage": "English",
+    "targetField": "hindi",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "6a80f8d0-47ff-4524-b33c-574049993de8",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "hindi": "मैं",
+      "cefr": "A1",
+      "ipa": "[mɛ̃ː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मैं",
+          "ipa": "[mɛ̃ː]"
+        }
+      ]
+    },
+    {
+      "id": "2ccb26ac-19f3-400f-9b4c-81074d166c1e",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "hindi": "तुम",
+      "cefr": "A1",
+      "ipa": "[t̪ʊm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "तु",
+          "ipa": "[t̪ʊ]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "75c7bca7-2c26-4da7-a48f-58519846daa7",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "hindi": "आप",
+      "cefr": "A1",
+      "ipa": "[aːp]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        }
+      ]
+    },
+    {
+      "id": "bbb3aa42-be1a-42be-9852-e2b4c9a10546",
+      "part-of-speech": "pronoun",
+      "english": "he, she, that",
+      "hindi": "वह",
+      "cefr": "A1",
+      "ipa": "[vəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "व",
+          "ipa": "[və]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "2efa889b-3fed-433b-b5a7-f778f7f622e3",
+      "part-of-speech": "pronoun",
+      "english": "this, he, she",
+      "hindi": "यह",
+      "cefr": "A1",
+      "ipa": "[jəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "य",
+          "ipa": "[jə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "48d97e64-5b14-4b66-8148-48e5b03afac3",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "hindi": "हम",
+      "cefr": "A1",
+      "ipa": "[ɦəm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "763e52a4-f6ea-4695-b823-7a18f8ad0dc9",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "hindi": "वे",
+      "cefr": "A1",
+      "ipa": "[veː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "वे",
+          "ipa": "[veː]"
+        }
+      ]
+    },
+    {
+      "id": "cfa7770b-8902-4ee7-a240-a9366e6c0082",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "hindi": "मेरा",
+      "cefr": "A1",
+      "ipa": "[meːraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मे",
+          "ipa": "[meː]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "a34d0792-c2aa-4369-83eb-39d5bea4866e",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "hindi": "तुम्हारा",
+      "cefr": "A1",
+      "ipa": "[t̪ʊmɦaːraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "तु",
+          "ipa": "[t̪ʊ]"
+        },
+        {
+          "letter": "म्",
+          "ipa": "[m]"
+        },
+        {
+          "letter": "हा",
+          "ipa": "[ɦaː]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "92cd5804-3840-4265-b9df-1757735002f9",
+      "part-of-speech": "pronoun",
+      "english": "your (formal)",
+      "hindi": "आपका",
+      "cefr": "A2",
+      "ipa": "[aːpkaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        }
+      ]
+    },
+    {
+      "id": "f472bd5a-610b-4475-9bf3-868d45183c75",
+      "part-of-speech": "pronoun",
+      "english": "his, her",
+      "hindi": "उसका",
+      "cefr": "A2",
+      "ipa": "[ʊskaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "उ",
+          "ipa": "[ʊ]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        }
+      ]
+    },
+    {
+      "id": "1cf1e34d-3f5b-43bd-b17a-fdb78f6fc36d",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "hindi": "हमारा",
+      "cefr": "A2",
+      "ipa": "[ɦəmaːraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "मा",
+          "ipa": "[maː]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "1772bac8-3156-45e5-87d4-257b97f8caf3",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "hindi": "उनका",
+      "cefr": "A2",
+      "ipa": "[ʊnkaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "उ",
+          "ipa": "[ʊ]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        }
+      ]
+    },
+    {
+      "id": "dc356fb7-8653-4857-a21f-24719d7f475c",
+      "part-of-speech": "pronoun",
+      "english": "someone, anyone",
+      "hindi": "कोई",
+      "cefr": "A2",
+      "ipa": "[koːiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "को",
+          "ipa": "[koː]"
+        },
+        {
+          "letter": "ई",
+          "ipa": "[iː]"
+        }
+      ]
+    },
+    {
+      "id": "ecf4fe93-cb66-4759-9abb-b7e42f80ff24",
+      "part-of-speech": "pronoun",
+      "english": "something, some",
+      "hindi": "कुछ",
+      "cefr": "A1",
+      "ipa": "[kʊtʃʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कु",
+          "ipa": "[kʊ]"
+        },
+        {
+          "letter": "छ",
+          "ipa": "[tʃʰə]"
+        }
+      ]
+    },
+    {
+      "id": "856355d2-1317-4585-8b1b-644cacf3e8ee",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "hindi": "कौन",
+      "cefr": "A1",
+      "ipa": "[kɔːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कौ",
+          "ipa": "[kɔː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "d396c3ab-b9e9-48be-b0cc-e15a695f2d1b",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "hindi": "क्या",
+      "cefr": "A1",
+      "ipa": "[kjaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क्",
+          "ipa": "[k]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        }
+      ]
+    },
+    {
+      "id": "705f99a9-bc2c-4a16-a420-958ea1386c6b",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "hindi": "कहाँ",
+      "cefr": "A1",
+      "ipa": "[kəɦãː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "हाँ",
+          "ipa": "[ɦãː]"
+        }
+      ]
+    },
+    {
+      "id": "55d0193f-5e52-4fc4-b9f6-068dc2554777",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "hindi": "कब",
+      "cefr": "A1",
+      "ipa": "[kəb]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        }
+      ]
+    },
+    {
+      "id": "6d4872e8-e99c-408e-843b-511d9d0eed1b",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "hindi": "क्यों",
+      "cefr": "A1",
+      "ipa": "[kjõː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क्",
+          "ipa": "[k]"
+        },
+        {
+          "letter": "यों",
+          "ipa": "[jõː]"
+        }
+      ]
+    },
+    {
+      "id": "82ce134a-7014-4510-93c5-6ded5f45fa89",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "hindi": "कैसे",
+      "cefr": "A1",
+      "ipa": "[kɛːseː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कै",
+          "ipa": "[kɛː]"
+        },
+        {
+          "letter": "से",
+          "ipa": "[seː]"
+        }
+      ]
+    },
+    {
+      "id": "9dad564f-5497-46fc-9a71-33e5468851de",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "hindi": "कितना",
+      "cefr": "A2",
+      "ipa": "[kɪt̪naː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "4ea6bf92-948c-4331-93ec-fa6ed57868db",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "hindi": "कौन सा",
+      "cefr": "A2",
+      "ipa": "[kɔːn saː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कौ",
+          "ipa": "[kɔː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        }
+      ]
+    },
+    {
+      "id": "1af193cc-7e3c-47f6-b111-fe0291584823",
+      "part-of-speech": "adjective",
+      "english": "one",
+      "hindi": "एक",
+      "cefr": "A1",
+      "ipa": "[eːk]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ए",
+          "ipa": "[eː]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "b78834ef-6786-4dbf-a38f-a46a1897254c",
+      "part-of-speech": "adjective",
+      "english": "two",
+      "hindi": "दो",
+      "cefr": "A1",
+      "ipa": "[d̪oː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दो",
+          "ipa": "[d̪oː]"
+        }
+      ]
+    },
+    {
+      "id": "a45aec31-32cc-47fe-b7de-0fcf1df0ee29",
+      "part-of-speech": "adjective",
+      "english": "three",
+      "hindi": "तीन",
+      "cefr": "A1",
+      "ipa": "[t̪iːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ती",
+          "ipa": "[t̪iː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "7e80b691-1ae8-49e6-a167-495cddb24385",
+      "part-of-speech": "adjective",
+      "english": "four",
+      "hindi": "चार",
+      "cefr": "A1",
+      "ipa": "[tʃaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "3e2bb404-1308-4525-b8cb-ef209f61563a",
+      "part-of-speech": "adjective",
+      "english": "five",
+      "hindi": "पाँच",
+      "cefr": "A1",
+      "ipa": "[pãːtʃ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पाँ",
+          "ipa": "[pãː]"
+        },
+        {
+          "letter": "च",
+          "ipa": "[tʃə]"
+        }
+      ]
+    },
+    {
+      "id": "0e6f0935-1758-4a7e-8ce4-03972bbcf71f",
+      "part-of-speech": "adjective",
+      "english": "six",
+      "hindi": "छह",
+      "cefr": "A1",
+      "ipa": "[tʃʰəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "छ",
+          "ipa": "[tʃʰə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "0c8c3557-e38b-48f9-97f1-0cefcfd91f81",
+      "part-of-speech": "adjective",
+      "english": "seven",
+      "hindi": "सात",
+      "cefr": "A1",
+      "ipa": "[saːt̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "1689032d-e3cb-4a1b-8385-779c6a2c81d5",
+      "part-of-speech": "adjective",
+      "english": "eight",
+      "hindi": "आठ",
+      "cefr": "A1",
+      "ipa": "[aːʈʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "ठ",
+          "ipa": "[ʈʰə]"
+        }
+      ]
+    },
+    {
+      "id": "2f3f7c12-cefd-4a2d-9296-6fa7968f45df",
+      "part-of-speech": "adjective",
+      "english": "nine",
+      "hindi": "नौ",
+      "cefr": "A1",
+      "ipa": "[nɔː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "नौ",
+          "ipa": "[nɔː]"
+        }
+      ]
+    },
+    {
+      "id": "a84b4d80-634e-4c80-af7e-346b7b9a387a",
+      "part-of-speech": "adjective",
+      "english": "ten",
+      "hindi": "दस",
+      "cefr": "A1",
+      "ipa": "[d̪əs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "978a1c38-7cb9-4a25-a372-993e1e3871fc",
+      "part-of-speech": "adjective",
+      "english": "eleven",
+      "hindi": "ग्यारह",
+      "cefr": "A1",
+      "ipa": "[ɡjaːrəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ग्",
+          "ipa": "[ɡ]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "934dc3b4-b35a-4c5c-ac43-57d2763b757e",
+      "part-of-speech": "adjective",
+      "english": "twelve",
+      "hindi": "बारह",
+      "cefr": "A1",
+      "ipa": "[baːrəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बा",
+          "ipa": "[baː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "8febabbd-73fd-4ffb-bd58-6314dead680b",
+      "part-of-speech": "adjective",
+      "english": "thirteen",
+      "hindi": "तेरह",
+      "cefr": "A1",
+      "ipa": "[t̪eːrəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ते",
+          "ipa": "[t̪eː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "14fe8e87-da16-486c-bc80-495c367bb1fc",
+      "part-of-speech": "adjective",
+      "english": "fourteen",
+      "hindi": "चौदह",
+      "cefr": "A1",
+      "ipa": "[tʃɔːd̪əɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चौ",
+          "ipa": "[tʃɔː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "c8f0768d-fb8d-428f-bcbd-c19e4dec54fe",
+      "part-of-speech": "adjective",
+      "english": "fifteen",
+      "hindi": "पंद्रह",
+      "cefr": "A1",
+      "ipa": "[pənd̪rəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पं",
+          "ipa": "[pə̃]"
+        },
+        {
+          "letter": "द्",
+          "ipa": "[d̪]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "183fa61c-9515-466f-8aff-f2a00a0de96f",
+      "part-of-speech": "adjective",
+      "english": "sixteen",
+      "hindi": "सोलह",
+      "cefr": "A1",
+      "ipa": "[soːləɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सो",
+          "ipa": "[soː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "60575f65-524a-4fb5-ab77-0cbce92645b1",
+      "part-of-speech": "adjective",
+      "english": "seventeen",
+      "hindi": "सत्रह",
+      "cefr": "A1",
+      "ipa": "[sət̪rəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "त्",
+          "ipa": "[t̪]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "6c34b1b2-eeaf-4b9a-b5f3-b932b5acb60d",
+      "part-of-speech": "adjective",
+      "english": "eighteen",
+      "hindi": "अठारह",
+      "cefr": "A1",
+      "ipa": "[əʈʰaːrəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "ठा",
+          "ipa": "[ʈʰaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "5f702797-2369-4086-bef7-eda3b76768de",
+      "part-of-speech": "adjective",
+      "english": "nineteen",
+      "hindi": "उन्नीस",
+      "cefr": "A1",
+      "ipa": "[ʊnniːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "उ",
+          "ipa": "[ʊ]"
+        },
+        {
+          "letter": "न्",
+          "ipa": "[n]"
+        },
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "77df1e09-4aa9-4689-bf5b-be4243ca2e55",
+      "part-of-speech": "adjective",
+      "english": "twenty",
+      "hindi": "बीस",
+      "cefr": "A1",
+      "ipa": "[biːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बी",
+          "ipa": "[biː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "78a36101-794d-4639-973d-149f1a577795",
+      "part-of-speech": "adjective",
+      "english": "thirty",
+      "hindi": "तीस",
+      "cefr": "A2",
+      "ipa": "[t̪iːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ती",
+          "ipa": "[t̪iː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "81539110-770d-43f5-8fd9-20aa8af948eb",
+      "part-of-speech": "adjective",
+      "english": "forty",
+      "hindi": "चालीस",
+      "cefr": "A2",
+      "ipa": "[tʃaːliːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "ली",
+          "ipa": "[liː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "b69a89c1-eb84-483a-bd47-86d289fbe5a9",
+      "part-of-speech": "adjective",
+      "english": "fifty",
+      "hindi": "पचास",
+      "cefr": "A2",
+      "ipa": "[pətʃaːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "ef8d7eeb-aeba-4ec3-9e92-d32f71b8dde6",
+      "part-of-speech": "adjective",
+      "english": "sixty",
+      "hindi": "साठ",
+      "cefr": "A2",
+      "ipa": "[saːʈʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "ठ",
+          "ipa": "[ʈʰə]"
+        }
+      ]
+    },
+    {
+      "id": "f75eb9b7-2945-4bfa-ad23-718a2130054d",
+      "part-of-speech": "adjective",
+      "english": "seventy",
+      "hindi": "सत्तर",
+      "cefr": "A2",
+      "ipa": "[sət̪t̪ər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "त्",
+          "ipa": "[t̪]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "c2e5a669-33f9-4672-bc53-6d0aaa7b4c7b",
+      "part-of-speech": "adjective",
+      "english": "eighty",
+      "hindi": "अस्सी",
+      "cefr": "A2",
+      "ipa": "[əssiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "सी",
+          "ipa": "[siː]"
+        }
+      ]
+    },
+    {
+      "id": "b030e468-38d0-4739-a58a-3a659509ee55",
+      "part-of-speech": "adjective",
+      "english": "ninety",
+      "hindi": "नब्बे",
+      "cefr": "A2",
+      "ipa": "[nəbbeː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "ब्",
+          "ipa": "[b]"
+        },
+        {
+          "letter": "बे",
+          "ipa": "[beː]"
+        }
+      ]
+    },
+    {
+      "id": "6116a1ac-2759-416a-a6cd-b44378b3d034",
+      "part-of-speech": "adjective",
+      "english": "hundred",
+      "hindi": "सौ",
+      "cefr": "A2",
+      "ipa": "[sɔː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सौ",
+          "ipa": "[sɔː]"
+        }
+      ]
+    },
+    {
+      "id": "4ae24487-82ab-42a1-a547-2559bd64672c",
+      "part-of-speech": "adjective",
+      "english": "thousand",
+      "hindi": "हज़ार",
+      "cefr": "A2",
+      "ipa": "[ɦəzaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "ज़ा",
+          "ipa": "[zaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "486adef0-675d-467b-8a11-1fc981227dc2",
+      "part-of-speech": "adjective",
+      "english": "first",
+      "hindi": "पहला",
+      "cefr": "A2",
+      "ipa": "[pəɦlaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        }
+      ]
+    },
+    {
+      "id": "a82846d0-afd5-4b72-8189-c70fb143cbf0",
+      "part-of-speech": "adjective",
+      "english": "second",
+      "hindi": "दूसरा",
+      "cefr": "A2",
+      "ipa": "[d̪uːsraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दू",
+          "ipa": "[d̪uː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "7516af47-878a-4c48-bf91-286bc82885a8",
+      "part-of-speech": "adjective",
+      "english": "third",
+      "hindi": "तीसरा",
+      "cefr": "A2",
+      "ipa": "[t̪iːsraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ती",
+          "ipa": "[t̪iː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "45bcf2ec-ccf6-468d-99ad-e74b4430aa35",
+      "part-of-speech": "adjective",
+      "english": "last",
+      "hindi": "आख़िरी",
+      "cefr": "A2",
+      "ipa": "[aːxɪriː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "ख़ि",
+          "ipa": "[xɪ]"
+        },
+        {
+          "letter": "री",
+          "ipa": "[riː]"
+        }
+      ]
+    },
+    {
+      "id": "4d403fd3-7921-4e8f-9db5-f1f8a1f6a162",
+      "part-of-speech": "noun",
+      "english": "family",
+      "hindi": "परिवार",
+      "gender": "masculine",
+      "plural": "परिवार",
+      "cefr": "A1",
+      "ipa": "[pərɪvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "रि",
+          "ipa": "[rɪ]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "0422f084-38f8-45ce-ae88-4f4592624584",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "hindi": "माँ",
+      "gender": "feminine",
+      "plural": "माँएँ",
+      "cefr": "A1",
+      "ipa": "[mãː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "माँ",
+          "ipa": "[mãː]"
+        }
+      ]
+    },
+    {
+      "id": "184f712f-6f17-4af7-a43c-6da1f0cbdd73",
+      "part-of-speech": "noun",
+      "english": "father",
+      "hindi": "पिता",
+      "gender": "masculine",
+      "plural": "पिता",
+      "cefr": "A1",
+      "ipa": "[pɪt̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पि",
+          "ipa": "[pɪ]"
+        },
+        {
+          "letter": "ता",
+          "ipa": "[t̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "38f83ec9-864c-43f8-a599-4756bf65ac7a",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "hindi": "भाई",
+      "gender": "masculine",
+      "plural": "भाई",
+      "cefr": "A1",
+      "ipa": "[bʰaːiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "भा",
+          "ipa": "[bʰaː]"
+        },
+        {
+          "letter": "ई",
+          "ipa": "[iː]"
+        }
+      ]
+    },
+    {
+      "id": "f1c2190d-f2d8-4513-beeb-a5b7589e2ef7",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "hindi": "बहन",
+      "gender": "feminine",
+      "plural": "बहनें",
+      "cefr": "A1",
+      "ipa": "[bəɦən]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "2bb7b4d6-6cb8-4518-9b36-6c9235a2671f",
+      "part-of-speech": "noun",
+      "english": "son",
+      "hindi": "बेटा",
+      "gender": "masculine",
+      "plural": "बेटे",
+      "cefr": "A1",
+      "ipa": "[beːʈaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बे",
+          "ipa": "[beː]"
+        },
+        {
+          "letter": "टा",
+          "ipa": "[ʈaː]"
+        }
+      ]
+    },
+    {
+      "id": "3d4a6f34-8f37-4184-8b84-28e4f4e194a9",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "hindi": "बेटी",
+      "gender": "feminine",
+      "plural": "बेटियाँ",
+      "cefr": "A1",
+      "ipa": "[beːʈiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बे",
+          "ipa": "[beː]"
+        },
+        {
+          "letter": "टी",
+          "ipa": "[ʈiː]"
+        }
+      ]
+    },
+    {
+      "id": "419a3935-9396-435e-b166-3e3e4b9df17d",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "hindi": "पति",
+      "gender": "masculine",
+      "plural": "पति",
+      "cefr": "A2",
+      "ipa": "[pət̪ɪ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ति",
+          "ipa": "[t̪ɪ]"
+        }
+      ]
+    },
+    {
+      "id": "c513584f-621b-4163-9d00-f4e963fdc3fd",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "hindi": "पत्नी",
+      "gender": "feminine",
+      "plural": "पत्नियाँ",
+      "cefr": "A2",
+      "ipa": "[pət̪niː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "त्",
+          "ipa": "[t̪]"
+        },
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        }
+      ]
+    },
+    {
+      "id": "f0373df1-dae9-4740-951a-706968b049d6",
+      "part-of-speech": "noun",
+      "english": "grandfather (father's side)",
+      "hindi": "दादा",
+      "gender": "masculine",
+      "plural": "दादा",
+      "cefr": "A2",
+      "ipa": "[d̪aːd̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दा",
+          "ipa": "[d̪aː]"
+        },
+        {
+          "letter": "दा",
+          "ipa": "[d̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "939aaeec-3cfc-4782-9021-f845193beac9",
+      "part-of-speech": "noun",
+      "english": "grandmother (father's side)",
+      "hindi": "दादी",
+      "gender": "feminine",
+      "plural": "दादियाँ",
+      "cefr": "A2",
+      "ipa": "[d̪aːd̪iː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दा",
+          "ipa": "[d̪aː]"
+        },
+        {
+          "letter": "दी",
+          "ipa": "[d̪iː]"
+        }
+      ]
+    },
+    {
+      "id": "e0d10f1e-9799-4cf2-ac73-5c4e91ed18d7",
+      "part-of-speech": "noun",
+      "english": "grandfather (mother's side)",
+      "hindi": "नाना",
+      "gender": "masculine",
+      "plural": "नाना",
+      "cefr": "A2",
+      "ipa": "[naːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "3d4ff5d2-ff29-4e68-982e-2e863daafdec",
+      "part-of-speech": "noun",
+      "english": "grandmother (mother's side)",
+      "hindi": "नानी",
+      "gender": "feminine",
+      "plural": "नानियाँ",
+      "cefr": "A2",
+      "ipa": "[naːniː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        },
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        }
+      ]
+    },
+    {
+      "id": "a097df7d-d5a3-45c8-b85c-8c9591293199",
+      "part-of-speech": "noun",
+      "english": "uncle (father's younger brother)",
+      "hindi": "चाचा",
+      "gender": "masculine",
+      "plural": "चाचा",
+      "cefr": "A2",
+      "ipa": "[tʃaːtʃaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        }
+      ]
+    },
+    {
+      "id": "71571c27-98e1-4574-a2d1-655a220d9361",
+      "part-of-speech": "noun",
+      "english": "uncle (mother's brother)",
+      "hindi": "मामा",
+      "gender": "masculine",
+      "plural": "मामा",
+      "cefr": "A2",
+      "ipa": "[maːmaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मा",
+          "ipa": "[maː]"
+        },
+        {
+          "letter": "मा",
+          "ipa": "[maː]"
+        }
+      ]
+    },
+    {
+      "id": "dfa6d522-0072-4c3c-9f49-a8e3f2f79c8a",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "hindi": "दोस्त",
+      "plural": "दोस्त",
+      "cefr": "A1",
+      "ipa": "[d̪oːst̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दो",
+          "ipa": "[d̪oː]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "6b5f9813-7986-4bbe-881f-fd45a50dc19f",
+      "part-of-speech": "noun",
+      "english": "child",
+      "hindi": "बच्चा",
+      "gender": "masculine",
+      "plural": "बच्चे",
+      "cefr": "A1",
+      "ipa": "[bətʃtʃaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "च्",
+          "ipa": "[tʃ]"
+        },
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        }
+      ]
+    },
+    {
+      "id": "b8d263f4-8808-4fac-bd9a-6d2b83414b54",
+      "part-of-speech": "interjection",
+      "english": "hello, goodbye",
+      "hindi": "नमस्ते",
+      "cefr": "A1",
+      "ipa": "[nəməsteː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "ते",
+          "ipa": "[t̪eː]"
+        }
+      ]
+    },
+    {
+      "id": "b7b5112b-94bf-4598-aef2-704be62c5350",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "hindi": "धन्यवाद",
+      "cefr": "A1",
+      "ipa": "[dʰənjəvaːd̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ध",
+          "ipa": "[d̪ʰə]"
+        },
+        {
+          "letter": "न्",
+          "ipa": "[n]"
+        },
+        {
+          "letter": "य",
+          "ipa": "[jə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "79a84f71-4ddd-44bd-8695-75940baef5db",
+      "part-of-speech": "interjection",
+      "english": "thanks (informal)",
+      "hindi": "शुक्रिया",
+      "cefr": "A1",
+      "ipa": "[ʃʊkrɪjaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "शु",
+          "ipa": "[ʃʊ]"
+        },
+        {
+          "letter": "क्",
+          "ipa": "[k]"
+        },
+        {
+          "letter": "रि",
+          "ipa": "[rɪ]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        }
+      ]
+    },
+    {
+      "id": "d9b163d5-be9a-4c76-8077-01130273fb09",
+      "part-of-speech": "adverb",
+      "english": "please",
+      "hindi": "कृपया",
+      "cefr": "A1",
+      "ipa": "[kr̩ɪpəjaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कृ",
+          "ipa": "[kr̩]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        }
+      ]
+    },
+    {
+      "id": "10c607e3-1a5c-4c0e-9379-bf82fec15b80",
+      "part-of-speech": "interjection",
+      "english": "sorry, excuse me",
+      "hindi": "माफ़ कीजिए",
+      "cefr": "A1",
+      "ipa": "[maːf kiːdʒɪeː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मा",
+          "ipa": "[maː]"
+        },
+        {
+          "letter": "फ़",
+          "ipa": "[fə]"
+        },
+        {
+          "letter": "की",
+          "ipa": "[kiː]"
+        },
+        {
+          "letter": "जि",
+          "ipa": "[dʒɪ]"
+        },
+        {
+          "letter": "ए",
+          "ipa": "[eː]"
+        }
+      ]
+    },
+    {
+      "id": "709d06a2-c9a4-4b41-95e1-ad58efae8738",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "hindi": "अलविदा",
+      "cefr": "A1",
+      "ipa": "[əlvɪd̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "वि",
+          "ipa": "[vɪ]"
+        },
+        {
+          "letter": "दा",
+          "ipa": "[d̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "d55b8023-5a25-4d55-bf6f-33880f235329",
+      "part-of-speech": "interjection",
+      "english": "see you again",
+      "hindi": "फिर मिलेंगे",
+      "cefr": "A2",
+      "ipa": "[pʰɪr mɪleŋɡeː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "फि",
+          "ipa": "[pʰɪ]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "मि",
+          "ipa": "[mɪ]"
+        },
+        {
+          "letter": "लें",
+          "ipa": "[lẽː]"
+        },
+        {
+          "letter": "गे",
+          "ipa": "[ɡeː]"
+        }
+      ]
+    },
+    {
+      "id": "3637237d-f64d-4dfa-9bfc-f56ea7918aba",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "hindi": "हाँ",
+      "cefr": "A1",
+      "ipa": "[ɦãː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "हाँ",
+          "ipa": "[ɦãː]"
+        }
+      ]
+    },
+    {
+      "id": "75185f69-8322-4f36-98ce-4525fae1ea8f",
+      "part-of-speech": "adverb",
+      "english": "no, not",
+      "hindi": "नहीं",
+      "cefr": "A1",
+      "ipa": "[nəɦĩː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "हीं",
+          "ipa": "[ɦĩː]"
+        }
+      ]
+    },
+    {
+      "id": "0ec254f7-0959-4b9a-8c1f-b5a35f47d7e9",
+      "part-of-speech": "interjection",
+      "english": "welcome",
+      "hindi": "स्वागत है",
+      "cefr": "A2",
+      "ipa": "[svaːɡət̪ ɦɛː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "ग",
+          "ipa": "[ɡə]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        },
+        {
+          "letter": "है",
+          "ipa": "[ɦɛː]"
+        }
+      ]
+    },
+    {
+      "id": "51f28b48-bd2b-4bd2-b97b-3898c387abc3",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "hindi": "घर",
+      "gender": "masculine",
+      "plural": "घर",
+      "cefr": "A1",
+      "ipa": "[ɡʰər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "घ",
+          "ipa": "[ɡʰə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "41865a85-f4f9-467f-80f7-91220cd16dc9",
+      "part-of-speech": "noun",
+      "english": "water",
+      "hindi": "पानी",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[paːniː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पा",
+          "ipa": "[paː]"
+        },
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        }
+      ]
+    },
+    {
+      "id": "fcf78a0d-ef9d-4296-8b57-bd176b117878",
+      "part-of-speech": "noun",
+      "english": "food",
+      "hindi": "खाना",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[kʰaːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "खा",
+          "ipa": "[kʰaː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "5efd2170-3771-46c0-a3e3-f57c6661ef03",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "hindi": "रोटी",
+      "gender": "feminine",
+      "plural": "रोटियाँ",
+      "cefr": "A1",
+      "ipa": "[roːʈiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "रो",
+          "ipa": "[roː]"
+        },
+        {
+          "letter": "टी",
+          "ipa": "[ʈiː]"
+        }
+      ]
+    },
+    {
+      "id": "afab93ec-5a95-46db-af03-05aa294e519a",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "hindi": "चावल",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tʃaːvəl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "व",
+          "ipa": "[və]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "a0cc0c07-4109-4662-877e-3efddc4899dc",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "hindi": "दूध",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[d̪uːd̪ʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दू",
+          "ipa": "[d̪uː]"
+        },
+        {
+          "letter": "ध",
+          "ipa": "[d̪ʰə]"
+        }
+      ]
+    },
+    {
+      "id": "475b65a6-d7c2-46cf-ae26-10d423a4cc2a",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "hindi": "चाय",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[tʃaːj]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "य",
+          "ipa": "[jə]"
+        }
+      ]
+    },
+    {
+      "id": "354c2f97-e70c-4dcb-9d2e-bad16b7af067",
+      "part-of-speech": "noun",
+      "english": "book",
+      "hindi": "किताब",
+      "gender": "feminine",
+      "plural": "किताबें",
+      "cefr": "A1",
+      "ipa": "[kɪt̪aːb]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        },
+        {
+          "letter": "ता",
+          "ipa": "[t̪aː]"
+        },
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        }
+      ]
+    },
+    {
+      "id": "5a5cc4ca-3052-4648-aceb-f98bc187f0c0",
+      "part-of-speech": "noun",
+      "english": "school",
+      "hindi": "स्कूल",
+      "gender": "masculine",
+      "plural": "स्कूल",
+      "cefr": "A1",
+      "ipa": "[skuːl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "कू",
+          "ipa": "[kuː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "970d71c2-bce1-4a27-8b6f-f9ee5488a9ae",
+      "part-of-speech": "noun",
+      "english": "man",
+      "hindi": "आदमी",
+      "gender": "masculine",
+      "plural": "आदमी",
+      "cefr": "A1",
+      "ipa": "[aːd̪miː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "मी",
+          "ipa": "[miː]"
+        }
+      ]
+    },
+    {
+      "id": "286ab7aa-f310-4a3e-a69e-4244e8ab5b08",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "hindi": "औरत",
+      "gender": "feminine",
+      "plural": "औरतें",
+      "cefr": "A1",
+      "ipa": "[ɔːrət̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "औ",
+          "ipa": "[ɔː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "22658dc8-4609-4d24-ac76-ff0080d33510",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "hindi": "लड़का",
+      "gender": "masculine",
+      "plural": "लड़के",
+      "cefr": "A1",
+      "ipa": "[ləɽkaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ड़",
+          "ipa": "[ɽə]"
+        },
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        }
+      ]
+    },
+    {
+      "id": "5f25712b-5b60-4ecc-894d-5765c7917482",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "hindi": "लड़की",
+      "gender": "feminine",
+      "plural": "लड़कियाँ",
+      "cefr": "A1",
+      "ipa": "[ləɽkiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ड़",
+          "ipa": "[ɽə]"
+        },
+        {
+          "letter": "की",
+          "ipa": "[kiː]"
+        }
+      ]
+    },
+    {
+      "id": "e3194ca1-1b95-4f28-9390-709735f205c5",
+      "part-of-speech": "noun",
+      "english": "day",
+      "hindi": "दिन",
+      "gender": "masculine",
+      "plural": "दिन",
+      "cefr": "A1",
+      "ipa": "[d̪ɪn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दि",
+          "ipa": "[d̪ɪ]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "fdbcbd65-e1e2-48d3-9bcb-9ad516d71ce0",
+      "part-of-speech": "noun",
+      "english": "night",
+      "hindi": "रात",
+      "gender": "feminine",
+      "plural": "रातें",
+      "cefr": "A1",
+      "ipa": "[raːt̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "598e0d4d-2f5f-4157-8596-6aaa4d6977a0",
+      "part-of-speech": "noun",
+      "english": "time",
+      "hindi": "समय",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[səməj]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "य",
+          "ipa": "[jə]"
+        }
+      ]
+    },
+    {
+      "id": "397c857e-893d-494e-bda4-f20de8af9a9d",
+      "part-of-speech": "noun",
+      "english": "name",
+      "hindi": "नाम",
+      "gender": "masculine",
+      "plural": "नाम",
+      "cefr": "A1",
+      "ipa": "[naːm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "13a05c1d-aca1-4c05-93e1-ca7e54834106",
+      "part-of-speech": "noun",
+      "english": "city",
+      "hindi": "शहर",
+      "gender": "masculine",
+      "plural": "शहर",
+      "cefr": "A1",
+      "ipa": "[ʃəɦər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "श",
+          "ipa": "[ʃə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "97d83ab7-f2e2-4134-a8e8-e6c7b5091d89",
+      "part-of-speech": "noun",
+      "english": "country",
+      "hindi": "देश",
+      "gender": "masculine",
+      "plural": "देश",
+      "cefr": "A1",
+      "ipa": "[d̪eːʃ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दे",
+          "ipa": "[d̪eː]"
+        },
+        {
+          "letter": "श",
+          "ipa": "[ʃə]"
+        }
+      ]
+    },
+    {
+      "id": "bf2dab39-3f05-441e-b063-00f01d7cc8d2",
+      "part-of-speech": "noun",
+      "english": "language",
+      "hindi": "भाषा",
+      "gender": "feminine",
+      "plural": "भाषाएँ",
+      "cefr": "A1",
+      "ipa": "[bʰaːʃaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "भा",
+          "ipa": "[bʰaː]"
+        },
+        {
+          "letter": "षा",
+          "ipa": "[ʃaː]"
+        }
+      ]
+    },
+    {
+      "id": "bb0e06b9-3716-413a-a361-17255ba27118",
+      "part-of-speech": "noun",
+      "english": "door",
+      "hindi": "दरवाज़ा",
+      "gender": "masculine",
+      "plural": "दरवाज़े",
+      "cefr": "A1",
+      "ipa": "[d̪ərvaːzaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "ज़ा",
+          "ipa": "[zaː]"
+        }
+      ]
+    },
+    {
+      "id": "bb43c6ec-8271-442a-adc8-4c29e25b160e",
+      "part-of-speech": "noun",
+      "english": "window",
+      "hindi": "खिड़की",
+      "gender": "feminine",
+      "plural": "खिड़कियाँ",
+      "cefr": "A1",
+      "ipa": "[kʰɪɽkiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "खि",
+          "ipa": "[kʰɪ]"
+        },
+        {
+          "letter": "ड़",
+          "ipa": "[ɽə]"
+        },
+        {
+          "letter": "की",
+          "ipa": "[kiː]"
+        }
+      ]
+    },
+    {
+      "id": "e8396546-0a45-4c27-a475-520bf7d058b5",
+      "part-of-speech": "noun",
+      "english": "table",
+      "hindi": "मेज़",
+      "gender": "feminine",
+      "plural": "मेज़ें",
+      "cefr": "A1",
+      "ipa": "[meːz]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मे",
+          "ipa": "[meː]"
+        },
+        {
+          "letter": "ज़",
+          "ipa": "[zə]"
+        }
+      ]
+    },
+    {
+      "id": "6fa4d18a-dec5-4c8b-911b-82bfdc5dcee1",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "hindi": "कुर्सी",
+      "gender": "feminine",
+      "plural": "कुर्सियाँ",
+      "cefr": "A1",
+      "ipa": "[kʊrsiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कु",
+          "ipa": "[kʊ]"
+        },
+        {
+          "letter": "र्",
+          "ipa": "[r]"
+        },
+        {
+          "letter": "सी",
+          "ipa": "[siː]"
+        }
+      ]
+    },
+    {
+      "id": "bc32f9bb-6262-4edb-9644-076f34861962",
+      "part-of-speech": "noun",
+      "english": "money",
+      "hindi": "पैसा",
+      "gender": "masculine",
+      "plural": "पैसे",
+      "cefr": "A1",
+      "ipa": "[pɛːsaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पै",
+          "ipa": "[pɛː]"
+        },
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        }
+      ]
+    },
+    {
+      "id": "be41baa5-5381-4676-a5f5-16e50cbd32d2",
+      "part-of-speech": "noun",
+      "english": "work",
+      "hindi": "काम",
+      "gender": "masculine",
+      "plural": "काम",
+      "cefr": "A1",
+      "ipa": "[kaːm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "dbd53df7-f73e-4aab-bb8f-f3cfc5999d83",
+      "part-of-speech": "noun",
+      "english": "place",
+      "hindi": "जगह",
+      "gender": "feminine",
+      "plural": "जगहें",
+      "cefr": "A1",
+      "ipa": "[dʒəɡəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ज",
+          "ipa": "[dʒə]"
+        },
+        {
+          "letter": "ग",
+          "ipa": "[ɡə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "e48a5408-f9fd-4250-be28-93e2f1ba8d0e",
+      "part-of-speech": "noun",
+      "english": "color",
+      "hindi": "रंग",
+      "gender": "masculine",
+      "plural": "रंग",
+      "cefr": "A2",
+      "ipa": "[rəŋ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "रं",
+          "ipa": "[rə̃]"
+        },
+        {
+          "letter": "ग",
+          "ipa": "[ɡə]"
+        }
+      ]
+    },
+    {
+      "id": "6a4539ad-d732-4a58-bcc2-d943b7707e3d",
+      "part-of-speech": "noun",
+      "english": "head",
+      "hindi": "सिर",
+      "gender": "masculine",
+      "plural": "सिर",
+      "cefr": "A1",
+      "ipa": "[sɪr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सि",
+          "ipa": "[sɪ]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "96f27bf7-aec9-49c5-acad-ec59142141bf",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "hindi": "आँख",
+      "gender": "feminine",
+      "plural": "आँखें",
+      "cefr": "A1",
+      "ipa": "[ãːkʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आँ",
+          "ipa": "[ãː]"
+        },
+        {
+          "letter": "ख",
+          "ipa": "[kʰə]"
+        }
+      ]
+    },
+    {
+      "id": "18c2dd13-dc21-45f3-b254-cac40197f61e",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "hindi": "कान",
+      "gender": "masculine",
+      "plural": "कान",
+      "cefr": "A1",
+      "ipa": "[kaːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "d3e66e77-5efa-4a6f-840b-3c236a2f1563",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "hindi": "नाक",
+      "gender": "feminine",
+      "plural": "नाकें",
+      "cefr": "A1",
+      "ipa": "[naːk]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "21046313-3815-47ca-a54a-d52402219b2a",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "hindi": "मुँह",
+      "gender": "masculine",
+      "plural": "मुँह",
+      "cefr": "A1",
+      "ipa": "[mʊ̃ɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मुँ",
+          "ipa": "[mʊ̃]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "9e413a13-8bed-489e-8869-de0f017e3621",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "hindi": "हाथ",
+      "gender": "masculine",
+      "plural": "हाथ",
+      "cefr": "A1",
+      "ipa": "[ɦaːt̪ʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "हा",
+          "ipa": "[ɦaː]"
+        },
+        {
+          "letter": "थ",
+          "ipa": "[t̪ʰə]"
+        }
+      ]
+    },
+    {
+      "id": "a4d56fb2-bcd2-4c95-b0a6-3e1a430f0ace",
+      "part-of-speech": "noun",
+      "english": "foot, leg",
+      "hindi": "पैर",
+      "gender": "masculine",
+      "plural": "पैर",
+      "cefr": "A1",
+      "ipa": "[pɛːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पै",
+          "ipa": "[pɛː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "65d582f7-f0ca-456c-9715-6cae083a373e",
+      "part-of-speech": "noun",
+      "english": "stomach",
+      "hindi": "पेट",
+      "gender": "masculine",
+      "plural": "पेट",
+      "cefr": "A2",
+      "ipa": "[peːʈ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पे",
+          "ipa": "[peː]"
+        },
+        {
+          "letter": "ट",
+          "ipa": "[ʈə]"
+        }
+      ]
+    },
+    {
+      "id": "5ba35855-1f5b-4dcd-a617-3a10eeb85dab",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "hindi": "दिल",
+      "gender": "masculine",
+      "plural": "दिल",
+      "cefr": "A2",
+      "ipa": "[d̪ɪl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दि",
+          "ipa": "[d̪ɪ]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "056e097d-2102-4dd5-8ad9-a35b05f98f08",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "hindi": "लाल",
+      "cefr": "A1",
+      "ipa": "[laːl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "8423ffee-0cb0-4f97-a8d7-724ef555dfdb",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "hindi": "नीला",
+      "cefr": "A1",
+      "ipa": "[niːlaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        },
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        }
+      ]
+    },
+    {
+      "id": "c28414b5-6c24-496d-af62-90758762005f",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "hindi": "पीला",
+      "cefr": "A1",
+      "ipa": "[piːlaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पी",
+          "ipa": "[piː]"
+        },
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        }
+      ]
+    },
+    {
+      "id": "f67a5c8b-d001-466f-b4db-bfab4916cb9e",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "hindi": "हरा",
+      "cefr": "A1",
+      "ipa": "[ɦəraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "53ab0ca8-1c45-4fa1-b845-a53d34de0fb0",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "hindi": "काला",
+      "cefr": "A1",
+      "ipa": "[kaːlaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        },
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        }
+      ]
+    },
+    {
+      "id": "99fbeae1-23b9-4b8b-ae71-b4eb7634f116",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "hindi": "सफ़ेद",
+      "cefr": "A1",
+      "ipa": "[səfeːd̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "फ़े",
+          "ipa": "[feː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "5da1e496-b643-4b50-b49a-2cf826361338",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "hindi": "गुलाबी",
+      "cefr": "A2",
+      "ipa": "[ɡʊlaːbiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "गु",
+          "ipa": "[ɡʊ]"
+        },
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        },
+        {
+          "letter": "बी",
+          "ipa": "[biː]"
+        }
+      ]
+    },
+    {
+      "id": "0ac19be7-8369-45bb-92a5-4dae8dff4b09",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "hindi": "भूरा",
+      "cefr": "A2",
+      "ipa": "[bʰuːraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "भू",
+          "ipa": "[bʰuː]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "2e6816d7-b708-478a-a156-38d2b01fc055",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "hindi": "सोमवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[soːmvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सो",
+          "ipa": "[soː]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "67ca60a4-2756-433d-8f06-1d7b9d611622",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "hindi": "मंगलवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[məŋɡəlvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मं",
+          "ipa": "[mə̃]"
+        },
+        {
+          "letter": "ग",
+          "ipa": "[ɡə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "46976377-d1e5-49bb-8eef-296117bcad54",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "hindi": "बुधवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[bʊdʰvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बु",
+          "ipa": "[bʊ]"
+        },
+        {
+          "letter": "ध",
+          "ipa": "[d̪ʰə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "0fab9ccb-c4ab-4350-b825-dc0a15acadf7",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "hindi": "गुरुवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɡʊrʊvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "गु",
+          "ipa": "[ɡʊ]"
+        },
+        {
+          "letter": "रु",
+          "ipa": "[rʊ]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "154c84db-69f0-49dc-8600-a1e4d2078adb",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "hindi": "शुक्रवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʃʊkrəvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "शु",
+          "ipa": "[ʃʊ]"
+        },
+        {
+          "letter": "क्",
+          "ipa": "[k]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "5c60a566-ce40-41c5-b1b7-ae4b30701784",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "hindi": "शनिवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʃənɪvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "श",
+          "ipa": "[ʃə]"
+        },
+        {
+          "letter": "नि",
+          "ipa": "[nɪ]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "7b4fd0ce-6707-4b7a-9bc4-dd715df6fb5e",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "hindi": "रविवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[rəvɪvaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "वि",
+          "ipa": "[vɪ]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "bbffd10a-1129-40c1-ba80-5ca60a64d42f",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "hindi": "होना",
+      "cefr": "A1",
+      "ipa": "[ɦoːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "हो",
+          "ipa": "[ɦoː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "cf295e17-985a-49fc-b534-bbca7130a3cd",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "hindi": "करना",
+      "cefr": "A1",
+      "ipa": "[kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "7e889b52-853f-470e-bfeb-6a77ce533f68",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "hindi": "जाना",
+      "cefr": "A1",
+      "ipa": "[dʒaːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "जा",
+          "ipa": "[dʒaː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "f239e6e1-0efa-46e1-b64e-68c642be51f4",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "hindi": "आना",
+      "cefr": "A1",
+      "ipa": "[aːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "f7a80d02-9e81-4080-b55f-9ebce4ea27f9",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "hindi": "खाना",
+      "cefr": "A1",
+      "ipa": "[kʰaːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "खा",
+          "ipa": "[kʰaː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "f4713011-737b-4fea-8c99-0e8224ba6736",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "hindi": "पीना",
+      "cefr": "A1",
+      "ipa": "[piːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पी",
+          "ipa": "[piː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "362fe7df-8054-4906-a3af-1592951cbe16",
+      "part-of-speech": "verb",
+      "english": "to see, to watch",
+      "hindi": "देखना",
+      "cefr": "A1",
+      "ipa": "[d̪eːkʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दे",
+          "ipa": "[d̪eː]"
+        },
+        {
+          "letter": "ख",
+          "ipa": "[kʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "1f3377c0-4b14-4f36-bb87-bae095fe2eea",
+      "part-of-speech": "verb",
+      "english": "to hear, to listen",
+      "hindi": "सुनना",
+      "cefr": "A1",
+      "ipa": "[sʊnnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सु",
+          "ipa": "[sʊ]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "2fd5aa10-af2d-4c03-8052-76ac42118e72",
+      "part-of-speech": "verb",
+      "english": "to speak",
+      "hindi": "बोलना",
+      "cefr": "A1",
+      "ipa": "[boːlnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बो",
+          "ipa": "[boː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "e948c1f9-6299-4b11-93d2-340c0dc46098",
+      "part-of-speech": "verb",
+      "english": "to read, to study",
+      "hindi": "पढ़ना",
+      "cefr": "A1",
+      "ipa": "[pəɽʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ढ़",
+          "ipa": "[ɽʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "ee52d1f6-77d4-44ff-9b37-d2a61bd83742",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "hindi": "लिखना",
+      "cefr": "A1",
+      "ipa": "[lɪkʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "लि",
+          "ipa": "[lɪ]"
+        },
+        {
+          "letter": "ख",
+          "ipa": "[kʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "67531a04-e96b-4826-8e04-13106c09d120",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "hindi": "सोना",
+      "cefr": "A1",
+      "ipa": "[soːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सो",
+          "ipa": "[soː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "b1ce68a1-401c-44e2-b49f-6da8e518eb7f",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "hindi": "बैठना",
+      "cefr": "A1",
+      "ipa": "[bɛːʈʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बै",
+          "ipa": "[bɛː]"
+        },
+        {
+          "letter": "ठ",
+          "ipa": "[ʈʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "49ba8afc-e53a-42e0-884d-927badd82bcb",
+      "part-of-speech": "verb",
+      "english": "to walk, to move",
+      "hindi": "चलना",
+      "cefr": "A1",
+      "ipa": "[tʃəlnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "च",
+          "ipa": "[tʃə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "9e87e3aa-0341-483b-b076-5365b2784f5c",
+      "part-of-speech": "verb",
+      "english": "to live, to stay",
+      "hindi": "रहना",
+      "cefr": "A1",
+      "ipa": "[rəɦnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "c4915ea0-4da5-4e41-8623-09ce2ea5de34",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "hindi": "देना",
+      "cefr": "A1",
+      "ipa": "[d̪eːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दे",
+          "ipa": "[d̪eː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "6bdfa9ed-f213-4758-afec-bbb0d67a5a8a",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "hindi": "लेना",
+      "cefr": "A1",
+      "ipa": "[leːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ले",
+          "ipa": "[leː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "2c2ca2b6-e21d-4a25-b02f-add83f494ec1",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "hindi": "चाहना",
+      "cefr": "A1",
+      "ipa": "[tʃaːɦnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "चा",
+          "ipa": "[tʃaː]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "d63350b1-d125-40f2-a486-80971ee3e0ab",
+      "part-of-speech": "verb",
+      "english": "to meet, to get",
+      "hindi": "मिलना",
+      "cefr": "A2",
+      "ipa": "[mɪlnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मि",
+          "ipa": "[mɪ]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "0980d670-efb2-4c51-8cb4-c3029cddf59a",
+      "part-of-speech": "verb",
+      "english": "to get up, to rise",
+      "hindi": "उठना",
+      "cefr": "A2",
+      "ipa": "[ʊʈʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "उ",
+          "ipa": "[ʊ]"
+        },
+        {
+          "letter": "ठ",
+          "ipa": "[ʈʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "bc41c3e3-a48e-4053-8764-4f0e4f305144",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "hindi": "अच्छा",
+      "cefr": "A1",
+      "ipa": "[ətʃtʃʰaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "च्",
+          "ipa": "[tʃ]"
+        },
+        {
+          "letter": "छा",
+          "ipa": "[tʃʰaː]"
+        }
+      ]
+    },
+    {
+      "id": "9b2bb123-cc6b-4fa8-a22b-3fff37324049",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "hindi": "बुरा",
+      "cefr": "A1",
+      "ipa": "[bʊraː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बु",
+          "ipa": "[bʊ]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        }
+      ]
+    },
+    {
+      "id": "573d4be2-0bb6-44b0-96c4-1d7e412cb374",
+      "part-of-speech": "adjective",
+      "english": "big",
+      "hindi": "बड़ा",
+      "cefr": "A1",
+      "ipa": "[bəɽaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "ड़ा",
+          "ipa": "[ɽaː]"
+        }
+      ]
+    },
+    {
+      "id": "f22702ef-9749-4606-b3b4-32fdadded312",
+      "part-of-speech": "adjective",
+      "english": "small",
+      "hindi": "छोटा",
+      "cefr": "A1",
+      "ipa": "[tʃʰoːʈaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "छो",
+          "ipa": "[tʃʰoː]"
+        },
+        {
+          "letter": "टा",
+          "ipa": "[ʈaː]"
+        }
+      ]
+    },
+    {
+      "id": "434579f0-7132-4d41-8fee-127dd93d2f75",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "hindi": "नया",
+      "cefr": "A1",
+      "ipa": "[nəjaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        }
+      ]
+    },
+    {
+      "id": "dfe68cd7-1df1-4ea6-951a-b3ece553bd9e",
+      "part-of-speech": "adjective",
+      "english": "old (of things)",
+      "hindi": "पुराना",
+      "cefr": "A1",
+      "ipa": "[pʊraːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पु",
+          "ipa": "[pʊ]"
+        },
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "4f5e1e69-6ac5-4104-a69c-afc8db1af09f",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "hindi": "गर्म",
+      "cefr": "A1",
+      "ipa": "[ɡərm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ग",
+          "ipa": "[ɡə]"
+        },
+        {
+          "letter": "र्",
+          "ipa": "[r]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "9e46943f-12b2-46b0-b98b-7de0bda00fa7",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "hindi": "ठंडा",
+      "cefr": "A1",
+      "ipa": "[ʈʰəɳɖaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ठं",
+          "ipa": "[ʈʰə̃]"
+        },
+        {
+          "letter": "डा",
+          "ipa": "[ɖaː]"
+        }
+      ]
+    },
+    {
+      "id": "706ddade-cb5d-4ddf-b818-9b571a9f57e2",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "hindi": "सुंदर",
+      "cefr": "A2",
+      "ipa": "[sʊnd̪ər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सुं",
+          "ipa": "[sʊ̃]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "b91305cf-9b76-4492-91b3-4677ed96a376",
+      "part-of-speech": "adjective",
+      "english": "tall, long",
+      "hindi": "लंबा",
+      "cefr": "A2",
+      "ipa": "[ləmbaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "लं",
+          "ipa": "[lə̃]"
+        },
+        {
+          "letter": "बा",
+          "ipa": "[baː]"
+        }
+      ]
+    },
+    {
+      "id": "bf92b3b8-e9b4-4d8e-8fe2-345cb75b8994",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "hindi": "आज",
+      "cefr": "A1",
+      "ipa": "[aːdʒ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "ज",
+          "ipa": "[dʒə]"
+        }
+      ]
+    },
+    {
+      "id": "d54e9e52-3822-442d-96bc-f621bbcc8bc3",
+      "part-of-speech": "adverb",
+      "english": "yesterday, tomorrow",
+      "hindi": "कल",
+      "cefr": "A1",
+      "ipa": "[kəl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "8424963e-b6d9-41d8-8b62-e05b8a44dee5",
+      "part-of-speech": "adverb",
+      "english": "the day after tomorrow, the day before yesterday",
+      "hindi": "परसों",
+      "cefr": "A2",
+      "ipa": "[pərsõː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "सों",
+          "ipa": "[sõː]"
+        }
+      ]
+    },
+    {
+      "id": "abc5a945-7864-4444-8292-fdee594995d5",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "hindi": "अभी",
+      "cefr": "A1",
+      "ipa": "[əbʰiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "भी",
+          "ipa": "[bʰiː]"
+        }
+      ]
+    },
+    {
+      "id": "1792ac9b-7f45-4f4d-9c6a-1597115930db",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "hindi": "बाद में",
+      "cefr": "A2",
+      "ipa": "[baːd̪ mẽː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बा",
+          "ipa": "[baː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "में",
+          "ipa": "[mẽː]"
+        }
+      ]
+    },
+    {
+      "id": "f87bb19d-47af-44d0-b135-1f5e89e28aa5",
+      "part-of-speech": "adverb",
+      "english": "before, earlier",
+      "hindi": "पहले",
+      "cefr": "A2",
+      "ipa": "[pəɦleː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "ले",
+          "ipa": "[leː]"
+        }
+      ]
+    },
+    {
+      "id": "a5aa5e48-b1eb-493e-b95f-b6666c704c65",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "hindi": "हमेशा",
+      "cefr": "A2",
+      "ipa": "[ɦəmeːʃaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "मे",
+          "ipa": "[meː]"
+        },
+        {
+          "letter": "शा",
+          "ipa": "[ʃaː]"
+        }
+      ]
+    },
+    {
+      "id": "47e237f4-4b03-495c-b353-d97c7337d74c",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "hindi": "कभी नहीं",
+      "cefr": "A2",
+      "ipa": "[kəbʰiː nəɦĩː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "भी",
+          "ipa": "[bʰiː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "हीं",
+          "ipa": "[ɦĩː]"
+        }
+      ]
+    },
+    {
+      "id": "17e45499-c267-4e44-a44a-9c2ac597c228",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "hindi": "कभी-कभी",
+      "cefr": "A2",
+      "ipa": "[kəbʰiː kəbʰiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "भी",
+          "ipa": "[bʰiː]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "भी",
+          "ipa": "[bʰiː]"
+        }
+      ]
+    },
+    {
+      "id": "cd9ce10b-18ad-42c7-aaca-cad5d4437978",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "hindi": "सुबह",
+      "gender": "feminine",
+      "plural": "सुबहें",
+      "cefr": "A1",
+      "ipa": "[sʊbəɦ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सु",
+          "ipa": "[sʊ]"
+        },
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        }
+      ]
+    },
+    {
+      "id": "61911cc0-b2c6-4f9c-a74a-6ec39b2cd879",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "hindi": "दोपहर",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[d̪oːpəɦər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दो",
+          "ipa": "[d̪oː]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "82d7878a-2f5d-41df-9fd4-89934919f172",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "hindi": "शाम",
+      "gender": "feminine",
+      "plural": "शामें",
+      "cefr": "A2",
+      "ipa": "[ʃaːm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "शा",
+          "ipa": "[ʃaː]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "e47ee895-c17f-488d-814f-ed674308e6f7",
+      "part-of-speech": "noun",
+      "english": "week",
+      "hindi": "हफ़्ता",
+      "gender": "masculine",
+      "plural": "हफ़्ते",
+      "cefr": "A2",
+      "ipa": "[ɦəft̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "फ़्",
+          "ipa": "[f]"
+        },
+        {
+          "letter": "ता",
+          "ipa": "[t̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "4bde55f4-ba4b-4592-bc08-c012c394e34d",
+      "part-of-speech": "noun",
+      "english": "month",
+      "hindi": "महीना",
+      "gender": "masculine",
+      "plural": "महीने",
+      "cefr": "A2",
+      "ipa": "[məɦiːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "ही",
+          "ipa": "[ɦiː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "df26ea55-9a35-4463-8e4c-445889f40ba0",
+      "part-of-speech": "noun",
+      "english": "year",
+      "hindi": "साल",
+      "gender": "masculine",
+      "plural": "साल",
+      "cefr": "A1",
+      "ipa": "[saːl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "a94b1b37-acd9-4ce5-8b91-fe8f4b75fe29",
+      "part-of-speech": "noun",
+      "english": "hour",
+      "hindi": "घंटा",
+      "gender": "masculine",
+      "plural": "घंटे",
+      "cefr": "A2",
+      "ipa": "[ɡʰəɳʈaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "घं",
+          "ipa": "[ɡʰə̃]"
+        },
+        {
+          "letter": "टा",
+          "ipa": "[ʈaː]"
+        }
+      ]
+    },
+    {
+      "id": "5c20dd3c-c6ff-4be0-b947-def83f5aa293",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "hindi": "मिनट",
+      "gender": "masculine",
+      "plural": "मिनट",
+      "cefr": "A2",
+      "ipa": "[mɪnəʈ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मि",
+          "ipa": "[mɪ]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "ट",
+          "ipa": "[ʈə]"
+        }
+      ]
+    },
+    {
+      "id": "dcd4e51a-2ed5-47b7-b296-97020b1f3805",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "hindi": "मौसम",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[mɔːsəm]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मौ",
+          "ipa": "[mɔː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        }
+      ]
+    },
+    {
+      "id": "632b1c9a-ff19-448f-8c6c-82b1c9200e82",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "hindi": "बारिश",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[baːrɪʃ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बा",
+          "ipa": "[baː]"
+        },
+        {
+          "letter": "रि",
+          "ipa": "[rɪ]"
+        },
+        {
+          "letter": "श",
+          "ipa": "[ʃə]"
+        }
+      ]
+    },
+    {
+      "id": "3dacf8ed-5574-4296-97ed-cff174500858",
+      "part-of-speech": "noun",
+      "english": "sunshine",
+      "hindi": "धूप",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[dʰuːp]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "धू",
+          "ipa": "[d̪ʰuː]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        }
+      ]
+    },
+    {
+      "id": "d5d663f6-1237-455c-8a8f-af449164c47b",
+      "part-of-speech": "noun",
+      "english": "wind, air",
+      "hindi": "हवा",
+      "gender": "feminine",
+      "plural": "हवाएँ",
+      "cefr": "A2",
+      "ipa": "[ɦəvaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        }
+      ]
+    },
+    {
+      "id": "3f622f2d-98e7-43e6-ad04-ac7cfe60f6f2",
+      "part-of-speech": "noun",
+      "english": "snow, ice",
+      "hindi": "बर्फ़",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[bərf]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "र्",
+          "ipa": "[r]"
+        },
+        {
+          "letter": "फ़",
+          "ipa": "[fə]"
+        }
+      ]
+    },
+    {
+      "id": "084e2411-4b7e-4c2a-ad13-180de0940951",
+      "part-of-speech": "noun",
+      "english": "cloud",
+      "hindi": "बादल",
+      "gender": "masculine",
+      "plural": "बादल",
+      "cefr": "A2",
+      "ipa": "[baːd̪əl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बा",
+          "ipa": "[baː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "5e8c752d-7c9e-4acf-a067-ddd9c6a4b5bf",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "hindi": "दुकान",
+      "gender": "feminine",
+      "plural": "दुकानें",
+      "cefr": "A2",
+      "ipa": "[d̪ʊkaːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "दु",
+          "ipa": "[d̪ʊ]"
+        },
+        {
+          "letter": "का",
+          "ipa": "[kaː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "b8676d0d-55e9-40d2-9e8a-e645dd8dd989",
+      "part-of-speech": "noun",
+      "english": "market",
+      "hindi": "बाज़ार",
+      "gender": "masculine",
+      "plural": "बाज़ार",
+      "cefr": "A2",
+      "ipa": "[baːzaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बा",
+          "ipa": "[baː]"
+        },
+        {
+          "letter": "ज़ा",
+          "ipa": "[zaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "32e1b409-2cba-461f-8956-94753911c497",
+      "part-of-speech": "noun",
+      "english": "price",
+      "hindi": "कीमत",
+      "gender": "feminine",
+      "plural": "कीमतें",
+      "cefr": "A2",
+      "ipa": "[kiːmət̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "की",
+          "ipa": "[kiː]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "10e2e759-106b-421b-b317-bb269c7412c5",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "hindi": "सस्ता",
+      "cefr": "A2",
+      "ipa": "[səst̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "ता",
+          "ipa": "[t̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "5a6527c6-0747-4be6-81ed-94803ff44575",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "hindi": "महँगा",
+      "cefr": "A2",
+      "ipa": "[məɦə̃ɡaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "हँ",
+          "ipa": "[ɦə̃]"
+        },
+        {
+          "letter": "गा",
+          "ipa": "[ɡaː]"
+        }
+      ]
+    },
+    {
+      "id": "7a1dec3c-b246-4130-984d-00b92a7dfc0c",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "hindi": "ख़रीदना",
+      "cefr": "A2",
+      "ipa": "[xəriːd̪naː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ख़",
+          "ipa": "[xə]"
+        },
+        {
+          "letter": "री",
+          "ipa": "[riː]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "a78993b5-c31e-4faa-a379-3cb44f5ceef7",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "hindi": "बेचना",
+      "cefr": "A2",
+      "ipa": "[beːtʃnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बे",
+          "ipa": "[beː]"
+        },
+        {
+          "letter": "च",
+          "ipa": "[tʃə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "672017a6-a583-49cf-ada9-4ced54d6b16e",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "hindi": "कपड़े",
+      "gender": "masculine",
+      "plural": "कपड़े",
+      "cefr": "A2",
+      "ipa": "[kəpɽeː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ड़े",
+          "ipa": "[ɽeː]"
+        }
+      ]
+    },
+    {
+      "id": "7d545135-d1ef-4594-98fb-d8b1fd0826ea",
+      "part-of-speech": "noun",
+      "english": "shoes",
+      "hindi": "जूते",
+      "gender": "masculine",
+      "plural": "जूते",
+      "cefr": "A2",
+      "ipa": "[dʒuːt̪eː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "जू",
+          "ipa": "[dʒuː]"
+        },
+        {
+          "letter": "ते",
+          "ipa": "[t̪eː]"
+        }
+      ]
+    },
+    {
+      "id": "8b656817-ca15-46a5-abd8-c855f61b032a",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "hindi": "टोपी",
+      "gender": "feminine",
+      "plural": "टोपियाँ",
+      "cefr": "A2",
+      "ipa": "[ʈoːpiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "टो",
+          "ipa": "[ʈoː]"
+        },
+        {
+          "letter": "पी",
+          "ipa": "[piː]"
+        }
+      ]
+    },
+    {
+      "id": "af174f56-3420-43d6-aa8b-4b4c94513363",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "hindi": "डॉक्टर",
+      "plural": "डॉक्टर",
+      "cefr": "A2",
+      "ipa": "[ɖɔːkʈər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "डॉ",
+          "ipa": "[ɖɔː]"
+        },
+        {
+          "letter": "क्",
+          "ipa": "[k]"
+        },
+        {
+          "letter": "ट",
+          "ipa": "[ʈə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "f1e77d12-b9e0-4db7-bd66-db402e094f33",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "hindi": "अध्यापक",
+      "gender": "masculine",
+      "plural": "अध्यापक",
+      "cefr": "A2",
+      "ipa": "[ədʰjaːpək]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "ध्",
+          "ipa": "[d̪ʰ]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "3dd80368-2187-4fea-95ec-435cb0ca5ec3",
+      "part-of-speech": "noun",
+      "english": "student",
+      "hindi": "छात्र",
+      "gender": "masculine",
+      "plural": "छात्र",
+      "cefr": "A2",
+      "ipa": "[tʃʰaːt̪r]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "छा",
+          "ipa": "[tʃʰaː]"
+        },
+        {
+          "letter": "त्",
+          "ipa": "[t̪]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "c17ba2b9-cf18-4704-92ab-9348eeafcdc1",
+      "part-of-speech": "noun",
+      "english": "farmer",
+      "hindi": "किसान",
+      "plural": "किसान",
+      "cefr": "A2",
+      "ipa": "[kɪsaːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        },
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "ec63bbfe-149b-415c-a91e-c32fdb040637",
+      "part-of-speech": "noun",
+      "english": "engineer",
+      "hindi": "इंजीनियर",
+      "plural": "इंजीनियर",
+      "cefr": "A2",
+      "ipa": "[ɪɲdʒiːnɪjər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "इं",
+          "ipa": "[ɪ̃]"
+        },
+        {
+          "letter": "जी",
+          "ipa": "[dʒiː]"
+        },
+        {
+          "letter": "नि",
+          "ipa": "[nɪ]"
+        },
+        {
+          "letter": "य",
+          "ipa": "[jə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "a60cd7e8-3648-4fc9-a0ef-0c4aaae16f4d",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "hindi": "अस्पताल",
+      "gender": "masculine",
+      "plural": "अस्पताल",
+      "cefr": "A2",
+      "ipa": "[əspət̪aːl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "ता",
+          "ipa": "[t̪aː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "d06090d6-adfd-4e8a-be67-4b0589cee529",
+      "part-of-speech": "noun",
+      "english": "station",
+      "hindi": "स्टेशन",
+      "gender": "masculine",
+      "plural": "स्टेशन",
+      "cefr": "A2",
+      "ipa": "[sʈeːʃən]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "टे",
+          "ipa": "[ʈeː]"
+        },
+        {
+          "letter": "श",
+          "ipa": "[ʃə]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "16dde98a-0c90-4e62-be50-3ffaafecff28",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "hindi": "हवाई अड्डा",
+      "gender": "masculine",
+      "plural": "हवाई अड्डे",
+      "cefr": "A2",
+      "ipa": "[ɦəvaːiː əɖɖaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ह",
+          "ipa": "[ɦə]"
+        },
+        {
+          "letter": "वा",
+          "ipa": "[vaː]"
+        },
+        {
+          "letter": "ई",
+          "ipa": "[iː]"
+        },
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "ड्",
+          "ipa": "[ɖ]"
+        },
+        {
+          "letter": "डा",
+          "ipa": "[ɖaː]"
+        }
+      ]
+    },
+    {
+      "id": "2caf52a3-d4dd-471f-8ea4-98cbbd1f0cd2",
+      "part-of-speech": "noun",
+      "english": "temple",
+      "hindi": "मंदिर",
+      "gender": "masculine",
+      "plural": "मंदिर",
+      "cefr": "A2",
+      "ipa": "[mənd̪ɪr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मं",
+          "ipa": "[mə̃]"
+        },
+        {
+          "letter": "दि",
+          "ipa": "[d̪ɪ]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "3a145f2d-5519-4ae4-935c-dbfedca4c467",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "hindi": "रेस्तराँ",
+      "gender": "masculine",
+      "plural": "रेस्तराँ",
+      "cefr": "A2",
+      "ipa": "[reːst̪əraː̃]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "रे",
+          "ipa": "[reː]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        },
+        {
+          "letter": "राँ",
+          "ipa": "[rãː]"
+        }
+      ]
+    },
+    {
+      "id": "bd381fc7-8791-4d48-a167-3fe1500026fa",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "hindi": "होटल",
+      "gender": "masculine",
+      "plural": "होटल",
+      "cefr": "A2",
+      "ipa": "[ɦoːʈəl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "हो",
+          "ipa": "[ɦoː]"
+        },
+        {
+          "letter": "ट",
+          "ipa": "[ʈə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "0ab2f055-a95c-4f97-82fa-629253896127",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "hindi": "बैंक",
+      "gender": "masculine",
+      "plural": "बैंक",
+      "cefr": "A2",
+      "ipa": "[bɛ̃ːk]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बैं",
+          "ipa": "[bɛ̃ː]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "0adf5714-704f-4f9b-9ebf-0ed24782d931",
+      "part-of-speech": "noun",
+      "english": "park",
+      "hindi": "पार्क",
+      "gender": "masculine",
+      "plural": "पार्क",
+      "cefr": "A2",
+      "ipa": "[paːrk]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "पा",
+          "ipa": "[paː]"
+        },
+        {
+          "letter": "र्",
+          "ipa": "[r]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "631f4cc0-790a-4331-9e32-db2a61531414",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "hindi": "समझना",
+      "cefr": "A2",
+      "ipa": "[səmədʒʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "झ",
+          "ipa": "[dʒʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "8317bee3-7b62-4c9f-83c5-0a1400035db2",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "hindi": "सीखना",
+      "cefr": "A2",
+      "ipa": "[siːkʰnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सी",
+          "ipa": "[siː]"
+        },
+        {
+          "letter": "ख",
+          "ipa": "[kʰə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "e100af50-20d6-4323-ab30-92a1665a2de4",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "hindi": "सिखाना",
+      "cefr": "A2",
+      "ipa": "[sɪkʰaːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सि",
+          "ipa": "[sɪ]"
+        },
+        {
+          "letter": "खा",
+          "ipa": "[kʰaː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "d32c45be-8b0e-4a60-a173-a1ebf9375aa3",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "hindi": "खेलना",
+      "cefr": "A2",
+      "ipa": "[kʰeːlnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "खे",
+          "ipa": "[kʰeː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "88632f7c-eb36-4e67-8cce-b2c15de9a76a",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "hindi": "पसंद करना",
+      "cefr": "A2",
+      "ipa": "[pəsənd̪ kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "सं",
+          "ipa": "[sə̃]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "bcc262d3-82b0-490c-8a3f-104b3f2278a5",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "hindi": "सोचना",
+      "cefr": "A2",
+      "ipa": "[soːtʃnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सो",
+          "ipa": "[soː]"
+        },
+        {
+          "letter": "च",
+          "ipa": "[tʃə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "4edb9f11-1104-478c-b795-07a45121ff22",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "hindi": "जानना",
+      "cefr": "A2",
+      "ipa": "[dʒaːnnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "जा",
+          "ipa": "[dʒaː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "82c37a71-c950-4fc6-8fe9-eabe080ba3c1",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "hindi": "भूलना",
+      "cefr": "A2",
+      "ipa": "[bʰuːlnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "भू",
+          "ipa": "[bʰuː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "402463c4-ecb1-4e16-b6f2-9f3ebe2e91e9",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "hindi": "खोलना",
+      "cefr": "A2",
+      "ipa": "[kʰoːlnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "खो",
+          "ipa": "[kʰoː]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "b656f419-0bd2-43f4-ae51-1a95222a2308",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "hindi": "बंद करना",
+      "cefr": "A2",
+      "ipa": "[bənd̪ kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बं",
+          "ipa": "[bə̃]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "41dd08f3-cfe9-40ea-a6cb-26b07b075983",
+      "part-of-speech": "verb",
+      "english": "to start",
+      "hindi": "शुरू करना",
+      "cefr": "A2",
+      "ipa": "[ʃʊruː kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "शु",
+          "ipa": "[ʃʊ]"
+        },
+        {
+          "letter": "रू",
+          "ipa": "[ruː]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "212a0792-a360-4fa9-a61d-80066dfc45c5",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "hindi": "ख़त्म करना",
+      "cefr": "A2",
+      "ipa": "[xət̪m kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ख़",
+          "ipa": "[xə]"
+        },
+        {
+          "letter": "त्",
+          "ipa": "[t̪]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "e5802257-f506-47c2-a684-e1f2a01ebb4c",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "hindi": "इंतज़ार करना",
+      "cefr": "A2",
+      "ipa": "[ɪnt̪əzaːr kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "इं",
+          "ipa": "[ɪ̃]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        },
+        {
+          "letter": "ज़ा",
+          "ipa": "[zaː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "8b595db9-663b-46a6-bbb4-f7128778ebb4",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "hindi": "मदद करना",
+      "cefr": "A2",
+      "ipa": "[məd̪əd̪ kərnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "द",
+          "ipa": "[d̪ə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "2f53a729-25ec-494f-be4b-c0946d9b9c0f",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "hindi": "हँसना",
+      "cefr": "A2",
+      "ipa": "[ɦə̃snaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "हँ",
+          "ipa": "[ɦə̃]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "e9de5c88-959e-4b15-a124-04e199cc90c1",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "hindi": "रोना",
+      "cefr": "A2",
+      "ipa": "[roːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "रो",
+          "ipa": "[roː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "642e6f95-c8ea-4893-8210-434811ff2e54",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "hindi": "गाना",
+      "cefr": "A2",
+      "ipa": "[ɡaːnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "गा",
+          "ipa": "[ɡaː]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "647b6bcf-0cd9-4851-a62e-cabad8e4a813",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "hindi": "नाचना",
+      "cefr": "A2",
+      "ipa": "[naːtʃnaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        },
+        {
+          "letter": "च",
+          "ipa": "[tʃə]"
+        },
+        {
+          "letter": "ना",
+          "ipa": "[naː]"
+        }
+      ]
+    },
+    {
+      "id": "12986668-5dd8-4dd0-a853-765090ef93b8",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "hindi": "ख़ुश",
+      "cefr": "A2",
+      "ipa": "[xʊʃ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ख़ु",
+          "ipa": "[xʊ]"
+        },
+        {
+          "letter": "श",
+          "ipa": "[ʃə]"
+        }
+      ]
+    },
+    {
+      "id": "0cbc989e-e3db-4bc3-ae05-ca4f22d405e5",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "hindi": "उदास",
+      "cefr": "A2",
+      "ipa": "[ʊd̪aːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "उ",
+          "ipa": "[ʊ]"
+        },
+        {
+          "letter": "दा",
+          "ipa": "[d̪aː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "1f430800-dc8e-4af0-ba7f-5b31cab885aa",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "hindi": "भूखा",
+      "cefr": "A2",
+      "ipa": "[bʰuːkʰaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "भू",
+          "ipa": "[bʰuː]"
+        },
+        {
+          "letter": "खा",
+          "ipa": "[kʰaː]"
+        }
+      ]
+    },
+    {
+      "id": "dc356904-3359-4c24-a8fe-157032621b92",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "hindi": "प्यासा",
+      "cefr": "A2",
+      "ipa": "[pjaːsaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प्",
+          "ipa": "[p]"
+        },
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        },
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        }
+      ]
+    },
+    {
+      "id": "8c534a4e-eea7-43b9-b175-9c48b43088b8",
+      "part-of-speech": "adjective",
+      "english": "sick",
+      "hindi": "बीमार",
+      "cefr": "A2",
+      "ipa": "[biːmaːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "बी",
+          "ipa": "[biː]"
+        },
+        {
+          "letter": "मा",
+          "ipa": "[maː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "61e15fbc-0018-4dd2-8f3e-55845ce7c0a1",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "hindi": "आसान",
+      "cefr": "A2",
+      "ipa": "[aːsaːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "आ",
+          "ipa": "[aː]"
+        },
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "c66579da-a0aa-4a2e-a1e9-45b765812c74",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "hindi": "मुश्किल",
+      "cefr": "A2",
+      "ipa": "[mʊʃkɪl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "मु",
+          "ipa": "[mʊ]"
+        },
+        {
+          "letter": "श्",
+          "ipa": "[ʃ]"
+        },
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "77ad36ed-48e9-4e84-8fbb-ab0e2c564924",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "hindi": "तेज़",
+      "cefr": "A2",
+      "ipa": "[t̪eːz]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ते",
+          "ipa": "[t̪eː]"
+        },
+        {
+          "letter": "ज़",
+          "ipa": "[zə]"
+        }
+      ]
+    },
+    {
+      "id": "4f8fa0a7-1fb4-4713-b6bd-d26ee68bcf63",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "hindi": "धीमा",
+      "cefr": "A2",
+      "ipa": "[dʰiːmaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "धी",
+          "ipa": "[d̪ʰiː]"
+        },
+        {
+          "letter": "मा",
+          "ipa": "[maː]"
+        }
+      ]
+    },
+    {
+      "id": "665cecb9-764b-450f-a788-176a5d3bfe95",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "hindi": "साफ़",
+      "cefr": "A2",
+      "ipa": "[saːf]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "फ़",
+          "ipa": "[fə]"
+        }
+      ]
+    },
+    {
+      "id": "c1216bb8-bb2e-48c5-9fc8-b99f39552a3a",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "hindi": "गंदा",
+      "cefr": "A2",
+      "ipa": "[ɡənd̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "गं",
+          "ipa": "[ɡə̃]"
+        },
+        {
+          "letter": "दा",
+          "ipa": "[d̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "a415ccf7-bbe2-4e1a-85a3-d7723f60da3a",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "hindi": "व्यस्त",
+      "cefr": "A2",
+      "ipa": "[vjəst̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "व्",
+          "ipa": "[v]"
+        },
+        {
+          "letter": "य",
+          "ipa": "[jə]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "adf4f620-feb5-4897-9273-98cc9011ef8b",
+      "part-of-speech": "adjective",
+      "english": "necessary",
+      "hindi": "ज़रूरी",
+      "cefr": "A2",
+      "ipa": "[zəruːriː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ज़",
+          "ipa": "[zə]"
+        },
+        {
+          "letter": "रू",
+          "ipa": "[ruː]"
+        },
+        {
+          "letter": "री",
+          "ipa": "[riː]"
+        }
+      ]
+    },
+    {
+      "id": "09de9dfe-405e-42e7-9a79-03ed945855e0",
+      "part-of-speech": "adjective",
+      "english": "empty, free",
+      "hindi": "ख़ाली",
+      "cefr": "A2",
+      "ipa": "[xaːliː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ख़ा",
+          "ipa": "[xaː]"
+        },
+        {
+          "letter": "ली",
+          "ipa": "[liː]"
+        }
+      ]
+    },
+    {
+      "id": "95469a34-92d7-4fef-8de0-f99d6455628f",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "hindi": "सब्ज़ी",
+      "gender": "feminine",
+      "plural": "सब्ज़ियाँ",
+      "cefr": "A2",
+      "ipa": "[səbziː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "ब्",
+          "ipa": "[b]"
+        },
+        {
+          "letter": "ज़ी",
+          "ipa": "[ziː]"
+        }
+      ]
+    },
+    {
+      "id": "a05b9e1c-452f-4576-a3ce-56b02a23d1ee",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "hindi": "फल",
+      "gender": "masculine",
+      "plural": "फल",
+      "cefr": "A2",
+      "ipa": "[pʰəl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "फ",
+          "ipa": "[pʰə]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "991df997-1139-4b5c-a90d-b3db82d0459c",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "hindi": "सेब",
+      "gender": "masculine",
+      "plural": "सेब",
+      "cefr": "A2",
+      "ipa": "[seːb]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "से",
+          "ipa": "[seː]"
+        },
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        }
+      ]
+    },
+    {
+      "id": "d7fed1be-b55e-4daf-8a90-b25a7bba6935",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "hindi": "केला",
+      "gender": "masculine",
+      "plural": "केले",
+      "cefr": "A2",
+      "ipa": "[keːlaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "के",
+          "ipa": "[keː]"
+        },
+        {
+          "letter": "ला",
+          "ipa": "[laː]"
+        }
+      ]
+    },
+    {
+      "id": "08f12c6b-1f08-44ec-abd6-e2b3790259aa",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "hindi": "अंडा",
+      "gender": "masculine",
+      "plural": "अंडे",
+      "cefr": "A2",
+      "ipa": "[əɳɖaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अं",
+          "ipa": "[ə̃]"
+        },
+        {
+          "letter": "डा",
+          "ipa": "[ɖaː]"
+        }
+      ]
+    },
+    {
+      "id": "b4150cc4-73cf-4a99-8ef5-1a9e1957c844",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "hindi": "नमक",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[nəmək]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        },
+        {
+          "letter": "म",
+          "ipa": "[mə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "06a30432-961d-4ec6-809e-dcd48fd9a4b0",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "hindi": "चीनी",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[tʃiːniː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ची",
+          "ipa": "[tʃiː]"
+        },
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        }
+      ]
+    },
+    {
+      "id": "92f2ae54-e690-4ff0-a9f1-4559471a86bf",
+      "part-of-speech": "noun",
+      "english": "car, vehicle",
+      "hindi": "गाड़ी",
+      "gender": "feminine",
+      "plural": "गाड़ियाँ",
+      "cefr": "A2",
+      "ipa": "[ɡaːɽiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "गा",
+          "ipa": "[ɡaː]"
+        },
+        {
+          "letter": "ड़ी",
+          "ipa": "[ɽiː]"
+        }
+      ]
+    },
+    {
+      "id": "095e8ea5-4650-48d6-a88d-904635ead50d",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "hindi": "बस",
+      "gender": "feminine",
+      "plural": "बसें",
+      "cefr": "A2",
+      "ipa": "[bəs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "024ce76e-7f71-4555-89d2-15603739e8fe",
+      "part-of-speech": "noun",
+      "english": "train",
+      "hindi": "ट्रेन",
+      "gender": "feminine",
+      "plural": "ट्रेनें",
+      "cefr": "A2",
+      "ipa": "[ʈreːn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ट्",
+          "ipa": "[ʈ]"
+        },
+        {
+          "letter": "रे",
+          "ipa": "[reː]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "8354f77e-5f0f-4b27-a714-939ea3f621f5",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "hindi": "साइकिल",
+      "gender": "feminine",
+      "plural": "साइकिलें",
+      "cefr": "A2",
+      "ipa": "[saːɪkɪl]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "इ",
+          "ipa": "[ɪ]"
+        },
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        },
+        {
+          "letter": "ल",
+          "ipa": "[lə]"
+        }
+      ]
+    },
+    {
+      "id": "c0eec0d9-d515-4865-8999-a840d13b43e5",
+      "part-of-speech": "noun",
+      "english": "road",
+      "hindi": "सड़क",
+      "gender": "feminine",
+      "plural": "सड़कें",
+      "cefr": "A2",
+      "ipa": "[səɽək]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "ड़",
+          "ipa": "[ɽə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "d543262a-4c5c-4bd0-ae76-9abd48583804",
+      "part-of-speech": "noun",
+      "english": "way, path",
+      "hindi": "रास्ता",
+      "gender": "masculine",
+      "plural": "रास्ते",
+      "cefr": "A2",
+      "ipa": "[raːst̪aː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "रा",
+          "ipa": "[raː]"
+        },
+        {
+          "letter": "स्",
+          "ipa": "[s]"
+        },
+        {
+          "letter": "ता",
+          "ipa": "[t̪aː]"
+        }
+      ]
+    },
+    {
+      "id": "82b42e2e-ee7f-4417-9ff9-759fd9cf1fba",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "hindi": "और",
+      "cefr": "A1",
+      "ipa": "[ɔːr]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "औ",
+          "ipa": "[ɔː]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "7c04403d-546c-4644-92ab-f8b66c0bc3bb",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "hindi": "या",
+      "cefr": "A1",
+      "ipa": "[jaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "या",
+          "ipa": "[jaː]"
+        }
+      ]
+    },
+    {
+      "id": "c657b1ab-380a-4b95-92fd-0de34bf77424",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "hindi": "लेकिन",
+      "cefr": "A1",
+      "ipa": "[leːkɪn]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ले",
+          "ipa": "[leː]"
+        },
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        },
+        {
+          "letter": "न",
+          "ipa": "[nə]"
+        }
+      ]
+    },
+    {
+      "id": "92916fdc-7e57-4e05-9a35-0982f98489a7",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "hindi": "क्योंकि",
+      "cefr": "A2",
+      "ipa": "[kjõːkɪ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "क्",
+          "ipa": "[k]"
+        },
+        {
+          "letter": "यों",
+          "ipa": "[jõː]"
+        },
+        {
+          "letter": "कि",
+          "ipa": "[kɪ]"
+        }
+      ]
+    },
+    {
+      "id": "c0e1c6f1-b911-4b2c-b353-b079dc3ff7d7",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "hindi": "अगर",
+      "cefr": "A2",
+      "ipa": "[əɡər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "अ",
+          "ipa": "[ə]"
+        },
+        {
+          "letter": "ग",
+          "ipa": "[ɡə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "a2233590-d5fe-4367-b276-5d5a997a5d38",
+      "part-of-speech": "preposition",
+      "english": "in",
+      "hindi": "में",
+      "cefr": "A1",
+      "ipa": "[mẽː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "में",
+          "ipa": "[mẽː]"
+        }
+      ]
+    },
+    {
+      "id": "27c50d53-c170-447d-a262-43cbb145f326",
+      "part-of-speech": "preposition",
+      "english": "on",
+      "hindi": "पर",
+      "cefr": "A1",
+      "ipa": "[pər]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "प",
+          "ipa": "[pə]"
+        },
+        {
+          "letter": "र",
+          "ipa": "[rə]"
+        }
+      ]
+    },
+    {
+      "id": "f51c8dcc-e57b-4130-a9ad-76ec4beaf1e0",
+      "part-of-speech": "preposition",
+      "english": "under, below",
+      "hindi": "नीचे",
+      "cefr": "A2",
+      "ipa": "[niːtʃeː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "नी",
+          "ipa": "[niː]"
+        },
+        {
+          "letter": "चे",
+          "ipa": "[tʃeː]"
+        }
+      ]
+    },
+    {
+      "id": "67e86c2e-dddc-45ea-abce-c82d2bf0a476",
+      "part-of-speech": "preposition",
+      "english": "near",
+      "hindi": "के पास",
+      "cefr": "A2",
+      "ipa": "[keː paːs]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "के",
+          "ipa": "[keː]"
+        },
+        {
+          "letter": "पा",
+          "ipa": "[paː]"
+        },
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        }
+      ]
+    },
+    {
+      "id": "0bcd691f-9513-489a-8324-5ba5b635b6e0",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "hindi": "के साथ",
+      "cefr": "A2",
+      "ipa": "[keː saːt̪ʰ]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "के",
+          "ipa": "[keː]"
+        },
+        {
+          "letter": "सा",
+          "ipa": "[saː]"
+        },
+        {
+          "letter": "थ",
+          "ipa": "[t̪ʰə]"
+        }
+      ]
+    },
+    {
+      "id": "a9a5ff23-6785-4bad-812f-2ea67d146661",
+      "part-of-speech": "preposition",
+      "english": "from, with, than",
+      "hindi": "से",
+      "cefr": "A1",
+      "ipa": "[seː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "से",
+          "ipa": "[seː]"
+        }
+      ]
+    },
+    {
+      "id": "ed24117f-980b-40f3-9d45-f0e7951c41e9",
+      "part-of-speech": "preposition",
+      "english": "until, up to",
+      "hindi": "तक",
+      "cefr": "A2",
+      "ipa": "[t̪ək]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        },
+        {
+          "letter": "क",
+          "ipa": "[kə]"
+        }
+      ]
+    },
+    {
+      "id": "b7060094-d1b0-4053-a260-4f0c51e9c0f7",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "hindi": "भी",
+      "cefr": "A1",
+      "ipa": "[bʰiː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "भी",
+          "ipa": "[bʰiː]"
+        }
+      ]
+    },
+    {
+      "id": "c036759c-091d-42de-a56d-749486c1fc84",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "hindi": "सिर्फ़",
+      "cefr": "A2",
+      "ipa": "[sɪrf]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "सि",
+          "ipa": "[sɪ]"
+        },
+        {
+          "letter": "र्",
+          "ipa": "[r]"
+        },
+        {
+          "letter": "फ़",
+          "ipa": "[fə]"
+        }
+      ]
+    },
+    {
+      "id": "fe8de3bd-52fa-414b-9604-0f63373b94f8",
+      "part-of-speech": "adverb",
+      "english": "very, much",
+      "hindi": "बहुत",
+      "cefr": "A1",
+      "ipa": "[bəɦʊt̪]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        },
+        {
+          "letter": "हु",
+          "ipa": "[ɦʊ]"
+        },
+        {
+          "letter": "त",
+          "ipa": "[t̪ə]"
+        }
+      ]
+    },
+    {
+      "id": "7eeaf864-b28e-4870-a2b2-51fb76133049",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "hindi": "थोड़ा",
+      "cefr": "A1",
+      "ipa": "[tʰoːɽaː]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "थो",
+          "ipa": "[t̪ʰoː]"
+        },
+        {
+          "letter": "ड़ा",
+          "ipa": "[ɽaː]"
+        }
+      ]
+    },
+    {
+      "id": "75ed9516-b5a2-4dda-aa9b-c7b93c867dbd",
+      "part-of-speech": "pronoun",
+      "english": "all",
+      "hindi": "सब",
+      "cefr": "A1",
+      "ipa": "[səb]",
+      "register": [
+        "All"
+      ],
+      "letterBreakdown": [
+        {
+          "letter": "स",
+          "ipa": "[sə]"
+        },
+        {
+          "letter": "ब",
+          "ipa": "[bə]"
+        }
+      ]
+    },
+    {
+      "id": "2a679bef-bd10-4bac-ab59-7d1b42368af2",
+      "part-of-speech": "letter",
+      "english": "[ə]",
+      "hindi": "अ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "67aabb64-3139-4ba4-8e9f-f6b90e6f20b2",
+      "part-of-speech": "letter",
+      "english": "[aː]",
+      "hindi": "आ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "1ade0224-0274-4069-8a87-854ee35f9a53",
+      "part-of-speech": "letter",
+      "english": "[ɪ]",
+      "hindi": "इ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "30144efb-714f-4939-a24d-385640ed8d3d",
+      "part-of-speech": "letter",
+      "english": "[iː]",
+      "hindi": "ई",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "15132427-4725-4520-ade9-54fa5637d667",
+      "part-of-speech": "letter",
+      "english": "[ʊ]",
+      "hindi": "उ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "ce4631b6-a0cb-4792-b4cc-b546613ef45d",
+      "part-of-speech": "letter",
+      "english": "[uː]",
+      "hindi": "ऊ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "a4e382e2-af04-4c33-8346-7b9196a309b0",
+      "part-of-speech": "letter",
+      "english": "[r̩]",
+      "hindi": "ऋ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "4154ca63-8f7d-435d-8628-b90bad87871e",
+      "part-of-speech": "letter",
+      "english": "[eː]",
+      "hindi": "ए",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "e1af1ea5-2920-45d7-91fe-3a139062ac6b",
+      "part-of-speech": "letter",
+      "english": "[ɛː]",
+      "hindi": "ऐ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "3309379f-4a1b-416f-99c5-bdace2d73f82",
+      "part-of-speech": "letter",
+      "english": "[oː]",
+      "hindi": "ओ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "d72508d2-9043-430e-9912-4b43dc362643",
+      "part-of-speech": "letter",
+      "english": "[ɔː]",
+      "hindi": "औ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c48f4edd-aa97-4144-8de5-100c6a424191",
+      "part-of-speech": "letter",
+      "english": "[kə]",
+      "hindi": "क",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f5537aae-196f-4cad-80ae-3c7cdae57c79",
+      "part-of-speech": "letter",
+      "english": "[kʰə]",
+      "hindi": "ख",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "641d9a1b-5bac-479b-a2b4-6289a9839d56",
+      "part-of-speech": "letter",
+      "english": "[ɡə]",
+      "hindi": "ग",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "cd8ad471-859f-46e6-b823-5cbf958d765a",
+      "part-of-speech": "letter",
+      "english": "[ɡʰə]",
+      "hindi": "घ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "cfab3b4e-7c2a-44a2-a143-8be130063183",
+      "part-of-speech": "letter",
+      "english": "[ŋə]",
+      "hindi": "ङ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "67cd5b26-35b0-4900-9916-4709e078c5d4",
+      "part-of-speech": "letter",
+      "english": "[tʃə]",
+      "hindi": "च",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "5fd72468-b7df-4e0f-a796-9ce7f433c0ef",
+      "part-of-speech": "letter",
+      "english": "[tʃʰə]",
+      "hindi": "छ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "d96817fa-ed7c-4660-a4da-2244d90fa96c",
+      "part-of-speech": "letter",
+      "english": "[dʒə]",
+      "hindi": "ज",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "3f481d60-0f23-4737-ae6b-17bcd72e1c04",
+      "part-of-speech": "letter",
+      "english": "[dʒʰə]",
+      "hindi": "झ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "a9b41ed5-31ca-49e2-9938-defdd7ee5f8d",
+      "part-of-speech": "letter",
+      "english": "[ɲə]",
+      "hindi": "ञ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f07ac160-ac4a-4904-81d9-2c08f3322223",
+      "part-of-speech": "letter",
+      "english": "[ʈə]",
+      "hindi": "ट",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "d8a3522a-aa48-431a-83a3-886c9dfc82d5",
+      "part-of-speech": "letter",
+      "english": "[ʈʰə]",
+      "hindi": "ठ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "fa0444fc-70b4-49c3-a0bc-554d74ab37d8",
+      "part-of-speech": "letter",
+      "english": "[ɖə]",
+      "hindi": "ड",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "7a5ed57c-b666-487d-9610-5a88b2fa3372",
+      "part-of-speech": "letter",
+      "english": "[ɖʰə]",
+      "hindi": "ढ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "d859768c-2104-44a6-8154-b8131d9ca6d0",
+      "part-of-speech": "letter",
+      "english": "[ɳə]",
+      "hindi": "ण",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "2ce04a88-d05d-44b2-908d-88358d487abe",
+      "part-of-speech": "letter",
+      "english": "[t̪ə]",
+      "hindi": "त",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "8682954a-b458-4338-a282-a830a805f452",
+      "part-of-speech": "letter",
+      "english": "[t̪ʰə]",
+      "hindi": "थ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "6dd0d528-533a-4e27-a0b4-7742ed620c26",
+      "part-of-speech": "letter",
+      "english": "[d̪ə]",
+      "hindi": "द",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "5463331b-4de3-41fd-ad6c-0ea54eb71b38",
+      "part-of-speech": "letter",
+      "english": "[d̪ʰə]",
+      "hindi": "ध",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "265ea7b3-8d54-48a2-a16a-55db52bfaf21",
+      "part-of-speech": "letter",
+      "english": "[nə]",
+      "hindi": "न",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "e3b8ce11-ea2d-4181-8cb7-92700e43f2ed",
+      "part-of-speech": "letter",
+      "english": "[pə]",
+      "hindi": "प",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "e0a6b35f-e700-4d0d-98e1-6adaac6ce021",
+      "part-of-speech": "letter",
+      "english": "[pʰə]",
+      "hindi": "फ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "9a5dc1f3-f480-47a1-8b29-95600b660f01",
+      "part-of-speech": "letter",
+      "english": "[bə]",
+      "hindi": "ब",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "cdc68f94-9dec-4100-99f1-039a45ab4777",
+      "part-of-speech": "letter",
+      "english": "[bʰə]",
+      "hindi": "भ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c31148c7-e693-41ad-9741-9c64d32225f6",
+      "part-of-speech": "letter",
+      "english": "[mə]",
+      "hindi": "म",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f193d62f-7d23-4efe-aa80-dd846c711ad2",
+      "part-of-speech": "letter",
+      "english": "[jə]",
+      "hindi": "य",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "b6e46ad5-23a8-4ebf-8487-4a359f67be9c",
+      "part-of-speech": "letter",
+      "english": "[rə]",
+      "hindi": "र",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "0f260263-ed73-40c8-85dd-656690b44bbb",
+      "part-of-speech": "letter",
+      "english": "[lə]",
+      "hindi": "ल",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "2564e29d-c4d6-48eb-85bb-0d7541cea2fc",
+      "part-of-speech": "letter",
+      "english": "[və]",
+      "hindi": "व",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "0933187d-5ba4-40a2-a0d1-c4cd7bcfa32c",
+      "part-of-speech": "letter",
+      "english": "[ʃə]",
+      "hindi": "श",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "b2d91b5a-83cd-4570-bcfe-d27075046ea3",
+      "part-of-speech": "letter",
+      "english": "[ʃə]",
+      "hindi": "ष",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "bef2da3e-a6a4-4225-8eed-91e4e33b4b25",
+      "part-of-speech": "letter",
+      "english": "[sə]",
+      "hindi": "स",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "46186514-c67d-468f-99a3-b1cc7e0147ee",
+      "part-of-speech": "letter",
+      "english": "[ɦə]",
+      "hindi": "ह",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "e4632c2d-9c79-4ed0-9c6c-44873d3f244d",
+      "part-of-speech": "letter",
+      "english": "[qə]",
+      "hindi": "क़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "999afd6a-b191-4882-a5e0-3309f78d3b18",
+      "part-of-speech": "letter",
+      "english": "[xə]",
+      "hindi": "ख़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "788ff340-1693-4815-b09f-f52a798f8eaf",
+      "part-of-speech": "letter",
+      "english": "[ɣə]",
+      "hindi": "ग़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "dee9d27f-b965-4baf-a690-1b69521f7dd2",
+      "part-of-speech": "letter",
+      "english": "[zə]",
+      "hindi": "ज़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c4d4ce19-76a4-4dea-a037-645bace43019",
+      "part-of-speech": "letter",
+      "english": "[ɽə]",
+      "hindi": "ड़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "3358fa46-e002-47b6-9c9d-2ba8059b7452",
+      "part-of-speech": "letter",
+      "english": "[ɽʰə]",
+      "hindi": "ढ़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "805ca994-64f4-46b6-a45c-f2f479361358",
+      "part-of-speech": "letter",
+      "english": "[fə]",
+      "hindi": "फ़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "dc3816e5-d962-49c9-8f96-f1958270e601",
+      "part-of-speech": "letter-pair",
+      "english": "[kə] [kʰə]",
+      "hindi": "क ख",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "eba57ade-8127-4d6c-b3ce-a47ffaefc9cd",
+      "part-of-speech": "letter-pair",
+      "english": "[ɡə] [ɡʰə]",
+      "hindi": "ग घ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "b2ef6bf9-b7e7-45b3-9f52-9c79d28355f5",
+      "part-of-speech": "letter-pair",
+      "english": "[tʃə] [tʃʰə]",
+      "hindi": "च छ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "ec257ff8-e802-4151-a712-9b85df2b0713",
+      "part-of-speech": "letter-pair",
+      "english": "[dʒə] [dʒʰə]",
+      "hindi": "ज झ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "c24600ed-98af-4aec-b6ea-4bcb41671d4c",
+      "part-of-speech": "letter-pair",
+      "english": "[ʈə] [ʈʰə]",
+      "hindi": "ट ठ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "b86beebc-7ecd-42a2-b806-8c1b6e981aa7",
+      "part-of-speech": "letter-pair",
+      "english": "[ɖə] [ɖʰə]",
+      "hindi": "ड ढ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "0a1bcfa8-7eed-4dcf-b113-b8aaa7e93b33",
+      "part-of-speech": "letter-pair",
+      "english": "[t̪ə] [t̪ʰə]",
+      "hindi": "त थ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "3870c976-1f6c-4adf-a8ab-294a2bf85021",
+      "part-of-speech": "letter-pair",
+      "english": "[d̪ə] [d̪ʰə]",
+      "hindi": "द ध",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "2161be27-9c82-40e2-96b3-dc84a1340d16",
+      "part-of-speech": "letter-pair",
+      "english": "[pə] [pʰə]",
+      "hindi": "प फ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "e230077d-de97-49c6-a382-bd0bd43ab2df",
+      "part-of-speech": "letter-pair",
+      "english": "[bə] [bʰə]",
+      "hindi": "ब भ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "dc94782c-c24d-4bdd-be29-ab413075bfef",
+      "part-of-speech": "letter-pair",
+      "english": "[t̪ə] [ʈə]",
+      "hindi": "त ट",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "13b7a96a-80d8-4efc-a2fd-7e57f5f3bdb3",
+      "part-of-speech": "letter-pair",
+      "english": "[t̪ʰə] [ʈʰə]",
+      "hindi": "थ ठ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "5b679ace-bdf0-4391-bec8-4f0e440d5b1a",
+      "part-of-speech": "letter-pair",
+      "english": "[d̪ə] [ɖə]",
+      "hindi": "द ड",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "969e0e5e-ce3b-43d0-a159-79b38304ac17",
+      "part-of-speech": "letter-pair",
+      "english": "[d̪ʰə] [ɖʰə]",
+      "hindi": "ध ढ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "69cab2a4-d3fd-4baf-9c70-d9b830869cc8",
+      "part-of-speech": "letter-pair",
+      "english": "[nə] [ɳə]",
+      "hindi": "न ण",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "bca25b4d-3984-4082-84ee-61775f22f79f",
+      "part-of-speech": "letter-pair",
+      "english": "[kə] [ɡə]",
+      "hindi": "क ग",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "40784d57-258e-49e4-8e0b-7a946463eec4",
+      "part-of-speech": "letter-pair",
+      "english": "[tʃə] [dʒə]",
+      "hindi": "च ज",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "3be2b63c-46d4-45e4-8f92-8ee7003de327",
+      "part-of-speech": "letter-pair",
+      "english": "[ʈə] [ɖə]",
+      "hindi": "ट ड",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "9c6ca8f3-b3b2-4e6b-9a88-3acf7a0689d3",
+      "part-of-speech": "letter-pair",
+      "english": "[t̪ə] [d̪ə]",
+      "hindi": "त द",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "5037f93c-f493-4b7c-bf65-059c787ea551",
+      "part-of-speech": "letter-pair",
+      "english": "[pə] [bə]",
+      "hindi": "प ब",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "83058d5f-b247-45c8-9b0f-3d1cee804d74",
+      "part-of-speech": "letter-pair",
+      "english": "[kə] [qə]",
+      "hindi": "क क़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "4b110326-7bd4-480e-89af-150200d36e31",
+      "part-of-speech": "letter-pair",
+      "english": "[kʰə] [xə]",
+      "hindi": "ख ख़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "fbc802fd-d031-4382-a240-bd06361abdf3",
+      "part-of-speech": "letter-pair",
+      "english": "[ɡə] [ɣə]",
+      "hindi": "ग ग़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "cbbfe9d5-340a-4239-b50c-d2059c7b8c36",
+      "part-of-speech": "letter-pair",
+      "english": "[dʒə] [zə]",
+      "hindi": "ज ज़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "d457e318-b8ef-43fd-b59e-936f85b2e7f9",
+      "part-of-speech": "letter-pair",
+      "english": "[pʰə] [fə]",
+      "hindi": "फ फ़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "2452089b-096a-49a4-8eb6-1a879889d5c5",
+      "part-of-speech": "letter-pair",
+      "english": "[ɖə] [ɽə]",
+      "hindi": "ड ड़",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "41dc5a33-d8ef-41c6-ac5a-2855f4b2edd8",
+      "part-of-speech": "letter-pair",
+      "english": "[sə] [ʃə]",
+      "hindi": "स श",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    }
+  ]
+}

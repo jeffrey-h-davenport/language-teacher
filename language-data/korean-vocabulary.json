@@ -1,0 +1,2827 @@
+{
+  "meta": {
+    "language": "Korean",
+    "languageCode": "ko",
+    "nativeLanguage": "English",
+    "targetField": "korean",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "9fd7c997-d282-4f38-8198-707f6762ea66",
+      "part-of-speech": "letter",
+      "english": "/k/",
+      "korean": "ㄱ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "d5cf9693-138b-4caf-820c-7669c0bb99b1",
+      "part-of-speech": "letter",
+      "english": "/k͈/",
+      "korean": "ㄲ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "55afa03f-6b3d-47b9-a0c5-0938c51e0c37",
+      "part-of-speech": "letter",
+      "english": "/n/",
+      "korean": "ㄴ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "ad1aa889-0b0c-495c-bfbe-7acaea27d887",
+      "part-of-speech": "letter",
+      "english": "/t/",
+      "korean": "ㄷ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f77e4f27-4cbd-4bcb-b1b4-c9c1f675a0b7",
+      "part-of-speech": "letter",
+      "english": "/t͈/",
+      "korean": "ㄸ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "32f0b28b-0e3d-4d8b-90d5-03a9e9ec1ed9",
+      "part-of-speech": "letter",
+      "english": "/l/",
+      "korean": "ㄹ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "0c3478f1-747d-40e0-a5da-3e13be56d3f2",
+      "part-of-speech": "letter",
+      "english": "/m/",
+      "korean": "ㅁ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f8c81a17-18aa-4ced-a7a0-5ff882323d58",
+      "part-of-speech": "letter",
+      "english": "/p/",
+      "korean": "ㅂ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "ebb4b86b-a6ff-47fc-a4bd-f3a8be727d39",
+      "part-of-speech": "letter",
+      "english": "/p͈/",
+      "korean": "ㅃ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "d334177f-50fd-4eff-affc-1fbcd93a13bf",
+      "part-of-speech": "letter",
+      "english": "/s/",
+      "korean": "ㅅ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "9bd850d2-de7b-4ca4-b4f4-ace150a61d1a",
+      "part-of-speech": "letter",
+      "english": "/s͈/",
+      "korean": "ㅆ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "3e95496d-60a5-4935-a4ee-619eb3e27b2f",
+      "part-of-speech": "letter",
+      "english": "/∅/",
+      "korean": "ㅇ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c469d311-5dfb-43e6-8f1c-1c98c8c117ed",
+      "part-of-speech": "letter",
+      "english": "/tɕ/",
+      "korean": "ㅈ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "ccd47d56-dca8-442d-b3b6-b96b5086547b",
+      "part-of-speech": "letter",
+      "english": "/t͈ɕ/",
+      "korean": "ㅉ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "23717427-cb67-441a-98d5-e810aaeec352",
+      "part-of-speech": "letter",
+      "english": "/tɕʰ/",
+      "korean": "ㅊ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f4df19a9-74b7-4040-be71-b073b268cd53",
+      "part-of-speech": "letter",
+      "english": "/kʰ/",
+      "korean": "ㅋ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "1e057d90-5d6b-4be7-b65d-022bbac0a2b0",
+      "part-of-speech": "letter",
+      "english": "/tʰ/",
+      "korean": "ㅌ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "6f754701-4943-4e3b-8e5c-aef7061ea277",
+      "part-of-speech": "letter",
+      "english": "/pʰ/",
+      "korean": "ㅍ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "72169d59-e4ff-4135-b4f9-05240db203e1",
+      "part-of-speech": "letter",
+      "english": "/h/",
+      "korean": "ㅎ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "805e19b4-8998-4fe6-8f6c-c9caa2376dd2",
+      "part-of-speech": "letter",
+      "english": "/a/",
+      "korean": "ㅏ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "2c9c646a-9ade-4511-8bde-261ff0507f52",
+      "part-of-speech": "letter",
+      "english": "/ɛ/",
+      "korean": "ㅐ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "9e17eaa9-13c6-4df9-bd22-88375ba7a480",
+      "part-of-speech": "letter",
+      "english": "/ja/",
+      "korean": "ㅑ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "7b349c13-2ec9-46e7-bc2f-134d3e7a9ed1",
+      "part-of-speech": "letter",
+      "english": "/jɛ/",
+      "korean": "ㅒ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f4e33768-417d-44b5-9c27-28852b70fae5",
+      "part-of-speech": "letter",
+      "english": "/ʌ/",
+      "korean": "ㅓ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "5f3ab6d5-8d48-497e-a71f-b5d1d7844788",
+      "part-of-speech": "letter",
+      "english": "/e/",
+      "korean": "ㅔ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "67ba2dc9-3600-4140-bc59-112e609d3a3e",
+      "part-of-speech": "letter",
+      "english": "/jʌ/",
+      "korean": "ㅕ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "cd5352f7-55c4-4661-b579-252554a26b06",
+      "part-of-speech": "letter",
+      "english": "/je/",
+      "korean": "ㅖ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "596da833-3b07-41ec-a15b-7f332fb7fb69",
+      "part-of-speech": "letter",
+      "english": "/o/",
+      "korean": "ㅗ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "173d9a0a-8f20-41b1-85d8-1ad8d673a743",
+      "part-of-speech": "letter",
+      "english": "/wa/",
+      "korean": "ㅘ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "4bf4725e-6e3a-493c-bdad-382d2b3b7a07",
+      "part-of-speech": "letter",
+      "english": "/wɛ/",
+      "korean": "ㅙ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "4665df36-a4a8-46b8-a6b5-6838c10f8270",
+      "part-of-speech": "letter",
+      "english": "/we/",
+      "korean": "ㅚ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c4620cfe-f1c9-450c-be98-bb4818424595",
+      "part-of-speech": "letter",
+      "english": "/jo/",
+      "korean": "ㅛ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f9cb15a2-8b29-41c4-adbe-5d7e432eb2e9",
+      "part-of-speech": "letter",
+      "english": "/u/",
+      "korean": "ㅜ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "dbca174c-6f31-4613-b663-42988527f5b7",
+      "part-of-speech": "letter",
+      "english": "/wʌ/",
+      "korean": "ㅝ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "f50f9a81-0840-4946-801e-8beb30e15e3f",
+      "part-of-speech": "letter",
+      "english": "/we/",
+      "korean": "ㅞ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "fed53158-8aed-4d81-93f4-03eb15e53b00",
+      "part-of-speech": "letter",
+      "english": "/wi/",
+      "korean": "ㅟ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "61886cd3-efa0-46da-a6d1-1f071ab4da4d",
+      "part-of-speech": "letter",
+      "english": "/ju/",
+      "korean": "ㅠ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "27807bb4-5a97-4a8a-b560-c56fe570a401",
+      "part-of-speech": "letter",
+      "english": "/ɯ/",
+      "korean": "ㅡ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c280cf84-eec1-479c-b301-34aaa11fa02d",
+      "part-of-speech": "letter",
+      "english": "/ɰi/",
+      "korean": "ㅢ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "71fbc177-bb1c-4e78-9ba0-2dcf2090e162",
+      "part-of-speech": "letter",
+      "english": "/i/",
+      "korean": "ㅣ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 1
+    },
+    {
+      "id": "c92ee9f3-7ae0-409b-8c5d-6f41536a1690",
+      "part-of-speech": "letter-pair",
+      "english": "/k/ /kʰ/",
+      "korean": "ㄱ ㅋ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "1dba3bf5-8cd0-4154-b1ac-c462b1117fca",
+      "part-of-speech": "letter-pair",
+      "english": "/k/ /k͈/",
+      "korean": "ㄱ ㄲ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "e8717fb9-24d8-4d23-82ff-453258e6368a",
+      "part-of-speech": "letter-pair",
+      "english": "/kʰ/ /k͈/",
+      "korean": "ㅋ ㄲ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "edb60b65-7104-48c6-99f5-8a090e6712e6",
+      "part-of-speech": "letter-pair",
+      "english": "/t/ /tʰ/",
+      "korean": "ㄷ ㅌ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "e4e9a8ae-94d3-4ebf-9856-4c5505efe1a9",
+      "part-of-speech": "letter-pair",
+      "english": "/t/ /t͈/",
+      "korean": "ㄷ ㄸ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "6c1346ad-8cd5-4584-8f63-27c0b78b41f9",
+      "part-of-speech": "letter-pair",
+      "english": "/tʰ/ /t͈/",
+      "korean": "ㅌ ㄸ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "3aad5972-c1fd-4246-b3c3-9dcf1a5ee768",
+      "part-of-speech": "letter-pair",
+      "english": "/p/ /pʰ/",
+      "korean": "ㅂ ㅍ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "384896e2-ed63-46b4-b992-336cd6fb95db",
+      "part-of-speech": "letter-pair",
+      "english": "/p/ /p͈/",
+      "korean": "ㅂ ㅃ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "56c5f105-87d0-4ae4-8313-2532d5465896",
+      "part-of-speech": "letter-pair",
+      "english": "/pʰ/ /p͈/",
+      "korean": "ㅍ ㅃ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "4acbb518-4b25-4972-87b5-562559f23329",
+      "part-of-speech": "letter-pair",
+      "english": "/tɕ/ /tɕʰ/",
+      "korean": "ㅈ ㅊ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "bcb8922c-0bf6-4374-9c9e-6d7348d15c92",
+      "part-of-speech": "letter-pair",
+      "english": "/tɕ/ /t͈ɕ/",
+      "korean": "ㅈ ㅉ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "4cdde71d-1349-4360-9c0b-51a7143b7376",
+      "part-of-speech": "letter-pair",
+      "english": "/tɕʰ/ /t͈ɕ/",
+      "korean": "ㅊ ㅉ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "f34ffb1b-bd2a-4760-8328-35c30d567781",
+      "part-of-speech": "letter-pair",
+      "english": "/s/ /s͈/",
+      "korean": "ㅅ ㅆ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "f84045fc-fe20-47db-b9b3-3108e38ae52b",
+      "part-of-speech": "letter-pair",
+      "english": "/ɛ/ /e/",
+      "korean": "ㅐ ㅔ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "b56dfd79-1502-45ed-af71-9c8c281f2365",
+      "part-of-speech": "letter-pair",
+      "english": "/ʌ/ /o/",
+      "korean": "ㅓ ㅗ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "d8324f46-3d45-40f6-a81d-964ae197b0af",
+      "part-of-speech": "letter-pair",
+      "english": "/ɯ/ /u/",
+      "korean": "ㅡ ㅜ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "31be0518-c973-4a3b-bcac-18c39d91120e",
+      "part-of-speech": "letter-pair",
+      "english": "/wɛ/ /we/",
+      "korean": "ㅙ ㅚ",
+      "cefr": "A0",
+      "register": [
+        "All"
+      ],
+      "tier": 2
+    },
+    {
+      "id": "b1fcff51-dfec-4bce-ab80-e88708ca974f",
+      "part-of-speech": "pronoun",
+      "english": "I (humble)",
+      "korean": "저",
+      "cefr": "A1",
+      "ipa": "/tɕʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c104303-7d36-45ed-9a70-4d6316f87847",
+      "part-of-speech": "pronoun",
+      "english": "I (plain)",
+      "korean": "나",
+      "cefr": "A1",
+      "ipa": "/na/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddeb13a3-1c32-4f75-89c7-f05aec687f70",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "korean": "너",
+      "cefr": "A1",
+      "ipa": "/nʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e85fbd7-baf6-4a5f-9cdb-be3296662592",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "korean": "당신",
+      "cefr": "A1",
+      "ipa": "/taŋsin/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5523c22e-8f14-4d8b-95a7-9c6ae3a48a19",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "korean": "그",
+      "cefr": "A1",
+      "ipa": "/kɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d574ef0-e1af-4d81-857a-376aece7bb3b",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "korean": "그녀",
+      "cefr": "A1",
+      "ipa": "/kɯnjʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a685ecf7-2d49-4877-859c-7766fcd80740",
+      "part-of-speech": "pronoun",
+      "english": "we, our",
+      "korean": "우리",
+      "cefr": "A1",
+      "ipa": "/uli/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4682179c-8616-4008-a559-760a52779c4f",
+      "part-of-speech": "pronoun",
+      "english": "we (humble)",
+      "korean": "저희",
+      "cefr": "A1",
+      "ipa": "/tɕʌhɰi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0c12bbb-a1e5-4d5d-80d9-a44c54a7dd8f",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "korean": "그들",
+      "cefr": "A1",
+      "ipa": "/kɯtɯl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a4bfe5a-552a-4a4a-aeb8-baa732d2b23a",
+      "part-of-speech": "pronoun",
+      "english": "this (thing)",
+      "korean": "이것",
+      "cefr": "A1",
+      "ipa": "/ikʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5641488c-e874-4d2f-a2b7-72a9434568f9",
+      "part-of-speech": "pronoun",
+      "english": "that (thing, near you)",
+      "korean": "그것",
+      "cefr": "A1",
+      "ipa": "/kɯkʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfcafea2-e0b1-489a-a14e-4cea2192acb7",
+      "part-of-speech": "pronoun",
+      "english": "that (thing, over there)",
+      "korean": "저것",
+      "cefr": "A1",
+      "ipa": "/tɕʌkʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d521d305-dbc5-477c-94a7-23efad75b7d4",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "korean": "누구",
+      "cefr": "A1",
+      "ipa": "/nuku/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8b24260-9d28-4b58-ad19-d9aedd6c2b5b",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "korean": "무엇",
+      "cefr": "A1",
+      "ipa": "/muʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30614855-76b4-45cc-9dc2-9198967a693a",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "korean": "어디",
+      "cefr": "A1",
+      "ipa": "/ʌti/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99c5d446-e62c-4f82-ad57-14acfd9f1089",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "korean": "언제",
+      "cefr": "A1",
+      "ipa": "/ʌntɕe/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "732a2534-a862-4924-b768-d0272fa9333a",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "korean": "왜",
+      "cefr": "A1",
+      "ipa": "/wɛ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e10ac7d-cac1-4ec4-8d2c-07c579875540",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "korean": "어떻게",
+      "cefr": "A1",
+      "ipa": "/ʌt͈ʌkʰe/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35affd3e-832b-4c2a-925e-d5e2756c3b0a",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "korean": "얼마나",
+      "cefr": "A1",
+      "ipa": "/ʌlmana/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e10dc3f-e472-47c2-987f-281d779c63fc",
+      "part-of-speech": "adjective",
+      "english": "one",
+      "korean": "하나",
+      "cefr": "A1",
+      "ipa": "/hana/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a5b719b-a061-4239-9028-bb478b01ea62",
+      "part-of-speech": "adjective",
+      "english": "two",
+      "korean": "둘",
+      "cefr": "A1",
+      "ipa": "/tul/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff705fd8-4bc9-46b9-9d2e-f758b05a204a",
+      "part-of-speech": "adjective",
+      "english": "three",
+      "korean": "셋",
+      "cefr": "A1",
+      "ipa": "/set/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ebe8994-7b6b-4484-ac11-65b104f88988",
+      "part-of-speech": "adjective",
+      "english": "four",
+      "korean": "넷",
+      "cefr": "A1",
+      "ipa": "/net/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91b881b1-fbd3-41d8-a31d-a1cbb0458f5d",
+      "part-of-speech": "adjective",
+      "english": "five",
+      "korean": "다섯",
+      "cefr": "A1",
+      "ipa": "/tasʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96babc4d-a2da-457f-b7c6-3647f87212fc",
+      "part-of-speech": "adjective",
+      "english": "six",
+      "korean": "여섯",
+      "cefr": "A1",
+      "ipa": "/jʌsʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82bee974-2e10-4708-95ec-7e09f5c07a91",
+      "part-of-speech": "adjective",
+      "english": "seven",
+      "korean": "일곱",
+      "cefr": "A1",
+      "ipa": "/ilkop/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4866bfe8-7c17-44ca-8a8c-218fc9a7d007",
+      "part-of-speech": "adjective",
+      "english": "eight",
+      "korean": "여덟",
+      "cefr": "A1",
+      "ipa": "/jʌtʌl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5aebbb3e-a0e8-40ec-a164-685c5cacb3be",
+      "part-of-speech": "adjective",
+      "english": "nine",
+      "korean": "아홉",
+      "cefr": "A1",
+      "ipa": "/ahop/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54d28f3d-1465-4596-aca2-a24db7a48afd",
+      "part-of-speech": "adjective",
+      "english": "ten",
+      "korean": "열",
+      "cefr": "A1",
+      "ipa": "/jʌl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f6d78dc-4257-446e-9631-fe049aa55f64",
+      "part-of-speech": "adjective",
+      "english": "one (Sino-Korean)",
+      "korean": "일",
+      "cefr": "A1",
+      "ipa": "/il/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26981521-52a6-4d18-90d7-2e2609be3a97",
+      "part-of-speech": "adjective",
+      "english": "two (Sino-Korean)",
+      "korean": "이",
+      "cefr": "A1",
+      "ipa": "/i/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7f6bf50-61e6-4bb9-add1-c3c9ed73436e",
+      "part-of-speech": "adjective",
+      "english": "three (Sino-Korean)",
+      "korean": "삼",
+      "cefr": "A1",
+      "ipa": "/sam/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0111395-c51d-4d33-96d6-ed61dace3c42",
+      "part-of-speech": "adjective",
+      "english": "four (Sino-Korean)",
+      "korean": "사",
+      "cefr": "A1",
+      "ipa": "/sa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e79097e-a112-4504-8548-6a327ad53c18",
+      "part-of-speech": "adjective",
+      "english": "five (Sino-Korean)",
+      "korean": "오",
+      "cefr": "A1",
+      "ipa": "/o/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0bfc4f6-e0a4-4e80-bb87-215e92e107b7",
+      "part-of-speech": "adjective",
+      "english": "six (Sino-Korean)",
+      "korean": "육",
+      "cefr": "A1",
+      "ipa": "/juk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1466b946-9bdb-430f-88d2-2b4d5200b2b2",
+      "part-of-speech": "adjective",
+      "english": "seven (Sino-Korean)",
+      "korean": "칠",
+      "cefr": "A1",
+      "ipa": "/tɕʰil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ee2c8b4-2dca-4f51-9894-51c2e2e83fbc",
+      "part-of-speech": "adjective",
+      "english": "eight (Sino-Korean)",
+      "korean": "팔",
+      "cefr": "A1",
+      "ipa": "/pʰal/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8503605-f56e-495b-a022-21002cdacb7c",
+      "part-of-speech": "adjective",
+      "english": "nine (Sino-Korean)",
+      "korean": "구",
+      "cefr": "A1",
+      "ipa": "/ku/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dd7f12a-a68e-4f4a-b37a-e46e4ec7d306",
+      "part-of-speech": "adjective",
+      "english": "ten (Sino-Korean)",
+      "korean": "십",
+      "cefr": "A1",
+      "ipa": "/sip/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db3f4f5a-e02c-4273-8a16-2a3642f4a9a4",
+      "part-of-speech": "noun",
+      "english": "family",
+      "korean": "가족",
+      "cefr": "A1",
+      "ipa": "/katɕok/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55b99d10-4983-4132-8f68-f197991570b1",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "korean": "어머니",
+      "cefr": "A1",
+      "ipa": "/ʌmʌni/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7022244f-d731-4ec2-b0d3-740cc63a36b3",
+      "part-of-speech": "noun",
+      "english": "father",
+      "korean": "아버지",
+      "cefr": "A1",
+      "ipa": "/apʌtɕi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de459c37-872d-4c69-8b5e-8a8a42b2d44d",
+      "part-of-speech": "noun",
+      "english": "mom",
+      "korean": "엄마",
+      "cefr": "A1",
+      "ipa": "/ʌmma/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28604401-3df8-436f-b8e3-51f9b6bb353a",
+      "part-of-speech": "noun",
+      "english": "dad",
+      "korean": "아빠",
+      "cefr": "A1",
+      "ipa": "/ap͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e332da2f-5c30-419f-bc7c-c7d159b01a84",
+      "part-of-speech": "noun",
+      "english": "older brother (of a male)",
+      "korean": "형",
+      "cefr": "A1",
+      "ipa": "/hjʌŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ae02149-e5f8-47a7-bbd7-9fb0b8953474",
+      "part-of-speech": "noun",
+      "english": "older brother (of a female)",
+      "korean": "오빠",
+      "cefr": "A1",
+      "ipa": "/op͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2059a91-0a64-442e-9079-a25487b5c5a0",
+      "part-of-speech": "noun",
+      "english": "older sister (of a male)",
+      "korean": "누나",
+      "cefr": "A1",
+      "ipa": "/nuna/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0447676-4294-4908-b53c-03229637d38f",
+      "part-of-speech": "noun",
+      "english": "older sister (of a female)",
+      "korean": "언니",
+      "cefr": "A1",
+      "ipa": "/ʌnni/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "977fc1f5-c30d-49b4-8b60-5e161b264c60",
+      "part-of-speech": "noun",
+      "english": "younger sibling",
+      "korean": "동생",
+      "cefr": "A1",
+      "ipa": "/toŋsɛŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a03fae1-882b-408d-888d-2af922007a81",
+      "part-of-speech": "noun",
+      "english": "younger brother",
+      "korean": "남동생",
+      "cefr": "A1",
+      "ipa": "/namtoŋsɛŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ae137a0-b30c-4bd6-8a50-f1210d02979a",
+      "part-of-speech": "noun",
+      "english": "younger sister",
+      "korean": "여동생",
+      "cefr": "A1",
+      "ipa": "/jʌtoŋsɛŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c462095-17c3-48e8-9cd7-648843756964",
+      "part-of-speech": "noun",
+      "english": "son",
+      "korean": "아들",
+      "cefr": "A1",
+      "ipa": "/atɯl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0613805b-5c74-49cd-bb1a-b2e7ddb37d88",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "korean": "딸",
+      "cefr": "A1",
+      "ipa": "/t͈al/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bf5bfc4-d43c-4edb-88bc-e4a652ec951c",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "korean": "남편",
+      "cefr": "A1",
+      "ipa": "/nampʰjʌn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11941bac-57b2-4c0b-8f1b-a7e74c7614d0",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "korean": "아내",
+      "cefr": "A1",
+      "ipa": "/anɛ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a51244bd-3854-4d3a-b54b-9f6e2ad3be45",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "korean": "할아버지",
+      "cefr": "A1",
+      "ipa": "/halapʌtɕi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14a98451-f94e-4140-8107-6a9fcb6ee07c",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "korean": "할머니",
+      "cefr": "A1",
+      "ipa": "/halmʌni/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5301ab66-c705-488e-b3d4-743362d5da7c",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "korean": "친구",
+      "cefr": "A1",
+      "ipa": "/tɕʰinku/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29c7543f-7121-4291-a42f-bb62f4258e50",
+      "part-of-speech": "noun",
+      "english": "child",
+      "korean": "아이",
+      "cefr": "A1",
+      "ipa": "/ai/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c695fe52-f393-4676-b546-1de46370458a",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "korean": "안녕하세요",
+      "cefr": "A1",
+      "ipa": "/annjʌŋhasejo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce038b22-a369-4ef2-85c3-e373c8fefee6",
+      "part-of-speech": "interjection",
+      "english": "goodbye (to the one leaving)",
+      "korean": "안녕히 가세요",
+      "cefr": "A1",
+      "ipa": "/annjʌŋhikasejo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "678654ae-602a-4ddd-9947-18b6c507e618",
+      "part-of-speech": "interjection",
+      "english": "goodbye (to the one staying)",
+      "korean": "안녕히 계세요",
+      "cefr": "A1",
+      "ipa": "/annjʌŋhikjesejo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ff22830-f221-4ffd-9320-ab785ade6c84",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "korean": "감사합니다",
+      "cefr": "A1",
+      "ipa": "/kamsahamnita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba5d6a62-2d43-476d-8c26-e2f33ed8c643",
+      "part-of-speech": "interjection",
+      "english": "thank you (native root)",
+      "korean": "고맙습니다",
+      "cefr": "A1",
+      "ipa": "/komaps͈ɯmnita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e979344-9e33-43b7-ab49-488d6dafb8b7",
+      "part-of-speech": "interjection",
+      "english": "sorry (formal)",
+      "korean": "죄송합니다",
+      "cefr": "A1",
+      "ipa": "/tɕwesoŋhamnita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "485b3d62-edf9-4134-a837-e963c35249c2",
+      "part-of-speech": "interjection",
+      "english": "sorry (informal)",
+      "korean": "미안해",
+      "cefr": "A1",
+      "ipa": "/mianhɛ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16e0d4a6-158b-4be6-bf48-be60109ce284",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "korean": "네",
+      "cefr": "A1",
+      "ipa": "/ne/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45e9a74d-9ae0-430b-b4d0-40e76ecae5f0",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "korean": "아니요",
+      "cefr": "A1",
+      "ipa": "/anijo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4370cfe7-694d-45c4-bba7-b62496c6f430",
+      "part-of-speech": "interjection",
+      "english": "it's okay, that's fine",
+      "korean": "괜찮아요",
+      "cefr": "A1",
+      "ipa": "/kwɛntɕʰanajo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaf0407d-bab8-4607-a016-a34b465ddcf2",
+      "part-of-speech": "interjection",
+      "english": "excuse me",
+      "korean": "실례합니다",
+      "cefr": "A1",
+      "ipa": "/silljehamnita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "894866ed-0741-45e1-be9e-95e6051aea66",
+      "part-of-speech": "interjection",
+      "english": "nice to meet you",
+      "korean": "만나서 반갑습니다",
+      "cefr": "A1",
+      "ipa": "/mannasʌpankaps͈ɯmnita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cd9def6-0d59-4255-ab93-3e4ead5fd51f",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "korean": "집",
+      "cefr": "A1",
+      "ipa": "/tɕip/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "313f8d3b-5560-4afb-88ba-6b13362608cf",
+      "part-of-speech": "noun",
+      "english": "water",
+      "korean": "물",
+      "cefr": "A1",
+      "ipa": "/mul/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c29f78c-360b-4c9c-b4c4-dcaba77a1179",
+      "part-of-speech": "noun",
+      "english": "cooked rice, meal",
+      "korean": "밥",
+      "cefr": "A1",
+      "ipa": "/pap/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2b04749-554d-4fd3-9b19-c028aacae89a",
+      "part-of-speech": "noun",
+      "english": "food",
+      "korean": "음식",
+      "cefr": "A1",
+      "ipa": "/ɯmsik/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62b8f2c9-99c3-46ea-9e28-3f0dd8209ef1",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "korean": "빵",
+      "cefr": "A1",
+      "ipa": "/p͈aŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bbf04c7-dfa3-4883-8e6f-a64b9f1daa64",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "korean": "고기",
+      "cefr": "A1",
+      "ipa": "/koki/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e677292f-1066-45af-87e7-7579ac8971f6",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "korean": "과일",
+      "cefr": "A1",
+      "ipa": "/kwail/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "142edb10-cfb2-4f7b-b043-6e5ba9972f43",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "korean": "채소",
+      "cefr": "A1",
+      "ipa": "/tɕʰɛso/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29276787-766c-44c1-a1b0-7fd530cec434",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "korean": "우유",
+      "cefr": "A1",
+      "ipa": "/uju/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32948bbb-44b3-4bf4-9c55-adca58b6be1f",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "korean": "차",
+      "cefr": "A1",
+      "ipa": "/tɕʰa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39b6ff52-e9c1-4ea9-9ee8-65fb759765cf",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "korean": "커피",
+      "cefr": "A1",
+      "ipa": "/kʰʌpʰi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3460aaf-027e-40cb-b4d0-a8e331d9088e",
+      "part-of-speech": "noun",
+      "english": "book",
+      "korean": "책",
+      "cefr": "A1",
+      "ipa": "/tɕʰɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca1716f6-34b3-4663-b424-d97ddfa32196",
+      "part-of-speech": "noun",
+      "english": "school",
+      "korean": "학교",
+      "cefr": "A1",
+      "ipa": "/hakk͈jo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f63b481b-5afe-4421-918f-2e5e59d7b483",
+      "part-of-speech": "noun",
+      "english": "student",
+      "korean": "학생",
+      "cefr": "A1",
+      "ipa": "/haks͈ɛŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e71b057a-52e1-4da9-81a1-ec65992fc5d6",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "korean": "선생님",
+      "cefr": "A1",
+      "ipa": "/sʌnsɛŋnim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d33c47b8-ed46-49f3-98b7-90bd6f2649b8",
+      "part-of-speech": "noun",
+      "english": "company",
+      "korean": "회사",
+      "cefr": "A1",
+      "ipa": "/hwesa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74f3dd13-8a28-4f84-9046-114b70b0979f",
+      "part-of-speech": "noun",
+      "english": "person",
+      "korean": "사람",
+      "cefr": "A1",
+      "ipa": "/salam/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b36b794e-62b5-4754-81b6-9259349bdbe2",
+      "part-of-speech": "noun",
+      "english": "man",
+      "korean": "남자",
+      "cefr": "A1",
+      "ipa": "/namtɕa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a5fc19f-435b-4bd9-a94e-d1e5c8391480",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "korean": "여자",
+      "cefr": "A1",
+      "ipa": "/jʌtɕa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25c4b8c7-b46b-469e-a35f-ae351387e481",
+      "part-of-speech": "noun",
+      "english": "name",
+      "korean": "이름",
+      "cefr": "A1",
+      "ipa": "/ilɯm/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51941068-2c5e-4d3a-87e3-1806cece94af",
+      "part-of-speech": "noun",
+      "english": "country",
+      "korean": "나라",
+      "cefr": "A1",
+      "ipa": "/nala/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91e32abd-2bfd-422c-acfc-4b2387634f2a",
+      "part-of-speech": "noun",
+      "english": "Korea",
+      "korean": "한국",
+      "cefr": "A1",
+      "ipa": "/hankuk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbee283b-0605-4bae-bc20-4f432b9a721d",
+      "part-of-speech": "noun",
+      "english": "Korean language",
+      "korean": "한국어",
+      "cefr": "A1",
+      "ipa": "/hankukʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2372dad1-cfe7-44e3-9832-12829ed75f2b",
+      "part-of-speech": "noun",
+      "english": "English language",
+      "korean": "영어",
+      "cefr": "A1",
+      "ipa": "/jʌʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80fd4f35-eecf-4ef3-9f37-6dfcc290f562",
+      "part-of-speech": "noun",
+      "english": "city",
+      "korean": "도시",
+      "cefr": "A1",
+      "ipa": "/tosi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87c4c4b7-eab0-4ebb-83b5-275a5ef9be18",
+      "part-of-speech": "noun",
+      "english": "door",
+      "korean": "문",
+      "cefr": "A1",
+      "ipa": "/mun/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2985faf8-f2d5-47e4-8045-ed201b50dc5e",
+      "part-of-speech": "noun",
+      "english": "window",
+      "korean": "창문",
+      "cefr": "A1",
+      "ipa": "/tɕʰaŋmun/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe6579d9-ee2d-468c-bd82-bf4749b55ea3",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "korean": "의자",
+      "cefr": "A1",
+      "ipa": "/ɰitɕa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a99aa763-b3be-450c-9486-bb14cb4c95ce",
+      "part-of-speech": "noun",
+      "english": "desk",
+      "korean": "책상",
+      "cefr": "A1",
+      "ipa": "/tɕʰɛks͈aŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "789fb624-b773-424f-ab99-c60853d043ca",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "korean": "침대",
+      "cefr": "A1",
+      "ipa": "/tɕʰimtɛ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0da4a423-9cfc-40c0-b119-80adc0aeef3d",
+      "part-of-speech": "noun",
+      "english": "money",
+      "korean": "돈",
+      "cefr": "A1",
+      "ipa": "/ton/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d578df32-e806-4e72-9cce-f44b63340b56",
+      "part-of-speech": "noun",
+      "english": "work, task",
+      "korean": "일",
+      "cefr": "A1",
+      "ipa": "/il/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "724a8622-62b9-45af-b8f4-4cd8ee6652c6",
+      "part-of-speech": "noun",
+      "english": "time",
+      "korean": "시간",
+      "cefr": "A1",
+      "ipa": "/sikan/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c92d911a-fb8e-4d0e-9880-2f452bc8373e",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "korean": "오늘",
+      "cefr": "A1",
+      "ipa": "/onɯl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "409d8e47-cff5-42b4-847e-44f63889a0c2",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "korean": "어제",
+      "cefr": "A1",
+      "ipa": "/ʌtɕe/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c5cb428-1d41-4160-a753-bb8511a3c5ba",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "korean": "내일",
+      "cefr": "A1",
+      "ipa": "/nɛil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcc5db1d-1de9-4781-9c67-27279060a674",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "korean": "지금",
+      "cefr": "A1",
+      "ipa": "/tɕikɯm/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47c89e49-c01f-405b-9c2d-64c0533c75b1",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "korean": "나중에",
+      "cefr": "A1",
+      "ipa": "/natɕue/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d71c313a-6292-4ee3-b008-a2afd877fe30",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "korean": "아침",
+      "cefr": "A1",
+      "ipa": "/atɕʰim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2994906-ccd0-4f13-b825-87093dcf96d9",
+      "part-of-speech": "noun",
+      "english": "lunch, midday",
+      "korean": "점심",
+      "cefr": "A1",
+      "ipa": "/tɕʌmsim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a132a9b-fe3a-4bca-82bf-e5fcb587770d",
+      "part-of-speech": "noun",
+      "english": "evening, dinner",
+      "korean": "저녁",
+      "cefr": "A1",
+      "ipa": "/tɕʌnjʌk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa899f2-8f33-4713-8487-712b7e7a46e7",
+      "part-of-speech": "noun",
+      "english": "night",
+      "korean": "밤",
+      "cefr": "A1",
+      "ipa": "/pam/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f27c9529-0f56-47f5-93d4-fa747df2c612",
+      "part-of-speech": "noun",
+      "english": "week",
+      "korean": "주",
+      "cefr": "A1",
+      "ipa": "/tɕu/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97010fb5-a961-409b-aafd-ab303cbe31ee",
+      "part-of-speech": "noun",
+      "english": "month, moon",
+      "korean": "달",
+      "cefr": "A1",
+      "ipa": "/tal/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6608300d-7099-4385-8676-7c1f02a4b9d2",
+      "part-of-speech": "noun",
+      "english": "year, sun",
+      "korean": "해",
+      "cefr": "A1",
+      "ipa": "/hɛ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36339195-5592-4df7-97ef-e3cb4e74820c",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "korean": "날씨",
+      "cefr": "A1",
+      "ipa": "/nals͈i/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2b3c2b7-66e7-426a-bdfe-57fb83fef317",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "korean": "비",
+      "cefr": "A1",
+      "ipa": "/pi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c466bcd5-3c27-49f4-9aa8-4bc3978dd4fd",
+      "part-of-speech": "noun",
+      "english": "eye, snow",
+      "korean": "눈",
+      "cefr": "A1",
+      "ipa": "/nun/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02eb3672-0815-4718-acce-9601c4d8d40c",
+      "part-of-speech": "noun",
+      "english": "red",
+      "korean": "빨간색",
+      "cefr": "A1",
+      "ipa": "/p͈alkansɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a2b3145-8381-446f-9a14-90864a9d9dcf",
+      "part-of-speech": "noun",
+      "english": "blue",
+      "korean": "파란색",
+      "cefr": "A1",
+      "ipa": "/pʰalansɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43fa86ce-b1a1-41ec-8d51-4e6debf00be4",
+      "part-of-speech": "noun",
+      "english": "yellow",
+      "korean": "노란색",
+      "cefr": "A1",
+      "ipa": "/nolansɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe8e2b1a-ea69-4d81-88ad-3847aef97bd6",
+      "part-of-speech": "noun",
+      "english": "green",
+      "korean": "초록색",
+      "cefr": "A1",
+      "ipa": "/tɕʰoloks͈ɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60bc5f47-311d-40ea-92c1-a1244ec3f3a1",
+      "part-of-speech": "noun",
+      "english": "black",
+      "korean": "검은색",
+      "cefr": "A1",
+      "ipa": "/kʌmɯnsɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7001d65e-abf1-4142-9a85-b2af0fd0af4f",
+      "part-of-speech": "noun",
+      "english": "white",
+      "korean": "흰색",
+      "cefr": "A1",
+      "ipa": "/hɰinsɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6f5cc87-da46-412d-b287-03f4659fb73d",
+      "part-of-speech": "noun",
+      "english": "pink",
+      "korean": "분홍색",
+      "cefr": "A1",
+      "ipa": "/punhoŋsɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8cc22aa-b0d6-475c-8998-4d712946b319",
+      "part-of-speech": "noun",
+      "english": "brown",
+      "korean": "갈색",
+      "cefr": "A1",
+      "ipa": "/kalsɛk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68cd43f5-3e6b-4319-89ae-a477ec820f42",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "korean": "월요일",
+      "cefr": "A1",
+      "ipa": "/wʌljoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b744f5fc-e2e1-4214-9481-bf010b9bbe11",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "korean": "화요일",
+      "cefr": "A1",
+      "ipa": "/hwajoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b75b1f6b-5e7e-4c07-896f-5f4afa3f5283",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "korean": "수요일",
+      "cefr": "A1",
+      "ipa": "/sujoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27609169-b400-4850-8ebe-41b945c7db85",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "korean": "목요일",
+      "cefr": "A1",
+      "ipa": "/mokjoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3587198-eb6b-49a2-a3e3-835ae0209c86",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "korean": "금요일",
+      "cefr": "A1",
+      "ipa": "/kɯmjoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2eb06ba2-ab7d-4cdd-9c9b-2128bf7ec9b7",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "korean": "토요일",
+      "cefr": "A1",
+      "ipa": "/tʰojoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "751535f0-2dde-4530-86da-0b8e9fe25cbe",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "korean": "일요일",
+      "cefr": "A1",
+      "ipa": "/iljoil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e345453-3356-41d7-836a-3f22140fa721",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "korean": "이다",
+      "cefr": "A1",
+      "ipa": "/ita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "821774b8-cdd9-46c0-95fd-19c7624be9f9",
+      "part-of-speech": "verb",
+      "english": "to exist, to have",
+      "korean": "있다",
+      "cefr": "A1",
+      "ipa": "/itt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "764adaa7-e4f7-4576-a020-91d55344bea3",
+      "part-of-speech": "verb",
+      "english": "to not exist, to not have",
+      "korean": "없다",
+      "cefr": "A1",
+      "ipa": "/ʌpt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e6d6926-a606-49c5-80e3-3876a6bf63f9",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "korean": "하다",
+      "cefr": "A1",
+      "ipa": "/hata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d69247dd-1d67-4a35-af1f-2a031c71c31c",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "korean": "가다",
+      "cefr": "A1",
+      "ipa": "/kata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d6d594c-9187-4078-8945-1e810b24e4dd",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "korean": "오다",
+      "cefr": "A1",
+      "ipa": "/ota/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b64f2340-7a86-4075-a87f-b7b521eb6e17",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "korean": "먹다",
+      "cefr": "A1",
+      "ipa": "/mʌkt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a44d4a2a-166a-4dcf-9869-0510130ce61e",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "korean": "마시다",
+      "cefr": "A1",
+      "ipa": "/masita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b42cff7b-8119-4b19-9b43-423046c3fb2d",
+      "part-of-speech": "verb",
+      "english": "to see, to watch",
+      "korean": "보다",
+      "cefr": "A1",
+      "ipa": "/pota/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e7fd269-64d6-4f5f-909a-4c93ed31aa57",
+      "part-of-speech": "verb",
+      "english": "to hear, to listen",
+      "korean": "듣다",
+      "cefr": "A1",
+      "ipa": "/tɯtt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbb05c5a-2339-4792-b189-1bec300651d3",
+      "part-of-speech": "verb",
+      "english": "to speak, to say",
+      "korean": "말하다",
+      "cefr": "A1",
+      "ipa": "/malhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd12acdb-840e-4f5e-b874-1b088e244217",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "korean": "읽다",
+      "cefr": "A1",
+      "ipa": "/ikt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ddb0eac-b5de-4526-b1a6-20d94bf7b914",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "korean": "쓰다",
+      "cefr": "A1",
+      "ipa": "/s͈ɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f677459-f645-4ae0-98d4-1f310c1311b5",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "korean": "자다",
+      "cefr": "A1",
+      "ipa": "/tɕata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "177682db-5f7d-4c8c-bcd2-ff60eb6bfed1",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "korean": "앉다",
+      "cefr": "A1",
+      "ipa": "/ant͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2962ce21-523b-4e1a-88e7-26a3ada22507",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "korean": "서다",
+      "cefr": "A1",
+      "ipa": "/sʌta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18cbb604-4347-499d-8842-7d504a00cab5",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "korean": "주다",
+      "cefr": "A1",
+      "ipa": "/tɕuta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a8a78a9-70ff-44a1-a8d8-2d355339cf9d",
+      "part-of-speech": "verb",
+      "english": "to receive",
+      "korean": "받다",
+      "cefr": "A1",
+      "ipa": "/patt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c5d0348-f9d8-4be9-955a-785048670059",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "korean": "좋아하다",
+      "cefr": "A1",
+      "ipa": "/tɕoahata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1e24ff6-c8cf-48e5-ace0-25c8c6551d78",
+      "part-of-speech": "verb",
+      "english": "to dislike",
+      "korean": "싫어하다",
+      "cefr": "A1",
+      "ipa": "/silʌhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47d51fbf-0814-4252-ab09-75a6d70999de",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "korean": "원하다",
+      "cefr": "A1",
+      "ipa": "/wʌnhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f07e3b3b-cf52-4d30-ab54-6f9d77709d71",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "korean": "알다",
+      "cefr": "A1",
+      "ipa": "/alta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3b1a2b9-0929-42de-afec-26e874dfa993",
+      "part-of-speech": "verb",
+      "english": "to not know",
+      "korean": "모르다",
+      "cefr": "A1",
+      "ipa": "/molɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b06ad911-d5ce-4689-8cd0-1a4bbfff019f",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "korean": "살다",
+      "cefr": "A1",
+      "ipa": "/salta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82e31ab9-23a7-495a-8e6f-9eddcf007078",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "korean": "사다",
+      "cefr": "A1",
+      "ipa": "/sata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ee6a47b-9162-47af-8d77-36c6fa159b26",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "korean": "팔다",
+      "cefr": "A1",
+      "ipa": "/pʰalta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b40f049-ae7e-4826-8b1d-367c76285213",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "korean": "공부하다",
+      "cefr": "A1",
+      "ipa": "/koŋpuhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4de7bba5-bc34-467f-a8d9-012be5b359e7",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "korean": "일하다",
+      "cefr": "A1",
+      "ipa": "/ilhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd482591-9e1d-4116-9a8e-49b1001f593d",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "korean": "놀다",
+      "cefr": "A1",
+      "ipa": "/nolta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49376fdd-467f-442e-b2d6-dea255378158",
+      "part-of-speech": "verb",
+      "english": "to laugh, to smile",
+      "korean": "웃다",
+      "cefr": "A1",
+      "ipa": "/utt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "881df423-c163-4fb1-a03d-873918168c17",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "korean": "울다",
+      "cefr": "A1",
+      "ipa": "/ulta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5c641e4-57c4-45b8-8c37-cec01a1903ad",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "korean": "좋다",
+      "cefr": "A1",
+      "ipa": "/tɕotʰa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b058cd0-40b1-42a0-94c5-47a47f9d928a",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "korean": "나쁘다",
+      "cefr": "A1",
+      "ipa": "/nap͈ɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a6e2a62-1c0e-4b6b-bb5f-6cd513988fae",
+      "part-of-speech": "adjective",
+      "english": "big",
+      "korean": "크다",
+      "cefr": "A1",
+      "ipa": "/kʰɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e516c5b5-d2dd-42de-ac18-13879628cedc",
+      "part-of-speech": "adjective",
+      "english": "small",
+      "korean": "작다",
+      "cefr": "A1",
+      "ipa": "/tɕakt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dac5340-356e-4a7f-ba24-62ed59cb3cc0",
+      "part-of-speech": "adjective",
+      "english": "many, much",
+      "korean": "많다",
+      "cefr": "A1",
+      "ipa": "/mantʰa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6cff916-e2c5-47d0-a998-b85e364213f0",
+      "part-of-speech": "adjective",
+      "english": "few, little",
+      "korean": "적다",
+      "cefr": "A1",
+      "ipa": "/tɕʌkt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8161aaa9-8341-482d-aefd-09f0ba899735",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "korean": "새롭다",
+      "cefr": "A1",
+      "ipa": "/sɛlopt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "590caa0a-f514-48c0-894f-2f0072438bc6",
+      "part-of-speech": "adjective",
+      "english": "old (of things)",
+      "korean": "오래되다",
+      "cefr": "A1",
+      "ipa": "/olɛtweta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b094ab29-bae8-4311-b0e0-5fd3e164ba93",
+      "part-of-speech": "adjective",
+      "english": "hot (weather)",
+      "korean": "덥다",
+      "cefr": "A1",
+      "ipa": "/tʌpt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46c3a40e-7a0c-4c8b-895b-711d7438e0f3",
+      "part-of-speech": "adjective",
+      "english": "cold (weather)",
+      "korean": "춥다",
+      "cefr": "A1",
+      "ipa": "/tɕʰupt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f6dc49f-7a51-43c4-9ebc-dd52fa026722",
+      "part-of-speech": "adjective",
+      "english": "hot (to touch)",
+      "korean": "뜨겁다",
+      "cefr": "A1",
+      "ipa": "/t͈ɯkʌpt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c32f9c7b-e244-4713-95ed-8bdbcd5795ed",
+      "part-of-speech": "adjective",
+      "english": "cold (to touch)",
+      "korean": "차갑다",
+      "cefr": "A1",
+      "ipa": "/tɕʰakapt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7c67594-d26a-4256-b1e7-feb9f19433b2",
+      "part-of-speech": "adjective",
+      "english": "pretty",
+      "korean": "예쁘다",
+      "cefr": "A1",
+      "ipa": "/jep͈ɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c17d6a54-78a0-4527-9d1b-59fdbd67ad3d",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "korean": "아름답다",
+      "cefr": "A1",
+      "ipa": "/alɯmtapt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dc40536-f2b3-4b13-b2d5-eaceb918c638",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "korean": "길다",
+      "cefr": "A1",
+      "ipa": "/kilta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3105416-de58-471d-8f78-a924a4aa124c",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "korean": "짧다",
+      "cefr": "A1",
+      "ipa": "/t͈ɕalt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd31b466-f89d-49fd-9247-fa7c888613cf",
+      "part-of-speech": "adjective",
+      "english": "high, tall",
+      "korean": "높다",
+      "cefr": "A1",
+      "ipa": "/nopt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5316b061-ac10-4d13-b780-8ab4252a6dbb",
+      "part-of-speech": "adjective",
+      "english": "low",
+      "korean": "낮다",
+      "cefr": "A1",
+      "ipa": "/natt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16b53632-5895-45da-8148-3dcb5f6b3321",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "korean": "빠르다",
+      "cefr": "A1",
+      "ipa": "/p͈alɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "feb1c634-e8ab-494e-a409-aec5f9c2f2b2",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "korean": "느리다",
+      "cefr": "A1",
+      "ipa": "/nɯlita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3836416c-d952-4e47-b832-3a58925c8112",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "korean": "쉽다",
+      "cefr": "A1",
+      "ipa": "/swipt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "565e18c2-093e-484f-9e3b-5cb2f1fbb8da",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "korean": "어렵다",
+      "cefr": "A1",
+      "ipa": "/ʌljʌpt͈a/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb6b9490-a6cd-4b8a-8062-18a25ec42a6e",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "korean": "행복하다",
+      "cefr": "A1",
+      "ipa": "/hɛŋpokʰata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b13131c-8499-45ec-b98f-d375bd913a10",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "korean": "슬프다",
+      "cefr": "A1",
+      "ipa": "/sɯlpʰɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ab9b63a-7379-420f-82aa-1dcb56449248",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "korean": "배고프다",
+      "cefr": "A1",
+      "ipa": "/pɛkopʰɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e23f0517-f055-429b-a968-aa4312ad3381",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "korean": "목마르다",
+      "cefr": "A1",
+      "ipa": "/moŋmalɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd2fd01e-5fa1-4e3b-ba7e-455be1b574f2",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "korean": "바쁘다",
+      "cefr": "A1",
+      "ipa": "/pap͈ɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "938320b8-6366-413f-90dd-a8ecbb1a9862",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "korean": "피곤하다",
+      "cefr": "A1",
+      "ipa": "/pʰikonhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8474661-32f4-4123-b2ec-c51d00801fc6",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "korean": "그리고",
+      "cefr": "A1",
+      "ipa": "/kɯliko/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2530e7d0-31a3-4a43-a388-1f04e89e7b1e",
+      "part-of-speech": "conjunction",
+      "english": "but (formal)",
+      "korean": "그러나",
+      "cefr": "A1",
+      "ipa": "/kɯlʌna/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8a0322d-484f-45ae-8f27-fe71f187ebd2",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "korean": "하지만",
+      "cefr": "A1",
+      "ipa": "/hatɕiman/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8070399-3e31-4783-96c7-4029b0b94f8f",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "korean": "그래서",
+      "cefr": "A1",
+      "ipa": "/kɯlɛsʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36b5bea6-df37-425c-91ad-02994ad32873",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "korean": "왜냐하면",
+      "cefr": "A1",
+      "ipa": "/wɛnjahamjʌn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c0c06a2-c70c-465d-90d7-951bcf04f703",
+      "part-of-speech": "conjunction",
+      "english": "by the way, but",
+      "korean": "그런데",
+      "cefr": "A1",
+      "ipa": "/kɯlʌnte/",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

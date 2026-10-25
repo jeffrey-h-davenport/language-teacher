@@ -1,4 +1,5 @@
 node_modules/
+dist/
 language-data/*-progress.json
 .claude/settings.local.json
 .DS_Store

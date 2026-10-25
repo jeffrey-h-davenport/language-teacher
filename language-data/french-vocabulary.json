@@ -18222,7 +18222,7 @@
     {
       "id": "1f91d65d-3559-43c7-bb50-366701038ced",
       "part-of-speech": "noun",
-      "english": "owl (specifically, those species of owls without ear tufts; those with ear tufts are hiboux)",
+      "english": "owl",
       "french": "chouette",
       "gender": "feminine",
       "plural": "chouettes",
@@ -18827,7 +18827,7 @@
     {
       "id": "7e80659c-87e5-4387-a271-f7c84a12ec7f",
       "part-of-speech": "noun",
-      "english": "retard",
+      "english": "idiot",
       "french": "débile",
       "gender": "masculine",
       "plural": "débiles",

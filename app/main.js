@@ -13,6 +13,8 @@ const LANGUAGE_INFO = {
   finnish: { language: 'Finnish', languageCode: 'fi' },
   french:  { language: 'French',  languageCode: 'fr' },
   german:  { language: 'German',  languageCode: 'de' },
+  hindi:   { language: 'Hindi',   languageCode: 'hi' },
+  korean:  { language: 'Korean',  languageCode: 'ko' },
   spanish: { language: 'Spanish', languageCode: 'es' },
   swedish: { language: 'Swedish', languageCode: 'sv' },
 }
@@ -22,6 +24,18 @@ function capitalize(s) { return s.charAt(0).toUpperCase() + s.slice(1) }
 function vocabularyPath(slug) { return path.join(LANGUAGE_DATA_DIR, `${slug}-vocabulary.json`) }
 function progressPath(slug)   { return path.join(LANGUAGE_DATA_DIR, `${slug}-progress.json`) }
 function readingPath(slug)    { return path.join(LANGUAGE_DATA_DIR, `${slug}-reading.json`) }
+function scriptPath(slug)     { return path.join(LANGUAGE_DATA_DIR, `${slug}-script.json`) }
+
+// Script guide files are optional — only languages with a non-Latin script
+// (Hindi today, more to come) have one. Missing file is not an error.
+function readJsonIfExists(filePath) {
+  try {
+    return readJson(filePath)
+  } catch (e) {
+    if (e.code === 'ENOENT') return null
+    throw e
+  }
+}
 
 function readJson(filePath) {
   return JSON.parse(fs.readFileSync(filePath, 'utf-8'))
@@ -58,6 +72,10 @@ app.on('activate', () => {
   if (BrowserWindow.getAllWindows().length === 0) createWindow()
 })
 
+ipcMain.handle('quit-app', () => {
+  app.quit()
+})
+
 ipcMain.handle('list-content', async () => {
   const files = fs.readdirSync(LANGUAGE_DATA_DIR)
   const slugs = new Set()
@@ -86,9 +104,10 @@ ipcMain.handle('load-vocabulary', async (_event, slug) => {
     } catch (e) {
       if (e.code !== 'ENOENT') throw e
     }
+    const script = readJsonIfExists(scriptPath(slug))
     currentSlug = slug
     currentMode = 'vocabulary'
-    return { vocab, progress }
+    return { vocab, progress, script }
   } catch (e) {
     return { error: `Could not load ${slug}: ${e.message}` }
   }

@@ -8849,7 +8849,7 @@
     {
       "id": "401ec13c-e5e1-423d-8e5b-da85ce70458a",
       "part-of-speech": "noun-declension",
-      "english": "to the year, the time it takes a planetary body to complete one revolution around a star",
+      "english": "to the year",
       "czech": "roku",
       "cefr": "A1",
       "grammar": "dative sg",
@@ -1412877,7 +1412877,7 @@
     {
       "id": "0eadef7b-ae9d-4161-b702-d49eecc17d64",
       "part-of-speech": "noun",
-      "english": "day (24 hours, usually from midnight to midnight)",
+      "english": "day",
       "czech": "den",
       "gender": "masculine",
       "plural": "dni",

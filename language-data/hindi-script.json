@@ -1,0 +1,135 @@
+{
+  "scriptName": "Devanagari",
+  "fontScale": 1.25,
+  "intro": "Devanagari is an abugida: every consonant letter already carries an inherent \"a\" sound (schwa) unless it is changed by a vowel sign (mātrā) attached above, below, before, or after it, or removed entirely with a halant (्) to leave a bare consonant for conjuncts.",
+  "sections": [
+    {
+      "heading": "Independent Vowels",
+      "items": [
+        { "char": "अ", "ipa": "[ə]", "note": "inherent vowel" },
+        { "char": "आ", "ipa": "[aː]", "note": "" },
+        { "char": "इ", "ipa": "[ɪ]", "note": "" },
+        { "char": "ई", "ipa": "[iː]", "note": "" },
+        { "char": "उ", "ipa": "[ʊ]", "note": "" },
+        { "char": "ऊ", "ipa": "[uː]", "note": "" },
+        { "char": "ऋ", "ipa": "[r̩]", "note": "rare, Sanskrit loans" },
+        { "char": "ए", "ipa": "[eː]", "note": "" },
+        { "char": "ऐ", "ipa": "[ɛː]", "note": "" },
+        { "char": "ओ", "ipa": "[oː]", "note": "" },
+        { "char": "औ", "ipa": "[ɔː]", "note": "" }
+      ]
+    },
+    {
+      "heading": "Vowel Signs (shown on क)",
+      "items": [
+        { "char": "क", "ipa": "[kə]", "note": "no sign = inherent a" },
+        { "char": "का", "ipa": "[kaː]", "note": "" },
+        { "char": "कि", "ipa": "[kɪ]", "note": "" },
+        { "char": "की", "ipa": "[kiː]", "note": "" },
+        { "char": "कु", "ipa": "[kʊ]", "note": "" },
+        { "char": "कू", "ipa": "[kuː]", "note": "" },
+        { "char": "कृ", "ipa": "[kr̩]", "note": "rare" },
+        { "char": "के", "ipa": "[keː]", "note": "" },
+        { "char": "कै", "ipa": "[kɛː]", "note": "" },
+        { "char": "को", "ipa": "[koː]", "note": "" },
+        { "char": "कौ", "ipa": "[kɔː]", "note": "" },
+        { "char": "कं", "ipa": "[kə̃]", "note": "anusvāra: nasalizes" },
+        { "char": "कः", "ipa": "[kəh]", "note": "visarga: breathy offglide" }
+      ]
+    },
+    {
+      "heading": "Velar Consonants (कवर्ग)",
+      "items": [
+        { "char": "क", "ipa": "[kə]", "note": "unvoiced" },
+        { "char": "ख", "ipa": "[kʰə]", "note": "unvoiced aspirated" },
+        { "char": "ग", "ipa": "[ɡə]", "note": "voiced" },
+        { "char": "घ", "ipa": "[ɡʰə]", "note": "voiced aspirated" }
+      ]
+    },
+    {
+      "heading": "Palatal Consonants (चवर्ग)",
+      "items": [
+        { "char": "च", "ipa": "[tʃə]", "note": "unvoiced" },
+        { "char": "छ", "ipa": "[tʃʰə]", "note": "unvoiced aspirated" },
+        { "char": "ज", "ipa": "[dʒə]", "note": "voiced" },
+        { "char": "झ", "ipa": "[dʒʰə]", "note": "voiced aspirated" }
+      ]
+    },
+    {
+      "heading": "Retroflex Consonants (टवर्ग)",
+      "items": [
+        { "char": "ट", "ipa": "[ʈə]", "note": "unvoiced" },
+        { "char": "ठ", "ipa": "[ʈʰə]", "note": "unvoiced aspirated" },
+        { "char": "ड", "ipa": "[ɖə]", "note": "voiced" },
+        { "char": "ढ", "ipa": "[ɖʰə]", "note": "voiced aspirated" }
+      ]
+    },
+    {
+      "heading": "Dental Consonants (तवर्ग)",
+      "items": [
+        { "char": "त", "ipa": "[t̪ə]", "note": "unvoiced" },
+        { "char": "थ", "ipa": "[t̪ʰə]", "note": "unvoiced aspirated" },
+        { "char": "द", "ipa": "[d̪ə]", "note": "voiced" },
+        { "char": "ध", "ipa": "[d̪ʰə]", "note": "voiced aspirated" }
+      ]
+    },
+    {
+      "heading": "Labial Consonants (पवर्ग)",
+      "items": [
+        { "char": "प", "ipa": "[pə]", "note": "unvoiced" },
+        { "char": "फ", "ipa": "[pʰə]", "note": "unvoiced aspirated" },
+        { "char": "ब", "ipa": "[bə]", "note": "voiced" },
+        { "char": "भ", "ipa": "[bʰə]", "note": "voiced aspirated" }
+      ]
+    },
+    {
+      "heading": "Nasals",
+      "items": [
+        { "char": "ङ", "ipa": "[ŋə]", "note": "velar, only in conjuncts" },
+        { "char": "ञ", "ipa": "[ɲə]", "note": "palatal, only in conjuncts" },
+        { "char": "ण", "ipa": "[ɳə]", "note": "retroflex" },
+        { "char": "न", "ipa": "[nə]", "note": "dental" },
+        { "char": "म", "ipa": "[mə]", "note": "labial" }
+      ]
+    },
+    {
+      "heading": "Semivowels",
+      "items": [
+        { "char": "य", "ipa": "[jə]", "note": "" },
+        { "char": "र", "ipa": "[rə]", "note": "" },
+        { "char": "ल", "ipa": "[lə]", "note": "" },
+        { "char": "व", "ipa": "[və]", "note": "" }
+      ]
+    },
+    {
+      "heading": "Sibilants & ह",
+      "items": [
+        { "char": "श", "ipa": "[ʃə]", "note": "" },
+        { "char": "ष", "ipa": "[ʃə]", "note": "same sound as श in Hindi" },
+        { "char": "स", "ipa": "[sə]", "note": "" },
+        { "char": "ह", "ipa": "[ɦə]", "note": "voiced" }
+      ]
+    },
+    {
+      "heading": "Nukta Consonants (loanwords)",
+      "items": [
+        { "char": "क़", "ipa": "[qə]", "note": "" },
+        { "char": "ख़", "ipa": "[xə]", "note": "" },
+        { "char": "ग़", "ipa": "[ɣə]", "note": "" },
+        { "char": "ज़", "ipa": "[zə]", "note": "" },
+        { "char": "ड़", "ipa": "[ɽə]", "note": "flap" },
+        { "char": "ढ़", "ipa": "[ɽʰə]", "note": "flap" },
+        { "char": "फ़", "ipa": "[fə]", "note": "" }
+      ]
+    },
+    {
+      "heading": "Other Marks",
+      "items": [
+        { "char": "्", "ipa": "—", "note": "halant: removes the inherent a" },
+        { "char": "ं", "ipa": "[◌̃]", "note": "anusvāra: nasalizes the vowel" },
+        { "char": "ँ", "ipa": "[◌̃]", "note": "chandrabindu: nasalizes (open syllables)" },
+        { "char": "ः", "ipa": "[◌h]", "note": "visarga: breathy /h/ offglide" }
+      ]
+    }
+  ]
+}

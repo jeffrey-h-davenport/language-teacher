@@ -49,7 +49,8 @@
           ],
           "answer": 0
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p002",
@@ -105,7 +106,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p003",
@@ -161,7 +163,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p004",
@@ -217,7 +220,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p005",
@@ -273,7 +277,8 @@
           ],
           "answer": 3
         }
-      ]
+      ],
+      "cefr": "B2"
     },
     {
       "id": "p006",
@@ -329,7 +334,8 @@
           ],
           "answer": 0
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p007",
@@ -385,7 +391,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p008",
@@ -441,7 +448,8 @@
           ],
           "answer": 0
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p009",
@@ -497,7 +505,8 @@
           ],
           "answer": 3
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p010",
@@ -553,7 +562,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C1"
     },
     {
       "id": "p011",
@@ -609,7 +619,8 @@
           ],
           "answer": 1
         }
-      ]
+      ],
+      "cefr": "B2"
     },
     {
       "id": "p012",
@@ -665,7 +676,8 @@
           ],
           "answer": 1
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p013",
@@ -721,7 +733,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p014",
@@ -767,7 +780,8 @@
           ],
           "answer": 2
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p015",
@@ -823,7 +837,8 @@
           ],
           "answer": 3
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p016",
@@ -879,7 +894,8 @@
           ],
           "answer": 1
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p017",
@@ -935,7 +951,8 @@
           ],
           "answer": 1
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p018",
@@ -991,7 +1008,8 @@
           ],
           "answer": 3
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p019",
@@ -1047,7 +1065,8 @@
           ],
           "answer": 1
         }
-      ]
+      ],
+      "cefr": "C2"
     },
     {
       "id": "p020",
@@ -1090,6 +1109,1147 @@
             "Sie waren dankbar, dadurch geschützt zu sein.",
             "Sie waren völlig gleichgültig.",
             "Sie forderten sofort ihre Unabhängigkeit von den USA."
+          ],
+          "answer": 1
+        }
+      ],
+      "cefr": "C2"
+    },
+    {
+      "id": "p021",
+      "cefr": "B1",
+      "text": "Am Wochenende besucht die Familie Bauer oft die Großeltern auf dem Land. Die Kinder freuen sich immer auf den Bauernhof, weil sie dort die Tiere füttern dürfen. Am Samstagmorgen fahren sie mit dem Auto los und kommen meistens gegen Mittag an. Die Großmutter kocht dann ein großes Essen, und alle setzen sich gemeinsam an den Tisch. Nach dem Essen machen die Erwachsenen oft einen Spaziergang durch die Felder, während die Kinder im Garten spielen. Am Abend sitzen alle zusammen und erzählen sich Geschichten aus der Vergangenheit. Für die Kinder sind diese Besuche etwas ganz Besonderes, weil die Familie sonst selten so viel Zeit füreinander hat.",
+      "questions": [
+        {
+          "question": "Wo verbringt die Familie Bauer oft das Wochenende?",
+          "choices": [
+            "Bei den Großeltern auf dem Land",
+            "Im Schwimmbad in der Stadt",
+            "Bei Freunden im Ausland",
+            "Im Büro der Eltern"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Warum freuen sich die Kinder auf den Bauernhof?",
+          "choices": [
+            "Weil sie fernsehen dürfen",
+            "Weil sie die Tiere füttern dürfen",
+            "Weil es dort einen Spielplatz gibt",
+            "Weil sie Süßigkeiten bekommen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wann kommt die Familie normalerweise auf dem Bauernhof an?",
+          "choices": [
+            "Am frühen Morgen",
+            "Gegen Mittag",
+            "Erst am Abend",
+            "Mitten in der Nacht"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was machen die Erwachsenen nach dem Essen?",
+          "choices": [
+            "Sie schlafen ein",
+            "Sie fahren zurück in die Stadt",
+            "Sie machen einen Spaziergang durch die Felder",
+            "Sie sehen sich einen Film an"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Warum sind die Besuche für die Kinder etwas Besonderes?",
+          "choices": [
+            "Weil sie dort nie lernen müssen",
+            "Weil die Familie sonst selten so viel Zeit füreinander hat",
+            "Weil sie dort viel Geld bekommen",
+            "Weil der Bauernhof sehr groß ist"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p022",
+      "cefr": "B1",
+      "text": "Seit drei Monaten sucht Tobias eine neue Wohnung in der Stadt. Seine alte Wohnung ist zu klein geworden, seit er mit seiner Freundin zusammengezogen ist. Jeden Abend schaut er im Internet nach neuen Angeboten, aber die Mieten sind in letzter Zeit stark gestiegen. Letzte Woche hat er endlich eine passende Wohnung gefunden: drei Zimmer, ein kleiner Balkon und eine ruhige Umgebung. Der Vermieter wollte allerdings viele Unterlagen sehen, zum Beispiel den Arbeitsvertrag und die letzten Gehaltsabrechnungen. Tobias hat alles vorbereitet und hofft nun, dass er die Wohnung bekommt. Wenn alles klappt, kann er schon im nächsten Monat einziehen.",
+      "questions": [
+        {
+          "question": "Warum sucht Tobias eine neue Wohnung?",
+          "choices": [
+            "Weil er umziehen muss, weil seine Firma schließt",
+            "Weil seine alte Wohnung zu klein geworden ist",
+            "Weil er in eine andere Stadt zieht",
+            "Weil er die Miete nicht mehr bezahlen kann"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was ist in letzter Zeit stark gestiegen?",
+          "choices": [
+            "Die Mieten",
+            "Die Gehälter",
+            "Die Zahl der leeren Wohnungen",
+            "Die Fahrtkosten"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was hat Tobias letzte Woche gefunden?",
+          "choices": [
+            "Einen neuen Job",
+            "Eine passende Wohnung",
+            "Ein günstiges Auto",
+            "Eine neue Freundin"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was wollte der Vermieter sehen?",
+          "choices": [
+            "Den Personalausweis der Eltern",
+            "Ein Foto der alten Wohnung",
+            "Den Arbeitsvertrag und die Gehaltsabrechnungen",
+            "Ein Empfehlungsschreiben der Nachbarn"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was hofft Tobias am Ende des Textes?",
+          "choices": [
+            "Dass die Miete sinkt",
+            "Dass er die Wohnung bekommt",
+            "Dass er den Job wechseln kann",
+            "Dass sein Vermieter auszieht"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p023",
+      "cefr": "B1",
+      "text": "Am Montagmorgen wachte Nina mit Kopfschmerzen und einer laufenden Nase auf. Sie hatte schon am Sonntag ein komisches Gefühl im Hals gehabt, aber sie hatte gehofft, dass es von allein besser wird. Weil das Fieber am Morgen aber schon bei 38,5 Grad lag, rief sie in der Arztpraxis an. Zum Glück bekam sie noch am selben Tag einen Termin. Der Arzt untersuchte sie gründlich und stellte fest, dass sie sich nur eine gewöhnliche Erkältung eingefangen hatte. Er riet ihr, viel zu trinken und sich mindestens drei Tage auszuruhen. Nina war froh, dass es nichts Schlimmeres war, auch wenn sie sich noch die ganze Woche schwach fühlte.",
+      "questions": [
+        {
+          "question": "Womit wachte Nina am Montagmorgen auf?",
+          "choices": [
+            "Mit Kopfschmerzen und einer laufenden Nase",
+            "Mit starken Bauchschmerzen",
+            "Mit einem gebrochenen Arm",
+            "Mit Zahnschmerzen"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Warum rief Nina in der Arztpraxis an?",
+          "choices": [
+            "Weil ihr Fieber schon bei 38,5 Grad lag",
+            "Weil sie einen neuen Ausweis brauchte",
+            "Weil sie eine Impfung wollte",
+            "Weil sie einen Unfall hatte"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was stellte der Arzt fest?",
+          "choices": [
+            "Dass Nina ins Krankenhaus muss",
+            "Dass Nina eine gewöhnliche Erkältung hat",
+            "Dass Nina nichts fehlt",
+            "Dass Nina eine schwere Krankheit hat"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was riet der Arzt Nina?",
+          "choices": [
+            "Sofort wieder zu arbeiten",
+            "Viel zu trinken und sich auszuruhen",
+            "Täglich Sport zu treiben",
+            "Eine lange Reise zu machen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie fühlte sich Nina die ganze Woche?",
+          "choices": [
+            "Vollkommen gesund",
+            "Schwach",
+            "Sehr energiegeladen",
+            "Gelangweilt"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p024",
+      "cefr": "B1",
+      "text": "Markus war sehr aufgeregt, als er zum Vorstellungsgespräch in die Firma ging. Er hatte sich intensiv vorbereitet und viele Informationen über das Unternehmen gesammelt. Im Gespräch fragte ihn die Personalchefin nach seiner beruflichen Erfahrung und warum er sich gerade für diese Stelle interessiert. Markus antwortete ruhig und erklärte, dass er gerne im Team arbeitet und Verantwortung übernehmen möchte. Nach etwa einer Stunde war das Gespräch zu Ende, und die Personalchefin bedankte sich für sein Interesse. Sie sagte ihm, dass er innerhalb einer Woche eine Antwort bekommen würde. Auf dem Nachhauseweg war Markus zufrieden, weil er das Gefühl hatte, einen guten Eindruck hinterlassen zu haben.",
+      "questions": [
+        {
+          "question": "Wie fühlte sich Markus vor dem Vorstellungsgespräch?",
+          "choices": [
+            "Gelangweilt",
+            "Aufgeregt",
+            "Wütend",
+            "Gleichgültig"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wonach fragte die Personalchefin Markus?",
+          "choices": [
+            "Nach seinem Urlaub",
+            "Nach seiner beruflichen Erfahrung",
+            "Nach seiner Familie",
+            "Nach seinem Auto"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was möchte Markus laut seiner Antwort gerne tun?",
+          "choices": [
+            "Allein arbeiten",
+            "Im Team arbeiten und Verantwortung übernehmen",
+            "So wenig wie möglich arbeiten",
+            "Nur von zu Hause aus arbeiten"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie lange dauerte das Gespräch ungefähr?",
+          "choices": [
+            "Zehn Minuten",
+            "Eine Stunde",
+            "Einen halben Tag",
+            "Drei Stunden"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie fühlte sich Markus auf dem Nachhauseweg?",
+          "choices": [
+            "Enttäuscht",
+            "Zufrieden",
+            "Ängstlich",
+            "Gleichgültig"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p025",
+      "cefr": "B1",
+      "text": "Sabine wollte mit dem Zug zu einem wichtigen Termin nach München fahren. Sie war extra früh am Bahnhof, um pünktlich anzukommen. Doch kurz vor der Abfahrt kam eine Durchsage: Der Zug habe wegen einer Störung an der Strecke fast eine Stunde Verspätung. Sabine wurde nervös, weil ihr Termin um 14 Uhr beginnen sollte. Sie rief sofort ihre Kollegin an und erklärte die Situation. Zum Glück konnte der Termin um eine Stunde verschoben werden. Als der Zug endlich losfuhr, konnte Sabine sich etwas entspannen, auch wenn sie während der ganzen Fahrt immer wieder auf die Uhr schaute. Am Ende kam sie gerade noch rechtzeitig zu ihrem neuen Termin.",
+      "questions": [
+        {
+          "question": "Wohin wollte Sabine mit dem Zug fahren?",
+          "choices": [
+            "Nach Berlin",
+            "Nach München",
+            "Nach Hamburg",
+            "Nach Wien"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was war der Grund für die Verspätung?",
+          "choices": [
+            "Ein Streik der Zugführer",
+            "Eine Störung an der Strecke",
+            "Schlechtes Wetter",
+            "Ein technischer Defekt am Zug selbst"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum wurde Sabine nervös?",
+          "choices": [
+            "Weil sie ihr Ticket verloren hatte",
+            "Weil ihr Termin um 14 Uhr beginnen sollte",
+            "Weil der Zug überfüllt war",
+            "Weil sie ihren Koffer vergessen hatte"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was passierte, nachdem Sabine ihre Kollegin angerufen hatte?",
+          "choices": [
+            "Der Termin wurde abgesagt",
+            "Der Termin wurde um eine Stunde verschoben",
+            "Die Kollegin kam zum Bahnhof",
+            "Sabine musste den Zug wechseln"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie endete die Geschichte?",
+          "choices": [
+            "Sabine verpasste den Termin komplett",
+            "Sabine kam gerade noch rechtzeitig an",
+            "Sabine fuhr mit dem Auto weiter",
+            "Der Zug fiel ganz aus"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p026",
+      "cefr": "B1",
+      "text": "Im Supermarkt um die Ecke gibt es diese Woche ein großes Sonderangebot. Alle Milchprodukte sind um dreißig Prozent reduziert, und auch bei Obst und Gemüse gibt es günstige Preise. Frau Weber, die jede Woche für ihre vierköpfige Familie einkauft, hat sich sehr über das Angebot gefreut. Sie hat gleich mehrere Packungen Käse und Joghurt gekauft, weil ihre Kinder diese Produkte besonders gern essen. An der Kasse musste sie allerdings etwas länger warten, weil viele andere Kunden ebenfalls von dem Sonderangebot gehört hatten. Trotz der langen Schlange war Frau Weber am Ende zufrieden, denn sie hatte diesmal deutlich weniger Geld ausgegeben als sonst.",
+      "questions": [
+        {
+          "question": "Was ist diese Woche im Supermarkt reduziert?",
+          "choices": [
+            "Elektrogeräte",
+            "Milchprodukte, Obst und Gemüse",
+            "Kleidung",
+            "Bücher"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Für wen kauft Frau Weber normalerweise ein?",
+          "choices": [
+            "Nur für sich selbst",
+            "Für ihre vierköpfige Familie",
+            "Für ihre Nachbarn",
+            "Für ein Restaurant"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum kaufte sie mehrere Packungen Käse und Joghurt?",
+          "choices": [
+            "Weil sie bald Geburtstag hat",
+            "Weil ihre Kinder diese Produkte gern essen",
+            "Weil sie für eine Party einkauft",
+            "Weil sie kein Fleisch isst"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum musste sie an der Kasse länger warten?",
+          "choices": [
+            "Weil die Kasse kaputt war",
+            "Weil viele andere Kunden auch das Angebot nutzten",
+            "Weil sie ihr Geld vergessen hatte",
+            "Weil der Supermarkt gerade schloss"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum war Frau Weber am Ende zufrieden?",
+          "choices": [
+            "Weil sie einen Parkplatz gefunden hatte",
+            "Weil sie deutlich weniger Geld ausgegeben hatte",
+            "Weil sie eine Freundin getroffen hatte",
+            "Weil der Supermarkt neu renoviert war"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p027",
+      "cefr": "B1",
+      "text": "Am Freitagabend gingen Julia und ihr Mann in ein neues Restaurant in der Innenstadt, von dem ihnen Freunde erzählt hatten. Schon beim Betreten fiel ihnen die gemütliche Atmosphäre auf. Der Kellner empfahl ihnen ein Gericht mit Fisch und frischem Gemüse, das an diesem Abend besonders beliebt war. Julia entschied sich stattdessen für eine vegetarische Pasta, während ihr Mann den Vorschlag des Kellners annahm. Das Essen kam relativ schnell, und beide waren von der Qualität begeistert. Am Ende des Abends baten sie um die Rechnung und gaben dem Kellner ein großzügiges Trinkgeld, weil der Service so freundlich gewesen war. Sie beschlossen, bald wiederzukommen.",
+      "questions": [
+        {
+          "question": "Woher kannten Julia und ihr Mann das Restaurant?",
+          "choices": [
+            "Aus der Zeitung",
+            "Von Freunden",
+            "Aus dem Fernsehen",
+            "Sie kannten es schon lange"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was empfahl der Kellner?",
+          "choices": [
+            "Ein Gericht mit Fisch und Gemüse",
+            "Eine Suppe",
+            "Einen Salat",
+            "Ein Dessert"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wofür entschied sich Julia?",
+          "choices": [
+            "Für das Fischgericht",
+            "Für eine vegetarische Pasta",
+            "Für eine Pizza",
+            "Für nichts, sie hatte keinen Hunger"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie fanden beide die Qualität des Essens?",
+          "choices": [
+            "Enttäuschend",
+            "Begeisternd",
+            "Durchschnittlich",
+            "Zu teuer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum gaben sie ein großzügiges Trinkgeld?",
+          "choices": [
+            "Weil das Essen kostenlos war",
+            "Weil der Service sehr freundlich war",
+            "Weil sie Geburtstag hatten",
+            "Weil der Kellner sie darum bat"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p028",
+      "cefr": "B1",
+      "text": "Jeden Samstag trainiert Lukas mit seiner Mannschaft für das nächste Fußballspiel. Der Trainer legt großen Wert auf Disziplin und erwartet, dass alle Spieler pünktlich zum Training erscheinen. Am vergangenen Wochenende fand ein wichtiges Spiel gegen den Tabellenführer statt. Lukas war sehr nervös, weil er zum ersten Mal von Anfang an spielen sollte. In der zweiten Halbzeit gelang ihm sogar ein Tor, worüber sich die ganze Mannschaft freute. Am Ende gewann sein Team knapp mit zwei zu eins. Nach dem Spiel gratulierte der Trainer allen Spielern und lobte besonders die Teamarbeit. Lukas war stolz auf sich und freute sich schon auf das nächste Training.",
+      "questions": [
+        {
+          "question": "Worauf legt der Trainer großen Wert?",
+          "choices": [
+            "Auf Geschwindigkeit",
+            "Auf Disziplin",
+            "Auf teure Ausrüstung",
+            "Auf lautes Jubeln"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum war Lukas vor dem Spiel nervös?",
+          "choices": [
+            "Weil er krank war",
+            "Weil er zum ersten Mal von Anfang an spielen sollte",
+            "Weil seine Familie nicht kommen konnte",
+            "Weil das Spiel im Ausland stattfand"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was gelang Lukas in der zweiten Halbzeit?",
+          "choices": [
+            "Ein Tor",
+            "Eine Verletzung",
+            "Ein Foul",
+            "Eine gelbe Karte"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie endete das Spiel?",
+          "choices": [
+            "Unentschieden",
+            "Sein Team verlor",
+            "Sein Team gewann knapp",
+            "Das Spiel wurde abgebrochen"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was lobte der Trainer nach dem Spiel besonders?",
+          "choices": [
+            "Die Teamarbeit",
+            "Die neuen Trikots",
+            "Das Wetter",
+            "Die Zuschauerzahl"
+          ],
+          "answer": 0
+        }
+      ]
+    },
+    {
+      "id": "p029",
+      "cefr": "B1",
+      "text": "Herr Klein und sein Nachbar hatten seit Wochen Streit wegen des Gartens. Der Nachbar beschwerte sich immer wieder, dass die Hecke von Herrn Klein zu hoch geworden sei und zu viel Schatten werfe. Herr Klein wiederum fand, dass sein Nachbar sich zu oft in seine Angelegenheiten einmischte. Eines Abends klingelte der Nachbar an der Tür, und die beiden gerieten in einen lauten Streit. Zum Glück kam die Ehefrau von Herrn Klein dazu und schlug vor, gemeinsam eine Lösung zu finden. Nach einer ruhigen Diskussion einigten sich die Männer darauf, die Hecke gemeinsam zu schneiden. Seitdem verstehen sich die beiden Nachbarn wieder deutlich besser.",
+      "questions": [
+        {
+          "question": "Worüber stritten sich Herr Klein und sein Nachbar?",
+          "choices": [
+            "Wegen eines Autos",
+            "Wegen des Gartens und der Hecke",
+            "Wegen lauter Musik",
+            "Wegen eines Haustiers"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was beschwerte der Nachbar sich?",
+          "choices": [
+            "Dass die Hecke zu hoch sei und Schatten werfe",
+            "Dass Herr Klein zu laut Musik höre",
+            "Dass Herr Klein sein Auto falsch parke",
+            "Dass Herr Kleins Hund zu viel belle"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wer half, den Streit zu beenden?",
+          "choices": [
+            "Die Polizei",
+            "Die Ehefrau von Herrn Klein",
+            "Ein gemeinsamer Freund",
+            "Der Bürgermeister"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Worauf einigten sich die beiden Männer?",
+          "choices": [
+            "Die Hecke gemeinsam zu schneiden",
+            "Einen Zaun zu bauen",
+            "Nie wieder miteinander zu sprechen",
+            "Vor Gericht zu gehen"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie ist die Beziehung der Nachbarn seitdem?",
+          "choices": [
+            "Deutlich schlechter",
+            "Unverändert",
+            "Deutlich besser",
+            "Die Nachbarn sind umgezogen"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p030",
+      "cefr": "B1",
+      "text": "Endlich war es so weit: Familie Hoffmann fuhr in den lang ersehnten Urlaub ans Meer. Nach einer langen Autofahrt kamen sie am späten Nachmittag an der Küste an und bezogen ihr kleines Ferienhaus direkt am Strand. Die Kinder konnten es kaum erwarten, ins Wasser zu springen, obwohl es draußen schon etwas kühl geworden war. Am nächsten Morgen wachten alle früh auf, weil die Sonne durch die Fenster schien. Sie verbrachten den ganzen Tag am Strand, bauten Sandburgen und schwammen im Meer. Am Abend saßen sie zusammen auf der Terrasse und genossen den Sonnenuntergang. Für die ganze Familie war es der schönste Urlaub seit Langem.",
+      "questions": [
+        {
+          "question": "Wohin fuhr Familie Hoffmann in den Urlaub?",
+          "choices": [
+            "In die Berge",
+            "Ans Meer",
+            "In eine Großstadt",
+            "Ins Ausland mit dem Flugzeug"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wo übernachtete die Familie?",
+          "choices": [
+            "In einem Hotel",
+            "Bei Verwandten",
+            "In einem kleinen Ferienhaus am Strand",
+            "In einem Zelt"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Was wollten die Kinder sofort tun, obwohl es kühl war?",
+          "choices": [
+            "Schlafen gehen",
+            "Ins Wasser springen",
+            "Fernsehen",
+            "Einkaufen gehen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum wachten am nächsten Morgen alle früh auf?",
+          "choices": [
+            "Wegen eines lauten Weckers",
+            "Weil die Sonne durch die Fenster schien",
+            "Weil ein Sturm aufzog",
+            "Weil das Telefon klingelte"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie beschreibt der Text diesen Urlaub für die Familie?",
+          "choices": [
+            "Als enttäuschend",
+            "Als den schönsten Urlaub seit Langem",
+            "Als zu teuer",
+            "Als zu kurz"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p031",
+      "cefr": "B1",
+      "text": "Am Montag schreibt die Klasse von Frau Richter eine wichtige Klassenarbeit in Mathematik. Die meisten Schüler haben sich gut vorbereitet, doch Tim macht sich große Sorgen, weil er das Thema nicht richtig verstanden hat. Am Wochenende bittet er deshalb seinen älteren Bruder um Hilfe. Gemeinsam gehen sie die wichtigsten Aufgaben noch einmal durch, und Tim fühlt sich danach etwas sicherer. Am Tag der Klassenarbeit ist er trotzdem sehr aufgeregt und braucht ein paar Minuten, um sich zu konzentrieren. Zu seiner Überraschung kann er die meisten Aufgaben lösen. Als er einige Tage später seine Note bekommt, freut er sich sehr, denn er hat eine Zwei geschrieben.",
+      "questions": [
+        {
+          "question": "In welchem Fach schreibt die Klasse eine Arbeit?",
+          "choices": [
+            "Deutsch",
+            "Mathematik",
+            "Englisch",
+            "Biologie"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum macht sich Tim Sorgen?",
+          "choices": [
+            "Weil er krank ist",
+            "Weil er das Thema nicht richtig verstanden hat",
+            "Weil er die Schule wechseln muss",
+            "Weil er seinen Stift verloren hat"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wer hilft Tim am Wochenende?",
+          "choices": [
+            "Seine Lehrerin",
+            "Sein älterer Bruder",
+            "Ein Mitschüler",
+            "Seine Großmutter"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie fühlt sich Tim am Tag der Klassenarbeit zuerst?",
+          "choices": [
+            "Ganz ruhig",
+            "Sehr aufgeregt",
+            "Gleichgültig",
+            "Müde"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Welche Note bekommt Tim am Ende?",
+          "choices": [
+            "Eine Fünf",
+            "Eine Vier",
+            "Eine Zwei",
+            "Eine Sechs"
+          ],
+          "answer": 2
+        }
+      ]
+    },
+    {
+      "id": "p032",
+      "cefr": "B1",
+      "text": "Als Anna aus dem Kino kam, bemerkte sie, dass ihr Handy nicht mehr in ihrer Tasche war. Sie überlegte kurz, wo sie es zuletzt benutzt hatte, und lief sofort zurück in den Kinosaal. Dort war es jedoch nicht zu finden. Anna wurde langsam nervös, weil auf dem Handy viele wichtige Nummern und Fotos gespeichert waren. Sie ging zum Empfang und fragte höflich nach, ob jemand ein Handy abgegeben hätte. Leider hatte niemand etwas gefunden. Deshalb entschied sich Anna, zur Polizei zu gehen und den Verlust zu melden. Der Polizist nahm alle Informationen auf und riet ihr außerdem, die SIM-Karte sperren zu lassen. Zwei Tage später rief die Polizei an: Ein ehrlicher Finder hatte das Handy abgegeben.",
+      "questions": [
+        {
+          "question": "Was bemerkte Anna, als sie aus dem Kino kam?",
+          "choices": [
+            "Dass sie ihren Schlüssel verloren hatte",
+            "Dass ihr Handy nicht mehr in der Tasche war",
+            "Dass sie ihre Jacke vergessen hatte",
+            "Dass ihr Auto weg war"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum wurde Anna nervös?",
+          "choices": [
+            "Weil sie ihren Bus verpassen würde",
+            "Weil wichtige Nummern und Fotos auf dem Handy waren",
+            "Weil sie kein Geld mehr hatte",
+            "Weil der Film schon begonnen hatte"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wohin ging Anna, nachdem niemand das Handy gefunden hatte?",
+          "choices": [
+            "Nach Hause",
+            "Zur Polizei",
+            "Zu einem Handygeschäft",
+            "Zu ihren Eltern"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was riet der Polizist Anna zusätzlich?",
+          "choices": [
+            "Ein neues Handy zu kaufen",
+            "Die SIM-Karte sperren zu lassen",
+            "Eine Belohnung anzubieten",
+            "Noch einmal ins Kino zu gehen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie endet die Geschichte?",
+          "choices": [
+            "Das Handy blieb verschwunden",
+            "Ein ehrlicher Finder gab das Handy ab",
+            "Anna kaufte sich ein neues Handy",
+            "Die Polizei fand keine Spur"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p033",
+      "cefr": "B1",
+      "text": "Am Nachmittag zog plötzlich ein schweres Unwetter über die Stadt. Der Himmel wurde innerhalb weniger Minuten dunkel, und starker Wind ließ die Bäume heftig hin und her schwanken. Kurz darauf begann es heftig zu regnen, und man hörte in der Ferne Donner. Viele Menschen suchten schnell Schutz in Geschäften oder unter Vordächern. Auf einigen Straßen sammelte sich so viel Wasser, dass Autos nur noch langsam fahren konnten. Der Sturm dauerte etwa eine halbe Stunde, bevor sich der Himmel langsam wieder aufhellte. Danach lagen überall abgebrochene Äste auf den Straßen, und einige Keller waren überflutet. Die Feuerwehr war den ganzen Abend im Einsatz, um die Schäden zu beseitigen.",
+      "questions": [
+        {
+          "question": "Was passierte am Nachmittag über der Stadt?",
+          "choices": [
+            "Ein plötzliches Unwetter zog auf",
+            "Die Sonne schien den ganzen Tag",
+            "Es fiel Schnee",
+            "Es gab ein Erdbeben"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wo suchten viele Menschen Schutz?",
+          "choices": [
+            "Im Freien unter Bäumen",
+            "In Geschäften oder unter Vordächern",
+            "Im Fluss",
+            "Auf dem Dach ihrer Häuser"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was passierte auf einigen Straßen wegen des Regens?",
+          "choices": [
+            "Sie wurden gesperrt",
+            "Autos konnten nur noch langsam fahren",
+            "Es bildeten sich Staus wegen eines Unfalls",
+            "Die Ampeln fielen aus"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie lange dauerte der Sturm ungefähr?",
+          "choices": [
+            "Nur wenige Minuten",
+            "Etwa eine halbe Stunde",
+            "Den ganzen Tag",
+            "Mehrere Tage"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was musste die Feuerwehr den ganzen Abend tun?",
+          "choices": [
+            "Bäume pflanzen",
+            "Die Schäden beseitigen",
+            "Den Verkehr regeln",
+            "Ein Fest organisieren"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p034",
+      "cefr": "B1",
+      "text": "Paul und sein bester Freund Simon hatten sich seit der Schulzeit nicht mehr gestritten, bis es vor Kurzem zu einem großen Missverständnis kam. Simon hatte vergessen, zu Pauls Geburtstagsfeier zu kommen, weil er die Einladung falsch im Kalender notiert hatte. Paul war sehr enttäuscht und antwortete tagelang nicht auf Simons Nachrichten. Simon versuchte mehrmals, sich zu entschuldigen, doch Paul wollte zunächst nicht mit ihm sprechen. Nach einer Woche rief Simon schließlich an und erklärte die ganze Situation genau. Paul merkte, dass es wirklich ein Versehen gewesen war, und die beiden trafen sich noch am selben Abend, um alles zu klären. Am Ende waren sie froh, dass sie ihre Freundschaft nicht wegen eines Missverständnisses aufs Spiel gesetzt hatten.",
+      "questions": [
+        {
+          "question": "Warum kam es zwischen Paul und Simon zum Streit?",
+          "choices": [
+            "Simon hatte Geld von Paul geliehen",
+            "Simon hatte Pauls Geburtstagsfeier vergessen",
+            "Sie stritten wegen einer Frau",
+            "Sie hatten unterschiedliche politische Meinungen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum kam Simon nicht zur Feier?",
+          "choices": [
+            "Er war krank",
+            "Er hatte die Einladung falsch im Kalender notiert",
+            "Er war im Urlaub",
+            "Er wollte absichtlich nicht kommen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie reagierte Paul zunächst?",
+          "choices": [
+            "Er lachte darüber",
+            "Er antwortete tagelang nicht auf Simons Nachrichten",
+            "Er rief sofort zurück",
+            "Er lud Simon zu einer zweiten Feier ein"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was tat Simon nach einer Woche?",
+          "choices": [
+            "Er gab auf",
+            "Er rief an und erklärte alles genau",
+            "Er schrieb einen Brief an Pauls Eltern",
+            "Er zog in eine andere Stadt"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie endet die Geschichte?",
+          "choices": [
+            "Die Freundschaft war endgültig zerbrochen",
+            "Sie klärten alles und blieben Freunde",
+            "Sie sprachen nie wieder miteinander",
+            "Paul zog aus der Stadt weg"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p035",
+      "cefr": "B1",
+      "text": "In der Schule von Lea wurde ein neues Projekt zum Umweltschutz gestartet. Jede Klasse sollte sich überlegen, wie man im Alltag Müll vermeiden und besser trennen kann. Leas Klasse entschied sich, zuerst den eigenen Klassenraum zu untersuchen. Dabei stellten sie fest, dass viel Papier unnötig weggeworfen wurde, obwohl es hätte wiederverwendet werden können. Die Schüler stellten deshalb extra Boxen für Papier, Plastik und Restmüll auf. Außerdem sammelten sie Ideen, wie man zu Hause Energie sparen kann, zum Beispiel durch das Ausschalten von Geräten, die nicht gebraucht werden. Am Ende des Projekts präsentierten sie ihre Ergebnisse vor der ganzen Schule. Die Lehrerin war stolz darauf, wie ernst die Schüler das Thema genommen hatten.",
+      "questions": [
+        {
+          "question": "Welches Projekt wurde in Leas Schule gestartet?",
+          "choices": [
+            "Ein Sportprojekt",
+            "Ein Projekt zum Umweltschutz",
+            "Ein Musikprojekt",
+            "Ein Reiseprojekt"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was stellte Leas Klasse im Klassenraum fest?",
+          "choices": [
+            "Dass zu viel geheizt wurde",
+            "Dass viel Papier unnötig weggeworfen wurde",
+            "Dass die Fenster kaputt waren",
+            "Dass zu wenig Licht vorhanden war"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was stellten die Schüler im Klassenraum auf?",
+          "choices": [
+            "Neue Stühle",
+            "Boxen für Papier, Plastik und Restmüll",
+            "Ein Aquarium",
+            "Zusätzliche Computer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Welche Idee hatten sie zum Energiesparen?",
+          "choices": [
+            "Nachts das Licht anzulassen",
+            "Geräte auszuschalten, die nicht gebraucht werden",
+            "Mehr Heizungen einzubauen",
+            "Jeden Tag mit dem Auto zu kommen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie reagierte die Lehrerin am Ende des Projekts?",
+          "choices": [
+            "Enttäuscht",
+            "Stolz auf die Schüler",
+            "Gleichgültig",
+            "Überrascht, dass nichts funktioniert hatte"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p036",
+      "cefr": "B1",
+      "text": "Vor zwei Wochen bestellte Frau Schulz online eine neue Jacke, weil ihr das Modell auf den Fotos sehr gut gefallen hatte. Als das Paket ankam, stellte sie jedoch fest, dass die Jacke viel zu groß war und die Farbe anders aussah als erwartet. Sie überlegte kurz, ob sie die Jacke behalten sollte, entschied sich aber schließlich, sie zurückzuschicken. Auf der Internetseite des Geschäfts fand sie ein Formular für Rücksendungen, das sie ausfüllen musste. Danach packte sie die Jacke wieder in die Verpackung und brachte das Paket zur Post. Nach etwa zehn Tagen bekam sie eine E-Mail, dass ihr Geld zurücküberwiesen worden war. Frau Schulz war froh, dass die Rücksendung so unkompliziert funktioniert hatte.",
+      "questions": [
+        {
+          "question": "Was bestellte Frau Schulz online?",
+          "choices": [
+            "Ein Paar Schuhe",
+            "Eine Jacke",
+            "Ein Buch",
+            "Einen Computer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Welches Problem gab es mit der Jacke?",
+          "choices": [
+            "Sie war beschädigt",
+            "Sie war zu groß und die Farbe war anders",
+            "Sie kam nie an",
+            "Sie war zu teuer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was musste Frau Schulz vor der Rücksendung ausfüllen?",
+          "choices": [
+            "Ein Formular für Rücksendungen",
+            "Einen Vertrag",
+            "Eine Beschwerde beim Kundendienst",
+            "Ein Bewerbungsformular"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wohin brachte Frau Schulz das Paket?",
+          "choices": [
+            "Zurück ins Geschäft",
+            "Zur Post",
+            "Zu einer Freundin",
+            "Zum Recyclinghof"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was bekam sie nach etwa zehn Tagen?",
+          "choices": [
+            "Eine neue Jacke in der richtigen Größe",
+            "Eine E-Mail über die Rücküberweisung des Geldes",
+            "Einen Gutschein",
+            "Keine Antwort"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p037",
+      "cefr": "B1",
+      "text": "Zu ihrem dreißigsten Geburtstag lud Melanie ihre Familie und ihre besten Freunde zu einer Feier in ihrem Garten ein. Sie hatte wochenlang geplant und wollte, dass alles perfekt wird. Am Tag der Feier half ihr Bruder beim Aufbauen der Tische und Stühle, während ihre Mutter den Kuchen backte. Am Nachmittag kamen die ersten Gäste, und schnell füllte sich der Garten mit fröhlichen Stimmen. Es gab viel zu essen und zu trinken, und einige Freunde hatten sogar kleine Geschenke mitgebracht. Als es dunkel wurde, zündeten sie Kerzen an und sangen gemeinsam ein Geburtstagslied. Melanie war den ganzen Abend über sehr gerührt, weil so viele Menschen gekommen waren, um mit ihr zu feiern.",
+      "questions": [
+        {
+          "question": "Wie alt wurde Melanie an ihrem Geburtstag?",
+          "choices": [
+            "Zwanzig",
+            "Dreißig",
+            "Vierzig",
+            "Fünfzig"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wo fand die Feier statt?",
+          "choices": [
+            "In einem Restaurant",
+            "In ihrem Garten",
+            "In einer Turnhalle",
+            "Am Strand"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wer half beim Aufbauen der Tische und Stühle?",
+          "choices": [
+            "Ihr Bruder",
+            "Ihr Chef",
+            "Ein Nachbar",
+            "Ein bezahlter Helfer"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Was machten die Gäste, als es dunkel wurde?",
+          "choices": [
+            "Sie gingen nach Hause",
+            "Sie zündeten Kerzen an und sangen ein Lied",
+            "Sie schauten einen Film",
+            "Sie spielten Fußball"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wie fühlte sich Melanie den ganzen Abend?",
+          "choices": [
+            "Gelangweilt",
+            "Gerührt",
+            "Traurig",
+            "Müde"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p038",
+      "cefr": "B1",
+      "text": "Auf dem Weg zur Arbeit blieb das Auto von Herrn Neumann plötzlich mitten auf der Straße stehen. Der Motor machte seltsame Geräusche, und dann ging gar nichts mehr. Herr Neumann stieg aus und schaltete das Warnblinklicht ein, damit andere Autofahrer ihn rechtzeitig sehen konnten. Weil er sich mit Autos nicht gut auskannte, rief er den Pannendienst an. Nach etwa vierzig Minuten kam ein Mechaniker und untersuchte den Motor. Er stellte fest, dass die Batterie leer war und ersetzt werden musste. Zum Glück hatte der Mechaniker eine passende Batterie im Wagen dabei. Nach der Reparatur konnte Herr Neumann seine Fahrt fortsetzen, auch wenn er nun deutlich zu spät zur Arbeit kam.",
+      "questions": [
+        {
+          "question": "Was passierte mit dem Auto von Herrn Neumann?",
+          "choices": [
+            "Es hatte einen Unfall",
+            "Es blieb plötzlich stehen",
+            "Es wurde gestohlen",
+            "Es hatte einen Platten"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was schaltete Herr Neumann sofort ein?",
+          "choices": [
+            "Das Radio",
+            "Das Warnblinklicht",
+            "Die Klimaanlage",
+            "Die Scheinwerfer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wen rief Herr Neumann an?",
+          "choices": [
+            "Die Polizei",
+            "Den Pannendienst",
+            "Seinen Chef",
+            "Einen Freund mit Auto"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was stellte der Mechaniker fest?",
+          "choices": [
+            "Dass die Batterie leer war",
+            "Dass ein Reifen kaputt war",
+            "Dass kein Benzin mehr im Tank war",
+            "Dass der Motor komplett kaputt war"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wie kam Herr Neumann letztendlich zur Arbeit?",
+          "choices": [
+            "Er kam pünktlich an",
+            "Er kam deutlich zu spät an",
+            "Er kam gar nicht an",
+            "Er nahm den Bus"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p039",
+      "cefr": "B1",
+      "text": "Jeden Samstag geht Herr Alt in die Stadtbibliothek, um sich neue Bücher auszuleihen. Er liest besonders gern historische Romane und Biografien bekannter Persönlichkeiten. An diesem Samstag suchte er lange nach einem bestimmten Buch, das ihm ein Bekannter empfohlen hatte, konnte es aber im Regal nicht finden. Deshalb fragte er die Bibliothekarin um Hilfe. Sie suchte im Computer nach und stellte fest, dass das Buch gerade von jemand anderem ausgeliehen war. Sie bot Herrn Alt an, das Buch für ihn zu reservieren, sodass er benachrichtigt würde, sobald es zurückgebracht wurde. Herr Alt nahm das Angebot dankbar an und lieh sich stattdessen ein anderes Buch aus, das ebenfalls interessant klang.",
+      "questions": [
+        {
+          "question": "Was macht Herr Alt jeden Samstag?",
+          "choices": [
+            "Er geht einkaufen",
+            "Er leiht sich Bücher in der Bibliothek aus",
+            "Er trifft Freunde im Café",
+            "Er macht Sport"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Welche Art von Büchern liest Herr Alt besonders gern?",
+          "choices": [
+            "Kochbücher",
+            "Historische Romane und Biografien",
+            "Comics",
+            "Reiseführer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Warum konnte er das gesuchte Buch nicht finden?",
+          "choices": [
+            "Es war beschädigt",
+            "Es war gerade von jemand anderem ausgeliehen",
+            "Es existierte nicht mehr",
+            "Es war zu teuer"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was bot die Bibliothekarin Herrn Alt an?",
+          "choices": [
+            "Das Buch zu kaufen",
+            "Das Buch für ihn zu reservieren",
+            "Ihm ein anderes Exemplar zu schenken",
+            "Ihm eine Mahngebühr zu erlassen"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was tat Herr Alt am Ende?",
+          "choices": [
+            "Er ging ohne Buch nach Hause",
+            "Er lieh sich ein anderes Buch aus",
+            "Er beschwerte sich beim Leiter",
+            "Er kam am nächsten Tag wieder"
+          ],
+          "answer": 1
+        }
+      ]
+    },
+    {
+      "id": "p040",
+      "cefr": "B1",
+      "text": "Seit einigen Monaten geht Katrin regelmäßig ins Fitnessstudio, weil sie sich einen gesünderen Lebensstil wünscht. Am Anfang fiel es ihr schwer, sich dreimal in der Woche zu motivieren, aber inzwischen gehört das Training fest zu ihrem Alltag. Ein Trainer im Studio hat ihr gezeigt, welche Übungen für Anfänger am besten geeignet sind, und einen Trainingsplan erstellt. Neben dem Sport hat Katrin auch ihre Ernährung verändert: Sie isst nun mehr Obst und Gemüse und trinkt weniger Softdrinks. Nach drei Monaten bemerkt sie deutliche Veränderungen, sowohl bei ihrer Kondition als auch bei ihrem allgemeinen Wohlbefinden. Ihre Freunde haben ebenfalls bemerkt, dass sie viel energiegeladener wirkt als früher.",
+      "questions": [
+        {
+          "question": "Warum geht Katrin regelmäßig ins Fitnessstudio?",
+          "choices": [
+            "Weil ihr Arzt es verlangt hat",
+            "Weil sie sich einen gesünderen Lebensstil wünscht",
+            "Weil sie an einem Wettkampf teilnehmen möchte",
+            "Weil ihre Freunde sie dazu gezwungen haben"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wer hat Katrin einen Trainingsplan erstellt?",
+          "choices": [
+            "Ihre Ärztin",
+            "Ein Trainer im Studio",
+            "Eine Freundin",
+            "Sie selbst, ohne Hilfe"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was hat Katrin an ihrer Ernährung verändert?",
+          "choices": [
+            "Sie isst gar nichts mehr",
+            "Sie isst mehr Obst und Gemüse und trinkt weniger Softdrinks",
+            "Sie isst nur noch Fleisch",
+            "Sie isst nur noch abends"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was bemerkt Katrin nach drei Monaten?",
+          "choices": [
+            "Keine Veränderung",
+            "Deutliche Veränderungen bei Kondition und Wohlbefinden",
+            "Dass sie krank geworden ist",
+            "Dass sie das Training aufgeben möchte"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Was haben Katrins Freunde bemerkt?",
+          "choices": [
+            "Dass sie müder wirkt",
+            "Dass sie energiegeladener wirkt als früher",
+            "Dass sie weniger Zeit hat",
+            "Dass sie sich gar nicht verändert hat"
           ],
           "answer": 1
         }

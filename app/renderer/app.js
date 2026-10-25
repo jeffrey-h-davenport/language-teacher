@@ -1,7 +1,8 @@
 'use strict'
 
 // ── Constants ───────────────────────────────────────
-const WORDS_PER_SESSION = 20
+const WORDS_PER_SESSION    = 20
+const WORDS_PER_SESSION_A0 = 8   // A0 (script basics) is dense/unfamiliar — smaller chunks
 function learnedThreshold() { return currentMeta?.learnedThreshold ?? 10 }
 const CHOICES_COUNT     = 6
 
@@ -11,6 +12,7 @@ let sessionWords   = []
 let questionIndex  = 0
 let currentQ       = null   // { word, showNative, choices }
 let currentMeta    = null   // { language, languageCode, nativeLanguage, targetField }
+let currentScript  = null   // { scriptName, intro, sections: [{heading, items: [{char, ipa, note}]}] } or null
 let sessionScore   = 0
 let sessionCorrect = 0
 let sessionTotal   = 0
@@ -99,6 +101,36 @@ const REGISTER_OPTIONS = {
 
 // ── Helpers ──────────────────────────────────────────
 function $(id) { return document.getElementById(id) }
+
+// Some IPA diacritics (e.g. the combining mark for Korean's tense/fortis
+// consonants) are correct but tiny at UI sizes — small enough that two
+// otherwise-distinct choices (like ㅂ "/p/" vs ㅃ "/p͈/") can look identical.
+// Rather than swap in a bigger but less accurate symbol, render each
+// base-letter-plus-combining-mark cluster a bit larger so the mark is
+// actually visible, leaving the underlying text (and transcription)
+// untouched.
+const COMBINING_MARK = /\p{Mn}/u
+function setEmphasizedText(el, text) {
+  el.textContent = ''
+  let i = 0
+  while (i < text.length) {
+    let cluster = text[i]
+    let j = i + 1
+    while (j < text.length && COMBINING_MARK.test(text[j])) {
+      cluster += text[j]
+      j++
+    }
+    if (cluster.length > 1) {
+      const mark = document.createElement('span')
+      mark.className = 'ipa-mark-cluster'
+      mark.textContent = cluster
+      el.appendChild(mark)
+    } else {
+      el.appendChild(document.createTextNode(cluster))
+    }
+    i = j
+  }
+}
 
 function shuffle(arr) {
   const a = [...arr]
@@ -212,7 +244,7 @@ function showScreen(id) {
 }
 
 // ── CEFR Level Helpers ────────────────────────────────
-const CEFR_ORDER = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+const CEFR_ORDER = ['A0', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
 
 function currentCefrLevel() {
   for (const level of CEFR_ORDER) {
@@ -262,22 +294,50 @@ function resolveDeclensionGate(word) {
   return word
 }
 
+// Groups words by their optional `tier` field (ascending), each bucket
+// shuffled independently. Words with no tier all land in one bucket, so this
+// is a no-op for every language/level that doesn't use tiering — only A0
+// content (currently Hindi script basics) splits into more than one bucket.
+function groupByTier(words) {
+  const buckets = new Map()
+  for (const w of words) {
+    const t = w.tier ?? Infinity
+    if (!buckets.has(t)) buckets.set(t, [])
+    buckets.get(t).push(w)
+  }
+  return [...buckets.keys()].sort((a, b) => a - b).map(t => shuffle(buckets.get(t)))
+}
+
 function pickSessionWords() {
+  const sessionSize = currentCefrLevel() === 'A0' ? WORDS_PER_SESSION_A0 : WORDS_PER_SESSION
+
   const inProgress = shuffle(allWords.filter(w => w.score > 0 && !w.learned))
   const learned    = shuffle(allWords.filter(w => w.learned))
 
-  // Expand CEFR levels one at a time until the fresh pool is large enough
+  // Expand CEFR levels one at a time until the fresh pool is large enough —
+  // and within a level, expand tiers one at a time the same way, so e.g.
+  // Hindi's single-letter basics surface before contrast pairs.
   let freshPool = []
+  levels:
   for (const level of CEFR_ORDER) {
-    const lvWords = shuffle(allWords.filter(w => w.score === 0 && !w.learned && w.cefr === level))
-    freshPool = [...freshPool, ...lvWords]
-    if (freshPool.length >= WORDS_PER_SESSION) break
+    const lvWords = allWords.filter(w => w.score === 0 && !w.learned && w.cefr === level)
+    for (const tierBucket of groupByTier(lvWords)) {
+      freshPool = [...freshPool, ...tierBucket]
+      if (freshPool.length >= sessionSize) break levels
+    }
   }
   // Words with no cefr field fall in last
   const uncategorized = shuffle(allWords.filter(w => w.score === 0 && !w.learned && !w.cefr))
   freshPool = [...freshPool, ...uncategorized]
   freshPool = freshPool.map(resolveDeclensionGate)
 
+  // Category order (in-progress, then fresh, then learned) only decides
+  // which words get *included* when there are more candidates than room in
+  // the session — it must not also decide *presentation* order, or the
+  // first slot would always be filled from whichever category sorts first
+  // (in-progress words have priority, so with a small in-progress pool the
+  // same handful of words would keep opening every session). Shuffle the
+  // final selection so question order is independent of category.
   const combined = [...inProgress, ...freshPool, ...learned]
   const seen = new Set()
   const deduped = []
@@ -287,7 +347,7 @@ function pickSessionWords() {
       deduped.push(w)
     }
   }
-  return deduped.slice(0, WORDS_PER_SESSION)
+  return shuffle(deduped.slice(0, sessionSize))
 }
 
 // ── Question Generation ───────────────────────────────
@@ -342,7 +402,7 @@ function displayQuestion(q) {
   const level = currentCefrLevel()
   $('cefr-level-chip').textContent = level ? `Level ${level}` : '✓ All'
 
-  $('word-display').textContent = showNative ? word.english : formatTarget(word)
+  setEmphasizedText($('word-display'), showNative ? word.english : formatTarget(word))
 
   // Register only describes the target-language word, so it's shown alongside
   // it (like IPA) — not when English is the head word and the target is hidden.
@@ -381,6 +441,13 @@ function displayQuestion(q) {
 
   const grid = $('choices-grid')
   grid.innerHTML = ''
+  // Non-Latin scripts render visually smaller than Latin text at the same
+  // font-size, so bump it up when choices show the native form. How much
+  // varies by script (e.g. dense Hangul syllable blocks need a bigger
+  // boost than Devanagari), so each script's data file can set its own
+  // fontScale — defaulting to 1.25 for scripts that don't specify one.
+  grid.classList.toggle('non-latin-choices', showNative && !!currentScript)
+  grid.style.setProperty('--non-latin-scale', (currentScript && currentScript.fontScale) || 1.25)
   choices.forEach(choice => {
     const label = showNative ? formatTarget(choice) : choice.english
     const btn   = document.createElement('button')
@@ -388,18 +455,32 @@ function displayQuestion(q) {
     btn.dataset.id = choice.id
     const span = document.createElement('span')
     span.className   = 'choice-text'
-    span.textContent = label
+    setEmphasizedText(span, label)
     btn.appendChild(span)
+    // Pronunciation hint on hover for target-language answer choices — most
+    // useful for non-Latin scripts (Hindi today, more to come), but shown
+    // for any word that has an ipa/transliteration on file. The optional
+    // letterBreakdown (per-letter IPA, for abugida scripts) follows right
+    // after the whole-word ipa.
+    if (showNative && choice.ipa) {
+      const breakdown = (choice.letterBreakdown || [])
+        .map(u => `${u.letter}${u.ipa}`).join(' ')
+      btn.dataset.tooltip = breakdown ? `${choice.ipa} ${breakdown}` : choice.ipa
+    }
     btn.addEventListener('click', () => handleChoice(btn, choice))
     grid.appendChild(btn)
   })
 
-  // After layout, show tooltip only for buttons whose text is actually clipped
+  // After layout, show the full label as a tooltip for any button whose
+  // text is clipped — combined with the pronunciation hint, if there is
+  // one, so clipping never loses either piece of information.
   requestAnimationFrame(() => {
     grid.querySelectorAll('.choice-btn').forEach(btn => {
       const span = btn.querySelector('.choice-text')
-      if (span && span.scrollHeight > span.clientHeight) {
-        btn.dataset.tooltip = span.textContent
+      if (span && span.scrollWidth > span.clientWidth) {
+        btn.dataset.tooltip = btn.dataset.tooltip
+          ? `${span.textContent} (${btn.dataset.tooltip})`
+          : span.textContent
       }
     })
   })
@@ -825,8 +906,75 @@ async function loadVocabulary(slug) {
   allWords = (result.vocab.words || [])
     .map(word => ensureDefaults(Object.assign({}, word, progressById[word.id])))
 
+  currentScript = result.script || null
+  updateScriptGuideButton()
+
   updateWelcomeScreen()
   startSession()
+}
+
+// ── Script Guide (abugida/alphabet reference popup) ─────────────────
+// Driven entirely by the optional <slug>-script.json data file, so this
+// works for any future non-Latin-script language without code changes —
+// the button just hides itself when a language has no script file.
+function updateScriptGuideButton() {
+  $('script-guide-btn').classList.toggle('hidden', !currentScript)
+}
+
+function renderScriptGuide() {
+  $('script-guide-title').textContent = currentScript.scriptName
+    ? `${currentScript.scriptName} Guide`
+    : 'Script Guide'
+
+  const body = $('script-guide-body')
+  body.innerHTML = ''
+
+  if (currentScript.intro) {
+    const intro = document.createElement('p')
+    intro.className = 'script-guide-intro'
+    intro.textContent = currentScript.intro
+    body.appendChild(intro)
+  }
+
+  for (const section of (currentScript.sections || [])) {
+    const heading = document.createElement('h3')
+    heading.className = 'script-guide-heading'
+    heading.textContent = section.heading
+    body.appendChild(heading)
+
+    const grid = document.createElement('div')
+    grid.className = 'script-guide-grid'
+    for (const item of (section.items || [])) {
+      const cell = document.createElement('div')
+      cell.className = 'script-char-cell'
+      const char = document.createElement('div')
+      char.className = 'script-char'
+      char.textContent = item.char
+      const ipa = document.createElement('div')
+      ipa.className = 'script-char-ipa'
+      ipa.textContent = item.ipa
+      cell.appendChild(char)
+      cell.appendChild(ipa)
+      if (item.note) {
+        const note = document.createElement('div')
+        note.className = 'script-char-note'
+        note.textContent = item.note
+        cell.appendChild(note)
+      }
+      grid.appendChild(cell)
+    }
+    body.appendChild(grid)
+  }
+}
+
+function showScriptGuide() {
+  if (!currentScript) return
+  renderScriptGuide()
+  $('script-guide-modal').classList.remove('hidden')
+}
+
+function hideScriptGuide() {
+  $('script-guide-modal').classList.add('hidden')
 }
 
 async function loadReading(slug) {
@@ -1194,6 +1342,12 @@ document.addEventListener('DOMContentLoaded', () => {
     $('countability-info-popover').classList.toggle('hidden')
   })
   document.addEventListener('click', () => $('countability-info-popover').classList.add('hidden'))
+
+  $('script-guide-btn').addEventListener('click', showScriptGuide)
+  $('script-guide-close').addEventListener('click', hideScriptGuide)
+  $('script-guide-modal').addEventListener('click', e => {
+    if (e.target.id === 'script-guide-modal') hideScriptGuide()
+  })
   $('edit-target').addEventListener('input', updateHMuetVisibility)
 
   // Browse buttons
@@ -1265,6 +1419,9 @@ document.addEventListener('DOMContentLoaded', () => {
     resetWelcomePicker()
     showScreen('welcome-screen')
   })
+
+  $('exit-btn').addEventListener('click', () => window.api.quitApp())
+  $('welcome-exit-btn').addEventListener('click', () => window.api.quitApp())
 
   // ── Reading event wiring ───────────────────────────
   $('reading-start-btn').addEventListener('click', startReadingSession)
