@@ -1,0 +1,3921 @@
+{
+  "meta": {
+    "language": "Turkish",
+    "languageCode": "tr",
+    "nativeLanguage": "English",
+    "targetField": "turkish",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "1330af03-4be7-458a-a396-9e9a5b9bd49c",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "turkish": "ben",
+      "cefr": "A1",
+      "ipa": "/ben/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36928a32-7ce3-4683-9ce8-7175ef456f87",
+      "part-of-speech": "pronoun",
+      "english": "you (singular, informal)",
+      "turkish": "sen",
+      "cefr": "A1",
+      "ipa": "/sen/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdb93034-0749-4a06-8301-a0b42ca7158d",
+      "part-of-speech": "pronoun",
+      "english": "he, she, it",
+      "turkish": "o",
+      "cefr": "A1",
+      "ipa": "/o/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1316ce8-9c00-428c-b620-c1f900351f65",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "turkish": "biz",
+      "cefr": "A1",
+      "ipa": "/biz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89c23611-aa36-49f6-b8a3-aacf06e5cbb1",
+      "part-of-speech": "pronoun",
+      "english": "you (plural, or formal singular)",
+      "turkish": "siz",
+      "cefr": "A1",
+      "ipa": "/siz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e44845c-c467-4ef6-b6c0-3d8f5d967d32",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "turkish": "onlar",
+      "cefr": "A1",
+      "ipa": "/onlar/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fba270ae-7e20-4b72-8e4e-827dcca03893",
+      "part-of-speech": "adjective",
+      "english": "this",
+      "turkish": "bu",
+      "cefr": "A1",
+      "ipa": "/bu/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88472e2d-051c-45f0-883e-97795cc9f1a9",
+      "part-of-speech": "adjective",
+      "english": "that (nearby)",
+      "turkish": "şu",
+      "cefr": "A1",
+      "ipa": "/ʃu/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb67127a-96bc-40ee-82fa-efa1a9e388d3",
+      "part-of-speech": "adjective",
+      "english": "that (over there)",
+      "turkish": "o",
+      "cefr": "A1",
+      "ipa": "/o/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99f0faa2-ff9f-4ffa-b7cb-bba734af9a18",
+      "part-of-speech": "pronoun",
+      "english": "own, self",
+      "turkish": "kendi",
+      "cefr": "A1",
+      "ipa": "/kendi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50bfbc0-29cf-4702-99f3-a1a21fda3370",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "turkish": "ne",
+      "cefr": "A1",
+      "ipa": "/ne/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "513fd30a-d581-48f5-9b37-ad3de5ed2e9f",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "turkish": "kim",
+      "cefr": "A1",
+      "ipa": "/kim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30a1faf8-ec4a-4a3d-a9da-b5ca90dcf766",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "turkish": "nerede",
+      "cefr": "A1",
+      "ipa": "/nerede/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c9b82b3-7e91-495e-bdfa-95b8c9716a5e",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "turkish": "nasıl",
+      "cefr": "A1",
+      "ipa": "/nasɯl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00c5d54e-e3ac-4b38-b189-fab3fa9ac5e8",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "turkish": "neden",
+      "cefr": "A1",
+      "ipa": "/neden/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23877ae2-e60f-4ec9-8b49-d87e7e4f8a09",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "turkish": "niçin",
+      "cefr": "A1",
+      "ipa": "/nitʃin/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7da9d78f-da62-4211-966d-b02deecd2f14",
+      "part-of-speech": "adjective",
+      "english": "how many, how much",
+      "turkish": "kaç",
+      "cefr": "A1",
+      "ipa": "/katʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e927d26c-cec0-4fc2-b716-0914afec1815",
+      "part-of-speech": "adjective",
+      "english": "which",
+      "turkish": "hangi",
+      "cefr": "A1",
+      "ipa": "/hangi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c431f92b-d7a9-49c4-9c1c-8fcbb5cc9000",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "turkish": "ne zaman",
+      "cefr": "A1",
+      "ipa": "/ne zaman/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0cd34958-a8c3-447a-b599-1a8e117de003",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "turkish": "sıfır",
+      "cefr": "A1",
+      "ipa": "/sɯfɯr/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92df38f5-b1df-4a1b-bc34-b9462addcd53",
+      "part-of-speech": "noun",
+      "english": "one",
+      "turkish": "bir",
+      "cefr": "A1",
+      "ipa": "/bir/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54e15b71-398f-4fa7-a88a-085412041d0d",
+      "part-of-speech": "noun",
+      "english": "two",
+      "turkish": "iki",
+      "cefr": "A1",
+      "ipa": "/iki/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14b7d5d3-c607-4910-8714-025ddf5f1d83",
+      "part-of-speech": "noun",
+      "english": "three",
+      "turkish": "üç",
+      "cefr": "A1",
+      "ipa": "/ytʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68dd2538-16e6-42ce-b62f-fa0a1c3abd83",
+      "part-of-speech": "noun",
+      "english": "four",
+      "turkish": "dört",
+      "cefr": "A1",
+      "ipa": "/dørt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93304fdb-8e85-48f9-81cc-ee2de3364f98",
+      "part-of-speech": "noun",
+      "english": "five",
+      "turkish": "beş",
+      "cefr": "A1",
+      "ipa": "/beʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bd0093b-5960-4f9a-9846-5f1ecd9657f4",
+      "part-of-speech": "noun",
+      "english": "six",
+      "turkish": "altı",
+      "cefr": "A1",
+      "ipa": "/altɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1e94e32-3f37-41ba-8e25-0f5f66f0c398",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "turkish": "yedi",
+      "cefr": "A1",
+      "ipa": "/jedi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "521deaaf-c954-4b76-a1f4-12572836b55c",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "turkish": "sekiz",
+      "cefr": "A1",
+      "ipa": "/sekiz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d583aeb9-39f3-4567-b463-40456a24ff26",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "turkish": "dokuz",
+      "cefr": "A1",
+      "ipa": "/dokuz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50ae90ce-3abe-4c0a-a0c6-2ea63b23f95e",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "turkish": "on",
+      "cefr": "A1",
+      "ipa": "/on/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc4527eb-f509-4491-8b2e-7499a800af12",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "turkish": "yirmi",
+      "cefr": "A1",
+      "ipa": "/jirmi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "266e32bb-363e-4b59-b983-4adef8834972",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "turkish": "otuz",
+      "cefr": "A1",
+      "ipa": "/otuz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caae282f-61bd-4c38-9a85-38ee5f73c555",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "turkish": "kırk",
+      "cefr": "A1",
+      "ipa": "/kɯrk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d031c619-a2ed-4600-8653-d1580186b3a0",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "turkish": "elli",
+      "cefr": "A1",
+      "ipa": "/elːi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fd8bb93-d225-4ff2-a617-ebb3a8513df8",
+      "part-of-speech": "noun",
+      "english": "sixty",
+      "turkish": "altmış",
+      "cefr": "A1",
+      "ipa": "/altmɯʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0652fa99-87f9-46ba-aeb1-849d3a7f6170",
+      "part-of-speech": "noun",
+      "english": "seventy",
+      "turkish": "yetmiş",
+      "cefr": "A1",
+      "ipa": "/jetmiʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f950136a-d45a-4895-8981-a1b5a0042600",
+      "part-of-speech": "noun",
+      "english": "eighty",
+      "turkish": "seksen",
+      "cefr": "A1",
+      "ipa": "/seksen/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7faf418d-c36c-4332-a5d4-0ef2cc137e68",
+      "part-of-speech": "noun",
+      "english": "ninety",
+      "turkish": "doksan",
+      "cefr": "A1",
+      "ipa": "/doksan/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33f7a5ef-941f-4caf-b0d9-9e872443b400",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "turkish": "yüz",
+      "cefr": "A1",
+      "ipa": "/jyz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a869e58f-07e9-42a4-a0cc-a4c1fcfcc621",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "turkish": "bin",
+      "cefr": "A1",
+      "ipa": "/bin/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c4e499e-7724-4c20-a9ce-569a97b0a225",
+      "part-of-speech": "verb",
+      "english": "to be, to become",
+      "turkish": "olmak",
+      "cefr": "A1",
+      "ipa": "/olmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a71026ba-4007-46a9-b850-5dbc4b1e1f73",
+      "part-of-speech": "verb",
+      "english": "to do, to make",
+      "turkish": "yapmak",
+      "cefr": "A1",
+      "ipa": "/japmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc1377d8-f677-4ac2-a665-29bfce9f74c1",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "turkish": "gitmek",
+      "cefr": "A1",
+      "ipa": "/gitmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2e843ad-a92a-4fcb-aa2b-bc7c7b3cc508",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "turkish": "gelmek",
+      "cefr": "A1",
+      "ipa": "/gelmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68bfcf2a-83a3-4157-9599-9867fdbf587f",
+      "part-of-speech": "verb",
+      "english": "to take, to buy",
+      "turkish": "almak",
+      "cefr": "A1",
+      "ipa": "/almak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b27a2629-b17e-4a66-9483-c95dee6403b8",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "turkish": "vermek",
+      "cefr": "A1",
+      "ipa": "/vermek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "999dbd3e-3582-4067-8bdf-64afab5b4aab",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "turkish": "görmek",
+      "cefr": "A1",
+      "ipa": "/gørmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61071822-f02b-4200-ab27-6f0fcf4f2a55",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "turkish": "bilmek",
+      "cefr": "A1",
+      "ipa": "/bilmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01e6501e-9220-4529-9ccd-e2e18765dcba",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "turkish": "istemek",
+      "cefr": "A1",
+      "ipa": "/istemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "524577a1-7c71-4d29-921d-ffce19f0cd02",
+      "part-of-speech": "verb",
+      "english": "to love, to like",
+      "turkish": "sevmek",
+      "cefr": "A1",
+      "ipa": "/sevmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d8ae663-d522-41d3-b8a0-4aa15ef9a6e5",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "turkish": "yemek",
+      "cefr": "A1",
+      "ipa": "/jemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc1f2886-365c-4d0c-9eb8-2127a162bd1c",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "turkish": "içmek",
+      "cefr": "A1",
+      "ipa": "/itʃmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f40ca51-54a7-416f-8312-928d27f6445f",
+      "part-of-speech": "verb",
+      "english": "to speak, to talk",
+      "turkish": "konuşmak",
+      "cefr": "A1",
+      "ipa": "/konuʃmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8772166b-53aa-4e26-b09b-79584d10be86",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "turkish": "anlamak",
+      "cefr": "A1",
+      "ipa": "/anlamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "915eb817-2dde-4de1-8d0f-6da2dbe084db",
+      "part-of-speech": "verb",
+      "english": "to read, to study",
+      "turkish": "okumak",
+      "cefr": "A1",
+      "ipa": "/okumak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5713a3a1-6253-407f-b8a4-d371800ffa0d",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "turkish": "yazmak",
+      "cefr": "A1",
+      "ipa": "/jazmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d720aff5-3b15-4ce0-86fb-69ad76bbe59d",
+      "part-of-speech": "verb",
+      "english": "to work, to study",
+      "turkish": "çalışmak",
+      "cefr": "A1",
+      "ipa": "/tʃalɯʃmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "207754a6-7c0a-4c90-a4af-cc61fcdd45d3",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "turkish": "oynamak",
+      "cefr": "A1",
+      "ipa": "/ojnamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1cdcda3-6513-4d5d-be9a-b8a7c3766a87",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "turkish": "uyumak",
+      "cefr": "A1",
+      "ipa": "/ujumak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9667e8dc-470a-49fd-85be-cd14cf18130b",
+      "part-of-speech": "verb",
+      "english": "to get up, to stand up",
+      "turkish": "kalkmak",
+      "cefr": "A1",
+      "ipa": "/kalkmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1f2a786-d741-4e9e-b84d-acfae7fa380f",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "turkish": "oturmak",
+      "cefr": "A1",
+      "ipa": "/oturmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94c044c0-de78-4b47-bb04-0a3c36937f5b",
+      "part-of-speech": "verb",
+      "english": "to stop, to stand",
+      "turkish": "durmak",
+      "cefr": "A1",
+      "ipa": "/durmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4db0c8f8-1255-42c9-997e-7e70cfcdc7a6",
+      "part-of-speech": "verb",
+      "english": "to look",
+      "turkish": "bakmak",
+      "cefr": "A1",
+      "ipa": "/bakmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3eb14298-3983-4a87-a17f-34c0ae65b557",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "turkish": "dinlemek",
+      "cefr": "A1",
+      "ipa": "/dinlemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db44acbd-fc36-40c1-84bf-6ae7f41ab298",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "turkish": "açmak",
+      "cefr": "A1",
+      "ipa": "/atʃmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaa64125-8b85-4823-a86d-c57ac3fce70c",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "turkish": "kapatmak",
+      "cefr": "A1",
+      "ipa": "/kapatmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59b01046-4881-499f-93b1-6dda444424e5",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "turkish": "beklemek",
+      "cefr": "A1",
+      "ipa": "/beklemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f45a8962-4986-4d6c-9d1b-d8af510b2a5d",
+      "part-of-speech": "verb",
+      "english": "to begin, to start",
+      "turkish": "başlamak",
+      "cefr": "A1",
+      "ipa": "/baʃlamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f101a971-3ff2-43af-bc57-839b4c0e1dd6",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "turkish": "bitirmek",
+      "cefr": "A1",
+      "ipa": "/bitirmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "798c1fa0-42a0-45fb-850d-c13d919881b0",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "turkish": "yaşamak",
+      "cefr": "A1",
+      "ipa": "/jaʃamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f34dfefb-9204-40f8-9cd0-a5dcd141b3f2",
+      "part-of-speech": "adjective",
+      "english": "there is, there are",
+      "turkish": "var",
+      "cefr": "A1",
+      "ipa": "/var/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9983818-cf31-4f52-8667-dee0aecaed61",
+      "part-of-speech": "adjective",
+      "english": "there isn’t, there aren’t",
+      "turkish": "yok",
+      "cefr": "A1",
+      "ipa": "/jok/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55da8800-f244-4edf-8d71-c07190472730",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "turkish": "ev",
+      "cefr": "A1",
+      "ipa": "/ev/",
+      "register": [
+        "All"
+      ],
+      "plural": "evler"
+    },
+    {
+      "id": "d5510147-dcdd-43ab-917b-5c8d3b7ef73d",
+      "part-of-speech": "noun",
+      "english": "water",
+      "turkish": "su",
+      "cefr": "A1",
+      "ipa": "/su/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "3b21bf71-391d-46ab-a508-e9d12b4bd126",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "turkish": "ekmek",
+      "cefr": "A1",
+      "ipa": "/ekmek/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "3ad8559a-8548-4c9e-a5dc-bcbaa317cb7c",
+      "part-of-speech": "noun",
+      "english": "book",
+      "turkish": "kitap",
+      "cefr": "A1",
+      "ipa": "/kitap/",
+      "register": [
+        "All"
+      ],
+      "plural": "kitaplar"
+    },
+    {
+      "id": "f87f8047-a0b6-429a-b30d-663a229f7b9b",
+      "part-of-speech": "noun",
+      "english": "car",
+      "turkish": "araba",
+      "cefr": "A1",
+      "ipa": "/araba/",
+      "register": [
+        "All"
+      ],
+      "plural": "arabalar"
+    },
+    {
+      "id": "ed4de6e7-35ec-48af-acca-2ca2488729d3",
+      "part-of-speech": "noun",
+      "english": "day",
+      "turkish": "gün",
+      "cefr": "A1",
+      "ipa": "/gyn/",
+      "register": [
+        "All"
+      ],
+      "plural": "günler"
+    },
+    {
+      "id": "0fac92c6-3f20-4eb0-8f48-4541ba28fc84",
+      "part-of-speech": "noun",
+      "english": "time",
+      "turkish": "zaman",
+      "cefr": "A1",
+      "ipa": "/zaman/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "e73b8f5e-20d8-4937-87b9-beefe2e8948b",
+      "part-of-speech": "noun",
+      "english": "year",
+      "turkish": "yıl",
+      "cefr": "A1",
+      "ipa": "/jɯl/",
+      "register": [
+        "All"
+      ],
+      "plural": "yıllar"
+    },
+    {
+      "id": "5d0845d7-f3dd-437c-a514-678a7a88d0cb",
+      "part-of-speech": "noun",
+      "english": "month",
+      "turkish": "ay",
+      "cefr": "A1",
+      "ipa": "/aj/",
+      "register": [
+        "All"
+      ],
+      "plural": "aylar"
+    },
+    {
+      "id": "e4e9281f-7fa8-4204-af70-a638ec166c62",
+      "part-of-speech": "noun",
+      "english": "moon",
+      "turkish": "ay",
+      "cefr": "A1",
+      "ipa": "/aj/",
+      "register": [
+        "All"
+      ],
+      "plural": "aylar"
+    },
+    {
+      "id": "377d940b-6523-450e-96f7-53b431c87bba",
+      "part-of-speech": "noun",
+      "english": "week",
+      "turkish": "hafta",
+      "cefr": "A1",
+      "ipa": "/hafta/",
+      "register": [
+        "All"
+      ],
+      "plural": "haftalar"
+    },
+    {
+      "id": "b298e0c8-a047-4b80-a036-2ab3b9d18ca2",
+      "part-of-speech": "noun",
+      "english": "hour, clock, watch",
+      "turkish": "saat",
+      "cefr": "A1",
+      "ipa": "/saat/",
+      "register": [
+        "All"
+      ],
+      "plural": "saatlar"
+    },
+    {
+      "id": "e8d70f37-fb3f-41b8-bcd7-ddc33c7d588b",
+      "part-of-speech": "noun",
+      "english": "man",
+      "turkish": "adam",
+      "cefr": "A1",
+      "ipa": "/adam/",
+      "register": [
+        "All"
+      ],
+      "plural": "adamlar"
+    },
+    {
+      "id": "c33ca73d-cc61-4200-8c5f-83cf8faf08fd",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "turkish": "kadın",
+      "cefr": "A1",
+      "ipa": "/kadɯn/",
+      "register": [
+        "All"
+      ],
+      "plural": "kadınlar"
+    },
+    {
+      "id": "f817bc1a-9bd4-4fda-a68a-fb5d5d1937e2",
+      "part-of-speech": "noun",
+      "english": "child",
+      "turkish": "çocuk",
+      "cefr": "A1",
+      "ipa": "/tʃodʒuk/",
+      "register": [
+        "All"
+      ],
+      "plural": "çocuklar"
+    },
+    {
+      "id": "4c077c9c-b9c3-49a7-b84e-977af3d326ea",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "turkish": "anne",
+      "cefr": "A1",
+      "ipa": "/anːe/",
+      "register": [
+        "All"
+      ],
+      "plural": "anneler"
+    },
+    {
+      "id": "b58d9481-0890-43f7-a154-57223da8d7c1",
+      "part-of-speech": "noun",
+      "english": "father",
+      "turkish": "baba",
+      "cefr": "A1",
+      "ipa": "/baba/",
+      "register": [
+        "All"
+      ],
+      "plural": "babalar"
+    },
+    {
+      "id": "8e8d53f6-0646-4791-acab-ee526d57d31f",
+      "part-of-speech": "noun",
+      "english": "sibling",
+      "turkish": "kardeş",
+      "cefr": "A1",
+      "ipa": "/kardeʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "kardeşler"
+    },
+    {
+      "id": "b2202e1d-4ca7-41b9-85d1-d766dc5d8252",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "turkish": "arkadaş",
+      "cefr": "A1",
+      "ipa": "/arkadaʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "arkadaşlar"
+    },
+    {
+      "id": "18cde5d5-d003-49b0-b600-d14a7e31a4af",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "turkish": "öğretmen",
+      "cefr": "A1",
+      "ipa": "/øɰretmen/",
+      "register": [
+        "All"
+      ],
+      "plural": "öğretmenler"
+    },
+    {
+      "id": "6a158c7b-ce01-41dc-96ee-7046540d37d7",
+      "part-of-speech": "noun",
+      "english": "student",
+      "turkish": "öğrenci",
+      "cefr": "A1",
+      "ipa": "/øɰrendʒi/",
+      "register": [
+        "All"
+      ],
+      "plural": "öğrenciler"
+    },
+    {
+      "id": "df93602d-72b0-4783-a346-94befc7e8fbb",
+      "part-of-speech": "noun",
+      "english": "school",
+      "turkish": "okul",
+      "cefr": "A1",
+      "ipa": "/okul/",
+      "register": [
+        "All"
+      ],
+      "plural": "okullar"
+    },
+    {
+      "id": "ca6c7677-862d-472f-8263-8b8723ce346a",
+      "part-of-speech": "noun",
+      "english": "job, work",
+      "turkish": "iş",
+      "cefr": "A1",
+      "ipa": "/iʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "işler"
+    },
+    {
+      "id": "c5cc76eb-fe50-49a3-b896-a5554f9eaffb",
+      "part-of-speech": "noun",
+      "english": "money",
+      "turkish": "para",
+      "cefr": "A1",
+      "ipa": "/para/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "6d5d6856-d607-459d-9ed8-3a2544b9fe30",
+      "part-of-speech": "noun",
+      "english": "food, meal",
+      "turkish": "yemek",
+      "cefr": "A1",
+      "ipa": "/jemek/",
+      "register": [
+        "All"
+      ],
+      "plural": "yemekler"
+    },
+    {
+      "id": "8cb85577-4621-43cf-9309-80628cb921bc",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "turkish": "çay",
+      "cefr": "A1",
+      "ipa": "/tʃaj/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "698ba924-7e77-453c-b222-3cae5ddd0eb6",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "turkish": "kahve",
+      "cefr": "A1",
+      "ipa": "/kahve/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "998240a6-4a08-4d35-bb3a-50251e3db52d",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "turkish": "süt",
+      "cefr": "A1",
+      "ipa": "/syt/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "dc18bc64-af54-471c-8be8-2a0568533397",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "turkish": "et",
+      "cefr": "A1",
+      "ipa": "/et/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "ac354d3a-7076-419b-b3c5-8ab741f021ec",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "turkish": "sebze",
+      "cefr": "A1",
+      "ipa": "/sebze/",
+      "register": [
+        "All"
+      ],
+      "plural": "sebzeler"
+    },
+    {
+      "id": "40f9665a-c064-479d-888f-03a9e994c4d9",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "turkish": "meyve",
+      "cefr": "A1",
+      "ipa": "/mejve/",
+      "register": [
+        "All"
+      ],
+      "plural": "meyveler"
+    },
+    {
+      "id": "87f281ad-ac6e-46e9-aab7-5a47adb87864",
+      "part-of-speech": "noun",
+      "english": "table",
+      "turkish": "masa",
+      "cefr": "A1",
+      "ipa": "/masa/",
+      "register": [
+        "All"
+      ],
+      "plural": "masalar"
+    },
+    {
+      "id": "5627fc5d-97c6-483e-9c18-0e84691f8657",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "turkish": "sandalye",
+      "cefr": "A1",
+      "ipa": "/sandalje/",
+      "register": [
+        "All"
+      ],
+      "plural": "sandalyeler"
+    },
+    {
+      "id": "0f402402-15cc-4ba8-9fff-94c55e47cf06",
+      "part-of-speech": "noun",
+      "english": "door",
+      "turkish": "kapı",
+      "cefr": "A1",
+      "ipa": "/kapɯ/",
+      "register": [
+        "All"
+      ],
+      "plural": "kapılar"
+    },
+    {
+      "id": "156f3d71-a753-4f24-ac56-80be293c0ddb",
+      "part-of-speech": "noun",
+      "english": "window",
+      "turkish": "pencere",
+      "cefr": "A1",
+      "ipa": "/pendʒere/",
+      "register": [
+        "All"
+      ],
+      "plural": "pencereler"
+    },
+    {
+      "id": "61384c7f-0e5a-44f4-addd-718f5eb2bd44",
+      "part-of-speech": "noun",
+      "english": "room",
+      "turkish": "oda",
+      "cefr": "A1",
+      "ipa": "/oda/",
+      "register": [
+        "All"
+      ],
+      "plural": "odalar"
+    },
+    {
+      "id": "81e76aef-498b-4bf3-9c5c-20a34482a771",
+      "part-of-speech": "noun",
+      "english": "city",
+      "turkish": "şehir",
+      "cefr": "A1",
+      "ipa": "/ʃehir/",
+      "register": [
+        "All"
+      ],
+      "plural": "şehirler"
+    },
+    {
+      "id": "b052caa1-1cda-4066-a50a-d1ee5d090696",
+      "part-of-speech": "noun",
+      "english": "country",
+      "turkish": "ülke",
+      "cefr": "A1",
+      "ipa": "/ylke/",
+      "register": [
+        "All"
+      ],
+      "plural": "ülkeler"
+    },
+    {
+      "id": "7a8b338f-85d9-4aa9-b3d4-5495cd93bffe",
+      "part-of-speech": "noun",
+      "english": "world",
+      "turkish": "dünya",
+      "cefr": "A1",
+      "ipa": "/dynja/",
+      "register": [
+        "All"
+      ],
+      "plural": "dünyalar"
+    },
+    {
+      "id": "d809a23d-ea6d-4457-841d-7d77918e0945",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "turkish": "deniz",
+      "cefr": "A1",
+      "ipa": "/deniz/",
+      "register": [
+        "All"
+      ],
+      "plural": "denizler"
+    },
+    {
+      "id": "776657a0-0a99-4f54-af7e-625d1a34d851",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "turkish": "dağ",
+      "cefr": "A1",
+      "ipa": "/daɰ/",
+      "register": [
+        "All"
+      ],
+      "plural": "dağlar"
+    },
+    {
+      "id": "30b19318-96b1-40fa-b602-75f06cd4dbbc",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "turkish": "ağaç",
+      "cefr": "A1",
+      "ipa": "/aɰatʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "ağaçlar"
+    },
+    {
+      "id": "0ec578b4-3bf5-4d17-ac2e-2fc320e65b81",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "turkish": "çiçek",
+      "cefr": "A1",
+      "ipa": "/tʃitʃek/",
+      "register": [
+        "All"
+      ],
+      "plural": "çiçekler"
+    },
+    {
+      "id": "02337d25-a9e0-4c4f-9fc0-8977f8894e9d",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "turkish": "hayvan",
+      "cefr": "A1",
+      "ipa": "/hajvan/",
+      "register": [
+        "All"
+      ],
+      "plural": "hayvanlar"
+    },
+    {
+      "id": "44afbb1a-4ba6-499a-9b5b-11c104be50bf",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "turkish": "köpek",
+      "cefr": "A1",
+      "ipa": "/køpek/",
+      "register": [
+        "All"
+      ],
+      "plural": "köpekler"
+    },
+    {
+      "id": "7dacd5df-22d5-495b-9047-edd71dc01785",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "turkish": "kedi",
+      "cefr": "A1",
+      "ipa": "/kedi/",
+      "register": [
+        "All"
+      ],
+      "plural": "kediler"
+    },
+    {
+      "id": "bff90cb0-112a-4e68-9c67-cda46bc7d1cd",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "turkish": "kuş",
+      "cefr": "A1",
+      "ipa": "/kuʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "kuşlar"
+    },
+    {
+      "id": "4eff9f3b-1fa3-4c58-9fd8-6b9ccce018fa",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "turkish": "kırmızı",
+      "cefr": "A1",
+      "ipa": "/kɯrmɯzɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8d6485b-bbc9-489b-a9e8-699ba9fb523a",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "turkish": "mavi",
+      "cefr": "A1",
+      "ipa": "/mavi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "956d9df6-91c2-40cb-957c-5635273089b7",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "turkish": "yeşil",
+      "cefr": "A1",
+      "ipa": "/jeʃil/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dc126a0-89ff-41a9-b3c7-17b432066bac",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "turkish": "sarı",
+      "cefr": "A1",
+      "ipa": "/sarɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "519c3232-731b-4bc4-a547-19a6092f7d8f",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "turkish": "siyah",
+      "cefr": "A1",
+      "ipa": "/sijah/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e78eeb8-bf39-4f93-92e8-d4b7a507e4a9",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "turkish": "beyaz",
+      "cefr": "A1",
+      "ipa": "/bejaz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44e60693-5039-4e5d-99d4-7de82f22ec2f",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "turkish": "kahverengi",
+      "cefr": "A1",
+      "ipa": "/kahverengi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13d21852-e012-4499-9174-3b929834d098",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "turkish": "pembe",
+      "cefr": "A1",
+      "ipa": "/pembe/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7936294c-4485-499b-80e2-1a2d18d93875",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "turkish": "mor",
+      "cefr": "A1",
+      "ipa": "/mor/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a27163f0-9555-4a9f-96fd-b7894c863efb",
+      "part-of-speech": "adjective",
+      "english": "gray",
+      "turkish": "gri",
+      "cefr": "A1",
+      "ipa": "/gri/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03503f7b-c325-4a11-a5d9-9b534f49ef00",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "turkish": "turuncu",
+      "cefr": "A1",
+      "ipa": "/turundʒu/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "473821db-a281-4605-9389-938d2e55ca8d",
+      "part-of-speech": "noun",
+      "english": "older sister",
+      "turkish": "abla",
+      "cefr": "A1",
+      "ipa": "/abla/",
+      "register": [
+        "All"
+      ],
+      "plural": "ablalar"
+    },
+    {
+      "id": "7d2b17bd-6e4d-46cd-9fa2-340de7a2a806",
+      "part-of-speech": "noun",
+      "english": "older brother",
+      "turkish": "abi",
+      "cefr": "A1",
+      "ipa": "/abi/",
+      "register": [
+        "All"
+      ],
+      "plural": "abiler"
+    },
+    {
+      "id": "d9b30612-f838-4b32-9403-0d9dfcf89884",
+      "part-of-speech": "noun",
+      "english": "girl, daughter",
+      "turkish": "kız",
+      "cefr": "A1",
+      "ipa": "/kɯz/",
+      "register": [
+        "All"
+      ],
+      "plural": "kızlar"
+    },
+    {
+      "id": "be569824-9012-47d3-b131-c3e90f45acc9",
+      "part-of-speech": "noun",
+      "english": "son",
+      "turkish": "oğul",
+      "cefr": "A1",
+      "ipa": "/oɰul/",
+      "register": [
+        "All"
+      ],
+      "plural": "oğullar"
+    },
+    {
+      "id": "d4627ae2-8607-4601-87f9-dda693b42077",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "turkish": "dede",
+      "cefr": "A1",
+      "ipa": "/dede/",
+      "register": [
+        "All"
+      ],
+      "plural": "dedeler"
+    },
+    {
+      "id": "fb7299a0-476b-4393-8a51-dbff63d85fdb",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "turkish": "büyükanne",
+      "cefr": "A1",
+      "ipa": "/byjykanːe/",
+      "register": [
+        "All"
+      ],
+      "plural": "büyükanneler"
+    },
+    {
+      "id": "8f02a55d-f793-4622-b809-4df0ce7affc2",
+      "part-of-speech": "noun",
+      "english": "family",
+      "turkish": "aile",
+      "cefr": "A1",
+      "ipa": "/aile/",
+      "register": [
+        "All"
+      ],
+      "plural": "aileler"
+    },
+    {
+      "id": "32dde3e9-7cfb-40c6-8a1a-323cbf801eab",
+      "part-of-speech": "noun",
+      "english": "spouse",
+      "turkish": "eş",
+      "cefr": "A1",
+      "ipa": "/eʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "eşler"
+    },
+    {
+      "id": "9f04181d-78c1-4038-b6e0-d59ac7aaaa2c",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "turkish": "büyük",
+      "cefr": "A1",
+      "ipa": "/byjyk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0ebf247-c43e-46fd-b05a-8ec8ad0635d8",
+      "part-of-speech": "adjective",
+      "english": "small",
+      "turkish": "küçük",
+      "cefr": "A1",
+      "ipa": "/kytʃyk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "871212d1-4372-4ff1-baa1-c5b2b489e13f",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "turkish": "iyi",
+      "cefr": "A1",
+      "ipa": "/iji/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f95f3e5-1910-406e-9f3f-ba82c6b5bda5",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "turkish": "kötü",
+      "cefr": "A1",
+      "ipa": "/køty/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a7ce33e-7c83-46fb-aac8-c06478b423ad",
+      "part-of-speech": "adjective",
+      "english": "beautiful, nice",
+      "turkish": "güzel",
+      "cefr": "A1",
+      "ipa": "/gyzel/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55856e07-2643-4103-8343-48d3e79cdbe4",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "turkish": "yeni",
+      "cefr": "A1",
+      "ipa": "/jeni/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79da6ce9-aa6b-4588-9254-9130156a5a58",
+      "part-of-speech": "adjective",
+      "english": "old (of things)",
+      "turkish": "eski",
+      "cefr": "A1",
+      "ipa": "/eski/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1dc2367-e927-47e2-9a71-064b08b19510",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "turkish": "genç",
+      "cefr": "A1",
+      "ipa": "/gentʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f56536bf-722f-4aee-a403-44e074cd8dd8",
+      "part-of-speech": "adjective",
+      "english": "old (of people)",
+      "turkish": "yaşlı",
+      "cefr": "A1",
+      "ipa": "/jaʃlɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b286992f-f9ca-44d9-9380-f601ef1a5fce",
+      "part-of-speech": "adjective",
+      "english": "long, tall",
+      "turkish": "uzun",
+      "cefr": "A1",
+      "ipa": "/uzun/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "929e0460-03ee-4018-aea0-fc785de923bf",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "turkish": "kısa",
+      "cefr": "A1",
+      "ipa": "/kɯsa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c0656d5-09a9-46f3-b4f5-865f12945bf4",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "turkish": "sıcak",
+      "cefr": "A1",
+      "ipa": "/sɯdʒak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3843a717-9e7b-46ca-bae0-4c8887ade1f8",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "turkish": "soğuk",
+      "cefr": "A1",
+      "ipa": "/soɰuk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b95beb7-755a-4e36-b1db-614712e5317e",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "turkish": "hızlı",
+      "cefr": "A1",
+      "ipa": "/hɯzlɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caa3c038-3fee-4415-bf7a-5e811d553bee",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "turkish": "yavaş",
+      "cefr": "A1",
+      "ipa": "/javaʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84871db8-99b9-4f95-b14b-e2815230e3e4",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "turkish": "kolay",
+      "cefr": "A1",
+      "ipa": "/kolaj/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c7a602e-8bb9-42e7-9379-0bc79aa2c478",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "turkish": "zor",
+      "cefr": "A1",
+      "ipa": "/zor/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7068c52a-7e3c-40e7-a3cf-577e8d5c815b",
+      "part-of-speech": "adjective",
+      "english": "right, true, correct",
+      "turkish": "doğru",
+      "cefr": "A1",
+      "ipa": "/doɰru/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efef47ec-1552-4690-bfc1-11b03a2fb5af",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "turkish": "yanlış",
+      "cefr": "A1",
+      "ipa": "/janlɯʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27951698-d3f0-4f18-b2c2-88bac1a1b444",
+      "part-of-speech": "adjective",
+      "english": "open; light (color)",
+      "turkish": "açık",
+      "cefr": "A1",
+      "ipa": "/atʃɯk/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fac427c2-3a1f-4fb7-ac48-fc9c141a72e2",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "turkish": "kapalı",
+      "cefr": "A1",
+      "ipa": "/kapalɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ca8bd02-3664-4721-b6ba-8b3484d8286f",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "turkish": "temiz",
+      "cefr": "A1",
+      "ipa": "/temiz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b374ecf-2d4e-4c5c-b036-201c03a3363d",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "turkish": "kirli",
+      "cefr": "A1",
+      "ipa": "/kirli/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08f05c21-ef55-4a13-a624-13c8699f0507",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "turkish": "ucuz",
+      "cefr": "A1",
+      "ipa": "/udʒuz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28678642-0d9b-4c20-9ea6-899f40e34039",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "turkish": "pahalı",
+      "cefr": "A1",
+      "ipa": "/pahalɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfcb81b5-ab85-4773-8d36-f163d851b15a",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "turkish": "mutlu",
+      "cefr": "A1",
+      "ipa": "/mutlu/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c21ad47-4e6b-4aca-9edf-5143723f6f25",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "turkish": "üzgün",
+      "cefr": "A1",
+      "ipa": "/yzgyn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c3a023b-5dde-4454-b393-eba069235f2e",
+      "part-of-speech": "adverb",
+      "english": "very, much, a lot",
+      "turkish": "çok",
+      "cefr": "A1",
+      "ipa": "/tʃok/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c433b954-ff75-46c1-beb8-35f8efecd4cb",
+      "part-of-speech": "adverb",
+      "english": "little, few",
+      "turkish": "az",
+      "cefr": "A1",
+      "ipa": "/az/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60066ea0-2c20-4cc9-919e-3a04684e69bb",
+      "part-of-speech": "adverb",
+      "english": "a little, a bit",
+      "turkish": "biraz",
+      "cefr": "A1",
+      "ipa": "/biraz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "058d67a1-6a17-4830-b2c4-8b40bc131aca",
+      "part-of-speech": "adverb",
+      "english": "more, still, yet",
+      "turkish": "daha",
+      "cefr": "A1",
+      "ipa": "/daha/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08e0bd86-2ccb-4e85-b1c2-eb44c0da214d",
+      "part-of-speech": "adverb",
+      "english": "most (superlative)",
+      "turkish": "en",
+      "cefr": "A1",
+      "ipa": "/en/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b33fc6c1-72dc-4180-a776-2d8d0a5e739c",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "turkish": "şimdi",
+      "cefr": "A1",
+      "ipa": "/ʃimdi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e03ea6f7-9b32-4206-b6ac-a0fc1a0ffabe",
+      "part-of-speech": "adverb",
+      "english": "after, later",
+      "turkish": "sonra",
+      "cefr": "A1",
+      "ipa": "/sonra/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1d6d239-fc96-44dd-817b-aec38c747308",
+      "part-of-speech": "adverb",
+      "english": "before",
+      "turkish": "önce",
+      "cefr": "A1",
+      "ipa": "/øndʒe/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0789ea4c-ea2b-4832-aff7-f4e73121d7d8",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "turkish": "bugün",
+      "cefr": "A1",
+      "ipa": "/bugyn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2535bcb0-5aae-4965-a722-ee0443b83c32",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "turkish": "yarın",
+      "cefr": "A1",
+      "ipa": "/jarɯn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf321f08-3079-4770-8961-a65e880b31e0",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "turkish": "dün",
+      "cefr": "A1",
+      "ipa": "/dyn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee9224ad-c813-4302-8d3d-94f9ec5cbb7e",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "turkish": "burada",
+      "cefr": "A1",
+      "ipa": "/burada/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4328adb1-f725-4119-be75-516fa1cd005e",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "turkish": "orada",
+      "cefr": "A1",
+      "ipa": "/orada/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34317cb4-c98f-4e0d-90ad-db9a5d274d93",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "turkish": "evet",
+      "cefr": "A1",
+      "ipa": "/evet/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f71cd83a-048a-4f7f-9aa8-84a4f4e219a9",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "turkish": "hayır",
+      "cefr": "A1",
+      "ipa": "/hajɯr/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73a24569-e1f1-4c74-b582-d50dc0b00518",
+      "part-of-speech": "interjection",
+      "english": "okay, all right",
+      "turkish": "tamam",
+      "cefr": "A1",
+      "ipa": "/tamam/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f5ac968-905b-4b76-85d8-5643d4d4bf6b",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "turkish": "lütfen",
+      "cefr": "A1",
+      "ipa": "/lytfen/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95bbb66a-d017-427c-b4ef-f7729d5a855c",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "turkish": "merhaba",
+      "cefr": "A1",
+      "ipa": "/merhaba/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09971d57-d562-4d13-9d2d-7ab0ae7f492d",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "turkish": "günaydın",
+      "cefr": "A1",
+      "ipa": "/gynajdɯn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cb8a7c3-b50c-404f-bf9a-5a93ffeca743",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "turkish": "iyi akşamlar",
+      "cefr": "A1",
+      "ipa": "/iji akʃamlar/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82ddfa77-715a-4cde-ba50-6483bfeb05ea",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "turkish": "iyi geceler",
+      "cefr": "A1",
+      "ipa": "/iji gedʒeler/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0005af67-a3ae-4a60-a61c-e8d8491f7e3b",
+      "part-of-speech": "interjection",
+      "english": "goodbye (said by the one leaving)",
+      "turkish": "hoşça kal",
+      "cefr": "A1",
+      "ipa": "/hoʃtʃa kal/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80ac052b-f48f-40a5-becf-5dc771562ad3",
+      "part-of-speech": "interjection",
+      "english": "goodbye (said to the one leaving)",
+      "turkish": "güle güle",
+      "cefr": "A1",
+      "ipa": "/gyle gyle/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b4fc73a-1685-41eb-bab6-4563c2665aa0",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "turkish": "teşekkür ederim",
+      "cefr": "A1",
+      "ipa": "/teʃekːyr ederim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1a5e760-4854-4050-82cf-2f2e23c3bdb3",
+      "part-of-speech": "interjection",
+      "english": "you’re welcome",
+      "turkish": "rica ederim",
+      "cefr": "A1",
+      "ipa": "/ridʒa ederim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e28b99d-5fea-4206-b231-d4aee1534196",
+      "part-of-speech": "interjection",
+      "english": "I’m sorry",
+      "turkish": "özür dilerim",
+      "cefr": "A1",
+      "ipa": "/øzyr dilerim/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f47b42c6-5a7d-4fe7-bdf0-073fe33082f4",
+      "part-of-speech": "interjection",
+      "english": "excuse me",
+      "turkish": "affedersiniz",
+      "cefr": "A1",
+      "ipa": "/afːedersiniz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aafe8018-c47d-4bcf-8d89-5b01e3b404d6",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "turkish": "ve",
+      "cefr": "A1",
+      "ipa": "/ve/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb87bab5-60ee-4051-b78d-bcc3d2dc3baa",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "turkish": "ama",
+      "cefr": "A1",
+      "ipa": "/ama/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d35c8d3-779c-4c6c-ba03-c189621895e3",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "turkish": "veya",
+      "cefr": "A1",
+      "ipa": "/veja/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "658c50af-f9ec-4591-a7e2-a4c35a16df00",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "turkish": "çünkü",
+      "cefr": "A1",
+      "ipa": "/tʃynky/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fc15b08-624d-48d1-a2ce-27a16f4eda54",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "turkish": "eğer",
+      "cefr": "A1",
+      "ipa": "/eɰer/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d41553b-9916-475a-91b7-95cd8fd1b6dc",
+      "part-of-speech": "preposition",
+      "english": "for, in order to",
+      "turkish": "için",
+      "cefr": "A1",
+      "ipa": "/itʃin/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52077c1f-25fe-444c-9117-1fca0dbf0add",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "turkish": "ile",
+      "cefr": "A1",
+      "ipa": "/ile/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cc1be05-0fe3-485c-a64b-7460dcd239cb",
+      "part-of-speech": "preposition",
+      "english": "like, similar to",
+      "turkish": "gibi",
+      "cefr": "A1",
+      "ipa": "/gibi/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1ca36a6-310c-4e8f-a6b1-090fa0a336a9",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "turkish": "düşünmek",
+      "cefr": "A2",
+      "ipa": "/dyʃynmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6903c10-6e32-4e36-810f-3c362fd136f6",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "turkish": "unutmak",
+      "cefr": "A2",
+      "ipa": "/unutmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35fbfc1c-856d-46c0-a21c-5ad5a357e498",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "turkish": "hatırlamak",
+      "cefr": "A2",
+      "ipa": "/hatɯrlamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfee554d-a09e-4fbb-a90c-7c9f7087f750",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "turkish": "sormak",
+      "cefr": "A2",
+      "ipa": "/sormak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88986127-2a1c-40ea-9887-6fcdb30954ef",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "turkish": "cevaplamak",
+      "cefr": "A2",
+      "ipa": "/dʒevaplamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19236f28-5aec-4773-a891-f5c80b4138ca",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "turkish": "yardım etmek",
+      "cefr": "A2",
+      "ipa": "/jardɯm etmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95bcd0d2-8b4a-4fd4-9233-553fc0bfe2e1",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "turkish": "öğrenmek",
+      "cefr": "A2",
+      "ipa": "/øɰrenmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9cc7d2f-c122-428e-a746-99514c700ea9",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "turkish": "öğretmek",
+      "cefr": "A2",
+      "ipa": "/øɰretmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6466416e-b7c6-4b52-b35d-a4c0343a5885",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "turkish": "satmak",
+      "cefr": "A2",
+      "ipa": "/satmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17fedd13-2c1d-41e4-a51e-8783fff2fc81",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "turkish": "kullanmak",
+      "cefr": "A2",
+      "ipa": "/kulːanmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0497934d-2dfc-4573-8935-e0d80a8614cf",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "turkish": "bulmak",
+      "cefr": "A2",
+      "ipa": "/bulmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e65282f-6f77-44f9-ab3e-f9a2541a72c3",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "turkish": "kaybetmek",
+      "cefr": "A2",
+      "ipa": "/kajbetmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cd72938-89ed-4645-948d-7bf3897c6fb2",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "turkish": "getirmek",
+      "cefr": "A2",
+      "ipa": "/getirmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ab2497c-0821-43f8-ba64-1f0521cad8ec",
+      "part-of-speech": "verb",
+      "english": "to take (something) away",
+      "turkish": "götürmek",
+      "cefr": "A2",
+      "ipa": "/gøtyrmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44ed661e-c834-4f4d-a2ec-172900e69a15",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "turkish": "göndermek",
+      "cefr": "A2",
+      "ipa": "/gøndermek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6a1de3e-e7fc-411d-a60c-850675d2e9ed",
+      "part-of-speech": "verb",
+      "english": "to carry",
+      "turkish": "taşımak",
+      "cefr": "A2",
+      "ipa": "/taʃɯmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "939af203-23f1-4a2a-a8d4-6d8dd48e83c6",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "turkish": "yüzmek",
+      "cefr": "A2",
+      "ipa": "/jyzmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "099029e3-d5a8-4993-aa2f-8ba0d02db383",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "turkish": "koşmak",
+      "cefr": "A2",
+      "ipa": "/koʃmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "805785f9-b8d2-44d5-b47a-79bdb48562a8",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "turkish": "yürümek",
+      "cefr": "A2",
+      "ipa": "/jyrymek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d4aac6d-fd18-40f2-891c-b72c8b067153",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "turkish": "uçmak",
+      "cefr": "A2",
+      "ipa": "/utʃmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb56ebc7-d322-4670-b5db-661679ef5f68",
+      "part-of-speech": "verb",
+      "english": "to drive, to last",
+      "turkish": "sürmek",
+      "cefr": "A2",
+      "ipa": "/syrmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc14fb57-00ca-406d-96ce-bd3a3a484d7c",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "turkish": "seyahat etmek",
+      "cefr": "A2",
+      "ipa": "/sejahat etmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d21d47b-869c-4ae8-af6a-647142b6cb54",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "turkish": "ziyaret etmek",
+      "cefr": "A2",
+      "ipa": "/zijaret etmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b9c2324-0a45-4f19-8869-4739165e564e",
+      "part-of-speech": "verb",
+      "english": "to know, to recognize (a person)",
+      "turkish": "tanımak",
+      "cefr": "A2",
+      "ipa": "/tanɯmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66467e18-583e-4876-add2-21dd483db125",
+      "part-of-speech": "verb",
+      "english": "to meet, to get acquainted",
+      "turkish": "tanışmak",
+      "cefr": "A2",
+      "ipa": "/tanɯʃmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44ef4f08-4cce-427d-9aeb-87511fc30cf0",
+      "part-of-speech": "verb",
+      "english": "to marry",
+      "turkish": "evlenmek",
+      "cefr": "A2",
+      "ipa": "/evlenmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2cebe010-1803-4c35-b4e1-78259d0ce08a",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "turkish": "doğmak",
+      "cefr": "A2",
+      "ipa": "/doɰmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbbab992-129d-4f7d-9aa1-5191bb69a00c",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "turkish": "ölmek",
+      "cefr": "A2",
+      "ipa": "/ølmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e23c13d-2d93-48c7-88d6-06973e0c588b",
+      "part-of-speech": "verb",
+      "english": "to grow up",
+      "turkish": "büyümek",
+      "cefr": "A2",
+      "ipa": "/byjymek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f00d9a6-9a92-4733-b21b-fe2addd42b87",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "turkish": "değişmek",
+      "cefr": "A2",
+      "ipa": "/deɰiʃmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87aab1e1-9552-43e3-810d-4a8839792ff3",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "turkish": "denemek",
+      "cefr": "A2",
+      "ipa": "/denemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70ecac8e-2167-4d3d-bfd7-69aae3b60f4c",
+      "part-of-speech": "verb",
+      "english": "to succeed",
+      "turkish": "başarmak",
+      "cefr": "A2",
+      "ipa": "/baʃarmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17513002-0cfb-4926-a576-72712ed8ebbe",
+      "part-of-speech": "verb",
+      "english": "to win, to earn",
+      "turkish": "kazanmak",
+      "cefr": "A2",
+      "ipa": "/kazanmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8387fd55-203d-41e9-92a2-d7e4597aa9c0",
+      "part-of-speech": "verb",
+      "english": "to spend (money)",
+      "turkish": "harcamak",
+      "cefr": "A2",
+      "ipa": "/hardʒamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "646f6459-2364-4da9-9fe7-5bdcde1a62eb",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "turkish": "ödemek",
+      "cefr": "A2",
+      "ipa": "/ødemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "040b5da0-19f2-4c9b-99cf-4d610f312721",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "turkish": "pişirmek",
+      "cefr": "A2",
+      "ipa": "/piʃirmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73c8a5ba-34ab-4eb1-89b3-985c8eb7f8ca",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "turkish": "temizlemek",
+      "cefr": "A2",
+      "ipa": "/temizlemek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e84ef30-908c-4899-9ad5-ece4c2135e0e",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "turkish": "yıkamak",
+      "cefr": "A2",
+      "ipa": "/jɯkamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9859a771-8633-4cad-b4ed-2a3d4756d729",
+      "part-of-speech": "verb",
+      "english": "to wear, to put on",
+      "turkish": "giymek",
+      "cefr": "A2",
+      "ipa": "/gijmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "402cea9b-b842-45e0-93ad-2efbac8e7411",
+      "part-of-speech": "verb",
+      "english": "to take off, to remove",
+      "turkish": "çıkarmak",
+      "cefr": "A2",
+      "ipa": "/tʃɯkarmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a77a646-1d3e-4111-89c8-1eeb08196b68",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "turkish": "taşınmak",
+      "cefr": "A2",
+      "ipa": "/taʃɯnmak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ded0f5a1-8500-4b37-b29a-051ba3d939c1",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "turkish": "seçmek",
+      "cefr": "A2",
+      "ipa": "/setʃmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92610adb-c8c6-4d80-9140-9b0af78b0629",
+      "part-of-speech": "noun",
+      "english": "life",
+      "turkish": "hayat",
+      "cefr": "A2",
+      "ipa": "/hajat/",
+      "register": [
+        "All"
+      ],
+      "plural": "hayatlar"
+    },
+    {
+      "id": "f648c8fb-59fa-4c08-a00a-54e4be892408",
+      "part-of-speech": "noun",
+      "english": "person, human being",
+      "turkish": "insan",
+      "cefr": "A2",
+      "ipa": "/insan/",
+      "register": [
+        "All"
+      ],
+      "plural": "insanlar"
+    },
+    {
+      "id": "6fd9eab5-7525-4696-b538-2d3291949c53",
+      "part-of-speech": "noun",
+      "english": "society",
+      "turkish": "toplum",
+      "cefr": "A2",
+      "ipa": "/toplum/",
+      "register": [
+        "All"
+      ],
+      "plural": "toplumlar"
+    },
+    {
+      "id": "00a190b1-bc84-48e2-94ef-a33260ba1a54",
+      "part-of-speech": "noun",
+      "english": "culture",
+      "turkish": "kültür",
+      "cefr": "A2",
+      "ipa": "/kyltyr/",
+      "register": [
+        "All"
+      ],
+      "plural": "kültürler"
+    },
+    {
+      "id": "ca505461-3851-4c4e-88c7-2f3a69e60fb4",
+      "part-of-speech": "noun",
+      "english": "language",
+      "turkish": "dil",
+      "cefr": "A2",
+      "ipa": "/dil/",
+      "register": [
+        "All"
+      ],
+      "plural": "diller"
+    },
+    {
+      "id": "086ae07d-8b47-44be-98c0-9727a7494503",
+      "part-of-speech": "noun",
+      "english": "word",
+      "turkish": "kelime",
+      "cefr": "A2",
+      "ipa": "/kelime/",
+      "register": [
+        "All"
+      ],
+      "plural": "kelimeler"
+    },
+    {
+      "id": "fa845cc5-1abb-4733-b3cb-559ee174f8aa",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "turkish": "cümle",
+      "cefr": "A2",
+      "ipa": "/dʒymle/",
+      "register": [
+        "All"
+      ],
+      "plural": "cümleler"
+    },
+    {
+      "id": "a9c2f6bd-9ec1-4939-84b1-6ca32e118e48",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "turkish": "mektup",
+      "cefr": "A2",
+      "ipa": "/mektup/",
+      "register": [
+        "All"
+      ],
+      "plural": "mektuplar"
+    },
+    {
+      "id": "bd36db93-c0f6-4a8e-81ca-e4cc54b93f2d",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "turkish": "telefon",
+      "cefr": "A2",
+      "ipa": "/telefon/",
+      "register": [
+        "All"
+      ],
+      "plural": "telefonlar"
+    },
+    {
+      "id": "b9a2350c-5904-453a-9caf-83036123371f",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "turkish": "bilgisayar",
+      "cefr": "A2",
+      "ipa": "/bilgisajar/",
+      "register": [
+        "All"
+      ],
+      "plural": "bilgisayarlar"
+    },
+    {
+      "id": "2f464bbc-6b5e-44a9-93d9-91fca492fb44",
+      "part-of-speech": "noun",
+      "english": "television",
+      "turkish": "televizyon",
+      "cefr": "A2",
+      "ipa": "/televizjon/",
+      "register": [
+        "All"
+      ],
+      "plural": "televizyonlar"
+    },
+    {
+      "id": "fd500343-56b8-4ed1-a2b9-f949b812ff47",
+      "part-of-speech": "noun",
+      "english": "radio",
+      "turkish": "radyo",
+      "cefr": "A2",
+      "ipa": "/radjo/",
+      "register": [
+        "All"
+      ],
+      "plural": "radyolar"
+    },
+    {
+      "id": "257fc03e-d78c-4cb1-8a75-562e3ede81d7",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "turkish": "gazete",
+      "cefr": "A2",
+      "ipa": "/gazete/",
+      "register": [
+        "All"
+      ],
+      "plural": "gazeteler"
+    },
+    {
+      "id": "33aecab5-0df5-4468-a273-dda9e6e9364b",
+      "part-of-speech": "noun",
+      "english": "magazine",
+      "turkish": "dergi",
+      "cefr": "A2",
+      "ipa": "/dergi/",
+      "register": [
+        "All"
+      ],
+      "plural": "dergiler"
+    },
+    {
+      "id": "fbd30b93-82bf-4629-9302-4ef3ac7414af",
+      "part-of-speech": "noun",
+      "english": "news",
+      "turkish": "haber",
+      "cefr": "A2",
+      "ipa": "/haber/",
+      "register": [
+        "All"
+      ],
+      "plural": "haberler"
+    },
+    {
+      "id": "016241fb-ccc9-4b08-b1d0-c24f320eda5a",
+      "part-of-speech": "noun",
+      "english": "movie, film",
+      "turkish": "film",
+      "cefr": "A2",
+      "ipa": "/film/",
+      "register": [
+        "All"
+      ],
+      "plural": "filmler"
+    },
+    {
+      "id": "7b597848-d322-44bf-a3fe-1c23120e91c2",
+      "part-of-speech": "noun",
+      "english": "music",
+      "turkish": "müzik",
+      "cefr": "A2",
+      "ipa": "/myzik/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "9129e157-602d-427b-9a53-57c6b1063cef",
+      "part-of-speech": "noun",
+      "english": "song",
+      "turkish": "şarkı",
+      "cefr": "A2",
+      "ipa": "/ʃarkɯ/",
+      "register": [
+        "All"
+      ],
+      "plural": "şarkılar"
+    },
+    {
+      "id": "4e845150-3cdd-4420-a692-5d49f8dd369c",
+      "part-of-speech": "noun",
+      "english": "picture, drawing",
+      "turkish": "resim",
+      "cefr": "A2",
+      "ipa": "/resim/",
+      "register": [
+        "All"
+      ],
+      "plural": "resimler"
+    },
+    {
+      "id": "6fb7cedd-1962-42e4-81c3-859f2dd083e8",
+      "part-of-speech": "noun",
+      "english": "color",
+      "turkish": "renk",
+      "cefr": "A2",
+      "ipa": "/renk/",
+      "register": [
+        "All"
+      ],
+      "plural": "renkler"
+    },
+    {
+      "id": "418e1681-9f31-4244-b29b-46c004f1da1a",
+      "part-of-speech": "noun",
+      "english": "shape",
+      "turkish": "şekil",
+      "cefr": "A2",
+      "ipa": "/ʃekil/",
+      "register": [
+        "All"
+      ],
+      "plural": "şekiller"
+    },
+    {
+      "id": "42ba6128-951e-4a8a-a233-258565c7697b",
+      "part-of-speech": "noun",
+      "english": "price",
+      "turkish": "fiyat",
+      "cefr": "A2",
+      "ipa": "/fijat/",
+      "register": [
+        "All"
+      ],
+      "plural": "fiyatlar"
+    },
+    {
+      "id": "2ef26f8b-4a05-4045-97f4-ea852fd609b8",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "turkish": "dükkan",
+      "cefr": "A2",
+      "ipa": "/dykːan/",
+      "register": [
+        "All"
+      ],
+      "plural": "dükkanlar"
+    },
+    {
+      "id": "ac2aafd6-4f80-4aab-b68c-2fb508f8a9b7",
+      "part-of-speech": "noun",
+      "english": "market, bazaar",
+      "turkish": "pazar",
+      "cefr": "A2",
+      "ipa": "/pazar/",
+      "register": [
+        "All"
+      ],
+      "plural": "pazarlar"
+    },
+    {
+      "id": "7d89e240-3609-44c3-aa2c-64b01982cf47",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "turkish": "pazar",
+      "cefr": "A2",
+      "ipa": "/pazar/",
+      "register": [
+        "All"
+      ],
+      "plural": "pazarlar"
+    },
+    {
+      "id": "4ddc2e7f-f059-499c-9419-046cc4fc42d0",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "turkish": "otobüs",
+      "cefr": "A2",
+      "ipa": "/otobys/",
+      "register": [
+        "All"
+      ],
+      "plural": "otobüsler"
+    },
+    {
+      "id": "61cf6a26-e8d0-4a0a-91a8-b9f904a68316",
+      "part-of-speech": "noun",
+      "english": "train",
+      "turkish": "tren",
+      "cefr": "A2",
+      "ipa": "/tren/",
+      "register": [
+        "All"
+      ],
+      "plural": "trenler"
+    },
+    {
+      "id": "eae4ca11-3752-4398-8e0e-8677a642e15d",
+      "part-of-speech": "noun",
+      "english": "airplane",
+      "turkish": "uçak",
+      "cefr": "A2",
+      "ipa": "/utʃak/",
+      "register": [
+        "All"
+      ],
+      "plural": "uçaklar"
+    },
+    {
+      "id": "d5b9ea68-dd7a-4316-8344-da8b822a8084",
+      "part-of-speech": "noun",
+      "english": "ship",
+      "turkish": "gemi",
+      "cefr": "A2",
+      "ipa": "/gemi/",
+      "register": [
+        "All"
+      ],
+      "plural": "gemiler"
+    },
+    {
+      "id": "92104feb-fafb-4ca2-95fe-e2f049e122b7",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "turkish": "bisiklet",
+      "cefr": "A2",
+      "ipa": "/bisiklet/",
+      "register": [
+        "All"
+      ],
+      "plural": "bisikletler"
+    },
+    {
+      "id": "b87a2fab-6671-4e35-8044-4058ebd49bf8",
+      "part-of-speech": "noun",
+      "english": "road, way",
+      "turkish": "yol",
+      "cefr": "A2",
+      "ipa": "/jol/",
+      "register": [
+        "All"
+      ],
+      "plural": "yollar"
+    },
+    {
+      "id": "3938a4fb-8884-4c53-bae8-e7b23625b61b",
+      "part-of-speech": "noun",
+      "english": "bridge",
+      "turkish": "köprü",
+      "cefr": "A2",
+      "ipa": "/køpry/",
+      "register": [
+        "All"
+      ],
+      "plural": "köprüler"
+    },
+    {
+      "id": "cd3aa944-0d6e-4b3f-b563-58ce4844deb9",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "turkish": "hastane",
+      "cefr": "A2",
+      "ipa": "/hastane/",
+      "register": [
+        "All"
+      ],
+      "plural": "hastaneler"
+    },
+    {
+      "id": "5dce6f51-a2b1-4c1e-a4e6-02a576ae7cd5",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "turkish": "doktor",
+      "cefr": "A2",
+      "ipa": "/doktor/",
+      "register": [
+        "All"
+      ],
+      "plural": "doktorlar"
+    },
+    {
+      "id": "2d642d94-b0b1-47d2-aaa2-c9adce282b83",
+      "part-of-speech": "adjective",
+      "english": "sick, ill; patient",
+      "turkish": "hasta",
+      "cefr": "A2",
+      "ipa": "/hasta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25bd2d39-78fb-4a98-8abd-f6327819f0d5",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "turkish": "ilaç",
+      "cefr": "A2",
+      "ipa": "/ilatʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "ilaçlar"
+    },
+    {
+      "id": "e8fbc48f-47c4-42dd-842a-95eee769e6f7",
+      "part-of-speech": "noun",
+      "english": "health",
+      "turkish": "sağlık",
+      "cefr": "A2",
+      "ipa": "/saɰlɯk/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "118d69ee-1d16-4914-8ce2-7612958dcc5b",
+      "part-of-speech": "noun",
+      "english": "body",
+      "turkish": "vücut",
+      "cefr": "A2",
+      "ipa": "/vydʒut/",
+      "register": [
+        "All"
+      ],
+      "plural": "vücutlar"
+    },
+    {
+      "id": "7306f55e-2aeb-4a8b-9c4b-5fbf1b3da4a0",
+      "part-of-speech": "noun",
+      "english": "head",
+      "turkish": "baş",
+      "cefr": "A2",
+      "ipa": "/baʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "başlar"
+    },
+    {
+      "id": "98376e92-55d2-4432-bd36-0cf2eb8b89b5",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "turkish": "el",
+      "cefr": "A2",
+      "ipa": "/el/",
+      "register": [
+        "All"
+      ],
+      "plural": "eller"
+    },
+    {
+      "id": "5338013d-0282-4147-8a3a-3adcaad9d67a",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "turkish": "ayak",
+      "cefr": "A2",
+      "ipa": "/ajak/",
+      "register": [
+        "All"
+      ],
+      "plural": "ayaklar"
+    },
+    {
+      "id": "ae1ab44f-1f8f-4fc6-abec-50dfb493034c",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "turkish": "göz",
+      "cefr": "A2",
+      "ipa": "/gøz/",
+      "register": [
+        "All"
+      ],
+      "plural": "gözler"
+    },
+    {
+      "id": "39f29679-9390-4e34-a518-12bafe6db680",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "turkish": "kulak",
+      "cefr": "A2",
+      "ipa": "/kulak/",
+      "register": [
+        "All"
+      ],
+      "plural": "kulaklar"
+    },
+    {
+      "id": "f5b877d0-52a0-490a-9358-cbc9f3bd9a47",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "turkish": "burun",
+      "cefr": "A2",
+      "ipa": "/burun/",
+      "register": [
+        "All"
+      ],
+      "plural": "burunlar"
+    },
+    {
+      "id": "25fbf8fd-fbaf-4c30-93d3-cbbf13c942cc",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "turkish": "ağız",
+      "cefr": "A2",
+      "ipa": "/aɰɯz/",
+      "register": [
+        "All"
+      ],
+      "plural": "ağızlar"
+    },
+    {
+      "id": "4d84e4db-7780-482d-9c5e-193ff079ad0f",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "turkish": "saç",
+      "cefr": "A2",
+      "ipa": "/satʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "saçlar"
+    },
+    {
+      "id": "c57dca00-b8c8-4ce6-9857-2748872bb963",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "turkish": "kalp",
+      "cefr": "A2",
+      "ipa": "/kalp/",
+      "register": [
+        "All"
+      ],
+      "plural": "kalplar"
+    },
+    {
+      "id": "d51e8814-5b79-43e2-b421-46c71528cbff",
+      "part-of-speech": "noun",
+      "english": "weather, air",
+      "turkish": "hava",
+      "cefr": "A2",
+      "ipa": "/hava/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "d267b79d-4a17-4b21-9686-cf6166f16b9c",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "turkish": "yağmur",
+      "cefr": "A2",
+      "ipa": "/jaɰmur/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "23d8928c-37b2-4c16-85a3-bcb0aa4ff55c",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "turkish": "kar",
+      "cefr": "A2",
+      "ipa": "/kar/",
+      "register": [
+        "All"
+      ],
+      "countability": "mass"
+    },
+    {
+      "id": "b8367729-53bd-4500-89c7-0e6dd4ba8fe1",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "turkish": "güneş",
+      "cefr": "A2",
+      "ipa": "/gyneʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "güneşler"
+    },
+    {
+      "id": "dba51093-873e-494d-97e8-4952ad12c827",
+      "part-of-speech": "noun",
+      "english": "star",
+      "turkish": "yıldız",
+      "cefr": "A2",
+      "ipa": "/jɯldɯz/",
+      "register": [
+        "All"
+      ],
+      "plural": "yıldızlar"
+    },
+    {
+      "id": "aeeeaf06-c3f4-493b-9f0c-27cb924771d0",
+      "part-of-speech": "noun",
+      "english": "season",
+      "turkish": "mevsim",
+      "cefr": "A2",
+      "ipa": "/mevsim/",
+      "register": [
+        "All"
+      ],
+      "plural": "mevsimler"
+    },
+    {
+      "id": "fec9fc93-5578-41cb-b9a6-d127bb539720",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "turkish": "kış",
+      "cefr": "A2",
+      "ipa": "/kɯʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "kışlar"
+    },
+    {
+      "id": "d8076051-ff90-4565-93fb-eb69ba1ef9b5",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "turkish": "yaz",
+      "cefr": "A2",
+      "ipa": "/jaz/",
+      "register": [
+        "All"
+      ],
+      "plural": "yazlar"
+    },
+    {
+      "id": "52921491-b472-4b20-b3ba-ac7dc4baefee",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "turkish": "ilkbahar",
+      "cefr": "A2",
+      "ipa": "/ilkbahar/",
+      "register": [
+        "All"
+      ],
+      "plural": "ilkbaharlar"
+    },
+    {
+      "id": "95a33a17-fa36-4b8c-9388-262168493b49",
+      "part-of-speech": "noun",
+      "english": "autumn, fall",
+      "turkish": "sonbahar",
+      "cefr": "A2",
+      "ipa": "/sonbahar/",
+      "register": [
+        "All"
+      ],
+      "plural": "sonbaharlar"
+    },
+    {
+      "id": "867aa861-5c39-47f9-b1b1-7fc4f04a6113",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "turkish": "sabah",
+      "cefr": "A2",
+      "ipa": "/sabah/",
+      "register": [
+        "All"
+      ],
+      "plural": "sabahlar"
+    },
+    {
+      "id": "d40e7f79-08d6-449e-8828-81a151c7e519",
+      "part-of-speech": "noun",
+      "english": "noon",
+      "turkish": "öğle",
+      "cefr": "A2",
+      "ipa": "/øɰle/",
+      "register": [
+        "All"
+      ],
+      "plural": "öğleler"
+    },
+    {
+      "id": "cd1bffb6-6970-47ae-a8da-11e82267a033",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "turkish": "akşam",
+      "cefr": "A2",
+      "ipa": "/akʃam/",
+      "register": [
+        "All"
+      ],
+      "plural": "akşamlar"
+    },
+    {
+      "id": "29daa329-f574-49c5-8ccc-690b17a456a2",
+      "part-of-speech": "noun",
+      "english": "night",
+      "turkish": "gece",
+      "cefr": "A2",
+      "ipa": "/gedʒe/",
+      "register": [
+        "All"
+      ],
+      "plural": "geceler"
+    },
+    {
+      "id": "3e735ca6-875c-46f7-bcbf-20b026df11bb",
+      "part-of-speech": "noun",
+      "english": "profession, occupation",
+      "turkish": "meslek",
+      "cefr": "A2",
+      "ipa": "/meslek/",
+      "register": [
+        "All"
+      ],
+      "plural": "meslekler"
+    },
+    {
+      "id": "95d29911-eaf3-4186-b3fe-ae0cef037538",
+      "part-of-speech": "noun",
+      "english": "idea, opinion",
+      "turkish": "fikir",
+      "cefr": "A2",
+      "ipa": "/fikir/",
+      "register": [
+        "All"
+      ],
+      "plural": "fikirler"
+    },
+    {
+      "id": "09e05786-1376-40e9-8c2f-61bdd0196261",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "turkish": "sorun",
+      "cefr": "A2",
+      "ipa": "/sorun/",
+      "register": [
+        "All"
+      ],
+      "plural": "sorunlar"
+    },
+    {
+      "id": "c1df2adf-4bd1-4a5c-8d4f-13e6b669cebc",
+      "part-of-speech": "noun",
+      "english": "solution",
+      "turkish": "çözüm",
+      "cefr": "A2",
+      "ipa": "/tʃøzym/",
+      "register": [
+        "All"
+      ],
+      "plural": "çözümler"
+    },
+    {
+      "id": "c0f844ca-36d3-43d8-baea-ade50a0547a9",
+      "part-of-speech": "noun",
+      "english": "reason, cause",
+      "turkish": "sebep",
+      "cefr": "A2",
+      "ipa": "/sebep/",
+      "register": [
+        "All"
+      ],
+      "plural": "sebepler"
+    },
+    {
+      "id": "cff2db2f-0f1b-460e-9139-cf23bfd44c02",
+      "part-of-speech": "noun",
+      "english": "result",
+      "turkish": "sonuç",
+      "cefr": "A2",
+      "ipa": "/sonutʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "sonuçlar"
+    },
+    {
+      "id": "5ad33c55-3d16-4de2-902a-074a9467621a",
+      "part-of-speech": "noun",
+      "english": "goal, purpose",
+      "turkish": "amaç",
+      "cefr": "A2",
+      "ipa": "/amatʃ/",
+      "register": [
+        "All"
+      ],
+      "plural": "amaçlar"
+    },
+    {
+      "id": "ea96224f-2218-4f26-8ac9-24e171f0fc4c",
+      "part-of-speech": "noun",
+      "english": "plan",
+      "turkish": "plan",
+      "cefr": "A2",
+      "ipa": "/plan/",
+      "register": [
+        "All"
+      ],
+      "plural": "planlar"
+    },
+    {
+      "id": "17ec04d0-437b-4ecf-a477-e09c22b878ea",
+      "part-of-speech": "noun",
+      "english": "decision",
+      "turkish": "karar",
+      "cefr": "A2",
+      "ipa": "/karar/",
+      "register": [
+        "All"
+      ],
+      "plural": "kararlar"
+    },
+    {
+      "id": "7f81c6e5-b0f6-4c69-ab46-8b4fb253b53f",
+      "part-of-speech": "noun",
+      "english": "question",
+      "turkish": "soru",
+      "cefr": "A2",
+      "ipa": "/soru/",
+      "register": [
+        "All"
+      ],
+      "plural": "sorular"
+    },
+    {
+      "id": "a8c4f717-eb7a-44df-bded-34c1a5088ded",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "turkish": "cevap",
+      "cefr": "A2",
+      "ipa": "/dʒevap/",
+      "register": [
+        "All"
+      ],
+      "plural": "cevaplar"
+    },
+    {
+      "id": "090a70c2-1480-4bef-8283-444d3995df49",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "turkish": "ilginç",
+      "cefr": "A2",
+      "ipa": "/ilgintʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7030ae95-f896-4a74-a5ee-9a926b8b181f",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "turkish": "sıkıcı",
+      "cefr": "A2",
+      "ipa": "/sɯkɯdʒɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "851cb406-f76a-471c-b521-af53d713722a",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "turkish": "önemli",
+      "cefr": "A2",
+      "ipa": "/ønemli/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f0add90-4144-46f3-87fa-0ce5490be7ca",
+      "part-of-speech": "adjective",
+      "english": "necessary",
+      "turkish": "gerekli",
+      "cefr": "A2",
+      "ipa": "/gerekli/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65a97193-bfa8-4106-9239-65dabe088307",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "turkish": "mümkün",
+      "cefr": "A2",
+      "ipa": "/mymkyn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e8d6c69-538b-4e88-b3f3-a062459bfcfa",
+      "part-of-speech": "adjective",
+      "english": "impossible",
+      "turkish": "imkansız",
+      "cefr": "A2",
+      "ipa": "/imkansɯz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63f273ce-422e-4f19-af56-9becab6ab22e",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "turkish": "farklı",
+      "cefr": "A2",
+      "ipa": "/farklɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4af0664-17ec-4021-935a-da0af9107190",
+      "part-of-speech": "adjective",
+      "english": "similar",
+      "turkish": "benzer",
+      "cefr": "A2",
+      "ipa": "/benzer/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fe98253-aa79-4a7f-9812-656069c1e89a",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "turkish": "aynı",
+      "cefr": "A2",
+      "ipa": "/ajnɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0f8f81d-ea8a-4c63-a47a-61b2c6cb8f97",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "turkish": "başka",
+      "cefr": "A2",
+      "ipa": "/baʃka/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4087f97c-3d56-48bc-a57f-a0d47a665886",
+      "part-of-speech": "adjective",
+      "english": "some",
+      "turkish": "bazı",
+      "cefr": "A2",
+      "ipa": "/bazɯ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dadff3e-bd66-4882-8773-a9639d4eb6e2",
+      "part-of-speech": "adjective",
+      "english": "every, each",
+      "turkish": "her",
+      "cefr": "A2",
+      "ipa": "/her/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5add490-5ae6-492d-8058-23cd61a1d87f",
+      "part-of-speech": "adjective",
+      "english": "whole, all",
+      "turkish": "bütün",
+      "cefr": "A2",
+      "ipa": "/bytyn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59e95a88-66ab-4eec-85af-8dfb3747cddd",
+      "part-of-speech": "adjective",
+      "english": "a few, several",
+      "turkish": "birkaç",
+      "cefr": "A2",
+      "ipa": "/birkatʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f973334-9192-4c75-9ec1-fbb6da4897b0",
+      "part-of-speech": "adjective",
+      "english": "natural",
+      "turkish": "doğal",
+      "cefr": "A2",
+      "ipa": "/doɰal/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f341eb26-9bc6-4c10-88c9-c0e2799ebf45",
+      "part-of-speech": "adjective",
+      "english": "real, true",
+      "turkish": "gerçek",
+      "cefr": "A2",
+      "ipa": "/gertʃek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58488382-4611-4759-9633-ba3d23aadc64",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "turkish": "hazır",
+      "cefr": "A2",
+      "ipa": "/hazɯr/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "894c0f74-e3ec-4cbd-97e1-0380ac34a498",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "turkish": "meşgul",
+      "cefr": "A2",
+      "ipa": "/meʃgul/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e5edb32-903e-4950-9a7d-0820fe680e66",
+      "part-of-speech": "adjective",
+      "english": "free (unoccupied)",
+      "turkish": "serbest",
+      "cefr": "A2",
+      "ipa": "/serbest/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac0fa7c2-ae1b-48d2-8849-bd12c9d82b22",
+      "part-of-speech": "adjective",
+      "english": "certain, definite",
+      "turkish": "kesin",
+      "cefr": "A2",
+      "ipa": "/kesin/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3600a798-a99b-4d9a-b48e-461386d00a01",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "turkish": "bazen",
+      "cefr": "A2",
+      "ipa": "/bazen/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11dc4978-cc89-4bbb-9107-b6daf47b654e",
+      "part-of-speech": "adverb",
+      "english": "immediately, right away",
+      "turkish": "hemen",
+      "cefr": "A2",
+      "ipa": "/hemen/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e064fcbe-b5fc-4680-ae9f-efbcd677f95d",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "turkish": "birlikte",
+      "cefr": "A2",
+      "ipa": "/birlikte/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "609e90ba-56ef-4323-97b1-af1211aa7e61",
+      "part-of-speech": "adverb",
+      "english": "alone; only",
+      "turkish": "yalnız",
+      "cefr": "A2",
+      "ipa": "/jalnɯz/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b42397bb-b48a-46a7-85f7-7bafeeb6b6eb",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "turkish": "belki",
+      "cefr": "A2",
+      "ipa": "/belki/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f60e1a5a-9db5-48fc-a03a-310752021f18",
+      "part-of-speech": "adverb",
+      "english": "never, not at all",
+      "turkish": "hiç",
+      "cefr": "A2",
+      "ipa": "/hitʃ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e300c71-d3c4-42be-bfbb-b6571f9ea19c",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "turkish": "tekrar",
+      "cefr": "A2",
+      "ipa": "/tekrar/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "538cbf8c-f713-454c-b491-98b91b075947",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "turkish": "yine",
+      "cefr": "A2",
+      "ipa": "/jine/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93bd172e-cf94-4779-a0cf-d27f26586863",
+      "part-of-speech": "conjunction",
+      "english": "that (introduces a clause)",
+      "turkish": "ki",
+      "cefr": "A2",
+      "ipa": "/ki/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa143bc8-b4ab-4068-b25a-ffb38f0654bb",
+      "part-of-speech": "preposition",
+      "english": "as much as, until",
+      "turkish": "kadar",
+      "cefr": "A2",
+      "ipa": "/kadar/",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

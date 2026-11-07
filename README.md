@@ -40,4 +40,16 @@ After that first approval, it launches normally like any other app.
 
 ## Data
 
-Vocabulary, reading passages, and script-guide content live in `language-data/*.json`, tracked in git. Per-word learning progress (scores, learned status) is stored separately in `language-data/*-progress.json`, which is gitignored and generated automatically the first time you use each language — a fresh install or a fresh clone always starts with no progress.
+The `language-data/*.json` files in this repo are the app's content: vocabulary, reading passages, and script-guide content, tracked in git. The app reads them straight from its bundle, so every install or update ships the latest content. Learners can't change content.
+
+Anything the app itself writes — your learning progress and preferences — lives outside the app entirely, in `~/Library/Application Support/language-teacher/`. Because this lives outside the app bundle, reinstalling or updating the app never wipes it.
+
+Builds before 1.14.0 kept an editable personal copy of each vocabulary file there. On first launch of 1.14.0 or later, those copies are moved into `language-data/retired/` (never deleted). Any word in a copy that differed from the shipped file is also saved to `retired/<language>-unshipped-edits.json`, so an edit that never made it into the repo can be recovered.
+
+## Editing vocabulary (creator only)
+
+```bash
+npm run edit
+```
+
+This launches the app from source in editor mode (the version label on the welcome screen reads "· Editor"). It turns on Edit Word, Duplicate, and bulk Duplicate, and saves go straight into `language-data/` in this repo, so every edit shows up in `git diff` to review and commit. Editor mode is never available in a packaged build; `npm start` runs from source without it.

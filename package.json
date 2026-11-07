@@ -1,10 +1,11 @@
 {
   "name": "language-teacher",
-  "version": "1.0.0",
+  "version": "1.14.3",
   "description": "Language learning app for macOS",
   "main": "app/main.js",
   "scripts": {
     "start": "ELECTRON_RUN_AS_NODE= electron .",
+    "edit": "ELECTRON_RUN_AS_NODE= LT_EDITOR=1 electron .",
     "dist": "electron-builder --mac"
   },
   "devDependencies": {
@@ -15,18 +16,21 @@
     "appId": "com.languageteacher.app",
     "productName": "Language Teacher",
     "directories": {
-      "output": "dist"
+      "output": "dist",
+      "buildResources": "assets"
     },
     "files": [
       "app/**/*",
       "language-data/**/*",
       "package.json",
+      "CHANGELOG.md",
       "!language-data/*-progress.json"
     ],
     "asar": false,
     "mac": {
       "category": "public.app-category.education",
-      "target": "dmg"
+      "target": "dmg",
+      "icon": "assets/icon.icns"
     }
   }
 }

@@ -1,10 +1,143 @@
 'use strict'
 
 // ── Constants ───────────────────────────────────────
-const WORDS_PER_SESSION    = 20
-const WORDS_PER_SESSION_A0 = 8   // A0 (script basics) is dense/unfamiliar — smaller chunks
 function learnedThreshold() { return currentMeta?.learnedThreshold ?? 10 }
 const CHOICES_COUNT     = 6
+
+// ── Color Schemes ─────────────────────────────────────
+// A scheme is just these 9 values — every hover tint, focus ring, and
+// selected-row color elsewhere in the app is computed from --accent/--bg/
+// --surface via color-mix() in styles.css, so adding a new scheme never
+// touches CSS: add an entry here and it shows up in Preferences and works
+// everywhere, automatically. Every scheme must set every key (even ones
+// equal to the default) — applyColorScheme() only writes the keys a scheme
+// lists, so a key missing from one scheme would leak the previous scheme's
+// value in on switch.
+//
+// The 6 non-default schemes are adapted from well-known editor/terminal
+// color schemes, which are designed to sit on a *dark* background — their
+// signature accent colors (Nord's frost cyan, Dracula's purple, etc.) are
+// usually too light to read as white-on-accent or as text on this app's
+// light surface (several measured under 2.5:1 contrast with white). Each
+// one below uses a darker member of the same palette instead — either an
+// official "light mode" flavor some of these themes ship (Catppuccin
+// Latte, Rosé Pine Dawn) or a manually darkened variant where no such
+// flavor exists — chosen to clear at least 4:1 contrast against white.
+const COLOR_SCHEMES = [
+  {
+    id: 'ocean-blue',
+    name: 'Ocean Blue',
+    tokens: {
+      '--accent':       '#0071e3',
+      '--accent-hover': '#0077ed',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f5f5f7',
+      '--surface':      '#ffffff',
+      '--surface-2':    '#f0f0f2',
+      '--welcome-1':    '#1a1a2e',
+      '--welcome-2':    '#16213e',
+      '--welcome-3':    '#0f3460',
+    },
+  },
+  {
+    id: 'nordic-frost',
+    name: 'Nordic Frost',
+    tokens: {
+      '--accent':       '#5e81ac', // Nord's own darker "frost" blue (nord10), not the lighter nord8 cyan
+      '--accent-hover': '#6f91bc',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f2f4f6',
+      '--surface':      '#ffffff',
+      '--surface-2':    '#e7ecef',
+      '--welcome-1':    '#2e3440',
+      '--welcome-2':    '#3b4252',
+      '--welcome-3':    '#434c5e',
+    },
+  },
+  {
+    id: 'dracula',
+    name: 'Dracula',
+    tokens: {
+      '--accent':       '#7c4deb', // Dracula's purple, manually darkened — no official light variant
+      '--accent-hover': '#9468f0',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f6f4fb',
+      '--surface':      '#ffffff',
+      '--surface-2':    '#ece7f7',
+      '--welcome-1':    '#282a36',
+      '--welcome-2':    '#21222c',
+      '--welcome-3':    '#1a1b23',
+    },
+  },
+  {
+    id: 'mocha-mauve',
+    name: 'Mocha Mauve',
+    tokens: {
+      '--accent':       '#8839ef', // Catppuccin's own Latte (light-mode) mauve, not Mocha's lighter one
+      '--accent-hover': '#9b55f2',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f5f3fb',
+      '--surface':      '#ffffff',
+      '--surface-2':    '#eae6f7',
+      '--welcome-1':    '#1e1e2e',
+      '--welcome-2':    '#181825',
+      '--welcome-3':    '#11111b',
+    },
+  },
+  {
+    id: 'retro-gruvbox',
+    name: 'Retro Gruvbox',
+    tokens: {
+      '--accent':       '#af3a03', // Gruvbox's own "faded orange" — darker than the iconic bright orange, reads better
+      '--accent-hover': '#c2470c',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f8f3e8',
+      '--surface':      '#fffdf7',
+      '--surface-2':    '#f0e6d2',
+      '--welcome-1':    '#282828',
+      '--welcome-2':    '#32302f',
+      '--welcome-3':    '#3c3836',
+    },
+  },
+  {
+    id: 'tokyo-night',
+    name: 'Tokyo Night',
+    tokens: {
+      '--accent':       '#3760bf', // Tokyo Night's blue, darkened toward its "Day" light variant
+      '--accent-hover': '#4a72d6',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f1f4fc',
+      '--surface':      '#ffffff',
+      '--surface-2':    '#e4e9f8',
+      '--welcome-1':    '#1a1b26',
+      '--welcome-2':    '#1f2335',
+      '--welcome-3':    '#24283b',
+    },
+  },
+  {
+    id: 'rose-pine',
+    name: 'Rosé Pine',
+    tokens: {
+      '--accent':       '#b4637a', // Rosé Pine Dawn's (light-mode) "love" — its "rose" was still too light even in Dawn
+      '--accent-hover': '#c17689',
+      '--on-accent':    '#ffffff',
+      '--bg':           '#f8f2f1',
+      '--surface':      '#fffdfc',
+      '--surface-2':    '#f0e1df',
+      '--welcome-1':    '#191724',
+      '--welcome-2':    '#1f1d2e',
+      '--welcome-3':    '#26233a',
+    },
+  },
+]
+const DEFAULT_COLOR_SCHEME = COLOR_SCHEMES[0].id
+
+function applyColorScheme(id) {
+  const scheme = COLOR_SCHEMES.find(s => s.id === id) || COLOR_SCHEMES[0]
+  for (const [prop, value] of Object.entries(scheme.tokens)) {
+    document.documentElement.style.setProperty(prop, value)
+  }
+}
 
 // ── State ────────────────────────────────────────────
 let allWords       = []
@@ -17,12 +150,18 @@ let sessionScore   = 0
 let sessionCorrect = 0
 let sessionTotal   = 0
 let sessionResults = []
+let introWords     = []   // this session's brand-new words, introduced before the quiz
+let introIndex     = 0
 let autoAdvanceTimer  = null
 let editReturnScreen   = 'quiz-screen'
 let searchReturnScreen = 'welcome-screen'
 let savedQuizQ         = null
 let lastDuplicatePair  = null   // { sourceId, newId } — positions dup below source after render
 let searchResultsFull  = []     // full filtered+sorted result set
+let editorMode           = false
+let preferences          = {}   // { favoriteLanguages: [slug, ...] } — persisted across launches
+let allLanguageEntries   = []   // cached window.api.listContent() result
+let languagePickerShowAll = false // transient — resets each time the welcome screen loads
 let searchPage         = 0      // current page index (0-based)
 const SEARCH_PAGE_SIZE = 200
 let openKebabRowId     = null   // id of the row whose action menu is currently open, or null
@@ -32,21 +171,23 @@ let searchPageIds      = []     // ids of the rows on the currently-rendered pag
 // Attributes the user can toggle on/off in the Browse Words table via the
 // Columns picker. 'target'/'english'/'pos'/'cefr'/'score' are shown by
 // default, matching the table's original fixed layout; the rest are opt-in.
+// learnerOnly columns show progress, so they're left out in editor mode.
 const AVAILABLE_COLUMNS = [
   { id: 'target',       label: 'Word',          default: true,  render: w => escHtml(formatTarget(w)) },
   { id: 'english',      label: 'English',       default: true,  render: w => escHtml(w.english || '') },
   { id: 'pos',          label: 'Part of Speech', default: true, render: w => `<span class="pos-badge">${escHtml((w['part-of-speech'] || '').slice(0, 8))}</span>` },
   { id: 'cefr',         label: 'CEFR Level',    default: true,  render: w => `<span class="cefr-badge cefr-${escHtml(w.cefr || '')}">${escHtml(w.cefr || '—')}</span>` },
-  { id: 'score',        label: 'Score',         default: true,  render: w => escHtml(w.learned ? '✓ Learned' : (w.score > 0 ? `${w.score} / ${learnedThreshold()}` : '—')) },
+  { id: 'score',        label: 'Score',         default: true,  learnerOnly: true, render: w => escHtml(w.learned ? '✓ Learned' : (w.score > 0 ? `${w.score} / ${learnedThreshold()}` : '—')) },
   { id: 'gender',       label: 'Gender',        default: false, render: w => escHtml(w.gender || '—') },
   { id: 'register',     label: 'Register',      default: false, render: w => escHtml((w.register && w.register.length ? w.register : ['All']).join(', ')) },
-  { id: 'ipa',          label: 'IPA',           default: false, render: w => escHtml(w.ipa || '—') },
+  { id: 'ipa',          label: 'IPA',           default: false, render: w => escHtml(formatPronunciation(w) || '—') },
   { id: 'grammar',      label: 'Grammar',       default: false, render: w => escHtml(w.grammar || '—') },
   { id: 'context',      label: 'Context',       default: false, render: w => escHtml(w.context || '—') },
   { id: 'plural',       label: 'Plural',        default: false, render: w => escHtml(w.plural || '—') },
   { id: 'countability', label: 'Countability',  default: false, render: w => escHtml(w.countability || 'countable') },
 ]
 let searchVisibleColumns = new Set(AVAILABLE_COLUMNS.filter(c => c.default).map(c => c.id))
+const browseColumns = () => AVAILABLE_COLUMNS.filter(c => !(editorMode && c.learnerOnly))
 
 // ── Reading Comprehension State ───────────────────────
 let readingPassages    = []
@@ -150,6 +291,85 @@ function targetFieldName() {
   return currentMeta?.targetField || 'german'
 }
 
+// Tone lives separately from ipa (word.tone: one small integer per syllable,
+// 0 = neutral, 1-4 = the four tones) so ipa stays a plain, language-agnostic
+// pronunciation string everywhere else in the app. Dense contexts (the
+// Browse table) get this plain-text digit form instead of the full glyph
+// below — legible at a glance in a data table without SVG clutter.
+const TONE_DIGIT = { 0: '', 1: '¹', 2: '²', 3: '³', 4: '⁴' }
+function formatPronunciation(word) {
+  if (!word.ipa) return ''
+  if (!word.tone || !word.tone.length) return word.ipa
+  return word.ipa + word.tone.map(t => TONE_DIGIT[t] || '').join('')
+}
+
+// ── Tone glyphs (Mandarin) ──────────────────────────
+// A contour sparkline over each syllable's own ipa chunk, colored per tone —
+// the character conveys meaning, not sound, so the glyph rides with the
+// pronunciation text (word.ipaSyllables), not with the character itself.
+const TONE_GLYPH = {
+  1: { color: '#3B7DD8', d: 'M4,9 L26,9' },
+  2: { color: '#2FA66B', d: 'M4,16 L26,4' },
+  3: { color: '#8B5CF6', d: 'M4,8 C11,19 19,19 26,4' },
+  4: { color: '#E24C4C', d: 'M4,4 L26,18' },
+}
+const SVG_NS = 'http://www.w3.org/2000/svg'
+
+function toneSvg(tone) {
+  const svg = document.createElementNS(SVG_NS, 'svg')
+  svg.setAttribute('viewBox', '0 0 30 20')
+  svg.setAttribute('width', '20')
+  svg.setAttribute('height', '13')
+  const glyph = TONE_GLYPH[tone]
+  if (!glyph) {
+    const circle = document.createElementNS(SVG_NS, 'circle')
+    circle.setAttribute('cx', '15')
+    circle.setAttribute('cy', '12')
+    circle.setAttribute('r', '2.5')
+    circle.setAttribute('fill', '#B0B0B6')
+    svg.appendChild(circle)
+    return svg
+  }
+  const path = document.createElementNS(SVG_NS, 'path')
+  path.setAttribute('d', glyph.d)
+  path.setAttribute('stroke', glyph.color)
+  path.setAttribute('stroke-width', '3')
+  path.setAttribute('fill', 'none')
+  path.setAttribute('stroke-linecap', 'round')
+  svg.appendChild(path)
+  return svg
+}
+
+// Builds the "[ ni² xau̯³ ]"-style bracket as real DOM (needed for the SVG
+// glyphs — a CSS ::after/attr() tooltip can only hold plain text). Returns
+// null for any word without per-syllable tone data, so callers fall back
+// to plain ipa text — every language except Chinese, unchanged.
+function buildToneBracket(word) {
+  if (!word.ipaSyllables || !word.tone || word.ipaSyllables.length !== word.tone.length) return null
+  const wrap = document.createElement('span')
+  wrap.className = 'tone-bracket'
+  wrap.appendChild(document.createTextNode('['))
+  word.ipaSyllables.forEach((syllable, i) => {
+    const group = document.createElement('span')
+    group.className = 'tone-syllable'
+    group.appendChild(toneSvg(word.tone[i]))
+    group.appendChild(document.createTextNode(syllable))
+    wrap.appendChild(group)
+  })
+  wrap.appendChild(document.createTextNode(']'))
+  return wrap
+}
+
+// Fills `container` with a word's pronunciation — the tone-glyph bracket
+// when available (Chinese), otherwise plain ipa text (unchanged behavior
+// for every other language).
+function renderPronunciationInto(container, word) {
+  container.innerHTML = ''
+  if (!word.ipa) return
+  const bracket = buildToneBracket(word)
+  container.appendChild(bracket || document.createTextNode(word.ipa))
+}
+
 function articleFor(word) {
   if (word.article) return word.article
   if (word['part-of-speech'] !== 'noun') return ''
@@ -204,13 +424,16 @@ function stripProgress(word) {
 // (joined by word id) so routine study doesn't churn the content file. Call
 // whichever of these matches what actually changed — most actions touch
 // only one side.
+// Content edits only exist in editor mode (see EDITOR_MODE in main.js);
+// learners' changes are progress only.
 function persistVocabulary() {
-  if (!currentMeta) return
+  if (!currentMeta || !editorMode) return
   window.api.saveVocabulary({ meta: currentMeta, words: allWords.map(stripProgress) })
 }
 
+// The editor only changes content — learning progress is the learner's alone.
 function persistProgress() {
-  if (!currentMeta) return
+  if (!currentMeta || editorMode) return
   const progress = {}
   for (const w of allWords) {
     if (w.score > 0 || w.learned || w.totalAttempts > 0 || w.lastSeen) {
@@ -245,6 +468,18 @@ function showScreen(id) {
 
 // ── CEFR Level Helpers ────────────────────────────────
 const CEFR_ORDER = ['A0', 'A1', 'A2', 'B1', 'B2', 'C1', 'C2']
+
+// Words per quiz session, by level — lower levels (denser/less familiar
+// material) get smaller sessions, higher levels get larger ones. Overridable
+// per level in Preferences (preferences.sessionSizeByLevel); this is just
+// the fallback when a level has no override.
+const DEFAULT_SESSION_SIZE_BY_LEVEL = { A0: 6, A1: 7, A2: 8, B1: 9, B2: 10, C1: 11, C2: 12 }
+
+function sessionSizeForLevel(level) {
+  const custom = preferences.sessionSizeByLevel?.[level]
+  if (Number.isInteger(custom) && custom > 0) return custom
+  return DEFAULT_SESSION_SIZE_BY_LEVEL[level] ?? 10
+}
 
 function currentCefrLevel() {
   for (const level of CEFR_ORDER) {
@@ -309,7 +544,7 @@ function groupByTier(words) {
 }
 
 function pickSessionWords() {
-  const sessionSize = currentCefrLevel() === 'A0' ? WORDS_PER_SESSION_A0 : WORDS_PER_SESSION
+  const sessionSize = sessionSizeForLevel(currentCefrLevel())
 
   const inProgress = shuffle(allWords.filter(w => w.score > 0 && !w.learned))
   const learned    = shuffle(allWords.filter(w => w.learned))
@@ -411,7 +646,8 @@ function displayQuestion(q) {
   $('word-register').classList.toggle('hidden', !showRegister)
   $('word-register').textContent = showRegister ? registers.join(', ') : ''
 
-  $('word-ipa').textContent     = (!showNative && word.ipa) ? word.ipa : ''
+  if (!showNative && word.ipa) renderPronunciationInto($('word-ipa'), word)
+  else $('word-ipa').innerHTML = ''
   const countabilityTag = { mass: ' · mass', collective: ' · collective', 'plural-only': ' · plural only' }
   $('word-pos').textContent = word['part-of-speech'] + (countabilityTag[word.countability] || '')
 
@@ -463,9 +699,13 @@ function displayQuestion(q) {
     // letterBreakdown (per-letter IPA, for abugida scripts) follows right
     // after the whole-word ipa.
     if (showNative && choice.ipa) {
+      const tooltip = document.createElement('div')
+      tooltip.className = 'choice-tooltip'
+      tooltip.appendChild(buildToneBracket(choice) || document.createTextNode(choice.ipa))
       const breakdown = (choice.letterBreakdown || [])
         .map(u => `${u.letter}${u.ipa}`).join(' ')
-      btn.dataset.tooltip = breakdown ? `${choice.ipa} ${breakdown}` : choice.ipa
+      if (breakdown) tooltip.appendChild(document.createTextNode(` ${breakdown}`))
+      btn.appendChild(tooltip)
     }
     btn.addEventListener('click', () => handleChoice(btn, choice))
     grid.appendChild(btn)
@@ -477,10 +717,16 @@ function displayQuestion(q) {
   requestAnimationFrame(() => {
     grid.querySelectorAll('.choice-btn').forEach(btn => {
       const span = btn.querySelector('.choice-text')
-      if (span && span.scrollWidth > span.clientWidth) {
-        btn.dataset.tooltip = btn.dataset.tooltip
-          ? `${span.textContent} (${btn.dataset.tooltip})`
-          : span.textContent
+      if (!span || span.scrollWidth <= span.clientWidth) return
+      const existing = btn.querySelector('.choice-tooltip')
+      if (existing) {
+        existing.insertBefore(document.createTextNode(`${span.textContent} (`), existing.firstChild)
+        existing.appendChild(document.createTextNode(')'))
+      } else {
+        const tooltip = document.createElement('div')
+        tooltip.className = 'choice-tooltip'
+        tooltip.textContent = span.textContent
+        btn.appendChild(tooltip)
       }
     })
   })
@@ -498,7 +744,7 @@ function displayQuestion(q) {
 }
 
 function updateHeader() {
-  const total = Math.min(sessionWords.length, WORDS_PER_SESSION)
+  const total = sessionWords.length
   $('question-counter').textContent = `${Math.min(questionIndex + 1, total)} / ${total}`
   $('progress-fill').style.width    = `${(questionIndex / total) * 100}%`
   $('session-score').textContent    = `${sessionScore > 0 ? '+' : ''}${sessionScore} pts`
@@ -622,11 +868,6 @@ function showEditScreen() {
   $('edit-cefr').value            = word.cefr || ''
   $('edit-countability').value = word.countability || 'countable'
   $('edit-hmuet').checked      = !!word.hMuet
-  const thresh = learnedThreshold()
-  $('edit-score-label').textContent = `Score (0 – ${thresh})`
-  $('edit-score').max   = thresh
-  $('edit-score').value = word.score ?? 0
-
   $('edit-grammar').value = word.grammar || ''
   $('countability-info-popover').classList.add('hidden')
   toggleNounFields($('edit-pos').value)
@@ -725,12 +966,6 @@ function saveEdit() {
   const cefr  = $('edit-cefr').value
   if (cefr) word.cefr = cefr; else delete word.cefr
 
-  const rawScore = parseInt($('edit-score').value, 10)
-  if (!isNaN(rawScore)) {
-    word.score   = Math.max(0, Math.min(rawScore, learnedThreshold()))
-    word.learned = word.score >= learnedThreshold()
-  }
-
   const grammar = $('edit-grammar').value.trim()
   if (grammar) word.grammar = grammar; else delete word.grammar
 
@@ -754,10 +989,7 @@ function saveEdit() {
     delete word.hMuet
   }
 
-  // The edit screen's score field can change learning state directly
-  // (in addition to content), so both files need to be rewritten here.
   persistVocabulary()
-  persistProgress()
 
   if (editReturnScreen === 'search-screen') {
     currentQ = savedQuizQ
@@ -843,25 +1075,128 @@ function startSession() {
     return
   }
 
+  // Only brand-new words get an intro card — in-progress and learned words
+  // are review, so they skip straight to being quizzed. A session with
+  // nothing new goes straight to the quiz.
+  introWords = sessionWords.filter(w => w.score === 0 && !w.learned)
+  introIndex = 0
+  if (introWords.length > 0) {
+    displayIntroCard()
+    showScreen('intro-screen')
+  } else {
+    startQuiz()
+  }
+}
+
+function startQuiz() {
+  // Re-shuffle after an intro so the quiz doesn't ask about words in the
+  // same order they were just studied in.
+  if (introWords.length > 0) sessionWords = shuffle(sessionWords)
   currentQ = makeQuestion(sessionWords[0])
   displayQuestion(currentQ)
   showScreen('quiz-screen')
+}
+
+// ── Word Intro Cards ──────────────────────────────────
+// Unlike the quiz card, everything is shown up front — target word,
+// pronunciation, meaning, grammar and context — since the point is to study.
+function displayIntroCard() {
+  const word   = introWords[introIndex]
+  const total  = introWords.length
+  const isLast = introIndex === total - 1
+
+  $('intro-counter').textContent = `${introIndex + 1} / ${total}`
+  $('intro-progress-fill').style.width = `${((introIndex + 1) / total) * 100}%`
+
+  setEmphasizedText($('intro-word'), formatTarget(word))
+
+  const registers = word.register && word.register.length ? word.register : ['All']
+  const showRegister = !(registers.length === 1 && registers[0] === 'All')
+  $('intro-register').classList.toggle('hidden', !showRegister)
+  $('intro-register').textContent = showRegister ? registers.join(', ') : ''
+
+  renderPronunciationInto($('intro-ipa'), word)
+  const countabilityTag = { mass: ' · mass', collective: ' · collective', 'plural-only': ' · plural only' }
+  $('intro-pos').textContent = word['part-of-speech'] + (countabilityTag[word.countability] || '')
+  $('intro-meaning').textContent = word.english
+
+  const grammar = word.grammar?.trim() || ''
+  $('intro-grammar').classList.toggle('hidden', !grammar)
+  $('intro-grammar').textContent = grammar
+
+  const context = word.context?.trim() || ''
+  $('intro-context').classList.toggle('hidden', !context)
+  $('intro-context').textContent = context
+
+  $('intro-back-btn').disabled = introIndex === 0
+  $('intro-next-btn').textContent = isLast ? 'Start Quiz →' : 'Next Word →'
+}
+
+function nextIntroCard() {
+  if (introIndex < introWords.length - 1) {
+    introIndex++
+    displayIntroCard()
+  } else {
+    startQuiz()
+  }
+}
+
+function prevIntroCard() {
+  if (introIndex === 0) return
+  introIndex--
+  displayIntroCard()
 }
 
 // ── Welcome Screen: Language / Mode Picker ────────────
 // Two-step drill-down (language, then mode) replacing the old native
 // file-open dialog — the app already knows what's in language-data/.
 async function renderLanguagePicker() {
+  allLanguageEntries = await window.api.listContent()
+  renderLanguageButtons()
+}
+
+function favoriteLanguages() {
+  return preferences.favoriteLanguages || []
+}
+
+function renderLanguageButtons() {
   const container = $('language-buttons')
   container.innerHTML = ''
-  const entries = await window.api.listContent()
+
+  const favorites = favoriteLanguages()
+  // No favorites set yet (first run, or the user hasn't picked any) means
+  // there's nothing meaningful to filter to — show everything rather than
+  // an empty picker.
+  const hasFilter = favorites.length > 0 && !languagePickerShowAll
+  const entries = hasFilter
+    ? allLanguageEntries.filter(e => favorites.includes(e.slug))
+    : allLanguageEntries
+
   entries.forEach(entry => {
     const btn = document.createElement('button')
     btn.className   = 'level-btn'
     btn.textContent = `${flagFor(entry.languageCode)} ${entry.language}`
-    btn.addEventListener('click', () => renderModePicker(entry))
+    // The editor only edits vocabulary, so it skips the mode picker
+    // (quiz vs. reading) and goes straight to browsing the words.
+    btn.addEventListener('click', () => {
+      if (editorMode && entry.hasVocabulary) loadVocabulary(entry.slug)
+      else renderModePicker(entry)
+    })
     container.appendChild(btn)
   })
+
+  const toggle = $('language-picker-toggle')
+  if (favorites.length === 0) {
+    toggle.classList.add('hidden')
+  } else {
+    toggle.classList.remove('hidden')
+    toggle.textContent = languagePickerShowAll ? 'Show favorites only' : 'Show all languages'
+  }
+}
+
+function toggleShowAllLanguages() {
+  languagePickerShowAll = !languagePickerShowAll
+  renderLanguageButtons()
 }
 
 function renderModePicker(entry) {
@@ -910,7 +1245,12 @@ async function loadVocabulary(slug) {
   updateScriptGuideButton()
 
   updateWelcomeScreen()
-  startSession()
+  if (editorMode) {
+    resetWelcomePicker()
+    showSearchScreen('welcome-screen')
+  } else {
+    startSession()
+  }
 }
 
 // ── Script Guide (abugida/alphabet reference popup) ─────────────────
@@ -949,10 +1289,24 @@ function renderScriptGuide() {
       cell.className = 'script-char-cell'
       const char = document.createElement('div')
       char.className = 'script-char'
-      char.textContent = item.char
+      // charGlyph/ipaGlyph (optional, Chinese-only) carry the same
+      // {ipaSyllables, tone} shape buildToneBracket already draws for the
+      // quiz screens — reused here so the guide shows the real contour
+      // notation instead of a separately-maintained description of it.
+      if (item.charGlyph) {
+        char.appendChild(buildToneBracket(item.charGlyph))
+        if (item.charSuffix) char.appendChild(document.createTextNode(' ' + item.charSuffix))
+      } else {
+        char.textContent = item.char
+      }
       const ipa = document.createElement('div')
       ipa.className = 'script-char-ipa'
-      ipa.textContent = item.ipa
+      if (item.ipaGlyph) {
+        ipa.appendChild(buildToneBracket(item.ipaGlyph))
+        if (item.ipaSuffix) ipa.appendChild(document.createTextNode(' ' + item.ipaSuffix))
+      } else {
+        ipa.textContent = item.ipa
+      }
       cell.appendChild(char)
       cell.appendChild(ipa)
       if (item.note) {
@@ -975,6 +1329,151 @@ function showScriptGuide() {
 
 function hideScriptGuide() {
   $('script-guide-modal').classList.add('hidden')
+}
+
+// Minimal parser for the one markdown subset CHANGELOG.md actually uses:
+// "## " version headings and "- " bullet points. Not a general markdown
+// renderer — just enough to avoid adding a dependency for this one file.
+function renderChangelog(markdown) {
+  const body = $('changelog-body')
+  body.innerHTML = ''
+  if (!markdown) {
+    body.textContent = 'Could not load the changelog.'
+    return
+  }
+  const lines = markdown.split('\n')
+  let list = null
+  for (const rawLine of lines) {
+    const line = rawLine.trim()
+    if (!line || line.startsWith('# ')) continue
+    if (line.startsWith('## ')) {
+      const heading = document.createElement('h3')
+      heading.className = 'changelog-heading'
+      heading.textContent = line.slice(3)
+      body.appendChild(heading)
+      list = null
+    } else if (line.startsWith('- ')) {
+      if (!list) {
+        list = document.createElement('ul')
+        list.className = 'changelog-list'
+        body.appendChild(list)
+      }
+      const item = document.createElement('li')
+      item.textContent = line.slice(2)
+      list.appendChild(item)
+    }
+  }
+}
+
+function showChangelog() {
+  window.api.getChangelog().then(renderChangelog)
+  $('changelog-modal').classList.remove('hidden')
+}
+
+function hideChangelog() {
+  $('changelog-modal').classList.add('hidden')
+}
+
+// ── Preferences ───────────────────────────────────────
+function renderPreferencesLanguageList() {
+  const container = $('preferences-language-list')
+  container.innerHTML = ''
+  const favorites = favoriteLanguages()
+
+  allLanguageEntries.forEach(entry => {
+    const label = document.createElement('label')
+    label.className = 'checkbox-label'
+    const checkbox = document.createElement('input')
+    checkbox.type    = 'checkbox'
+    checkbox.checked = favorites.includes(entry.slug)
+    checkbox.addEventListener('change', () => toggleFavoriteLanguage(entry.slug, checkbox.checked))
+    label.appendChild(checkbox)
+    label.appendChild(document.createTextNode(`${flagFor(entry.languageCode)} ${entry.language}`))
+    container.appendChild(label)
+  })
+}
+
+function toggleFavoriteLanguage(slug, isFavorite) {
+  const favorites = new Set(favoriteLanguages())
+  if (isFavorite) favorites.add(slug)
+  else favorites.delete(slug)
+  preferences.favoriteLanguages = [...favorites]
+  window.api.savePreferences(preferences)
+  renderLanguageButtons()
+}
+
+function renderPreferencesSessionSizeList() {
+  const container = $('preferences-session-size-list')
+  container.innerHTML = ''
+  for (const level of CEFR_ORDER) {
+    const row = document.createElement('label')
+    row.className = 'session-size-row'
+    const labelText = document.createElement('span')
+    labelText.textContent = level
+    const input = document.createElement('input')
+    input.type      = 'number'
+    input.min        = '2'
+    input.max        = '50'
+    input.className  = 'session-size-input'
+    input.value      = sessionSizeForLevel(level)
+    input.addEventListener('change', () => setSessionSizeForLevel(level, input.value))
+    row.appendChild(labelText)
+    row.appendChild(input)
+    container.appendChild(row)
+  }
+}
+
+function setSessionSizeForLevel(level, rawValue) {
+  const parsed = parseInt(rawValue, 10)
+  const clamped = Number.isFinite(parsed)
+    ? Math.max(2, Math.min(50, parsed))
+    : DEFAULT_SESSION_SIZE_BY_LEVEL[level]
+  if (!preferences.sessionSizeByLevel) preferences.sessionSizeByLevel = {}
+  preferences.sessionSizeByLevel[level] = clamped
+  window.api.savePreferences(preferences)
+  renderPreferencesSessionSizeList()
+}
+
+function renderPreferencesColorSchemeList() {
+  const container = $('preferences-color-scheme-list')
+  container.innerHTML = ''
+  const current = preferences.colorScheme || DEFAULT_COLOR_SCHEME
+  COLOR_SCHEMES.forEach(scheme => {
+    const btn = document.createElement('button')
+    btn.type = 'button'
+    btn.className = 'color-scheme-swatch' + (scheme.id === current ? ' selected' : '')
+    btn.title = scheme.name
+    const dot = document.createElement('span')
+    dot.className = 'color-scheme-dot'
+    dot.style.background = scheme.tokens['--accent']
+    const label = document.createElement('span')
+    label.textContent = scheme.name
+    btn.appendChild(dot)
+    btn.appendChild(label)
+    btn.addEventListener('click', () => setColorScheme(scheme.id))
+    container.appendChild(btn)
+  })
+}
+
+function setColorScheme(id) {
+  preferences.colorScheme = id
+  window.api.savePreferences(preferences)
+  applyColorScheme(id)
+  renderPreferencesColorSchemeList()
+}
+
+async function showPreferences() {
+  if (allLanguageEntries.length === 0) {
+    allLanguageEntries = await window.api.listContent()
+  }
+  renderPreferencesLanguageList()
+  renderPreferencesSessionSizeList()
+  renderPreferencesColorSchemeList()
+  $('preferences-modal').classList.remove('hidden')
+}
+
+function hidePreferences() {
+  $('preferences-modal').classList.add('hidden')
 }
 
 async function loadReading(slug) {
@@ -1001,6 +1500,11 @@ function escHtml(s) {
 
 function showSearchScreen(returnTo) {
   searchReturnScreen = returnTo || 'welcome-screen'
+  // Progress-based filtering/sorting has no place in the editor.
+  const scoreSort = $('search-sort-by').querySelector('option[value="score"]')
+  scoreSort.hidden = editorMode
+  if (editorMode && $('search-sort-by').value === 'score') $('search-sort-by').value = 'target'
+  if (editorMode) $('search-status').value = ''
   selectedWordIds.clear()
   renderSearchRegisterOptions()
   renderColumnsMenu()
@@ -1029,7 +1533,7 @@ function renderSearchRegisterOptions() {
 
 function renderColumnsMenu() {
   const list = $('columns-menu-list')
-  list.innerHTML = AVAILABLE_COLUMNS.map(col => `
+  list.innerHTML = browseColumns().map(col => `
     <label class="checkbox-label">
       <input type="checkbox" data-col="${escHtml(col.id)}" ${searchVisibleColumns.has(col.id) ? 'checked' : ''}>
       <span>${escHtml(col.label)}</span>
@@ -1109,7 +1613,7 @@ function renderSearchPage() {
 
   $('search-count').textContent = `${total.toLocaleString()} word${total !== 1 ? 's' : ''}`
 
-  const columns = AVAILABLE_COLUMNS.filter(c => searchVisibleColumns.has(c.id))
+  const columns = browseColumns().filter(c => searchVisibleColumns.has(c.id))
 
   searchPageIds = slice.map(w => w.id)
 
@@ -1133,9 +1637,9 @@ function renderSearchPage() {
       `<td class="col-actions">
         <button class="btn-kebab" data-id="${escHtml(word.id)}" aria-label="Actions">⋮</button>
         <div class="kebab-menu hidden" data-menu-for="${escHtml(word.id)}">
-          <button class="kebab-edit" data-action="edit" data-id="${escHtml(word.id)}">Edit</button>
-          <button class="kebab-dup" data-action="dup" data-id="${escHtml(word.id)}">Duplicate</button>
-          <button class="${learnedAction}" data-action="learned" data-id="${escHtml(word.id)}">${learnedLabel}</button>
+          <button class="kebab-edit editor-only" data-action="edit" data-id="${escHtml(word.id)}">Edit</button>
+          <button class="kebab-dup editor-only" data-action="dup" data-id="${escHtml(word.id)}">Duplicate</button>
+          <button class="${learnedAction} learner-only" data-action="learned" data-id="${escHtml(word.id)}">${learnedLabel}</button>
         </div>
       </td>`
     tbody.appendChild(tr)
@@ -1292,9 +1796,25 @@ function editFromSearch(wordId) {
 // ── Event Wiring ──────────────────────────────────────
 document.addEventListener('DOMContentLoaded', () => {
   updateWelcomeScreen()
-  renderLanguagePicker()
+  window.api.getPreferences().then(p => {
+    preferences = p || {}
+    applyColorScheme(preferences.colorScheme || DEFAULT_COLOR_SCHEME)
+    renderLanguagePicker()
+  })
+  Promise.all([window.api.getAppVersion(), window.api.getEditorMode()]).then(([v, editor]) => {
+    editorMode = editor
+    document.body.classList.toggle('editor-mode', editor)
+    $('app-version').textContent = editor ? `v${v} · Editor` : `v${v}`
+  })
 
   $('mode-back-btn').addEventListener('click', resetWelcomePicker)
+  $('language-picker-toggle').addEventListener('click', toggleShowAllLanguages)
+
+  $('preferences-btn').addEventListener('click', showPreferences)
+  $('preferences-close').addEventListener('click', hidePreferences)
+  $('preferences-modal').addEventListener('click', e => {
+    if (e.target.id === 'preferences-modal') hidePreferences()
+  })
 
   $('quit-btn').addEventListener('click', () => {
     if (confirm('End this session?')) {
@@ -1302,6 +1822,15 @@ document.addEventListener('DOMContentLoaded', () => {
       showScreen('welcome-screen')
     }
   })
+
+  // Nothing has been scored yet on the intro screen, so no confirm needed.
+  $('intro-quit-btn').addEventListener('click', () => {
+    resetWelcomePicker()
+    showScreen('welcome-screen')
+  })
+  $('intro-next-btn').addEventListener('click', nextIntroCard)
+  $('intro-back-btn').addEventListener('click', prevIntroCard)
+  $('intro-skip-btn').addEventListener('click', startQuiz)
 
   $('next-btn').addEventListener('click', nextQuestion)
   $('mark-learned-btn').addEventListener('click', markCurrentAsLearned)
@@ -1347,6 +1876,11 @@ document.addEventListener('DOMContentLoaded', () => {
   $('script-guide-close').addEventListener('click', hideScriptGuide)
   $('script-guide-modal').addEventListener('click', e => {
     if (e.target.id === 'script-guide-modal') hideScriptGuide()
+  })
+  $('app-version').addEventListener('click', showChangelog)
+  $('changelog-close').addEventListener('click', hideChangelog)
+  $('changelog-modal').addEventListener('click', e => {
+    if (e.target.id === 'changelog-modal') hideChangelog()
   })
   $('edit-target').addEventListener('input', updateHMuetVisibility)
 
