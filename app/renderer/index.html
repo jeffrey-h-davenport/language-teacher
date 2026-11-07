@@ -19,6 +19,7 @@
       <div id="language-picker" class="level-picker">
         <p class="level-picker-label">Choose a language</p>
         <div id="language-buttons" class="level-buttons"></div>
+        <button id="language-picker-toggle" class="btn-ghost small hidden"></button>
       </div>
 
       <div id="mode-picker" class="level-picker hidden">
@@ -31,7 +32,12 @@
         Browse Words
       </button>
 
-      <button id="welcome-exit-btn" class="btn-ghost">Exit</button>
+      <div class="welcome-footer-row">
+        <button id="preferences-btn" class="btn-ghost">⚙ Preferences</button>
+        <button id="welcome-exit-btn" class="btn-ghost">Exit</button>
+      </div>
+
+      <button id="app-version" class="app-version"></button>
     </div>
   </div>
 
@@ -56,8 +62,8 @@
       <div class="question-row">
         <div id="direction-badge" class="direction-badge">English → German</div>
         <div class="word-actions">
-          <button id="mark-learned-btn" class="btn-mark-learned hidden">Mark as Learned</button>
-          <button id="edit-word-btn" class="btn-edit-word">Edit Word</button>
+          <button id="mark-learned-btn" class="btn-mark-learned learner-only hidden">Mark as Learned</button>
+          <button id="edit-word-btn" class="btn-edit-word editor-only">Edit Word</button>
         </div>
       </div>
 
@@ -95,6 +101,40 @@
     </div>
   </div>
 
+  <!-- ── Word Intro Screen ─────────────────────────────── -->
+  <!-- Walks through a session's new words, one card each, before the quiz. -->
+  <div id="intro-screen" class="screen">
+    <div class="quiz-header">
+      <button id="intro-quit-btn" class="btn-ghost">Quit</button>
+      <div class="progress-group">
+        <span id="intro-counter" class="counter-text">1 / 1</span>
+        <div class="progress-bar">
+          <div id="intro-progress-fill" class="progress-fill"></div>
+        </div>
+      </div>
+      <button id="intro-skip-btn" class="btn-ghost">Skip to Quiz</button>
+    </div>
+
+    <div class="quiz-body">
+      <div class="direction-badge">✨ New word</div>
+
+      <div class="question-card">
+        <div id="intro-word" class="word-display"></div>
+        <div id="intro-register" class="word-register hidden"></div>
+        <div id="intro-ipa" class="word-ipa"></div>
+        <div id="intro-pos" class="word-pos"></div>
+        <div id="intro-meaning" class="intro-meaning"></div>
+        <div id="intro-grammar" class="word-grammar hidden"></div>
+        <div id="intro-context" class="context-text intro-context hidden"></div>
+      </div>
+
+      <div class="intro-nav">
+        <button id="intro-back-btn" class="btn-secondary">← Back</button>
+        <button id="intro-next-btn" class="btn-primary">Next Word →</button>
+      </div>
+    </div>
+  </div>
+
   <!-- ── Script Guide Modal ─────────────────────────── -->
   <div id="script-guide-modal" class="modal-overlay hidden">
     <div class="modal-card">
@@ -103,6 +143,40 @@
         <button id="script-guide-close" class="btn-ghost" aria-label="Close">✕</button>
       </div>
       <div id="script-guide-body" class="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- ── Changelog Modal ───────────────────────────────── -->
+  <div id="changelog-modal" class="modal-overlay hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>What's New</h2>
+        <button id="changelog-close" class="btn-ghost" aria-label="Close">✕</button>
+      </div>
+      <div id="changelog-body" class="modal-body"></div>
+    </div>
+  </div>
+
+  <!-- ── Preferences Modal ─────────────────────────────── -->
+  <div id="preferences-modal" class="modal-overlay hidden">
+    <div class="modal-card">
+      <div class="modal-header">
+        <h2>Preferences</h2>
+        <button id="preferences-close" class="btn-ghost" aria-label="Close">✕</button>
+      </div>
+      <div class="modal-body">
+        <h3 class="preferences-heading">Favorite Languages</h3>
+        <p class="preferences-intro">Pick the languages you use most — the welcome screen will show just these by default, with an option to see everything.</p>
+        <div id="preferences-language-list" class="checkbox-group preferences-language-list"></div>
+
+        <h3 class="preferences-heading preferences-heading-spaced">Words per Session</h3>
+        <p class="preferences-intro">How many words appear in each quiz session, by level — lower levels default to smaller sessions.</p>
+        <div id="preferences-session-size-list" class="preferences-session-size-list"></div>
+
+        <h3 class="preferences-heading preferences-heading-spaced">Color Scheme</h3>
+        <p class="preferences-intro">Pick the accent and welcome-screen color.</p>
+        <div id="preferences-color-scheme-list" class="color-scheme-list"></div>
+      </div>
     </div>
   </div>
 
@@ -254,11 +328,6 @@
         <input type="text" id="edit-context" autocomplete="off" spellcheck="false" placeholder="e.g. in computing, when referring to food…">
       </div>
 
-      <div class="form-group">
-        <label for="edit-score" id="edit-score-label">Score (0 – 10)</label>
-        <input type="number" id="edit-score" min="0" max="10" step="1" autocomplete="off">
-      </div>
-
       <div class="edit-actions">
         <button id="edit-save-btn" class="btn-primary">Save Changes</button>
         <button id="edit-cancel-btn" class="btn-secondary">Cancel</button>
@@ -305,7 +374,7 @@
           <option value="C1">C1</option>
           <option value="C2">C2</option>
         </select>
-        <select id="search-status" class="search-select">
+        <select id="search-status" class="search-select learner-only">
           <option value="">All statuses</option>
           <option value="notstarted">Not started</option>
           <option value="inprogress">In progress</option>
@@ -337,8 +406,8 @@
 
     <div class="selection-toolbar hidden" id="selection-toolbar">
       <span id="selection-count" class="selection-count"></span>
-      <button type="button" id="selection-dup-btn" class="btn-sort-dir">Duplicate</button>
-      <button type="button" id="selection-learned-btn" class="btn-sort-dir">Mark Learned</button>
+      <button type="button" id="selection-dup-btn" class="btn-sort-dir editor-only">Duplicate</button>
+      <button type="button" id="selection-learned-btn" class="btn-sort-dir learner-only">Mark Learned</button>
       <button type="button" id="selection-clear-btn" class="btn-ghost">Clear</button>
     </div>
 

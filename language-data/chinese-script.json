@@ -1,0 +1,89 @@
+{
+  "scriptName": "Mandarin Pronunciation",
+  "intro": "Chinese characters don't spell out their own pronunciation the way an alphabet does, so this is a sound reference rather than a character reference — a key to the IPA you'll see throughout this vocabulary. Two things trip up English speakers in particular: tones aren't just pitch levels, most of them are moving contours (see Tones below, shown as a small colored line over the syllable, not a number), and Mandarin's stop/affricate consonants aren't organized by voicing like English b/p or d/t — almost all of them come in unaspirated/aspirated pairs instead (whether there's a puff of air or not), which matters more here than voicing does. These are IPA symbols, not pinyin letters — if you already know pinyin, note the letters don't carry over directly (pinyin 'b' is IPA [p], pinyin 'p' is IPA [pʰ], and so on).",
+  "sections": [
+    {
+      "heading": "Tones",
+      "items": [
+        { "charGlyph": { "ipaSyllables": ["ma"], "tone": [1] }, "ipa": "妈 'mother'", "note": "1st tone — level and high, stays flat for the whole syllable" },
+        { "charGlyph": { "ipaSyllables": ["ma"], "tone": [2] }, "ipa": "麻 'hemp'", "note": "2nd tone — rising, starts mid and climbs to high" },
+        { "charGlyph": { "ipaSyllables": ["ma"], "tone": [3] }, "ipa": "马 'horse'", "note": "3rd tone — dipping, starts low-ish, drops to the bottom, then rises" },
+        { "charGlyph": { "ipaSyllables": ["ma"], "tone": [4] }, "ipa": "骂 'to scold'", "note": "4th tone — falling, starts at the top and drops sharply" },
+        { "charGlyph": { "ipaSyllables": ["ma"], "tone": [0] }, "ipa": "吗 (question particle)", "note": "neutral tone — a small gray dot instead of a colored line; short, light, and toneless, and always attaches to the syllable before it" }
+      ]
+    },
+    {
+      "heading": "Bilabial",
+      "items": [
+        { "char": "p", "ipaGlyph": { "ipaSyllables": ["pa"], "tone": [1] }, "ipaSuffix": "八 'eight'", "note": "unaspirated — no puff of air, like the p in English \"spin\"" },
+        { "char": "pʰ", "ipaGlyph": { "ipaSyllables": ["pʰau̯"], "tone": [3] }, "ipaSuffix": "跑 'to run'", "note": "aspirated — a real puff of air, like the p in English \"pin\"" },
+        { "char": "m", "ipaGlyph": { "ipaSyllables": ["mau̯"], "tone": [1] }, "ipaSuffix": "猫 'cat'", "note": "same as English m" },
+        { "char": "f", "ipaGlyph": { "ipaSyllables": ["fei̯"], "tone": [1] }, "ipaSuffix": "飞 'to fly'", "note": "same as English f" }
+      ]
+    },
+    {
+      "heading": "Alveolar",
+      "items": [
+        { "char": "t", "ipaGlyph": { "ipaSyllables": ["ta"], "tone": [4] }, "ipaSuffix": "大 'big'", "note": "unaspirated — no puff of air, like the t in English \"stop\"" },
+        { "char": "tʰ", "ipaGlyph": { "ipaSyllables": ["tʰa"], "tone": [1] }, "ipaSuffix": "他 'he'", "note": "aspirated — a real puff of air, like the t in English \"top\"" },
+        { "char": "n", "ipaGlyph": { "ipaSyllables": ["ni"], "tone": [3] }, "ipaSuffix": "你 'you'", "note": "same as English n" },
+        { "char": "l", "ipaGlyph": { "ipaSyllables": ["lai̯"], "tone": [2] }, "ipaSuffix": "来 'to come'", "note": "same as English l" }
+      ]
+    },
+    {
+      "heading": "Velar",
+      "items": [
+        { "char": "k", "ipaGlyph": { "ipaSyllables": ["kau̯"], "tone": [1] }, "ipaSuffix": "高 'tall'", "note": "unaspirated — no puff of air, like the k in English \"skip\"" },
+        { "char": "kʰ", "ipaGlyph": { "ipaSyllables": ["kʰan"], "tone": [4] }, "ipaSuffix": "看 'to look'", "note": "aspirated — a real puff of air, like the k in English \"kit\"" },
+        { "char": "x", "ipaGlyph": { "ipaSyllables": ["xau̯"], "tone": [3] }, "ipaSuffix": "好 'good'", "note": "a raspy, back-of-the-throat h, further back than English h" }
+      ]
+    },
+    {
+      "heading": "Alveolo-palatal",
+      "items": [
+        { "char": "tɕ", "ipaGlyph": { "ipaSyllables": ["tɕjou̯"], "tone": [3] }, "ipaSuffix": "九 'nine'", "note": "unaspirated — tongue flat against the hard palate, smile slightly while saying it" },
+        { "char": "tɕʰ", "ipaGlyph": { "ipaSyllables": ["tɕʰi"], "tone": [1] }, "ipaSuffix": "七 'seven'", "note": "aspirated version of the same sound" },
+        { "char": "ɕ", "ipaGlyph": { "ipaSyllables": ["ɕjaŋ"], "tone": [3] }, "ipaSuffix": "想 'to want'", "note": "a soft, hissy sh — brighter than English sh, tongue further forward" }
+      ]
+    },
+    {
+      "heading": "Retroflex",
+      "items": [
+        { "char": "tʂ", "ipaGlyph": { "ipaSyllables": ["tʂə"], "tone": [4] }, "ipaSuffix": "这 'this'", "note": "unaspirated — tongue tip curled back toward the roof of the mouth" },
+        { "char": "tʂʰ", "ipaGlyph": { "ipaSyllables": ["tʂʰʐ̩"], "tone": [1] }, "ipaSuffix": "吃 'to eat'", "note": "aspirated version of the same curled-tongue sound" },
+        { "char": "ʂ", "ipaGlyph": { "ipaSyllables": ["ʂʐ̩"], "tone": [4] }, "ipaSuffix": "是 'to be'", "note": "a curled-tongue sh, further back in the mouth than English sh" },
+        { "char": "ʐ", "ipaGlyph": { "ipaSyllables": ["ʐən"], "tone": [2] }, "ipaSuffix": "人 'person'", "note": "between English r and the s in \"measure\" — tongue curled back, no lip rounding" }
+      ]
+    },
+    {
+      "heading": "Dental Sibilant",
+      "items": [
+        { "char": "ts", "ipaGlyph": { "ipaSyllables": ["tsai̯"], "tone": [4] }, "ipaSuffix": "在 'at'", "note": "unaspirated — like the ts in English \"cats\", but at the start of the syllable" },
+        { "char": "tsʰ", "ipaGlyph": { "ipaSyllables": ["tsʰʊŋ"], "tone": [2] }, "ipaSuffix": "从 'from'", "note": "aspirated version of the same sound" },
+        { "char": "s", "ipaGlyph": { "ipaSyllables": ["san"], "tone": [1] }, "ipaSuffix": "三 'three'", "note": "same as English s" }
+      ]
+    },
+    {
+      "heading": "Vowels",
+      "items": [
+        { "char": "a", "ipaGlyph": { "ipaSyllables": ["pa"], "tone": [1] }, "ipaSuffix": "八 'eight'", "note": "same as the a in English \"father\"" },
+        { "char": "ə", "ipaGlyph": { "ipaSyllables": ["xə"], "tone": [1] }, "ipaSuffix": "喝 'to drink'", "note": "a back, unrounded vowel — no real English equivalent, close to the \"u\" in \"duh\"" },
+        { "char": "i", "ipaGlyph": { "ipaSyllables": ["ni"], "tone": [3] }, "ipaSuffix": "你 'you'", "note": "same as the ee in English \"see\"" },
+        { "char": "u", "ipaGlyph": { "ipaSyllables": ["u"], "tone": [3] }, "ipaSuffix": "五 'five'", "note": "same as the oo in English \"food\"" },
+        { "char": "y", "ipaGlyph": { "ipaSyllables": ["y"], "tone": [3] }, "ipaSuffix": "雨 'rain'", "note": "round your lips for \"oo\" while saying \"ee\" — no English equivalent" },
+        { "char": "ɹ̩ / ʐ̩", "ipaGlyph": { "ipaSyllables": ["ʂʐ̩"], "tone": [4] }, "ipaSuffix": "是 'to be'", "note": "the buzzing \"vowel\" after z/c/s/zh/ch/sh/r — really just the consonant held and voiced, not a separate vowel sound at all" },
+        { "char": "ɚ", "ipaGlyph": { "ipaSyllables": ["ɚ"], "tone": [4] }, "ipaSuffix": "二 'two'", "note": "like the er in American English \"bird\", with no r-consonant after it" }
+      ]
+    },
+    {
+      "heading": "Nasal Endings",
+      "items": [
+        { "char": "an", "ipaGlyph": { "ipaSyllables": ["san"], "tone": [1] }, "ipaSuffix": "三 'three'", "note": "tongue touches the roof of the mouth — same as English n" },
+        { "char": "aŋ", "ipaGlyph": { "ipaSyllables": ["maŋ"], "tone": [2] }, "ipaSuffix": "忙 'busy'", "note": "tongue doesn't touch anything — same as the ng in English \"sang\"" },
+        { "char": "ən", "ipaGlyph": { "ipaSyllables": ["xən"], "tone": [3] }, "ipaSuffix": "很 'very'", "note": "same -n ending as \"an\", with a schwa vowel" },
+        { "char": "əŋ", "ipaGlyph": { "ipaSyllables": ["ləŋ"], "tone": [3] }, "ipaSuffix": "冷 'cold'", "note": "same -ng ending as \"ang\", with a schwa vowel — listen closely, -n and -ng are a common source of confusion" },
+        { "char": "ʊŋ", "ipaGlyph": { "ipaSyllables": ["tʊŋ"], "tone": [3] }, "ipaSuffix": "懂 'to understand'", "note": "an oo-vowel gliding into -ng" }
+      ]
+    }
+  ]
+}

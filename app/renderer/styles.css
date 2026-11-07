@@ -1,7 +1,18 @@
 /* ── Reset & Base ──────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 .hidden { display: none !important; }
+/* Content-editing controls — only in editor mode (npm run edit). */
+body:not(.editor-mode) .editor-only { display: none !important; }
+/* Progress-changing controls — learners only; the editor never touches progress. */
+body.editor-mode .learner-only { display: none !important; }
 
+/* Base tokens for the current ("Ocean Blue") color scheme. A scheme is
+   just this handful of values — the renderer's COLOR_SCHEMES registry
+   overrides them as inline custom properties on :root when a different
+   scheme is chosen (see applyColorScheme() in app.js), so a new scheme
+   is purely a JS data entry, never a CSS change. Everything else in this
+   file (hovers, focus rings, tints) derives from these via color-mix()
+   below, so it never needs touching either. */
 :root {
   --bg:           #f5f5f7;
   --surface:      #ffffff;
@@ -13,6 +24,13 @@
   --text-2:       #6e6e73;
   --accent:       #0071e3;
   --accent-hover: #0077ed;
+  /* The text/icon color to use ON TOP OF an --accent-colored background
+     (.btn-primary, the selected CEFR pill). Ocean Blue's accent is dark
+     enough for white text, but several schemes use a light/pastel accent
+     that needs dark text instead — so, unlike the tints above, this can't
+     be derived with color-mix() (there's no automatic "pick a readable
+     foreground" function); every scheme sets it explicitly. */
+  --on-accent:    #ffffff;
   --green:        #34c759;
   --red:          #ff3b30;
   --yellow:       #ffcc00;
@@ -20,6 +38,25 @@
   --radius-sm:    10px;
   --radius-xs:    8px;
   --font:         -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Helvetica Neue', sans-serif;
+
+  /* Welcome/reading-lobby hero gradient — independent of the light app
+     chrome above, since it's always dark regardless of scheme. */
+  --welcome-1: #1a1a2e;
+  --welcome-2: #16213e;
+  --welcome-3: #0f3460;
+
+  /* Derived from --accent/--surface/--text above — change those and these
+     follow automatically. Every hover tint, focus ring, and selected-row
+     background in the app reads one of these instead of its own literal
+     color, so the accent actually reaches the whole app, not just the
+     couple of spots it was hand-picked for originally. */
+  --accent-tint-faint:  color-mix(in srgb, var(--accent) 4%,  var(--surface));
+  --accent-tint-subtle: color-mix(in srgb, var(--accent) 6%,  var(--surface));
+  --accent-tint-light:  color-mix(in srgb, var(--accent) 8%,  var(--surface));
+  --accent-tint-medium: color-mix(in srgb, var(--accent) 12%, var(--surface));
+  --accent-ring:        color-mix(in srgb, var(--accent) 15%, transparent);
+  --surface-2-hover:    color-mix(in srgb, var(--text) 6%, var(--surface-2));
+  --bg-overlay:         color-mix(in srgb, var(--bg) 85%, transparent);
 }
 
 html, body {
@@ -52,7 +89,7 @@ html, body {
 #reading-lobby-screen {
   justify-content: center;
   align-items: center;
-  background: linear-gradient(160deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  background: linear-gradient(160deg, var(--welcome-1) 0%, var(--welcome-2) 50%, var(--welcome-3) 100%);
   padding-top: 40px; /* traffic lights */
 }
 
@@ -88,7 +125,7 @@ html, body {
 /* ── Buttons ───────────────────────────────────────── */
 .btn-primary {
   background: var(--accent);
-  color: white;
+  color: var(--on-accent);
   border: none;
   border-radius: 980px;
   padding: 10px 22px;
@@ -117,7 +154,8 @@ html, body {
   transition: background 0.15s;
 }
 
-.btn-secondary:hover { background: #e8e8ea; }
+.btn-secondary:hover:not(:disabled) { background: var(--surface-2-hover); }
+.btn-secondary:disabled { opacity: 0.4; cursor: default; }
 
 .level-picker {
   display: flex;
@@ -158,6 +196,7 @@ html, body {
 .level-btn.selected {
   background: var(--accent);
   border-color: var(--accent);
+  color: var(--on-accent);
 }
 
 .btn-ghost {
@@ -185,13 +224,46 @@ html, body {
   color: white;
 }
 
+.welcome-footer-row {
+  display: flex;
+  gap: 4px;
+}
+
+.btn-ghost.small {
+  font-size: 0.78rem;
+  padding: 4px 8px;
+}
+
+.welcome-hero .btn-ghost.small {
+  color: rgba(255,255,255,0.45);
+}
+.welcome-hero .btn-ghost.small:hover {
+  color: rgba(255,255,255,0.8);
+}
+
+.app-version {
+  font-size: 0.8rem;
+  color: rgba(255,255,255,0.55);
+  margin-top: 4px;
+  background: none;
+  border: none;
+  font-family: inherit;
+  cursor: pointer;
+  padding: 2px 6px;
+  border-radius: 4px;
+}
+.app-version:hover {
+  color: rgba(255,255,255,0.85);
+  background: rgba(255,255,255,0.1);
+}
+
 /* ── Quiz Header ───────────────────────────────────── */
 .quiz-header {
   display: flex;
   align-items: center;
   gap: 14px;
   padding: 54px 24px 14px;
-  background: rgba(245,245,247,0.85);
+  background: var(--bg-overlay);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--border);
@@ -443,7 +515,7 @@ html, body {
 .btn-edit-word:hover {
   color: var(--accent);
   border-color: var(--accent);
-  background: #f0f7ff;
+  background: var(--accent-tint-subtle);
 }
 
 /* ── Edit Screen ───────────────────────────────────── */
@@ -541,7 +613,7 @@ html, body {
 .form-group input:not([type="checkbox"]):focus,
 .form-group select:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(0,113,227,0.15);
+  box-shadow: 0 0 0 3px var(--accent-ring);
 }
 
 .countability-label-row {
@@ -611,7 +683,10 @@ html, body {
 /* ── Choices Grid ──────────────────────────────────── */
 .choices-grid {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  /* minmax(0, 1fr), not plain 1fr: grid tracks otherwise default to
+     minmax(auto, 1fr), so a long nowrap string in one cell inflates its
+     whole column's min-content width and squeezes the other column. */
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
   gap: 12px;
   width: 100%;
   max-width: 540px;
@@ -637,6 +712,7 @@ html, body {
   box-shadow: var(--shadow);
   /* uniform height regardless of content length */
   height: 48px;
+  min-width: 0; /* grid items default to min-width:auto too — same fix as .choice-text, one layer up */
   display: flex;
   align-items: center;
   justify-content: center;
@@ -644,10 +720,12 @@ html, body {
 }
 
 .choice-text {
+  display: block;
   overflow: hidden;
   white-space: nowrap;
   text-overflow: ellipsis;
   width: 100%;
+  min-width: 0; /* flex items default to min-width:auto, which blocks shrinking below content size and silently defeats text-overflow */
   text-align: center;
 }
 
@@ -657,9 +735,10 @@ html, body {
   font-size: 1.5em;
 }
 
-/* hover tooltip for truncated text */
-.choice-btn[data-tooltip]::after {
-  content: attr(data-tooltip);
+/* Hover tooltip for truncated text and pronunciation hints. A real child
+   element rather than a CSS ::after (which can only render plain text via
+   attr()) — the Chinese tone glyphs need actual SVG markup inside it. */
+.choice-tooltip {
   position: absolute;
   bottom: calc(100% + 8px);
   left: 50%;
@@ -683,14 +762,41 @@ html, body {
 
 .choice-btn:hover:not(:disabled) {
   border-color: var(--accent);
-  background: #f0f7ff;
+  background: var(--accent-tint-subtle);
   transform: translateY(-1px);
   box-shadow: var(--shadow-md);
 }
 
-.choice-btn[data-tooltip]:hover::after {
+.choice-btn:hover .choice-tooltip {
   opacity: 1;
 }
+
+/* ── Tone glyphs (Mandarin) ──────────────────────────
+   A contour sparkline over each syllable's IPA, colored per tone — the
+   character conveys meaning, not sound, so this lives with the
+   pronunciation text instead. */
+.tone-bracket {
+  font-family: 'SF Mono', Menlo, monospace;
+  font-weight: 600;
+  display: inline-flex;
+  align-items: flex-end;
+  gap: 2px;
+  vertical-align: middle;
+}
+
+.tone-syllable {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.tone-syllable svg {
+  display: block;
+}
+
+.word-ipa .tone-bracket { font-size: 1.1rem; }
+.choice-tooltip .tone-bracket { color: #fff; }
+.search-ipa-cell .tone-bracket { font-size: 0.95rem; }
 
 .choice-btn:active:not(:disabled) { transform: scale(0.98); }
 
@@ -743,6 +849,28 @@ html, body {
 }
 
 .next-btn.hidden { display: none; }
+
+/* ── Word Intro Screen ─────────────────────────────── */
+.intro-meaning {
+  font-size: 1.35rem;
+  font-weight: 600;
+  color: var(--text);
+  margin: 14px 0 10px;
+}
+
+.intro-context {
+  display: block;
+  margin-bottom: 8px;
+}
+
+.intro-nav {
+  display: flex;
+  gap: 12px;
+  width: 100%;
+  max-width: 540px;
+}
+
+.intro-nav button { flex: 1; padding: 14px; font-size: 1rem; }
 
 /* ── Summary Screen ────────────────────────────────── */
 #summary-screen {
@@ -887,7 +1015,7 @@ html, body {
   align-items: center;
   gap: 14px;
   padding: 54px 20px 14px;
-  background: rgba(245,245,247,0.85);
+  background: var(--bg-overlay);
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border-bottom: 1px solid var(--border);
@@ -959,7 +1087,7 @@ html, body {
 
 .search-input:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(0,113,227,0.15);
+  box-shadow: 0 0 0 3px var(--accent-ring);
 }
 
 .search-select {
@@ -1027,7 +1155,7 @@ html, body {
   gap: 10px;
   padding: 10px 16px;
   border-bottom: 1px solid var(--border);
-  background: rgba(0,113,227,0.06);
+  background: var(--accent-tint-subtle);
   flex-shrink: 0;
 }
 
@@ -1055,11 +1183,11 @@ html, body {
 }
 
 .search-table tr.selected td {
-  background: rgba(0,113,227,0.08);
+  background: var(--accent-tint-light);
 }
 
 .search-table tr.selected:hover td {
-  background: rgba(0,113,227,0.12);
+  background: var(--accent-tint-medium);
 }
 
 .search-table {
@@ -1095,7 +1223,7 @@ html, body {
 }
 
 .search-table tr:hover td {
-  background: rgba(0,113,227,0.04);
+  background: var(--accent-tint-faint);
 }
 
 /* Column set is user-configurable (Columns picker), so widths are no longer
@@ -1612,4 +1740,118 @@ html, body {
   font-size: 0.68rem;
   color: var(--text-2);
   line-height: 1.2;
+}
+
+.changelog-heading {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 20px 0 10px;
+}
+.changelog-heading:first-of-type { margin-top: 0; }
+
+.changelog-list {
+  margin: 0 0 4px;
+  padding-left: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.changelog-list li {
+  font-size: 0.88rem;
+  color: var(--text);
+  line-height: 1.4;
+}
+
+.preferences-heading {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  margin: 0 0 8px;
+}
+
+.preferences-intro {
+  font-size: 0.88rem;
+  color: var(--text-2);
+  line-height: 1.4;
+  margin: 0 0 16px;
+}
+
+.preferences-language-list {
+  gap: 10px 20px;
+}
+
+.preferences-heading-spaced {
+  margin-top: 24px;
+}
+
+.preferences-session-size-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 220px;
+}
+
+.session-size-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--text);
+}
+
+.session-size-input {
+  width: 56px;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: var(--radius-xs);
+  font-size: 0.92rem;
+  font-family: var(--font);
+  text-align: center;
+  color: var(--text);
+}
+.session-size-input:focus {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-ring);
+  outline: none;
+}
+
+.color-scheme-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.color-scheme-swatch {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: 980px;
+  padding: 8px 16px 8px 10px;
+  font-size: 0.88rem;
+  font-weight: 500;
+  font-family: var(--font);
+  color: var(--text);
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+.color-scheme-swatch:hover { background: var(--surface-2-hover); }
+.color-scheme-swatch.selected {
+  border-color: var(--accent);
+  background: var(--accent-tint-subtle);
+}
+
+.color-scheme-dot {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  flex-shrink: 0;
 }

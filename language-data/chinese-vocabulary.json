@@ -1,0 +1,6402 @@
+{
+  "meta": {
+    "language": "Chinese",
+    "languageCode": "zh",
+    "nativeLanguage": "English",
+    "targetField": "chinese",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "0b62ba18-409d-43c0-a7b1-2f62b1cbd331",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "chinese": "我",
+      "cefr": "A1",
+      "ipa": "[wo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "wo"
+      ]
+    },
+    {
+      "id": "7aa8de64-a66e-41ae-b6cf-468b25553433",
+      "part-of-speech": "pronoun",
+      "english": "you (singular)",
+      "chinese": "你",
+      "cefr": "A1",
+      "ipa": "[ni]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ni"
+      ]
+    },
+    {
+      "id": "cba5a80a-f96d-4939-826d-bc0e48523e9a",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "chinese": "您",
+      "cefr": "A1",
+      "ipa": "[nin]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "nin"
+      ]
+    },
+    {
+      "id": "33418b06-5df4-4e81-902d-2682e3ce517c",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "chinese": "他",
+      "cefr": "A1",
+      "ipa": "[tʰa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʰa"
+      ]
+    },
+    {
+      "id": "4ac12fa9-1a54-457d-9445-9ad65ff8a72a",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "chinese": "她",
+      "cefr": "A1",
+      "ipa": "[tʰa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʰa"
+      ]
+    },
+    {
+      "id": "4e7322de-fa3c-4dcc-b6d4-d36364d6e9d2",
+      "part-of-speech": "pronoun",
+      "english": "it",
+      "chinese": "它",
+      "cefr": "A1",
+      "ipa": "[tʰa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʰa"
+      ]
+    },
+    {
+      "id": "212a2045-7817-4332-b6f6-4b2116ceea8b",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "chinese": "我们",
+      "cefr": "A1",
+      "ipa": "[womən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "wo",
+        "mən"
+      ]
+    },
+    {
+      "id": "9354d7b3-5a60-4596-af57-71ac7f3e75cc",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "chinese": "你们",
+      "cefr": "A1",
+      "ipa": "[nimən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "ni",
+        "mən"
+      ]
+    },
+    {
+      "id": "5e2ff58d-c828-46d4-a9ac-85c7256ed93e",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "chinese": "他们",
+      "cefr": "A1",
+      "ipa": "[tʰamən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "tʰa",
+        "mən"
+      ]
+    },
+    {
+      "id": "bd1d00cc-b00a-4fcf-9f5c-fbdf223ec6a6",
+      "part-of-speech": "adjective",
+      "english": "this",
+      "chinese": "这",
+      "cefr": "A1",
+      "ipa": "[tʂə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tʂə"
+      ]
+    },
+    {
+      "id": "a34ddc26-6472-4aab-86e4-5328fa562cca",
+      "part-of-speech": "adjective",
+      "english": "that",
+      "chinese": "那",
+      "cefr": "A1",
+      "ipa": "[na]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "na"
+      ]
+    },
+    {
+      "id": "2509c14e-64d4-4f16-b259-9275ec8ef77a",
+      "part-of-speech": "pronoun",
+      "english": "this one",
+      "chinese": "这个",
+      "cefr": "A1",
+      "ipa": "[tʂəkə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "tʂə",
+        "kə"
+      ]
+    },
+    {
+      "id": "a5a84a9a-bb53-4fc3-94d6-593177827c8e",
+      "part-of-speech": "pronoun",
+      "english": "that one",
+      "chinese": "那个",
+      "cefr": "A1",
+      "ipa": "[nakə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "na",
+        "kə"
+      ]
+    },
+    {
+      "id": "4b39e3b8-758e-4808-ae00-ae22ac1254dc",
+      "part-of-speech": "pronoun",
+      "english": "oneself",
+      "chinese": "自己",
+      "cefr": "A1",
+      "ipa": "[tsɹ̩tɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "tsɹ̩",
+        "tɕi"
+      ]
+    },
+    {
+      "id": "fa830509-c701-481b-8d08-60608d856fff",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "chinese": "什么",
+      "cefr": "A1",
+      "ipa": "[ʂənmə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "ʂən",
+        "mə"
+      ]
+    },
+    {
+      "id": "689feedb-9da0-48e7-925f-a908a9e6f606",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "chinese": "谁",
+      "cefr": "A1",
+      "ipa": "[ʂei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "ʂei̯"
+      ]
+    },
+    {
+      "id": "c314e42c-61bb-4bea-84a3-a4fac6f41a45",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "chinese": "哪儿",
+      "cefr": "A1",
+      "ipa": "[naɚ̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "na",
+        "ɚ̯"
+      ]
+    },
+    {
+      "id": "ac2e51e4-7cb3-4faa-9d7e-b440ebb2e426",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "chinese": "哪里",
+      "cefr": "A1",
+      "ipa": "[nali]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "na",
+        "li"
+      ]
+    },
+    {
+      "id": "3d1f6196-4055-43eb-b5d0-9a9bbb628184",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "chinese": "怎么",
+      "cefr": "A1",
+      "ipa": "[tsənmə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "tsən",
+        "mə"
+      ]
+    },
+    {
+      "id": "c690ec0c-e0cf-4620-a5cb-c815b42196a2",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "chinese": "为什么",
+      "cefr": "A1",
+      "ipa": "[wei̯ʂənmə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "wei̯",
+        "ʂən",
+        "mə"
+      ]
+    },
+    {
+      "id": "d6a098a8-41e2-4998-a358-d1a39845f441",
+      "part-of-speech": "pronoun",
+      "english": "how many (small numbers)",
+      "chinese": "几",
+      "cefr": "A1",
+      "ipa": "[tɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tɕi"
+      ]
+    },
+    {
+      "id": "90ed0e6e-bce1-4619-bf6c-b0d5eaab2083",
+      "part-of-speech": "pronoun",
+      "english": "how much, how many",
+      "chinese": "多少",
+      "cefr": "A1",
+      "ipa": "[twoʂau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "two",
+        "ʂau̯"
+      ]
+    },
+    {
+      "id": "d6a619ed-8900-4a1a-8420-8ca9505f4ff8",
+      "part-of-speech": "adjective",
+      "english": "which",
+      "chinese": "哪",
+      "cefr": "A1",
+      "ipa": "[na]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "na"
+      ]
+    },
+    {
+      "id": "bc64b9ce-ce7c-4bd8-89e7-44835f53321d",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "chinese": "零",
+      "cefr": "A1",
+      "ipa": "[liŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "liŋ"
+      ]
+    },
+    {
+      "id": "73a61462-a7f5-4ec1-ad23-9309051b8580",
+      "part-of-speech": "noun",
+      "english": "one",
+      "chinese": "一",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "i"
+      ]
+    },
+    {
+      "id": "dd3bd6f8-e27b-4765-b502-c7c7ad5886cc",
+      "part-of-speech": "noun",
+      "english": "two",
+      "chinese": "二",
+      "cefr": "A1",
+      "ipa": "[ɚ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ɚ"
+      ]
+    },
+    {
+      "id": "23b83493-4906-46cc-8675-94035ec80703",
+      "part-of-speech": "noun",
+      "english": "three",
+      "chinese": "三",
+      "cefr": "A1",
+      "ipa": "[san]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "san"
+      ]
+    },
+    {
+      "id": "22bd004c-0bd6-4cd0-88b0-19dc1ce52799",
+      "part-of-speech": "noun",
+      "english": "four",
+      "chinese": "四",
+      "cefr": "A1",
+      "ipa": "[sɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "sɹ̩"
+      ]
+    },
+    {
+      "id": "701d4ebf-c7c4-4adf-b8ef-0bc1b82c2419",
+      "part-of-speech": "noun",
+      "english": "five",
+      "chinese": "五",
+      "cefr": "A1",
+      "ipa": "[u]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "u"
+      ]
+    },
+    {
+      "id": "d79dc115-1251-4512-a93a-bbd1f5af661e",
+      "part-of-speech": "noun",
+      "english": "six",
+      "chinese": "六",
+      "cefr": "A1",
+      "ipa": "[ljou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ljou̯"
+      ]
+    },
+    {
+      "id": "b534df12-de9c-41a3-b954-d41d681b8d6b",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "chinese": "七",
+      "cefr": "A1",
+      "ipa": "[tɕʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "12c25da5-2792-496a-b477-fb09349420de",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "chinese": "八",
+      "cefr": "A1",
+      "ipa": "[pa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "pa"
+      ]
+    },
+    {
+      "id": "2908e14a-ba30-4003-ac8b-d402b4c6091a",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "chinese": "九",
+      "cefr": "A1",
+      "ipa": "[tɕjou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tɕjou̯"
+      ]
+    },
+    {
+      "id": "75b71032-7dd6-4fd2-ad6e-bd40a6957aff",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "chinese": "十",
+      "cefr": "A1",
+      "ipa": "[ʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "0b9c9744-8872-4607-9467-89f90ed32ab9",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "chinese": "二十",
+      "cefr": "A1",
+      "ipa": "[ɚʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "ɚ",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "d7abff84-f4d8-410e-8bb6-aedf8ad58510",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "chinese": "三十",
+      "cefr": "A1",
+      "ipa": "[sanʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "san",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "eb4f2dea-5dfb-4125-92fd-1c1dc71beeb3",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "chinese": "百",
+      "cefr": "A1",
+      "ipa": "[pai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "pai̯"
+      ]
+    },
+    {
+      "id": "26524c7b-1d9a-495a-84c1-738f15c06f44",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "chinese": "千",
+      "cefr": "A1",
+      "ipa": "[tɕʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tɕʰjɛn"
+      ]
+    },
+    {
+      "id": "785839fe-7fc4-42e4-a6bc-7dac8429d1e4",
+      "part-of-speech": "noun",
+      "english": "ten thousand",
+      "chinese": "万",
+      "cefr": "A1",
+      "ipa": "[wan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "wan"
+      ]
+    },
+    {
+      "id": "ee99b17e-6788-4ef5-8c0e-9198da084d8f",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "chinese": "是",
+      "cefr": "A1",
+      "ipa": "[ʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "2fdc2f9f-ac0b-4f24-95b9-2a57480558b7",
+      "part-of-speech": "verb",
+      "english": "to have, there is",
+      "chinese": "有",
+      "cefr": "A1",
+      "ipa": "[jou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "jou̯"
+      ]
+    },
+    {
+      "id": "f5d3f0de-97f3-409c-a0d1-4e9f25f678d8",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "chinese": "去",
+      "cefr": "A1",
+      "ipa": "[tɕʰy]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tɕʰy"
+      ]
+    },
+    {
+      "id": "9accc4c7-d459-49d2-8790-d9e5d47e5bd4",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "chinese": "来",
+      "cefr": "A1",
+      "ipa": "[lai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "lai̯"
+      ]
+    },
+    {
+      "id": "ebe720a2-6f32-4ed1-8f47-8dd2aff265f7",
+      "part-of-speech": "verb",
+      "english": "to want, will",
+      "chinese": "要",
+      "cefr": "A1",
+      "ipa": "[jau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "jau̯"
+      ]
+    },
+    {
+      "id": "77f763cc-e664-47b2-a967-7ebef1948644",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "chinese": "能",
+      "cefr": "A1",
+      "ipa": "[nəŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "nəŋ"
+      ]
+    },
+    {
+      "id": "4f0665ad-c8d0-4c9d-a201-545ecc90e6ca",
+      "part-of-speech": "verb",
+      "english": "can, may",
+      "chinese": "可以",
+      "cefr": "A1",
+      "ipa": "[kʰəi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "kʰə",
+        "i"
+      ]
+    },
+    {
+      "id": "12dcbf80-9dbf-4179-a9a8-3f5db3a6c897",
+      "part-of-speech": "verb",
+      "english": "can, to know how to",
+      "chinese": "会",
+      "cefr": "A1",
+      "ipa": "[xwei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "xwei̯"
+      ]
+    },
+    {
+      "id": "a520554f-bfcd-4ca8-9df0-6bb1a5f6f03b",
+      "part-of-speech": "verb",
+      "english": "to want to, to think",
+      "chinese": "想",
+      "cefr": "A1",
+      "ipa": "[ɕjaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ɕjaŋ"
+      ]
+    },
+    {
+      "id": "2f76407c-cc25-40a2-b243-f3cf8f5fedca",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "chinese": "喜欢",
+      "cefr": "A1",
+      "ipa": "[ɕixwan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "ɕi",
+        "xwan"
+      ]
+    },
+    {
+      "id": "f573175e-d29d-48b0-af58-29245a50eb08",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "chinese": "爱",
+      "cefr": "A1",
+      "ipa": "[ai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ai̯"
+      ]
+    },
+    {
+      "id": "eef4f093-dbce-4cc6-9dce-984d58d601ae",
+      "part-of-speech": "verb",
+      "english": "to look, to watch, to read",
+      "chinese": "看",
+      "cefr": "A1",
+      "ipa": "[kʰan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "kʰan"
+      ]
+    },
+    {
+      "id": "d7cd2840-e1cf-4897-a89e-a27f44dc8745",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "chinese": "听",
+      "cefr": "A1",
+      "ipa": "[tʰiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʰiŋ"
+      ]
+    },
+    {
+      "id": "fd900934-483c-4b7d-8c83-20896fbb950c",
+      "part-of-speech": "verb",
+      "english": "to speak, to say",
+      "chinese": "说",
+      "cefr": "A1",
+      "ipa": "[ʂwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ʂwo"
+      ]
+    },
+    {
+      "id": "6a058522-4033-49fc-aa62-ce562070afe2",
+      "part-of-speech": "verb",
+      "english": "to read aloud, to study",
+      "chinese": "读",
+      "cefr": "A1",
+      "ipa": "[tu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tu"
+      ]
+    },
+    {
+      "id": "b22c5649-8171-49cc-af63-377b648b66b2",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "chinese": "写",
+      "cefr": "A1",
+      "ipa": "[ɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ɕjɛ"
+      ]
+    },
+    {
+      "id": "adb18913-10a4-4706-9055-4024acef6db6",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "chinese": "学习",
+      "cefr": "A1",
+      "ipa": "[ɕɥɛɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        2
+      ],
+      "ipaSyllables": [
+        "ɕɥɛ",
+        "ɕi"
+      ]
+    },
+    {
+      "id": "c6524e78-6c38-4094-beac-a42694757cc2",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "chinese": "工作",
+      "cefr": "A1",
+      "ipa": "[kʊŋtswo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "kʊŋ",
+        "tswo"
+      ]
+    },
+    {
+      "id": "ae37c899-cb7d-4779-8458-8275b76608da",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "chinese": "玩",
+      "cefr": "A1",
+      "ipa": "[wan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "wan"
+      ]
+    },
+    {
+      "id": "a5f66645-c27d-4a16-b575-fc99cc7e9fd4",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "chinese": "睡觉",
+      "cefr": "A1",
+      "ipa": "[ʂwei̯tɕjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂwei̯",
+        "tɕjau̯"
+      ]
+    },
+    {
+      "id": "9644c7a5-be83-4042-830d-d697c2a64762",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "chinese": "起床",
+      "cefr": "A1",
+      "ipa": "[tɕʰitʂʰwaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "tɕʰi",
+        "tʂʰwaŋ"
+      ]
+    },
+    {
+      "id": "bf12903c-44cb-4cb7-91ac-a016f6eef7e9",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "chinese": "坐",
+      "cefr": "A1",
+      "ipa": "[tswo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tswo"
+      ]
+    },
+    {
+      "id": "4f2019d3-e26c-464a-a41c-1c11ac0cbb00",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "chinese": "站",
+      "cefr": "A1",
+      "ipa": "[tʂan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tʂan"
+      ]
+    },
+    {
+      "id": "8a2bd5b2-5442-4f5e-8d0c-368ff8e22fa5",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "chinese": "吃",
+      "cefr": "A1",
+      "ipa": "[tʂʰʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʰʐ̩"
+      ]
+    },
+    {
+      "id": "d98b8649-1cf8-44d6-b6c0-f7bf091eae44",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "chinese": "喝",
+      "cefr": "A1",
+      "ipa": "[xə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "xə"
+      ]
+    },
+    {
+      "id": "45b1d4ee-569b-4127-a0e4-33c31a324422",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "chinese": "买",
+      "cefr": "A1",
+      "ipa": "[mai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "mai̯"
+      ]
+    },
+    {
+      "id": "899661c5-70d5-491d-9b0a-a4f575293904",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "chinese": "卖",
+      "cefr": "A1",
+      "ipa": "[mai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "mai̯"
+      ]
+    },
+    {
+      "id": "7ed00764-043e-478b-aca9-436926bfa5a1",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "chinese": "给",
+      "cefr": "A1",
+      "ipa": "[kei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "kei̯"
+      ]
+    },
+    {
+      "id": "3a1c78c0-a040-45d4-b439-ed4df3667951",
+      "part-of-speech": "verb",
+      "english": "to do, to make",
+      "chinese": "做",
+      "cefr": "A1",
+      "ipa": "[tswo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tswo"
+      ]
+    },
+    {
+      "id": "f2d850cb-70d9-41a8-82ad-8f7841c13bb6",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "chinese": "用",
+      "cefr": "A1",
+      "ipa": "[jʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "jʊŋ"
+      ]
+    },
+    {
+      "id": "df1e640a-8f77-4653-b669-25cd25d39cf5",
+      "part-of-speech": "verb",
+      "english": "to open, to turn on, to drive",
+      "chinese": "开",
+      "cefr": "A1",
+      "ipa": "[kʰai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "kʰai̯"
+      ]
+    },
+    {
+      "id": "7ec0c475-4146-4848-9669-68f405ecbeff",
+      "part-of-speech": "verb",
+      "english": "to close, to turn off",
+      "chinese": "关",
+      "cefr": "A1",
+      "ipa": "[kwan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "kwan"
+      ]
+    },
+    {
+      "id": "dbdad735-0221-4643-8648-6a678ac7f8d2",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "chinese": "等",
+      "cefr": "A1",
+      "ipa": "[təŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "təŋ"
+      ]
+    },
+    {
+      "id": "6320beed-d967-4804-87fb-72164750ab04",
+      "part-of-speech": "verb",
+      "english": "to begin, to start",
+      "chinese": "开始",
+      "cefr": "A1",
+      "ipa": "[kʰai̯ʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "kʰai̯",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "4c918a15-4ad7-4e97-954e-576038162c1d",
+      "part-of-speech": "verb",
+      "english": "to live, to reside",
+      "chinese": "住",
+      "cefr": "A1",
+      "ipa": "[tʂu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tʂu"
+      ]
+    },
+    {
+      "id": "151dc462-0269-47c9-a1b8-848395806859",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "chinese": "知道",
+      "cefr": "A1",
+      "ipa": "[tʂʐ̩tau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂʐ̩",
+        "tau̯"
+      ]
+    },
+    {
+      "id": "5564d9b4-236d-4426-aaed-ee6b032193d8",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "chinese": "懂",
+      "cefr": "A1",
+      "ipa": "[tʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tʊŋ"
+      ]
+    },
+    {
+      "id": "533ebd70-e36c-48c5-a78b-1367a017b0bd",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "chinese": "问",
+      "cefr": "A1",
+      "ipa": "[wən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "wən"
+      ]
+    },
+    {
+      "id": "1197a1bb-66f6-4896-a139-ff5ab5b46662",
+      "part-of-speech": "noun",
+      "english": "home, family",
+      "chinese": "家",
+      "cefr": "A1",
+      "ipa": "[tɕja]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tɕja"
+      ]
+    },
+    {
+      "id": "926d3616-2801-45d4-86ed-2c485b1a9143",
+      "part-of-speech": "noun",
+      "english": "water",
+      "chinese": "水",
+      "cefr": "A1",
+      "ipa": "[ʂwei̯]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ʂwei̯"
+      ]
+    },
+    {
+      "id": "1012af62-5eb0-4c17-9191-2fc26ae1571e",
+      "part-of-speech": "noun",
+      "english": "rice, meal",
+      "chinese": "饭",
+      "cefr": "A1",
+      "ipa": "[fan]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "fan"
+      ]
+    },
+    {
+      "id": "42968ae2-6b27-4942-bb9c-f26d47b4d030",
+      "part-of-speech": "noun",
+      "english": "book",
+      "chinese": "书",
+      "cefr": "A1",
+      "ipa": "[ʂu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ʂu"
+      ]
+    },
+    {
+      "id": "bc74d7b0-72f9-436e-9ecc-daa0769a1bab",
+      "part-of-speech": "noun",
+      "english": "car, vehicle",
+      "chinese": "车",
+      "cefr": "A1",
+      "ipa": "[tʂʰə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʰə"
+      ]
+    },
+    {
+      "id": "ac3dd96d-61ee-4227-96cb-86029a24724d",
+      "part-of-speech": "noun",
+      "english": "day, sky",
+      "chinese": "天",
+      "cefr": "A1",
+      "ipa": "[tʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "46903ddd-9268-4ea8-90eb-fc3ba3056f7a",
+      "part-of-speech": "noun",
+      "english": "time",
+      "chinese": "时间",
+      "cefr": "A1",
+      "ipa": "[ʂʐ̩tɕjɛn]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩",
+        "tɕjɛn"
+      ]
+    },
+    {
+      "id": "2542cf8a-d724-46da-bb88-260278f6cf7f",
+      "part-of-speech": "noun",
+      "english": "year",
+      "chinese": "年",
+      "cefr": "A1",
+      "ipa": "[njɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "njɛn"
+      ]
+    },
+    {
+      "id": "7371842a-a67a-48ee-8dbb-06fdd92639be",
+      "part-of-speech": "noun",
+      "english": "month",
+      "chinese": "月",
+      "cefr": "A1",
+      "ipa": "[ɥɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ɥɛ"
+      ]
+    },
+    {
+      "id": "b8bfed7f-f2ee-4a89-8c67-9baebeec40b7",
+      "part-of-speech": "noun",
+      "english": "week",
+      "chinese": "星期",
+      "cefr": "A1",
+      "ipa": "[ɕiŋtɕʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "ɕiŋ",
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "f27749ee-fc96-4f3d-86ea-edc309306c82",
+      "part-of-speech": "noun",
+      "english": "hour",
+      "chinese": "小时",
+      "cefr": "A1",
+      "ipa": "[ɕjau̯ʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "ɕjau̯",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "9c3d7f04-d985-4cde-8b1e-71b7813a53de",
+      "part-of-speech": "noun",
+      "english": "o’clock, point, a little",
+      "chinese": "点",
+      "cefr": "A1",
+      "ipa": "[tjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tjɛn"
+      ]
+    },
+    {
+      "id": "c01db510-8e60-4078-81be-0e1cbd3c8a60",
+      "part-of-speech": "noun",
+      "english": "person",
+      "chinese": "人",
+      "cefr": "A1",
+      "ipa": "[ʐən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "ʐən"
+      ]
+    },
+    {
+      "id": "dc6c5f89-5bdd-4819-b152-2b17e680e146",
+      "part-of-speech": "noun",
+      "english": "man",
+      "chinese": "男人",
+      "cefr": "A1",
+      "ipa": "[nanʐən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        2
+      ],
+      "ipaSyllables": [
+        "nan",
+        "ʐən"
+      ]
+    },
+    {
+      "id": "6fe4b722-a8ff-44a6-9119-e2e2778a5708",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "chinese": "女人",
+      "cefr": "A1",
+      "ipa": "[nyʐən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "ny",
+        "ʐən"
+      ]
+    },
+    {
+      "id": "4d80fc0a-7601-43ea-a6c6-f53fd423bc73",
+      "part-of-speech": "noun",
+      "english": "child",
+      "chinese": "孩子",
+      "cefr": "A1",
+      "ipa": "[xai̯tsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "xai̯",
+        "tsɹ̩"
+      ]
+    },
+    {
+      "id": "42fef6fa-8066-4ae6-b530-8a6aa2e3a505",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "chinese": "妈妈",
+      "cefr": "A1",
+      "ipa": "[mama]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "ma",
+        "ma"
+      ]
+    },
+    {
+      "id": "e26a5035-4f59-4c62-9bbd-6c5c0609f2bb",
+      "part-of-speech": "noun",
+      "english": "father",
+      "chinese": "爸爸",
+      "cefr": "A1",
+      "ipa": "[papa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "pa",
+        "pa"
+      ]
+    },
+    {
+      "id": "8017a7a0-138c-43be-afff-020f87af0e49",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "chinese": "朋友",
+      "cefr": "A1",
+      "ipa": "[pʰəŋjou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "pʰəŋ",
+        "jou̯"
+      ]
+    },
+    {
+      "id": "d170afe8-6a7c-45c8-b96d-104f0635f8c1",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "chinese": "老师",
+      "cefr": "A1",
+      "ipa": "[lau̯ʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        1
+      ],
+      "ipaSyllables": [
+        "lau̯",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "49bf4484-5fbe-4e3d-8e2c-f2fae05db041",
+      "part-of-speech": "noun",
+      "english": "student",
+      "chinese": "学生",
+      "cefr": "A1",
+      "ipa": "[ɕɥɛʂəŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "ɕɥɛ",
+        "ʂəŋ"
+      ]
+    },
+    {
+      "id": "5bafdf04-9f11-4df8-be47-f716bd97a5df",
+      "part-of-speech": "noun",
+      "english": "school",
+      "chinese": "学校",
+      "cefr": "A1",
+      "ipa": "[ɕɥɛɕjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕɥɛ",
+        "ɕjau̯"
+      ]
+    },
+    {
+      "id": "5ec78cf1-956f-4ac2-8845-72bcd48658ec",
+      "part-of-speech": "noun",
+      "english": "money",
+      "chinese": "钱",
+      "cefr": "A1",
+      "ipa": "[tɕʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tɕʰjɛn"
+      ]
+    },
+    {
+      "id": "dc175a6e-b6c1-4ca1-9b9a-a7523d2d18c6",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "chinese": "茶",
+      "cefr": "A1",
+      "ipa": "[tʂʰa]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tʂʰa"
+      ]
+    },
+    {
+      "id": "d352e747-3ddb-46cb-9432-6b3005220c20",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "chinese": "咖啡",
+      "cefr": "A1",
+      "ipa": "[kʰafei̯]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "kʰa",
+        "fei̯"
+      ]
+    },
+    {
+      "id": "53dc7ba1-a5f2-43b4-8b53-684a6c58fdd6",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "chinese": "牛奶",
+      "cefr": "A1",
+      "ipa": "[njou̯nai̯]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "njou̯",
+        "nai̯"
+      ]
+    },
+    {
+      "id": "21f6e64f-1a81-4fec-acb4-14ff8f8b94d2",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "chinese": "肉",
+      "cefr": "A1",
+      "ipa": "[ʐou̯]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ʐou̯"
+      ]
+    },
+    {
+      "id": "85cba866-8d73-44ce-81d5-8669b4528706",
+      "part-of-speech": "noun",
+      "english": "vegetable, dish",
+      "chinese": "菜",
+      "cefr": "A1",
+      "ipa": "[tsʰai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tsʰai̯"
+      ]
+    },
+    {
+      "id": "579ca68b-68b5-4f33-a456-5e193fe70bc8",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "chinese": "水果",
+      "cefr": "A1",
+      "ipa": "[ʂwei̯kwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "ʂwei̯",
+        "kwo"
+      ]
+    },
+    {
+      "id": "3e8fc1c0-e76e-41be-9ed1-18382b974590",
+      "part-of-speech": "noun",
+      "english": "table",
+      "chinese": "桌子",
+      "cefr": "A1",
+      "ipa": "[tʂwotsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "tʂwo",
+        "tsɹ̩"
+      ]
+    },
+    {
+      "id": "9127261f-b2f4-45fa-bda3-b73d7cb945f7",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "chinese": "椅子",
+      "cefr": "A1",
+      "ipa": "[itsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "i",
+        "tsɹ̩"
+      ]
+    },
+    {
+      "id": "00dba8a5-5721-4431-acf7-51248c942d68",
+      "part-of-speech": "noun",
+      "english": "door",
+      "chinese": "门",
+      "cefr": "A1",
+      "ipa": "[mən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "mən"
+      ]
+    },
+    {
+      "id": "e1cdd60a-7790-4b85-9860-6a53e7f915f2",
+      "part-of-speech": "noun",
+      "english": "window",
+      "chinese": "窗户",
+      "cefr": "A1",
+      "ipa": "[tʂʰwaŋxu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "tʂʰwaŋ",
+        "xu"
+      ]
+    },
+    {
+      "id": "b3f8bf13-55a7-4161-b1b1-2c91e76aacc0",
+      "part-of-speech": "noun",
+      "english": "room",
+      "chinese": "房间",
+      "cefr": "A1",
+      "ipa": "[faŋtɕjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "faŋ",
+        "tɕjɛn"
+      ]
+    },
+    {
+      "id": "99416bac-50af-41b1-b034-e6e500208396",
+      "part-of-speech": "noun",
+      "english": "city",
+      "chinese": "城市",
+      "cefr": "A1",
+      "ipa": "[tʂʰəŋʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂʰəŋ",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "0eca42d4-4cd5-4c3e-8b51-e337fe2f02eb",
+      "part-of-speech": "noun",
+      "english": "country",
+      "chinese": "国家",
+      "cefr": "A1",
+      "ipa": "[kwotɕja]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "kwo",
+        "tɕja"
+      ]
+    },
+    {
+      "id": "4198ca66-a30c-4193-a8d9-775b2613250e",
+      "part-of-speech": "noun",
+      "english": "world",
+      "chinese": "世界",
+      "cefr": "A1",
+      "ipa": "[ʂʐ̩tɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩",
+        "tɕjɛ"
+      ]
+    },
+    {
+      "id": "90a4d55f-30a5-441e-8616-f8a7c783d030",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "chinese": "山",
+      "cefr": "A1",
+      "ipa": "[ʂan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ʂan"
+      ]
+    },
+    {
+      "id": "6f962082-111c-4f88-bdb6-d86055e3faa5",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "chinese": "树",
+      "cefr": "A1",
+      "ipa": "[ʂu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ʂu"
+      ]
+    },
+    {
+      "id": "9b807866-714b-43bc-b44f-73828acfd610",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "chinese": "花",
+      "cefr": "A1",
+      "ipa": "[xwa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "xwa"
+      ]
+    },
+    {
+      "id": "4a66807e-41bf-4da6-85fe-9f2a8cc491ce",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "chinese": "动物",
+      "cefr": "A1",
+      "ipa": "[tʊŋu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tʊŋ",
+        "u"
+      ]
+    },
+    {
+      "id": "9d6e5836-bfc1-4dab-bfa1-4d4a3567b5bc",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "chinese": "狗",
+      "cefr": "A1",
+      "ipa": "[kou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "kou̯"
+      ]
+    },
+    {
+      "id": "f6e045e7-5e06-422b-a0a2-1593f7b2f41b",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "chinese": "猫",
+      "cefr": "A1",
+      "ipa": "[mau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "mau̯"
+      ]
+    },
+    {
+      "id": "df41c898-e3d3-4c2f-9c39-892ce6c50e57",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "chinese": "鸟",
+      "cefr": "A1",
+      "ipa": "[njau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "njau̯"
+      ]
+    },
+    {
+      "id": "df978978-f501-4f48-9e9e-774472790f7b",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "chinese": "红色",
+      "cefr": "A1",
+      "ipa": "[xʊŋsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "xʊŋ",
+        "sə"
+      ]
+    },
+    {
+      "id": "3e044b8c-4f3b-44c0-aedb-44a3acd62d9a",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "chinese": "蓝色",
+      "cefr": "A1",
+      "ipa": "[lansə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "lan",
+        "sə"
+      ]
+    },
+    {
+      "id": "4f4053b5-49a6-45a2-98e1-f5fa126d77e2",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "chinese": "绿色",
+      "cefr": "A1",
+      "ipa": "[lysə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "ly",
+        "sə"
+      ]
+    },
+    {
+      "id": "1c8e9ff4-6be0-4ee2-8935-6b5c141c258d",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "chinese": "黄色",
+      "cefr": "A1",
+      "ipa": "[xwaŋsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "xwaŋ",
+        "sə"
+      ]
+    },
+    {
+      "id": "d8499c99-98b1-4152-82c4-84a7b9def6e4",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "chinese": "黑色",
+      "cefr": "A1",
+      "ipa": "[xei̯sə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "xei̯",
+        "sə"
+      ]
+    },
+    {
+      "id": "9082c328-70e2-43a3-b6eb-105ae389d10b",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "chinese": "白色",
+      "cefr": "A1",
+      "ipa": "[pai̯sə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "pai̯",
+        "sə"
+      ]
+    },
+    {
+      "id": "429d2f6f-f446-44eb-875e-a411ee232cf3",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "chinese": "棕色",
+      "cefr": "A1",
+      "ipa": "[tsʊŋsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "tsʊŋ",
+        "sə"
+      ]
+    },
+    {
+      "id": "05f0c127-081a-4102-8b49-790dad2cc699",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "chinese": "粉色",
+      "cefr": "A1",
+      "ipa": "[fənsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "fən",
+        "sə"
+      ]
+    },
+    {
+      "id": "fa1c9f3e-d6a1-4f94-8bc7-08b1aab3f556",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "chinese": "紫色",
+      "cefr": "A1",
+      "ipa": "[tsɹ̩sə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tsɹ̩",
+        "sə"
+      ]
+    },
+    {
+      "id": "ef3b9522-d3d8-4156-b461-83c765361356",
+      "part-of-speech": "adjective",
+      "english": "gray",
+      "chinese": "灰色",
+      "cefr": "A1",
+      "ipa": "[xwei̯sə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "xwei̯",
+        "sə"
+      ]
+    },
+    {
+      "id": "6d7916cd-3ff2-4b7b-977d-8c96b70bc7d7",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "chinese": "橙色",
+      "cefr": "A1",
+      "ipa": "[tʂʰəŋsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂʰəŋ",
+        "sə"
+      ]
+    },
+    {
+      "id": "f06ef4b0-a3e5-41d8-8a3f-0bd7b09d8998",
+      "part-of-speech": "noun",
+      "english": "older brother",
+      "chinese": "哥哥",
+      "cefr": "A1",
+      "ipa": "[kəkə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "kə",
+        "kə"
+      ]
+    },
+    {
+      "id": "40b32701-4c3a-4d47-b60d-878262985a0a",
+      "part-of-speech": "noun",
+      "english": "older sister",
+      "chinese": "姐姐",
+      "cefr": "A1",
+      "ipa": "[tɕjɛtɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "tɕjɛ",
+        "tɕjɛ"
+      ]
+    },
+    {
+      "id": "be17b970-00e3-41c3-881d-e81a9e0ab3c7",
+      "part-of-speech": "noun",
+      "english": "younger brother",
+      "chinese": "弟弟",
+      "cefr": "A1",
+      "ipa": "[titi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "ti",
+        "ti"
+      ]
+    },
+    {
+      "id": "efa73470-4f10-451e-9703-4d38c02e1adc",
+      "part-of-speech": "noun",
+      "english": "younger sister",
+      "chinese": "妹妹",
+      "cefr": "A1",
+      "ipa": "[mei̯mei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "mei̯",
+        "mei̯"
+      ]
+    },
+    {
+      "id": "6d36a94f-929b-4137-9074-648061048304",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "chinese": "女儿",
+      "cefr": "A1",
+      "ipa": "[nyɚ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "ny",
+        "ɚ"
+      ]
+    },
+    {
+      "id": "57622f23-9d0e-42a8-bce1-27510dc99cde",
+      "part-of-speech": "noun",
+      "english": "son",
+      "chinese": "儿子",
+      "cefr": "A1",
+      "ipa": "[ɚtsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "ɚ",
+        "tsɹ̩"
+      ]
+    },
+    {
+      "id": "8c646548-d269-4369-970f-99d7559b3d3c",
+      "part-of-speech": "noun",
+      "english": "grandfather (paternal)",
+      "chinese": "爷爷",
+      "cefr": "A1",
+      "ipa": "[jɛjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "jɛ",
+        "jɛ"
+      ]
+    },
+    {
+      "id": "c90b51fd-0c8a-42be-bc03-1406dd7aacee",
+      "part-of-speech": "noun",
+      "english": "grandmother (paternal)",
+      "chinese": "奶奶",
+      "cefr": "A1",
+      "ipa": "[nai̯nai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "nai̯",
+        "nai̯"
+      ]
+    },
+    {
+      "id": "28654b6d-442a-4808-be8c-c1caac9cfc05",
+      "part-of-speech": "noun",
+      "english": "family member(s)",
+      "chinese": "家人",
+      "cefr": "A1",
+      "ipa": "[tɕjaʐən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "tɕja",
+        "ʐən"
+      ]
+    },
+    {
+      "id": "47d01ab4-fa8f-42ad-8ef0-73688bf9c6ea",
+      "part-of-speech": "adjective",
+      "english": "big",
+      "chinese": "大",
+      "cefr": "A1",
+      "ipa": "[ta]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ta"
+      ]
+    },
+    {
+      "id": "37887140-2f43-4fb3-ae7d-dc6e8078208c",
+      "part-of-speech": "adjective",
+      "english": "small",
+      "chinese": "小",
+      "cefr": "A1",
+      "ipa": "[ɕjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ɕjau̯"
+      ]
+    },
+    {
+      "id": "666bfbbb-1faa-4fa4-8540-45822adb90c2",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "chinese": "好",
+      "cefr": "A1",
+      "ipa": "[xau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "xau̯"
+      ]
+    },
+    {
+      "id": "a39fc0ca-7ab4-4fd9-9e9e-9f442c7243aa",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "chinese": "坏",
+      "cefr": "A1",
+      "ipa": "[xwai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "xwai̯"
+      ]
+    },
+    {
+      "id": "6b3a8944-6cdc-4710-873e-d53844b9b1e8",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty",
+      "chinese": "漂亮",
+      "cefr": "A1",
+      "ipa": "[pʰjau̯ljaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "pʰjau̯",
+        "ljaŋ"
+      ]
+    },
+    {
+      "id": "0bacbc97-d1dc-4395-aa12-a023b6da1936",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "chinese": "新",
+      "cefr": "A1",
+      "ipa": "[ɕin]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ɕin"
+      ]
+    },
+    {
+      "id": "5b5185fa-36ca-49d8-8e11-85c365bcd586",
+      "part-of-speech": "adjective",
+      "english": "old (of things)",
+      "chinese": "旧",
+      "cefr": "A1",
+      "ipa": "[tɕjou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tɕjou̯"
+      ]
+    },
+    {
+      "id": "ec92f8c7-9b43-44d3-a3b8-42d88421144a",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "chinese": "年轻",
+      "cefr": "A1",
+      "ipa": "[njɛntɕʰiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "njɛn",
+        "tɕʰiŋ"
+      ]
+    },
+    {
+      "id": "59a82de5-17b2-4bfe-a701-7f4b1104de88",
+      "part-of-speech": "adjective",
+      "english": "old (of people)",
+      "chinese": "老",
+      "cefr": "A1",
+      "ipa": "[lau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "lau̯"
+      ]
+    },
+    {
+      "id": "402b3dc9-82e8-4bce-b4e5-3d5785df0290",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "chinese": "长",
+      "cefr": "A1",
+      "ipa": "[tʂʰaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tʂʰaŋ"
+      ]
+    },
+    {
+      "id": "6764a7f4-cd33-4eb5-8e16-587dac85c956",
+      "part-of-speech": "adjective",
+      "english": "short (length)",
+      "chinese": "短",
+      "cefr": "A1",
+      "ipa": "[twan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "twan"
+      ]
+    },
+    {
+      "id": "50c63168-d056-44f5-8ef9-7f2008ea5e13",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "chinese": "高",
+      "cefr": "A1",
+      "ipa": "[kau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "kau̯"
+      ]
+    },
+    {
+      "id": "033261a1-98c5-4df4-938a-2952dd4a70d2",
+      "part-of-speech": "adjective",
+      "english": "short (height)",
+      "chinese": "矮",
+      "cefr": "A1",
+      "ipa": "[ai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ai̯"
+      ]
+    },
+    {
+      "id": "6e30f105-4b87-4bcd-8dc9-d2812656466e",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "chinese": "热",
+      "cefr": "A1",
+      "ipa": "[ʐə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ʐə"
+      ]
+    },
+    {
+      "id": "291d202b-66f2-4bd0-878c-00caadc4b624",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "chinese": "冷",
+      "cefr": "A1",
+      "ipa": "[ləŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ləŋ"
+      ]
+    },
+    {
+      "id": "2c3aa3e9-cd21-4c75-adb0-935cb4888604",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "chinese": "快",
+      "cefr": "A1",
+      "ipa": "[kʰwai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "kʰwai̯"
+      ]
+    },
+    {
+      "id": "a4303846-01d1-4032-a235-f363fc86b30b",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "chinese": "慢",
+      "cefr": "A1",
+      "ipa": "[man]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "man"
+      ]
+    },
+    {
+      "id": "ca7a44eb-2cad-47f1-a1d2-7b88d506c70d",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "chinese": "容易",
+      "cefr": "A1",
+      "ipa": "[ʐʊŋi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "ʐʊŋ",
+        "i"
+      ]
+    },
+    {
+      "id": "088e2af1-5df7-4424-93be-444f4bd2ff44",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "chinese": "难",
+      "cefr": "A1",
+      "ipa": "[nan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "nan"
+      ]
+    },
+    {
+      "id": "a3f4a744-a4b8-430f-ad9b-29a7d927722c",
+      "part-of-speech": "adjective",
+      "english": "right, correct",
+      "chinese": "对",
+      "cefr": "A1",
+      "ipa": "[twei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "twei̯"
+      ]
+    },
+    {
+      "id": "c26ba21b-b737-4a15-9e7a-0d623d945311",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "chinese": "错",
+      "cefr": "A1",
+      "ipa": "[tsʰwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tsʰwo"
+      ]
+    },
+    {
+      "id": "478f4778-787c-42a5-9d26-5ae16cae3d90",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "chinese": "干净",
+      "cefr": "A1",
+      "ipa": "[kantɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "kan",
+        "tɕiŋ"
+      ]
+    },
+    {
+      "id": "caade8c2-cafa-46bb-a77c-26f91f774345",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "chinese": "脏",
+      "cefr": "A1",
+      "ipa": "[tsaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tsaŋ"
+      ]
+    },
+    {
+      "id": "afc6c7b6-699f-452b-825b-76e989c98f94",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "chinese": "便宜",
+      "cefr": "A1",
+      "ipa": "[pʰjɛni]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "pʰjɛn",
+        "i"
+      ]
+    },
+    {
+      "id": "71f41f5c-a324-4f68-80b7-4a1ec399f2e5",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "chinese": "贵",
+      "cefr": "A1",
+      "ipa": "[kwei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "kwei̯"
+      ]
+    },
+    {
+      "id": "32cc8b09-d28f-45cd-9b40-d6f5eb568574",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "chinese": "高兴",
+      "cefr": "A1",
+      "ipa": "[kau̯ɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "kau̯",
+        "ɕiŋ"
+      ]
+    },
+    {
+      "id": "6fb1583e-0ea7-4a24-a81f-23640d685a2a",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "chinese": "难过",
+      "cefr": "A1",
+      "ipa": "[nankwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "nan",
+        "kwo"
+      ]
+    },
+    {
+      "id": "6ec998d7-f0bb-4ac4-8190-c0681ba8d68f",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "chinese": "很",
+      "cefr": "A1",
+      "ipa": "[xən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "xən"
+      ]
+    },
+    {
+      "id": "23d965e5-8ca2-418d-b40a-4849cf475ea9",
+      "part-of-speech": "adverb",
+      "english": "too (excessively)",
+      "chinese": "太",
+      "cefr": "A1",
+      "ipa": "[tʰai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tʰai̯"
+      ]
+    },
+    {
+      "id": "a419815d-0b1b-468a-a41c-e74515d10622",
+      "part-of-speech": "adverb",
+      "english": "also",
+      "chinese": "也",
+      "cefr": "A1",
+      "ipa": "[jɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "jɛ"
+      ]
+    },
+    {
+      "id": "0c0db613-fdc4-480e-adc0-328188f8bca4",
+      "part-of-speech": "adverb",
+      "english": "all, both",
+      "chinese": "都",
+      "cefr": "A1",
+      "ipa": "[tou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tou̯"
+      ]
+    },
+    {
+      "id": "b664a995-e79a-44aa-83c8-1413a0b6347e",
+      "part-of-speech": "adverb",
+      "english": "still, also",
+      "chinese": "还",
+      "cefr": "A1",
+      "ipa": "[xai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "xai̯"
+      ]
+    },
+    {
+      "id": "962c371a-64fb-4a60-a837-f915bdb16486",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "chinese": "已经",
+      "cefr": "A1",
+      "ipa": "[itɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        1
+      ],
+      "ipaSyllables": [
+        "i",
+        "tɕiŋ"
+      ]
+    },
+    {
+      "id": "efc02b91-60ef-4ea0-a84e-aa33c7a6e730",
+      "part-of-speech": "adverb",
+      "english": "again (in the future)",
+      "chinese": "再",
+      "cefr": "A1",
+      "ipa": "[tsai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tsai̯"
+      ]
+    },
+    {
+      "id": "d434bc83-e7f8-4aa7-9bb6-55912f2c8877",
+      "part-of-speech": "adverb",
+      "english": "again (in the past)",
+      "chinese": "又",
+      "cefr": "A1",
+      "ipa": "[jou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "jou̯"
+      ]
+    },
+    {
+      "id": "b0421852-45c0-468e-a035-7daa00e29785",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "chinese": "现在",
+      "cefr": "A1",
+      "ipa": "[ɕjɛntsai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕjɛn",
+        "tsai̯"
+      ]
+    },
+    {
+      "id": "909ed84e-8a15-4756-b856-a15f943e2524",
+      "part-of-speech": "adverb",
+      "english": "afterward, later",
+      "chinese": "以后",
+      "cefr": "A1",
+      "ipa": "[ixou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "i",
+        "xou̯"
+      ]
+    },
+    {
+      "id": "4937b204-1ea1-4384-83ec-b0c94b9c9755",
+      "part-of-speech": "adverb",
+      "english": "before, previously",
+      "chinese": "以前",
+      "cefr": "A1",
+      "ipa": "[itɕʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "i",
+        "tɕʰjɛn"
+      ]
+    },
+    {
+      "id": "6c709fb5-5ce5-476b-bc20-a9cbfcc1e920",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "chinese": "今天",
+      "cefr": "A1",
+      "ipa": "[tɕintʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tɕin",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "18755643-7fc9-4a07-b66b-d179594075b0",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "chinese": "明天",
+      "cefr": "A1",
+      "ipa": "[miŋtʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "miŋ",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "ee46267c-7d61-437f-9216-02ce384a1ec8",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "chinese": "昨天",
+      "cefr": "A1",
+      "ipa": "[tswotʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "tswo",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "88d52512-ad5b-4ca4-851a-8b100859e330",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "chinese": "这里",
+      "cefr": "A1",
+      "ipa": "[tʂəli]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "tʂə",
+        "li"
+      ]
+    },
+    {
+      "id": "083e7195-7e7b-41be-b49b-541ca216b1ba",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "chinese": "那里",
+      "cefr": "A1",
+      "ipa": "[nali]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "na",
+        "li"
+      ]
+    },
+    {
+      "id": "4a51a2cc-0b80-43d3-8ed8-7eeb7f5b61b4",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "chinese": "你好",
+      "cefr": "A1",
+      "ipa": "[nixau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "ni",
+        "xau̯"
+      ]
+    },
+    {
+      "id": "b37f5371-46b6-48c8-9e3d-3701c8fa78c9",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "chinese": "早",
+      "cefr": "A1",
+      "ipa": "[tsau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tsau̯"
+      ]
+    },
+    {
+      "id": "41579f79-4f90-4fe5-a767-45e8cf21ed6b",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "chinese": "晚安",
+      "cefr": "A1",
+      "ipa": "[wanan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        1
+      ],
+      "ipaSyllables": [
+        "wan",
+        "an"
+      ]
+    },
+    {
+      "id": "cae1d7c0-fbf1-4d71-8c8b-8f7688eba1b0",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "chinese": "再见",
+      "cefr": "A1",
+      "ipa": "[tsai̯tɕjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tsai̯",
+        "tɕjɛn"
+      ]
+    },
+    {
+      "id": "a7d3aa1b-da85-4751-9eec-6e3e0b142bf7",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "chinese": "谢谢",
+      "cefr": "A1",
+      "ipa": "[ɕjɛɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "ɕjɛ",
+        "ɕjɛ"
+      ]
+    },
+    {
+      "id": "86bebfe3-438d-41a0-be0d-136e205ab885",
+      "part-of-speech": "interjection",
+      "english": "you’re welcome",
+      "chinese": "不客气",
+      "cefr": "A1",
+      "ipa": "[pukʰətɕʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "pu",
+        "kʰə",
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "bd0be851-3277-46d7-a361-3a3a915a3ecb",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "chinese": "对不起",
+      "cefr": "A1",
+      "ipa": "[twei̯putɕʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0,
+        3
+      ],
+      "ipaSyllables": [
+        "twei̯",
+        "pu",
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "aeba4cbe-f27f-4181-be38-466488b24c6a",
+      "part-of-speech": "interjection",
+      "english": "it’s okay, never mind",
+      "chinese": "没关系",
+      "cefr": "A1",
+      "ipa": "[mei̯kwanɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "mei̯",
+        "kwan",
+        "ɕi"
+      ]
+    },
+    {
+      "id": "a11c19cc-9961-4fd5-a2b8-ad1b2bb786b1",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "chinese": "请",
+      "cefr": "A1",
+      "ipa": "[tɕʰiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tɕʰiŋ"
+      ]
+    },
+    {
+      "id": "868694b2-7462-4494-b988-1c4515f9a8a4",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "chinese": "和",
+      "cefr": "A1",
+      "ipa": "[xə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "xə"
+      ]
+    },
+    {
+      "id": "f59e0cb2-5a98-430f-bc53-34b45b4e308c",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "chinese": "但是",
+      "cefr": "A1",
+      "ipa": "[tanʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tan",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "98f7f56a-8dbd-4e41-bbbe-5b9aea6673a7",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "chinese": "或者",
+      "cefr": "A1",
+      "ipa": "[xwotʂə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "xwo",
+        "tʂə"
+      ]
+    },
+    {
+      "id": "50530ae3-b751-4581-a9bc-4030d4671622",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "chinese": "因为",
+      "cefr": "A1",
+      "ipa": "[inwei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "in",
+        "wei̯"
+      ]
+    },
+    {
+      "id": "3c065f62-8868-4612-aaf9-1dce5744894b",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "chinese": "所以",
+      "cefr": "A1",
+      "ipa": "[swoi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "swo",
+        "i"
+      ]
+    },
+    {
+      "id": "75e8f17d-ce1a-4ed1-94ac-1e9e50b90b13",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "chinese": "如果",
+      "cefr": "A1",
+      "ipa": "[ʐukwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "ʐu",
+        "kwo"
+      ]
+    },
+    {
+      "id": "e954d04f-1a86-454f-8cc3-a35599b57d69",
+      "part-of-speech": "preposition",
+      "english": "at, in, on",
+      "chinese": "在",
+      "cefr": "A1",
+      "ipa": "[tsai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tsai̯"
+      ]
+    },
+    {
+      "id": "1bb54e03-f979-4087-a17a-d934875a4e88",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "chinese": "从",
+      "cefr": "A1",
+      "ipa": "[tsʰʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tsʰʊŋ"
+      ]
+    },
+    {
+      "id": "c4eb38ce-534e-4a47-a44e-43673b997bf0",
+      "part-of-speech": "preposition",
+      "english": "to, until",
+      "chinese": "到",
+      "cefr": "A1",
+      "ipa": "[tau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tau̯"
+      ]
+    },
+    {
+      "id": "6aaed53d-84a6-43f1-a3c9-ac62c071d719",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "chinese": "跟",
+      "cefr": "A1",
+      "ipa": "[kən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "kən"
+      ]
+    },
+    {
+      "id": "61aee685-e5b9-489e-8cd2-e1ce64321759",
+      "part-of-speech": "preposition",
+      "english": "than (comparison)",
+      "chinese": "比",
+      "cefr": "A1",
+      "ipa": "[pi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "pi"
+      ]
+    },
+    {
+      "id": "eb2e7a4d-048b-4bd9-b644-e9504f95942c",
+      "part-of-speech": "verb",
+      "english": "to think, to believe",
+      "chinese": "认为",
+      "cefr": "A2",
+      "ipa": "[ʐənwei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "ʐən",
+        "wei̯"
+      ]
+    },
+    {
+      "id": "c9cae538-293c-4dd1-89f6-d57311b239bb",
+      "part-of-speech": "verb",
+      "english": "to feel, to think",
+      "chinese": "觉得",
+      "cefr": "A2",
+      "ipa": "[tɕɥɛtə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "tɕɥɛ",
+        "tə"
+      ]
+    },
+    {
+      "id": "f2c373b3-57c7-4f2f-9857-b439daac8a71",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "chinese": "希望",
+      "cefr": "A2",
+      "ipa": "[ɕiwaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕi",
+        "waŋ"
+      ]
+    },
+    {
+      "id": "ec0389c8-f80e-4f47-bab4-5d2e8de994ca",
+      "part-of-speech": "verb",
+      "english": "to decide",
+      "chinese": "决定",
+      "cefr": "A2",
+      "ipa": "[tɕɥɛtiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕɥɛ",
+        "tiŋ"
+      ]
+    },
+    {
+      "id": "9d4adf50-4369-4ac1-b311-adc46ba55742",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "chinese": "选择",
+      "cefr": "A2",
+      "ipa": "[ɕɥɛntsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "ɕɥɛn",
+        "tsə"
+      ]
+    },
+    {
+      "id": "3515ab66-2655-47a5-b73c-1e7004245377",
+      "part-of-speech": "verb",
+      "english": "to believe, to trust",
+      "chinese": "相信",
+      "cefr": "A2",
+      "ipa": "[ɕjaŋɕin]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕjaŋ",
+        "ɕin"
+      ]
+    },
+    {
+      "id": "5c55dae4-3000-4c93-8632-beb26d1b0ec2",
+      "part-of-speech": "verb",
+      "english": "to understand, to find out about",
+      "chinese": "了解",
+      "cefr": "A2",
+      "ipa": "[ljau̯tɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "ljau̯",
+        "tɕjɛ"
+      ]
+    },
+    {
+      "id": "85f177ee-fe95-439f-a74c-d10451d116a4",
+      "part-of-speech": "verb",
+      "english": "to discover, to find",
+      "chinese": "发现",
+      "cefr": "A2",
+      "ipa": "[faɕjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "fa",
+        "ɕjɛn"
+      ]
+    },
+    {
+      "id": "f8ff6d42-d2f1-497a-8701-b72c7448921a",
+      "part-of-speech": "verb",
+      "english": "to solve",
+      "chinese": "解决",
+      "cefr": "A2",
+      "ipa": "[tɕjɛtɕɥɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "tɕjɛ",
+        "tɕɥɛ"
+      ]
+    },
+    {
+      "id": "212c0f30-9a3c-463a-b8b0-b9495fa1f497",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "chinese": "改变",
+      "cefr": "A2",
+      "ipa": "[kai̯pjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "kai̯",
+        "pjɛn"
+      ]
+    },
+    {
+      "id": "e4edd562-368a-4795-a48b-fbb1cfeaab15",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "chinese": "试",
+      "cefr": "A2",
+      "ipa": "[ʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "4a009118-c5b0-41b1-8dc2-365b87d9dd20",
+      "part-of-speech": "verb",
+      "english": "to succeed",
+      "chinese": "成功",
+      "cefr": "A2",
+      "ipa": "[tʂʰəŋkʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʰəŋ",
+        "kʊŋ"
+      ]
+    },
+    {
+      "id": "ae0a61b6-7cfa-440c-be4d-e33b1ab72a24",
+      "part-of-speech": "verb",
+      "english": "to fail",
+      "chinese": "失败",
+      "cefr": "A2",
+      "ipa": "[ʂʐ̩pai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩",
+        "pai̯"
+      ]
+    },
+    {
+      "id": "b9fbeeb9-d54b-4007-a5e7-eca15c72fb57",
+      "part-of-speech": "verb",
+      "english": "to spend (money, time)",
+      "chinese": "花",
+      "cefr": "A2",
+      "ipa": "[xwa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "xwa"
+      ]
+    },
+    {
+      "id": "fe2f4d8c-0112-4580-9688-2e182a5a7b06",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "chinese": "付钱",
+      "cefr": "A2",
+      "ipa": "[futɕʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "fu",
+        "tɕʰjɛn"
+      ]
+    },
+    {
+      "id": "1876f939-64ca-4f58-943d-0f8b7361d9cf",
+      "part-of-speech": "verb",
+      "english": "to prepare",
+      "chinese": "准备",
+      "cefr": "A2",
+      "ipa": "[tʂwənpei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂwən",
+        "pei̯"
+      ]
+    },
+    {
+      "id": "e35a6056-97bc-45e3-b52f-82ff067c5771",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "chinese": "需要",
+      "cefr": "A2",
+      "ipa": "[ɕyjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕy",
+        "jau̯"
+      ]
+    },
+    {
+      "id": "d9a68be0-7611-4959-9fa8-6b4e58988f5d",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "chinese": "必须",
+      "cefr": "A2",
+      "ipa": "[piɕy]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        1
+      ],
+      "ipaSyllables": [
+        "pi",
+        "ɕy"
+      ]
+    },
+    {
+      "id": "8a3e318b-6cfb-4665-9d0b-b7e0c6175af6",
+      "part-of-speech": "verb",
+      "english": "should",
+      "chinese": "应该",
+      "cefr": "A2",
+      "ipa": "[iŋkai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "iŋ",
+        "kai̯"
+      ]
+    },
+    {
+      "id": "2c5f378d-4483-4f35-8737-20e161a85d80",
+      "part-of-speech": "verb",
+      "english": "to participate, to attend",
+      "chinese": "参加",
+      "cefr": "A2",
+      "ipa": "[tsʰantɕja]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tsʰan",
+        "tɕja"
+      ]
+    },
+    {
+      "id": "f38da21c-2a62-41eb-a23f-695ad2f585ff",
+      "part-of-speech": "verb",
+      "english": "to marry",
+      "chinese": "结婚",
+      "cefr": "A2",
+      "ipa": "[tɕjɛxwən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "tɕjɛ",
+        "xwən"
+      ]
+    },
+    {
+      "id": "f627557b-8ccd-4ccd-9635-e2c5673d3b2f",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "chinese": "出生",
+      "cefr": "A2",
+      "ipa": "[tʂʰuʂəŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʰu",
+        "ʂəŋ"
+      ]
+    },
+    {
+      "id": "3909df74-defe-44df-94cf-bafd9e5bbee9",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "chinese": "死",
+      "cefr": "A2",
+      "ipa": "[sɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "sɹ̩"
+      ]
+    },
+    {
+      "id": "d394ef5f-23c7-4fb9-b35c-b11f3b759bf2",
+      "part-of-speech": "verb",
+      "english": "to grow up",
+      "chinese": "长大",
+      "cefr": "A2",
+      "ipa": "[tʂaŋta]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂaŋ",
+        "ta"
+      ]
+    },
+    {
+      "id": "4f580c51-43cc-4056-bd13-1f17e3a39001",
+      "part-of-speech": "verb",
+      "english": "to move house",
+      "chinese": "搬家",
+      "cefr": "A2",
+      "ipa": "[pantɕja]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "pan",
+        "tɕja"
+      ]
+    },
+    {
+      "id": "c39f8de5-4f4a-4606-9bf7-f346551f9ae9",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "chinese": "旅行",
+      "cefr": "A2",
+      "ipa": "[lyɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "ly",
+        "ɕiŋ"
+      ]
+    },
+    {
+      "id": "d9f03064-fedb-49b0-b67f-fa88c72d4e1a",
+      "part-of-speech": "verb",
+      "english": "to visit (a place)",
+      "chinese": "参观",
+      "cefr": "A2",
+      "ipa": "[tsʰankwan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tsʰan",
+        "kwan"
+      ]
+    },
+    {
+      "id": "62747354-805f-46f3-90bf-c6c1d37925a2",
+      "part-of-speech": "verb",
+      "english": "to know, to recognize (a person)",
+      "chinese": "认识",
+      "cefr": "A2",
+      "ipa": "[ʐənʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "ʐən",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "62d01ea3-fcfc-44e5-856e-2aed25a24f6f",
+      "part-of-speech": "verb",
+      "english": "to meet (each other)",
+      "chinese": "见面",
+      "cefr": "A2",
+      "ipa": "[tɕjɛnmjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕjɛn",
+        "mjɛn"
+      ]
+    },
+    {
+      "id": "130e038e-9513-4ff4-b02c-a5b2bd85cf07",
+      "part-of-speech": "verb",
+      "english": "to send, to give (a gift)",
+      "chinese": "送",
+      "cefr": "A2",
+      "ipa": "[sʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "sʊŋ"
+      ]
+    },
+    {
+      "id": "34a36f3b-44e6-4364-90e7-46e949ed00f1",
+      "part-of-speech": "verb",
+      "english": "to mail, to send",
+      "chinese": "寄",
+      "cefr": "A2",
+      "ipa": "[tɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tɕi"
+      ]
+    },
+    {
+      "id": "baa229db-711b-44fc-8558-b2ddb12905d5",
+      "part-of-speech": "verb",
+      "english": "to bring, to carry",
+      "chinese": "带",
+      "cefr": "A2",
+      "ipa": "[tai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "tai̯"
+      ]
+    },
+    {
+      "id": "e92c45bf-8b68-4969-9f7e-182e81ce1d41",
+      "part-of-speech": "verb",
+      "english": "to take, to hold",
+      "chinese": "拿",
+      "cefr": "A2",
+      "ipa": "[na]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "na"
+      ]
+    },
+    {
+      "id": "17cb1dec-fbd2-4ffe-a2b1-5e63b3473c6b",
+      "part-of-speech": "verb",
+      "english": "to put, to place",
+      "chinese": "放",
+      "cefr": "A2",
+      "ipa": "[faŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "faŋ"
+      ]
+    },
+    {
+      "id": "d4fc984a-3183-4494-bcfb-0edc816e5753",
+      "part-of-speech": "verb",
+      "english": "to wear, to put on",
+      "chinese": "穿",
+      "cefr": "A2",
+      "ipa": "[tʂʰwan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʰwan"
+      ]
+    },
+    {
+      "id": "71fd8995-e23c-4963-abf7-fca4668d6bf9",
+      "part-of-speech": "verb",
+      "english": "to take off (clothes)",
+      "chinese": "脱",
+      "cefr": "A2",
+      "ipa": "[tʰwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʰwo"
+      ]
+    },
+    {
+      "id": "6ef559bc-7c20-4de8-a167-ac8d7734a765",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "chinese": "洗",
+      "cefr": "A2",
+      "ipa": "[ɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ɕi"
+      ]
+    },
+    {
+      "id": "db6fc038-2885-4c87-9165-3f3a6b403b67",
+      "part-of-speech": "verb",
+      "english": "to clean, to sweep",
+      "chinese": "打扫",
+      "cefr": "A2",
+      "ipa": "[tasau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "ta",
+        "sau̯"
+      ]
+    },
+    {
+      "id": "9c82ceff-54e8-41f6-80ff-da61addc319a",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "chinese": "做饭",
+      "cefr": "A2",
+      "ipa": "[tswofan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tswo",
+        "fan"
+      ]
+    },
+    {
+      "id": "30291a4b-bff1-47b7-90e7-4bfe03823a3e",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "chinese": "跑",
+      "cefr": "A2",
+      "ipa": "[pʰau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "pʰau̯"
+      ]
+    },
+    {
+      "id": "c261aed4-f83f-43c7-aa70-4d65bc8e71b5",
+      "part-of-speech": "verb",
+      "english": "to walk, to leave",
+      "chinese": "走",
+      "cefr": "A2",
+      "ipa": "[tsou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tsou̯"
+      ]
+    },
+    {
+      "id": "5a2899b7-9e0f-42da-b9af-12f8d67f01de",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "chinese": "游泳",
+      "cefr": "A2",
+      "ipa": "[jou̯jʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "jou̯",
+        "jʊŋ"
+      ]
+    },
+    {
+      "id": "2076f4b4-af0c-4361-ba40-005d12394a25",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "chinese": "飞",
+      "cefr": "A2",
+      "ipa": "[fei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "fei̯"
+      ]
+    },
+    {
+      "id": "3bae07cb-1a3f-462e-8829-6c96f03f71cb",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "chinese": "开车",
+      "cefr": "A2",
+      "ipa": "[kʰai̯tʂʰə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "kʰai̯",
+        "tʂʰə"
+      ]
+    },
+    {
+      "id": "37970ce2-2080-4351-a757-88d6b76771c3",
+      "part-of-speech": "verb",
+      "english": "to ride",
+      "chinese": "骑",
+      "cefr": "A2",
+      "ipa": "[tɕʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "dee464d1-b12e-42ca-9bff-cadb053a4622",
+      "part-of-speech": "noun",
+      "english": "life",
+      "chinese": "生活",
+      "cefr": "A2",
+      "ipa": "[ʂəŋxwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "ʂəŋ",
+        "xwo"
+      ]
+    },
+    {
+      "id": "14ae41ee-4b30-44c8-8d50-27cb0a23a12a",
+      "part-of-speech": "noun",
+      "english": "people",
+      "chinese": "人们",
+      "cefr": "A2",
+      "ipa": "[ʐənmən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "ʐən",
+        "mən"
+      ]
+    },
+    {
+      "id": "4bf92a5c-3ced-448b-8b33-b15a8500bfba",
+      "part-of-speech": "noun",
+      "english": "society",
+      "chinese": "社会",
+      "cefr": "A2",
+      "ipa": "[ʂəxwei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂə",
+        "xwei̯"
+      ]
+    },
+    {
+      "id": "5712ba4f-a177-4aae-8365-51e172476aa9",
+      "part-of-speech": "noun",
+      "english": "culture",
+      "chinese": "文化",
+      "cefr": "A2",
+      "ipa": "[wənxwa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "wən",
+        "xwa"
+      ]
+    },
+    {
+      "id": "aa79e2a7-c182-4914-9ddd-330d0ed4f5fb",
+      "part-of-speech": "noun",
+      "english": "language",
+      "chinese": "语言",
+      "cefr": "A2",
+      "ipa": "[yjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "y",
+        "jɛn"
+      ]
+    },
+    {
+      "id": "38ffef3b-9fe4-4ea6-82cf-8ebd4495610c",
+      "part-of-speech": "noun",
+      "english": "word",
+      "chinese": "单词",
+      "cefr": "A2",
+      "ipa": "[tantsʰɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "tan",
+        "tsʰɹ̩"
+      ]
+    },
+    {
+      "id": "35529dd2-a605-4a96-8bc5-6ec452f45fc4",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "chinese": "句子",
+      "cefr": "A2",
+      "ipa": "[tɕytsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "tɕy",
+        "tsɹ̩"
+      ]
+    },
+    {
+      "id": "50436675-b1d7-40a2-b4ad-4b3e6f021596",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "chinese": "信",
+      "cefr": "A2",
+      "ipa": "[ɕin]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "ɕin"
+      ]
+    },
+    {
+      "id": "407ba708-2ca8-4c39-9070-8cda2978221c",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "chinese": "电话",
+      "cefr": "A2",
+      "ipa": "[tjɛnxwa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tjɛn",
+        "xwa"
+      ]
+    },
+    {
+      "id": "2ab62446-9600-4125-872d-bb9250a7a9da",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "chinese": "电脑",
+      "cefr": "A2",
+      "ipa": "[tjɛnnau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "tjɛn",
+        "nau̯"
+      ]
+    },
+    {
+      "id": "27c0b245-1433-4fda-b80a-dda64885082c",
+      "part-of-speech": "noun",
+      "english": "television",
+      "chinese": "电视",
+      "cefr": "A2",
+      "ipa": "[tjɛnʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tjɛn",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "428c046a-659b-4d4a-9e45-62117303927a",
+      "part-of-speech": "noun",
+      "english": "radio",
+      "chinese": "收音机",
+      "cefr": "A2",
+      "ipa": "[ʂou̯intɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "ʂou̯",
+        "in",
+        "tɕi"
+      ]
+    },
+    {
+      "id": "1c34457d-79f0-44aa-acf7-8200a8449c06",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "chinese": "报纸",
+      "cefr": "A2",
+      "ipa": "[pau̯tʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "pau̯",
+        "tʂʐ̩"
+      ]
+    },
+    {
+      "id": "2152297e-125c-4ef5-a44f-aac3aa384237",
+      "part-of-speech": "noun",
+      "english": "magazine",
+      "chinese": "杂志",
+      "cefr": "A2",
+      "ipa": "[tsatʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tsa",
+        "tʂʐ̩"
+      ]
+    },
+    {
+      "id": "d0fd94ff-311f-4794-b01d-db06d3a22717",
+      "part-of-speech": "noun",
+      "english": "news",
+      "chinese": "新闻",
+      "cefr": "A2",
+      "ipa": "[ɕinwən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "ɕin",
+        "wən"
+      ]
+    },
+    {
+      "id": "116888d1-9254-4052-bb8d-819e83f020c7",
+      "part-of-speech": "noun",
+      "english": "movie",
+      "chinese": "电影",
+      "cefr": "A2",
+      "ipa": "[tjɛniŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "tjɛn",
+        "iŋ"
+      ]
+    },
+    {
+      "id": "60c4d084-422d-4cd9-993c-8589dddc86e6",
+      "part-of-speech": "noun",
+      "english": "music",
+      "chinese": "音乐",
+      "cefr": "A2",
+      "ipa": "[inɥɛ]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "in",
+        "ɥɛ"
+      ]
+    },
+    {
+      "id": "67185b77-4648-40a7-a823-f705666eca55",
+      "part-of-speech": "noun",
+      "english": "song",
+      "chinese": "歌",
+      "cefr": "A2",
+      "ipa": "[kə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "kə"
+      ]
+    },
+    {
+      "id": "8013f0dc-560c-40f3-b0a3-063fe8836e2d",
+      "part-of-speech": "noun",
+      "english": "painting, drawing",
+      "chinese": "画",
+      "cefr": "A2",
+      "ipa": "[xwa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "xwa"
+      ]
+    },
+    {
+      "id": "a1bea2f6-317d-47c1-9710-af254ff50e27",
+      "part-of-speech": "noun",
+      "english": "color",
+      "chinese": "颜色",
+      "cefr": "A2",
+      "ipa": "[jɛnsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "jɛn",
+        "sə"
+      ]
+    },
+    {
+      "id": "43d51634-5636-4a66-ae2b-8bd13634626f",
+      "part-of-speech": "noun",
+      "english": "shape",
+      "chinese": "形状",
+      "cefr": "A2",
+      "ipa": "[ɕiŋtʂwaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕiŋ",
+        "tʂwaŋ"
+      ]
+    },
+    {
+      "id": "5555f434-369d-4d00-a618-6e10a60c5616",
+      "part-of-speech": "noun",
+      "english": "price",
+      "chinese": "价格",
+      "cefr": "A2",
+      "ipa": "[tɕjakə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "tɕja",
+        "kə"
+      ]
+    },
+    {
+      "id": "6038ca48-c13e-4a70-82e5-ca9a36fe7dcc",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "chinese": "商店",
+      "cefr": "A2",
+      "ipa": "[ʂaŋtjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂaŋ",
+        "tjɛn"
+      ]
+    },
+    {
+      "id": "783afabf-9937-4acb-9efb-05e883476379",
+      "part-of-speech": "noun",
+      "english": "market",
+      "chinese": "市场",
+      "cefr": "A2",
+      "ipa": "[ʂʐ̩tʂʰaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩",
+        "tʂʰaŋ"
+      ]
+    },
+    {
+      "id": "3f17e982-e497-4192-bbcc-88102824db52",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "chinese": "公交车",
+      "cefr": "A2",
+      "ipa": "[kʊŋtɕjau̯tʂʰə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "kʊŋ",
+        "tɕjau̯",
+        "tʂʰə"
+      ]
+    },
+    {
+      "id": "4e248744-bff2-4a85-a2e6-37e133ac4bf5",
+      "part-of-speech": "noun",
+      "english": "train",
+      "chinese": "火车",
+      "cefr": "A2",
+      "ipa": "[xwotʂʰə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        1
+      ],
+      "ipaSyllables": [
+        "xwo",
+        "tʂʰə"
+      ]
+    },
+    {
+      "id": "461fcd3c-68da-4664-bf5e-e88e64ab230c",
+      "part-of-speech": "noun",
+      "english": "airplane",
+      "chinese": "飞机",
+      "cefr": "A2",
+      "ipa": "[fei̯tɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "fei̯",
+        "tɕi"
+      ]
+    },
+    {
+      "id": "0931bc30-abfd-4d9b-88c7-7afc1dc32fb4",
+      "part-of-speech": "noun",
+      "english": "boat, ship",
+      "chinese": "船",
+      "cefr": "A2",
+      "ipa": "[tʂʰwan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tʂʰwan"
+      ]
+    },
+    {
+      "id": "87ca66f3-b5b5-4825-8093-29930931197a",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "chinese": "自行车",
+      "cefr": "A2",
+      "ipa": "[tsɹ̩ɕiŋtʂʰə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "tsɹ̩",
+        "ɕiŋ",
+        "tʂʰə"
+      ]
+    },
+    {
+      "id": "93843ebd-f188-4c09-9d38-e29efb6602e0",
+      "part-of-speech": "noun",
+      "english": "road, way",
+      "chinese": "路",
+      "cefr": "A2",
+      "ipa": "[lu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "lu"
+      ]
+    },
+    {
+      "id": "16ef8bfe-68d2-4045-a33d-25b07ae8464b",
+      "part-of-speech": "noun",
+      "english": "bridge",
+      "chinese": "桥",
+      "cefr": "A2",
+      "ipa": "[tɕʰjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tɕʰjau̯"
+      ]
+    },
+    {
+      "id": "449cc104-a1f4-47e8-97aa-0753f15f300a",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "chinese": "医院",
+      "cefr": "A2",
+      "ipa": "[iɥɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "i",
+        "ɥɛn"
+      ]
+    },
+    {
+      "id": "10d1c871-9c63-4e7f-8e13-8551bc138eb9",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "chinese": "医生",
+      "cefr": "A2",
+      "ipa": "[iʂəŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "i",
+        "ʂəŋ"
+      ]
+    },
+    {
+      "id": "5437e1c1-e4cb-4020-8c09-c6dace9b3fbb",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "chinese": "病人",
+      "cefr": "A2",
+      "ipa": "[piŋʐən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "piŋ",
+        "ʐən"
+      ]
+    },
+    {
+      "id": "9e6beda3-b1d8-414e-bcd9-7130db9a4984",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "chinese": "药",
+      "cefr": "A2",
+      "ipa": "[jau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "jau̯"
+      ]
+    },
+    {
+      "id": "850120fa-0df5-4516-815a-c9347fda930e",
+      "part-of-speech": "noun",
+      "english": "body",
+      "chinese": "身体",
+      "cefr": "A2",
+      "ipa": "[ʂəntʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "ʂən",
+        "tʰi"
+      ]
+    },
+    {
+      "id": "debe952b-da69-404f-a050-c2f94ca07811",
+      "part-of-speech": "noun",
+      "english": "health",
+      "chinese": "健康",
+      "cefr": "A2",
+      "ipa": "[tɕjɛnkʰaŋ]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        4,
+        1
+      ],
+      "ipaSyllables": [
+        "tɕjɛn",
+        "kʰaŋ"
+      ]
+    },
+    {
+      "id": "2d7fad85-645e-4f6e-b632-01c16c6cf23d",
+      "part-of-speech": "noun",
+      "english": "head",
+      "chinese": "头",
+      "cefr": "A2",
+      "ipa": "[tʰou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "tʰou̯"
+      ]
+    },
+    {
+      "id": "2811b3e3-4824-4525-9bb7-e47630031d14",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "chinese": "手",
+      "cefr": "A2",
+      "ipa": "[ʂou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ʂou̯"
+      ]
+    },
+    {
+      "id": "3b186b78-18be-4b5c-bb39-046a844a472e",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "chinese": "脚",
+      "cefr": "A2",
+      "ipa": "[tɕjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tɕjau̯"
+      ]
+    },
+    {
+      "id": "dc6bc0f3-fe22-4e9a-8561-1ae0632f118b",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "chinese": "眼睛",
+      "cefr": "A2",
+      "ipa": "[jɛntɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "jɛn",
+        "tɕiŋ"
+      ]
+    },
+    {
+      "id": "8f0c94d2-295c-40d6-8982-517797e56113",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "chinese": "耳朵",
+      "cefr": "A2",
+      "ipa": "[ɚtwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "ɚ",
+        "two"
+      ]
+    },
+    {
+      "id": "920546ad-1bb2-4d40-b866-99fd70ad7f09",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "chinese": "鼻子",
+      "cefr": "A2",
+      "ipa": "[pitsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "pi",
+        "tsɹ̩"
+      ]
+    },
+    {
+      "id": "55ef6fa1-f1b9-4ae3-95f1-4e89b75a9a7b",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "chinese": "嘴",
+      "cefr": "A2",
+      "ipa": "[tswei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tswei̯"
+      ]
+    },
+    {
+      "id": "77a19e9f-3c2e-4cb2-b972-44071522d8db",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "chinese": "头发",
+      "cefr": "A2",
+      "ipa": "[tʰou̯fa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "tʰou̯",
+        "fa"
+      ]
+    },
+    {
+      "id": "6f4efd2f-dacd-4699-bdea-6a44f082ea6e",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "chinese": "心",
+      "cefr": "A2",
+      "ipa": "[ɕin]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ɕin"
+      ]
+    },
+    {
+      "id": "aa80f8b0-2768-487b-8743-cfd680a0b5f3",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "chinese": "天气",
+      "cefr": "A2",
+      "ipa": "[tʰjɛntɕʰi]",
+      "register": [
+        "All"
+      ],
+      "countability": "mass",
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "tʰjɛn",
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "6948c6f1-0810-4be3-8533-3108c265c86b",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "chinese": "雨",
+      "cefr": "A2",
+      "ipa": "[y]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "y"
+      ]
+    },
+    {
+      "id": "36ce788f-e87a-4edf-9567-62c6f9c1b138",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "chinese": "雪",
+      "cefr": "A2",
+      "ipa": "[ɕɥɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "ɕɥɛ"
+      ]
+    },
+    {
+      "id": "74253884-05df-4d15-aae2-68d13ac92ffc",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "chinese": "太阳",
+      "cefr": "A2",
+      "ipa": "[tʰai̯jaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "tʰai̯",
+        "jaŋ"
+      ]
+    },
+    {
+      "id": "ba4a5af6-a25e-4a42-861d-54e3c91dc89e",
+      "part-of-speech": "noun",
+      "english": "star",
+      "chinese": "星星",
+      "cefr": "A2",
+      "ipa": "[ɕiŋɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        0
+      ],
+      "ipaSyllables": [
+        "ɕiŋ",
+        "ɕiŋ"
+      ]
+    },
+    {
+      "id": "bb54bedd-0375-47aa-a698-7b1cef005ffe",
+      "part-of-speech": "noun",
+      "english": "season",
+      "chinese": "季节",
+      "cefr": "A2",
+      "ipa": "[tɕitɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "tɕi",
+        "tɕjɛ"
+      ]
+    },
+    {
+      "id": "3171a1bc-0899-45f7-b244-975c8f8d70d5",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "chinese": "冬天",
+      "cefr": "A2",
+      "ipa": "[tʊŋtʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tʊŋ",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "e5e13f7e-b9ea-4629-b6ec-d9833220ab45",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "chinese": "夏天",
+      "cefr": "A2",
+      "ipa": "[ɕjatʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        1
+      ],
+      "ipaSyllables": [
+        "ɕja",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "65e4eacf-4e62-424f-b3bd-6a2500a7646b",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "chinese": "春天",
+      "cefr": "A2",
+      "ipa": "[tʂʰwəntʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʰwən",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "52d14b07-9bdd-4b6e-8495-c611d56d6197",
+      "part-of-speech": "noun",
+      "english": "autumn, fall",
+      "chinese": "秋天",
+      "cefr": "A2",
+      "ipa": "[tɕʰjou̯tʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "tɕʰjou̯",
+        "tʰjɛn"
+      ]
+    },
+    {
+      "id": "38ad0dfd-7209-49d0-8581-7f663521d512",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "chinese": "早上",
+      "cefr": "A2",
+      "ipa": "[tsau̯ʂaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "tsau̯",
+        "ʂaŋ"
+      ]
+    },
+    {
+      "id": "d367fb49-3ce9-4c5a-af68-13e43be03313",
+      "part-of-speech": "noun",
+      "english": "noon",
+      "chinese": "中午",
+      "cefr": "A2",
+      "ipa": "[tʂʊŋu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "tʂʊŋ",
+        "u"
+      ]
+    },
+    {
+      "id": "048df3c8-b150-4d04-bdca-d6ff673632d8",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "chinese": "晚上",
+      "cefr": "A2",
+      "ipa": "[wanʂaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "wan",
+        "ʂaŋ"
+      ]
+    },
+    {
+      "id": "0d303572-5fab-4176-80ad-21147d7395f2",
+      "part-of-speech": "noun",
+      "english": "night",
+      "chinese": "夜晚",
+      "cefr": "A2",
+      "ipa": "[jɛwan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "jɛ",
+        "wan"
+      ]
+    },
+    {
+      "id": "3fbdf2b9-a30c-4ed1-9444-de38ca6e93a0",
+      "part-of-speech": "noun",
+      "english": "profession, occupation",
+      "chinese": "职业",
+      "cefr": "A2",
+      "ipa": "[tʂʐ̩jɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂʐ̩",
+        "jɛ"
+      ]
+    },
+    {
+      "id": "438333f6-ac9a-4da6-af3a-ab38af270d86",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "chinese": "主意",
+      "cefr": "A2",
+      "ipa": "[tʂui]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "tʂu",
+        "i"
+      ]
+    },
+    {
+      "id": "e7601409-3b68-4f22-9ca4-da33fe352da3",
+      "part-of-speech": "noun",
+      "english": "problem, question",
+      "chinese": "问题",
+      "cefr": "A2",
+      "ipa": "[wəntʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "wən",
+        "tʰi"
+      ]
+    },
+    {
+      "id": "59a0c3ea-302e-47ef-a360-c2a9650a42bb",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "chinese": "答案",
+      "cefr": "A2",
+      "ipa": "[taan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "ta",
+        "an"
+      ]
+    },
+    {
+      "id": "edf4fee5-3a8a-4685-ac9d-a74b547e4871",
+      "part-of-speech": "noun",
+      "english": "reason, cause",
+      "chinese": "原因",
+      "cefr": "A2",
+      "ipa": "[ɥɛnin]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "ɥɛn",
+        "in"
+      ]
+    },
+    {
+      "id": "281b877e-418d-459e-ace3-6a88983604f8",
+      "part-of-speech": "noun",
+      "english": "result",
+      "chinese": "结果",
+      "cefr": "A2",
+      "ipa": "[tɕjɛkwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "tɕjɛ",
+        "kwo"
+      ]
+    },
+    {
+      "id": "35f840be-3a42-4cb7-b020-02ff4981d58f",
+      "part-of-speech": "noun",
+      "english": "goal, purpose",
+      "chinese": "目的",
+      "cefr": "A2",
+      "ipa": "[muti]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "mu",
+        "ti"
+      ]
+    },
+    {
+      "id": "16202b58-648d-41ba-83ef-0779da8ea60b",
+      "part-of-speech": "noun",
+      "english": "plan",
+      "chinese": "计划",
+      "cefr": "A2",
+      "ipa": "[tɕixwa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕi",
+        "xwa"
+      ]
+    },
+    {
+      "id": "11e3deac-2297-404e-a639-3e3d70ffa39f",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "chinese": "有趣",
+      "cefr": "A2",
+      "ipa": "[jou̯tɕʰy]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "jou̯",
+        "tɕʰy"
+      ]
+    },
+    {
+      "id": "9b995a62-a6a8-4803-8e27-d169feeb86de",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "chinese": "无聊",
+      "cefr": "A2",
+      "ipa": "[uljau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        2
+      ],
+      "ipaSyllables": [
+        "u",
+        "ljau̯"
+      ]
+    },
+    {
+      "id": "ae3fc0c8-6f47-4148-9162-ad4609f45b3b",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "chinese": "重要",
+      "cefr": "A2",
+      "ipa": "[tʂʊŋjau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂʊŋ",
+        "jau̯"
+      ]
+    },
+    {
+      "id": "aed6eb76-5900-408e-b29d-80a462f277b9",
+      "part-of-speech": "adjective",
+      "english": "necessary",
+      "chinese": "必要",
+      "cefr": "A2",
+      "ipa": "[pijau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "pi",
+        "jau̯"
+      ]
+    },
+    {
+      "id": "fa817b21-78ca-4a12-b843-531cdb2faec0",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "chinese": "可能",
+      "cefr": "A2",
+      "ipa": "[kʰənəŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "kʰə",
+        "nəŋ"
+      ]
+    },
+    {
+      "id": "c4aee92b-c14b-4016-8388-a570c282a4df",
+      "part-of-speech": "adjective",
+      "english": "impossible",
+      "chinese": "不可能",
+      "cefr": "A2",
+      "ipa": "[pukʰənəŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3,
+        2
+      ],
+      "ipaSyllables": [
+        "pu",
+        "kʰə",
+        "nəŋ"
+      ]
+    },
+    {
+      "id": "eaa83ab1-f492-415b-8b08-e7712053b30d",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "chinese": "不同",
+      "cefr": "A2",
+      "ipa": "[putʰʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "pu",
+        "tʰʊŋ"
+      ]
+    },
+    {
+      "id": "2df45d2f-366c-44d6-9671-cf3ac6df2072",
+      "part-of-speech": "adjective",
+      "english": "similar",
+      "chinese": "相似",
+      "cefr": "A2",
+      "ipa": "[ɕjaŋsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ɕjaŋ",
+        "sɹ̩"
+      ]
+    },
+    {
+      "id": "48cd5fa4-91c6-4815-9089-54c0e627ca7b",
+      "part-of-speech": "adjective",
+      "english": "the same",
+      "chinese": "一样",
+      "cefr": "A2",
+      "ipa": "[ijaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "i",
+        "jaŋ"
+      ]
+    },
+    {
+      "id": "83352b95-be5a-41d0-a87a-a419bbfee087",
+      "part-of-speech": "adjective",
+      "english": "other, else",
+      "chinese": "别的",
+      "cefr": "A2",
+      "ipa": "[pjɛtə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "pjɛ",
+        "tə"
+      ]
+    },
+    {
+      "id": "516a7e87-8a6e-4060-8dde-6a3d68800c49",
+      "part-of-speech": "adjective",
+      "english": "other",
+      "chinese": "其他",
+      "cefr": "A2",
+      "ipa": "[tɕʰitʰa]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        1
+      ],
+      "ipaSyllables": [
+        "tɕʰi",
+        "tʰa"
+      ]
+    },
+    {
+      "id": "cea7ac8e-b8f1-4c04-973c-be132260af9a",
+      "part-of-speech": "adjective",
+      "english": "some",
+      "chinese": "一些",
+      "cefr": "A2",
+      "ipa": "[iɕjɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        1
+      ],
+      "ipaSyllables": [
+        "i",
+        "ɕjɛ"
+      ]
+    },
+    {
+      "id": "ae14f30f-c689-4ff1-a6c8-d787a6b9d2c9",
+      "part-of-speech": "adjective",
+      "english": "every, each",
+      "chinese": "每",
+      "cefr": "A2",
+      "ipa": "[mei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "mei̯"
+      ]
+    },
+    {
+      "id": "fa083e3e-414a-4812-8d82-c8f1e5452a10",
+      "part-of-speech": "adjective",
+      "english": "whole, entire",
+      "chinese": "整个",
+      "cefr": "A2",
+      "ipa": "[tʂəŋkə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tʂəŋ",
+        "kə"
+      ]
+    },
+    {
+      "id": "297425ac-d09e-4e58-8526-59a34a164de6",
+      "part-of-speech": "adjective",
+      "english": "all, whole",
+      "chinese": "全部",
+      "cefr": "A2",
+      "ipa": "[tɕʰɥɛnpu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕʰɥɛn",
+        "pu"
+      ]
+    },
+    {
+      "id": "7fc9e60c-bb6b-4100-afcd-a102abe81e6b",
+      "part-of-speech": "adjective",
+      "english": "a few, several",
+      "chinese": "几个",
+      "cefr": "A2",
+      "ipa": "[tɕikə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        0
+      ],
+      "ipaSyllables": [
+        "tɕi",
+        "kə"
+      ]
+    },
+    {
+      "id": "1c9abdb2-4406-4448-9058-10375ce628e2",
+      "part-of-speech": "adjective",
+      "english": "natural",
+      "chinese": "自然",
+      "cefr": "A2",
+      "ipa": "[tsɹ̩ʐan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "tsɹ̩",
+        "ʐan"
+      ]
+    },
+    {
+      "id": "5c6e3df2-1224-4008-aa10-7b3a44865bbd",
+      "part-of-speech": "adjective",
+      "english": "real, true",
+      "chinese": "真实",
+      "cefr": "A2",
+      "ipa": "[tʂənʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "tʂən",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "302836f0-f416-499e-a9b8-8bcac14bbb2f",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "chinese": "忙",
+      "cefr": "A2",
+      "ipa": "[maŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "maŋ"
+      ]
+    },
+    {
+      "id": "36d66370-6a7d-41a0-9724-7e3e8de20f3b",
+      "part-of-speech": "adjective",
+      "english": "free, available (of time)",
+      "chinese": "空",
+      "cefr": "A2",
+      "ipa": "[kʰʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "kʰʊŋ"
+      ]
+    },
+    {
+      "id": "df177b35-e1bd-4f6b-a9b6-4a7af4ab35db",
+      "part-of-speech": "adjective",
+      "english": "certain, sure",
+      "chinese": "确定",
+      "cefr": "A2",
+      "ipa": "[tɕʰɥɛtiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕʰɥɛ",
+        "tiŋ"
+      ]
+    },
+    {
+      "id": "791d1ead-9a43-4191-b13b-33336d805160",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "chinese": "有时候",
+      "cefr": "A2",
+      "ipa": "[jou̯ʂʐ̩xou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        2,
+        0
+      ],
+      "ipaSyllables": [
+        "jou̯",
+        "ʂʐ̩",
+        "xou̯"
+      ]
+    },
+    {
+      "id": "c71ef698-93ee-4ffc-bfcd-300a05986d2a",
+      "part-of-speech": "adverb",
+      "english": "immediately, right away",
+      "chinese": "马上",
+      "cefr": "A2",
+      "ipa": "[maʂaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "ma",
+        "ʂaŋ"
+      ]
+    },
+    {
+      "id": "34fe8ae3-a3df-49f6-bbea-d9ca06517454",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "chinese": "一起",
+      "cefr": "A2",
+      "ipa": "[itɕʰi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "i",
+        "tɕʰi"
+      ]
+    },
+    {
+      "id": "562f8779-5278-428d-adcb-c363ba68eda4",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "chinese": "只",
+      "cefr": "A2",
+      "ipa": "[tʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "tʂʐ̩"
+      ]
+    },
+    {
+      "id": "d6e52fbc-d8ba-41b6-b9ec-99ba6e3c01f2",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "chinese": "也许",
+      "cefr": "A2",
+      "ipa": "[jɛɕy]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        3
+      ],
+      "ipaSyllables": [
+        "jɛ",
+        "ɕy"
+      ]
+    },
+    {
+      "id": "f20e889b-9c52-4033-a683-62919ec3317d",
+      "part-of-speech": "adverb",
+      "english": "ever, all along",
+      "chinese": "从来",
+      "cefr": "A2",
+      "ipa": "[tsʰʊŋlai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        2
+      ],
+      "ipaSyllables": [
+        "tsʰʊŋ",
+        "lai̯"
+      ]
+    },
+    {
+      "id": "02f00662-79ba-40bb-90f7-02bfdd7206be",
+      "part-of-speech": "adverb",
+      "english": "always, continuously",
+      "chinese": "一直",
+      "cefr": "A2",
+      "ipa": "[itʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "i",
+        "tʂʐ̩"
+      ]
+    },
+    {
+      "id": "4290bb97-a647-4c53-b361-a0e611ba8239",
+      "part-of-speech": "adverb",
+      "english": "certainly, definitely",
+      "chinese": "一定",
+      "cefr": "A2",
+      "ipa": "[itiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "i",
+        "tiŋ"
+      ]
+    },
+    {
+      "id": "4bb20416-acb7-4ca4-bbd7-f73d04520268",
+      "part-of-speech": "adverb",
+      "english": "altogether, in total",
+      "chinese": "一共",
+      "cefr": "A2",
+      "ipa": "[ikʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "i",
+        "kʊŋ"
+      ]
+    },
+    {
+      "id": "311266a0-7e7f-44a4-9f97-bfc58559379e",
+      "part-of-speech": "adverb",
+      "english": "generally, usually",
+      "chinese": "一般",
+      "cefr": "A2",
+      "ipa": "[ipan]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        1
+      ],
+      "ipaSyllables": [
+        "i",
+        "pan"
+      ]
+    },
+    {
+      "id": "be9779a7-e752-480b-91c8-0e9cf9c84ef6",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "chinese": "一点",
+      "cefr": "A2",
+      "ipa": "[itjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "i",
+        "tjɛn"
+      ]
+    },
+    {
+      "id": "743cb145-ed54-4938-b685-ede161cbe5e4",
+      "part-of-speech": "adjective",
+      "english": "first",
+      "chinese": "第一",
+      "cefr": "A2",
+      "ipa": "[tii]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        1
+      ],
+      "ipaSyllables": [
+        "ti",
+        "i"
+      ]
+    }
+  ]
+}

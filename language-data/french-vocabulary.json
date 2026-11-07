@@ -9771,7 +9771,7 @@
       "gender": "feminine",
       "plural": "fenêtres",
       "cefr": "A2",
-      "ipa": "[fə.nɛ.tʁə]",
+      "ipa": "/fə.nɛtʁ/",
       "register": [
         "All"
       ]
@@ -12773,7 +12773,7 @@
     {
       "id": "a0ee7419-63ed-4fc6-92b7-43020f624cc2",
       "part-of-speech": "noun",
-      "english": "star (celebrity)",
+      "english": "celebrity",
       "french": "star",
       "gender": "feminine",
       "plural": "stars",
@@ -14347,7 +14347,7 @@
     {
       "id": "05327bfd-14f9-4251-a27a-1db904d8105f",
       "part-of-speech": "noun",
-      "english": "a sentiment, general thought, sense or feeling",
+      "english": "perception, sense, feeling",
       "french": "sentiment",
       "gender": "masculine",
       "plural": "sentiments",
@@ -15111,7 +15111,7 @@
     {
       "id": "2e6d30d3-36fb-4d85-819e-5157f94fb636",
       "part-of-speech": "noun",
-      "english": "a blind man or woman",
+      "english": "blind person",
       "french": "aveugle",
       "gender": "masculine",
       "plural": "aveugles",
@@ -15779,7 +15779,7 @@
     {
       "id": "6dec41a6-7845-4310-9ec2-3d537bde1cda",
       "part-of-speech": "noun",
-      "english": "translation (the conversion of text from one language to another)",
+      "english": "translation",
       "french": "traduction",
       "gender": "feminine",
       "plural": "traductions",
@@ -17278,7 +17278,7 @@
     {
       "id": "d26ad205-9b64-48f7-9002-68fc8363593a",
       "part-of-speech": "verb",
-      "english": "to work, labour, do a day's work",
+      "english": "to work",
       "french": "bosser",
       "cefr": "B1",
       "ipa": "/bɔ.se/",
@@ -18600,7 +18600,7 @@
     {
       "id": "a2967e46-ac3f-4ab9-be02-f30be56ce5dc",
       "part-of-speech": "verb",
-      "english": "to guess; to work out, figure out",
+      "english": "to figure out",
       "french": "deviner",
       "cefr": "B1",
       "ipa": "/də.vi.ne/",
@@ -19017,7 +19017,7 @@
     {
       "id": "85d6b7bf-b91c-48a0-87fa-9e0b06cb3077",
       "part-of-speech": "noun",
-      "english": "lift, elevator",
+      "english": "elevator",
       "french": "ascenseur",
       "gender": "masculine",
       "plural": "ascenseurs",
@@ -19586,14 +19586,15 @@
     {
       "id": "a1029082-76e5-4828-af1a-6eab27ce7f23",
       "part-of-speech": "noun",
-      "english": "accused, defendant, prisoner, suspect (the one who appears before a criminal court, after the suspected commission of one or more crimes)",
+      "english": "criminal defendant",
       "french": "prévenu",
       "gender": "masculine",
       "plural": "prévenus",
       "cefr": "B1",
       "register": [
         "All"
-      ]
+      ],
+      "ipa": "[pʁevny]"
     },
     {
       "id": "67580bdc-f056-4eea-8e44-22f565c857f9",
@@ -20239,7 +20240,7 @@
     {
       "id": "e39bcc37-3f59-428a-9b51-f9a2628031a3",
       "part-of-speech": "adjective",
-      "english": "shining; shiny",
+      "english": "shiny",
       "french": "brillant",
       "cefr": "B1",
       "ipa": "/bʁi.jɑ̃/",
@@ -22678,7 +22679,7 @@
     {
       "id": "493ab98d-38f3-484c-82d5-5ac78ee8fb55",
       "part-of-speech": "noun",
-      "english": "a messenger carrying letters for personal delivery",
+      "english": "messenger",
       "french": "exprès",
       "gender": "masculine",
       "cefr": "B1",
@@ -23137,7 +23138,7 @@
     {
       "id": "89d3ee2a-1986-4cad-95d4-4f62769fea8f",
       "part-of-speech": "noun",
-      "english": "magazine (periodical publication)",
+      "english": "magazine",
       "french": "magazine",
       "gender": "masculine",
       "plural": "magazines",
@@ -23571,7 +23572,7 @@
     {
       "id": "f7847ba1-e771-4e4f-9e77-20951f1c66ba",
       "part-of-speech": "noun",
-      "english": "saintess; female equivalent of saint",
+      "english": "female saint",
       "french": "sainte",
       "gender": "feminine",
       "plural": "saintes",

@@ -8249,7 +8249,7 @@
     {
       "id": "1b388de5-095e-4e43-9660-c00c58c8f280",
       "part-of-speech": "noun",
-      "english": "buying",
+      "english": "pillowcase, bedsheet",
       "german": "Bezug",
       "gender": "masculine",
       "plural": "Bezüge",
@@ -10729,8 +10729,8 @@
     {
       "id": "7015c060-18bd-4505-b9f5-5204e3c5b0e0",
       "part-of-speech": "noun",
-      "english": "young",
-      "german": "Junges",
+      "english": "young animal",
+      "german": "Junge",
       "gender": "neuter",
       "plural": "Junge",
       "cefr": "B2",
@@ -27855,7 +27855,7 @@
     {
       "id": "d4a321ad-c145-45be-aca9-539293181585",
       "part-of-speech": "noun",
-      "english": "point of view",
+      "english": "standpoint, perspective",
       "german": "Hinsicht",
       "gender": "feminine",
       "plural": "Hinsichten",
@@ -30137,7 +30137,7 @@
     {
       "id": "9298c17b-08d4-440f-8ded-7ce326d6ee03",
       "part-of-speech": "noun",
-      "english": "itinerary",
+      "english": "route",
       "german": "Route",
       "gender": "feminine",
       "plural": "Routen",
@@ -30227,7 +30227,7 @@
     {
       "id": "e4bb2ee1-0c9f-4a28-b239-d3f852b63230",
       "part-of-speech": "verb",
-      "english": "be",
+      "english": "take, seize",
       "german": "ergreifen",
       "cefr": "B2",
       "register": [
@@ -34268,12 +34268,13 @@
     {
       "id": "3ad01ef0-6242-4be0-8f0b-deba8566c710",
       "part-of-speech": "verb",
-      "english": "fire",
+      "english": "go off, discharge",
       "german": "losgehen",
       "cefr": "B2",
       "register": [
         "All"
-      ]
+      ],
+      "context": "weaponry"
     },
     {
       "id": "b7165c87-4156-4e9f-8aec-53c0507ae4d9",
@@ -35152,7 +35153,7 @@
     {
       "id": "804e3225-4c32-4446-9cb4-a88e017b859d",
       "part-of-speech": "verb",
-      "english": "put on",
+      "english": "surround",
       "german": "umgeben",
       "cefr": "B2",
       "register": [
@@ -36773,7 +36774,9 @@
       "plural": "Freier",
       "cefr": "B2",
       "register": [
-        "All"
+        "umgangssprachlich",
+        "salopp",
+        "derb"
       ]
     },
     {
@@ -48559,7 +48562,7 @@
     {
       "id": "49e3b7ab-5f98-4c85-a627-77f0a868b08e",
       "part-of-speech": "verb",
-      "english": "acquire",
+      "english": "acquire, get a hold of",
       "german": "beschaffen",
       "cefr": "B2",
       "register": [
@@ -51239,7 +51242,7 @@
     {
       "id": "eaa79b94-e526-4d05-9de4-7d381fbf9d05",
       "part-of-speech": "noun",
-      "english": "conformation",
+      "english": "shape, figure",
       "german": "Gestalt",
       "gender": "feminine",
       "plural": "Gestalten",
@@ -63189,14 +63192,15 @@
     {
       "id": "adddc428-a3b9-4328-878d-7a8e67bb8e30",
       "part-of-speech": "noun",
-      "english": "French disease",
+      "english": "syphillis",
       "german": "Franzosen",
-      "gender": "masculine",
+      "gender": "feminine",
       "plural": "Franzosen",
       "cefr": "B2",
       "register": [
-        "All"
-      ]
+        "gehoben"
+      ],
+      "context": "archaic"
     },
     {
       "id": "a8d4592f-156b-49d8-86a5-964f7cfab821",
@@ -69198,7 +69202,7 @@
     {
       "id": "eb4341b3-c89c-41e1-82c5-8bcc8efb3644",
       "part-of-speech": "noun",
-      "english": "bagatelle",
+      "english": "no big deal, little something",
       "german": "Kleinigkeit",
       "gender": "feminine",
       "plural": "Kleinigkeiten",
@@ -77118,7 +77122,7 @@
     {
       "id": "f4cb541d-325b-46d9-b315-aac76a2a72d3",
       "part-of-speech": "noun",
-      "english": "ass",
+      "english": "donkey",
       "german": "Esel",
       "gender": "masculine",
       "plural": "Esel",
@@ -89611,7 +89615,7 @@
     {
       "id": "e69a8458-6ffd-4ab5-83fb-1d52c99741b6",
       "part-of-speech": "noun",
-      "english": "league",
+      "english": "mile",
       "german": "Meile",
       "gender": "feminine",
       "plural": "Meilen",
@@ -105661,7 +105665,7 @@
     {
       "id": "43b918e5-f802-4e3a-8e56-4b1378886ff6",
       "part-of-speech": "adjective",
-      "english": "calm",
+      "english": "composed, collected",
       "german": "gefasst",
       "cefr": "B2",
       "register": [
@@ -114847,7 +114851,7 @@
     {
       "id": "5ff706e8-6f45-48d0-b579-b5b5d3886035",
       "part-of-speech": "adjective",
-      "english": "purposeful, determined",
+      "english": "purposeful",
       "german": "zielstrebig",
       "cefr": "B2",
       "register": [
@@ -116057,7 +116061,7 @@
     {
       "id": "a6a33471-0239-473a-9dd7-68d0cc960b39",
       "part-of-speech": "adjective",
-      "english": "ponderous, clumsy, sluggish",
+      "english": "lumbering, sluggish",
       "german": "schwerfällig",
       "cefr": "B2",
       "register": [
@@ -116449,7 +116453,7 @@
     {
       "id": "3bc83434-df7b-4172-b7af-be44d1a2ce76",
       "part-of-speech": "adverb",
-      "english": "downright, virtually",
+      "english": "practically, almost",
       "german": "geradezu",
       "cefr": "B2",
       "register": [
