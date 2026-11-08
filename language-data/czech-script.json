@@ -1,0 +1,1313 @@
+{
+  "scriptName": "Czech Grammar",
+  "buttonLabel": "Grammar Guide",
+  "intro": "A practical reference to Czech grammar — the patterns that cover most everyday words, without the exceptions. Use it alongside the quiz to see how the words you learn change form.",
+  "sections": [
+    {
+      "heading": "How Czech grammar works",
+      "text": [
+        "Czech shows a word's job in the sentence with endings rather than word order. Nouns, adjectives and pronouns change their ending for 7 cases, 2 numbers (singular, plural) and 3 genders, and verbs change their ending for person and number.",
+        "This guide covers the patterns that handle most everyday words. Learn the case meanings first, then one noun pattern per gender — every other table here follows the same layout. Czech textbooks and dictionaries number the cases 1–7 (1. pád, 2. pád, …), so the numbers are shown too."
+      ]
+    },
+    {
+      "heading": "The seven cases",
+      "table": {
+        "columns": [
+          "Case",
+          "Question",
+          "Main uses",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "kdo? co?",
+            "the subject; after být (to je…)",
+            "Žena čte. (The woman is reading.)"
+          ],
+          [
+            "2 Genitive",
+            "koho? čeho?",
+            "'of'; quantities; after z, do, od, u, bez",
+            "bez cukru (without sugar)"
+          ],
+          [
+            "3 Dative",
+            "komu? čemu?",
+            "'to / for' someone; after k, díky, proti",
+            "Dám to ženě. (I'll give it to the woman.)"
+          ],
+          [
+            "4 Accusative",
+            "koho? co?",
+            "the direct object; after pro, přes; na / za with movement",
+            "Vidím ženu. (I see the woman.)"
+          ],
+          [
+            "5 Vocative",
+            "—",
+            "calling or addressing someone",
+            "Pane! Jano! (Sir! Jana!)"
+          ],
+          [
+            "6 Locative",
+            "o kom? o čem?",
+            "only after v, na, o, po, při",
+            "v Praze (in Prague), o filmu (about the film)"
+          ],
+          [
+            "7 Instrumental",
+            "kým? čím?",
+            "'with' or 'by means of'; after s, za, před, nad, pod, mezi",
+            "s kamarádem (with a friend), autem (by car)"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Gender: tell it from the ending",
+      "text": "Masculine nouns are further split into animate (people and animals) and inanimate (things). The difference matters in the accusative: for animate nouns it looks like the genitive, for inanimate ones it looks like the nominative.",
+      "table": {
+        "columns": [
+          "Ending",
+          "Usual gender",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "consonant",
+            "masculine",
+            "pán (gentleman), hrad (castle), muž (man), stroj (machine)"
+          ],
+          [
+            "-ost",
+            "feminine",
+            "radost (joy), kost (bone)"
+          ],
+          [
+            "-a",
+            "feminine",
+            "žena (woman), škola (school)"
+          ],
+          [
+            "-e / -ě",
+            "feminine (a few neuter)",
+            "růže (rose), země (land); neuter: moře (sea)"
+          ],
+          [
+            "-o",
+            "neuter",
+            "město (town), auto (car)"
+          ],
+          [
+            "-í",
+            "neuter",
+            "stavení (building), náměstí (square)"
+          ]
+        ],
+        "note": "Exceptions exist (táta 'dad' ends in -a but is masculine), but these rules are right for the large majority of nouns."
+      }
+    },
+    {
+      "heading": "Hard or soft pattern?",
+      "text": [
+        "Each gender has a 'hard' and a 'soft' pattern, chosen by the last consonant of the stem.",
+        "Soft: ž, š, č, ř, c, j, ď, ť, ň (and masculine nouns in -tel, like učitel). Hard: h, ch, k, r, d, t, n, g. The other consonants (b, f, l, m, p, s, v, z) usually go with the hard pattern.",
+        "Spelling changes: before the endings -e / -ě / -i, the hard consonants shift — k → c, h → z, ch → š, r → ř (ruka → v ruce, Praha → v Praze, kluk → kluci, sestra → sestře)."
+      ]
+    },
+    {
+      "heading": "Masculine nouns — singular",
+      "table": {
+        "columns": [
+          "Case",
+          "pán (anim., hard)",
+          "muž (anim., soft)",
+          "hrad (inan., hard)",
+          "stroj (inan., soft)"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "pán",
+            "muž",
+            "hrad",
+            "stroj"
+          ],
+          [
+            "2 Genitive",
+            "pána",
+            "muže",
+            "hradu",
+            "stroje"
+          ],
+          [
+            "3 Dative",
+            "pánovi / pánu",
+            "muži / mužovi",
+            "hradu",
+            "stroji"
+          ],
+          [
+            "4 Accusative",
+            "pána",
+            "muže",
+            "hrad",
+            "stroj"
+          ],
+          [
+            "5 Vocative",
+            "pane",
+            "muži",
+            "hrade",
+            "stroji"
+          ],
+          [
+            "6 Locative",
+            "pánovi / pánu",
+            "muži / mužovi",
+            "hradě / hradu",
+            "stroji"
+          ],
+          [
+            "7 Instrumental",
+            "pánem",
+            "mužem",
+            "hradem",
+            "strojem"
+          ]
+        ],
+        "note": "Animate accusative = genitive (vidím pána); inanimate accusative = nominative (vidím hrad). For people, -ovi is the usual dative/locative ending (pánovi, Petrovi). Locative -u is common after k, h, g, ch (v parku)."
+      }
+    },
+    {
+      "heading": "Masculine nouns — plural",
+      "table": {
+        "columns": [
+          "Case",
+          "pán",
+          "muž",
+          "hrad",
+          "stroj"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "páni",
+            "muži",
+            "hrady",
+            "stroje"
+          ],
+          [
+            "2 Genitive",
+            "pánů",
+            "mužů",
+            "hradů",
+            "strojů"
+          ],
+          [
+            "3 Dative",
+            "pánům",
+            "mužům",
+            "hradům",
+            "strojům"
+          ],
+          [
+            "4 Accusative",
+            "pány",
+            "muže",
+            "hrady",
+            "stroje"
+          ],
+          [
+            "5 Vocative",
+            "páni",
+            "muži",
+            "hrady",
+            "stroje"
+          ],
+          [
+            "6 Locative",
+            "pánech",
+            "mužích",
+            "hradech",
+            "strojích"
+          ],
+          [
+            "7 Instrumental",
+            "pány",
+            "muži",
+            "hrady",
+            "stroji"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Feminine nouns — singular",
+      "table": {
+        "columns": [
+          "Case",
+          "žena (hard, -a)",
+          "růže (soft, -e)",
+          "kost (consonant)"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "žena",
+            "růže",
+            "kost"
+          ],
+          [
+            "2 Genitive",
+            "ženy",
+            "růže",
+            "kosti"
+          ],
+          [
+            "3 Dative",
+            "ženě",
+            "růži",
+            "kosti"
+          ],
+          [
+            "4 Accusative",
+            "ženu",
+            "růži",
+            "kost"
+          ],
+          [
+            "5 Vocative",
+            "ženo",
+            "růže",
+            "kosti"
+          ],
+          [
+            "6 Locative",
+            "ženě",
+            "růži",
+            "kosti"
+          ],
+          [
+            "7 Instrumental",
+            "ženou",
+            "růží",
+            "kostí"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Feminine nouns — plural",
+      "table": {
+        "columns": [
+          "Case",
+          "žena",
+          "růže",
+          "kost"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "ženy",
+            "růže",
+            "kosti"
+          ],
+          [
+            "2 Genitive",
+            "žen",
+            "růží",
+            "kostí"
+          ],
+          [
+            "3 Dative",
+            "ženám",
+            "růžím",
+            "kostem"
+          ],
+          [
+            "4 Accusative",
+            "ženy",
+            "růže",
+            "kosti"
+          ],
+          [
+            "5 Vocative",
+            "ženy",
+            "růže",
+            "kosti"
+          ],
+          [
+            "6 Locative",
+            "ženách",
+            "růžích",
+            "kostech"
+          ],
+          [
+            "7 Instrumental",
+            "ženami",
+            "růžemi",
+            "kostmi"
+          ]
+        ],
+        "note": "Nouns in -ost (radost, starost) follow kost. The genitive plural of the žena type has no ending at all: žena → žen, škola → škol."
+      }
+    },
+    {
+      "heading": "Neuter nouns — singular",
+      "table": {
+        "columns": [
+          "Case",
+          "město (hard, -o)",
+          "moře (soft, -e)",
+          "stavení (-í)"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "město",
+            "moře",
+            "stavení"
+          ],
+          [
+            "2 Genitive",
+            "města",
+            "moře",
+            "stavení"
+          ],
+          [
+            "3 Dative",
+            "městu",
+            "moři",
+            "stavení"
+          ],
+          [
+            "4 Accusative",
+            "město",
+            "moře",
+            "stavení"
+          ],
+          [
+            "5 Vocative",
+            "město",
+            "moře",
+            "stavení"
+          ],
+          [
+            "6 Locative",
+            "městě",
+            "moři",
+            "stavení"
+          ],
+          [
+            "7 Instrumental",
+            "městem",
+            "mořem",
+            "stavením"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Neuter nouns — plural",
+      "table": {
+        "columns": [
+          "Case",
+          "město",
+          "moře",
+          "stavení"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "města",
+            "moře",
+            "stavení"
+          ],
+          [
+            "2 Genitive",
+            "měst",
+            "moří",
+            "stavení"
+          ],
+          [
+            "3 Dative",
+            "městům",
+            "mořím",
+            "stavením"
+          ],
+          [
+            "4 Accusative",
+            "města",
+            "moře",
+            "stavení"
+          ],
+          [
+            "5 Vocative",
+            "města",
+            "moře",
+            "stavení"
+          ],
+          [
+            "6 Locative",
+            "městech",
+            "mořích",
+            "staveních"
+          ],
+          [
+            "7 Instrumental",
+            "městy",
+            "moři",
+            "staveními"
+          ]
+        ],
+        "note": "Like the žena type, the genitive plural of the město type has no ending: město → měst, auto → aut."
+      }
+    },
+    {
+      "heading": "Adjectives — hard (-ý)",
+      "text": "Adjectives agree with their noun in gender, number and case. Most end in -ý (hard type); the vocative is the same as the nominative.",
+      "table": {
+        "columns": [
+          "Case",
+          "masculine",
+          "feminine",
+          "neuter",
+          "plural (all genders)"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "mladý",
+            "mladá",
+            "mladé",
+            "mladí (masc. anim.) / mladé / mladá (neut.)"
+          ],
+          [
+            "2 Genitive",
+            "mladého",
+            "mladé",
+            "mladého",
+            "mladých"
+          ],
+          [
+            "3 Dative",
+            "mladému",
+            "mladé",
+            "mladému",
+            "mladým"
+          ],
+          [
+            "4 Accusative",
+            "mladého (anim.) / mladý (inan.)",
+            "mladou",
+            "mladé",
+            "mladé / mladá (neut.)"
+          ],
+          [
+            "5 Vocative",
+            "mladý",
+            "mladá",
+            "mladé",
+            "= nominative"
+          ],
+          [
+            "6 Locative",
+            "mladém",
+            "mladé",
+            "mladém",
+            "mladých"
+          ],
+          [
+            "7 Instrumental",
+            "mladým",
+            "mladou",
+            "mladým",
+            "mladými"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Adjectives — soft (-í)",
+      "text": "Adjectives in -í (jarní 'spring', cizí 'foreign') are simpler: the feminine is jarní in every case, and the nominative is jarní for every gender.",
+      "table": {
+        "columns": [
+          "Case",
+          "masculine / neuter",
+          "feminine",
+          "plural (all genders)"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "jarní",
+            "jarní",
+            "jarní"
+          ],
+          [
+            "2 Genitive",
+            "jarního",
+            "jarní",
+            "jarních"
+          ],
+          [
+            "3 Dative",
+            "jarnímu",
+            "jarní",
+            "jarním"
+          ],
+          [
+            "4 Accusative",
+            "jarního (masc. anim.) / jarní",
+            "jarní",
+            "jarní"
+          ],
+          [
+            "5 Vocative",
+            "jarní",
+            "jarní",
+            "jarní"
+          ],
+          [
+            "6 Locative",
+            "jarním",
+            "jarní",
+            "jarních"
+          ],
+          [
+            "7 Instrumental",
+            "jarním",
+            "jarní",
+            "jarními"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Personal pronouns",
+      "table": {
+        "columns": [
+          "Case",
+          "já",
+          "ty",
+          "on",
+          "ona",
+          "my",
+          "vy",
+          "oni"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "já",
+            "ty",
+            "on",
+            "ona",
+            "my",
+            "vy",
+            "oni"
+          ],
+          [
+            "2 Genitive",
+            "mě",
+            "tě / tebe",
+            "ho / jeho / něj",
+            "jí / ní",
+            "nás",
+            "vás",
+            "jich / nich"
+          ],
+          [
+            "3 Dative",
+            "mi / mně",
+            "ti / tobě",
+            "mu / jemu / němu",
+            "jí / ní",
+            "nám",
+            "vám",
+            "jim / nim"
+          ],
+          [
+            "4 Accusative",
+            "mě",
+            "tě / tebe",
+            "ho / jeho / něj",
+            "ji / ni",
+            "nás",
+            "vás",
+            "je / ně"
+          ],
+          [
+            "6 Locative",
+            "mně",
+            "tobě",
+            "něm",
+            "ní",
+            "nás",
+            "vás",
+            "nich"
+          ],
+          [
+            "7 Instrumental",
+            "mnou",
+            "tebou",
+            "jím / ním",
+            "jí / ní",
+            "námi",
+            "vámi",
+            "jimi / nimi"
+          ]
+        ],
+        "note": "Use the short forms (mi, ti, ho, mu) in normal unstressed speech, the long ones (mně, tobě, jeho, jemu) for emphasis, and the forms beginning with n- after a preposition (s ním, pro ni, o nich). Ono is like on, except accusative je / něj."
+      }
+    },
+    {
+      "heading": "ten, ta, to (this / that, the)",
+      "text": "The demonstrative is used constantly — often where English would say 'the' — and its endings mirror the adjective endings.",
+      "table": {
+        "columns": [
+          "Case",
+          "masculine",
+          "feminine",
+          "neuter",
+          "plural"
+        ],
+        "rows": [
+          [
+            "1 Nominative",
+            "ten",
+            "ta",
+            "to",
+            "ti (masc. anim.) / ty / ta (neut.)"
+          ],
+          [
+            "2 Genitive",
+            "toho",
+            "té",
+            "toho",
+            "těch"
+          ],
+          [
+            "3 Dative",
+            "tomu",
+            "té",
+            "tomu",
+            "těm"
+          ],
+          [
+            "4 Accusative",
+            "toho (anim.) / ten (inan.)",
+            "tu",
+            "to",
+            "ty / ta (neut.)"
+          ],
+          [
+            "5 Vocative",
+            "—",
+            "—",
+            "—",
+            "—"
+          ],
+          [
+            "6 Locative",
+            "tom",
+            "té",
+            "tom",
+            "těch"
+          ],
+          [
+            "7 Instrumental",
+            "tím",
+            "tou",
+            "tím",
+            "těmi"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Possessives",
+      "text": "můj (my), tvůj (your), náš (our), váš (your pl./formal) and svůj (one's own) agree with the thing owned, like adjectives: můj bratr, moje (má) sestra, moje (mé) auto. jeho (his) and jejich (their) never change; její (her) declines like jarní."
+    },
+    {
+      "heading": "Present tense — the four regular types",
+      "text": "Group verbs by their ending in the 3rd person singular (on/ona form) — dictionaries usually list it. Once you know which type a verb is, all six forms follow.",
+      "table": {
+        "columns": [
+          "Person",
+          "dělat (-á, to do)",
+          "mluvit (-í, to speak)",
+          "pracovat (-uje, to work)",
+          "nést (-e, to carry)"
+        ],
+        "rows": [
+          [
+            "já (I)",
+            "dělám",
+            "mluvím",
+            "pracuji / pracuju",
+            "nesu"
+          ],
+          [
+            "ty (you)",
+            "děláš",
+            "mluvíš",
+            "pracuješ",
+            "neseš"
+          ],
+          [
+            "on / ona / ono",
+            "dělá",
+            "mluví",
+            "pracuje",
+            "nese"
+          ],
+          [
+            "my (we)",
+            "děláme",
+            "mluvíme",
+            "pracujeme",
+            "neseme"
+          ],
+          [
+            "vy (you pl./formal)",
+            "děláte",
+            "mluvíte",
+            "pracujete",
+            "nesete"
+          ],
+          [
+            "oni / ony / ona (they)",
+            "dělají",
+            "mluví",
+            "pracují / pracujou",
+            "nesou"
+          ]
+        ],
+        "note": "Verbs in -ovat (pracovat, studovat, kupovat) are always the pracuje type. In the -e type the stem often changes from the infinitive: číst → čtu, psát → píšu, pít → piju. The -u / -ou forms (pracuju, pracujou) are everyday speech; -i / -í are more formal."
+      }
+    },
+    {
+      "heading": "Present tense — essential irregular verbs",
+      "table": {
+        "columns": [
+          "Person",
+          "být (be)",
+          "mít (have)",
+          "jít (go)",
+          "chtít (want)"
+        ],
+        "rows": [
+          [
+            "já (I)",
+            "jsem",
+            "mám",
+            "jdu",
+            "chci"
+          ],
+          [
+            "ty (you)",
+            "jsi",
+            "máš",
+            "jdeš",
+            "chceš"
+          ],
+          [
+            "on / ona / ono",
+            "je",
+            "má",
+            "jde",
+            "chce"
+          ],
+          [
+            "my (we)",
+            "jsme",
+            "máme",
+            "jdeme",
+            "chceme"
+          ],
+          [
+            "vy (you pl./formal)",
+            "jste",
+            "máte",
+            "jdete",
+            "chcete"
+          ],
+          [
+            "oni / ony / ona (they)",
+            "jsou",
+            "mají",
+            "jdou",
+            "chtějí"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Present tense — more irregular verbs",
+      "table": {
+        "columns": [
+          "Person",
+          "moct (can)",
+          "jíst (eat)",
+          "vědět (know)"
+        ],
+        "rows": [
+          [
+            "já (I)",
+            "můžu / mohu",
+            "jím",
+            "vím"
+          ],
+          [
+            "ty (you)",
+            "můžeš",
+            "jíš",
+            "víš"
+          ],
+          [
+            "on / ona / ono",
+            "může",
+            "jí",
+            "ví"
+          ],
+          [
+            "my (we)",
+            "můžeme",
+            "jíme",
+            "víme"
+          ],
+          [
+            "vy (you pl./formal)",
+            "můžete",
+            "jíte",
+            "víte"
+          ],
+          [
+            "oni / ony / ona (they)",
+            "můžou / mohou",
+            "jedí",
+            "vědí"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Negation",
+      "text": "Put ne- in front of the verb, written as one word: dělám → nedělám, mám → nemám. The one surprise is být: nejsem, nejsi, není (not 'neje'), nejsme, nejste, nejsou. Czech uses double negatives: Nikdo nic neví. (Nobody knows anything.)"
+    },
+    {
+      "heading": "Past tense",
+      "text": "Take the infinitive, replace -t with -l (dělat → dělal), and add the present of být for 'I' and 'you' only. The -l form agrees with the subject's gender and number. jsem / jsi / jsme / jste go in second place in the sentence (Včera jsem dělal… — Yesterday I was doing…).",
+      "table": {
+        "columns": [
+          "Person",
+          "masculine",
+          "feminine",
+          "neuter"
+        ],
+        "rows": [
+          [
+            "já",
+            "dělal jsem",
+            "dělala jsem",
+            "—"
+          ],
+          [
+            "ty",
+            "dělal jsi",
+            "dělala jsi",
+            "—"
+          ],
+          [
+            "on / ona / ono",
+            "dělal",
+            "dělala",
+            "dělalo"
+          ],
+          [
+            "my",
+            "dělali jsme",
+            "dělaly jsme",
+            "—"
+          ],
+          [
+            "vy",
+            "dělali jste",
+            "dělaly jste",
+            "—"
+          ],
+          [
+            "oni / ony / ona",
+            "dělali",
+            "dělaly",
+            "dělala"
+          ]
+        ],
+        "note": "Plural -li is for groups with at least one man; -ly is for all-female groups and masculine things. Formal singular vy: Byl jste…? / Byla jste…? (Were you…?)"
+      }
+    },
+    {
+      "heading": "Past forms of common verbs",
+      "table": {
+        "columns": [
+          "Infinitive",
+          "Past (masc.)",
+          "Infinitive",
+          "Past (masc.)"
+        ],
+        "rows": [
+          [
+            "být (be)",
+            "byl",
+            "číst (read)",
+            "četl"
+          ],
+          [
+            "mít (have)",
+            "měl",
+            "psát (write)",
+            "psal"
+          ],
+          [
+            "jít (go)",
+            "šel (fem. šla)",
+            "pít (drink)",
+            "pil"
+          ],
+          [
+            "chtít (want)",
+            "chtěl",
+            "vzít (take)",
+            "vzal"
+          ],
+          [
+            "moct (can)",
+            "mohl",
+            "říct (say)",
+            "řekl"
+          ],
+          [
+            "jíst (eat)",
+            "jedl",
+            "nést (carry)",
+            "nesl"
+          ],
+          [
+            "vědět (know)",
+            "věděl",
+            "přijít (come)",
+            "přišel"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Aspect: imperfective and perfective",
+      "text": "Most verbs come in pairs. The imperfective describes an action in progress, repeated, or in general (psal — he was writing / used to write). The perfective describes one completed action (napsal — he wrote it, finished). Perfectives are often the imperfective plus a prefix.",
+      "table": {
+        "columns": [
+          "Imperfective",
+          "Perfective",
+          "Meaning"
+        ],
+        "rows": [
+          [
+            "dělat",
+            "udělat",
+            "do, make"
+          ],
+          [
+            "psát",
+            "napsat",
+            "write"
+          ],
+          [
+            "číst",
+            "přečíst",
+            "read"
+          ],
+          [
+            "jíst",
+            "sníst",
+            "eat"
+          ],
+          [
+            "pít",
+            "vypít",
+            "drink"
+          ],
+          [
+            "vidět",
+            "uvidět",
+            "see"
+          ],
+          [
+            "kupovat",
+            "koupit",
+            "buy"
+          ],
+          [
+            "dávat",
+            "dát",
+            "give"
+          ],
+          [
+            "říkat",
+            "říct",
+            "say"
+          ],
+          [
+            "brát",
+            "vzít",
+            "take"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Future tense",
+      "text": [
+        "Imperfective verbs: budu + infinitive — budu, budeš, bude, budeme, budete, budou dělat (I will be doing / will do).",
+        "Perfective verbs: just use the present-tense forms; with a perfective they mean the future — udělám (I will do it), napíšu (I will write it). Perfectives have no real present tense.",
+        "The verb být on its own: budu, budeš, bude… (I will be)."
+      ]
+    },
+    {
+      "heading": "Conditional (would)",
+      "text": "Use bych, bys, by, bychom, byste, by + the past -l form: Dělal bych to. (I would do it.) Chtěla bys kávu? (Would you like coffee? — to a woman.) The same form after aby means 'so that': Řekl to, abych to věděl."
+    },
+    {
+      "heading": "Imperative (commands)",
+      "text": "Start from the oni form, drop the ending, then add -te for vy (and -me for 'let's'). Stems ending in two consonants add -i / -ěte instead (spát → spi, spěte).",
+      "table": {
+        "columns": [
+          "Verb",
+          "ty",
+          "vy"
+        ],
+        "rows": [
+          [
+            "dělat (dělají)",
+            "dělej",
+            "dělejte"
+          ],
+          [
+            "mluvit (mluví)",
+            "mluv",
+            "mluvte"
+          ],
+          [
+            "pracovat (pracují)",
+            "pracuj",
+            "pracujte"
+          ],
+          [
+            "nést (nesou)",
+            "nes",
+            "neste"
+          ],
+          [
+            "jít",
+            "jdi",
+            "jděte"
+          ],
+          [
+            "být",
+            "buď",
+            "buďte"
+          ],
+          [
+            "(come!)",
+            "pojď",
+            "pojďte"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Reflexive verbs: se and si",
+      "text": "Many verbs come with se (myself / each other, accusative) or si (for myself, dative): jmenovat se (to be called — Jmenuji se Petr), mýt se (to wash oneself), dát si (to have, order — Dám si kávu). Like jsem, se and si go in second place."
+    },
+    {
+      "heading": "Prepositions and the cases they take",
+      "table": {
+        "columns": [
+          "Preposition",
+          "Case",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "do",
+            "2 Gen.",
+            "into, to",
+            "do školy"
+          ],
+          [
+            "z",
+            "2 Gen.",
+            "out of, from",
+            "z Prahy"
+          ],
+          [
+            "od",
+            "2 Gen.",
+            "from (a person), since",
+            "od mámy"
+          ],
+          [
+            "u",
+            "2 Gen.",
+            "at, by (someone's place)",
+            "u doktora"
+          ],
+          [
+            "bez",
+            "2 Gen.",
+            "without",
+            "bez mléka"
+          ],
+          [
+            "k",
+            "3 Dat.",
+            "to, towards",
+            "k doktorovi"
+          ],
+          [
+            "díky",
+            "3 Dat.",
+            "thanks to",
+            "díky tobě"
+          ],
+          [
+            "proti",
+            "3 Dat.",
+            "against",
+            "proti větru"
+          ],
+          [
+            "pro",
+            "4 Acc.",
+            "for",
+            "pro tebe"
+          ],
+          [
+            "přes",
+            "4 Acc.",
+            "across, over",
+            "přes ulici"
+          ],
+          [
+            "na",
+            "4 Acc. / 6 Loc.",
+            "onto (movement) / on, at (location)",
+            "na stůl / na stole"
+          ],
+          [
+            "v",
+            "6 Loc.",
+            "in",
+            "v Praze"
+          ],
+          [
+            "o",
+            "6 Loc.",
+            "about",
+            "o filmu"
+          ],
+          [
+            "po",
+            "6 Loc.",
+            "after; around, along",
+            "po obědě"
+          ],
+          [
+            "při",
+            "6 Loc.",
+            "during, at",
+            "při práci"
+          ],
+          [
+            "s",
+            "7 Inst.",
+            "with",
+            "s kamarádem"
+          ],
+          [
+            "za",
+            "7 Inst. / 4 Acc.",
+            "behind / in (time), for",
+            "za domem / za hodinu"
+          ],
+          [
+            "před",
+            "7 Inst.",
+            "in front of; ago",
+            "před domem / před rokem"
+          ],
+          [
+            "nad",
+            "7 Inst.",
+            "above",
+            "nad stolem"
+          ],
+          [
+            "pod",
+            "7 Inst.",
+            "under",
+            "pod stolem"
+          ],
+          [
+            "mezi",
+            "7 Inst.",
+            "between, among",
+            "mezi námi"
+          ]
+        ],
+        "note": "Before a similar sound or a hard cluster, v, s, z and k gain an -e: ve škole, se sestrou, ze školy, ke mně."
+      }
+    },
+    {
+      "heading": "Numbers and cases",
+      "table": {
+        "columns": [
+          "Number",
+          "Noun goes in",
+          "Example"
+        ],
+        "rows": [
+          [
+            "1",
+            "nominative singular",
+            "jeden hrad, jedna žena, jedno město"
+          ],
+          [
+            "2, 3, 4",
+            "nominative plural",
+            "dva hrady, dvě ženy, tři města"
+          ],
+          [
+            "5 and up",
+            "genitive plural",
+            "pět hradů, deset žen, sto měst"
+          ],
+          [
+            "hodně, málo, kolik",
+            "genitive plural",
+            "hodně lidí (a lot of people), kolik peněz? (how much money?)"
+          ]
+        ],
+        "note": "dva is masculine; dvě is feminine and neuter."
+      }
+    },
+    {
+      "heading": "Word order: the second position",
+      "text": "Word order is flexible, but a set of small unstressed words must come second in the clause, in this order: jsem / jsi / jsme / jste and bych…, then se / si, then short dative pronouns (mi, ti, mu), then short accusative pronouns (mě, tě, ho). Včera jsem si to koupil. (I bought it yesterday.)"
+    }
+  ]
+}

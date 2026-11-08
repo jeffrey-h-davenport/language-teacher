@@ -119896,6 +119896,1418 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "5f6ad324-932c-444e-acf6-5f778ab14a92",
+      "part-of-speech": "preposition",
+      "english": "until; up to, as far as",
+      "german": "bis",
+      "cefr": "A1",
+      "context": "+ accusative; often bis zu (+ dative)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad0998d3-2818-4ff7-8c0d-37abf5805ab1",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "german": "hinter",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25af7796-7a51-4721-9bd0-49ae75f68fe5",
+      "part-of-speech": "preposition",
+      "english": "during",
+      "german": "während",
+      "cefr": "A2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c03ce8d6-f04a-4536-926b-0f03d9d289af",
+      "part-of-speech": "preposition",
+      "english": "instead of",
+      "german": "statt",
+      "cefr": "B1",
+      "context": "+ genitive; also anstatt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "580eae99-9157-449f-a274-94134d548017",
+      "part-of-speech": "preposition",
+      "english": "despite, in spite of",
+      "german": "trotz",
+      "cefr": "B1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a271dbd-211c-4a6e-9d50-69109a518423",
+      "part-of-speech": "preposition",
+      "english": "opposite; towards, in relation to",
+      "german": "gegenüber",
+      "cefr": "B1",
+      "context": "+ dative; often placed after its noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b7536c8-90be-4112-b84a-8daceeeb613e",
+      "part-of-speech": "conjunction",
+      "english": "while, whereas",
+      "german": "während",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1922bed-bc69-4ffd-84e5-b151d90603fd",
+      "part-of-speech": "conjunction",
+      "english": "in case, if",
+      "german": "falls",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6b575c0-ce5e-47c3-a6b5-0ae0ef57a3f5",
+      "part-of-speech": "conjunction",
+      "english": "as soon as",
+      "german": "sobald",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c7d832d-fd2e-433c-862e-974c7d60ee61",
+      "part-of-speech": "preposition",
+      "english": "in, inside; into",
+      "german": "in",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1263db7-e68a-48dd-bbef-109070452c9c",
+      "part-of-speech": "preposition",
+      "english": "at, on (vertical surface); to",
+      "german": "an",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d4e0540-6178-4772-9698-2822fc35994d",
+      "part-of-speech": "preposition",
+      "english": "on (top of); onto",
+      "german": "auf",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "304fa367-68dd-4865-8579-573f2b903b91",
+      "part-of-speech": "preposition",
+      "english": "over, above; about",
+      "german": "über",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "554ed5be-b586-462b-aa29-845c8ee46861",
+      "part-of-speech": "preposition",
+      "english": "under, below; among",
+      "german": "unter",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ed03494-47b2-4778-8170-e908930f84f9",
+      "part-of-speech": "preposition",
+      "english": "in front of; before; ago",
+      "german": "vor",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement); vor + dative = ago",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f963c63-12d7-4d40-bcb6-34e2c1c8d375",
+      "part-of-speech": "preposition",
+      "english": "next to, beside",
+      "german": "neben",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15d4204d-93f1-4d5a-93d0-67d4188b67de",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "german": "zwischen",
+      "cefr": "A1",
+      "context": "+ dative (location) or accusative (movement)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ddd292d-cb45-46ee-b540-b0cd71f3ee0b",
+      "part-of-speech": "preposition",
+      "english": "out of, from",
+      "german": "aus",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ff418bf-04db-4843-9bd0-b8ad27c92a66",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place), near; with",
+      "german": "bei",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4df545e4-20ca-4370-80a6-aca93ca1e30c",
+      "part-of-speech": "preposition",
+      "english": "with; by (transport)",
+      "german": "mit",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1d9500f-fa69-4ef2-acf2-be8e2d19d664",
+      "part-of-speech": "preposition",
+      "english": "to (cities, countries); after; according to",
+      "german": "nach",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ab87238-3aa7-4733-9a44-b462837be5ab",
+      "part-of-speech": "preposition",
+      "english": "since, for (time up to now)",
+      "german": "seit",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ee2f8dc-76de-467d-ac30-f20407377dd7",
+      "part-of-speech": "preposition",
+      "english": "from; of; by",
+      "german": "von",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4a557ae-adc7-4fab-941b-5d99cb1fe8f8",
+      "part-of-speech": "preposition",
+      "english": "to (a person or place)",
+      "german": "zu",
+      "cefr": "A1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55226e1b-3082-4118-a67e-d8320843110a",
+      "part-of-speech": "preposition",
+      "english": "from (a time or place) on",
+      "german": "ab",
+      "cefr": "A2",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "813d2e9f-2884-4540-b0cf-2231332cfe5e",
+      "part-of-speech": "preposition",
+      "english": "except, apart from",
+      "german": "außer",
+      "cefr": "A2",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3958686e-392e-475a-a712-770fe969dcdf",
+      "part-of-speech": "preposition",
+      "english": "contrary to, against",
+      "german": "entgegen",
+      "cefr": "B2",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d7d87b5-4d05-4dc3-98a2-34da216431b6",
+      "part-of-speech": "preposition",
+      "english": "according to, in accordance with",
+      "german": "gemäß",
+      "cefr": "C1",
+      "context": "+ dative; often placed after its noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ba7635a-5254-427d-8a34-c4e7d4ac251d",
+      "part-of-speech": "preposition",
+      "english": "together with, along with",
+      "german": "samt",
+      "cefr": "C1",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d66dbef0-ff92-4b2f-9162-683696f3fec0",
+      "part-of-speech": "preposition",
+      "english": "together with",
+      "german": "nebst",
+      "cefr": "C2",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0773c9bc-8619-45a8-b65e-6ce437130372",
+      "part-of-speech": "preposition",
+      "english": "according to",
+      "german": "zufolge",
+      "cefr": "C1",
+      "context": "+ dative; placed after its noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f1f75bf-2a83-44c5-afb4-e7cbe0a65620",
+      "part-of-speech": "preposition",
+      "english": "for the sake of",
+      "german": "zuliebe",
+      "cefr": "C1",
+      "context": "+ dative; placed after its noun (mir zuliebe)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac7ec439-b2a9-4d74-827b-430bfddcf202",
+      "part-of-speech": "preposition",
+      "english": "within",
+      "german": "binnen",
+      "cefr": "C1",
+      "context": "+ dative or genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbc96dbb-44a9-453a-9c39-689c082caf59",
+      "part-of-speech": "preposition",
+      "english": "thanks to",
+      "german": "dank",
+      "cefr": "B2",
+      "context": "+ dative or genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c932cfe-aab8-403a-a93c-52c5ae855811",
+      "part-of-speech": "preposition",
+      "english": "through; by (means of)",
+      "german": "durch",
+      "cefr": "A2",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "405aebd7-ca9c-4080-805e-020abe78f9b9",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "german": "für",
+      "cefr": "A1",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b93d7e0b-eb47-4669-970e-cdfea7b91fb9",
+      "part-of-speech": "preposition",
+      "english": "against; around (time)",
+      "german": "gegen",
+      "cefr": "A2",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68cf0354-5e0e-41c1-a3f4-fd3eef6ba711",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "german": "ohne",
+      "cefr": "A1",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9725c22-a289-4ed6-981d-a3d3261d3eed",
+      "part-of-speech": "preposition",
+      "english": "around; at (clock time)",
+      "german": "um",
+      "cefr": "A1",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adb52634-c0da-4ffd-bc03-fc0416ab0bc9",
+      "part-of-speech": "preposition",
+      "english": "along",
+      "german": "entlang",
+      "cefr": "B1",
+      "context": "+ accusative when placed after its noun (die Straße entlang)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cf92858-3514-4143-8609-10e42cff2afb",
+      "part-of-speech": "preposition",
+      "english": "against, contrary to",
+      "german": "wider",
+      "cefr": "C2",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18165077-6013-4311-8ceb-6a12faa27f35",
+      "part-of-speech": "preposition",
+      "english": "except for; down to",
+      "german": "bis auf",
+      "cefr": "B2",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e367155-9ab8-4983-a934-f5962ed3cbee",
+      "part-of-speech": "preposition",
+      "english": "per",
+      "german": "pro",
+      "cefr": "A2",
+      "context": "usually no article (pro Person)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00faa84f-eefb-451a-ba08-d5ee0fc56d31",
+      "part-of-speech": "preposition",
+      "english": "by, via; per",
+      "german": "per",
+      "cefr": "B2",
+      "context": "usually no article (per E-Mail)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46918dee-e1c8-419c-b55e-3223732eb414",
+      "part-of-speech": "preposition",
+      "english": "per, each",
+      "german": "je",
+      "cefr": "B2",
+      "context": "usually no article (je Person)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9641c002-b95f-48ad-aebf-d427b9cc2faf",
+      "part-of-speech": "preposition",
+      "english": "via",
+      "german": "via",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3c9cf22-5581-4337-a7ab-9d185b5a65f9",
+      "part-of-speech": "preposition",
+      "english": "because of",
+      "german": "wegen",
+      "cefr": "A2",
+      "context": "+ genitive (dative in casual speech)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd4bcab3-4a53-4199-82c5-e3b689d6b111",
+      "part-of-speech": "preposition",
+      "english": "instead of",
+      "german": "anstatt",
+      "cefr": "B1",
+      "context": "+ genitive; also statt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99aa655e-848e-4332-9e14-941409b35c12",
+      "part-of-speech": "preposition",
+      "english": "outside (of)",
+      "german": "außerhalb",
+      "cefr": "B1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c41acd9-2063-4c79-aef8-3b592ef0eaa6",
+      "part-of-speech": "preposition",
+      "english": "inside, within",
+      "german": "innerhalb",
+      "cefr": "B1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db214079-79af-422d-8828-f83d9ba8e73f",
+      "part-of-speech": "preposition",
+      "english": "above",
+      "german": "oberhalb",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83fcc6f1-355c-438f-a7dc-a574eda6e3c6",
+      "part-of-speech": "preposition",
+      "english": "below",
+      "german": "unterhalb",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba4d6689-1727-466e-ba94-09326815e6f6",
+      "part-of-speech": "preposition",
+      "english": "on this side of",
+      "german": "diesseits",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c67afbe9-1e86-4573-b243-f48dc21325d4",
+      "part-of-speech": "preposition",
+      "english": "on the other side of, beyond",
+      "german": "jenseits",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7e76d86-5b4e-476b-a994-5db071bdbcc7",
+      "part-of-speech": "preposition",
+      "english": "because of, on the basis of",
+      "german": "aufgrund",
+      "cefr": "B2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "906ea893-6274-44ed-8d96-12bb3b3d3311",
+      "part-of-speech": "preposition",
+      "english": "by means of, on the basis of",
+      "german": "anhand",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79f9d115-9064-4f8a-a7e6-01914067746c",
+      "part-of-speech": "preposition",
+      "english": "as a result of",
+      "german": "infolge",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a3afaac-3391-4319-add9-17489220cc86",
+      "part-of-speech": "preposition",
+      "english": "with the help of",
+      "german": "mithilfe",
+      "cefr": "B2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "100e7a6f-e946-4d13-b8cf-f4faee4f64c1",
+      "part-of-speech": "preposition",
+      "english": "in view of, given",
+      "german": "angesichts",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17466c1c-a785-40cb-bf16-5ad0e3b780cd",
+      "part-of-speech": "preposition",
+      "english": "regarding, concerning",
+      "german": "bezüglich",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90fcfaa8-098d-4cf4-b5e9-145d95529536",
+      "part-of-speech": "preposition",
+      "english": "with regard to",
+      "german": "hinsichtlich",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c071e43-88bc-4511-ae47-b1f159e4756c",
+      "part-of-speech": "preposition",
+      "english": "according to",
+      "german": "laut",
+      "cefr": "B2",
+      "context": "+ genitive or dative; often no article (laut Bericht)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23c40872-e31e-418e-9905-5e6c55de8613",
+      "part-of-speech": "preposition",
+      "english": "for lack of",
+      "german": "mangels",
+      "cefr": "C2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b9d6780-ce2d-43f5-86d3-bec7ebb36afc",
+      "part-of-speech": "preposition",
+      "english": "by means of",
+      "german": "mittels",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f8d3428-468d-43e4-acc7-1b243402dbb0",
+      "part-of-speech": "preposition",
+      "english": "on the part of",
+      "german": "seitens",
+      "cefr": "C2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33520a37-21e4-4ddf-8a2c-fe11b4ce1a82",
+      "part-of-speech": "preposition",
+      "english": "regardless of, despite",
+      "german": "ungeachtet",
+      "cefr": "C2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d64e224-7290-4aab-946a-fdbc83dcac2d",
+      "part-of-speech": "preposition",
+      "english": "not far from",
+      "german": "unweit",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bff31f7-47b4-4bdf-bf7a-cd3fc1f3b12d",
+      "part-of-speech": "preposition",
+      "english": "in favour of",
+      "german": "zugunsten",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f87e0850-8bda-4910-a1a2-f725622398d9",
+      "part-of-speech": "preposition",
+      "english": "for the purpose of",
+      "german": "zwecks",
+      "cefr": "C2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93d2a9e5-4693-4d4f-a3e1-9530a80722e5",
+      "part-of-speech": "preposition",
+      "english": "in the middle of, amid",
+      "german": "inmitten",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "539c9f2c-c75f-45d3-91b5-3d968399e259",
+      "part-of-speech": "preposition",
+      "english": "away from, off",
+      "german": "abseits",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a2690ac-aa89-44ec-a487-34c8f48eb653",
+      "part-of-speech": "preposition",
+      "english": "on the occasion of",
+      "german": "anlässlich",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d86c43ee-fb54-43ad-b9c7-d56bdf28a400",
+      "part-of-speech": "preposition",
+      "english": "including",
+      "german": "einschließlich",
+      "cefr": "B2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c547f7e9-70b2-42df-9b94-3e4b3e495e05",
+      "part-of-speech": "preposition",
+      "english": "minus, less",
+      "german": "abzüglich",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3c3ccfe-b561-4863-a8d5-dcf049c7d583",
+      "part-of-speech": "preposition",
+      "english": "plus",
+      "german": "zuzüglich",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e8df551-d04d-454d-bd42-7dbc7c45e330",
+      "part-of-speech": "preposition",
+      "english": "including",
+      "german": "inklusive",
+      "cefr": "B2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68ca6ed1-09fc-4c50-8a98-47a5f29e5056",
+      "part-of-speech": "preposition",
+      "english": "excluding",
+      "german": "exklusive",
+      "cefr": "C1",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b1af354-f153-4d13-a7ed-8c97ff1295aa",
+      "part-of-speech": "preposition",
+      "english": "by virtue of",
+      "german": "kraft",
+      "cefr": "C2",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fda8456d-c8e3-4f2a-bfe3-51ec06ebeb16",
+      "part-of-speech": "preposition",
+      "english": "for the sake of",
+      "german": "halber",
+      "cefr": "C2",
+      "context": "+ genitive; placed after its noun (der Ordnung halber)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93e00146-3137-4a55-905e-31e706c1d226",
+      "part-of-speech": "preposition",
+      "english": "for the sake of",
+      "german": "um … willen",
+      "cefr": "C2",
+      "context": "+ genitive (um des Friedens willen)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fad5fac3-7a30-4956-a74f-cf046a4f1e4d",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "german": "und",
+      "cefr": "A1",
+      "context": "no change in word order",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f8b8692-3d2d-46ce-b6b3-43b129f5d1db",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "german": "oder",
+      "cefr": "A1",
+      "context": "no change in word order",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0ca6df4-9f84-4298-9081-9f88b1ceeee1",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "german": "aber",
+      "cefr": "A1",
+      "context": "no change in word order",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c82077f-2b1b-4a98-8606-9cf4f65fa299",
+      "part-of-speech": "conjunction",
+      "english": "because, for",
+      "german": "denn",
+      "cefr": "A2",
+      "context": "no change in word order",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c6dcf30-98fc-41f4-8c93-35b91eee2af7",
+      "part-of-speech": "conjunction",
+      "english": "but (rather)",
+      "german": "sondern",
+      "cefr": "A2",
+      "context": "no change in word order; after a negative (nicht rot, sondern blau)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea3182b7-e6de-4c90-be99-78a386968ada",
+      "part-of-speech": "conjunction",
+      "english": "but, yet",
+      "german": "doch",
+      "cefr": "B1",
+      "context": "no change in word order",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2df917ce-84a5-477b-a836-a3ad8fdfc0b2",
+      "part-of-speech": "conjunction",
+      "english": "as well as; as soon as",
+      "german": "sowie",
+      "cefr": "B2",
+      "context": "no change in word order (as well as)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50ac2ca1-cfe1-4bd2-8efd-ab202131de36",
+      "part-of-speech": "conjunction",
+      "english": "or; respectively",
+      "german": "beziehungsweise",
+      "cefr": "B2",
+      "context": "no change in word order; abbreviated bzw.",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ddc673f-2e03-44fc-a884-6d893f791fd0",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "german": "dass",
+      "cefr": "A1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d8e5e43-c8f4-48f5-aefe-2a70d7b74940",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "german": "weil",
+      "cefr": "A1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a96069a-59b1-4af5-b2b1-69fc8cfe52ad",
+      "part-of-speech": "conjunction",
+      "english": "if; when, whenever",
+      "german": "wenn",
+      "cefr": "A1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cfedb37-939a-4952-b791-4f180404d4d2",
+      "part-of-speech": "conjunction",
+      "english": "when (single event in the past); than; as",
+      "german": "als",
+      "cefr": "A1",
+      "context": "verb goes to the end of the clause (when); after a comparative: than",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06903d8b-e574-47e5-82b6-03a112361b93",
+      "part-of-speech": "conjunction",
+      "english": "as, like; how",
+      "german": "wie",
+      "cefr": "A1",
+      "context": "comparison: so groß wie (as big as)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dcacdfd-8e49-4319-80da-9141d7f81a32",
+      "part-of-speech": "conjunction",
+      "english": "whether, if",
+      "german": "ob",
+      "cefr": "A2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f449fd31-5761-4e39-a196-6d13f4ea95c9",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "german": "bevor",
+      "cefr": "A2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea2f731b-0daa-4ecb-9d22-eb8676284e1b",
+      "part-of-speech": "conjunction",
+      "english": "since, as (giving a reason)",
+      "german": "da",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44ba9457-ecfe-4890-9a39-e55c5df7151e",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "german": "obwohl",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4daab954-b6ca-40aa-b44c-803507ec54d9",
+      "part-of-speech": "conjunction",
+      "english": "so that",
+      "german": "damit",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be32d8d1-6391-4d51-8f39-6181689869c6",
+      "part-of-speech": "conjunction",
+      "english": "so that (result)",
+      "german": "sodass",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause; also so dass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da7b105b-fb21-4aa8-9b52-1cc76480e2a2",
+      "part-of-speech": "conjunction",
+      "english": "after",
+      "german": "nachdem",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d943cb4-50b5-4b05-b3ee-bda2dfb32039",
+      "part-of-speech": "conjunction",
+      "english": "since (time)",
+      "german": "seitdem",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause; also seit",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b76d535-0aff-4bc7-8779-7564b5b25f68",
+      "part-of-speech": "conjunction",
+      "english": "until",
+      "german": "bis",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e077787-c0f9-403b-9c38-bc2881f4e955",
+      "part-of-speech": "conjunction",
+      "english": "as long as",
+      "german": "solange",
+      "cefr": "B1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74f901df-2035-4703-a931-8d34da2f8d0e",
+      "part-of-speech": "conjunction",
+      "english": "by (doing)",
+      "german": "indem",
+      "cefr": "B2",
+      "context": "verb goes to the end of the clause (indem er übt: by practising)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaef41f1-7453-4f27-ae1d-bc85aa224f6a",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "german": "ehe",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bff8c5c-638e-41da-85c7-3b1247e9fde1",
+      "part-of-speech": "conjunction",
+      "english": "whenever, as often as",
+      "german": "sooft",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92fd5f02-28c1-4c67-b8dc-758618b2ed83",
+      "part-of-speech": "conjunction",
+      "english": "provided that, if",
+      "german": "sofern",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b6feb60-c53b-44ca-b7e9-2d287358d3fb",
+      "part-of-speech": "conjunction",
+      "english": "as far as",
+      "german": "soweit",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5960178f-665a-47c0-ad31-a5a2ee673d5d",
+      "part-of-speech": "conjunction",
+      "english": "whereas",
+      "german": "wohingegen",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94b45cf9-1b99-4842-ad86-c39d3f9fab06",
+      "part-of-speech": "conjunction",
+      "english": "especially since",
+      "german": "zumal",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df0dc70c-f1d6-4fac-9ace-42b0ba3c9502",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "german": "obgleich",
+      "cefr": "C2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bda6b400-c4d4-4a02-88ed-f5464ce858ff",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "german": "obschon",
+      "cefr": "C2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55b81cc7-d716-4df1-be89-221eb5d13b05",
+      "part-of-speech": "conjunction",
+      "english": "no sooner … than, as soon as",
+      "german": "kaum dass",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "692a218a-8bc9-4ac1-884f-cbe5fba19a2e",
+      "part-of-speech": "conjunction",
+      "english": "as if, as though",
+      "german": "als ob",
+      "cefr": "B2",
+      "context": "verb goes to the end of the clause; usually with Konjunktiv",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c292d04d-3644-428a-91ee-68c0ba3f51a6",
+      "part-of-speech": "conjunction",
+      "english": "without (someone doing)",
+      "german": "ohne dass",
+      "cefr": "B2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fce1141-f74b-47d8-89c9-db3f20b179ad",
+      "part-of-speech": "conjunction",
+      "english": "instead of (someone doing)",
+      "german": "anstatt dass",
+      "cefr": "B2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7433b5d-8739-42e2-b7b6-fbbf3ea67df1",
+      "part-of-speech": "conjunction",
+      "english": "except that",
+      "german": "außer dass",
+      "cefr": "C2",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c69f0eb-8967-492c-ba3e-47703f21476a",
+      "part-of-speech": "conjunction",
+      "english": "for … to (too … for)",
+      "german": "als dass",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause (zu müde, als dass …)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c90e777-cb9d-49eb-9f23-54ab29c78c95",
+      "part-of-speech": "conjunction",
+      "english": "in order to",
+      "german": "um … zu",
+      "cefr": "B1",
+      "context": "infinitive clause (um Deutsch zu lernen)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21a193ff-2443-4409-8491-82458a33b3b5",
+      "part-of-speech": "conjunction",
+      "english": "without (doing)",
+      "german": "ohne … zu",
+      "cefr": "B1",
+      "context": "infinitive clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "673e57f4-30b0-4b3b-bd8e-903dda3f50b5",
+      "part-of-speech": "conjunction",
+      "english": "instead of (doing)",
+      "german": "anstatt … zu",
+      "cefr": "B2",
+      "context": "infinitive clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb6c8d83-ebdf-4496-85c3-7ca6141bfd14",
+      "part-of-speech": "conjunction",
+      "english": "either … or",
+      "german": "entweder … oder",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "376bcce2-5621-4619-9704-544c76c3f064",
+      "part-of-speech": "conjunction",
+      "english": "neither … nor",
+      "german": "weder … noch",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cf95d4b-b34b-4750-8cc4-c36aa919e54b",
+      "part-of-speech": "conjunction",
+      "english": "both … and, as well as",
+      "german": "sowohl … als auch",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a00a010-0c1a-4717-b27d-708ac4520464",
+      "part-of-speech": "conjunction",
+      "english": "not only … but also",
+      "german": "nicht nur … sondern auch",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e46a045-83b4-4005-a59a-dc92a0a76558",
+      "part-of-speech": "conjunction",
+      "english": "the … the (je mehr, desto besser)",
+      "german": "je … desto",
+      "cefr": "B1",
+      "context": "also je … umso",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0b6268c-02ec-4a2c-a768-a762872fb510",
+      "part-of-speech": "conjunction",
+      "english": "admittedly … but",
+      "german": "zwar … aber",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfab9054-382b-4b6f-a8c6-d4e0cc8ae2d5",
+      "part-of-speech": "conjunction",
+      "english": "let alone",
+      "german": "geschweige denn",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0874fa0a-d24c-4f6f-8ecc-4d0b18666923",
+      "part-of-speech": "conjunction",
+      "english": "insofar as",
+      "german": "insofern als",
+      "cefr": "C1",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

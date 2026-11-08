@@ -224,7 +224,7 @@ const ARTICLES = {
   'es': { masculine: 'el',  feminine: 'la',  plural: 'los', pluralFeminine: 'las' },
   'it': { masculine: 'il',  feminine: 'la',  plural: 'i',   pluralFeminine: 'le'  },
   'pt': { masculine: 'o',   feminine: 'a',   plural: 'os',  pluralFeminine: 'as'  },
-  'nl': { masculine: 'de',  feminine: 'de',  neuter: 'het', plural: 'de' },
+  'nl': { masculine: 'de',  feminine: 'de',  common: 'de', neuter: 'het', plural: 'de' },
   'sv': { common: 'en',     neuter: 'ett' },
 }
 
@@ -1259,6 +1259,9 @@ async function loadVocabulary(slug) {
 // the button just hides itself when a language has no script file.
 function updateScriptGuideButton() {
   $('script-guide-btn').classList.toggle('hidden', !currentScript)
+  // buttonLabel lets a guide that isn't about the script (e.g. Czech
+  // grammar) name itself; older guide files just keep the default.
+  $('script-guide-btn').textContent = currentScript?.buttonLabel || 'Script Guide'
 }
 
 function renderScriptGuide() {
@@ -1276,11 +1279,28 @@ function renderScriptGuide() {
     body.appendChild(intro)
   }
 
+  // Tables need more room than the character grid, so widen the card for
+  // guides that have any.
+  const hasTables = (currentScript.sections || []).some(s => s.table)
+  $('script-guide-card').classList.toggle('modal-card-wide', hasTables)
+
   for (const section of (currentScript.sections || [])) {
     const heading = document.createElement('h3')
     heading.className = 'script-guide-heading'
     heading.textContent = section.heading
     body.appendChild(heading)
+
+    // Optional prose and table blocks (used by grammar guides) — a section
+    // can have any mix of text, a table, and the character grid below.
+    const texts = Array.isArray(section.text) ? section.text : (section.text ? [section.text] : [])
+    for (const t of texts) {
+      const p = document.createElement('p')
+      p.className = 'script-guide-text'
+      p.textContent = t
+      body.appendChild(p)
+    }
+    if (section.table) body.appendChild(buildGuideTable(section.table))
+    if (!section.items || section.items.length === 0) continue
 
     const grid = document.createElement('div')
     grid.className = 'script-guide-grid'
@@ -1319,6 +1339,45 @@ function renderScriptGuide() {
     }
     body.appendChild(grid)
   }
+}
+
+// table: { columns: [header, ...], rows: [[cell, ...], ...], note? }.
+// The first column is treated as row labels (e.g. case names).
+function buildGuideTable(table) {
+  const wrap = document.createElement('div')
+  wrap.className = 'guide-table-wrap'
+  const el = document.createElement('table')
+  el.className = 'guide-table'
+  if (table.columns) {
+    const tr = document.createElement('tr')
+    for (const c of table.columns) {
+      const th = document.createElement('th')
+      th.textContent = c
+      tr.appendChild(th)
+    }
+    const thead = document.createElement('thead')
+    thead.appendChild(tr)
+    el.appendChild(thead)
+  }
+  const tbody = document.createElement('tbody')
+  for (const row of (table.rows || [])) {
+    const tr = document.createElement('tr')
+    row.forEach((cell, i) => {
+      const td = document.createElement(i === 0 ? 'th' : 'td')
+      td.textContent = cell
+      tr.appendChild(td)
+    })
+    tbody.appendChild(tr)
+  }
+  el.appendChild(tbody)
+  wrap.appendChild(el)
+  if (table.note) {
+    const note = document.createElement('p')
+    note.className = 'guide-table-note'
+    note.textContent = table.note
+    wrap.appendChild(note)
+  }
+  return wrap
 }
 
 function showScriptGuide() {
