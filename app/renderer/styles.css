@@ -1708,6 +1708,60 @@ html, body {
 }
 .script-guide-heading:first-of-type { margin-top: 0; }
 
+.modal-card.modal-card-wide { max-width: 760px; }
+
+.script-guide-text {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+.guide-table-wrap {
+  overflow-x: auto;
+  margin-bottom: 14px;
+}
+
+.guide-table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.88rem;
+}
+
+.guide-table th,
+.guide-table td {
+  text-align: left;
+  padding: 6px 10px;
+  border-bottom: 1px solid var(--border);
+  vertical-align: top;
+}
+
+/* Row labels (case names, persons) stay on one line; content cells wrap. */
+.guide-table tbody th { white-space: nowrap; }
+
+.guide-table thead th {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--text-2);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  background: var(--surface-2);
+}
+
+.guide-table tbody th {
+  font-weight: 600;
+  color: var(--text-2);
+}
+
+.guide-table td { color: var(--text); }
+
+.guide-table-note {
+  font-size: 0.8rem;
+  color: var(--text-2);
+  line-height: 1.45;
+  margin-top: 6px;
+}
+
 .script-guide-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(72px, 1fr));

@@ -1,6 +1,6 @@
 # Language Teacher
 
-A vocabulary and reading-comprehension trainer for macOS, built with Electron. Supports Czech, Finnish, French, German, Hindi, Korean, Spanish, and Swedish, including dedicated script-literacy content (graphemes, contrast pairs, a script reference guide) for non-Latin scripts like Hindi and Korean.
+A vocabulary and reading-comprehension trainer for macOS, built with Electron. Supports Chinese, Czech, Dutch, Finnish, French, German, Hindi, Korean, Spanish, Swedish, and Turkish, including dedicated script-literacy content (graphemes, contrast pairs, a script reference guide) for non-Latin scripts like Hindi and Korean.
 
 ## Running in development
 

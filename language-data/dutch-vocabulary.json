@@ -1,0 +1,7128 @@
+{
+  "meta": {
+    "language": "Dutch",
+    "languageCode": "nl",
+    "nativeLanguage": "English",
+    "targetField": "dutch",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "cc91f00e-b05d-4ba0-94e0-10068d4d7836",
+      "part-of-speech": "noun",
+      "english": "man; husband",
+      "dutch": "man",
+      "gender": "common",
+      "plural": "mannen",
+      "cefr": "A1",
+      "ipa": "[mɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbca0176-2952-445f-87a9-0f89816504e2",
+      "part-of-speech": "noun",
+      "english": "woman; wife",
+      "dutch": "vrouw",
+      "gender": "common",
+      "plural": "vrouwen",
+      "cefr": "A1",
+      "ipa": "[vʁʌu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "008014d9-d7a7-4873-8a77-7f15cc5c727b",
+      "part-of-speech": "noun",
+      "english": "child",
+      "dutch": "kind",
+      "gender": "neuter",
+      "plural": "kinderen",
+      "cefr": "A1",
+      "ipa": "[kɪnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4ef4076-2529-49eb-a30d-1054689454d9",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "dutch": "jongen",
+      "gender": "common",
+      "plural": "jongens",
+      "cefr": "A1",
+      "ipa": "[ˈjɔŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96d38334-f85b-4c54-9e33-bec21656a18b",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "dutch": "meisje",
+      "gender": "neuter",
+      "plural": "meisjes",
+      "cefr": "A1",
+      "ipa": "[ˈmɛiʃə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25f5597b-a530-4192-b331-bc3e6f230836",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "dutch": "baby",
+      "gender": "common",
+      "plural": "baby's",
+      "cefr": "A1",
+      "ipa": "[ˈbeɪbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08ce1db3-bab0-4946-914f-303ddbd5da1b",
+      "part-of-speech": "noun",
+      "english": "person, human being",
+      "dutch": "mens",
+      "gender": "common",
+      "plural": "mensen",
+      "cefr": "A1",
+      "ipa": "[mɛns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ccf4114-c769-46f6-a07b-0c6972f1d441",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "dutch": "moeder",
+      "gender": "common",
+      "plural": "moeders",
+      "cefr": "A1",
+      "ipa": "[ˈmudəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e518e33-d58a-4984-9cdb-3c1f66abf29a",
+      "part-of-speech": "noun",
+      "english": "father",
+      "dutch": "vader",
+      "gender": "common",
+      "plural": "vaders",
+      "cefr": "A1",
+      "ipa": "[ˈvaːdəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5372b770-bb3f-4449-92b4-08bdb967b451",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "dutch": "ouders",
+      "gender": "common",
+      "plural": "ouders",
+      "cefr": "A1",
+      "ipa": "[ˈʌudəɻs]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4adac97-dceb-4910-bc13-34165f5f78cc",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "dutch": "broer",
+      "gender": "common",
+      "plural": "broers",
+      "cefr": "A1",
+      "ipa": "[bʁuːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dbce492-ebdf-494f-8959-606729f91346",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "dutch": "zus",
+      "gender": "common",
+      "plural": "zussen",
+      "cefr": "A1",
+      "ipa": "[zʏs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f5a04e2-17a5-4ba2-9899-fa6a01b4cbac",
+      "part-of-speech": "noun",
+      "english": "son",
+      "dutch": "zoon",
+      "gender": "common",
+      "plural": "zonen",
+      "cefr": "A1",
+      "ipa": "[zoʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a422ac63-8f71-472b-a513-07d84bfb3e86",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "dutch": "dochter",
+      "gender": "common",
+      "plural": "dochters",
+      "cefr": "A1",
+      "ipa": "[ˈdɔxtəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64ec7cac-9f73-4a07-a015-e504cee974c3",
+      "part-of-speech": "noun",
+      "english": "grandpa",
+      "dutch": "opa",
+      "gender": "common",
+      "plural": "opa's",
+      "cefr": "A1",
+      "ipa": "[ˈoʊpaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b0d6bcd-4691-4b7a-85fe-2fbcf6bed4f8",
+      "part-of-speech": "noun",
+      "english": "grandma",
+      "dutch": "oma",
+      "gender": "common",
+      "plural": "oma's",
+      "cefr": "A1",
+      "ipa": "[ˈoʊmaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef9d4a6b-5b5a-498a-ab78-53f141039e12",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "dutch": "oom",
+      "gender": "common",
+      "plural": "ooms",
+      "cefr": "A2",
+      "ipa": "[oʊm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "525e0a4e-1bd5-4160-b1cf-851f2301de3d",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "dutch": "tante",
+      "gender": "common",
+      "plural": "tantes",
+      "cefr": "A2",
+      "ipa": "[ˈtɑntə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9e269d1-6161-434f-bcbb-bc06dad32d2c",
+      "part-of-speech": "noun",
+      "english": "family; relatives",
+      "dutch": "familie",
+      "gender": "common",
+      "plural": "families",
+      "cefr": "A1",
+      "ipa": "[faːˈmili]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "823a0392-50c4-4448-99aa-85c1eacf364e",
+      "part-of-speech": "noun",
+      "english": "family (household)",
+      "dutch": "gezin",
+      "gender": "neuter",
+      "plural": "gezinnen",
+      "cefr": "A2",
+      "ipa": "[ɣəˈzɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f225255a-bd05-4b5e-8d4f-74ef386f96f3",
+      "part-of-speech": "noun",
+      "english": "friend; boyfriend",
+      "dutch": "vriend",
+      "gender": "common",
+      "plural": "vrienden",
+      "cefr": "A1",
+      "ipa": "[vʁint]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f069e7db-c6d5-495b-8c7c-8ed07bd4f389",
+      "part-of-speech": "noun",
+      "english": "friend (female); girlfriend",
+      "dutch": "vriendin",
+      "gender": "common",
+      "plural": "vriendinnen",
+      "cefr": "A1",
+      "ipa": "[vʁinˈdɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "585f39c2-cdc9-45e3-adac-1a10d909b42e",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "dutch": "buurman",
+      "gender": "common",
+      "plural": "buren",
+      "cefr": "A2",
+      "ipa": "[ˈbyːɻmɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ce06e59-1306-45bb-9250-eaa2a407380b",
+      "part-of-speech": "noun",
+      "english": "neighbour (female)",
+      "dutch": "buurvrouw",
+      "gender": "common",
+      "plural": "buurvrouwen",
+      "cefr": "A2",
+      "ipa": "[ˈbyːɻvʁʌu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6322570-8fff-4929-a78a-a25c69a067bb",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "dutch": "collega",
+      "gender": "common",
+      "plural": "collega's",
+      "cefr": "A2",
+      "ipa": "[kɔˈleɪɣaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fe55c76-8f44-41bb-b7b6-34f2823257aa",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "dutch": "leraar",
+      "gender": "common",
+      "plural": "leraren",
+      "cefr": "A1",
+      "ipa": "[ˈleɪʁaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7df121bb-aed7-44a8-afea-db17708f089b",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "dutch": "lerares",
+      "gender": "common",
+      "plural": "leraressen",
+      "cefr": "A1",
+      "ipa": "[leɪʁaːˈʁɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2eea039d-f0fa-447a-9dcb-e07e35b6800a",
+      "part-of-speech": "noun",
+      "english": "student",
+      "dutch": "student",
+      "gender": "common",
+      "plural": "studenten",
+      "cefr": "A1",
+      "ipa": "[styˈdɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "815fb4b7-ddad-4582-9a3c-b302b5b10ce2",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "dutch": "dokter",
+      "gender": "common",
+      "plural": "dokters",
+      "cefr": "A1",
+      "ipa": "[ˈdɔktəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "519254a4-9dcb-485b-9aaf-838a9f68cf52",
+      "part-of-speech": "noun",
+      "english": "name",
+      "dutch": "naam",
+      "gender": "common",
+      "plural": "namen",
+      "cefr": "A1",
+      "ipa": "[naːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9666590a-1f74-4231-83b8-d874a0eb3889",
+      "part-of-speech": "noun",
+      "english": "age",
+      "dutch": "leeftijd",
+      "gender": "common",
+      "plural": "leeftijden",
+      "cefr": "A2",
+      "ipa": "[ˈleɪftɛit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f72d42cf-6aa5-4de2-bbfa-c5022b2dd56a",
+      "part-of-speech": "noun",
+      "english": "time",
+      "dutch": "tijd",
+      "gender": "common",
+      "plural": "tijden",
+      "cefr": "A1",
+      "ipa": "[tɛit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "337cad66-5154-4927-8c28-d7e9500efc7c",
+      "part-of-speech": "noun",
+      "english": "day",
+      "dutch": "dag",
+      "gender": "common",
+      "plural": "dagen",
+      "cefr": "A1",
+      "ipa": "[dɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84aa71da-8cf6-4a32-80e7-c9a17e2a7054",
+      "part-of-speech": "noun",
+      "english": "week",
+      "dutch": "week",
+      "gender": "common",
+      "plural": "weken",
+      "cefr": "A1",
+      "ipa": "[ʋeɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76c20afc-6ca9-4a80-a0d7-2e33d2e9b37c",
+      "part-of-speech": "noun",
+      "english": "month",
+      "dutch": "maand",
+      "gender": "common",
+      "plural": "maanden",
+      "cefr": "A1",
+      "ipa": "[maːnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f67c3420-5800-4f6a-870f-17fed8358438",
+      "part-of-speech": "noun",
+      "english": "year",
+      "dutch": "jaar",
+      "gender": "neuter",
+      "plural": "jaren",
+      "cefr": "A1",
+      "ipa": "[jaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6ae2f64-4b0e-4260-9da8-48ac39dfa456",
+      "part-of-speech": "noun",
+      "english": "hour; o'clock",
+      "dutch": "uur",
+      "gender": "neuter",
+      "plural": "uren",
+      "cefr": "A1",
+      "ipa": "[yːɻ]",
+      "context": "om drie uur: at three o'clock",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ea2ea3c-9a31-488e-affd-ec9c2ace3dcd",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "dutch": "minuut",
+      "gender": "common",
+      "plural": "minuten",
+      "cefr": "A1",
+      "ipa": "[miˈnyt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60953b09-989d-43c7-95b5-2094129ae7c1",
+      "part-of-speech": "noun",
+      "english": "quarter of an hour",
+      "dutch": "kwartier",
+      "gender": "neuter",
+      "plural": "kwartieren",
+      "cefr": "A2",
+      "ipa": "[kʋɑɻˈtiːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d16a905-b8ec-49ad-a29a-e4b0da888205",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "dutch": "ochtend",
+      "gender": "common",
+      "plural": "ochtenden",
+      "cefr": "A1",
+      "ipa": "[ˈɔxtənt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61c60f9c-f6a1-41ae-abe8-8f26fe5d3b78",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "dutch": "middag",
+      "gender": "common",
+      "plural": "middagen",
+      "cefr": "A1",
+      "ipa": "[ˈmɪdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24bc640d-7daf-4ff7-aec0-a325ee768144",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "dutch": "avond",
+      "gender": "common",
+      "plural": "avonden",
+      "cefr": "A1",
+      "ipa": "[ˈaːvɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d7c6660-d9e4-49ee-a4b9-62fb4fc9c2e5",
+      "part-of-speech": "noun",
+      "english": "night",
+      "dutch": "nacht",
+      "gender": "common",
+      "plural": "nachten",
+      "cefr": "A1",
+      "ipa": "[nɑxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "655a4f14-c74d-419d-904b-9df41dcbac31",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "dutch": "weekend",
+      "gender": "neuter",
+      "plural": "weekenden",
+      "cefr": "A1",
+      "ipa": "[ˈʋiːkɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d95eccdf-f336-45ed-ae6f-372634bf726e",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "dutch": "maandag",
+      "gender": "common",
+      "plural": "maandagen",
+      "cefr": "A1",
+      "ipa": "[ˈmaːndɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e89caac3-933b-41d6-9b0d-c8c83e64650f",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "dutch": "dinsdag",
+      "gender": "common",
+      "plural": "dinsdagen",
+      "cefr": "A1",
+      "ipa": "[ˈdɪnsdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec1753e1-718d-4335-a08c-bf295f99d8a3",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "dutch": "woensdag",
+      "gender": "common",
+      "plural": "woensdagen",
+      "cefr": "A1",
+      "ipa": "[ˈʋunsdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c66014e-3b84-4a05-9ace-351173abe59c",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "dutch": "donderdag",
+      "gender": "common",
+      "plural": "donderdagen",
+      "cefr": "A1",
+      "ipa": "[ˈdɔndəɻdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d2e42ce-df04-4efa-8909-7b939b08ec1a",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "dutch": "vrijdag",
+      "gender": "common",
+      "plural": "vrijdagen",
+      "cefr": "A1",
+      "ipa": "[ˈvʁɛidɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaab9af6-4370-43d7-adf5-5f3ec86a927f",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "dutch": "zaterdag",
+      "gender": "common",
+      "plural": "zaterdagen",
+      "cefr": "A1",
+      "ipa": "[ˈzaːtəɻdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "214c4a3d-5071-4e38-91ff-431d4c5ae9f5",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "dutch": "zondag",
+      "gender": "common",
+      "plural": "zondagen",
+      "cefr": "A1",
+      "ipa": "[ˈzɔndɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87b4d681-9c7b-4e2f-89dd-d0a7f6a0ad54",
+      "part-of-speech": "noun",
+      "english": "January",
+      "dutch": "januari",
+      "cefr": "A1",
+      "ipa": "[jɑnyˈaːʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d855b99-7b0d-467b-82e6-1a5c2b18c8b4",
+      "part-of-speech": "noun",
+      "english": "February",
+      "dutch": "februari",
+      "cefr": "A1",
+      "ipa": "[feɪbʁyˈaːʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6269837d-a9ac-4104-b589-9c15d75cfe2a",
+      "part-of-speech": "noun",
+      "english": "March",
+      "dutch": "maart",
+      "cefr": "A1",
+      "ipa": "[maːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cbac1c9-55b5-4adc-84f7-7f3fabc0ea65",
+      "part-of-speech": "noun",
+      "english": "April",
+      "dutch": "april",
+      "cefr": "A1",
+      "ipa": "[aːˈpʁɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72aa829f-ee23-42ed-b921-a334f8ca8be0",
+      "part-of-speech": "noun",
+      "english": "May",
+      "dutch": "mei",
+      "cefr": "A1",
+      "ipa": "[mɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "950c9503-71ed-413e-bf32-b8cd2e14b456",
+      "part-of-speech": "noun",
+      "english": "June",
+      "dutch": "juni",
+      "cefr": "A1",
+      "ipa": "[ˈjyni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37b05703-aa9e-4347-92ee-afd80287c069",
+      "part-of-speech": "noun",
+      "english": "July",
+      "dutch": "juli",
+      "cefr": "A1",
+      "ipa": "[ˈjyli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "879543ee-56e2-4be5-8d90-c534aec797ef",
+      "part-of-speech": "noun",
+      "english": "August",
+      "dutch": "augustus",
+      "cefr": "A1",
+      "ipa": "[ʌuˈɣʏstʏs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db4d093b-af76-4b93-921c-3f7297ab67c6",
+      "part-of-speech": "noun",
+      "english": "September",
+      "dutch": "september",
+      "cefr": "A1",
+      "ipa": "[sɛpˈtɛmbəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0f4c00f-6350-45b0-959b-6017d14f9ff7",
+      "part-of-speech": "noun",
+      "english": "October",
+      "dutch": "oktober",
+      "cefr": "A1",
+      "ipa": "[ɔkˈtoʊbəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1e4fc46-a95b-43a6-a5e0-aed11a3b4c1b",
+      "part-of-speech": "noun",
+      "english": "November",
+      "dutch": "november",
+      "cefr": "A1",
+      "ipa": "[noʊˈvɛmbəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "178c10b7-87b5-49e4-a93e-68965d9a725e",
+      "part-of-speech": "noun",
+      "english": "December",
+      "dutch": "december",
+      "cefr": "A1",
+      "ipa": "[deɪˈsɛmbəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "638b101c-f5d9-46cb-b183-0961191251fa",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "dutch": "lente",
+      "gender": "common",
+      "plural": "lentes",
+      "cefr": "A2",
+      "ipa": "[ˈlɛntə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0858f74a-7eb4-4fd5-af19-5b823747ec55",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "dutch": "zomer",
+      "gender": "common",
+      "plural": "zomers",
+      "cefr": "A2",
+      "ipa": "[ˈzoʊməɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c6926ee-2785-4b54-b45e-4b60a980d1a9",
+      "part-of-speech": "noun",
+      "english": "autumn, fall",
+      "dutch": "herfst",
+      "gender": "common",
+      "plural": "herfsten",
+      "cefr": "A2",
+      "ipa": "[ɦɛɻfst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58ee8b2e-4bde-4071-b2d2-354b825df0e4",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "dutch": "winter",
+      "gender": "common",
+      "plural": "winters",
+      "cefr": "A2",
+      "ipa": "[ˈʋɪntəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c13bf60c-9829-4fb6-b5a5-9025e51320cb",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "dutch": "verjaardag",
+      "gender": "common",
+      "plural": "verjaardagen",
+      "cefr": "A1",
+      "ipa": "[vəɻˈjaːɻdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f38b4ece-fc75-4f22-99a6-154a5dcb82b7",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "dutch": "vakantie",
+      "gender": "common",
+      "plural": "vakanties",
+      "cefr": "A1",
+      "ipa": "[vaːˈkɑnsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab0fa896-21a9-4c6e-a222-cbb33e29a80e",
+      "part-of-speech": "noun",
+      "english": "party, celebration",
+      "dutch": "feest",
+      "gender": "neuter",
+      "plural": "feesten",
+      "cefr": "A2",
+      "ipa": "[feɪst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66523e91-41bc-416d-bdc6-7dcf1ebc269e",
+      "part-of-speech": "noun",
+      "english": "appointment; arrangement",
+      "dutch": "afspraak",
+      "gender": "common",
+      "plural": "afspraken",
+      "cefr": "A2",
+      "ipa": "[ˈɑfspʁaːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a6e4cbf-9d8b-4308-8e2f-2275d106d447",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "dutch": "huis",
+      "gender": "neuter",
+      "plural": "huizen",
+      "cefr": "A1",
+      "ipa": "[ɦœys]",
+      "context": "thuis: at home; naar huis: (to) home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6e77cc7-fde6-4dd5-b6fa-e7311f13d906",
+      "part-of-speech": "noun",
+      "english": "flat, apartment building",
+      "dutch": "flat",
+      "gender": "common",
+      "plural": "flats",
+      "cefr": "A2",
+      "ipa": "[flɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acc8075c-9a73-4574-8a92-916b2d9be6eb",
+      "part-of-speech": "noun",
+      "english": "apartment",
+      "dutch": "appartement",
+      "gender": "neuter",
+      "plural": "appartementen",
+      "cefr": "A2",
+      "ipa": "[ɑpɑɻtəˈmɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a99c008-1b84-4315-a5d1-6fbf9d6537e6",
+      "part-of-speech": "noun",
+      "english": "room",
+      "dutch": "kamer",
+      "gender": "common",
+      "plural": "kamers",
+      "cefr": "A1",
+      "ipa": "[ˈkaːməɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b84ec278-e500-4085-98a5-b8ece0589419",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "dutch": "keuken",
+      "gender": "common",
+      "plural": "keukens",
+      "cefr": "A1",
+      "ipa": "[ˈkøʏkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1141002-4abb-403b-920b-b2b33fb7c212",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "dutch": "badkamer",
+      "gender": "common",
+      "plural": "badkamers",
+      "cefr": "A1",
+      "ipa": "[ˈbɑtkaːməɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b098d5c2-b7df-4f62-b5a2-ed79b39d1eba",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "dutch": "slaapkamer",
+      "gender": "common",
+      "plural": "slaapkamers",
+      "cefr": "A1",
+      "ipa": "[ˈslaːpkaːməɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "164aa7f9-0d6d-4b70-9050-0cb6a26b015f",
+      "part-of-speech": "noun",
+      "english": "living room",
+      "dutch": "woonkamer",
+      "gender": "common",
+      "plural": "woonkamers",
+      "cefr": "A2",
+      "ipa": "[ˈʋoʊŋkaːməɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "124c94d5-47cd-40e1-b20c-92848adf26c5",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "dutch": "wc",
+      "gender": "common",
+      "plural": "wc's",
+      "cefr": "A1",
+      "ipa": "[ʋeɪˈseɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcb51a83-8093-45e2-81d6-6e5778f26cbb",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "dutch": "tuin",
+      "gender": "common",
+      "plural": "tuinen",
+      "cefr": "A1",
+      "ipa": "[tœyn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bac3dee-3224-4d34-b15a-de2e2ad27fad",
+      "part-of-speech": "noun",
+      "english": "door",
+      "dutch": "deur",
+      "gender": "common",
+      "plural": "deuren",
+      "cefr": "A1",
+      "ipa": "[dʏːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d98581d-934b-47f6-8537-c50cb0a7f77d",
+      "part-of-speech": "noun",
+      "english": "window",
+      "dutch": "raam",
+      "gender": "neuter",
+      "plural": "ramen",
+      "cefr": "A1",
+      "ipa": "[ʁaːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc039274-a455-474e-b5bb-c293dc3b8eb5",
+      "part-of-speech": "noun",
+      "english": "table",
+      "dutch": "tafel",
+      "gender": "common",
+      "plural": "tafels",
+      "cefr": "A1",
+      "ipa": "[ˈtaːfəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b55ada0c-1d3a-4559-80d0-715a4a96df35",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "dutch": "stoel",
+      "gender": "common",
+      "plural": "stoelen",
+      "cefr": "A1",
+      "ipa": "[stul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9f75fb0-840e-4d27-a2b0-100f770dd01f",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "dutch": "bed",
+      "gender": "neuter",
+      "plural": "bedden",
+      "cefr": "A1",
+      "ipa": "[bɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c508bd0-847e-4a4b-b386-c6be7cfabf25",
+      "part-of-speech": "noun",
+      "english": "sofa; bank",
+      "dutch": "bank",
+      "gender": "common",
+      "plural": "banken",
+      "cefr": "A1",
+      "ipa": "[bɑŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b51b9cda-b5e1-4f42-b899-b04140ab34ab",
+      "part-of-speech": "noun",
+      "english": "lamp",
+      "dutch": "lamp",
+      "gender": "common",
+      "plural": "lampen",
+      "cefr": "A2",
+      "ipa": "[lɑmp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c424b422-a52e-4d7e-bb2a-2541355d746d",
+      "part-of-speech": "noun",
+      "english": "cupboard, wardrobe",
+      "dutch": "kast",
+      "gender": "common",
+      "plural": "kasten",
+      "cefr": "A2",
+      "ipa": "[kɑst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f884949-e07a-442c-93ba-7edee101576b",
+      "part-of-speech": "noun",
+      "english": "key",
+      "dutch": "sleutel",
+      "gender": "common",
+      "plural": "sleutels",
+      "cefr": "A1",
+      "ipa": "[ˈsløʏtəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8338c36-0dea-47ad-bbe2-7ecbe77e4cfa",
+      "part-of-speech": "noun",
+      "english": "stairs, staircase",
+      "dutch": "trap",
+      "gender": "common",
+      "plural": "trappen",
+      "cefr": "A2",
+      "ipa": "[tʁɑp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9965985d-13f6-4bc0-a408-4c11c3677817",
+      "part-of-speech": "noun",
+      "english": "television",
+      "dutch": "televisie",
+      "gender": "common",
+      "plural": "televisies",
+      "cefr": "A1",
+      "ipa": "[teɪləˈvizi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a57a203e-a22d-4a7e-847f-bb3ff3372bbe",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "dutch": "telefoon",
+      "gender": "common",
+      "plural": "telefoons",
+      "cefr": "A1",
+      "ipa": "[teɪləˈfoʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f19b6b8-7c63-4f5a-a079-4499fda10c39",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "dutch": "computer",
+      "gender": "common",
+      "plural": "computers",
+      "cefr": "A1",
+      "ipa": "[kɔmˈpjutəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eae819ef-267d-408d-a8d3-4fbcb6b968e1",
+      "part-of-speech": "noun",
+      "english": "internet",
+      "dutch": "internet",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈɪntəɻnɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40214795-3760-4805-a67b-3c6c5c2d69d6",
+      "part-of-speech": "noun",
+      "english": "email",
+      "dutch": "e-mail",
+      "gender": "common",
+      "plural": "e-mails",
+      "cefr": "A1",
+      "ipa": "[ˈiːmeɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33ec29e1-47c5-4482-b2f2-4f49b1a6df52",
+      "part-of-speech": "noun",
+      "english": "food",
+      "dutch": "eten",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈeɪtə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ca61796-90ca-4ff6-a1e5-1c7f80ba7efe",
+      "part-of-speech": "noun",
+      "english": "water",
+      "dutch": "water",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈʋaːtəɻ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb371651-00f7-4edd-827e-3069a44ef205",
+      "part-of-speech": "noun",
+      "english": "bread; loaf",
+      "dutch": "brood",
+      "gender": "neuter",
+      "plural": "broden",
+      "cefr": "A1",
+      "ipa": "[bʁoʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eccb230c-1544-4035-82eb-b68ac46b71a0",
+      "part-of-speech": "noun",
+      "english": "slice of bread, sandwich",
+      "dutch": "boterham",
+      "gender": "common",
+      "plural": "boterhammen",
+      "cefr": "A1",
+      "ipa": "[ˈboʊtəɻɦɑm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2ed856d-f871-49a2-8a26-1e6b8d39f04d",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "dutch": "koffie",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈkɔfi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7d3bc96-89af-48f5-a665-eb140ee3ae1b",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "dutch": "thee",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[teɪ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2b958ab-4bb4-4e61-8cc2-de1980dca7b0",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "dutch": "melk",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[mɛlk]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54f79d5d-e3d6-4f57-9572-84a7d73c8652",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "dutch": "sap",
+      "gender": "neuter",
+      "plural": "sappen",
+      "cefr": "A1",
+      "ipa": "[sɑp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bd2d212-6cb8-408e-8157-ac3bcc1b2416",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "dutch": "bier",
+      "gender": "neuter",
+      "plural": "bieren",
+      "cefr": "A1",
+      "ipa": "[biːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69ce111e-b928-4047-8639-4097170f6473",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "dutch": "wijn",
+      "gender": "common",
+      "plural": "wijnen",
+      "cefr": "A1",
+      "ipa": "[ʋɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "277b6f04-a713-414e-84c0-8d5b70ca2dc4",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "dutch": "vlees",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[vleɪs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6969af43-0919-4543-b120-dc82f6c7497f",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "dutch": "kip",
+      "gender": "common",
+      "plural": "kippen",
+      "cefr": "A1",
+      "ipa": "[kɪp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b9215a1-627d-4165-a21e-9bfb0147489a",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "dutch": "vis",
+      "gender": "common",
+      "plural": "vissen",
+      "cefr": "A1",
+      "ipa": "[vɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2ec2b04-542e-4140-9152-46b1c81c57d9",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "dutch": "kaas",
+      "gender": "common",
+      "plural": "kazen",
+      "cefr": "A1",
+      "ipa": "[kaːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "855984da-2421-46a1-b9e5-cedf39f2294b",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "dutch": "ei",
+      "gender": "neuter",
+      "plural": "eieren",
+      "cefr": "A1",
+      "ipa": "[ɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2830f415-b44b-4014-a62b-113a7440ecd0",
+      "part-of-speech": "noun",
+      "english": "vegetable(s)",
+      "dutch": "groente",
+      "gender": "common",
+      "plural": "groenten",
+      "cefr": "A1",
+      "ipa": "[ˈɣʁuntə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a9223b7-0bd5-4669-a0ba-34b7496a3538",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "dutch": "fruit",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[fʁœyt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3c7b96d-acf3-4aa1-8ef0-b12acad5a68b",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "dutch": "appel",
+      "gender": "common",
+      "plural": "appels",
+      "cefr": "A1",
+      "ipa": "[ˈɑpəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "246b51fe-199d-4be1-873a-85f7a25dfc16",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "dutch": "banaan",
+      "gender": "common",
+      "plural": "bananen",
+      "cefr": "A1",
+      "ipa": "[baːˈnaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6d92c0e-d062-47df-8ca3-255f68fa2b2d",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "dutch": "sinaasappel",
+      "gender": "common",
+      "plural": "sinaasappels",
+      "cefr": "A1",
+      "ipa": "[ˈsinaːsɑpəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "044b869d-a6ca-4607-867e-c83feee2df97",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "dutch": "tomaat",
+      "gender": "common",
+      "plural": "tomaten",
+      "cefr": "A1",
+      "ipa": "[toʊˈmaːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50acdcab-ea12-4963-85a6-adae0f1d1002",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "dutch": "aardappel",
+      "gender": "common",
+      "plural": "aardappels",
+      "cefr": "A1",
+      "ipa": "[ˈaːɻdɑpəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae3c0892-99c1-426f-af07-c0f0c7584b82",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "dutch": "rijst",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ʁɛist]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "daf3cc42-9a68-4d8a-b783-ecf570b8374c",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "dutch": "soep",
+      "gender": "common",
+      "plural": "soepen",
+      "cefr": "A1",
+      "ipa": "[sup]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4312c514-133a-4085-863c-d3f508dac9b0",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "dutch": "suiker",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈsœykəɻ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb9fc439-e211-4a3a-9d28-7ebf7c0a414a",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "dutch": "zout",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[zʌut]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d797681-6e83-4e48-9a35-5306fbf51ffd",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "dutch": "boter",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈboʊtəɻ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13e93d16-bdb0-4366-a89d-2ef65e9ea690",
+      "part-of-speech": "noun",
+      "english": "cake, tart",
+      "dutch": "taart",
+      "gender": "common",
+      "plural": "taarten",
+      "cefr": "A2",
+      "ipa": "[taːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52337d8d-5524-49e2-a6af-dae84c09d10c",
+      "part-of-speech": "noun",
+      "english": "chocolate",
+      "dutch": "chocolade",
+      "gender": "common",
+      "cefr": "A2",
+      "ipa": "[ʃoʊkoʊˈlaːdə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b84c69d-9360-41d8-af06-d36eae94616b",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "dutch": "ontbijt",
+      "gender": "neuter",
+      "plural": "ontbijten",
+      "cefr": "A1",
+      "ipa": "[ɔndˈbɛit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "793a2add-b70a-410e-9121-175817820ef7",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "dutch": "lunch",
+      "gender": "common",
+      "plural": "lunches",
+      "cefr": "A1",
+      "ipa": "[lʏnʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a00917bb-9c5e-4971-aaf8-55f0964a25b1",
+      "part-of-speech": "noun",
+      "english": "dinner, evening meal",
+      "dutch": "avondeten",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈaːvɔnteɪtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad6ef032-5cbe-447d-a28d-2cda2fa2348c",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "dutch": "restaurant",
+      "gender": "neuter",
+      "plural": "restaurants",
+      "cefr": "A1",
+      "ipa": "[ʁɛstoʊˈʁɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e52fbdb-06cc-4be3-8a1b-22b00653c7c0",
+      "part-of-speech": "noun",
+      "english": "café, pub",
+      "dutch": "café",
+      "gender": "neuter",
+      "plural": "cafés",
+      "cefr": "A1",
+      "ipa": "[kaːˈfeɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1a82a4c-8699-4026-945e-45ceff651a30",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "dutch": "kopje",
+      "gender": "neuter",
+      "plural": "kopjes",
+      "cefr": "A1",
+      "ipa": "[ˈkɔpjə]",
+      "context": "een kopje koffie: a cup of coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9263223f-3e15-48e8-b7bc-58dfad3053be",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "dutch": "glas",
+      "gender": "neuter",
+      "plural": "glazen",
+      "cefr": "A1",
+      "ipa": "[ɣlɑs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3155c36-91fc-46b9-8421-a578522eda37",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "dutch": "fles",
+      "gender": "common",
+      "plural": "flessen",
+      "cefr": "A1",
+      "ipa": "[flɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ca09796-b759-47bf-864a-8ffefe349c62",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "dutch": "bord",
+      "gender": "neuter",
+      "plural": "borden",
+      "cefr": "A2",
+      "ipa": "[bɔɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c5c28bc-3d7e-4a8c-b242-9dc51215f5d8",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "dutch": "mes",
+      "gender": "neuter",
+      "plural": "messen",
+      "cefr": "A2",
+      "ipa": "[mɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cabfb76b-e0da-4c1a-8863-7b90cad11a3d",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "dutch": "vork",
+      "gender": "common",
+      "plural": "vorken",
+      "cefr": "A2",
+      "ipa": "[vɔɻk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b55bed1-cad9-4692-b111-d7faa7dc054e",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "dutch": "lepel",
+      "gender": "common",
+      "plural": "lepels",
+      "cefr": "A2",
+      "ipa": "[ˈleɪpəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c71e197f-5da8-4d62-b9fa-edb3973f2ee5",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "dutch": "stad",
+      "gender": "common",
+      "plural": "steden",
+      "cefr": "A1",
+      "ipa": "[stɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc594f67-b05d-40e3-9cf8-95e050899564",
+      "part-of-speech": "noun",
+      "english": "village",
+      "dutch": "dorp",
+      "gender": "neuter",
+      "plural": "dorpen",
+      "cefr": "A2",
+      "ipa": "[dɔɻp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cce42c7-b1e5-43f4-a4c8-a8577bf826bf",
+      "part-of-speech": "noun",
+      "english": "country; land",
+      "dutch": "land",
+      "gender": "neuter",
+      "plural": "landen",
+      "cefr": "A1",
+      "ipa": "[lɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0017294b-ab86-40de-bbcb-3b0d4e08528a",
+      "part-of-speech": "noun",
+      "english": "street",
+      "dutch": "straat",
+      "gender": "common",
+      "plural": "straten",
+      "cefr": "A1",
+      "ipa": "[stʁaːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e06e65a-c87f-4c45-acaa-829b2127883b",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "dutch": "weg",
+      "gender": "common",
+      "plural": "wegen",
+      "cefr": "A1",
+      "ipa": "[ʋɛx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aa27fa6-0375-496d-bbde-01717297e89c",
+      "part-of-speech": "noun",
+      "english": "square (in a town)",
+      "dutch": "plein",
+      "gender": "neuter",
+      "plural": "pleinen",
+      "cefr": "A2",
+      "ipa": "[plɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54eb2459-25d9-4cc5-9d9f-eedb7c1a505a",
+      "part-of-speech": "noun",
+      "english": "bridge",
+      "dutch": "brug",
+      "gender": "common",
+      "plural": "bruggen",
+      "cefr": "A2",
+      "ipa": "[bʁʏx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b446c6f1-4e69-487c-9097-2ae18fdbf1fb",
+      "part-of-speech": "noun",
+      "english": "canal (in a city)",
+      "dutch": "gracht",
+      "gender": "common",
+      "plural": "grachten",
+      "cefr": "A2",
+      "ipa": "[ɣʁɑxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b29125c9-55da-42b4-aa2e-1f0d70509dd1",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "dutch": "winkel",
+      "gender": "common",
+      "plural": "winkels",
+      "cefr": "A1",
+      "ipa": "[ˈʋɪŋkəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c8ba004-89ec-41d1-981c-aefd227e0354",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "dutch": "supermarkt",
+      "gender": "common",
+      "plural": "supermarkten",
+      "cefr": "A1",
+      "ipa": "[ˈsypəɻmɑɻkt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c124e994-6d83-4e30-9a85-3b09a85bad4f",
+      "part-of-speech": "noun",
+      "english": "market",
+      "dutch": "markt",
+      "gender": "common",
+      "plural": "markten",
+      "cefr": "A1",
+      "ipa": "[mɑɻkt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "873742ee-46e8-47a1-be16-91b4171909d4",
+      "part-of-speech": "noun",
+      "english": "school",
+      "dutch": "school",
+      "gender": "common",
+      "plural": "scholen",
+      "cefr": "A1",
+      "ipa": "[sxoʊl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cdf431a-a0a8-40d2-ad8d-3a1309ab1bfa",
+      "part-of-speech": "noun",
+      "english": "office",
+      "dutch": "kantoor",
+      "gender": "neuter",
+      "plural": "kantoren",
+      "cefr": "A2",
+      "ipa": "[kɑnˈtʊːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3118e297-60c0-4495-8b6b-1c4d8a6fc2b1",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "dutch": "ziekenhuis",
+      "gender": "neuter",
+      "plural": "ziekenhuizen",
+      "cefr": "A1",
+      "ipa": "[ˈzikəɦœys]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4471c31-6000-432a-abc0-5951d6967eb3",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "dutch": "apotheek",
+      "gender": "common",
+      "plural": "apotheken",
+      "cefr": "A2",
+      "ipa": "[aːpoʊˈteɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f20a501-0b96-4106-98bc-6250c4319a52",
+      "part-of-speech": "noun",
+      "english": "church",
+      "dutch": "kerk",
+      "gender": "common",
+      "plural": "kerken",
+      "cefr": "A2",
+      "ipa": "[kɛɻk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df787126-0bdd-486d-8ca5-bb47263a50e2",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "dutch": "museum",
+      "gender": "neuter",
+      "plural": "musea",
+      "cefr": "A2",
+      "ipa": "[myˈzeɪjʏm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc8025fc-911c-4a21-9fc7-acd73fdbaa7c",
+      "part-of-speech": "noun",
+      "english": "park",
+      "dutch": "park",
+      "gender": "neuter",
+      "plural": "parken",
+      "cefr": "A1",
+      "ipa": "[pɑɻk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7f963a3-2ae5-4aed-9706-6b91f7afb99a",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "dutch": "bioscoop",
+      "gender": "common",
+      "plural": "bioscopen",
+      "cefr": "A2",
+      "ipa": "[bijɔˈskoʊp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58bca307-4edd-491f-b500-33c47e81aef6",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "dutch": "hotel",
+      "gender": "neuter",
+      "plural": "hotels",
+      "cefr": "A1",
+      "ipa": "[ɦoʊˈtɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44eaaaba-687f-4936-aeed-36ff9499f4d2",
+      "part-of-speech": "noun",
+      "english": "library",
+      "dutch": "bibliotheek",
+      "gender": "common",
+      "plural": "bibliotheken",
+      "cefr": "A2",
+      "ipa": "[bibliˈjoʊteɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f152867f-6120-4516-8e90-15f878323d71",
+      "part-of-speech": "noun",
+      "english": "station",
+      "dutch": "station",
+      "gender": "neuter",
+      "plural": "stations",
+      "cefr": "A1",
+      "ipa": "[staːˈʃɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ecfd76e-f0cc-4ff3-ad19-834d575195ff",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "dutch": "bus",
+      "gender": "common",
+      "plural": "bussen",
+      "cefr": "A1",
+      "ipa": "[bʏs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd650fcf-c05d-43ad-b80b-91c74f408331",
+      "part-of-speech": "noun",
+      "english": "train",
+      "dutch": "trein",
+      "gender": "common",
+      "plural": "treinen",
+      "cefr": "A1",
+      "ipa": "[tʁɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d30eb657-42d1-41b0-9f4b-ca57a8e422d3",
+      "part-of-speech": "noun",
+      "english": "tram",
+      "dutch": "tram",
+      "gender": "common",
+      "plural": "trams",
+      "cefr": "A2",
+      "ipa": "[tʁɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08924ba3-e05f-4223-8a30-c5fadb5e7e34",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "dutch": "fiets",
+      "gender": "common",
+      "plural": "fietsen",
+      "cefr": "A1",
+      "ipa": "[fits]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "616d74b7-6b25-4afc-b092-7b23688b7aa5",
+      "part-of-speech": "noun",
+      "english": "car",
+      "dutch": "auto",
+      "gender": "common",
+      "plural": "auto's",
+      "cefr": "A1",
+      "ipa": "[ˈʌutoʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9014c194-a7b5-426c-bb69-1562359ea382",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "dutch": "vliegtuig",
+      "gender": "neuter",
+      "plural": "vliegtuigen",
+      "cefr": "A1",
+      "ipa": "[ˈvlixtœyx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "450793a0-33e9-4394-9050-07d267d0b4b2",
+      "part-of-speech": "noun",
+      "english": "boat",
+      "dutch": "boot",
+      "gender": "common",
+      "plural": "boten",
+      "cefr": "A2",
+      "ipa": "[boʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3de81be9-06ed-4496-9c0d-20daf210244a",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "dutch": "kaartje",
+      "gender": "neuter",
+      "plural": "kaartjes",
+      "cefr": "A1",
+      "ipa": "[ˈkaːɻcə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f549536-ada9-4445-8e1e-69d51037eff6",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "dutch": "reis",
+      "gender": "common",
+      "plural": "reizen",
+      "cefr": "A2",
+      "ipa": "[ʁɛis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38720c77-bc19-461f-a705-8b44e4647596",
+      "part-of-speech": "noun",
+      "english": "map; card",
+      "dutch": "kaart",
+      "gender": "common",
+      "plural": "kaarten",
+      "cefr": "A2",
+      "ipa": "[kaːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37954967-e558-4a55-b466-5301904d1113",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "dutch": "zee",
+      "gender": "common",
+      "plural": "zeeën",
+      "cefr": "A1",
+      "ipa": "[zeɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fd6d465-f151-4652-9e93-627c4d316853",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "dutch": "strand",
+      "gender": "neuter",
+      "plural": "stranden",
+      "cefr": "A1",
+      "ipa": "[stʁɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10ae3de6-5f66-4169-8641-160b4e1d5f33",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "dutch": "berg",
+      "gender": "common",
+      "plural": "bergen",
+      "cefr": "A2",
+      "ipa": "[bɛɻx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a47b9138-a894-4eda-8ae0-d9e59a5d84f7",
+      "part-of-speech": "noun",
+      "english": "river",
+      "dutch": "rivier",
+      "gender": "common",
+      "plural": "rivieren",
+      "cefr": "A2",
+      "ipa": "[ʁiˈviːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e7af24a-7b18-4ba9-9027-26c334bfbd16",
+      "part-of-speech": "noun",
+      "english": "forest, woods",
+      "dutch": "bos",
+      "gender": "neuter",
+      "plural": "bossen",
+      "cefr": "A2",
+      "ipa": "[bɔs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c24f932-a20a-4ae1-a9cc-6831ceaab5fb",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "dutch": "boom",
+      "gender": "common",
+      "plural": "bomen",
+      "cefr": "A1",
+      "ipa": "[boʊm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "924e01b9-430b-49f2-b3b0-e8cea5ea3193",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "dutch": "bloem",
+      "gender": "common",
+      "plural": "bloemen",
+      "cefr": "A1",
+      "ipa": "[blum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4b5c7da-fcc5-425d-8ce4-d1520369206c",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "dutch": "hond",
+      "gender": "common",
+      "plural": "honden",
+      "cefr": "A1",
+      "ipa": "[ɦɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aabec32f-6991-4a4b-a24f-a6bb2635006d",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "dutch": "kat",
+      "gender": "common",
+      "plural": "katten",
+      "cefr": "A1",
+      "ipa": "[kɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79c04e8b-d0bf-44e2-b746-394cd25973f0",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "dutch": "vogel",
+      "gender": "common",
+      "plural": "vogels",
+      "cefr": "A1",
+      "ipa": "[ˈvoʊɣəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22e1f717-8815-4e24-aec5-92ececde2a9a",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "dutch": "paard",
+      "gender": "neuter",
+      "plural": "paarden",
+      "cefr": "A2",
+      "ipa": "[paːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "964a5a80-9468-4621-a62e-4c311a3b6a0d",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "dutch": "koe",
+      "gender": "common",
+      "plural": "koeien",
+      "cefr": "A2",
+      "ipa": "[ku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcf550b5-b752-47b4-8d98-27503849d464",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "dutch": "dier",
+      "gender": "neuter",
+      "plural": "dieren",
+      "cefr": "A1",
+      "ipa": "[diːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c7bf1bd-8d83-476a-a2be-3fb066e43d5b",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "dutch": "weer",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ʋɪːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73a9627d-743c-4111-8cfb-e39a2f2b6421",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "dutch": "zon",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[zɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b38d4f1f-d7ff-49f7-afdf-33742b0dd6f6",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "dutch": "regen",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈʁeɪɣə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23816c52-0bf6-45c7-84a9-2b6a2264a776",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "dutch": "sneeuw",
+      "gender": "common",
+      "cefr": "A2",
+      "ipa": "[sneɪʋ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66f18e19-74a8-44f6-a0a5-54752934eba8",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "dutch": "wind",
+      "gender": "common",
+      "plural": "winden",
+      "cefr": "A2",
+      "ipa": "[ʋɪnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78134254-37bd-4f3c-999a-7df147f5b6f5",
+      "part-of-speech": "noun",
+      "english": "air; sky",
+      "dutch": "lucht",
+      "gender": "common",
+      "cefr": "A2",
+      "ipa": "[lʏxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33f461ec-d25d-4c48-989c-5b4acced191b",
+      "part-of-speech": "noun",
+      "english": "temperature",
+      "dutch": "temperatuur",
+      "gender": "common",
+      "plural": "temperaturen",
+      "cefr": "A2",
+      "ipa": "[tɛmpəʁaːˈtyːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90996343-d018-4802-82ca-b9f98edbcf67",
+      "part-of-speech": "noun",
+      "english": "world",
+      "dutch": "wereld",
+      "gender": "common",
+      "plural": "werelden",
+      "cefr": "A2",
+      "ipa": "[ˈʋeɪʁəlt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c45983d-88e8-4b7c-9731-41322e2558a6",
+      "part-of-speech": "noun",
+      "english": "body",
+      "dutch": "lichaam",
+      "gender": "neuter",
+      "plural": "lichamen",
+      "cefr": "A2",
+      "ipa": "[ˈlɪxaːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bc98e45-3ea5-4b3e-9fff-1dde12bcd691",
+      "part-of-speech": "noun",
+      "english": "head",
+      "dutch": "hoofd",
+      "gender": "neuter",
+      "plural": "hoofden",
+      "cefr": "A1",
+      "ipa": "[ɦoʊft]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da974787-bd07-4c79-a515-de6f99914cb3",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "dutch": "haar",
+      "gender": "neuter",
+      "plural": "haren",
+      "cefr": "A1",
+      "ipa": "[ɦaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f87c818-dabe-4d43-b29c-17187346425e",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "dutch": "oog",
+      "gender": "neuter",
+      "plural": "ogen",
+      "cefr": "A1",
+      "ipa": "[oʊx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b31f35e-2c92-4573-ac2f-a241449747ba",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "dutch": "oor",
+      "gender": "neuter",
+      "plural": "oren",
+      "cefr": "A1",
+      "ipa": "[ʊːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "853a9860-7c35-44bc-af20-a9cc5c6e9d78",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "dutch": "neus",
+      "gender": "common",
+      "plural": "neuzen",
+      "cefr": "A1",
+      "ipa": "[nøʏs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05f7ce2a-f434-4924-9c38-287bffa3f49d",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "dutch": "mond",
+      "gender": "common",
+      "plural": "monden",
+      "cefr": "A1",
+      "ipa": "[mɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c97238b2-e981-49d8-a3b4-402f7e514888",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "dutch": "tand",
+      "gender": "common",
+      "plural": "tanden",
+      "cefr": "A2",
+      "ipa": "[tɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b514253-250c-452c-8374-e6297aca776d",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "dutch": "hand",
+      "gender": "common",
+      "plural": "handen",
+      "cefr": "A1",
+      "ipa": "[ɦɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48bd1041-8fd1-453c-89d7-387f84695076",
+      "part-of-speech": "noun",
+      "english": "arm",
+      "dutch": "arm",
+      "gender": "common",
+      "plural": "armen",
+      "cefr": "A1",
+      "ipa": "[ɑɻm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeacd6ae-9911-4c87-a268-f1d89186c714",
+      "part-of-speech": "noun",
+      "english": "leg",
+      "dutch": "been",
+      "gender": "neuter",
+      "plural": "benen",
+      "cefr": "A1",
+      "ipa": "[beɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d882e600-e81e-4502-b59f-006b929fbff2",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "dutch": "voet",
+      "gender": "common",
+      "plural": "voeten",
+      "cefr": "A1",
+      "ipa": "[vut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c6aa201-7ddd-4345-ac09-0aef214ecf68",
+      "part-of-speech": "noun",
+      "english": "belly, stomach",
+      "dutch": "buik",
+      "gender": "common",
+      "plural": "buiken",
+      "cefr": "A2",
+      "ipa": "[bœyk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6097406-ec4d-41ac-a37b-299fd5561ecc",
+      "part-of-speech": "noun",
+      "english": "back",
+      "dutch": "rug",
+      "gender": "common",
+      "plural": "ruggen",
+      "cefr": "A2",
+      "ipa": "[ʁʏx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9a9e7ed-4d26-48e7-8766-7a45537c4c0f",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "dutch": "hart",
+      "gender": "neuter",
+      "plural": "harten",
+      "cefr": "A2",
+      "ipa": "[ɦɑɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdad80be-a36d-4e91-bb49-592b8cbf9c53",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "dutch": "pijn",
+      "gender": "common",
+      "plural": "pijnen",
+      "cefr": "A2",
+      "ipa": "[pɛin]",
+      "context": "pijn hebben: to be in pain",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "657fb273-0f9d-42c6-b470-d23b42048345",
+      "part-of-speech": "noun",
+      "english": "illness, disease",
+      "dutch": "ziekte",
+      "gender": "common",
+      "plural": "ziektes",
+      "cefr": "A2",
+      "ipa": "[ˈziktə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f4964f8-564e-4af1-9a83-9d74792c9b6d",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "dutch": "medicijn",
+      "gender": "neuter",
+      "plural": "medicijnen",
+      "cefr": "A2",
+      "ipa": "[meɪdiˈsɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4d24c09-5063-4555-b2c6-5c8a6c6019f2",
+      "part-of-speech": "noun",
+      "english": "health",
+      "dutch": "gezondheid",
+      "gender": "common",
+      "cefr": "A2",
+      "ipa": "[ɣəˈzɔntɦɛit]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee65c4e7-0b51-4bb5-92c6-60da0db145a3",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "dutch": "kleren",
+      "gender": "common",
+      "plural": "kleren",
+      "cefr": "A1",
+      "ipa": "[ˈkleɪʁə]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9977f507-d56f-4b75-a983-3f8ada97a902",
+      "part-of-speech": "noun",
+      "english": "trousers, pants",
+      "dutch": "broek",
+      "gender": "common",
+      "plural": "broeken",
+      "cefr": "A1",
+      "ipa": "[bʁuk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20b4d0b3-e827-4dc8-b46e-a6d830b81a28",
+      "part-of-speech": "noun",
+      "english": "coat, jacket",
+      "dutch": "jas",
+      "gender": "common",
+      "plural": "jassen",
+      "cefr": "A1",
+      "ipa": "[jɑs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "018fa85e-e7a2-4e6e-8e8f-226a613b3e5f",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "dutch": "jurk",
+      "gender": "common",
+      "plural": "jurken",
+      "cefr": "A1",
+      "ipa": "[jʏɻk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d46a1901-d0bf-445e-98d3-f3946f77fdbf",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "dutch": "rok",
+      "gender": "common",
+      "plural": "rokken",
+      "cefr": "A2",
+      "ipa": "[ʁɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d139f84-2415-4c77-9b03-53217b32bbb0",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "dutch": "overhemd",
+      "gender": "neuter",
+      "plural": "overhemden",
+      "cefr": "A2",
+      "ipa": "[ˈoʊvəɻɦɛmt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34ad53da-c389-4e9b-8bdf-86fcc3dd5192",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "dutch": "trui",
+      "gender": "common",
+      "plural": "truien",
+      "cefr": "A2",
+      "ipa": "[tʁœy]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1245c3e2-35c4-4706-a49e-a736a9faf851",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "dutch": "schoen",
+      "gender": "common",
+      "plural": "schoenen",
+      "cefr": "A1",
+      "ipa": "[sxun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adc60430-ff23-43b9-a2d3-f32290f4e769",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "dutch": "tas",
+      "gender": "common",
+      "plural": "tassen",
+      "cefr": "A1",
+      "ipa": "[tɑs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5b1995c-920a-49c9-95f2-0ab51a81eea2",
+      "part-of-speech": "noun",
+      "english": "work",
+      "dutch": "werk",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ʋɛɻk]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "697989e7-d45a-445c-bcb6-aa102616a8d4",
+      "part-of-speech": "noun",
+      "english": "job",
+      "dutch": "baan",
+      "gender": "common",
+      "plural": "banen",
+      "cefr": "A2",
+      "ipa": "[baːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3455f378-7d6f-43dd-b6f6-791daf50b17a",
+      "part-of-speech": "noun",
+      "english": "profession, occupation",
+      "dutch": "beroep",
+      "gender": "neuter",
+      "plural": "beroepen",
+      "cefr": "A2",
+      "ipa": "[bəˈʁup]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61e5fbc4-ac14-4bc3-a406-5f464ed4e22f",
+      "part-of-speech": "noun",
+      "english": "money",
+      "dutch": "geld",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ɣɛlt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdbf2f21-7302-4c69-9e03-51725c7051c7",
+      "part-of-speech": "noun",
+      "english": "euro",
+      "dutch": "euro",
+      "gender": "common",
+      "plural": "euro's",
+      "cefr": "A1",
+      "ipa": "[ˈøʏʁoʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ae11f62-c95e-4462-9787-009aecedea6a",
+      "part-of-speech": "noun",
+      "english": "price; prize",
+      "dutch": "prijs",
+      "gender": "common",
+      "plural": "prijzen",
+      "cefr": "A1",
+      "ipa": "[pʁɛis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13d67375-add7-42c3-a4c0-2ddc4423dc01",
+      "part-of-speech": "noun",
+      "english": "book",
+      "dutch": "boek",
+      "gender": "neuter",
+      "plural": "boeken",
+      "cefr": "A1",
+      "ipa": "[buk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce57bbf7-c726-4a20-80ae-e99207584c72",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "dutch": "krant",
+      "gender": "common",
+      "plural": "kranten",
+      "cefr": "A1",
+      "ipa": "[kʁɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23e5647e-44bb-417d-a001-59a966b3b7fa",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "dutch": "brief",
+      "gender": "common",
+      "plural": "brieven",
+      "cefr": "A1",
+      "ipa": "[bʁif]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d07385d9-cbc3-43f0-a079-9dd9c886ac30",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "dutch": "pen",
+      "gender": "common",
+      "plural": "pennen",
+      "cefr": "A1",
+      "ipa": "[pɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8933597e-a0bc-4ecd-a0c1-c70eac6fdef9",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "dutch": "papier",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[paːˈpiːɻ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4213b1e0-9fed-489e-a2f8-bca5c3c875fe",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "dutch": "foto",
+      "gender": "common",
+      "plural": "foto's",
+      "cefr": "A1",
+      "ipa": "[ˈfoʊtoʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c206bffa-f394-4e50-ac22-c3ede1203923",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "dutch": "film",
+      "gender": "common",
+      "plural": "films",
+      "cefr": "A1",
+      "ipa": "[fɪlm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60ef5eec-6fe7-4bc9-9c05-628850c92f9b",
+      "part-of-speech": "noun",
+      "english": "music",
+      "dutch": "muziek",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[myˈzik]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3a4b787-0ed2-411e-992b-0dbd70ab966b",
+      "part-of-speech": "noun",
+      "english": "song",
+      "dutch": "lied",
+      "gender": "neuter",
+      "plural": "liederen",
+      "cefr": "A2",
+      "ipa": "[lit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "313aabc7-47c3-4085-9107-6f338c410956",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "dutch": "sport",
+      "gender": "common",
+      "plural": "sporten",
+      "cefr": "A1",
+      "ipa": "[spɔɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e260da5d-ead0-4cae-b59d-bfbe0871fdf8",
+      "part-of-speech": "noun",
+      "english": "game",
+      "dutch": "spel",
+      "gender": "neuter",
+      "plural": "spellen",
+      "cefr": "A2",
+      "ipa": "[spɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "736cced9-0a3c-4fcf-9fa0-a1bb85a4747b",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "dutch": "cadeau",
+      "gender": "neuter",
+      "plural": "cadeaus",
+      "cefr": "A2",
+      "ipa": "[kaːˈdoʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d463b14d-5d6d-40e8-bf90-a4858aed7952",
+      "part-of-speech": "noun",
+      "english": "language",
+      "dutch": "taal",
+      "gender": "common",
+      "plural": "talen",
+      "cefr": "A1",
+      "ipa": "[taːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50dfc42-c077-4cdd-97cd-b8328e47745a",
+      "part-of-speech": "noun",
+      "english": "word",
+      "dutch": "woord",
+      "gender": "neuter",
+      "plural": "woorden",
+      "cefr": "A1",
+      "ipa": "[ʋʊːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "529788ad-96d7-4a4a-babe-de83475ae974",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "dutch": "zin",
+      "gender": "common",
+      "plural": "zinnen",
+      "cefr": "A1",
+      "ipa": "[zɪn]",
+      "context": "also: zin hebben in: to feel like (doing)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ebae8de-3506-440d-a3b8-68eba72a115a",
+      "part-of-speech": "noun",
+      "english": "question",
+      "dutch": "vraag",
+      "gender": "common",
+      "plural": "vragen",
+      "cefr": "A1",
+      "ipa": "[vʁaːx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34715980-8172-4225-b33d-799b92f045a6",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "dutch": "antwoord",
+      "gender": "neuter",
+      "plural": "antwoorden",
+      "cefr": "A1",
+      "ipa": "[ˈɑntʋʊːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64b2a2d8-421f-4502-82d9-309a172054be",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "dutch": "les",
+      "gender": "common",
+      "plural": "lessen",
+      "cefr": "A1",
+      "ipa": "[lɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "966b961f-8eae-47fc-bd26-90b061b5a9bd",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "dutch": "kleur",
+      "gender": "common",
+      "plural": "kleuren",
+      "cefr": "A1",
+      "ipa": "[klʏːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ae08c18-13f0-43d7-89d3-60770aea82ea",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "dutch": "probleem",
+      "gender": "neuter",
+      "plural": "problemen",
+      "cefr": "A2",
+      "ipa": "[pʁoʊˈbleɪm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "523a99ea-86c1-4209-bace-5e5f2a19e282",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "dutch": "idee",
+      "gender": "neuter",
+      "plural": "ideeën",
+      "cefr": "A2",
+      "ipa": "[iˈdeɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ff3ed51-00ae-4127-b049-94f6b86cef3a",
+      "part-of-speech": "noun",
+      "english": "life",
+      "dutch": "leven",
+      "gender": "neuter",
+      "plural": "levens",
+      "cefr": "A2",
+      "ipa": "[ˈleɪvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67cdbf05-e242-48c0-94d1-adbdf61cf5e6",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "dutch": "ding",
+      "gender": "neuter",
+      "plural": "dingen",
+      "cefr": "A1",
+      "ipa": "[dɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dc48256-d233-44c5-b7be-27ce12b602f5",
+      "part-of-speech": "noun",
+      "english": "number (phone, house)",
+      "dutch": "nummer",
+      "gender": "neuter",
+      "plural": "nummers",
+      "cefr": "A1",
+      "ipa": "[ˈnʏməɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c9ec67f-0489-41e8-9829-2fdb2b1ce3cb",
+      "part-of-speech": "noun",
+      "english": "address",
+      "dutch": "adres",
+      "gender": "neuter",
+      "plural": "adressen",
+      "cefr": "A1",
+      "ipa": "[aːˈdʁɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "987c0878-3af4-4e3c-a45d-3b90c4d9ed90",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "dutch": "nul",
+      "cefr": "A1",
+      "ipa": "[nʏl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af29c97f-bd4d-4cd3-bfab-041a35c215d6",
+      "part-of-speech": "noun",
+      "english": "one",
+      "dutch": "een",
+      "cefr": "A1",
+      "ipa": "[eɪn]",
+      "context": "written één when stressed, to tell it from the article een (a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca33e37a-ef86-45ba-ac7e-16aed134316a",
+      "part-of-speech": "noun",
+      "english": "two",
+      "dutch": "twee",
+      "cefr": "A1",
+      "ipa": "[tʋeɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01de0cda-b30b-4340-9a53-2e39c68df6fe",
+      "part-of-speech": "noun",
+      "english": "three",
+      "dutch": "drie",
+      "cefr": "A1",
+      "ipa": "[dʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2080adfa-dfd9-48cb-8237-b4898f309eac",
+      "part-of-speech": "noun",
+      "english": "four",
+      "dutch": "vier",
+      "cefr": "A1",
+      "ipa": "[viːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c4cc25f-c569-4f88-9ab6-1b497fe476c3",
+      "part-of-speech": "noun",
+      "english": "five",
+      "dutch": "vijf",
+      "cefr": "A1",
+      "ipa": "[vɛif]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67f745bc-d5a4-4b15-a615-61612709bfa6",
+      "part-of-speech": "noun",
+      "english": "six",
+      "dutch": "zes",
+      "cefr": "A1",
+      "ipa": "[zɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6d48af4-9f33-4f1d-bf46-55bdb1e6abcd",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "dutch": "zeven",
+      "cefr": "A1",
+      "ipa": "[ˈzeɪvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a85391b9-a691-4dd3-9f8f-53960a2f0965",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "dutch": "acht",
+      "cefr": "A1",
+      "ipa": "[ɑxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43057a89-6fbf-4826-a379-b717115b11e9",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "dutch": "negen",
+      "cefr": "A1",
+      "ipa": "[ˈneɪɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e5defe9-d31d-4ab2-a6ca-a20cd08cf3aa",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "dutch": "tien",
+      "cefr": "A1",
+      "ipa": "[tin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4bb9d9a-f209-47a7-92b4-b2c49f807f59",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "dutch": "elf",
+      "cefr": "A1",
+      "ipa": "[ɛlf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d18dfad4-702e-4382-acf7-b5c7f26f93a8",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "dutch": "twaalf",
+      "cefr": "A1",
+      "ipa": "[tʋaːlf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63f6d9c0-b085-418d-a63b-4f0f47673519",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "dutch": "twintig",
+      "cefr": "A1",
+      "ipa": "[ˈtʋɪntəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96776ed6-fa27-45e3-add7-28424d64fed1",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "dutch": "dertig",
+      "cefr": "A1",
+      "ipa": "[ˈdɛɻtəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "306defab-366e-409e-a1fd-926ae9d218fa",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "dutch": "veertig",
+      "cefr": "A1",
+      "ipa": "[ˈfɪːɻtəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e264e09-fb43-42b5-82da-dfe657f272ae",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "dutch": "vijftig",
+      "cefr": "A1",
+      "ipa": "[ˈfɛiftəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0b07df5-198a-4751-9acb-c7fc89312b67",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "dutch": "honderd",
+      "cefr": "A1",
+      "ipa": "[ˈɦɔndəɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "deae1265-9b31-432d-94d6-36d56ad870ce",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "dutch": "duizend",
+      "cefr": "A1",
+      "ipa": "[ˈdœyzənt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8451a21-4e41-4553-b9dd-f2095284bdf9",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "dutch": "zijn",
+      "cefr": "A1",
+      "ipa": "[zɛin]",
+      "context": "ik ben, jij bent, hij is, wij zijn",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2a89062-44a7-4fe0-899c-449768cd8827",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "dutch": "hebben",
+      "cefr": "A1",
+      "ipa": "[ˈɦɛbə]",
+      "context": "ik heb, jij hebt, hij heeft",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff674080-0a2b-4589-9eac-110e494fee01",
+      "part-of-speech": "verb",
+      "english": "to become",
+      "dutch": "worden",
+      "cefr": "A1",
+      "ipa": "[ˈʋɔɻdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1cf5937-5616-4608-9bd5-09abf1a2dbbb",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "dutch": "doen",
+      "cefr": "A1",
+      "ipa": "[dun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1429652a-f324-4535-ab30-4ceb65f04af0",
+      "part-of-speech": "verb",
+      "english": "to make",
+      "dutch": "maken",
+      "cefr": "A1",
+      "ipa": "[ˈmaːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11c334cd-1280-4d98-a316-c7f42fd2d6b0",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "dutch": "gaan",
+      "cefr": "A1",
+      "ipa": "[ɣaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d30a509-140d-4310-9895-fd83bc612c1e",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "dutch": "komen",
+      "cefr": "A1",
+      "ipa": "[ˈkoʊmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0e83635-118b-48f7-86f0-cc8a477b654d",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "dutch": "nemen",
+      "cefr": "A1",
+      "ipa": "[ˈneɪmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0469ee8c-f339-40e4-aaa0-e9f47b8f9263",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "dutch": "geven",
+      "cefr": "A1",
+      "ipa": "[ˈɣeɪvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2d4f0b2-4675-4e7e-b611-71bd2e0218d0",
+      "part-of-speech": "verb",
+      "english": "to get, receive",
+      "dutch": "krijgen",
+      "cefr": "A1",
+      "ipa": "[ˈkʁɛiɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bc9978a-416f-4395-bf6f-a414c219c13a",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "dutch": "zien",
+      "cefr": "A1",
+      "ipa": "[zin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84743a72-8536-4360-ac5b-6f3f0c10410f",
+      "part-of-speech": "verb",
+      "english": "to look, watch",
+      "dutch": "kijken",
+      "cefr": "A1",
+      "ipa": "[ˈkɛikə]",
+      "context": "tv kijken: to watch TV",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42371bb1-a16f-477a-b8d3-bb7cf4c4d864",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "dutch": "horen",
+      "cefr": "A1",
+      "ipa": "[ˈɦoʊʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99ede3be-d505-4e66-8f7b-5c8e5bcdc2c0",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "dutch": "luisteren",
+      "cefr": "A1",
+      "ipa": "[ˈlœystəʁə]",
+      "context": "luisteren naar: to listen to",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bce9b0c-aca3-4d5b-8057-3d19937562a5",
+      "part-of-speech": "verb",
+      "english": "to know (a fact)",
+      "dutch": "weten",
+      "cefr": "A1",
+      "ipa": "[ˈʋeɪtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfe0c80c-95d1-49f2-880a-b302841d42f2",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place)",
+      "dutch": "kennen",
+      "cefr": "A1",
+      "ipa": "[ˈkɛnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9b17e07-2a24-47bd-9ab5-49fdd638955b",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "dutch": "willen",
+      "cefr": "A1",
+      "ipa": "[ˈʋɪlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92355713-843e-46bb-abe6-e7ccbd83afa1",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "dutch": "kunnen",
+      "cefr": "A1",
+      "ipa": "[ˈkʏnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0367f959-4b8e-48ff-a321-2ea4ca92d770",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "dutch": "moeten",
+      "cefr": "A1",
+      "ipa": "[ˈmutə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b7333eb-aa8c-4d46-a34c-6475fd826022",
+      "part-of-speech": "verb",
+      "english": "may, to be allowed to",
+      "dutch": "mogen",
+      "cefr": "A1",
+      "ipa": "[ˈmoʊɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7647b3f-4b19-4ed0-a583-cacd3d7c865e",
+      "part-of-speech": "verb",
+      "english": "shall, will",
+      "dutch": "zullen",
+      "cefr": "A2",
+      "ipa": "[ˈzʏlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "170981f9-0eb2-4b45-986e-22989c324344",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "dutch": "eten",
+      "cefr": "A1",
+      "ipa": "[ˈeɪtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c734715a-c014-484b-99a9-051da348320e",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "dutch": "drinken",
+      "cefr": "A1",
+      "ipa": "[ˈdʁɪŋkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d33094b9-ae52-4ab9-afc2-86e5383c7a3b",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "dutch": "koken",
+      "cefr": "A1",
+      "ipa": "[ˈkoʊkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3667fa84-d1f1-4cd3-bf93-9197eb65725d",
+      "part-of-speech": "verb",
+      "english": "to speak",
+      "dutch": "spreken",
+      "cefr": "A1",
+      "ipa": "[ˈspʁeɪkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8815135f-0388-4ddb-bc4f-a8ce5684397b",
+      "part-of-speech": "verb",
+      "english": "to talk",
+      "dutch": "praten",
+      "cefr": "A1",
+      "ipa": "[ˈpʁaːtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6012044e-e673-4eec-a8b3-bb0e2257656d",
+      "part-of-speech": "verb",
+      "english": "to say",
+      "dutch": "zeggen",
+      "cefr": "A1",
+      "ipa": "[ˈzɛɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cf43ff4-fe8d-4301-a80a-43c157fdee6c",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "dutch": "vragen",
+      "cefr": "A1",
+      "ipa": "[ˈvʁaːɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e195986-eb88-46e7-9671-724a6d692a3c",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "dutch": "antwoorden",
+      "cefr": "A1",
+      "ipa": "[ˈɑntʋʊːɻdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42caa550-bae5-43fb-a4d4-199d5101c35b",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "dutch": "heten",
+      "cefr": "A1",
+      "ipa": "[ˈɦeɪtə]",
+      "context": "ik heet …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68a681f1-5ca8-4654-ae3e-a26b7127a3aa",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "dutch": "lezen",
+      "cefr": "A1",
+      "ipa": "[ˈleɪzə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32937dc7-7ed7-4250-8a55-bef0dc12f6af",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "dutch": "schrijven",
+      "cefr": "A1",
+      "ipa": "[ˈsxʁɛivə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "029dd333-7399-40d4-b46f-1505d7260841",
+      "part-of-speech": "verb",
+      "english": "to learn; to teach",
+      "dutch": "leren",
+      "cefr": "A1",
+      "ipa": "[ˈleɪʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d640865-d7c6-448f-bb16-8bcfdc5571f8",
+      "part-of-speech": "verb",
+      "english": "to study (at university)",
+      "dutch": "studeren",
+      "cefr": "A1",
+      "ipa": "[styˈdeɪʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "348670a1-1083-4490-8ba1-bdf0ae365c02",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "dutch": "begrijpen",
+      "cefr": "A1",
+      "ipa": "[bəˈɣʁɛipə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6cf28e6-3059-4a71-81bd-52bb721df73b",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "dutch": "denken",
+      "cefr": "A1",
+      "ipa": "[ˈdɛŋkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46cc4fa1-6adc-4026-a378-bf3ca619f62a",
+      "part-of-speech": "verb",
+      "english": "to find; to think (opinion)",
+      "dutch": "vinden",
+      "cefr": "A1",
+      "ipa": "[ˈvɪndə]",
+      "context": "ik vind het leuk: I like it",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f441a311-ca10-4846-ab00-96f8811475a8",
+      "part-of-speech": "verb",
+      "english": "to look for, search",
+      "dutch": "zoeken",
+      "cefr": "A1",
+      "ipa": "[ˈzukə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb3fdda6-655b-4eee-9f25-ea34d96f5a7c",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "dutch": "houden van",
+      "cefr": "A1",
+      "ipa": "[ˈɦʌudə vɑn]",
+      "context": "ik hou van muziek: I love music",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f548bb94-56e8-4583-9119-0e101ea10d29",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "dutch": "werken",
+      "cefr": "A1",
+      "ipa": "[ˈʋɛɻkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdbf822f-d08b-4f2a-bb2e-bc918f6ce02f",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "dutch": "wonen",
+      "cefr": "A1",
+      "ipa": "[ˈʋoʊnə]",
+      "context": "ik woon in Utrecht: I live in Utrecht",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd4da5ec-5559-415f-a753-06c5e3044e8a",
+      "part-of-speech": "verb",
+      "english": "to live (be alive)",
+      "dutch": "leven",
+      "cefr": "A2",
+      "ipa": "[ˈleɪvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8edb1b8-dd37-4ea8-a883-f56fb8ee540a",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "dutch": "slapen",
+      "cefr": "A1",
+      "ipa": "[ˈslaːpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d46ea5cb-d030-419b-94c3-6386e7430fcb",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "dutch": "opstaan",
+      "cefr": "A1",
+      "ipa": "[ˈɔpstaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4a105e3-ba40-45fb-a8f2-f80b4c16c6f2",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "dutch": "zitten",
+      "cefr": "A1",
+      "ipa": "[ˈzɪtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73badc8a-afe2-4cf6-a0f6-f4f1d663415d",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "dutch": "staan",
+      "cefr": "A1",
+      "ipa": "[staːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "242fdf2f-daeb-4998-a49d-56b813bbb305",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying)",
+      "dutch": "liggen",
+      "cefr": "A1",
+      "ipa": "[ˈlɪɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a8ef69d-f0de-44e4-9bfa-4da9c50d7fba",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "dutch": "lopen",
+      "cefr": "A1",
+      "ipa": "[ˈloʊpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08b706f0-5b99-414d-b785-1e4478a7cd9c",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "dutch": "rennen",
+      "cefr": "A1",
+      "ipa": "[ˈʁɛnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7103a56c-ddee-4081-82b0-a3e9acceccf7",
+      "part-of-speech": "verb",
+      "english": "to cycle",
+      "dutch": "fietsen",
+      "cefr": "A1",
+      "ipa": "[ˈfitsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81ba8030-4c6a-4925-8448-d5a8a27183ed",
+      "part-of-speech": "verb",
+      "english": "to drive; to ride",
+      "dutch": "rijden",
+      "cefr": "A1",
+      "ipa": "[ˈʁɛidə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "152fcd02-4a86-498f-827a-7e1fa37b76dd",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "dutch": "reizen",
+      "cefr": "A1",
+      "ipa": "[ˈʁɛizə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b0428b0-fc0b-41f1-b057-c963595802bf",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "dutch": "kopen",
+      "cefr": "A1",
+      "ipa": "[ˈkoʊpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8aa8505-6eaf-4a0b-b41b-75fdc3792602",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "dutch": "betalen",
+      "cefr": "A1",
+      "ipa": "[bəˈtaːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f8b392d-cc1c-4c4c-9cc3-0cd131c098e9",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "dutch": "kosten",
+      "cefr": "A1",
+      "ipa": "[ˈkɔstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8c8a8c2-7e84-4df6-bfd3-cc043ccbe3b2",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "dutch": "openen",
+      "cefr": "A1",
+      "ipa": "[ˈoʊpənə]",
+      "context": "everyday: opendoen",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cee3e635-28aa-46fa-ac03-77cdd3993899",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "dutch": "sluiten",
+      "cefr": "A1",
+      "ipa": "[ˈslœytə]",
+      "context": "everyday: dichtdoen",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa1e4033-d8eb-4fce-9983-ee264b71bc5c",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "dutch": "wachten",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑxtə]",
+      "context": "wachten op: to wait for",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08c147b4-f3d9-4967-9ac1-2d82cd7e52c8",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "dutch": "beginnen",
+      "cefr": "A1",
+      "ipa": "[bəˈɣɪnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4754b30-e37a-41c9-b39a-bcb982f543e5",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "dutch": "stoppen",
+      "cefr": "A1",
+      "ipa": "[ˈstɔpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "148dffce-347b-4009-bfee-4e52146b8fd8",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "dutch": "spelen",
+      "cefr": "A1",
+      "ipa": "[ˈspeɪlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc5e84b4-207d-46a6-aab9-e8919c4f72ad",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "dutch": "wassen",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5109f6db-43f3-4df7-a917-bfbc03db1ad6",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "dutch": "helpen",
+      "cefr": "A1",
+      "ipa": "[ˈɦɛlpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60eb0a8e-aa36-481c-abaa-65c717020e71",
+      "part-of-speech": "verb",
+      "english": "to call, phone; to ring",
+      "dutch": "bellen",
+      "cefr": "A1",
+      "ipa": "[ˈbɛlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f45eb8e6-8c6b-4120-97ab-c59fdb7e559e",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "dutch": "zwemmen",
+      "cefr": "A1",
+      "ipa": "[ˈzʋɛmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54d9fe12-0063-4785-b3e5-f1eab2575ad2",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "dutch": "dansen",
+      "cefr": "A1",
+      "ipa": "[ˈdɑnsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e49a4f3-78e7-4396-9def-60f6272cf8bf",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "dutch": "zingen",
+      "cefr": "A1",
+      "ipa": "[ˈzɪŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1bcc991-57dc-40e6-92f7-5567e4c735cc",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "dutch": "gebruiken",
+      "cefr": "A2",
+      "ipa": "[ɣəˈbʁœykə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9e233b7-4775-4c5f-a6a1-b0c4e61951c9",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "dutch": "brengen",
+      "cefr": "A1",
+      "ipa": "[ˈbʁɛŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc33b329-1984-40fd-a1e9-64cae7cfca29",
+      "part-of-speech": "verb",
+      "english": "to fetch, get",
+      "dutch": "halen",
+      "cefr": "A1",
+      "ipa": "[ˈɦaːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4624eca9-c8e6-4455-a50e-ae22de44d54a",
+      "part-of-speech": "verb",
+      "english": "to stay",
+      "dutch": "blijven",
+      "cefr": "A2",
+      "ipa": "[ˈblɛivə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83f01418-adac-46ab-864f-abc31f75e269",
+      "part-of-speech": "verb",
+      "english": "to let; to leave",
+      "dutch": "laten",
+      "cefr": "A2",
+      "ipa": "[ˈlaːtə]",
+      "context": "laten zien: to show",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e737794-9cf5-4a8d-a502-d3afe9c78ea5",
+      "part-of-speech": "verb",
+      "english": "to put, lay (flat)",
+      "dutch": "leggen",
+      "cefr": "A2",
+      "ipa": "[ˈlɛɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ee24a2d-eee7-4351-b617-8d7b3fce691d",
+      "part-of-speech": "verb",
+      "english": "to put, set (upright)",
+      "dutch": "zetten",
+      "cefr": "A2",
+      "ipa": "[ˈzɛtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ed0781e-2ce0-498c-921e-9446bd22e62f",
+      "part-of-speech": "verb",
+      "english": "to walk, go for a walk",
+      "dutch": "wandelen",
+      "cefr": "A2",
+      "ipa": "[ˈʋɑndələ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1141c147-a321-454b-a8e4-6733c1339023",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "dutch": "vergeten",
+      "cefr": "A2",
+      "ipa": "[vəɻˈɣeɪtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a72018e-11f8-4646-af41-9513e178dca9",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "dutch": "onthouden",
+      "cefr": "A2",
+      "ipa": "[ɔntˈɦʌudə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b768e918-78f9-4a5c-bd74-cbf80caff610",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "dutch": "proberen",
+      "cefr": "A2",
+      "ipa": "[pʁoʊˈbeɪʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb07ab49-e1e9-429b-8161-a70cb878a9ea",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "dutch": "veranderen",
+      "cefr": "A2",
+      "ipa": "[vəʁˈɑndəʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3b26733-f1b0-4d32-8add-71f884bb512b",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "dutch": "verkopen",
+      "cefr": "A2",
+      "ipa": "[vəɻˈkoʊpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67d64ad0-3c41-4730-adee-1d545b4736fb",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "dutch": "sturen",
+      "cefr": "A2",
+      "ipa": "[ˈstyːʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8e6b040-2a0c-4167-a116-eff260573003",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "dutch": "verliezen",
+      "cefr": "A2",
+      "ipa": "[vəɻˈlizə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1461b117-8ab0-4263-bbb7-ab4ea50ccbf9",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "dutch": "winnen",
+      "cefr": "A2",
+      "ipa": "[ˈʋɪnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08f1719a-0068-4cd5-9939-de91bb73faaf",
+      "part-of-speech": "verb",
+      "english": "to earn; to deserve",
+      "dutch": "verdienen",
+      "cefr": "A2",
+      "ipa": "[vəɻˈdinə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2f324e4-de4a-4c12-9aae-74f7f1c89e49",
+      "part-of-speech": "verb",
+      "english": "to marry, get married",
+      "dutch": "trouwen",
+      "cefr": "A2",
+      "ipa": "[ˈtʁʌuə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bf15c79-4a24-4ae0-8caf-656b0571c7fb",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "dutch": "verhuizen",
+      "cefr": "A2",
+      "ipa": "[vəɻˈɦœyzə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af85330f-60e1-4967-9791-21e9a70b8996",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "dutch": "bezoeken",
+      "cefr": "A2",
+      "ipa": "[bəˈzukə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4201c474-e5ec-44ff-a25c-693432e283cb",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "dutch": "ontmoeten",
+      "cefr": "A2",
+      "ipa": "[ɔntˈmutə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7fed81b-375e-40e4-ab24-70642f96ee69",
+      "part-of-speech": "verb",
+      "english": "to arrange (to meet)",
+      "dutch": "afspreken",
+      "cefr": "A2",
+      "ipa": "[ˈɑfspʁeɪkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2ee4c2e-cf11-40e5-8f13-67cb7b79994e",
+      "part-of-speech": "verb",
+      "english": "to tell",
+      "dutch": "vertellen",
+      "cefr": "A2",
+      "ipa": "[vəɻˈtɛlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84667e45-1a3f-456a-8fd5-c2aa64fb51bd",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "dutch": "uitleggen",
+      "cefr": "A2",
+      "ipa": "[ˈœytlɛɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "914f68ad-1b33-4247-a69b-91a88bfa8e85",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "dutch": "vertalen",
+      "cefr": "A2",
+      "ipa": "[vəɻˈtaːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe2b41d3-0f47-4572-a9f8-14201c3e234a",
+      "part-of-speech": "verb",
+      "english": "to repeat",
+      "dutch": "herhalen",
+      "cefr": "A2",
+      "ipa": "[ɦɛɻˈɦaːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5159b6ff-cebe-4c2f-8abe-a92fa7aa0088",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "dutch": "kiezen",
+      "cefr": "A2",
+      "ipa": "[ˈkizə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd4e31bd-d23b-4148-9b5c-06e157bcc7e9",
+      "part-of-speech": "verb",
+      "english": "to carry; to wear",
+      "dutch": "dragen",
+      "cefr": "A2",
+      "ipa": "[ˈdʁaːɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab8f0955-a0dc-4a6b-871e-aad325201ee9",
+      "part-of-speech": "verb",
+      "english": "to put on (clothes)",
+      "dutch": "aantrekken",
+      "cefr": "A2",
+      "ipa": "[ˈaːntʁɛkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72b44eef-6412-416c-8943-63f8892bc787",
+      "part-of-speech": "verb",
+      "english": "to take off (clothes)",
+      "dutch": "uittrekken",
+      "cefr": "A2",
+      "ipa": "[ˈœytʁɛkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8be8aaf0-0672-44c9-9127-51665acd8082",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "dutch": "schoonmaken",
+      "cefr": "A2",
+      "ipa": "[ˈsxoʊnmaːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb2116df-4a2f-48fd-892e-b03fadf67f1f",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "dutch": "voelen",
+      "cefr": "A2",
+      "ipa": "[ˈvulə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "170544e8-c277-499b-8252-6b54cfde62d7",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "dutch": "hopen",
+      "cefr": "A2",
+      "ipa": "[ˈɦoʊpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adf43346-2692-414a-9239-edfbde171aa2",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "dutch": "geloven",
+      "cefr": "A2",
+      "ipa": "[ɣəˈloʊvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54560108-8724-48f9-8c27-19ba0525d4c8",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "dutch": "lachen",
+      "cefr": "A2",
+      "ipa": "[ˈlɑxə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1a49816-fb23-4419-b5b6-bde106afff16",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "dutch": "huilen",
+      "cefr": "A2",
+      "ipa": "[ˈɦœylə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1bd4e03-684a-4b68-b621-fdd031f58349",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "dutch": "vallen",
+      "cefr": "A2",
+      "ipa": "[ˈvɑlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f565bef-f09e-4c4b-b401-451111898277",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "dutch": "vliegen",
+      "cefr": "A2",
+      "ipa": "[ˈvliɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99f4310f-cd74-45fb-b599-2f84a0f36467",
+      "part-of-speech": "verb",
+      "english": "to do sport, work out",
+      "dutch": "sporten",
+      "cefr": "A2",
+      "ipa": "[ˈspɔɻtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8483c54-57ea-4438-9fe1-bd105015b0be",
+      "part-of-speech": "verb",
+      "english": "to order",
+      "dutch": "bestellen",
+      "cefr": "A2",
+      "ipa": "[bəˈstɛlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7386d37b-6f19-42c7-ba16-b0ee12343719",
+      "part-of-speech": "verb",
+      "english": "to book",
+      "dutch": "boeken",
+      "cefr": "A2",
+      "ipa": "[ˈbukə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a38f6f06-d206-4004-91b9-e4f59ea47cab",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "dutch": "huren",
+      "cefr": "A2",
+      "ipa": "[ˈɦyːʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67f93cb4-b420-4beb-a162-60b98a6d6d3b",
+      "part-of-speech": "verb",
+      "english": "to rain",
+      "dutch": "regenen",
+      "cefr": "A2",
+      "ipa": "[ˈʁeɪɣənə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0414cd0c-22c9-4885-a24a-19fbfc61c789",
+      "part-of-speech": "verb",
+      "english": "to snow",
+      "dutch": "sneeuwen",
+      "cefr": "A2",
+      "ipa": "[ˈsneɪʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b66740a1-6045-44cb-9b59-be7133215825",
+      "part-of-speech": "verb",
+      "english": "to happen",
+      "dutch": "gebeuren",
+      "cefr": "A2",
+      "ipa": "[ɣəˈbøʏʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0db16b29-505d-4c39-902d-0b0abc564089",
+      "part-of-speech": "verb",
+      "english": "to promise",
+      "dutch": "beloven",
+      "cefr": "A2",
+      "ipa": "[bəˈloʊvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "062897cf-ed36-49bd-bbae-12cd6ef21ee3",
+      "part-of-speech": "verb",
+      "english": "to miss",
+      "dutch": "missen",
+      "cefr": "A2",
+      "ipa": "[ˈmɪsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3ecdead-1dfe-4b7f-9a1e-ae1e10337c92",
+      "part-of-speech": "adjective",
+      "english": "big, large; tall",
+      "dutch": "groot",
+      "cefr": "A1",
+      "ipa": "[ɣʁoʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa8f2b25-8be2-4140-8a90-f119bfe0d022",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "dutch": "klein",
+      "cefr": "A1",
+      "ipa": "[klɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c87a36bd-5477-4db8-add7-3b6709caff4b",
+      "part-of-speech": "adjective",
+      "english": "good; right",
+      "dutch": "goed",
+      "cefr": "A1",
+      "ipa": "[ɣut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "283c9858-807b-48fc-8229-767315b24ef6",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "dutch": "slecht",
+      "cefr": "A1",
+      "ipa": "[slɛxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df50ec5d-427b-4ee8-b03b-5e46813d9e0c",
+      "part-of-speech": "adjective",
+      "english": "beautiful, nice",
+      "dutch": "mooi",
+      "cefr": "A1",
+      "ipa": "[moʊi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "166f92fb-66f3-4bef-b60b-504fc339e3a5",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "dutch": "lelijk",
+      "cefr": "A2",
+      "ipa": "[ˈleɪlək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82dcede9-7698-48dc-9ae7-23fbb4d81f9c",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "dutch": "nieuw",
+      "cefr": "A1",
+      "ipa": "[niʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "121217a4-201a-4b44-826b-f3addf97010c",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "dutch": "oud",
+      "cefr": "A1",
+      "ipa": "[ʌut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2c9ecc8-580b-4154-bf64-c2b2b1b5099a",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "dutch": "jong",
+      "cefr": "A1",
+      "ipa": "[jɔŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4ad9c7e-9697-4036-ae94-2188098d4e3e",
+      "part-of-speech": "adjective",
+      "english": "long; tall",
+      "dutch": "lang",
+      "cefr": "A1",
+      "ipa": "[lɑŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1abcb74d-800d-4d3f-8d7c-6dcd8edd0372",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "dutch": "kort",
+      "cefr": "A1",
+      "ipa": "[kɔɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7679c145-9f92-4872-9655-c9c650f72881",
+      "part-of-speech": "adjective",
+      "english": "high",
+      "dutch": "hoog",
+      "cefr": "A1",
+      "ipa": "[ɦoʊx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02e6db27-bbc2-4599-96e3-8d37240e06bc",
+      "part-of-speech": "adjective",
+      "english": "low",
+      "dutch": "laag",
+      "cefr": "A2",
+      "ipa": "[laːx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02852002-9e2f-43a8-9143-da401faeb0d5",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "dutch": "warm",
+      "cefr": "A1",
+      "ipa": "[ʋɑɻm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc034fb2-15ee-424a-a3bf-0270ebc79b82",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "dutch": "koud",
+      "cefr": "A1",
+      "ipa": "[kʌut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9caec56d-6412-49f5-b190-80b3824d6fc4",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "dutch": "heet",
+      "cefr": "A1",
+      "ipa": "[ɦeɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68742c08-d191-4553-912e-dc1f5d9eb855",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "dutch": "snel",
+      "cefr": "A1",
+      "ipa": "[snɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b2e6994-016e-4965-ac70-cedf7d7d9248",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "dutch": "langzaam",
+      "cefr": "A1",
+      "ipa": "[ˈlɑŋzaːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b86b2abb-c7ec-4a2e-a22a-b2751590466d",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "dutch": "makkelijk",
+      "cefr": "A1",
+      "ipa": "[ˈmɑkələk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96a6799b-5fc1-4148-a979-21339b454184",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "dutch": "moeilijk",
+      "cefr": "A1",
+      "ipa": "[ˈmuilək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6521dab-1dfc-4efa-90c9-b64dd340f4e3",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "dutch": "goedkoop",
+      "cefr": "A1",
+      "ipa": "[ɣutˈkoʊp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f6e1a5b-167b-4768-9be5-a522bcd99c24",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "dutch": "duur",
+      "cefr": "A1",
+      "ipa": "[dyːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e30764ee-7a55-43e4-86f8-46368fce09aa",
+      "part-of-speech": "adjective",
+      "english": "glad, happy",
+      "dutch": "blij",
+      "cefr": "A1",
+      "ipa": "[blɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e2b16a5-1ee9-4ed3-8bd8-eb5a7e82138b",
+      "part-of-speech": "adjective",
+      "english": "happy; lucky",
+      "dutch": "gelukkig",
+      "cefr": "A2",
+      "ipa": "[ɣəˈlʏkəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bcea980f-fc0f-4c2e-8ade-99b6324d25f5",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "dutch": "verdrietig",
+      "cefr": "A2",
+      "ipa": "[vəɻˈdʁitəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5812118f-086a-4ba1-871e-8999bc7263d9",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "dutch": "boos",
+      "cefr": "A2",
+      "ipa": "[boʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ab548e3-52cd-4deb-ac20-489cb7fa2375",
+      "part-of-speech": "adjective",
+      "english": "afraid, scared",
+      "dutch": "bang",
+      "cefr": "A2",
+      "ipa": "[bɑŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15f2aed4-675f-416a-bded-5bdb2a7793c6",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "dutch": "moe",
+      "cefr": "A1",
+      "ipa": "[mu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d3fcf51-e045-43ad-ae7a-3bb6b2f05b89",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "dutch": "ziek",
+      "cefr": "A1",
+      "ipa": "[zik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd75f260-afef-4f6f-b752-937006dd9f4d",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "dutch": "gezond",
+      "cefr": "A2",
+      "ipa": "[ɣəˈzɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1f1b5ee-33ae-450f-88d5-b024c1704505",
+      "part-of-speech": "adjective",
+      "english": "tasty; nice, pleasant",
+      "dutch": "lekker",
+      "cefr": "A1",
+      "ipa": "[ˈlɛkəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c49f21f-6a9c-47d3-8944-e9a2d0a0cd7f",
+      "part-of-speech": "adjective",
+      "english": "nice, fun",
+      "dutch": "leuk",
+      "cefr": "A1",
+      "ipa": "[løʏk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe8faa4f-6f76-4612-a964-89c02e439c20",
+      "part-of-speech": "adjective",
+      "english": "kind, nice (of people)",
+      "dutch": "aardig",
+      "cefr": "A1",
+      "ipa": "[ˈaːɻdəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdb85bf1-dea1-4118-b72d-e19b78e96ec6",
+      "part-of-speech": "adjective",
+      "english": "friendly",
+      "dutch": "vriendelijk",
+      "cefr": "A2",
+      "ipa": "[ˈvʁindələk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea7e6502-19ab-4ed7-9100-3a675516b1e8",
+      "part-of-speech": "adjective",
+      "english": "sweet, kind",
+      "dutch": "lief",
+      "cefr": "A2",
+      "ipa": "[lif]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a622fe2b-53df-442a-b0f3-b984d51da40f",
+      "part-of-speech": "adjective",
+      "english": "clever, smart",
+      "dutch": "slim",
+      "cefr": "A2",
+      "ipa": "[slɪm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86e137a6-b5cb-4098-b2c2-703212a57572",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "dutch": "open",
+      "cefr": "A1",
+      "ipa": "[ˈoʊpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0efe8ee-7505-457d-821f-ad346400fe05",
+      "part-of-speech": "adjective",
+      "english": "closed, shut",
+      "dutch": "dicht",
+      "cefr": "A1",
+      "ipa": "[dɪxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "463f4a5d-7ec6-4390-a0f7-ce69d1d8d260",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "dutch": "schoon",
+      "cefr": "A1",
+      "ipa": "[sxoʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f50ee411-5ccc-4688-8354-cecca8b7bd65",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "dutch": "vies",
+      "cefr": "A2",
+      "ipa": "[vis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c84a29d-7fad-4351-b0bd-d9a6fe4611fd",
+      "part-of-speech": "adjective",
+      "english": "busy; crowded",
+      "dutch": "druk",
+      "cefr": "A1",
+      "ipa": "[dʁʏk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46e33103-47e9-4a24-bc75-d20b65e995b7",
+      "part-of-speech": "adjective",
+      "english": "quiet, calm",
+      "dutch": "rustig",
+      "cefr": "A2",
+      "ipa": "[ˈʁʏstəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "266ca1a1-214f-4c1a-a3d9-cccd8682c7c6",
+      "part-of-speech": "adjective",
+      "english": "free; off (work)",
+      "dutch": "vrij",
+      "cefr": "A1",
+      "ipa": "[vʁɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "981a72b5-4b25-44b3-9cfb-fcf7f7360154",
+      "part-of-speech": "adjective",
+      "english": "ready; finished",
+      "dutch": "klaar",
+      "cefr": "A1",
+      "ipa": "[klaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3228e88-e0d6-4335-a2c6-112c29edde74",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "dutch": "belangrijk",
+      "cefr": "A2",
+      "ipa": "[bəˈlɑŋʁɛik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b177ac57-577f-426f-bf7b-e9eb71b1b487",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "dutch": "interessant",
+      "cefr": "A2",
+      "ipa": "[ɪntəʁɛˈsɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27e11d00-55ed-477a-bafb-2dc750b20a94",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "dutch": "saai",
+      "cefr": "A2",
+      "ipa": "[saːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67129ce2-170a-4da2-aa47-e1d0272dcef4",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "dutch": "mogelijk",
+      "cefr": "A2",
+      "ipa": "[ˈmoʊɣələk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f9c4a9a-faea-4552-a782-d4ded5ffecce",
+      "part-of-speech": "adjective",
+      "english": "other",
+      "dutch": "ander",
+      "cefr": "A1",
+      "ipa": "[ˈɑndəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b31309ec-995c-45b2-94bd-d40ec80ee97f",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "dutch": "anders",
+      "cefr": "A2",
+      "ipa": "[ˈɑndəɻs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7afb0567-aa83-470d-89be-3d9e55536c7a",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "dutch": "zelfde",
+      "cefr": "A2",
+      "ipa": "[ˈzɛlvdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48185a68-8470-4a1a-9b1b-e7a1b46df497",
+      "part-of-speech": "adjective",
+      "english": "true",
+      "dutch": "waar",
+      "cefr": "A2",
+      "ipa": "[ʋaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70d361b8-ca1d-4adc-a152-91a336e68bb1",
+      "part-of-speech": "adjective",
+      "english": "wrong, incorrect",
+      "dutch": "fout",
+      "cefr": "A2",
+      "ipa": "[fʌut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b93963f4-0bb4-4f6e-871d-e321a87793ce",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "dutch": "vol",
+      "cefr": "A2",
+      "ipa": "[vɔl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b60b0778-0b6e-49c6-87d5-66cad7663669",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "dutch": "leeg",
+      "cefr": "A2",
+      "ipa": "[leɪx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e02e7a2e-15de-48b3-9664-6041ba05486f",
+      "part-of-speech": "adjective",
+      "english": "wet",
+      "dutch": "nat",
+      "cefr": "A2",
+      "ipa": "[nɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dad7196-105c-457b-b912-c94d4a1a8ec7",
+      "part-of-speech": "adjective",
+      "english": "dry",
+      "dutch": "droog",
+      "cefr": "A2",
+      "ipa": "[dʁoʊx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62c773e2-daeb-40ee-8d6c-8e223feb58ab",
+      "part-of-speech": "adjective",
+      "english": "heavy; hard",
+      "dutch": "zwaar",
+      "cefr": "A2",
+      "ipa": "[zʋaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0df40340-e128-4a55-8cef-9553d08b22b3",
+      "part-of-speech": "adjective",
+      "english": "light",
+      "dutch": "licht",
+      "cefr": "A2",
+      "ipa": "[lɪxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8dcd0e3-2ac9-40f1-b090-ce2a5408f1e1",
+      "part-of-speech": "adjective",
+      "english": "thick; fat",
+      "dutch": "dik",
+      "cefr": "A2",
+      "ipa": "[dɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5998906-1457-4cac-a912-a03cc77b2934",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "dutch": "dun",
+      "cefr": "A2",
+      "ipa": "[dʏn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9197184-2ee3-4fa5-9afe-8a77b4f35796",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "dutch": "sterk",
+      "cefr": "A2",
+      "ipa": "[stɛɻk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad0a94f9-8df6-4911-a5a2-8bb580f0e9ac",
+      "part-of-speech": "adjective",
+      "english": "far",
+      "dutch": "ver",
+      "cefr": "A2",
+      "ipa": "[vɛɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c950915-8c70-4674-96c4-a65a1fe6fd94",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "dutch": "rijk",
+      "cefr": "A2",
+      "ipa": "[ʁɛik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c29f1fb-212a-4f26-baee-9d8b3f6444fd",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "dutch": "arm",
+      "cefr": "A2",
+      "ipa": "[ɑɻm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebe04a1b-5689-41d7-9106-90ea8a626fa7",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "dutch": "rood",
+      "cefr": "A1",
+      "ipa": "[ʁoʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7404dec0-7abf-441b-bd6f-cbbef6d0354b",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "dutch": "blauw",
+      "cefr": "A1",
+      "ipa": "[blʌu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7e2322c-d8e8-4469-b0f1-0966f940390f",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "dutch": "groen",
+      "cefr": "A1",
+      "ipa": "[ɣʁun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "406521cf-84db-4611-afd6-a482bf232f82",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "dutch": "geel",
+      "cefr": "A1",
+      "ipa": "[ɣeɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9efe4679-98c7-4ba2-9c6e-d5cc7239a458",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "dutch": "zwart",
+      "cefr": "A1",
+      "ipa": "[zʋɑɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e548f79d-8b4f-49d3-af5f-af06e1649687",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "dutch": "wit",
+      "cefr": "A1",
+      "ipa": "[ʋɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb58995a-d2b8-4de4-bac1-ccaa265b1353",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "dutch": "bruin",
+      "cefr": "A1",
+      "ipa": "[bʁœyn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec65d603-732e-4a72-bcad-0d7e26657fff",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "dutch": "grijs",
+      "cefr": "A1",
+      "ipa": "[ɣʁɛis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f1618dc-c79f-46b3-b25c-1f0af173f2d2",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "dutch": "oranje",
+      "cefr": "A1",
+      "ipa": "[oʊˈʁɑɲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05eec5d7-fec0-4ddf-8ba4-46a824fd810d",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "dutch": "roze",
+      "cefr": "A2",
+      "ipa": "[ˈʁɔːzə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96ff377c-4b4a-4219-96fe-dee34d126104",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "dutch": "paars",
+      "cefr": "A2",
+      "ipa": "[paːɻs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca43068a-a4c4-4751-abaf-85e8eb4a156b",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "dutch": "nu",
+      "cefr": "A1",
+      "ipa": "[ny]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ac406d0-b484-4e41-a8bb-3114c606def1",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "dutch": "vandaag",
+      "cefr": "A1",
+      "ipa": "[vɑnˈdaːx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d07dfc1f-a698-472e-8fa8-07c84bd560ea",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "dutch": "morgen",
+      "cefr": "A1",
+      "ipa": "[ˈmɔɻɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e5b8bde-8e43-4c0c-b84c-eb5d9dbd418f",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "dutch": "gisteren",
+      "cefr": "A1",
+      "ipa": "[ˈɣɪstəʁə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc694bb9-592c-4fa3-854c-9978a48038da",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "dutch": "hier",
+      "cefr": "A1",
+      "ipa": "[ɦiːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1531bbb-aafd-475a-b6af-2e0243b81c74",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "dutch": "daar",
+      "cefr": "A1",
+      "ipa": "[daːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50855e39-819f-4403-bb0b-91f622d05d16",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "dutch": "niet",
+      "cefr": "A1",
+      "ipa": "[nit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dea4531-3d89-4f3a-a890-dafa30008cc9",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "dutch": "ook",
+      "cefr": "A1",
+      "ipa": "[oʊk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f80dd7b-90a9-4d1c-bf6a-875d6199636c",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "dutch": "heel",
+      "cefr": "A1",
+      "ipa": "[ɦeɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81d65f13-865c-4093-ae76-0823b6fb93fc",
+      "part-of-speech": "adverb",
+      "english": "very; badly",
+      "dutch": "erg",
+      "cefr": "A1",
+      "ipa": "[ɛɻx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b46cd723-3b3f-4796-8bd8-785e9bcc114a",
+      "part-of-speech": "adverb",
+      "english": "much, many, a lot",
+      "dutch": "veel",
+      "cefr": "A1",
+      "ipa": "[veɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c25e7aeb-91a9-4383-b109-b0611a04ddc7",
+      "part-of-speech": "adverb",
+      "english": "little, few",
+      "dutch": "weinig",
+      "cefr": "A2",
+      "ipa": "[ˈʋɛinəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1303bd65-c0bf-4c79-871a-0195c1f598c9",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "dutch": "meer",
+      "cefr": "A1",
+      "ipa": "[mɪːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cded4dc-7bcd-49d3-bae4-65bafc5e6e28",
+      "part-of-speech": "adverb",
+      "english": "less, fewer",
+      "dutch": "minder",
+      "cefr": "A2",
+      "ipa": "[ˈmɪndəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47b4fdb3-816d-4f83-a8a7-948f84c42f2c",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "dutch": "altijd",
+      "cefr": "A1",
+      "ipa": "[ˈɑltɛit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5f0ed5c-41ac-4256-9048-4a8fb7738134",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "dutch": "nooit",
+      "cefr": "A1",
+      "ipa": "[noʊit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "258e0a55-edb5-4b22-ac5f-10bab8135726",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "dutch": "soms",
+      "cefr": "A1",
+      "ipa": "[sɔms]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1712d578-4852-4de0-a6ae-365247a656c7",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "dutch": "vaak",
+      "cefr": "A1",
+      "ipa": "[vaːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba94090c-8089-4a40-a4d2-8f79a9a1cd51",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "dutch": "meestal",
+      "cefr": "A2",
+      "ipa": "[ˈmeɪstɑl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f72938cd-5b6d-4dbd-ac74-d1e58ba96bf5",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "dutch": "al",
+      "cefr": "A1",
+      "ipa": "[ɑl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51b240c5-9c2f-49cc-b9ba-8f7f7c0dec37",
+      "part-of-speech": "adverb",
+      "english": "still, yet; more",
+      "dutch": "nog",
+      "cefr": "A1",
+      "ipa": "[nɔx]",
+      "context": "nog een: another one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7aa45572-a3ab-4e15-a681-52a5053eb399",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "dutch": "weer",
+      "cefr": "A1",
+      "ipa": "[ʋɪːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e57b433-f1dc-4af0-831a-8eeb03260916",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "dutch": "samen",
+      "cefr": "A1",
+      "ipa": "[ˈsaːmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a8866ba-0287-40ca-8491-3c5dec29ddde",
+      "part-of-speech": "adverb",
+      "english": "alone; only",
+      "dutch": "alleen",
+      "cefr": "A1",
+      "ipa": "[ɑˈleɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f961452b-0826-490f-894b-6ea575f981a6",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "dutch": "misschien",
+      "cefr": "A1",
+      "ipa": "[mɪˈsxin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11076c37-7a9c-43c6-bb74-1c3364788d7a",
+      "part-of-speech": "adverb",
+      "english": "gladly, with pleasure",
+      "dutch": "graag",
+      "cefr": "A1",
+      "ipa": "[ɣʁaːx]",
+      "context": "ik zwem graag: I like swimming",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d260875-e4fa-4a81-b8f8-8ac3560b6007",
+      "part-of-speech": "adverb",
+      "english": "later, in a while",
+      "dutch": "straks",
+      "cefr": "A1",
+      "ipa": "[stʁɑks]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "537f29dc-e82c-45f5-a2d9-dd1390c68bfa",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "dutch": "later",
+      "cefr": "A1",
+      "ipa": "[ˈlaːtəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8499690-69ed-4202-803e-ec53d67dd004",
+      "part-of-speech": "adverb",
+      "english": "first",
+      "dutch": "eerst",
+      "cefr": "A1",
+      "ipa": "[ɪːɻst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f16d8436-ecba-4df5-a712-f8cf8e2b62d5",
+      "part-of-speech": "adverb",
+      "english": "then",
+      "dutch": "dan",
+      "cefr": "A1",
+      "ipa": "[dɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b10807d-c0f5-4dee-a204-68ff089de378",
+      "part-of-speech": "adverb",
+      "english": "then (in the past)",
+      "dutch": "toen",
+      "cefr": "A2",
+      "ipa": "[tun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f262af7-3621-4463-94d3-9d729e26d185",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "dutch": "vroeg",
+      "cefr": "A1",
+      "ipa": "[vʁux]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d42db5bf-0e4a-4575-be75-8f9f2dcadf76",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "dutch": "laat",
+      "cefr": "A1",
+      "ipa": "[laːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09cae240-bad9-4cce-b8e6-2ee88095bf3b",
+      "part-of-speech": "adverb",
+      "english": "left, on the left",
+      "dutch": "links",
+      "cefr": "A1",
+      "ipa": "[lɪŋks]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59686958-9f5f-48ab-aef1-647c233e7956",
+      "part-of-speech": "adverb",
+      "english": "right, on the right",
+      "dutch": "rechts",
+      "cefr": "A1",
+      "ipa": "[ʁɛxts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86b04737-34fb-4f49-8acb-011042f4b6c1",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "dutch": "rechtdoor",
+      "cefr": "A2",
+      "ipa": "[ʁɛxˈdʊːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f817b189-5eb4-4dc7-a0bb-70c8157e6988",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "dutch": "thuis",
+      "cefr": "A1",
+      "ipa": "[tœys]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3dee1c5-45ea-4ab8-9a1d-35bd3a1471cc",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "dutch": "binnen",
+      "cefr": "A2",
+      "ipa": "[ˈbɪnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2898678-5cec-4e47-9d11-d2d9a540f854",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "dutch": "buiten",
+      "cefr": "A2",
+      "ipa": "[ˈbœytə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01b1e62f-26e9-4796-9e32-a97fac27c038",
+      "part-of-speech": "adverb",
+      "english": "upstairs; above",
+      "dutch": "boven",
+      "cefr": "A2",
+      "ipa": "[ˈboʊvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2660375c-64b5-4f06-b4b0-abd5fb662b28",
+      "part-of-speech": "adverb",
+      "english": "downstairs; below",
+      "dutch": "beneden",
+      "cefr": "A2",
+      "ipa": "[bəˈneɪdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2af1c3d2-058e-46ff-81b2-3735361c991d",
+      "part-of-speech": "adverb",
+      "english": "nearby, close",
+      "dutch": "dichtbij",
+      "cefr": "A2",
+      "ipa": "[dɪxˈbɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce77a7b5-c534-4dd8-a473-ab683316931f",
+      "part-of-speech": "adverb",
+      "english": "enough",
+      "dutch": "genoeg",
+      "cefr": "A2",
+      "ipa": "[ɣəˈnux]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "011ef021-c0b3-4b07-ac3c-5e1ec02bb079",
+      "part-of-speech": "adverb",
+      "english": "really",
+      "dutch": "echt",
+      "cefr": "A2",
+      "ipa": "[ɛxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "622e1f3f-a801-4b93-8f6c-1aefb0af0eb4",
+      "part-of-speech": "adverb",
+      "english": "certainly, surely",
+      "dutch": "zeker",
+      "cefr": "A2",
+      "ipa": "[ˈzeɪkəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53c028f0-18e9-4a03-b0f5-8b149b9ed380",
+      "part-of-speech": "adverb",
+      "english": "actually",
+      "dutch": "eigenlijk",
+      "cefr": "A2",
+      "ipa": "[ˈɛiɣələk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "359fbb2a-640e-4d52-95b2-89b550190a59",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "dutch": "natuurlijk",
+      "cefr": "A2",
+      "ipa": "[naːˈtyːɻlək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed76c89d-770e-4c97-b733-7fde1bb9bd71",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "dutch": "bijna",
+      "cefr": "A2",
+      "ipa": "[ˈbɛinaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7b7f45c-019e-4e19-8350-d558a4dd9f2b",
+      "part-of-speech": "adverb",
+      "english": "immediately",
+      "dutch": "meteen",
+      "cefr": "A2",
+      "ipa": "[məˈteɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06994b2e-ffab-4fc1-9c54-176e1315e5fa",
+      "part-of-speech": "adverb",
+      "english": "about, approximately",
+      "dutch": "ongeveer",
+      "cefr": "A2",
+      "ipa": "[ɔnɣəˈvɪːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cb15867-050c-4cfa-8ff4-9513c91ae8e0",
+      "part-of-speech": "adverb",
+      "english": "so; like this",
+      "dutch": "zo",
+      "cefr": "A2",
+      "ipa": "[zoʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd8f39eb-8b86-48ce-b683-db7a358d13d1",
+      "part-of-speech": "adverb",
+      "english": "too (te duur: too expensive)",
+      "dutch": "te",
+      "cefr": "A2",
+      "ipa": "[tə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd993c37-7121-4ffe-8172-adfaebf4ad85",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "dutch": "waar",
+      "cefr": "A1",
+      "ipa": "[ʋaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3a0c574-3aa8-4df5-a6b7-3772bedc7e6b",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "dutch": "hoe",
+      "cefr": "A1",
+      "ipa": "[ɦu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b29fcf8-a3c2-43e2-a09c-53bc417a4b2f",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "dutch": "waarom",
+      "cefr": "A1",
+      "ipa": "[ʋaːˈʁɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc9906d3-8f52-4e87-b2d2-85695856b640",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "dutch": "wanneer",
+      "cefr": "A1",
+      "ipa": "[ʋɑˈnɪːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d662c19-12da-4520-b2f0-dfa44784de68",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "dutch": "hoeveel",
+      "cefr": "A1",
+      "ipa": "[ɦuˈveɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eca3a331-ad4a-4ee6-bf68-175e6a866b77",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "dutch": "ik",
+      "cefr": "A1",
+      "ipa": "[ɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cb5db64-2fdd-4467-863a-a387d54d9ee1",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "dutch": "jij",
+      "cefr": "A1",
+      "ipa": "[jɛi]",
+      "context": "unstressed: je",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1ca6e78-4929-4358-b4ba-7f3dc362bc8a",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "dutch": "u",
+      "cefr": "A1",
+      "ipa": "[y]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38b97b5d-8c79-4e70-81f5-c3a643e0486d",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "dutch": "hij",
+      "cefr": "A1",
+      "ipa": "[ɦɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0156385a-b99e-4f1b-9e55-6f4119b271f2",
+      "part-of-speech": "pronoun",
+      "english": "she; they",
+      "dutch": "zij",
+      "cefr": "A1",
+      "ipa": "[zɛi]",
+      "context": "unstressed: ze",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "970f8912-b3b4-4862-bae3-043d0492b4cc",
+      "part-of-speech": "pronoun",
+      "english": "it",
+      "dutch": "het",
+      "cefr": "A1",
+      "ipa": "[ɦɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aac11ca5-48aa-4358-93cb-3d9d0845904f",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "dutch": "wij",
+      "cefr": "A1",
+      "ipa": "[ʋɛi]",
+      "context": "unstressed: we",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98f97969-7102-41ff-af63-f9a9b9fa9a92",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "dutch": "jullie",
+      "cefr": "A1",
+      "ipa": "[ˈjʏli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61411ed1-346e-45ec-aa07-538b7d8b833e",
+      "part-of-speech": "pronoun",
+      "english": "me",
+      "dutch": "mij",
+      "cefr": "A1",
+      "ipa": "[mɛi]",
+      "context": "unstressed: me",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39af040d-9a4a-4a8a-925b-f9480f27cd3f",
+      "part-of-speech": "pronoun",
+      "english": "him",
+      "dutch": "hem",
+      "cefr": "A1",
+      "ipa": "[ɦɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c17aecd-82f7-418a-9afe-5b114e837efd",
+      "part-of-speech": "pronoun",
+      "english": "us",
+      "dutch": "ons",
+      "cefr": "A1",
+      "ipa": "[ɔns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93c5a815-219a-4fc3-8a10-30f2cead3b8a",
+      "part-of-speech": "pronoun",
+      "english": "my",
+      "dutch": "mijn",
+      "cefr": "A1",
+      "ipa": "[mɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05b9c3f4-6380-4742-b837-db0ecbe8f2a4",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "dutch": "jouw",
+      "cefr": "A1",
+      "ipa": "[jʌu]",
+      "context": "unstressed: je",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db6cbecf-11f3-4989-b75c-fff2f4177d8d",
+      "part-of-speech": "pronoun",
+      "english": "your (formal)",
+      "dutch": "uw",
+      "cefr": "A2",
+      "ipa": "[yʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7e63dc3-b61f-4006-abb5-afa7ee6a6610",
+      "part-of-speech": "pronoun",
+      "english": "his",
+      "dutch": "zijn",
+      "cefr": "A1",
+      "ipa": "[zɛin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3635e57-9e72-4644-9150-207a54b036a3",
+      "part-of-speech": "pronoun",
+      "english": "her",
+      "dutch": "haar",
+      "cefr": "A1",
+      "ipa": "[ɦaːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49a3f3a5-b187-4069-844f-6098dc570c98",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "dutch": "onze",
+      "cefr": "A1",
+      "ipa": "[ˈɔnzə]",
+      "context": "ons before a singular het-word (ons huis)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8188946f-2ce4-4fc9-a135-728b3e58265a",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "dutch": "hun",
+      "cefr": "A1",
+      "ipa": "[ɦʏn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c289ea04-7240-4f41-a218-d8da61f74215",
+      "part-of-speech": "pronoun",
+      "english": "this (het-words)",
+      "dutch": "dit",
+      "cefr": "A1",
+      "ipa": "[dɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f14bcbf2-309a-4127-abc5-4edb2d9c7587",
+      "part-of-speech": "pronoun",
+      "english": "that (het-words)",
+      "dutch": "dat",
+      "cefr": "A1",
+      "ipa": "[dɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b04a3da0-2c5e-4f3f-b943-42c4bcf18ae9",
+      "part-of-speech": "pronoun",
+      "english": "this, these (de-words, plurals)",
+      "dutch": "deze",
+      "cefr": "A1",
+      "ipa": "[ˈdeɪzə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8be31817-cc0c-45b5-bf00-8e112114221a",
+      "part-of-speech": "pronoun",
+      "english": "that, those (de-words, plurals)",
+      "dutch": "die",
+      "cefr": "A1",
+      "ipa": "[di]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06e784ae-0ff4-4b7e-ada0-3e9ea8229104",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "dutch": "wie",
+      "cefr": "A1",
+      "ipa": "[ʋi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "563054ae-760f-44b8-b1d6-583f36722b09",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "dutch": "wat",
+      "cefr": "A1",
+      "ipa": "[ʋɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9f3b242-4d9f-4c80-b3ef-a2dfd60d8870",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "dutch": "welke",
+      "cefr": "A1",
+      "ipa": "[ˈʋɛlkə]",
+      "context": "welk before a singular het-word",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24c5961c-2033-4516-a34f-f05e7d58108c",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "dutch": "iets",
+      "cefr": "A2",
+      "ipa": "[its]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fc4f1a5-d1f9-400a-ae6c-c55fb8262224",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "dutch": "niets",
+      "cefr": "A2",
+      "ipa": "[nits]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ddad17e-1e95-495b-8356-92aa1cffc978",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "dutch": "iemand",
+      "cefr": "A2",
+      "ipa": "[ˈimɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2450ace-99a3-498a-839c-a7708cc2921a",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "dutch": "niemand",
+      "cefr": "A2",
+      "ipa": "[ˈnimɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e86ff7ca-8949-4564-ab44-c20bfa81ada9",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "dutch": "alles",
+      "cefr": "A2",
+      "ipa": "[ˈɑləs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c48342d-11ba-4b75-a70f-22801b9844ab",
+      "part-of-speech": "preposition",
+      "english": "in",
+      "dutch": "in",
+      "cefr": "A1",
+      "ipa": "[ɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6eef97a0-ce63-4e14-8a3b-5c28a436eee9",
+      "part-of-speech": "preposition",
+      "english": "on; at",
+      "dutch": "op",
+      "cefr": "A1",
+      "ipa": "[ɔp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4228b08b-c34b-48be-b10e-40fd43c6799f",
+      "part-of-speech": "preposition",
+      "english": "at, on (attached to); to",
+      "dutch": "aan",
+      "cefr": "A1",
+      "ipa": "[aːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f8c3164-b092-4b50-a6a7-75e77da4ff8d",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "dutch": "met",
+      "cefr": "A1",
+      "ipa": "[mɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3d886a9-3216-45c8-8c53-cce1a4a633fb",
+      "part-of-speech": "preposition",
+      "english": "of; from",
+      "dutch": "van",
+      "cefr": "A1",
+      "ipa": "[vɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce6fa5e1-ad6a-4175-9004-8d1014b628a4",
+      "part-of-speech": "preposition",
+      "english": "to, towards",
+      "dutch": "naar",
+      "cefr": "A1",
+      "ipa": "[naːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e89710b9-7957-40f3-bc2a-ab3b6f279440",
+      "part-of-speech": "preposition",
+      "english": "for; in front of; before",
+      "dutch": "voor",
+      "cefr": "A1",
+      "ipa": "[vʊːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e10b260-c19c-4035-bf63-24deb712abe2",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "dutch": "na",
+      "cefr": "A1",
+      "ipa": "[naː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e01ce86-4624-4d6c-8c8b-be98d5d622c7",
+      "part-of-speech": "preposition",
+      "english": "out of, from",
+      "dutch": "uit",
+      "cefr": "A1",
+      "ipa": "[œyt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6cc9489-b3a4-489f-8b37-876264be554f",
+      "part-of-speech": "preposition",
+      "english": "at, near; with",
+      "dutch": "bij",
+      "cefr": "A1",
+      "ipa": "[bɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a3c8eac-7ea0-46ff-aee1-8194f42aacff",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "dutch": "onder",
+      "cefr": "A1",
+      "ipa": "[ˈɔndəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9e5138e-71c4-4353-8f53-1873d8d8f19e",
+      "part-of-speech": "preposition",
+      "english": "about; over",
+      "dutch": "over",
+      "cefr": "A1",
+      "ipa": "[ˈoʊvəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4454058e-35d5-468a-a80d-6805d0a9f963",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "dutch": "achter",
+      "cefr": "A1",
+      "ipa": "[ˈɑxtəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3221c1b-c609-4a6e-80bb-8c7e4ef703e4",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "dutch": "naast",
+      "cefr": "A1",
+      "ipa": "[naːst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab4f89eb-f1ad-4d0a-ac93-48de9e2eeea3",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "dutch": "tussen",
+      "cefr": "A1",
+      "ipa": "[ˈtʏsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a521492-355a-4d5f-aad2-c7845b83b132",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "dutch": "zonder",
+      "cefr": "A1",
+      "ipa": "[ˈzɔndəɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df47937b-facf-48b0-9fea-7164ee56d9fe",
+      "part-of-speech": "preposition",
+      "english": "through; by",
+      "dutch": "door",
+      "cefr": "A2",
+      "ipa": "[dʊːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e3f06b1-cf5b-415d-84cd-4faed59755cf",
+      "part-of-speech": "preposition",
+      "english": "until, till; to",
+      "dutch": "tot",
+      "cefr": "A1",
+      "ipa": "[tɔt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7381ab31-6ca8-4dfd-8c1b-4df8a6f5f888",
+      "part-of-speech": "preposition",
+      "english": "at (clock time); around",
+      "dutch": "om",
+      "cefr": "A1",
+      "ipa": "[ɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "005c7343-a60d-4cc7-bb3b-f1059fd3fbcb",
+      "part-of-speech": "preposition",
+      "english": "against",
+      "dutch": "tegen",
+      "cefr": "A2",
+      "ipa": "[ˈteɪɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03e911f4-462d-41c2-9ab7-5a683a3ca947",
+      "part-of-speech": "preposition",
+      "english": "since",
+      "dutch": "sinds",
+      "cefr": "A2",
+      "ipa": "[sɪns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ebd4701-a4a1-4e59-94de-ef8a6773cc69",
+      "part-of-speech": "preposition",
+      "english": "during",
+      "dutch": "tijdens",
+      "cefr": "A2",
+      "ipa": "[ˈtɛidəns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5a9a05f-5f88-49f3-b589-476bd3646d58",
+      "part-of-speech": "preposition",
+      "english": "along, past",
+      "dutch": "langs",
+      "cefr": "A2",
+      "ipa": "[lɑŋs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "079194a8-c995-49f7-b4a4-16b333c87027",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "dutch": "en",
+      "cefr": "A1",
+      "ipa": "[ɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3a10204-e8df-4595-a424-cd09d61adb4c",
+      "part-of-speech": "conjunction",
+      "english": "or; whether",
+      "dutch": "of",
+      "cefr": "A1",
+      "ipa": "[ɔf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "627fed79-21d5-4cc9-9661-b25749234d21",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "dutch": "maar",
+      "cefr": "A1",
+      "ipa": "[maːɻ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1246fe89-0d87-4678-a584-25480716d7f3",
+      "part-of-speech": "conjunction",
+      "english": "because, for",
+      "dutch": "want",
+      "cefr": "A1",
+      "ipa": "[ʋɑnt]",
+      "context": "normal word order after want",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e241613-448b-4693-9b0d-de94c2218f80",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "dutch": "omdat",
+      "cefr": "A2",
+      "ipa": "[ɔmˈdɑt]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d2c7d3e-a8c8-4db0-b141-09f11b47bd1a",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "dutch": "dat",
+      "cefr": "A2",
+      "ipa": "[dɑt]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abde5d2b-f05a-4594-848a-b82143cf8a25",
+      "part-of-speech": "conjunction",
+      "english": "if; when",
+      "dutch": "als",
+      "cefr": "A2",
+      "ipa": "[ɑls]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a845fafa-e540-4fb2-b098-4061326e1d99",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "dutch": "dus",
+      "cefr": "A1",
+      "ipa": "[dʏs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c8980e8-3441-432a-bf39-97932217f7b6",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "dutch": "terwijl",
+      "cefr": "A2",
+      "ipa": "[təɻˈʋɛil]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e54395b-384a-4a15-a5dd-86a201fe4951",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "dutch": "voordat",
+      "cefr": "A2",
+      "ipa": "[vʊːɻˈdɑt]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9b8aa74-5fbb-477f-9aec-0968ea106d47",
+      "part-of-speech": "conjunction",
+      "english": "after",
+      "dutch": "nadat",
+      "cefr": "A2",
+      "ipa": "[naːˈdɑt]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d20833c0-5c5b-49dd-b015-1d6d0b7d493a",
+      "part-of-speech": "conjunction",
+      "english": "when (in the past)",
+      "dutch": "toen",
+      "cefr": "A2",
+      "ipa": "[tun]",
+      "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9f25491-66bb-452f-8d6b-41e900cf01ba",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "dutch": "ja",
+      "cefr": "A1",
+      "ipa": "[jaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c7d6903-e541-40f7-9ee3-f74d7f25a1df",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "dutch": "nee",
+      "cefr": "A1",
+      "ipa": "[neɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcfa7a0f-787a-46f0-a749-5c651f10df39",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "dutch": "hallo",
+      "cefr": "A1",
+      "ipa": "[ɦɑˈloʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e0e3d83-cff7-4119-a468-3169005f84e0",
+      "part-of-speech": "interjection",
+      "english": "hi",
+      "dutch": "hoi",
+      "cefr": "A1",
+      "ipa": "[ɦɔi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5b5cff8-b45f-4432-a6b1-a000e7858c6d",
+      "part-of-speech": "interjection",
+      "english": "hello; goodbye",
+      "dutch": "dag",
+      "cefr": "A1",
+      "ipa": "[dɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87e9b905-f75f-4250-b22d-6398b956629c",
+      "part-of-speech": "interjection",
+      "english": "bye (informal)",
+      "dutch": "doei",
+      "cefr": "A1",
+      "ipa": "[dui]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02bd91a9-f655-47ce-bcdf-546743983954",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "dutch": "tot ziens",
+      "cefr": "A1",
+      "ipa": "[tɔt ˈsins]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38d543c2-9e2a-4379-b976-2e146cdb902a",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "dutch": "goedemorgen",
+      "cefr": "A1",
+      "ipa": "[ɣudəˈmɔɻɣə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2b8df62-c224-4793-9d51-ff11e1281029",
+      "part-of-speech": "interjection",
+      "english": "good afternoon",
+      "dutch": "goedemiddag",
+      "cefr": "A1",
+      "ipa": "[ɣudəˈmɪdɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb236554-2804-41a1-9d69-e4f4e005bdb7",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "dutch": "goedenavond",
+      "cefr": "A1",
+      "ipa": "[ɣudəˈnaːvɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c7ce725-6055-476e-af70-0e3614228c0e",
+      "part-of-speech": "interjection",
+      "english": "good night (sleep well)",
+      "dutch": "welterusten",
+      "cefr": "A1",
+      "ipa": "[ʋɛltəˈʁʏstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32dd5a2f-799f-4605-a9da-7b1a00649e11",
+      "part-of-speech": "interjection",
+      "english": "thank you (informal)",
+      "dutch": "dank je wel",
+      "cefr": "A1",
+      "ipa": "[ˈdɑŋk jə ʋɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b8b1d5d-66cc-4b5b-88c3-a4494de625c2",
+      "part-of-speech": "interjection",
+      "english": "thank you (formal)",
+      "dutch": "dank u wel",
+      "cefr": "A1",
+      "ipa": "[ˈdɑŋk y ʋɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "657b0660-3d8e-4f69-ac7c-a4bbde70b0c6",
+      "part-of-speech": "interjection",
+      "english": "please; here you are (informal)",
+      "dutch": "alsjeblieft",
+      "cefr": "A1",
+      "ipa": "[ɑlsjəˈblift]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0190ddcb-b6d5-4151-8588-e8c1ad2d03d5",
+      "part-of-speech": "interjection",
+      "english": "please; here you are (formal)",
+      "dutch": "alstublieft",
+      "cefr": "A1",
+      "ipa": "[ɑlstyˈblift]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b86fac0d-333d-4998-8c0c-56fd6f468442",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "dutch": "graag gedaan",
+      "cefr": "A1",
+      "ipa": "[ˈɣʁaːx ɣəˈdaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afb44f42-c09e-4d50-a1ef-1d99eba2b892",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "dutch": "sorry",
+      "cefr": "A1",
+      "ipa": "[ˈsɔʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76c6e455-69c7-48e8-8ca4-5ea4214d4de1",
+      "part-of-speech": "interjection",
+      "english": "excuse me",
+      "dutch": "pardon",
+      "cefr": "A1",
+      "ipa": "[pɑɻˈdɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d30c93d0-fee1-4f41-8ee4-89e83905cc4d",
+      "part-of-speech": "interjection",
+      "english": "okay",
+      "dutch": "oké",
+      "cefr": "A1",
+      "ipa": "[oʊˈkeɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9720d6b1-b4c0-47f5-9c03-366766bfa0a0",
+      "part-of-speech": "interjection",
+      "english": "cheers",
+      "dutch": "proost",
+      "cefr": "A2",
+      "ipa": "[pʁoʊst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ea1c893-c22d-48e6-9863-f1fb220ce697",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "dutch": "gefeliciteerd",
+      "cefr": "A2",
+      "ipa": "[ɣəfeɪlisiˈtɪːɻt]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

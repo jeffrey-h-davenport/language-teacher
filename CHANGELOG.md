@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.17.1 — 2026-11-08
+- Dutch pronunciation now shows the actual sounds of standard Netherlands Dutch (bracketed IPA) instead of the broad /…/ version: r is [ʁ] at the start of a syllable and the soft [ɻ] at the end (rood [ʁoʊt], maar [maːɻ]); ee, oo and eu are slightly diphthongized (been [beɪn]) and change before a final r (meer [mɪːɻ]); and the final n of -en is dropped (geven [ˈɣeɪvə])
+
+## 1.17.0 — 2026-11-08
+- Added Dutch: 601 words covering levels A1 and A2 — everyday nouns, verbs, adjectives and adverbs, plus pronouns, prepositions, conjunctions, numbers, greetings, days and months
+- Every word has IPA pronunciation; every noun is marked as a de-word or het-word and shown with its article (de man, het huis), with its plural
+
+## 1.16.0 — 2026-11-08
+- Added a Czech Grammar Guide (the Grammar Guide button during a Czech quiz) — a practical reference focused on declension and conjugation: the seven cases and what they're for, how to tell a noun's gender and pattern from its ending, full singular and plural tables for the main noun, adjective, pronoun and "ten/ta/to" patterns, present-tense verb types and essential irregular verbs, past, future and conditional, aspect pairs, commands, prepositions with their cases, and how numbers change the noun's case
+- Guides can now include explanatory text and tables, not just character cards; the guide window widens automatically for tables, and each guide can name its own button. The Hindi, Korean and Chinese guides are unchanged
+
+## 1.15.0 — 2026-11-08
+- German vocabulary: added the full set of German prepositions (71 more, 77 in all) and conjunctions (49 more, 52 in all) — from everyday words like in, mit, für, und, aber, weil, dass to formal ones like angesichts, zwecks, sofern
+- Each preposition notes the case it takes (accusative, dative, genitive, or two-way); each conjunction notes its effect on word order; paired conjunctions (entweder … oder, sowohl … als auch, je … desto) are included as single entries
+- With this many of each, quiz questions on prepositions and conjunctions now offer answer choices of the same kind
+
+## 1.14.14 — 2026-11-08
+- German vocabulary: added the first German prepositions and conjunctions — bis, hinter, während, statt, trotz, gegenüber (each with the case it takes), and the conjunctions während, falls, sobald
+
 ## 1.14.13 — 2026-11-08
 - German vocabulary: added 48 entries from a fashion article about sneakers — including basic words that were missing (fast, außerdem, Socke, Knöchel, fließend), the everyday meanings of "Spitze" (tip/top, and lace — only "cutting remark" was listed), and shoe and clothing terms (Sportschuh, Wildleder, Strickjacke, Lippenstift…)
 
