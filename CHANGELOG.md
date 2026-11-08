@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.14.13 — 2026-11-08
+- German vocabulary: added 48 entries from a fashion article about sneakers — including basic words that were missing (fast, außerdem, Socke, Knöchel, fließend), the everyday meanings of "Spitze" (tip/top, and lace — only "cutting remark" was listed), and shoe and clothing terms (Sportschuh, Wildleder, Strickjacke, Lippenstift…)
+
+## 1.14.12 — 2026-11-08
+- German vocabulary: added 36 words from a hair-care article — including basic words that were missing (also, natürlich as "of course", lieber, insgesamt, dagegen, Schaum, the verb tropfen) and hair and styling terms (föhnen, Kopfhaut, Scheitel, Haarwurzel, Rundbürste, Haarspray…)
+
+## 1.14.11 — 2026-11-08
+- German vocabulary: added the verb "sich verhalten" (to behave) — only the noun "Verhalten" was in the list
+
+## 1.14.10 — 2026-11-08
+- German vocabulary: added 44 words from a parenting article about scary films — including common words that were missing (erschrecken, beruhigen, geraten, egal, selbst, nachts) and media and emotion terms (Horrorfilm, Happy End, Nervenkitzel, unberechenbar, verstörend, stummschalten, vorspulen…)
+
+## 1.14.9 — 2026-11-08
+- German vocabulary: added 23 words from a TV-show article — including several very common words that were missing (anbieten, vielleicht, bisschen, irgendwann, daraufhin) and TV terms (Fernsehsendung, Titelmelodie, Moderatorin, Komiker/Komikerin, "aus dem Off")
+
+## 1.14.8 — 2026-11-08
+- German vocabulary: added 15 words from a court-news article — legal terms (Bezirksgericht, Hausarrest, Staatsanwältin, Verteidigerin, oberste as in "der Oberste Gerichtshof"), testing terms (Alkoholtest, Drogentest, Testergebnis), and everyday words that were missing (kürzlich, teils, Apfelsaft, Mundwasser…)
+
+## 1.14.7 — 2026-11-08
+- German vocabulary: added 59 words from a fashion article — clothing and style terms (Blazer, Hosenanzug, Bleistiftrock, Saum, Taille, Passform, figurbetont, tailliert…), royal titles (Kronprinzessin, Thronfolger…), and everyday adverbs that were missing (lange, oben, unten, gern, trotzdem, vorbei, eher…)
+
+## 1.14.6 — 2026-11-08
+- German vocabulary: added 17 more words found in real-world text — Fußballstar, Familienfest, Erliegen, Angehörige, Pandemie, Lebensmittelpunkt, Partnerin, Boutiquehotel, damals, wieder, gar, zeitweise, rückblickend, abwechselnd, durchleben, erliegen, zurückfinden
+
+## 1.14.5 — 2026-11-08
+- German vocabulary: added 14 words found in real-world text — Unternehmerin, Investorin, Gründerin, Schlüsselloch, Ideengeber, Ideengeberin, nie, besonders, darüber, dazwischen, berührend, auslachen, mitfeiern, mitentwickeln
+
+## 1.14.4 — 2026-11-06
+- German vocabulary: clearer English meanings for "befragen" (question, interrogate, survey), "auflegen" (launch, release), and "Zwischenzeit" (meantime)
+
 ## 1.14.3 — 2026-11-04
 - Editor mode: Browse no longer offers anything based on learning progress — the Score column, the status filter (Not started / In progress / Learned), and sorting by score are hidden
 - No change for learners
