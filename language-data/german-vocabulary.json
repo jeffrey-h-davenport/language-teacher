@@ -26257,7 +26257,7 @@
     {
       "id": "2bb222d1-3dd0-4840-ad4b-40a680002696",
       "part-of-speech": "verb",
-      "english": "ask",
+      "english": "question, interrogate, survey",
       "german": "befragen",
       "cefr": "B2",
       "register": [
@@ -48700,7 +48700,7 @@
     {
       "id": "315e6b47-1e4c-4fdc-9aab-c4acb0417a1a",
       "part-of-speech": "verb",
-      "english": "bring out",
+      "english": "launch, release",
       "german": "auflegen",
       "cefr": "B2",
       "register": [
@@ -68417,7 +68417,7 @@
     {
       "id": "fa2c2e1f-d026-4a1d-aa5b-df7743ee9873",
       "part-of-speech": "noun",
-      "english": "in the meantime",
+      "english": "meantime",
       "german": "Zwischenzeit",
       "gender": "feminine",
       "plural": "Zwischenzeiten",
@@ -117027,6 +117027,2871 @@
       "part-of-speech": "verb",
       "english": "meander",
       "german": "schlängeln",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "879b6948-aae8-44c7-bb2b-d59e44b6b8d3",
+      "part-of-speech": "noun",
+      "english": "entrepreneur (female), businesswoman",
+      "german": "Unternehmerin",
+      "gender": "feminine",
+      "plural": "Unternehmerinnen",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06ee011b-3994-4ab8-951f-333630c27314",
+      "part-of-speech": "noun",
+      "english": "investor (female)",
+      "german": "Investorin",
+      "gender": "feminine",
+      "plural": "Investorinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8185065-97a2-4252-9a0f-5543cdf7a574",
+      "part-of-speech": "noun",
+      "english": "founder (female)",
+      "german": "Gründerin",
+      "gender": "feminine",
+      "plural": "Gründerinnen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b390d5a9-07bf-47a9-a362-1189d4cc604d",
+      "part-of-speech": "noun",
+      "english": "keyhole",
+      "german": "Schlüsselloch",
+      "gender": "neuter",
+      "plural": "Schlüssellöcher",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efcdea49-ea9b-4676-aa86-4c03e0cb5b22",
+      "part-of-speech": "noun",
+      "english": "originator of an idea, ideas person",
+      "german": "Ideengeber",
+      "gender": "masculine",
+      "plural": "Ideengeber",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02a7c506-f109-41fb-8bea-1842b9bef769",
+      "part-of-speech": "noun",
+      "english": "originator of an idea (female)",
+      "german": "Ideengeberin",
+      "gender": "feminine",
+      "plural": "Ideengeberinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03af3a89-f849-42c4-ab47-2beaff09b7f2",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "german": "nie",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c905ae5f-5e94-4aa0-aecb-c0f9a7e28e9e",
+      "part-of-speech": "adverb",
+      "english": "especially, particularly",
+      "german": "besonders",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a307569c-bc29-4b48-9145-506300787d5e",
+      "part-of-speech": "adverb",
+      "english": "about it; over it, above it",
+      "german": "darüber",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f558f9a8-152a-4bef-b9b1-72c77bbc8db2",
+      "part-of-speech": "adverb",
+      "english": "in between",
+      "german": "dazwischen",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02bd3acb-3e49-41e2-93a7-962c438c51ef",
+      "part-of-speech": "adjective",
+      "english": "touching, moving",
+      "german": "berührend",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93826b68-39fe-405d-89b4-b3998a614925",
+      "part-of-speech": "verb",
+      "english": "laugh at, mock",
+      "german": "auslachen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e52e9f7-aa42-4a03-9dc6-c72363edbe49",
+      "part-of-speech": "verb",
+      "english": "join in celebrating",
+      "german": "mitfeiern",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26a1b87b-8153-4cca-9b42-4a50a7879c5c",
+      "part-of-speech": "verb",
+      "english": "help develop, co-develop",
+      "german": "mitentwickeln",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "405c7e95-5b32-48b6-8950-393b1c7c879a",
+      "part-of-speech": "noun",
+      "english": "football star, soccer star",
+      "german": "Fußballstar",
+      "gender": "masculine",
+      "plural": "Fußballstars",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1267520-aba1-48b7-9b52-c23a651583ed",
+      "part-of-speech": "noun",
+      "english": "family celebration, family gathering",
+      "german": "Familienfest",
+      "gender": "neuter",
+      "plural": "Familienfeste",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fe576a3-2d14-406d-ab1f-7538c128f0a6",
+      "part-of-speech": "noun",
+      "english": "standstill",
+      "german": "Erliegen",
+      "gender": "neuter",
+      "cefr": "C2",
+      "context": "zum Erliegen kommen: to come to a standstill",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b511077-ac91-45ff-b77f-9e567898b470",
+      "part-of-speech": "noun",
+      "english": "relative, family member (female); (plural) relatives, next of kin",
+      "german": "Angehörige",
+      "gender": "feminine",
+      "plural": "Angehörigen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b2b4f1c-6215-4ce3-8ec7-b05b32e1af66",
+      "part-of-speech": "noun",
+      "english": "pandemic",
+      "german": "Pandemie",
+      "gender": "feminine",
+      "plural": "Pandemien",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b285ddd3-5b06-490d-8db6-0d21dfa3257b",
+      "part-of-speech": "noun",
+      "english": "centre of one's life, main place of residence",
+      "german": "Lebensmittelpunkt",
+      "gender": "masculine",
+      "plural": "Lebensmittelpunkte",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f06ac48e-52f2-412e-8c2d-7d3a09438bc3",
+      "part-of-speech": "noun",
+      "english": "partner (female)",
+      "german": "Partnerin",
+      "gender": "feminine",
+      "plural": "Partnerinnen",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "016a9e60-a864-4337-b22d-db08a18346f5",
+      "part-of-speech": "noun",
+      "english": "boutique hotel",
+      "german": "Boutiquehotel",
+      "gender": "neuter",
+      "plural": "Boutiquehotels",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c524c2f-07e3-4b27-a1b6-84b4f75b8263",
+      "part-of-speech": "adverb",
+      "english": "back then, at that time",
+      "german": "damals",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46439cb4-3bde-4f73-b6c7-738e1f8be936",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "german": "wieder",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54a96e3a-bb00-4ee8-9988-d4797b12a14d",
+      "part-of-speech": "adverb",
+      "english": "at all; even",
+      "german": "gar",
+      "cefr": "B1",
+      "context": "gar nicht / gar nichts: not at all / nothing at all",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95906870-8c84-451d-a232-8e5ec4d85b89",
+      "part-of-speech": "adverb",
+      "english": "at times, temporarily",
+      "german": "zeitweise",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbf3c58a-0871-4a3d-a465-c144d0e28cf9",
+      "part-of-speech": "adverb",
+      "english": "looking back, in retrospect",
+      "german": "rückblickend",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e78a9d4e-87d2-49e7-99e3-315645a7a2f7",
+      "part-of-speech": "adverb",
+      "english": "alternately, taking turns",
+      "german": "abwechselnd",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62aa029e-feee-4310-a466-27e7a9c754bc",
+      "part-of-speech": "verb",
+      "english": "live through, go through",
+      "german": "durchleben",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec89e790-65da-406d-badf-ee2ef278ecd1",
+      "part-of-speech": "verb",
+      "english": "succumb to",
+      "german": "erliegen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c9e02cf-bd1b-4e1d-be64-9f34a5bcc06c",
+      "part-of-speech": "verb",
+      "english": "find one's way back",
+      "german": "zurückfinden",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88c31455-af48-4ddc-a09a-430bfc9e570c",
+      "part-of-speech": "adverb",
+      "english": "for a long time, long",
+      "german": "lange",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab3d7c4c-d294-44de-94c4-93560f8e5c02",
+      "part-of-speech": "adverb",
+      "english": "rather; sooner, earlier",
+      "german": "eher",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5deb0f2b-64f5-4bfd-a4aa-422e9e5d880f",
+      "part-of-speech": "adverb",
+      "english": "by no means, not at all",
+      "german": "keineswegs",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bc9cf11-7434-479a-a185-cfb0647804cd",
+      "part-of-speech": "adverb",
+      "english": "above, at the top; upstairs",
+      "german": "oben",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9f22f39-56d3-4038-9f66-e3f6e9123286",
+      "part-of-speech": "adverb",
+      "english": "below, at the bottom; downstairs",
+      "german": "unten",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d5e4fe1-5ea0-49a1-9731-94b0cadf940c",
+      "part-of-speech": "adverb",
+      "english": "on top of each other; to/on each other",
+      "german": "aufeinander",
+      "cefr": "B2",
+      "context": "aufeinander abgestimmt: coordinated, matched",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0e2390e-1833-4c53-b019-a8dbedf687b8",
+      "part-of-speech": "adverb",
+      "english": "so to speak, to a certain extent",
+      "german": "gewissermaßen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb28ff79-f000-44c7-ab2b-072caa74dba3",
+      "part-of-speech": "adverb",
+      "english": "over, past",
+      "german": "vorbei",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "575b9193-6684-4af9-b7fe-9fcba473344f",
+      "part-of-speech": "adverb",
+      "english": "gladly, with pleasure",
+      "german": "gern",
+      "cefr": "A1",
+      "context": "also gerne; with a verb: to like doing (ich lese gern)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5982fbc6-18f2-44e4-9d02-18356b3fb26e",
+      "part-of-speech": "adverb",
+      "english": "nevertheless, anyway",
+      "german": "trotzdem",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccc29e52-91c3-4cc7-864f-4728b17ac5a8",
+      "part-of-speech": "adverb",
+      "english": "otherwise, apart from that",
+      "german": "ansonsten",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63743a18-4251-4a8b-a210-6f38df3de6c0",
+      "part-of-speech": "adjective",
+      "english": "in terms of colour",
+      "german": "farblich",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ce0f393-1b5a-40e0-a2f9-bd50372425ff",
+      "part-of-speech": "adjective",
+      "english": "stuffy, square, narrow-minded",
+      "german": "spießig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bc91ac2-0d1f-40bf-b0c5-edb27b93ca70",
+      "part-of-speech": "adjective",
+      "english": "royal",
+      "german": "royal",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ec612e9-50e3-4a8b-b466-4af5b8ae5de7",
+      "part-of-speech": "adjective",
+      "english": "feminine",
+      "german": "feminin",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27205688-55e0-447e-b8c3-0785d64ecd8a",
+      "part-of-speech": "adjective",
+      "english": "iconic",
+      "german": "ikonisch",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c30489e0-a854-4a73-9e5f-ad948d85d821",
+      "part-of-speech": "adjective",
+      "english": "fitted, tailored at the waist",
+      "german": "tailliert",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "930855e0-9866-4876-9064-701516901f30",
+      "part-of-speech": "adjective",
+      "english": "knee-length",
+      "german": "knielang",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a8113f1-05e0-44f8-8856-66d75fcb01aa",
+      "part-of-speech": "adjective",
+      "english": "exciting",
+      "german": "aufregend",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "290b7d83-670f-46fc-a299-ceccea530fb1",
+      "part-of-speech": "adjective",
+      "english": "voluminous",
+      "german": "voluminös",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a9fc423-f5a9-487a-a30e-dd561bde4e87",
+      "part-of-speech": "adjective",
+      "english": "playful",
+      "german": "verspielt",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e98b0a2b-b571-4614-9d93-f5d3d6b99728",
+      "part-of-speech": "adjective",
+      "english": "old-fashioned",
+      "german": "altmodisch",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32bc61b7-acda-4217-8e2d-3cd4e15fb74a",
+      "part-of-speech": "adjective",
+      "english": "figure-hugging",
+      "german": "figurbetont",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "706ebb13-41ed-4908-93a7-a8da3f3168b0",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "german": "rosa",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4e40e5d-1089-45fe-a31c-15cbafa6b72f",
+      "part-of-speech": "adjective",
+      "english": "pink, pink-coloured",
+      "german": "rosafarben",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1097b312-eb94-4f5b-b1dc-ba4cc749950d",
+      "part-of-speech": "adjective",
+      "english": "keen to experiment, adventurous",
+      "german": "experimentierfreudig",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2da1ab5-b56d-4f8e-a8ee-c457406a4c26",
+      "part-of-speech": "noun",
+      "english": "blazer",
+      "german": "Blazer",
+      "gender": "masculine",
+      "plural": "Blazer",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5136bb67-8665-4839-996b-4f2db841734d",
+      "part-of-speech": "noun",
+      "english": "crown prince",
+      "german": "Kronprinz",
+      "gender": "masculine",
+      "plural": "Kronprinzen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa7ab308-7075-4c22-a1d4-430e8ab522b9",
+      "part-of-speech": "noun",
+      "english": "crown princess",
+      "german": "Kronprinzessin",
+      "gender": "feminine",
+      "plural": "Kronprinzessinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7eef5db-0cc8-4ebd-859a-f37fcd7aa126",
+      "part-of-speech": "noun",
+      "english": "heir to the throne",
+      "german": "Thronfolger",
+      "gender": "masculine",
+      "plural": "Thronfolger",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c39d903d-786e-43ad-b291-8bcdae063761",
+      "part-of-speech": "noun",
+      "english": "heir to the throne (female)",
+      "german": "Thronfolgerin",
+      "gender": "feminine",
+      "plural": "Thronfolgerinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d4112f3-a022-4ebd-9674-d975a5754949",
+      "part-of-speech": "noun",
+      "english": "royal, member of a royal family",
+      "german": "Royal",
+      "gender": "masculine",
+      "plural": "Royals",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ab06423-48c0-4501-881e-61e0d21da81c",
+      "part-of-speech": "noun",
+      "english": "fashion world",
+      "german": "Modewelt",
+      "gender": "feminine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fca55f9c-e3bf-4a62-baba-f6ceb6558e7a",
+      "part-of-speech": "noun",
+      "english": "trouser suit, pantsuit",
+      "german": "Hosenanzug",
+      "gender": "masculine",
+      "plural": "Hosenanzüge",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "332023cb-ce26-4735-9d73-b4effb944b1b",
+      "part-of-speech": "noun",
+      "english": "two-piece (outfit)",
+      "german": "Zweiteiler",
+      "gender": "masculine",
+      "plural": "Zweiteiler",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be83ad04-87f7-47a0-a8fb-1061206f13a3",
+      "part-of-speech": "noun",
+      "english": "pencil skirt",
+      "german": "Bleistiftrock",
+      "gender": "masculine",
+      "plural": "Bleistiftröcke",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb732ea5-9932-43a1-991a-a221f8049240",
+      "part-of-speech": "noun",
+      "english": "miniskirt",
+      "german": "Minirock",
+      "gender": "masculine",
+      "plural": "Miniröcke",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a848199a-f023-41a6-b31e-1f87bb765726",
+      "part-of-speech": "noun",
+      "english": "skirt length",
+      "german": "Rocklänge",
+      "gender": "feminine",
+      "plural": "Rocklängen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "590b7546-9014-4ea7-a7b8-1fdc6aa06a37",
+      "part-of-speech": "noun",
+      "english": "knee length",
+      "german": "Knielänge",
+      "gender": "feminine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef38627c-9a65-45ce-b951-3a4d43347fe5",
+      "part-of-speech": "noun",
+      "english": "silhouette",
+      "german": "Silhouette",
+      "gender": "feminine",
+      "plural": "Silhouetten",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a7bb425-d907-4712-b096-04de31a83e2e",
+      "part-of-speech": "noun",
+      "english": "puff sleeve",
+      "german": "Puffärmel",
+      "gender": "masculine",
+      "plural": "Puffärmel",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32e4d8d9-75b8-4a4b-9300-a2e272277508",
+      "part-of-speech": "noun",
+      "english": "embroidery",
+      "german": "Stickerei",
+      "gender": "feminine",
+      "plural": "Stickereien",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4277f4e8-09b5-4d59-901d-abcf866b0a47",
+      "part-of-speech": "noun",
+      "english": "hem",
+      "german": "Saum",
+      "gender": "masculine",
+      "plural": "Säume",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5aed997-f029-4cd5-992d-95a31db95e57",
+      "part-of-speech": "noun",
+      "english": "peplum",
+      "german": "Schößchen",
+      "gender": "neuter",
+      "plural": "Schößchen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90a4cc5d-2afe-4666-987a-395690380970",
+      "part-of-speech": "noun",
+      "english": "waist",
+      "german": "Taille",
+      "gender": "feminine",
+      "plural": "Taillen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8ba0368-337b-4d69-9077-30a0ef9eeafa",
+      "part-of-speech": "noun",
+      "english": "fit (of clothing)",
+      "german": "Passform",
+      "gender": "feminine",
+      "plural": "Passformen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c7d4604-6b09-40d5-92a1-420e4e82b6dc",
+      "part-of-speech": "noun",
+      "english": "floral appliqué",
+      "german": "Blumenapplikation",
+      "gender": "feminine",
+      "plural": "Blumenapplikationen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4bcd135-9402-44d4-b005-493321aa106c",
+      "part-of-speech": "noun",
+      "english": "decoration, ornament",
+      "german": "Verzierung",
+      "gender": "feminine",
+      "plural": "Verzierungen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef90b132-29b2-4c4b-bcd8-65c7fe8cdd88",
+      "part-of-speech": "noun",
+      "english": "tweed",
+      "german": "Tweed",
+      "gender": "masculine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c5d6350-dd39-4d4d-9e37-8cd2a17cda2f",
+      "part-of-speech": "noun",
+      "english": "look, style",
+      "german": "Look",
+      "gender": "masculine",
+      "plural": "Looks",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4925dd8-f2a8-4be0-a372-338130275af4",
+      "part-of-speech": "noun",
+      "english": "styling",
+      "german": "Styling",
+      "gender": "neuter",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cf2ba09-7c20-449c-9c95-209df7dec978",
+      "part-of-speech": "noun",
+      "english": "statement",
+      "german": "Statement",
+      "gender": "neuter",
+      "plural": "Statements",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "245fb6cc-4a14-4417-a0e2-c3cfbfe7644f",
+      "part-of-speech": "noun",
+      "english": "autumn season",
+      "german": "Herbstsaison",
+      "gender": "feminine",
+      "plural": "Herbstsaisons",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a736c04b-666a-4ce9-a993-eb14e9e601c1",
+      "part-of-speech": "noun",
+      "english": "powder pink",
+      "german": "Puderrosa",
+      "gender": "neuter",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e03d122a-a537-436b-bc61-31af11343ba9",
+      "part-of-speech": "noun",
+      "english": "burgundy (colour)",
+      "german": "Burgunderrot",
+      "gender": "neuter",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "227e4200-25e9-4cd3-b992-aedd41c950b5",
+      "part-of-speech": "noun",
+      "english": "stuffiness, narrow-mindedness",
+      "german": "Spießigkeit",
+      "gender": "feminine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4337e86d-7917-401d-a0d3-77810e154666",
+      "part-of-speech": "verb",
+      "english": "vote; coordinate, match",
+      "german": "abstimmen",
+      "cefr": "B2",
+      "context": "auf etwas abstimmen: to match/coordinate with something",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8c764a5-3328-4c26-a8f5-10bd4777e1d0",
+      "part-of-speech": "verb",
+      "english": "style",
+      "german": "stylen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff4fc86b-7ae7-4cf6-bee0-ad10bb27818d",
+      "part-of-speech": "verb",
+      "english": "jazz up, spice up",
+      "german": "aufpeppen",
+      "cefr": "C1",
+      "register": [
+        "umgangssprachlich"
+      ]
+    },
+    {
+      "id": "cc699c91-4d45-426e-b136-98048b08ca5d",
+      "part-of-speech": "noun",
+      "english": "district court",
+      "german": "Bezirksgericht",
+      "gender": "neuter",
+      "plural": "Bezirksgerichte",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ac3c88f-48bd-4278-93b4-6ae93513d35c",
+      "part-of-speech": "noun",
+      "english": "house arrest",
+      "german": "Hausarrest",
+      "gender": "masculine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2cb433e3-29c7-4407-ac12-8f4f275547c8",
+      "part-of-speech": "noun",
+      "english": "disillusionment, sobering realization",
+      "german": "Ernüchterung",
+      "gender": "feminine",
+      "plural": "Ernüchterungen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51ee42e7-09e5-4334-9fc7-228eb10149f0",
+      "part-of-speech": "noun",
+      "english": "defence lawyer (female); defender (female)",
+      "german": "Verteidigerin",
+      "gender": "feminine",
+      "plural": "Verteidigerinnen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd57d5b3-41c5-46e3-867d-94aa2317f1e1",
+      "part-of-speech": "noun",
+      "english": "public prosecutor (female)",
+      "german": "Staatsanwältin",
+      "gender": "feminine",
+      "plural": "Staatsanwältinnen",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d59e809-53bc-4ba5-ae2a-67398d06d1e6",
+      "part-of-speech": "noun",
+      "english": "alcohol test, breathalyser test",
+      "german": "Alkoholtest",
+      "gender": "masculine",
+      "plural": "Alkoholtests",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0480c41-038a-4342-9daf-1793db2d6ff4",
+      "part-of-speech": "noun",
+      "english": "drug test",
+      "german": "Drogentest",
+      "gender": "masculine",
+      "plural": "Drogentests",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e551994-cc91-4147-ae0f-2bd1a94ac2a5",
+      "part-of-speech": "noun",
+      "english": "test result",
+      "german": "Testergebnis",
+      "gender": "neuter",
+      "plural": "Testergebnisse",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bac81492-6e37-4670-97a8-79837bfde6af",
+      "part-of-speech": "noun",
+      "english": "mouthwash",
+      "german": "Mundwasser",
+      "gender": "neuter",
+      "plural": "Mundwässer",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61b657ad-15ac-4e79-8fd7-2f044dadcaf6",
+      "part-of-speech": "noun",
+      "english": "apple juice",
+      "german": "Apfelsaft",
+      "gender": "masculine",
+      "plural": "Apfelsäfte",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "142f31ea-4c6c-43a3-8ebd-594dd4274cdb",
+      "part-of-speech": "adjective",
+      "english": "top, highest, supreme",
+      "german": "oberste",
+      "cefr": "B2",
+      "context": "der Oberste Gerichtshof: the Supreme Court",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c75897d6-5e23-4f57-9493-2431d1ce564c",
+      "part-of-speech": "adjective",
+      "english": "close-meshed; close, tight (e.g. monitoring)",
+      "german": "engmaschig",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbfe9fbb-31d8-422d-9c59-218dbd107279",
+      "part-of-speech": "adverb",
+      "english": "recently",
+      "german": "kürzlich",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b21ad24f-6c55-4eca-9dba-eaab30b87544",
+      "part-of-speech": "adverb",
+      "english": "partly",
+      "german": "teils",
+      "cefr": "B2",
+      "context": "teils … teils: partly … partly",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32335651-10ef-4ad8-9a34-4b25959fde64",
+      "part-of-speech": "verb",
+      "english": "ferment",
+      "german": "fermentieren",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "970ae00e-edfa-40a1-96ac-84c14cc97611",
+      "part-of-speech": "verb",
+      "english": "offer",
+      "german": "anbieten",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45218bdf-89ac-4da8-b4a8-4b26a758dee9",
+      "part-of-speech": "verb",
+      "english": "follow up, press one's point; pursue",
+      "german": "nachsetzen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df0e2313-d721-40ba-8753-cd05c96fa932",
+      "part-of-speech": "verb",
+      "english": "win back, regain",
+      "german": "zurückgewinnen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54d71b86-3d32-4836-ab9a-70d73b34fdbe",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "german": "vielleicht",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7cf3f7c-78b0-45fa-bc53-463675060cee",
+      "part-of-speech": "adverb",
+      "english": "a bit, a little",
+      "german": "bisschen",
+      "cefr": "A1",
+      "context": "ein bisschen: a little, a bit",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd3abc00-0b6c-4651-8cdd-3eeb97605498",
+      "part-of-speech": "adverb",
+      "english": "sometime, at some point",
+      "german": "irgendwann",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c8cc1b4-68cd-43a8-860d-cfeaf867d95d",
+      "part-of-speech": "adverb",
+      "english": "thereupon, as a result",
+      "german": "daraufhin",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21b2cf47-6189-4372-847a-b5341d9516a8",
+      "part-of-speech": "adjective",
+      "english": "mocking, sarcastic",
+      "german": "spöttisch",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df0a8268-3e7e-4957-8a30-21787038a1ab",
+      "part-of-speech": "adjective",
+      "english": "competing, rival",
+      "german": "konkurrierend",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16b455d9-9e5b-4cc4-95cb-4623838a2ebf",
+      "part-of-speech": "noun",
+      "english": "TV programme, TV show",
+      "german": "Fernsehsendung",
+      "gender": "feminine",
+      "plural": "Fernsehsendungen",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfb51979-750e-4e4f-9405-b93496d0f36a",
+      "part-of-speech": "noun",
+      "english": "theme tune",
+      "german": "Titelmelodie",
+      "gender": "feminine",
+      "plural": "Titelmelodien",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d63a7cf0-de94-4fa1-a84c-6a233a8512ed",
+      "part-of-speech": "noun",
+      "english": "presenter, host (female)",
+      "german": "Moderatorin",
+      "gender": "feminine",
+      "plural": "Moderatorinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31d6d6dd-68e0-4083-941a-2da2d7f7b0c7",
+      "part-of-speech": "noun",
+      "english": "presenter's script",
+      "german": "Moderationstext",
+      "gender": "masculine",
+      "plural": "Moderationstexte",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc167307-1417-416f-b0eb-2439579e3aae",
+      "part-of-speech": "noun",
+      "english": "comedian",
+      "german": "Komiker",
+      "gender": "masculine",
+      "plural": "Komiker",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82f958ab-d7b0-491b-868f-e9e002402598",
+      "part-of-speech": "noun",
+      "english": "comedian (female)",
+      "german": "Komikerin",
+      "gender": "feminine",
+      "plural": "Komikerinnen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "089de7d4-f359-4923-af15-495c5561c099",
+      "part-of-speech": "noun",
+      "english": "applicant (female)",
+      "german": "Bewerberin",
+      "gender": "feminine",
+      "plural": "Bewerberinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af684b77-cd39-4b7a-8460-dde52e905619",
+      "part-of-speech": "noun",
+      "english": "teammate, fellow player (female)",
+      "german": "Mitspielerin",
+      "gender": "feminine",
+      "plural": "Mitspielerinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09f4e3c1-b044-4c95-a1d4-0dbfa64db5b7",
+      "part-of-speech": "noun",
+      "english": "wildcard (entry)",
+      "german": "Wildcard",
+      "gender": "feminine",
+      "plural": "Wildcards",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1e49d15-74ee-4d4d-b58a-c6847f36f960",
+      "part-of-speech": "noun",
+      "english": "murmur, murmuring",
+      "german": "Raunen",
+      "gender": "neuter",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6568bb73-c6cd-4b89-8281-26e660e9e22a",
+      "part-of-speech": "noun",
+      "english": "desk, lectern, console",
+      "german": "Pult",
+      "gender": "neuter",
+      "plural": "Pulte",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3eded86f-040c-48ea-8b00-17f37e626235",
+      "part-of-speech": "noun",
+      "english": "off-screen, off-camera",
+      "german": "Off",
+      "gender": "neuter",
+      "cefr": "C2",
+      "context": "aus dem Off: from off-camera (voice-over)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac11f164-2a9b-4934-bb91-7d4cc6f06c8c",
+      "part-of-speech": "noun",
+      "english": "spoiler",
+      "german": "Spoiler",
+      "gender": "masculine",
+      "plural": "Spoiler",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98ac144f-6fa9-4dd9-8406-40f5c9d94408",
+      "part-of-speech": "noun",
+      "english": "soundboard",
+      "german": "Soundboard",
+      "gender": "neuter",
+      "plural": "Soundboards",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "591733fb-d38d-4331-a82b-3cadec8194fe",
+      "part-of-speech": "verb",
+      "english": "frighten, scare; be startled",
+      "german": "erschrecken",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d484f183-3ad8-4514-b91e-af848b402256",
+      "part-of-speech": "verb",
+      "english": "calm (down), reassure",
+      "german": "beruhigen",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfad7eda-7213-4d97-b72a-4034b71e7ef8",
+      "part-of-speech": "verb",
+      "english": "get into, end up in (a situation)",
+      "german": "geraten",
+      "cefr": "B2",
+      "context": "in eine Situation geraten: to get into a situation",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfcca0bc-9d85-4e8b-ad54-df4f4bda4e2f",
+      "part-of-speech": "verb",
+      "english": "be scared, get the creeps",
+      "german": "gruseln",
+      "cefr": "C1",
+      "context": "sich gruseln / es gruselt mich: I get the creeps",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23f4aa0b-1375-4e10-9a7d-337a0144a6db",
+      "part-of-speech": "verb",
+      "english": "blur, become blurred",
+      "german": "verschwimmen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "200b7d55-809a-4412-8893-5b64f33d26eb",
+      "part-of-speech": "verb",
+      "english": "suffer along with, empathize",
+      "german": "mitleiden",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31298f03-4537-40f4-a7f1-fb9ebb972b57",
+      "part-of-speech": "verb",
+      "english": "dismiss, brush aside",
+      "german": "abtun",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85f4dcd4-65bd-4daf-9b2e-93edf993e611",
+      "part-of-speech": "verb",
+      "english": "mute",
+      "german": "stummschalten",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb38fed3-3d4c-495f-8fc8-6269f29dfc56",
+      "part-of-speech": "verb",
+      "english": "fast-forward",
+      "german": "vorspulen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68fc26db-4b09-4b67-abc8-d1e1826fb738",
+      "part-of-speech": "verb",
+      "english": "catch; cushion, absorb (e.g. emotions)",
+      "german": "auffangen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4e62a50-e80f-4485-8357-b458b949ac77",
+      "part-of-speech": "verb",
+      "english": "demystify, break the spell of",
+      "german": "entzaubern",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cef08564-4e14-46e6-b0a9-d0c4c8f9b402",
+      "part-of-speech": "adverb",
+      "english": "even; (one)self",
+      "german": "selbst",
+      "cefr": "A2",
+      "context": "selbst wenn: even if; ich selbst: I myself",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed742598-48fd-4c41-9f7a-b6b2e769b9c6",
+      "part-of-speech": "adverb",
+      "english": "at night",
+      "german": "nachts",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "254ebf2d-ff08-4b19-93bb-455151fe096d",
+      "part-of-speech": "adjective",
+      "english": "all the same, not mattering",
+      "german": "egal",
+      "cefr": "A2",
+      "context": "das ist mir egal: I don't care; egal wie: no matter how",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3176cb2f-a827-4f3c-a7da-00c6a5e81448",
+      "part-of-speech": "adjective",
+      "english": "age-appropriate",
+      "german": "altersgerecht",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9121b84f-9e7a-4f92-a314-54fe3d7dd7af",
+      "part-of-speech": "adjective",
+      "english": "disturbing",
+      "german": "verstörend",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0848c93-8190-4160-b218-eed2e102dc1d",
+      "part-of-speech": "adjective",
+      "english": "unpredictable",
+      "german": "unberechenbar",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d242e8b4-e560-45e7-8e88-46d1e5270931",
+      "part-of-speech": "adjective",
+      "english": "hopeless, with no way out",
+      "german": "ausweglos",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9c8fdb6-e0f9-4f40-9c74-373264c72a15",
+      "part-of-speech": "adjective",
+      "english": "irrational",
+      "german": "irrational",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96b12e03-e57f-4eec-b019-53f05be5fe98",
+      "part-of-speech": "adjective",
+      "english": "clumsy",
+      "german": "tollpatschig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01ff317b-cd33-4263-985c-bc1db569c6d1",
+      "part-of-speech": "noun",
+      "english": "happy ending",
+      "german": "Happy End",
+      "gender": "neuter",
+      "plural": "Happy Ends",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b992bbc6-407a-4559-b410-75d7199cf1e0",
+      "part-of-speech": "noun",
+      "english": "horror film",
+      "german": "Horrorfilm",
+      "gender": "masculine",
+      "plural": "Horrorfilme",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea11c79a-6df5-4e71-b4ac-9fb6842a570d",
+      "part-of-speech": "noun",
+      "english": "choice of film, film selection",
+      "german": "Filmauswahl",
+      "gender": "feminine",
+      "plural": "Filmauswahlen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6d54f2f-6640-4c85-97d8-244ab223e2d5",
+      "part-of-speech": "noun",
+      "english": "clip, video clip",
+      "german": "Clip",
+      "gender": "masculine",
+      "plural": "Clips",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8d37928-b302-4a9c-a6e2-23fd8702c23c",
+      "part-of-speech": "noun",
+      "english": "creepiness, horror, shudder",
+      "german": "Grusel",
+      "gender": "masculine",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f553940f-3281-4bf8-94d7-7495269a63ab",
+      "part-of-speech": "noun",
+      "english": "thrill, suspense",
+      "german": "Nervenkitzel",
+      "gender": "masculine",
+      "plural": "Nervenkitzel",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dfbf1d0-50db-4496-99d8-8ea09c25290a",
+      "part-of-speech": "noun",
+      "english": "media expert",
+      "german": "Medienexperte",
+      "gender": "masculine",
+      "plural": "Medienexperten",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d46459e-3331-4249-b242-7b9c4ab35f7a",
+      "part-of-speech": "noun",
+      "english": "media expert (female)",
+      "german": "Medienexpertin",
+      "gender": "feminine",
+      "plural": "Medienexpertinnen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8e1a508-f5ac-4421-b087-5493eee82440",
+      "part-of-speech": "noun",
+      "english": "parenting guide",
+      "german": "Elternratgeber",
+      "gender": "masculine",
+      "plural": "Elternratgeber",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05d97431-1892-43f5-bc7f-37b2f224b2e6",
+      "part-of-speech": "noun",
+      "english": "state agency, state central office",
+      "german": "Landeszentrale",
+      "gender": "feminine",
+      "plural": "Landeszentralen",
+      "cefr": "C2",
+      "context": "Landeszentrale für neue Medien: state media authority",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7124c1b-6077-485a-87fb-aec4caedde19",
+      "part-of-speech": "noun",
+      "english": "stage of development",
+      "german": "Entwicklungsstand",
+      "gender": "masculine",
+      "plural": "Entwicklungsstände",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c065cc25-f409-4a47-82bd-87c31938ce0e",
+      "part-of-speech": "noun",
+      "english": "primary school child",
+      "german": "Grundschulkind",
+      "gender": "neuter",
+      "plural": "Grundschulkinder",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d82159a-06d6-465b-8eb9-5622a2724336",
+      "part-of-speech": "noun",
+      "english": "being overwhelmed, excessive demands",
+      "german": "Überforderung",
+      "gender": "feminine",
+      "plural": "Überforderungen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a039c898-df4a-4d1c-96e9-f6fa76bce2cb",
+      "part-of-speech": "noun",
+      "english": "fear trigger",
+      "german": "Angstauslöser",
+      "gender": "masculine",
+      "plural": "Angstauslöser",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cf783ae-ffd3-462d-9f7d-79530dca86f6",
+      "part-of-speech": "noun",
+      "english": "stress trigger",
+      "german": "Stressauslöser",
+      "gender": "masculine",
+      "plural": "Stressauslöser",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe4016ea-f48b-4fbd-9f3c-7b4945ada5c2",
+      "part-of-speech": "noun",
+      "english": "fear of loss",
+      "german": "Verlustangst",
+      "gender": "feminine",
+      "plural": "Verlustängste",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5b1ee94-49b0-4869-9b7d-f62d8907eecf",
+      "part-of-speech": "noun",
+      "english": "camera cut, editing cut",
+      "german": "Kameraschnitt",
+      "gender": "masculine",
+      "plural": "Kameraschnitte",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd1d5506-08dd-4c62-81dd-f757cd4f275f",
+      "part-of-speech": "noun",
+      "english": "accompaniment, backdrop",
+      "german": "Untermalung",
+      "gender": "feminine",
+      "plural": "Untermalungen",
+      "cefr": "C2",
+      "context": "musikalische Untermalung: background music",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06d6f12b-3ca2-483b-b728-d65c6d103fc4",
+      "part-of-speech": "noun",
+      "english": "viewer, spectator (female)",
+      "german": "Zuschauerin",
+      "gender": "feminine",
+      "plural": "Zuschauerinnen",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb50aebc-09af-4b42-8b7a-81731956f684",
+      "part-of-speech": "noun",
+      "english": "favourite character",
+      "german": "Lieblingsfigur",
+      "gender": "feminine",
+      "plural": "Lieblingsfiguren",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dee986a-dd93-4606-8b81-58911c17c2de",
+      "part-of-speech": "noun",
+      "english": "monster hunter",
+      "german": "Monsterjäger",
+      "gender": "masculine",
+      "plural": "Monsterjäger",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0412e932-eb10-4379-bdb5-3eb800ff5249",
+      "part-of-speech": "noun",
+      "english": "spray",
+      "german": "Spray",
+      "gender": "neuter",
+      "plural": "Sprays",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49f7c8c0-0069-4922-a442-bb86caaa2d68",
+      "part-of-speech": "noun",
+      "english": "spray bottle",
+      "german": "Sprühflasche",
+      "gender": "feminine",
+      "plural": "Sprühflaschen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08249969-9a96-440b-b9ca-810c2c196889",
+      "part-of-speech": "noun",
+      "english": "bedside table, nightstand",
+      "german": "Nachttisch",
+      "gender": "masculine",
+      "plural": "Nachttische",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbc1e9fa-b104-461a-9c3a-88228f27b633",
+      "part-of-speech": "verb",
+      "english": "behave",
+      "german": "verhalten",
+      "cefr": "B1",
+      "context": "sich verhalten: to behave, act",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "feb6a95d-abfc-4846-8c93-4a2d70c2a724",
+      "part-of-speech": "adverb",
+      "english": "so, therefore; well",
+      "german": "also",
+      "cefr": "A1",
+      "context": "not 'also' in the English sense — that's auch",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff038b3b-6152-4170-93d1-c8e924c20367",
+      "part-of-speech": "adverb",
+      "english": "of course, naturally",
+      "german": "natürlich",
+      "cefr": "A1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6357ba62-288b-4b74-8609-1518e282f168",
+      "part-of-speech": "adverb",
+      "english": "rather, preferably",
+      "german": "lieber",
+      "cefr": "A1",
+      "context": "ich trinke lieber Tee: I prefer tea; lieber … als: rather … than",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b445a26-2472-492f-a214-92468fdcbd83",
+      "part-of-speech": "adverb",
+      "english": "overall, altogether, in total",
+      "german": "insgesamt",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa43dada-2f0c-4462-87cd-ed3e017efe96",
+      "part-of-speech": "adverb",
+      "english": "against it; by contrast, on the other hand",
+      "german": "dagegen",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28d0ba9d-08ca-42a1-8839-f890e3ec7212",
+      "part-of-speech": "verb",
+      "english": "blow-dry",
+      "german": "föhnen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ede5df21-042f-4eac-b20f-4993dda2eefd",
+      "part-of-speech": "verb",
+      "english": "drip",
+      "german": "tropfen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ae44875-5394-484a-922c-ba64c74170e0",
+      "part-of-speech": "verb",
+      "english": "strengthen",
+      "german": "kräftigen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd9d163c-ab24-4611-8298-cb2f1f5b289e",
+      "part-of-speech": "verb",
+      "english": "squeeze out, press out",
+      "german": "herausdrücken",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10c89d46-a1e5-4d3d-a3bb-02c687367f20",
+      "part-of-speech": "verb",
+      "english": "pull out",
+      "german": "herausziehen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e94d0f4-caf5-4a69-9f34-bc335367bb59",
+      "part-of-speech": "verb",
+      "english": "measure out, dose",
+      "german": "dosieren",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1b439e9-a4b2-4329-ba41-45541248f0ce",
+      "part-of-speech": "verb",
+      "english": "add more, top up",
+      "german": "nachlegen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ef18a30-c0ba-4f68-adcc-310c60c0ec21",
+      "part-of-speech": "verb",
+      "english": "stick together, clump",
+      "german": "verkleben",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0cea03b-fbf0-4ecf-96d5-b0279fcbc200",
+      "part-of-speech": "verb",
+      "english": "cool down",
+      "german": "auskühlen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5f2fc02-bdfa-4298-ac8a-26e48b056e35",
+      "part-of-speech": "adjective",
+      "english": "unbeatable",
+      "german": "unschlagbar",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3b9ec42-b233-41b6-81c9-a46b74828e9f",
+      "part-of-speech": "adjective",
+      "english": "dead easy, child's play",
+      "german": "kinderleicht",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2520974d-c09f-45ef-95f4-ada048450217",
+      "part-of-speech": "adjective",
+      "english": "towel-dried",
+      "german": "handtuchtrocken",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2314cc0-a82e-4ce5-90c3-bee8efe9ad9e",
+      "part-of-speech": "noun",
+      "english": "foam, froth, lather",
+      "german": "Schaum",
+      "gender": "masculine",
+      "plural": "Schäume",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7faa5c3-fd0e-435f-b864-dc0c0c18829e",
+      "part-of-speech": "noun",
+      "english": "hair mousse, styling foam",
+      "german": "Haarschaum",
+      "gender": "masculine",
+      "plural": "Haarschäume",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28dc56b5-425d-4a24-bd09-2effc1d69831",
+      "part-of-speech": "noun",
+      "english": "mousse",
+      "german": "Mousse",
+      "gender": "feminine",
+      "plural": "Mousses",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21632d51-5cbf-4937-90dd-3115cbeeea6e",
+      "part-of-speech": "noun",
+      "english": "hairspray",
+      "german": "Haarspray",
+      "gender": "neuter",
+      "plural": "Haarsprays",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "896d3461-0ade-4bc9-bb67-3677314767a5",
+      "part-of-speech": "noun",
+      "english": "styling product",
+      "german": "Stylingprodukt",
+      "gender": "neuter",
+      "plural": "Stylingprodukte",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5545dc0f-b82e-4490-a40e-7dcc4fedcfa3",
+      "part-of-speech": "noun",
+      "english": "scalp",
+      "german": "Kopfhaut",
+      "gender": "feminine",
+      "plural": "Kopfhäute",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ade65604-add5-4950-8060-96406c47126e",
+      "part-of-speech": "noun",
+      "english": "scalp care",
+      "german": "Kopfhautpflege",
+      "gender": "feminine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "125600a7-9c61-40c7-8532-78ac77cdfbe4",
+      "part-of-speech": "noun",
+      "english": "hair root",
+      "german": "Haarwurzel",
+      "gender": "feminine",
+      "plural": "Haarwurzeln",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e61a74c-9f8d-4f86-8b0c-cfd3b2a0f60a",
+      "part-of-speech": "noun",
+      "english": "section of hair",
+      "german": "Haarpartie",
+      "gender": "feminine",
+      "plural": "Haarpartien",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98cbba07-9c88-456d-992b-ff457e75bfcc",
+      "part-of-speech": "noun",
+      "english": "parting (in hair)",
+      "german": "Scheitel",
+      "gender": "masculine",
+      "plural": "Scheitel",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16754c7c-1ba7-43fb-b2d3-6ed1ba45cf9d",
+      "part-of-speech": "noun",
+      "english": "frizz",
+      "german": "Frizz",
+      "gender": "masculine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33f64b17-03d7-4365-a973-c3fbb7f50026",
+      "part-of-speech": "noun",
+      "english": "blow-dried hairstyle",
+      "german": "Föhnfrisur",
+      "gender": "feminine",
+      "plural": "Föhnfrisuren",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe8984ea-22bb-42a7-8617-efe0f8ce2885",
+      "part-of-speech": "noun",
+      "english": "blow-drying technique",
+      "german": "Föhntechnik",
+      "gender": "feminine",
+      "plural": "Föhntechniken",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7512ecf2-ea81-45b1-88ba-4826dba480e5",
+      "part-of-speech": "noun",
+      "english": "round brush",
+      "german": "Rundbürste",
+      "gender": "feminine",
+      "plural": "Rundbürsten",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67945947-8cce-42c6-9ffc-103ef64ff701",
+      "part-of-speech": "noun",
+      "english": "airflow, stream of air",
+      "german": "Luftstrom",
+      "gender": "masculine",
+      "plural": "Luftströme",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbeec5d8-e5be-4c5a-a7cf-a3c8b4264d2b",
+      "part-of-speech": "noun",
+      "english": "cool-air setting",
+      "german": "Kaltluftstufe",
+      "gender": "feminine",
+      "plural": "Kaltluftstufen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db15a448-c828-43fb-82c9-f1a57d0cfc28",
+      "part-of-speech": "noun",
+      "english": "pump (of a dispenser)",
+      "german": "Pumpstoß",
+      "gender": "masculine",
+      "plural": "Pumpstöße",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79edd38a-6223-438d-9d4e-9c0d51acb15b",
+      "part-of-speech": "noun",
+      "english": "extract",
+      "german": "Extrakt",
+      "gender": "masculine",
+      "plural": "Extrakte",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eabb4612-4d9e-4a5d-ae8f-6471abd4e79e",
+      "part-of-speech": "noun",
+      "english": "gooseberry",
+      "german": "Stachelbeere",
+      "gender": "feminine",
+      "plural": "Stachelbeeren",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3374c76-6734-474d-ac7a-37c93ed20483",
+      "part-of-speech": "adverb",
+      "english": "almost, nearly",
+      "german": "fast",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94b21cfd-f033-4bf8-9f1f-c9a5261227ef",
+      "part-of-speech": "adverb",
+      "english": "besides, in addition, furthermore",
+      "german": "außerdem",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bb70305-7377-46e3-a25b-e485ae3c7c5d",
+      "part-of-speech": "adverb",
+      "english": "long since, for a long time",
+      "german": "längst",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aadf2eb-267c-4e46-bdfd-eb63d25fe29f",
+      "part-of-speech": "adverb",
+      "english": "all the more",
+      "german": "umso",
+      "cefr": "B2",
+      "context": "umso besser: all the better; je … umso: the … the",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "499aeacd-26aa-4d14-9ff1-8e2da9d5114f",
+      "part-of-speech": "adjective",
+      "english": "wrong; the wrong way round",
+      "german": "verkehrt",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c35f69c0-94e6-4501-b6e8-cac8582ca36d",
+      "part-of-speech": "adjective",
+      "english": "flowing; fluent",
+      "german": "fließend",
+      "cefr": "B1",
+      "context": "fließend Deutsch sprechen: to speak German fluently",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "330b99af-6092-4774-908e-cd4c67434e88",
+      "part-of-speech": "adjective",
+      "english": "velvety",
+      "german": "samtig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58618d09-3acc-4842-81ed-0d246cba88f9",
+      "part-of-speech": "adjective",
+      "english": "high-quality, premium",
+      "german": "wertig",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87425565-c015-4699-b8e3-eb86d8e6b550",
+      "part-of-speech": "adjective",
+      "english": "clunky, chunky",
+      "german": "klobig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f5ba4c0-8f2d-4c80-a80c-a40b58d75b59",
+      "part-of-speech": "adjective",
+      "english": "masculine",
+      "german": "maskulin",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3de58b60-9445-4c1f-8787-66595d197f03",
+      "part-of-speech": "verb",
+      "english": "apply (e.g. cream, make-up); serve",
+      "german": "auftragen",
+      "cefr": "B2",
+      "context": "of clothing, dick auftragen: to look bulky",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f17a4709-9804-4d22-b9b2-0457cd121054",
+      "part-of-speech": "verb",
+      "english": "loosen up, liven up, break up",
+      "german": "auflockern",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c8e0435-b8f1-4526-ac06-70c7501b6909",
+      "part-of-speech": "verb",
+      "english": "roll up (sleeves, trouser legs)",
+      "german": "hochkrempeln",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2664b8fe-e6f7-41b8-ad73-27b2bb809cce",
+      "part-of-speech": "noun",
+      "english": "tip, point; top, peak",
+      "german": "Spitze",
+      "gender": "feminine",
+      "plural": "Spitzen",
+      "cefr": "A2",
+      "context": "die Spitzen (der Haare): the ends of the hair",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6f2beb9-d71c-4043-82f3-fe9e3dbc7706",
+      "part-of-speech": "noun",
+      "english": "lace",
+      "german": "Spitze",
+      "gender": "feminine",
+      "plural": "Spitzen",
+      "cefr": "B2",
+      "context": "fabric",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8828b480-fc2d-4b79-a960-595a8b778696",
+      "part-of-speech": "noun",
+      "english": "sock",
+      "german": "Socke",
+      "gender": "feminine",
+      "plural": "Socken",
+      "cefr": "A2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d4d5b84-39d8-410e-9f2e-0bee670daef5",
+      "part-of-speech": "noun",
+      "english": "ankle sock, little sock",
+      "german": "Söckchen",
+      "gender": "neuter",
+      "plural": "Söckchen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "436cee4b-455f-4150-972e-f4659f9be7f7",
+      "part-of-speech": "noun",
+      "english": "ankle; knuckle",
+      "german": "Knöchel",
+      "gender": "masculine",
+      "plural": "Knöchel",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5aa1264c-f50a-4605-9638-c94160811923",
+      "part-of-speech": "noun",
+      "english": "sports shoe, trainer, sneaker",
+      "german": "Sportschuh",
+      "gender": "masculine",
+      "plural": "Sportschuhe",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "073a7b0b-15de-4e62-9edb-f363c378861f",
+      "part-of-speech": "noun",
+      "english": "training shoe",
+      "german": "Trainingsschuh",
+      "gender": "masculine",
+      "plural": "Trainingsschuhe",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec81278a-2648-4978-b632-12f10cb4720d",
+      "part-of-speech": "noun",
+      "english": "dress shoe",
+      "german": "Anzugschuh",
+      "gender": "masculine",
+      "plural": "Anzugschuhe",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d4d9f6d-35db-4ac9-b993-fb275ba2b18a",
+      "part-of-speech": "noun",
+      "english": "loafer (shoe)",
+      "german": "Loafer",
+      "gender": "masculine",
+      "plural": "Loafer",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9836d69d-b17c-455f-a941-e59c98c84f87",
+      "part-of-speech": "noun",
+      "english": "ballet flat; ballerina",
+      "german": "Ballerina",
+      "gender": "feminine",
+      "plural": "Ballerinas",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6362cd96-b614-4e6c-8a8c-08f27d069b3b",
+      "part-of-speech": "noun",
+      "english": "upper (of a shoe)",
+      "german": "Obermaterial",
+      "gender": "neuter",
+      "plural": "Obermaterialien",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "999421b5-68fb-4d9c-84c0-a8ec26f5ad1d",
+      "part-of-speech": "noun",
+      "english": "suede, velour leather",
+      "german": "Velours",
+      "gender": "neuter",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18f66c88-15df-48e9-abe3-1b6754550eb9",
+      "part-of-speech": "noun",
+      "english": "suede",
+      "german": "Wildleder",
+      "gender": "neuter",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bce3f86-340c-42e4-857e-76b1b465373a",
+      "part-of-speech": "noun",
+      "english": "satin",
+      "german": "Satin",
+      "gender": "masculine",
+      "plural": "Satins",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d01ec3da-93e6-4829-ab10-9caece076097",
+      "part-of-speech": "noun",
+      "english": "fine knit",
+      "german": "Feinstrick",
+      "gender": "masculine",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39892c91-8689-4850-a256-65f2285a270d",
+      "part-of-speech": "noun",
+      "english": "business attire",
+      "german": "Businesskleidung",
+      "gender": "feminine",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e91cb35-ce93-4aab-bbfc-4863867c1e53",
+      "part-of-speech": "noun",
+      "english": "leggings",
+      "german": "Leggings",
+      "gender": "feminine",
+      "plural": "Leggings",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bbaf6e6-2f99-4442-bdff-71a30a58b2b9",
+      "part-of-speech": "noun",
+      "english": "capri pants",
+      "german": "Caprihose",
+      "gender": "feminine",
+      "plural": "Caprihosen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fdeeba9-c348-44ac-b820-4fcb70dc7215",
+      "part-of-speech": "noun",
+      "english": "trouser hem",
+      "german": "Hosensaum",
+      "gender": "masculine",
+      "plural": "Hosensäume",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a4d3998-9df0-4dd2-93b5-16c889298a0a",
+      "part-of-speech": "noun",
+      "english": "pleated skirt",
+      "german": "Plisseerock",
+      "gender": "masculine",
+      "plural": "Plisseeröcke",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36a10908-2f29-4447-8b41-6c17fb28dcfe",
+      "part-of-speech": "noun",
+      "english": "cardigan",
+      "german": "Strickjacke",
+      "gender": "feminine",
+      "plural": "Strickjacken",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2b05350-0b81-4354-90b2-b3ec81cf5062",
+      "part-of-speech": "noun",
+      "english": "cardigan",
+      "german": "Cardigan",
+      "gender": "masculine",
+      "plural": "Cardigans",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05d6b542-2e7b-47d5-9f7a-637e1b36339d",
+      "part-of-speech": "noun",
+      "english": "wrap cardigan, wrap top",
+      "german": "Wickeljacke",
+      "gender": "feminine",
+      "plural": "Wickeljacken",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6abee77-c855-4d1e-a3ea-2a45491623fa",
+      "part-of-speech": "noun",
+      "english": "bodysuit",
+      "german": "Body",
+      "gender": "masculine",
+      "plural": "Bodys",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9636819a-09a1-40f3-9386-609272f6e5eb",
+      "part-of-speech": "noun",
+      "english": "silk scarf",
+      "german": "Seidenschal",
+      "gender": "masculine",
+      "plural": "Seidenschals",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7eaf4c7-d412-4485-a5a4-fae9ddd39068",
+      "part-of-speech": "noun",
+      "english": "ruffle, frill",
+      "german": "Rüsche",
+      "gender": "feminine",
+      "plural": "Rüschen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f56ff0cc-6389-4974-a4d0-40dcdf9fd029",
+      "part-of-speech": "noun",
+      "english": "glitter, sparkle",
+      "german": "Glitzer",
+      "gender": "masculine",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51df22ca-7b68-42be-ab6d-5adf5b163bac",
+      "part-of-speech": "noun",
+      "english": "hair bow",
+      "german": "Haarschleife",
+      "gender": "feminine",
+      "plural": "Haarschleifen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc8eabe9-6100-4a78-bc61-7b97f56324d9",
+      "part-of-speech": "noun",
+      "english": "shoulder bag",
+      "german": "Schultertasche",
+      "gender": "feminine",
+      "plural": "Schultertaschen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80218aa0-cfcf-478d-8d7f-61e7dbf39673",
+      "part-of-speech": "noun",
+      "english": "lipstick",
+      "german": "Lippenstift",
+      "gender": "masculine",
+      "plural": "Lippenstifte",
+      "cefr": "B1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "566d3f1f-3828-4b52-84b5-aff1e6dcd968",
+      "part-of-speech": "noun",
+      "english": "champagne",
+      "german": "Champagner",
+      "gender": "masculine",
+      "plural": "Champagner",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "995295c1-2df8-4b6d-9968-b6aa6afa12e2",
+      "part-of-speech": "noun",
+      "english": "vintage (style)",
+      "german": "Vintage",
+      "gender": "neuter",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54f1ea29-def0-4870-a2be-df1c5ba5b597",
+      "part-of-speech": "noun",
+      "english": "all-rounder",
+      "german": "Allrounder",
+      "gender": "masculine",
+      "plural": "Allrounder",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3703d817-e075-4426-911b-124ccf034f02",
+      "part-of-speech": "noun",
+      "english": "dance studio",
+      "german": "Tanzstudio",
+      "gender": "neuter",
+      "plural": "Tanzstudios",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89422be6-e99e-4df6-a2f8-a5cf3920c7b0",
+      "part-of-speech": "noun",
+      "english": "counterpoint, opposite pole",
+      "german": "Gegenpol",
+      "gender": "masculine",
+      "plural": "Gegenpole",
       "cefr": "C1",
       "register": [
         "All"
