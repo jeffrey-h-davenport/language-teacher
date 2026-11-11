@@ -1,0 +1,6623 @@
+{
+  "meta": {
+    "language": "Norwegian",
+    "languageCode": "no",
+    "nativeLanguage": "English",
+    "targetField": "norwegian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "083fab8e-5085-4874-8650-09e596ea9cd3",
+      "part-of-speech": "noun",
+      "english": "man",
+      "norwegian": "mann",
+      "gender": "masculine",
+      "plural": "menn",
+      "cefr": "A1",
+      "ipa": "[mɑnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15fe2791-c292-42da-a026-2e26b7417dd7",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "norwegian": "kvinne",
+      "gender": "feminine",
+      "plural": "kvinner",
+      "cefr": "A1",
+      "ipa": "[²kʋɪnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb8ef479-77f9-4851-a8db-eeb2e91eb403",
+      "part-of-speech": "noun",
+      "english": "child",
+      "norwegian": "barn",
+      "gender": "neuter",
+      "plural": "barn",
+      "cefr": "A1",
+      "ipa": "[bɑːɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35175a33-4a4b-407c-9eed-3726479374d1",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "norwegian": "gutt",
+      "gender": "masculine",
+      "plural": "gutter",
+      "cefr": "A1",
+      "ipa": "[ɡʉt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3987b0d2-5469-46d2-85b7-dd312201082a",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "norwegian": "jente",
+      "gender": "feminine",
+      "plural": "jenter",
+      "cefr": "A1",
+      "ipa": "[²jɛntə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ea4de6e-356e-4fa2-b087-bbc1ca2b03e5",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "norwegian": "baby",
+      "gender": "masculine",
+      "plural": "babyer",
+      "cefr": "A1",
+      "ipa": "[ˈbeːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "239cd1d1-a9bd-4be5-84f7-83601ae9c7f6",
+      "part-of-speech": "noun",
+      "english": "person",
+      "norwegian": "person",
+      "gender": "masculine",
+      "plural": "personer",
+      "cefr": "A1",
+      "ipa": "[pæˈʂuːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90ad42f0-4a66-4750-bd82-a51a573b5f51",
+      "part-of-speech": "noun",
+      "english": "human being, person",
+      "norwegian": "menneske",
+      "gender": "neuter",
+      "plural": "mennesker",
+      "cefr": "A2",
+      "ipa": "[²mɛnːəskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05cda53e-02dc-47b8-899f-6cab93597d38",
+      "part-of-speech": "noun",
+      "english": "father",
+      "norwegian": "far",
+      "gender": "masculine",
+      "plural": "fedre",
+      "cefr": "A1",
+      "ipa": "[fɑːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a8704f1-d270-4884-83a3-bd5a8ee26a15",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "norwegian": "mor",
+      "gender": "feminine",
+      "plural": "mødre",
+      "cefr": "A1",
+      "ipa": "[muːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de7224e8-a29b-47bd-a3f9-6fb6cf3f7570",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "norwegian": "foreldre",
+      "gender": "masculine",
+      "plural": "foreldre",
+      "cefr": "A1",
+      "ipa": "[fɔˈɾɛldɾə]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f929bc4-2f8e-47c7-89d1-df64b2ea8352",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "norwegian": "bror",
+      "gender": "masculine",
+      "plural": "brødre",
+      "cefr": "A1",
+      "ipa": "[bɾuːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "469359d7-9d5b-41b9-83ca-2a2ae3d4377c",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "norwegian": "søster",
+      "gender": "feminine",
+      "plural": "søstre",
+      "cefr": "A1",
+      "ipa": "[ˈsœstəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f651ad40-d7de-4bf9-b4de-7f85e6e8bb6b",
+      "part-of-speech": "noun",
+      "english": "son",
+      "norwegian": "sønn",
+      "gender": "masculine",
+      "plural": "sønner",
+      "cefr": "A1",
+      "ipa": "[sœnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d1c615a-9876-4b20-8cdd-dd3a17c50a27",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "norwegian": "datter",
+      "gender": "feminine",
+      "plural": "døtre",
+      "cefr": "A1",
+      "ipa": "[ˈdɑtːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3adb99bf-f4b1-4764-961a-b81baed7c1f8",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "norwegian": "bestefar",
+      "gender": "masculine",
+      "plural": "bestefedre",
+      "cefr": "A1",
+      "ipa": "[²bɛstəˌfɑːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca89c4df-c4ed-4d11-b97d-0a0b507f41c5",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "norwegian": "bestemor",
+      "gender": "feminine",
+      "plural": "bestemødre",
+      "cefr": "A1",
+      "ipa": "[²bɛstəˌmuːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d58c15bd-604e-47ed-86bf-e1067decc77a",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "norwegian": "onkel",
+      "gender": "masculine",
+      "plural": "onkler",
+      "cefr": "A2",
+      "ipa": "[ˈʊŋkəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65697066-5b1f-4391-ac80-4014cfc489e2",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "norwegian": "tante",
+      "gender": "feminine",
+      "plural": "tanter",
+      "cefr": "A2",
+      "ipa": "[²tɑntə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b9d3386-00f9-47b8-ba40-aea24df9cb47",
+      "part-of-speech": "noun",
+      "english": "family",
+      "norwegian": "familie",
+      "gender": "masculine",
+      "plural": "familier",
+      "cefr": "A1",
+      "ipa": "[fɑˈmiːli̯ə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c93de86-85e1-4e29-af36-bbedc877acc5",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "norwegian": "venn",
+      "gender": "masculine",
+      "plural": "venner",
+      "cefr": "A1",
+      "ipa": "[vɛnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f416f449-2ae4-40de-95c5-e26844174729",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "norwegian": "venninne",
+      "gender": "feminine",
+      "plural": "venninner",
+      "cefr": "A1",
+      "ipa": "[vɛˈnɪnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bfcef82-6952-42dd-acf6-e8700b1aa15b",
+      "part-of-speech": "noun",
+      "english": "boyfriend, girlfriend",
+      "norwegian": "kjæreste",
+      "gender": "masculine",
+      "plural": "kjærester",
+      "cefr": "A2",
+      "ipa": "[²çæːɾəstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68f0beab-9136-4c80-b49f-956abd1fc01f",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "norwegian": "nabo",
+      "gender": "masculine",
+      "plural": "naboer",
+      "cefr": "A2",
+      "ipa": "[²nɑːbʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf5e48a4-9d63-4a30-9ca4-ab81c2d07142",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "norwegian": "kollega",
+      "gender": "masculine",
+      "plural": "kolleger",
+      "cefr": "A2",
+      "ipa": "[kʊˈleːɡɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a10c0cb1-ae45-4913-ba61-b7518fb6c9d6",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "norwegian": "lærer",
+      "gender": "masculine",
+      "plural": "lærere",
+      "cefr": "A1",
+      "ipa": "[²læːɾəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3f0a53b-3ccc-4bd1-93a0-ae32edfb8ac2",
+      "part-of-speech": "noun",
+      "english": "student",
+      "norwegian": "student",
+      "gender": "masculine",
+      "plural": "studenter",
+      "cefr": "A1",
+      "ipa": "[stʉˈdɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41fc6330-8e12-4c4a-b25b-b609702e0344",
+      "part-of-speech": "noun",
+      "english": "pupil",
+      "norwegian": "elev",
+      "gender": "masculine",
+      "plural": "elever",
+      "cefr": "A1",
+      "ipa": "[eˈleːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e3ee624-e26a-4bf0-b077-5f9ab94c78a4",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "norwegian": "lege",
+      "gender": "masculine",
+      "plural": "leger",
+      "cefr": "A1",
+      "ipa": "[²leːɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d348d6cf-d37b-4906-8e2a-383c649c16bd",
+      "part-of-speech": "noun",
+      "english": "name",
+      "norwegian": "navn",
+      "gender": "neuter",
+      "plural": "navn",
+      "cefr": "A1",
+      "ipa": "[nɑʋn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d17e078f-f492-4580-93b4-3b0e8a61372b",
+      "part-of-speech": "noun",
+      "english": "age",
+      "norwegian": "alder",
+      "gender": "masculine",
+      "plural": "aldre",
+      "cefr": "A2",
+      "ipa": "[ˈɑldəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96eb9be6-a166-4ae2-baf9-78f957c26dd1",
+      "part-of-speech": "noun",
+      "english": "time",
+      "norwegian": "tid",
+      "gender": "feminine",
+      "plural": "tider",
+      "cefr": "A1",
+      "ipa": "[tiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52410d81-4de0-441d-8c68-d722abb6794d",
+      "part-of-speech": "noun",
+      "english": "day",
+      "norwegian": "dag",
+      "gender": "masculine",
+      "plural": "dager",
+      "cefr": "A1",
+      "ipa": "[dɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ce2aa82-7fbb-4e43-b389-e38509949eae",
+      "part-of-speech": "noun",
+      "english": "week",
+      "norwegian": "uke",
+      "gender": "feminine",
+      "plural": "uker",
+      "cefr": "A1",
+      "ipa": "[²ʉːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fc44414-6351-4d89-b023-b497848ddb63",
+      "part-of-speech": "noun",
+      "english": "month",
+      "norwegian": "måned",
+      "gender": "masculine",
+      "plural": "måneder",
+      "cefr": "A1",
+      "ipa": "[ˈmoːnət]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77c7d292-dde0-4303-9157-e9cdeea64e43",
+      "part-of-speech": "noun",
+      "english": "year",
+      "norwegian": "år",
+      "gender": "neuter",
+      "plural": "år",
+      "cefr": "A1",
+      "ipa": "[oːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25654ea2-a20a-43d0-9f7c-4ae9842f767a",
+      "part-of-speech": "noun",
+      "english": "hour; lesson; appointment",
+      "norwegian": "time",
+      "gender": "masculine",
+      "plural": "timer",
+      "cefr": "A1",
+      "ipa": "[²tiːmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ba8101e-d4ef-47c2-b1ac-be2984675c30",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "norwegian": "minutt",
+      "gender": "neuter",
+      "plural": "minutter",
+      "cefr": "A1",
+      "ipa": "[mɪˈnʉt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4058d0b1-1e84-4f14-8372-e9cde8c32b19",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "norwegian": "morgen",
+      "gender": "masculine",
+      "plural": "morgener",
+      "cefr": "A1",
+      "ipa": "[mɔːɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0a34d16-2437-4f63-ba37-2374f4b699ee",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "norwegian": "ettermiddag",
+      "gender": "masculine",
+      "plural": "ettermiddager",
+      "cefr": "A1",
+      "ipa": "[²ɛtːəɾmɪˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "371c9e76-b592-4cf2-bb86-30dc4bfcef50",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "norwegian": "kveld",
+      "gender": "masculine",
+      "plural": "kvelder",
+      "cefr": "A1",
+      "ipa": "[kʋɛlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "069e4e2e-7975-4ccb-af13-dd5a27f03521",
+      "part-of-speech": "noun",
+      "english": "night",
+      "norwegian": "natt",
+      "gender": "feminine",
+      "plural": "netter",
+      "cefr": "A1",
+      "ipa": "[nɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b7a7a82-39b6-4bec-bc01-8e11374e3897",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "norwegian": "helg",
+      "gender": "feminine",
+      "plural": "helger",
+      "cefr": "A1",
+      "ipa": "[hɛlɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f7dcc4c-11c8-4d7b-95d2-47fc71c60de5",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "norwegian": "mandag",
+      "gender": "masculine",
+      "plural": "mandager",
+      "cefr": "A1",
+      "ipa": "[²mɑnˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c85e8d5-3c49-4e1b-9a8b-1d7367aee1e3",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "norwegian": "tirsdag",
+      "gender": "masculine",
+      "plural": "tirsdager",
+      "cefr": "A1",
+      "ipa": "[²tiːʂˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10434608-6e73-436f-9536-b4194e1e3b5b",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "norwegian": "onsdag",
+      "gender": "masculine",
+      "plural": "onsdager",
+      "cefr": "A1",
+      "ipa": "[²ʊnsˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd0ef4f0-b4b3-4392-8a07-8c7313007830",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "norwegian": "torsdag",
+      "gender": "masculine",
+      "plural": "torsdager",
+      "cefr": "A1",
+      "ipa": "[²tuːʂˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c94b051b-c1d7-4a89-9170-19c9aa2bdf21",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "norwegian": "fredag",
+      "gender": "masculine",
+      "plural": "fredager",
+      "cefr": "A1",
+      "ipa": "[²fɾeːˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6022441-3f03-44a5-baa6-6791353cc10c",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "norwegian": "lørdag",
+      "gender": "masculine",
+      "plural": "lørdager",
+      "cefr": "A1",
+      "ipa": "[²lœːˌɖɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5391cbc8-42a0-468a-a08e-bad685254d97",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "norwegian": "søndag",
+      "gender": "masculine",
+      "plural": "søndager",
+      "cefr": "A1",
+      "ipa": "[²sœnˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1edf094-251b-4d9b-9d41-fe7a7a91ff9f",
+      "part-of-speech": "noun",
+      "english": "January",
+      "norwegian": "januar",
+      "cefr": "A1",
+      "ipa": "[ˈjɑnʉˌɑːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e7d439e-5a28-4e4b-956e-54f3325b38a6",
+      "part-of-speech": "noun",
+      "english": "February",
+      "norwegian": "februar",
+      "cefr": "A1",
+      "ipa": "[ˈfeːbɾʉˌɑːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edd77476-03b9-4436-81cd-042cfb92163e",
+      "part-of-speech": "noun",
+      "english": "March",
+      "norwegian": "mars",
+      "cefr": "A1",
+      "ipa": "[mɑʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f515820-d9f1-4c66-8ce6-72dc47f6b8fc",
+      "part-of-speech": "noun",
+      "english": "April",
+      "norwegian": "april",
+      "cefr": "A1",
+      "ipa": "[ɑˈpɾiːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64ba038a-ebba-4fd0-a59d-12e836856568",
+      "part-of-speech": "noun",
+      "english": "May",
+      "norwegian": "mai",
+      "cefr": "A1",
+      "ipa": "[mɑɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08054d12-48be-4e76-b70e-9247410ae90b",
+      "part-of-speech": "noun",
+      "english": "June",
+      "norwegian": "juni",
+      "cefr": "A1",
+      "ipa": "[ˈjʉːni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a34c28e-61fb-4333-b3a2-b3e9430fdb26",
+      "part-of-speech": "noun",
+      "english": "July",
+      "norwegian": "juli",
+      "cefr": "A1",
+      "ipa": "[ˈjʉːli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a47d58d-2890-40ef-8225-6df0b0c4be0d",
+      "part-of-speech": "noun",
+      "english": "August",
+      "norwegian": "august",
+      "cefr": "A1",
+      "ipa": "[æʉˈɡʉst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44dc1cb4-49f6-4eb8-8fcf-5fc5e32cd918",
+      "part-of-speech": "noun",
+      "english": "September",
+      "norwegian": "september",
+      "cefr": "A1",
+      "ipa": "[sɛpˈtɛmbəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21b8efb2-beb9-4540-988a-65690f5d0f26",
+      "part-of-speech": "noun",
+      "english": "October",
+      "norwegian": "oktober",
+      "cefr": "A1",
+      "ipa": "[ɔkˈtuːbəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bd301d3-050c-437e-9a28-a80470aaacc6",
+      "part-of-speech": "noun",
+      "english": "November",
+      "norwegian": "november",
+      "cefr": "A1",
+      "ipa": "[nʊˈʋɛmbəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "280526a2-a82f-410e-9bfe-c9a2d92f3214",
+      "part-of-speech": "noun",
+      "english": "December",
+      "norwegian": "desember",
+      "cefr": "A1",
+      "ipa": "[deˈsɛmbəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9be3cac-c712-41fd-9827-05e08f47a0e1",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "norwegian": "vår",
+      "gender": "masculine",
+      "plural": "vårer",
+      "cefr": "A2",
+      "ipa": "[voːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "918b09ef-ee72-4210-a6f4-80a3cbb27693",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "norwegian": "sommer",
+      "gender": "masculine",
+      "plural": "somrer",
+      "cefr": "A2",
+      "ipa": "[ˈsɔmːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a31869a6-ec94-4d3c-8135-e31b04304cb1",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "norwegian": "høst",
+      "gender": "masculine",
+      "plural": "høster",
+      "cefr": "A2",
+      "ipa": "[høst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00103de5-be59-4e6d-8872-17520349036c",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "norwegian": "vinter",
+      "gender": "masculine",
+      "plural": "vintrer",
+      "cefr": "A2",
+      "ipa": "[ˈʋɪntəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d88d69f3-ad37-4b5c-9055-f3d813dcd06d",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "norwegian": "bursdag",
+      "gender": "masculine",
+      "plural": "bursdager",
+      "cefr": "A1",
+      "ipa": "[²bʉːʂˌdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0d60c07-304b-4f6a-add0-4cc3f21a71be",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "norwegian": "ferie",
+      "gender": "masculine",
+      "plural": "ferier",
+      "cefr": "A1",
+      "ipa": "[ˈfeːɾi̯ə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "265dba1b-e56e-4bd5-8260-ae523fb2e241",
+      "part-of-speech": "noun",
+      "english": "party",
+      "norwegian": "fest",
+      "gender": "masculine",
+      "plural": "fester",
+      "cefr": "A1",
+      "ipa": "[fɛst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "926c5666-f135-4fc4-8ede-a50adf11a19e",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "norwegian": "gave",
+      "gender": "masculine",
+      "plural": "gaver",
+      "cefr": "A2",
+      "ipa": "[²ɡɑːʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f5f42d2-cb65-45bc-9fb1-0823d9265619",
+      "part-of-speech": "noun",
+      "english": "house",
+      "norwegian": "hus",
+      "gender": "neuter",
+      "plural": "hus",
+      "cefr": "A1",
+      "ipa": "[hʉːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15a88928-a2ae-477f-982c-2819306cc8ea",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "norwegian": "leilighet",
+      "gender": "masculine",
+      "plural": "leiligheter",
+      "cefr": "A1",
+      "ipa": "[²læɪlɪˌheːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7415a13d-9235-45d8-8e8c-553c6e33e181",
+      "part-of-speech": "noun",
+      "english": "room",
+      "norwegian": "rom",
+      "gender": "neuter",
+      "plural": "rom",
+      "cefr": "A1",
+      "ipa": "[ɾʊmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "def7c4a9-34f9-4cf0-a77d-340d75d9df76",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "norwegian": "soverom",
+      "gender": "neuter",
+      "plural": "soverom",
+      "cefr": "A1",
+      "ipa": "[²sɔːʋəˌɾʊmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5608b9d6-6cab-45a3-b68a-37c5d7b78404",
+      "part-of-speech": "noun",
+      "english": "living room",
+      "norwegian": "stue",
+      "gender": "feminine",
+      "plural": "stuer",
+      "cefr": "A1",
+      "ipa": "[²stʉːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "680ff62d-a2de-4871-b432-5895e6053821",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "norwegian": "kjøkken",
+      "gender": "neuter",
+      "plural": "kjøkken",
+      "cefr": "A1",
+      "ipa": "[ˈçœkːən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56a5a001-d702-43a4-a6bd-f99ab3dd917f",
+      "part-of-speech": "noun",
+      "english": "bathroom; bath",
+      "norwegian": "bad",
+      "gender": "neuter",
+      "plural": "bad",
+      "cefr": "A1",
+      "ipa": "[bɑːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f668952-773d-43df-83bb-f575afff5e69",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "norwegian": "toalett",
+      "gender": "neuter",
+      "plural": "toaletter",
+      "cefr": "A1",
+      "ipa": "[tʊɑˈlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e537103-879c-4de0-9ee3-c4a6fd6aeefa",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "norwegian": "hage",
+      "gender": "masculine",
+      "plural": "hager",
+      "cefr": "A1",
+      "ipa": "[²hɑːɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27d5f8c1-a607-45ca-aaf9-2201909216f4",
+      "part-of-speech": "noun",
+      "english": "door",
+      "norwegian": "dør",
+      "gender": "feminine",
+      "plural": "dører",
+      "cefr": "A1",
+      "ipa": "[døːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60a7b1a8-3d73-42dc-a03e-8c8090366bfc",
+      "part-of-speech": "noun",
+      "english": "window",
+      "norwegian": "vindu",
+      "gender": "neuter",
+      "plural": "vinduer",
+      "cefr": "A1",
+      "ipa": "[ˈʋɪndʉ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "180372e0-82b3-4244-ad1e-83f62926e21e",
+      "part-of-speech": "noun",
+      "english": "table",
+      "norwegian": "bord",
+      "gender": "neuter",
+      "plural": "bord",
+      "cefr": "A1",
+      "ipa": "[buːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f4122a7-43a8-474f-a943-2f453167cb82",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "norwegian": "stol",
+      "gender": "masculine",
+      "plural": "stoler",
+      "cefr": "A1",
+      "ipa": "[stuːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bc1ed0a-baee-41b9-896f-d8b0c38acaa9",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "norwegian": "seng",
+      "gender": "feminine",
+      "plural": "senger",
+      "cefr": "A1",
+      "ipa": "[sɛŋː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e73dd001-ff29-4b35-a663-096ff86a585c",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "norwegian": "sofa",
+      "gender": "masculine",
+      "plural": "sofaer",
+      "cefr": "A1",
+      "ipa": "[ˈsuːfɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fdad5d1f-659b-4a0a-b0d3-7add3bc20b86",
+      "part-of-speech": "noun",
+      "english": "key",
+      "norwegian": "nøkkel",
+      "gender": "masculine",
+      "plural": "nøkler",
+      "cefr": "A1",
+      "ipa": "[ˈnœkːəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa4129ee-479f-4a6c-9711-e7cb152e86ba",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "norwegian": "kjøleskap",
+      "gender": "neuter",
+      "plural": "kjøleskap",
+      "cefr": "A2",
+      "ipa": "[²çøːləˌskɑːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5bf8e3d-815d-4e97-bc72-5f084fbddff1",
+      "part-of-speech": "noun",
+      "english": "television",
+      "norwegian": "TV",
+      "gender": "masculine",
+      "plural": "TV-er",
+      "cefr": "A1",
+      "ipa": "[ˈteːˌʋeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0618f64-9977-4008-9f02-5a9b8d935936",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "norwegian": "telefon",
+      "gender": "masculine",
+      "plural": "telefoner",
+      "cefr": "A1",
+      "ipa": "[teləˈfuːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43b490a3-432a-4d4b-aa2c-27b266600f74",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "norwegian": "mobil",
+      "gender": "masculine",
+      "plural": "mobiler",
+      "cefr": "A1",
+      "ipa": "[mʊˈbiːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23afd4d5-716e-4c1c-9b30-7badce2f1bde",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "norwegian": "datamaskin",
+      "gender": "masculine",
+      "plural": "datamaskiner",
+      "cefr": "A1",
+      "ipa": "[²dɑːtɑmɑˌʂiːn]",
+      "context": "everyday: PC",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "892620d8-b178-4704-b166-53dde865e39c",
+      "part-of-speech": "noun",
+      "english": "food",
+      "norwegian": "mat",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[mɑːt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf015249-6781-4022-aac7-645cb77a280c",
+      "part-of-speech": "noun",
+      "english": "water",
+      "norwegian": "vann",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ʋɑnː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06e087a3-a9db-47e1-aa78-9c233d74990a",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "norwegian": "brød",
+      "gender": "neuter",
+      "plural": "brød",
+      "cefr": "A1",
+      "ipa": "[bɾøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbb72112-91bb-4b9b-90c7-42d8b7bf4562",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "norwegian": "kaffe",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkɑfːə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc0b4565-1def-44cc-bb86-167abd1b57bc",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "norwegian": "te",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[teː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a33b4a1-0c10-4797-b00c-d7fbd32843f3",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "norwegian": "melk",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[mɛlk]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e6439df-0221-41d3-a006-99c5b64aef6c",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "norwegian": "juice",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jʉːs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "311cc646-8138-49fb-afb6-f9262966f5dc",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "norwegian": "øl",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[øːl]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ec43973-36a6-4afb-bc4f-aa5b6bbf871b",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "norwegian": "vin",
+      "gender": "masculine",
+      "plural": "viner",
+      "cefr": "A1",
+      "ipa": "[ʋiːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a85fe48-ebec-4b1d-b829-5999b99eb8b5",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "norwegian": "kjøtt",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[çœt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "261b466a-ca6b-495c-9525-7f14c1ba33de",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "norwegian": "kylling",
+      "gender": "masculine",
+      "plural": "kyllinger",
+      "cefr": "A1",
+      "ipa": "[ˈçʏlːɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5b6fb0a-92a1-4fc6-b44c-2d5a1bf9c650",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "norwegian": "fisk",
+      "gender": "masculine",
+      "plural": "fisker",
+      "cefr": "A1",
+      "ipa": "[fɪsk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29bfb189-0026-44ad-b6ae-cff3af8878b6",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "norwegian": "ost",
+      "gender": "masculine",
+      "plural": "oster",
+      "cefr": "A1",
+      "ipa": "[ʊst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc4f27e9-04bd-46df-a231-634bd1127666",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "norwegian": "egg",
+      "gender": "neuter",
+      "plural": "egg",
+      "cefr": "A1",
+      "ipa": "[ɛɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f417fc46-2d83-420d-9c9b-a0430bccaf93",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "norwegian": "grønnsak",
+      "gender": "masculine",
+      "plural": "grønnsaker",
+      "cefr": "A1",
+      "ipa": "[²ɡɾœnˌsɑːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc02ff0a-8127-4dda-954b-848ad1faa826",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "norwegian": "frukt",
+      "gender": "masculine",
+      "plural": "frukter",
+      "cefr": "A1",
+      "ipa": "[fɾʉkt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "140c1f0c-7eae-4b7c-bd42-e292f5edb2eb",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "norwegian": "eple",
+      "gender": "neuter",
+      "plural": "epler",
+      "cefr": "A1",
+      "ipa": "[²ɛplə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96553234-e57a-481e-a91d-bbd6fb078567",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "norwegian": "banan",
+      "gender": "masculine",
+      "plural": "bananer",
+      "cefr": "A1",
+      "ipa": "[bɑˈnɑːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64719303-7209-4b34-889a-d7e73459c2c8",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "norwegian": "appelsin",
+      "gender": "masculine",
+      "plural": "appelsiner",
+      "cefr": "A1",
+      "ipa": "[ɑpəlˈsiːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "336de26c-e61e-45fb-8fe9-16cf12c3e7fd",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "norwegian": "potet",
+      "gender": "masculine",
+      "plural": "poteter",
+      "cefr": "A1",
+      "ipa": "[pʊˈteːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f4bfb7b-b3a8-4ee2-996c-cf472194c3fe",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "norwegian": "ris",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɾiːs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3218450-9b09-4da2-863b-75053b77a858",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "norwegian": "suppe",
+      "gender": "feminine",
+      "plural": "supper",
+      "cefr": "A1",
+      "ipa": "[²sʉpːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaa8a505-4585-47c0-8274-d414a0a4236d",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "norwegian": "sukker",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsʉkːəɾ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2103a0e6-4c4d-41d1-b72f-f19a5f862e75",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "norwegian": "salt",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[sɑlt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb4dc052-db0d-47c4-a4ca-442bff448050",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "norwegian": "smør",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[smøːɾ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba7a8638-a336-44ea-a0ff-c0ab27a0b9bb",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "norwegian": "kake",
+      "gender": "feminine",
+      "plural": "kaker",
+      "cefr": "A2",
+      "ipa": "[²kɑːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ac93d65-774c-4bb8-962c-73bbe969030e",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "norwegian": "frokost",
+      "gender": "masculine",
+      "plural": "frokoster",
+      "cefr": "A1",
+      "ipa": "[²fɾuːkɔst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86e7bbaf-15d4-4dcd-89f2-337406ff8047",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "norwegian": "lunsj",
+      "gender": "masculine",
+      "plural": "lunsjer",
+      "cefr": "A1",
+      "ipa": "[lœnʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ace16854-40b4-4d9b-bb12-64b88a1407b3",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "norwegian": "middag",
+      "gender": "masculine",
+      "plural": "middager",
+      "cefr": "A1",
+      "ipa": "[²mɪdːɑɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cb9fbf5-e319-43ff-bf38-2d9454fabb58",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "norwegian": "restaurant",
+      "gender": "masculine",
+      "plural": "restauranter",
+      "cefr": "A1",
+      "ipa": "[ɾɛstʉˈɾɑŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d7ad879-f4f2-4129-94f3-e91cab8e8f12",
+      "part-of-speech": "noun",
+      "english": "café",
+      "norwegian": "kafé",
+      "gender": "masculine",
+      "plural": "kafeer",
+      "cefr": "A1",
+      "ipa": "[kɑˈfeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "117c74b7-ca2c-44c9-b1bf-c449df66f9fb",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "norwegian": "glass",
+      "gender": "neuter",
+      "plural": "glass",
+      "cefr": "A1",
+      "ipa": "[ɡlɑs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6183c22d-947f-4b2b-97eb-21a6e64ed692",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "norwegian": "kopp",
+      "gender": "masculine",
+      "plural": "kopper",
+      "cefr": "A1",
+      "ipa": "[kɔp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8278351-bc8b-41a1-8ae9-23a8a6f81a39",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "norwegian": "flaske",
+      "gender": "feminine",
+      "plural": "flasker",
+      "cefr": "A1",
+      "ipa": "[²flɑskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af1509bb-a630-4718-affb-728308aaa809",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "norwegian": "tallerken",
+      "gender": "masculine",
+      "plural": "tallerkener",
+      "cefr": "A2",
+      "ipa": "[tɑˈlæɾkən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f32e840-3a4e-496d-865f-076725dd3e75",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "norwegian": "kniv",
+      "gender": "masculine",
+      "plural": "kniver",
+      "cefr": "A2",
+      "ipa": "[kniːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de210547-4176-45e5-bc0d-a07655e65220",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "norwegian": "gaffel",
+      "gender": "masculine",
+      "plural": "gafler",
+      "cefr": "A2",
+      "ipa": "[ˈɡɑfːəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "feb40b7d-14b7-48db-b8f6-ad4a789d84ab",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "norwegian": "skje",
+      "gender": "feminine",
+      "plural": "skjeer",
+      "cefr": "A2",
+      "ipa": "[ʂeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb05b44b-9cd1-4e88-8883-60446c7aee15",
+      "part-of-speech": "noun",
+      "english": "town, city",
+      "norwegian": "by",
+      "gender": "masculine",
+      "plural": "byer",
+      "cefr": "A1",
+      "ipa": "[byː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75f804da-6046-498f-9287-69f30d40f23a",
+      "part-of-speech": "noun",
+      "english": "country",
+      "norwegian": "land",
+      "gender": "neuter",
+      "plural": "land",
+      "cefr": "A1",
+      "ipa": "[lɑnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53f3bfda-4faa-43df-8d14-a93bbd4532ab",
+      "part-of-speech": "noun",
+      "english": "street",
+      "norwegian": "gate",
+      "gender": "feminine",
+      "plural": "gater",
+      "cefr": "A1",
+      "ipa": "[²ɡɑːtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9abe4006-05c3-4f0c-b1fb-9d784ceafa33",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "norwegian": "vei",
+      "gender": "masculine",
+      "plural": "veier",
+      "cefr": "A1",
+      "ipa": "[ʋæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1e1399a-86ad-48b6-9f02-b78a76580d2a",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "norwegian": "butikk",
+      "gender": "masculine",
+      "plural": "butikker",
+      "cefr": "A1",
+      "ipa": "[bʉˈtɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21bdf04d-1135-46f0-9a27-f183f30f3ac9",
+      "part-of-speech": "noun",
+      "english": "market",
+      "norwegian": "marked",
+      "gender": "neuter",
+      "plural": "markeder",
+      "cefr": "A2",
+      "ipa": "[ˈmɑɾkəd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "515dd885-870c-4804-8210-836dbb9f4778",
+      "part-of-speech": "noun",
+      "english": "school",
+      "norwegian": "skole",
+      "gender": "masculine",
+      "plural": "skoler",
+      "cefr": "A1",
+      "ipa": "[²skuːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9b7037c-eaff-4c8c-85d5-9ddb754ac9f2",
+      "part-of-speech": "noun",
+      "english": "office",
+      "norwegian": "kontor",
+      "gender": "neuter",
+      "plural": "kontorer",
+      "cefr": "A2",
+      "ipa": "[kʊnˈtuːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c71155d4-4a0e-44ea-8015-9c72a09fb19f",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "norwegian": "sykehus",
+      "gender": "neuter",
+      "plural": "sykehus",
+      "cefr": "A1",
+      "ipa": "[²syːkəˌhʉːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35e1f51e-db7b-4adf-bfcb-cccec337f333",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "norwegian": "apotek",
+      "gender": "neuter",
+      "plural": "apoteker",
+      "cefr": "A2",
+      "ipa": "[ɑpʊˈteːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "044649e3-2aa5-4cc0-b19e-334756ba23ed",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "norwegian": "bank",
+      "gender": "masculine",
+      "plural": "banker",
+      "cefr": "A1",
+      "ipa": "[bɑŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b9e61ba-9a5c-4a31-9d0c-12293a756900",
+      "part-of-speech": "noun",
+      "english": "church",
+      "norwegian": "kirke",
+      "gender": "feminine",
+      "plural": "kirker",
+      "cefr": "A2",
+      "ipa": "[²çɪɾkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67dd359b-3904-4337-a705-22e2196f71e1",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "norwegian": "museum",
+      "gender": "neuter",
+      "plural": "museer",
+      "cefr": "A2",
+      "ipa": "[mʉˈseːʉm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "585461e2-0d0b-4216-836c-86e601ae782e",
+      "part-of-speech": "noun",
+      "english": "park",
+      "norwegian": "park",
+      "gender": "masculine",
+      "plural": "parker",
+      "cefr": "A1",
+      "ipa": "[pɑɾk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "731abe23-1a4d-4050-8e7e-41cd3315aa57",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "norwegian": "kino",
+      "gender": "masculine",
+      "plural": "kinoer",
+      "cefr": "A1",
+      "ipa": "[ˈçiːnʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57943e2f-b731-4ed6-819c-626dc7b44fe9",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "norwegian": "hotell",
+      "gender": "neuter",
+      "plural": "hoteller",
+      "cefr": "A1",
+      "ipa": "[hʊˈtɛlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "333a28e6-c40d-472b-9b3e-ebd5286f9b0b",
+      "part-of-speech": "noun",
+      "english": "library",
+      "norwegian": "bibliotek",
+      "gender": "neuter",
+      "plural": "biblioteker",
+      "cefr": "A2",
+      "ipa": "[bɪblɪʊˈteːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "182578fc-32e8-47b6-962f-66f6d5d35c0f",
+      "part-of-speech": "noun",
+      "english": "station",
+      "norwegian": "stasjon",
+      "gender": "masculine",
+      "plural": "stasjoner",
+      "cefr": "A1",
+      "ipa": "[stɑˈʂuːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aecc1e5e-5668-4cf4-98ff-2519f5515dd3",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "norwegian": "flyplass",
+      "gender": "masculine",
+      "plural": "flyplasser",
+      "cefr": "A1",
+      "ipa": "[²flyːˌplɑs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "318fc291-cf8d-4299-a48a-14a934b581c7",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "norwegian": "buss",
+      "gender": "masculine",
+      "plural": "busser",
+      "cefr": "A1",
+      "ipa": "[bʉsː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7d95714-2eb9-41bf-bea0-cbbce072d3de",
+      "part-of-speech": "noun",
+      "english": "train",
+      "norwegian": "tog",
+      "gender": "neuter",
+      "plural": "tog",
+      "cefr": "A1",
+      "ipa": "[tɔːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "308f3fba-c754-492a-be87-fe28865dbc74",
+      "part-of-speech": "noun",
+      "english": "tram",
+      "norwegian": "trikk",
+      "gender": "masculine",
+      "plural": "trikker",
+      "cefr": "A2",
+      "ipa": "[tɾɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "897db43a-4879-4305-9021-d418178bb786",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "norwegian": "T-bane",
+      "gender": "masculine",
+      "plural": "T-baner",
+      "cefr": "A2",
+      "ipa": "[²teːˌbɑːnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0c60fd7-b182-4220-bcc8-d61f2e24e9d4",
+      "part-of-speech": "noun",
+      "english": "car",
+      "norwegian": "bil",
+      "gender": "masculine",
+      "plural": "biler",
+      "cefr": "A1",
+      "ipa": "[biːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb8fa41b-198a-4f4b-98a6-c4181a34316a",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "norwegian": "sykkel",
+      "gender": "masculine",
+      "plural": "sykler",
+      "cefr": "A1",
+      "ipa": "[ˈsʏkːəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c85ebaef-a725-4035-b313-9ec30d3b0d34",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "norwegian": "fly",
+      "gender": "neuter",
+      "plural": "fly",
+      "cefr": "A1",
+      "ipa": "[flyː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39b6275d-ac50-4006-a3a8-ba1595c6f859",
+      "part-of-speech": "noun",
+      "english": "boat",
+      "norwegian": "båt",
+      "gender": "masculine",
+      "plural": "båter",
+      "cefr": "A2",
+      "ipa": "[boːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee81bc28-51c5-4283-a483-dc895bd19df4",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "norwegian": "billett",
+      "gender": "masculine",
+      "plural": "billetter",
+      "cefr": "A1",
+      "ipa": "[bɪˈlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75f0c81e-efa1-4f98-9aaf-74d9bd88eb6c",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "norwegian": "reise",
+      "gender": "feminine",
+      "plural": "reiser",
+      "cefr": "A2",
+      "ipa": "[²ɾæɪsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d617df1-3ec1-4e2c-81d8-5d72b35878e6",
+      "part-of-speech": "noun",
+      "english": "map",
+      "norwegian": "kart",
+      "gender": "neuter",
+      "plural": "kart",
+      "cefr": "A2",
+      "ipa": "[kɑːʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b804134c-0ee4-4449-876b-c5992222f83c",
+      "part-of-speech": "noun",
+      "english": "sea; lake",
+      "norwegian": "sjø",
+      "gender": "masculine",
+      "plural": "sjøer",
+      "cefr": "A1",
+      "ipa": "[ʂøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60f7f5fe-ca7f-4f8b-bf14-dad9e4a169b7",
+      "part-of-speech": "noun",
+      "english": "ocean, sea",
+      "norwegian": "hav",
+      "gender": "neuter",
+      "plural": "hav",
+      "cefr": "A2",
+      "ipa": "[hɑːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac7cf8e1-92a0-47cc-8efb-ea1793c8052e",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "norwegian": "strand",
+      "gender": "feminine",
+      "plural": "strender",
+      "cefr": "A1",
+      "ipa": "[stɾɑnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad0768bb-cf17-4f88-98f9-b874dbf080fa",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "norwegian": "fjell",
+      "gender": "neuter",
+      "plural": "fjell",
+      "cefr": "A1",
+      "ipa": "[fjɛlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b238a805-2b8c-4a25-8759-be155bfebada",
+      "part-of-speech": "noun",
+      "english": "fjord",
+      "norwegian": "fjord",
+      "gender": "masculine",
+      "plural": "fjorder",
+      "cefr": "A2",
+      "ipa": "[fjuːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1c9a0be-94b0-4375-b490-ca6c56a0b4de",
+      "part-of-speech": "noun",
+      "english": "river",
+      "norwegian": "elv",
+      "gender": "feminine",
+      "plural": "elver",
+      "cefr": "A2",
+      "ipa": "[ɛlʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df941cd5-02be-4be3-9fdc-e4b532d898d8",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "norwegian": "innsjø",
+      "gender": "masculine",
+      "plural": "innsjøer",
+      "cefr": "A2",
+      "ipa": "[²ɪnˌʂøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b50185c-b381-4e15-991d-d1f2635dce1a",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "norwegian": "skog",
+      "gender": "masculine",
+      "plural": "skoger",
+      "cefr": "A2",
+      "ipa": "[skuːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20be2138-0cce-4eef-b2bb-d7ad8c365232",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "norwegian": "tre",
+      "gender": "neuter",
+      "plural": "trær",
+      "cefr": "A1",
+      "ipa": "[tɾeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6688e44-0cf4-4812-9b5a-4715e05feef3",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "norwegian": "blomst",
+      "gender": "masculine",
+      "plural": "blomster",
+      "cefr": "A1",
+      "ipa": "[blɔmst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e40fd0b2-6deb-4b2b-883f-2c1033b9b93a",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "norwegian": "dyr",
+      "gender": "neuter",
+      "plural": "dyr",
+      "cefr": "A1",
+      "ipa": "[dyːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d74a7f74-d717-43e9-b22c-527258b662bf",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "norwegian": "hund",
+      "gender": "masculine",
+      "plural": "hunder",
+      "cefr": "A1",
+      "ipa": "[hʉnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0293985-bb99-4e01-b38e-0e0c1ce7e9c5",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "norwegian": "katt",
+      "gender": "masculine",
+      "plural": "katter",
+      "cefr": "A1",
+      "ipa": "[kɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a49fce30-c72a-40a2-a76e-7fe55ecbc5bc",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "norwegian": "fugl",
+      "gender": "masculine",
+      "plural": "fugler",
+      "cefr": "A1",
+      "ipa": "[fʉːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bd635fd-bf6c-43c9-95b0-6b87825983bc",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "norwegian": "hest",
+      "gender": "masculine",
+      "plural": "hester",
+      "cefr": "A2",
+      "ipa": "[hɛst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eae47bf2-8f37-4448-906c-42a1ad800d4d",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "norwegian": "vær",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[væːɾ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c17ac22-5ad0-463b-8955-be48bd99d1a4",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "norwegian": "sol",
+      "gender": "feminine",
+      "plural": "soler",
+      "cefr": "A1",
+      "ipa": "[suːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bbe1157-4005-4e3f-ac3a-02d0058f554f",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "norwegian": "regn",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ɾæɪn]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09b48edb-7920-4c8f-ad77-4199b8097697",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "norwegian": "snø",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[snøː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d495dd93-9ddd-4d62-8a64-3a5d19436c83",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "norwegian": "vind",
+      "gender": "masculine",
+      "plural": "vinder",
+      "cefr": "A2",
+      "ipa": "[ʋɪnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4f59468-6588-4b1a-b216-f1b08f17fe34",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "norwegian": "himmel",
+      "gender": "masculine",
+      "plural": "himler",
+      "cefr": "A2",
+      "ipa": "[ˈhɪmːəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f36e161-e365-4d9e-87bf-e533c8a8342b",
+      "part-of-speech": "noun",
+      "english": "world",
+      "norwegian": "verden",
+      "gender": "masculine",
+      "plural": "verdener",
+      "cefr": "A2",
+      "ipa": "[ˈʋæːɖən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f5acfdb-e1e4-48be-80bb-8410cd2ced5a",
+      "part-of-speech": "noun",
+      "english": "body",
+      "norwegian": "kropp",
+      "gender": "masculine",
+      "plural": "kropper",
+      "cefr": "A2",
+      "ipa": "[kɾɔp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71ec6d17-cdc7-411c-bd8a-f9bf444ef647",
+      "part-of-speech": "noun",
+      "english": "head",
+      "norwegian": "hode",
+      "gender": "neuter",
+      "plural": "hoder",
+      "cefr": "A1",
+      "ipa": "[²hoːdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ce7282c-2d7f-4a50-954b-854f33753bfc",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "norwegian": "hår",
+      "gender": "neuter",
+      "plural": "hår",
+      "cefr": "A1",
+      "ipa": "[hoːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c41c4142-2b39-4808-976d-fecd9130a7f6",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "norwegian": "øye",
+      "gender": "neuter",
+      "plural": "øyne",
+      "cefr": "A1",
+      "ipa": "[²œʏə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0893bdf-e843-476d-a779-f375522c4d2a",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "norwegian": "øre",
+      "gender": "neuter",
+      "plural": "ører",
+      "cefr": "A1",
+      "ipa": "[²øːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5429f1fd-2007-4200-be37-25583b65eab7",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "norwegian": "nese",
+      "gender": "feminine",
+      "plural": "neser",
+      "cefr": "A1",
+      "ipa": "[²neːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ae597c4-eb3f-4ae1-b8ba-1e90d7fa8f3a",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "norwegian": "munn",
+      "gender": "masculine",
+      "plural": "munner",
+      "cefr": "A1",
+      "ipa": "[mʉnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23f1da71-a7bc-4d90-b243-97552cda3593",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "norwegian": "tann",
+      "gender": "feminine",
+      "plural": "tenner",
+      "cefr": "A2",
+      "ipa": "[tɑnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "377caa8a-81f3-4fb4-bac8-19fea9b6ee48",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "norwegian": "hånd",
+      "gender": "feminine",
+      "plural": "hender",
+      "cefr": "A1",
+      "ipa": "[hɔnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8d50e29-454b-40dd-8276-c90d47b3182c",
+      "part-of-speech": "noun",
+      "english": "arm",
+      "norwegian": "arm",
+      "gender": "masculine",
+      "plural": "armer",
+      "cefr": "A1",
+      "ipa": "[ɑɾm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "461a0420-dfd4-4397-9407-756d994e57e2",
+      "part-of-speech": "noun",
+      "english": "leg; bone",
+      "norwegian": "bein",
+      "gender": "neuter",
+      "plural": "bein",
+      "cefr": "A1",
+      "ipa": "[bæɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c64dfd7-f0e3-40c6-ba2c-5693dbbb0bf9",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "norwegian": "fot",
+      "gender": "masculine",
+      "plural": "føtter",
+      "cefr": "A1",
+      "ipa": "[fuːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a040c7ec-e07c-4958-8ace-80ab3a02831a",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "norwegian": "mage",
+      "gender": "masculine",
+      "plural": "mager",
+      "cefr": "A2",
+      "ipa": "[²mɑːɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a86ad8e2-206a-4385-b5e3-a9798636b614",
+      "part-of-speech": "noun",
+      "english": "back",
+      "norwegian": "rygg",
+      "gender": "masculine",
+      "plural": "rygger",
+      "cefr": "A2",
+      "ipa": "[ɾʏɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df5cc508-ebe7-4c56-bf60-55739af92af9",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "norwegian": "hjerte",
+      "gender": "neuter",
+      "plural": "hjerter",
+      "cefr": "A2",
+      "ipa": "[²jæʈə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2436089-6b8e-443a-845e-d9656ba87005",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "norwegian": "smerte",
+      "gender": "masculine",
+      "plural": "smerter",
+      "cefr": "A2",
+      "ipa": "[²smæʈə]",
+      "context": "vondt: having a pain (jeg har vondt i hodet: I have a headache)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4d07389-edf6-4957-96ca-e1d7dce8b6c1",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "norwegian": "medisin",
+      "gender": "masculine",
+      "plural": "medisiner",
+      "cefr": "A2",
+      "ipa": "[mɛdɪˈsiːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3939c25-226f-4d42-94fb-518483ead5dd",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "norwegian": "klær",
+      "gender": "masculine",
+      "plural": "klær",
+      "cefr": "A1",
+      "ipa": "[klæːɾ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c33626a-2bb0-4e76-b94f-434168462fb5",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "norwegian": "bukse",
+      "gender": "feminine",
+      "plural": "bukser",
+      "cefr": "A1",
+      "ipa": "[²bʊksə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2933b64-1776-43f4-9a06-a5af60b607aa",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "norwegian": "skjorte",
+      "gender": "feminine",
+      "plural": "skjorter",
+      "cefr": "A1",
+      "ipa": "[²ʂʊʈə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1048df47-9892-4550-ac5e-6dcbd651a3f2",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "norwegian": "genser",
+      "gender": "masculine",
+      "plural": "gensere",
+      "cefr": "A2",
+      "ipa": "[ˈɡɛnsəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bd9481a-c940-4c90-8d73-ce83d86e9a09",
+      "part-of-speech": "noun",
+      "english": "jacket, coat",
+      "norwegian": "jakke",
+      "gender": "feminine",
+      "plural": "jakker",
+      "cefr": "A1",
+      "ipa": "[²jɑkːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6215d6b8-ad19-40f1-a09f-53d73dbf4bae",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "norwegian": "kjole",
+      "gender": "masculine",
+      "plural": "kjoler",
+      "cefr": "A1",
+      "ipa": "[²çuːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2139a97-e83e-4afc-80ba-8d4bcbbf3624",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "norwegian": "skjørt",
+      "gender": "neuter",
+      "plural": "skjørt",
+      "cefr": "A2",
+      "ipa": "[ʂœʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21803af8-f764-4a92-858c-b85ab8bb3b2f",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "norwegian": "sko",
+      "gender": "masculine",
+      "plural": "sko",
+      "cefr": "A1",
+      "ipa": "[skuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54ff3891-25fe-493a-b393-bb6b242af6ba",
+      "part-of-speech": "noun",
+      "english": "bag, handbag",
+      "norwegian": "veske",
+      "gender": "feminine",
+      "plural": "vesker",
+      "cefr": "A1",
+      "ipa": "[²ʋɛskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd1c3ebc-5d63-47a9-8cc1-a1f6b1030954",
+      "part-of-speech": "noun",
+      "english": "hat (knitted)",
+      "norwegian": "lue",
+      "gender": "feminine",
+      "plural": "luer",
+      "cefr": "A2",
+      "ipa": "[²lʉːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d02453b-852f-44e6-ab55-3c63285dc3c0",
+      "part-of-speech": "noun",
+      "english": "work",
+      "norwegian": "arbeid",
+      "gender": "neuter",
+      "plural": "arbeid",
+      "cefr": "A1",
+      "ipa": "[ˈɑɾbæɪd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "168df6ca-beb6-47e6-840c-a059acd19fe8",
+      "part-of-speech": "noun",
+      "english": "job",
+      "norwegian": "jobb",
+      "gender": "masculine",
+      "plural": "jobber",
+      "cefr": "A1",
+      "ipa": "[jɔb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b605a1d-ea24-4b47-9dce-af3564457c4d",
+      "part-of-speech": "noun",
+      "english": "money",
+      "norwegian": "penger",
+      "gender": "masculine",
+      "plural": "penger",
+      "cefr": "A1",
+      "ipa": "[ˈpɛŋəɾ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2cdf066c-9c86-40fc-8baa-32f19f6548ff",
+      "part-of-speech": "noun",
+      "english": "krone (currency); crown",
+      "norwegian": "krone",
+      "gender": "feminine",
+      "plural": "kroner",
+      "cefr": "A1",
+      "ipa": "[²kɾuːnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aff32b02-763a-4bee-997a-e93c87ead78d",
+      "part-of-speech": "noun",
+      "english": "price",
+      "norwegian": "pris",
+      "gender": "masculine",
+      "plural": "priser",
+      "cefr": "A1",
+      "ipa": "[pɾiːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ce69d34-88a4-4d56-81da-ecb9766eca06",
+      "part-of-speech": "noun",
+      "english": "book",
+      "norwegian": "bok",
+      "gender": "feminine",
+      "plural": "bøker",
+      "cefr": "A1",
+      "ipa": "[buːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc508d52-a85c-49b8-8217-020683801e6d",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "norwegian": "avis",
+      "gender": "feminine",
+      "plural": "aviser",
+      "cefr": "A1",
+      "ipa": "[ɑˈʋiːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c35f08fe-a89f-4300-9ab7-4498906c67f1",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "norwegian": "brev",
+      "gender": "neuter",
+      "plural": "brev",
+      "cefr": "A1",
+      "ipa": "[bɾeːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0ea94d8-1032-436b-a3ba-a627426d391e",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "norwegian": "penn",
+      "gender": "masculine",
+      "plural": "penner",
+      "cefr": "A1",
+      "ipa": "[pɛnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c6c76a4-f7cd-4aed-a2ea-4cf702119067",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "norwegian": "papir",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[pɑˈpiːɾ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f35cc016-3a3d-4949-8d2b-e4eece05b332",
+      "part-of-speech": "noun",
+      "english": "picture, photo",
+      "norwegian": "bilde",
+      "gender": "neuter",
+      "plural": "bilder",
+      "cefr": "A1",
+      "ipa": "[²bɪldə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dd7c01f-8095-44bd-bbe1-47d35f628ae5",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "norwegian": "film",
+      "gender": "masculine",
+      "plural": "filmer",
+      "cefr": "A1",
+      "ipa": "[fɪlm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05ec7852-0738-48e8-b02b-a8d52fd8012d",
+      "part-of-speech": "noun",
+      "english": "music",
+      "norwegian": "musikk",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[mʉˈsɪk]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bff0d94-3e72-4d88-8ec2-bd099aa9a499",
+      "part-of-speech": "noun",
+      "english": "song",
+      "norwegian": "sang",
+      "gender": "masculine",
+      "plural": "sanger",
+      "cefr": "A2",
+      "ipa": "[sɑŋː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c93bd78-18bc-4567-b028-58077da42635",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "norwegian": "sport",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[spɔʈ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c526a1d-c673-43fe-94e2-cc7797801067",
+      "part-of-speech": "noun",
+      "english": "game",
+      "norwegian": "spill",
+      "gender": "neuter",
+      "plural": "spill",
+      "cefr": "A2",
+      "ipa": "[spɪlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4d29d5c-2ae0-42ce-bdba-61ad5140a7d0",
+      "part-of-speech": "noun",
+      "english": "language",
+      "norwegian": "språk",
+      "gender": "neuter",
+      "plural": "språk",
+      "cefr": "A1",
+      "ipa": "[spɾoːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59eb6831-5ed6-4fbd-bfd4-a6c56361ceed",
+      "part-of-speech": "noun",
+      "english": "word",
+      "norwegian": "ord",
+      "gender": "neuter",
+      "plural": "ord",
+      "cefr": "A1",
+      "ipa": "[uːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77bfe256-a146-456c-9aa3-753ca2c455ea",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "norwegian": "setning",
+      "gender": "masculine",
+      "plural": "setninger",
+      "cefr": "A2",
+      "ipa": "[ˈseːtnɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7afbca99-d49e-407d-bbff-e0008537337e",
+      "part-of-speech": "noun",
+      "english": "question",
+      "norwegian": "spørsmål",
+      "gender": "neuter",
+      "plural": "spørsmål",
+      "cefr": "A1",
+      "ipa": "[²spœʂˌmoːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "697cde09-fbdc-4dbd-a45a-292f6ba37423",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "norwegian": "svar",
+      "gender": "neuter",
+      "plural": "svar",
+      "cefr": "A1",
+      "ipa": "[svɑːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0a14453-ae0e-4695-bf6c-7246ee892f39",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "norwegian": "farge",
+      "gender": "masculine",
+      "plural": "farger",
+      "cefr": "A1",
+      "ipa": "[²fɑɾɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc22ef46-c274-45e8-a217-c3acecb501fb",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "norwegian": "problem",
+      "gender": "neuter",
+      "plural": "problemer",
+      "cefr": "A2",
+      "ipa": "[pɾʊˈbleːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cef80081-1194-424a-b691-ee4efb3e6cbb",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "norwegian": "idé",
+      "gender": "masculine",
+      "plural": "ideer",
+      "cefr": "A2",
+      "ipa": "[ɪˈdeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7a00e25-fd98-431f-b6e7-e586e6355e7d",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "norwegian": "ting",
+      "gender": "masculine",
+      "plural": "ting",
+      "cefr": "A1",
+      "ipa": "[tɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcdc690e-fb60-4d2a-b6e0-587528c522e5",
+      "part-of-speech": "noun",
+      "english": "number",
+      "norwegian": "nummer",
+      "gender": "neuter",
+      "plural": "numre",
+      "cefr": "A1",
+      "ipa": "[ˈnʉmːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9c9a213-05ca-43f8-8904-0eabd6653f85",
+      "part-of-speech": "noun",
+      "english": "address",
+      "norwegian": "adresse",
+      "gender": "masculine",
+      "plural": "adresser",
+      "cefr": "A1",
+      "ipa": "[ɑˈdɾɛsːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fde286f-ce73-4fe7-ab15-06b0e1010581",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "norwegian": "null",
+      "cefr": "A1",
+      "ipa": "[nʉlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0c38417-1e18-41fe-904c-9477fa7422d9",
+      "part-of-speech": "noun",
+      "english": "one",
+      "norwegian": "en",
+      "cefr": "A1",
+      "ipa": "[eːn]",
+      "context": "also ei and ett, matching the noun's gender",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7e7c380-e4b8-45f2-b767-7d4be8e2ab76",
+      "part-of-speech": "noun",
+      "english": "two",
+      "norwegian": "to",
+      "cefr": "A1",
+      "ipa": "[tuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a9c4895-45c3-4e7e-905f-db94c627e3fb",
+      "part-of-speech": "noun",
+      "english": "three",
+      "norwegian": "tre",
+      "cefr": "A1",
+      "ipa": "[tɾeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e2d3fd1-dc72-45a4-852a-811db69117df",
+      "part-of-speech": "noun",
+      "english": "four",
+      "norwegian": "fire",
+      "cefr": "A1",
+      "ipa": "[²fiːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92f2e003-bcf4-4552-918d-e28c7fb8a1e4",
+      "part-of-speech": "noun",
+      "english": "five",
+      "norwegian": "fem",
+      "cefr": "A1",
+      "ipa": "[fɛmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad7ed7a3-3067-4b37-87ad-446f12775871",
+      "part-of-speech": "noun",
+      "english": "six",
+      "norwegian": "seks",
+      "cefr": "A1",
+      "ipa": "[sɛks]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18c109f6-8392-497e-a36b-fd791d812a20",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "norwegian": "sju",
+      "cefr": "A1",
+      "ipa": "[ʂʉː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90638e83-2289-4c58-9bdb-5467c761dd6d",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "norwegian": "åtte",
+      "cefr": "A1",
+      "ipa": "[²ɔtːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0c1d126-3582-445a-9832-db14c05b669e",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "norwegian": "ni",
+      "cefr": "A1",
+      "ipa": "[niː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fed23e9b-18f4-4a79-ae33-7e270245a3ae",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "norwegian": "ti",
+      "cefr": "A1",
+      "ipa": "[tiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6749d3b0-25db-49dc-8d17-37406b397c46",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "norwegian": "elleve",
+      "cefr": "A1",
+      "ipa": "[²ɛlʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "572c1ec2-fd17-4a34-9e16-c82570a57565",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "norwegian": "tolv",
+      "cefr": "A1",
+      "ipa": "[tɔl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f2a206d-402d-4ff1-95bb-25d6598a6b1a",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "norwegian": "tjue",
+      "cefr": "A1",
+      "ipa": "[²çʉːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff3e0369-3980-4b0c-8efb-44151479b546",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "norwegian": "tretti",
+      "cefr": "A1",
+      "ipa": "[²tɾɛtːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3f2b5be-d1c7-4281-ace8-94660e1b3765",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "norwegian": "førti",
+      "cefr": "A1",
+      "ipa": "[²fœʈːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13a5eb57-b370-42e1-be36-ddb2b80dfdf0",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "norwegian": "femti",
+      "cefr": "A1",
+      "ipa": "[²fɛmti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67ef89bb-2e71-4592-9500-84dac3f07c2d",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "norwegian": "hundre",
+      "cefr": "A1",
+      "ipa": "[²hʉndɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a7ceb97-3042-4de4-b96f-1868e1eb2ffc",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "norwegian": "tusen",
+      "cefr": "A1",
+      "ipa": "[ˈtʉːsən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df42206c-000c-4436-8090-f9a7bb505ce5",
+      "part-of-speech": "noun",
+      "english": "million",
+      "norwegian": "million",
+      "gender": "masculine",
+      "plural": "millioner",
+      "cefr": "A2",
+      "ipa": "[mɪlɪˈuːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9eeab49c-9959-4c9c-a73f-4f69494ccbfa",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "norwegian": "være",
+      "cefr": "A1",
+      "ipa": "[²væːɾə]",
+      "context": "present: er",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c3d2331-8787-4a1a-a43a-fbee3a5d2443",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "norwegian": "ha",
+      "cefr": "A1",
+      "ipa": "[hɑː]",
+      "context": "present: har",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f57c4906-a4cf-455f-af47-02c02bbe331e",
+      "part-of-speech": "verb",
+      "english": "to become; to stay",
+      "norwegian": "bli",
+      "cefr": "A1",
+      "ipa": "[bliː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a443a2e-bef0-4de5-afce-e76a704183f9",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "norwegian": "gjøre",
+      "cefr": "A1",
+      "ipa": "[²jøːɾə]",
+      "context": "present: gjør",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efef85cb-3196-403d-9b0c-403e84c9a284",
+      "part-of-speech": "verb",
+      "english": "to make",
+      "norwegian": "lage",
+      "cefr": "A1",
+      "ipa": "[²lɑːɡə]",
+      "context": "lage mat: to cook",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49649a62-0699-47eb-a8e7-f7d5cd9cc989",
+      "part-of-speech": "verb",
+      "english": "to go; to walk",
+      "norwegian": "gå",
+      "cefr": "A1",
+      "ipa": "[ɡoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdb92c7d-548c-49fd-b324-62da95c17525",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "norwegian": "komme",
+      "cefr": "A1",
+      "ipa": "[²kɔmːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1fb1bf84-7f49-420d-a83a-1cbf462c99ce",
+      "part-of-speech": "verb",
+      "english": "to go, leave; to pull",
+      "norwegian": "dra",
+      "cefr": "A1",
+      "ipa": "[dɾɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fccfeafd-d01e-4be8-94df-12e93decb9a6",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "norwegian": "ta",
+      "cefr": "A1",
+      "ipa": "[tɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "740b475a-5580-476c-9873-8dc2a6b4d83d",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "norwegian": "gi",
+      "cefr": "A1",
+      "ipa": "[jiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ec36b01-388a-45b4-adf1-7191c0265f00",
+      "part-of-speech": "verb",
+      "english": "to get, receive; to be allowed to",
+      "norwegian": "få",
+      "cefr": "A1",
+      "ipa": "[foː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cd05ed0-4d0b-460f-b43a-6f7669ea2920",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "norwegian": "se",
+      "cefr": "A1",
+      "ipa": "[seː]",
+      "context": "se på: to look at, watch",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a214cc7-8d15-4ae7-9e35-e623ca4e32cb",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "norwegian": "høre",
+      "cefr": "A1",
+      "ipa": "[²høːɾə]",
+      "context": "høre på: to listen to",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee973738-327f-48d1-b740-7122c13fb3f5",
+      "part-of-speech": "verb",
+      "english": "to know (a fact)",
+      "norwegian": "vite",
+      "cefr": "A1",
+      "ipa": "[²viːtə]",
+      "context": "present: vet",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a0921b6-e190-4985-a357-e8b4c7ba3e89",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place)",
+      "norwegian": "kjenne",
+      "cefr": "A1",
+      "ipa": "[²çɛnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "621c9352-33f4-468b-b651-9fbb9b2d0400",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "norwegian": "ville",
+      "cefr": "A1",
+      "ipa": "[²ʋɪlːə]",
+      "context": "present: vil",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f60e4c94-39f6-4604-921b-d5149b2ad917",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "norwegian": "kunne",
+      "cefr": "A1",
+      "ipa": "[²kʉnːə]",
+      "context": "present: kan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2484f075-bc84-4a0f-9862-4acbb74de746",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "norwegian": "måtte",
+      "cefr": "A1",
+      "ipa": "[²mɔtːə]",
+      "context": "present: må",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "674c607b-88b9-42b6-afc6-a2346b0cce19",
+      "part-of-speech": "verb",
+      "english": "shall, will; to be going to",
+      "norwegian": "skulle",
+      "cefr": "A1",
+      "ipa": "[²skʉlːə]",
+      "context": "present: skal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f9e596f-6735-4d7a-81f4-0b713eba5596",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "norwegian": "like",
+      "cefr": "A1",
+      "ipa": "[²liːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc946b6a-e44e-464d-8e1b-a52bf08da926",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "norwegian": "elske",
+      "cefr": "A2",
+      "ipa": "[²ɛlskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62e9c892-ea09-4acb-8796-e78d6ec0b7d2",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "norwegian": "spise",
+      "cefr": "A1",
+      "ipa": "[²spiːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "447547a5-5a03-4f46-b5cb-e99c0e418f35",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "norwegian": "drikke",
+      "cefr": "A1",
+      "ipa": "[²dɾɪkːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08352fbf-20fb-496f-8e03-9cc6330a740a",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "norwegian": "snakke",
+      "cefr": "A1",
+      "ipa": "[²snɑkːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81e03a0b-d6cd-4d30-a1ee-4cbbbf9c9eff",
+      "part-of-speech": "verb",
+      "english": "to say",
+      "norwegian": "si",
+      "cefr": "A1",
+      "ipa": "[siː]",
+      "context": "present: sier",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13ce538c-3c90-43d6-9464-a59a721b6e50",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "norwegian": "spørre",
+      "cefr": "A1",
+      "ipa": "[²spœɾːə]",
+      "context": "present: spør",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "297d356d-e364-4cad-9296-63a081d6c58f",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "norwegian": "svare",
+      "cefr": "A1",
+      "ipa": "[²svɑːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecca3c32-0c56-4553-9247-22d167ba712c",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "norwegian": "hete",
+      "cefr": "A1",
+      "ipa": "[²heːtə]",
+      "context": "jeg heter …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb78e4a4-0890-424d-8651-7336685da512",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "norwegian": "lese",
+      "cefr": "A1",
+      "ipa": "[²leːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c7f68ce-0154-45d6-be70-98297459484a",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "norwegian": "skrive",
+      "cefr": "A1",
+      "ipa": "[²skɾiːʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efc3634c-230d-439d-b95f-0ceb1b215bd3",
+      "part-of-speech": "verb",
+      "english": "to learn; to teach",
+      "norwegian": "lære",
+      "cefr": "A1",
+      "ipa": "[²læːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2d66bc0-bb73-40b7-aff2-6db890f08eed",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "norwegian": "studere",
+      "cefr": "A1",
+      "ipa": "[stʉˈdeːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6c414a3-d338-40cb-9eb4-a9f62c830861",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "norwegian": "forstå",
+      "cefr": "A1",
+      "ipa": "[fɔˈʂtoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2039862-0c39-4bc5-acdf-eee077e932d9",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "norwegian": "tenke",
+      "cefr": "A1",
+      "ipa": "[²tɛŋkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7b25092-64f5-4ea2-8cf3-c546c6213c25",
+      "part-of-speech": "verb",
+      "english": "to think (opinion)",
+      "norwegian": "synes",
+      "cefr": "A1",
+      "ipa": "[ˈsyːnəs]",
+      "context": "jeg synes det er fint: I think it's nice",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e36747ea-f2cd-415a-a85d-df1041b151bc",
+      "part-of-speech": "verb",
+      "english": "to believe, think",
+      "norwegian": "tro",
+      "cefr": "A2",
+      "ipa": "[tɾuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47a1eede-11c6-46b4-8ba3-cff1a1159ed9",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "norwegian": "lete",
+      "cefr": "A1",
+      "ipa": "[²leːtə]",
+      "context": "lete etter: to look for",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf0491bc-7e0c-4321-b591-21070749a11b",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "norwegian": "finne",
+      "cefr": "A1",
+      "ipa": "[²fɪnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ae0f867-9138-45ce-8f4e-45814439baa1",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "norwegian": "jobbe",
+      "cefr": "A1",
+      "ipa": "[²jɔbːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50d02e9f-8609-486d-9e08-3c51e5fd6a7a",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "norwegian": "arbeide",
+      "cefr": "A2",
+      "ipa": "[²ɑɾˌbæɪdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ed8973a-49cf-4d2f-a319-ebb7c8a0212f",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "norwegian": "bo",
+      "cefr": "A1",
+      "ipa": "[buː]",
+      "context": "jeg bor i Oslo: I live in Oslo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "867d0158-97be-4751-8e5c-c23e4ef1d190",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "norwegian": "leve",
+      "cefr": "A2",
+      "ipa": "[²leːʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de7c5980-5062-4bd0-9d33-e3f67e645b6e",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "norwegian": "sove",
+      "cefr": "A1",
+      "ipa": "[²soːʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b072440-756e-4ef5-9598-c5fee9a2d126",
+      "part-of-speech": "verb",
+      "english": "to wake up",
+      "norwegian": "våkne",
+      "cefr": "A1",
+      "ipa": "[²voːknə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d556c05c-e061-4420-84f4-d0f021fefa43",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "norwegian": "stå opp",
+      "cefr": "A1",
+      "ipa": "[stoː ˈɔp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ce6193c-69ca-4f0b-a1cc-bf8b18759e0d",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "norwegian": "sitte",
+      "cefr": "A1",
+      "ipa": "[²sɪtːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b01fc485-d598-422d-be93-691b2f3185a1",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "norwegian": "stå",
+      "cefr": "A1",
+      "ipa": "[stoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49e812a4-ea8e-49db-b57b-526ecb18dc7f",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying)",
+      "norwegian": "ligge",
+      "cefr": "A1",
+      "ipa": "[²lɪɡːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cdf37c2-4606-4dbf-bbeb-0c1a5edf8e63",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "norwegian": "løpe",
+      "cefr": "A1",
+      "ipa": "[²løːpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07b855bf-a61a-40ae-a20b-80b714b10ed3",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "norwegian": "svømme",
+      "cefr": "A1",
+      "ipa": "[²svœmːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ff60bf9-2d97-4c95-ad16-28fb44e95224",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "norwegian": "kjøre",
+      "cefr": "A1",
+      "ipa": "[²çøːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c03bc6c-8979-48ac-9c9a-936dd148504c",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "norwegian": "reise",
+      "cefr": "A1",
+      "ipa": "[²ɾæɪsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "362cb843-3d04-4970-b74b-23aef2fbdd55",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "norwegian": "kjøpe",
+      "cefr": "A1",
+      "ipa": "[²çøːpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2edcc8b2-27b7-4581-bb19-fbcf2a5e49f7",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "norwegian": "betale",
+      "cefr": "A1",
+      "ipa": "[beˈtɑːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "761bb6ab-adbe-4abb-8c46-a2418add3d1e",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "norwegian": "koste",
+      "cefr": "A1",
+      "ipa": "[²kɔstə]",
+      "context": "hva koster det?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8689656-2899-4c75-9bfc-615c7b1f68f4",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "norwegian": "selge",
+      "cefr": "A2",
+      "ipa": "[²sɛlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe6a81e6-a711-4ace-b33c-2e94f2f1c946",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "norwegian": "åpne",
+      "cefr": "A1",
+      "ipa": "[²oːpnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "164058a9-9174-489b-9584-472036d88fbc",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "norwegian": "lukke",
+      "cefr": "A1",
+      "ipa": "[²lʉkːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63fa4de6-f4cd-4677-aa03-43677dc0c114",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "norwegian": "vente",
+      "cefr": "A1",
+      "ipa": "[²ʋɛntə]",
+      "context": "vente på: to wait for",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f03ee94a-d6cd-44e6-8556-c275cac4cf3e",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "norwegian": "begynne",
+      "cefr": "A1",
+      "ipa": "[beˈjʏnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35ba5bcb-92c9-438d-ad5e-b1be8d104c46",
+      "part-of-speech": "verb",
+      "english": "to stop, quit; to end",
+      "norwegian": "slutte",
+      "cefr": "A1",
+      "ipa": "[²slʉtːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50e7a85-7ff9-4199-a49b-99fa8b2a3438",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "norwegian": "stoppe",
+      "cefr": "A1",
+      "ipa": "[²stɔpːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5db88072-834d-4ec5-b57b-e43fe6bc7eec",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "norwegian": "spille",
+      "cefr": "A1",
+      "ipa": "[²spɪlːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c5540d4-0282-43b3-bd78-ae1cdaa99877",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "norwegian": "vaske",
+      "cefr": "A1",
+      "ipa": "[²ʋɑskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ce66489-2347-4005-851b-03dda43b21f1",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "norwegian": "hjelpe",
+      "cefr": "A1",
+      "ipa": "[²jɛlpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e441501-9527-4ec4-b1e0-3216fa50dec8",
+      "part-of-speech": "verb",
+      "english": "to call, phone",
+      "norwegian": "ringe",
+      "cefr": "A1",
+      "ipa": "[²ɾɪŋːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c84c036e-ac86-4647-8333-156856e9a46b",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "norwegian": "synge",
+      "cefr": "A1",
+      "ipa": "[²sʏŋːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b822109-8708-4763-a55c-a9dde37a63ac",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "norwegian": "danse",
+      "cefr": "A1",
+      "ipa": "[²dɑnsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49e24a74-bbe7-4a79-877d-7afedc909fc2",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "norwegian": "bruke",
+      "cefr": "A2",
+      "ipa": "[²bɾʉːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbb78822-71aa-47b5-8b64-037e10cc5677",
+      "part-of-speech": "verb",
+      "english": "to put, lay",
+      "norwegian": "legge",
+      "cefr": "A2",
+      "ipa": "[²lɛɡːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e18f0b59-6c40-48a9-b50c-0d33b8284026",
+      "part-of-speech": "verb",
+      "english": "to put, set",
+      "norwegian": "sette",
+      "cefr": "A2",
+      "ipa": "[²sɛtːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16e5715e-2734-47af-998c-24f6dff5b6f9",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "norwegian": "glemme",
+      "cefr": "A2",
+      "ipa": "[²ɡlɛmːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c70f7bb-ee12-4e7b-8db5-92a45e2df482",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "norwegian": "huske",
+      "cefr": "A2",
+      "ipa": "[²hʉskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50e7303d-17ae-4281-8fbe-958f1aa3e614",
+      "part-of-speech": "verb",
+      "english": "to try; to try on",
+      "norwegian": "prøve",
+      "cefr": "A2",
+      "ipa": "[²pɾøːʋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4318bf1-1288-4099-b0ca-bba2f38a26c8",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "norwegian": "forandre",
+      "cefr": "A2",
+      "ipa": "[fɔˈɾɑndɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b45bda02-620c-480e-8e52-61ebbc1153f9",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "norwegian": "sende",
+      "cefr": "A2",
+      "ipa": "[²sɛnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ced80022-7a91-4ad7-8084-d10dcaf0e650",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "norwegian": "miste",
+      "cefr": "A2",
+      "ipa": "[²mɪstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d58a2ec-99f1-4d27-b8ce-500b9665fa6a",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "norwegian": "vinne",
+      "cefr": "A2",
+      "ipa": "[²ʋɪnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d201f13a-9c07-4146-b9ba-e0dcef08fde4",
+      "part-of-speech": "verb",
+      "english": "to get married",
+      "norwegian": "gifte seg",
+      "cefr": "A2",
+      "ipa": "[²jɪftə sæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff104e97-ac98-4edc-89b7-dc0a45b371d2",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "norwegian": "besøke",
+      "cefr": "A2",
+      "ipa": "[beˈsøːkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8866f1a-85a8-4a08-a691-7cc8c7f5186d",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "norwegian": "møte",
+      "cefr": "A2",
+      "ipa": "[²møːtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f36c166e-4ba3-41a7-982f-7310222cc154",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "norwegian": "forklare",
+      "cefr": "A2",
+      "ipa": "[fɔɾˈklɑːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16c1ca9c-7b1e-48b8-875b-1563c490503c",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "norwegian": "oversette",
+      "cefr": "A2",
+      "ipa": "[²oːʋəˌʂɛtːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fae5363e-1ffd-4d56-b522-07ce8ff4f6f0",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "norwegian": "velge",
+      "cefr": "A2",
+      "ipa": "[²ʋɛlɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dd7f51c-7d41-434d-a3bc-765164175d60",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "norwegian": "føle",
+      "cefr": "A2",
+      "ipa": "[²føːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fde69a51-53b4-49d1-9e9e-89fc95443889",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "norwegian": "håpe",
+      "cefr": "A2",
+      "ipa": "[²hoːpə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e3b53a9-17c0-4863-bd08-6067e414ea18",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "norwegian": "le",
+      "cefr": "A2",
+      "ipa": "[leː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40fa91e8-3d3d-4f14-9bfa-b26dbd792d8b",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "norwegian": "gråte",
+      "cefr": "A2",
+      "ipa": "[²ɡɾoːtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac6ecc8b-80c8-4f98-800f-e310bdda22d0",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "norwegian": "falle",
+      "cefr": "A2",
+      "ipa": "[²fɑlːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e0802b2-6f56-4b2a-9b66-23dec59fcddc",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "norwegian": "fly",
+      "cefr": "A2",
+      "ipa": "[flyː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6eef4786-8371-48f3-9052-4dcbccbcb0cb",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "norwegian": "leie",
+      "cefr": "A2",
+      "ipa": "[²læɪə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bebe8946-c954-42e9-84e9-a4b5b3ccb5ef",
+      "part-of-speech": "verb",
+      "english": "to order, book",
+      "norwegian": "bestille",
+      "cefr": "A2",
+      "ipa": "[beˈstɪlːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2967bde5-7c18-475f-925b-e87882738928",
+      "part-of-speech": "verb",
+      "english": "to happen",
+      "norwegian": "skje",
+      "cefr": "A2",
+      "ipa": "[ʂeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e468fa7f-83b9-47de-8173-372ebd3297be",
+      "part-of-speech": "verb",
+      "english": "to rain",
+      "norwegian": "regne",
+      "cefr": "A2",
+      "ipa": "[²ɾæɪnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bf36c9a-1eca-4ec8-b716-59038ff27346",
+      "part-of-speech": "verb",
+      "english": "to snow",
+      "norwegian": "snø",
+      "cefr": "A2",
+      "ipa": "[snøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14f10c0f-8e1a-4764-a290-f3f5ce0e6562",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "norwegian": "vise",
+      "cefr": "A2",
+      "ipa": "[²viːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "484b2c6d-dc88-4a5e-972a-e62c1441b9b2",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "norwegian": "flytte",
+      "cefr": "A2",
+      "ipa": "[²flʏtːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "520cc83a-c8f3-41f3-a36f-720cd937299a",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "norwegian": "dø",
+      "cefr": "A2",
+      "ipa": "[døː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44267423-ae70-4f50-9d46-4faf071cc655",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "norwegian": "stor",
+      "cefr": "A1",
+      "ipa": "[stuːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99c54b25-4128-4128-bbf6-a0c391acfc59",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "norwegian": "liten",
+      "cefr": "A1",
+      "ipa": "[ˈliːtən]",
+      "context": "forms: lita (f), lite (n), små (plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e726f80-d029-4da8-a654-532398ab70a1",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "norwegian": "god",
+      "cefr": "A1",
+      "ipa": "[ɡuː]",
+      "context": "neuter: godt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7960fa5-9ff6-4ede-9a18-028d689db691",
+      "part-of-speech": "adjective",
+      "english": "good, fine",
+      "norwegian": "bra",
+      "cefr": "A1",
+      "ipa": "[bɾɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14ee81cc-f1e2-4c37-9744-6316df8d8a42",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "norwegian": "dårlig",
+      "cefr": "A1",
+      "ipa": "[²doːɭi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6908cd4-d0cf-4605-8fa2-87a210c88d15",
+      "part-of-speech": "adjective",
+      "english": "nice, fine; beautiful",
+      "norwegian": "fin",
+      "cefr": "A1",
+      "ipa": "[fiːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74177f3a-87fc-427a-89a2-71f25a247ed6",
+      "part-of-speech": "adjective",
+      "english": "pretty, good-looking",
+      "norwegian": "pen",
+      "cefr": "A1",
+      "ipa": "[peːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "642f888d-fca7-4e83-ad2f-4b8525059ac6",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "norwegian": "stygg",
+      "cefr": "A2",
+      "ipa": "[stʏɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23c1dad8-1e0f-454b-b778-c2c7c31cf24d",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "norwegian": "ny",
+      "cefr": "A1",
+      "ipa": "[nyː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f8b04ca-a912-4b72-8c80-fdf4d5972407",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "norwegian": "gammel",
+      "cefr": "A1",
+      "ipa": "[ˈɡɑmːəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf51c639-e53d-4afa-85d6-f6de2f985c30",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "norwegian": "ung",
+      "cefr": "A1",
+      "ipa": "[ʊŋː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ff21dab-f700-46e0-a8e9-76edb562f88b",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "norwegian": "høy",
+      "cefr": "A1",
+      "ipa": "[hœʏ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beb32920-f932-4d42-9354-5259ee439074",
+      "part-of-speech": "adjective",
+      "english": "low",
+      "norwegian": "lav",
+      "cefr": "A2",
+      "ipa": "[lɑːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa5e0e3d-8d08-4826-8842-e05bfca644c1",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "norwegian": "lang",
+      "cefr": "A1",
+      "ipa": "[lɑŋː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35aaa2b6-d3bd-40b9-82f0-31a6595c4dfb",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "norwegian": "kort",
+      "cefr": "A1",
+      "ipa": "[kɔʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6207c7a-7dca-41e9-a8b7-6be6c7aedddd",
+      "part-of-speech": "adjective",
+      "english": "warm, hot",
+      "norwegian": "varm",
+      "cefr": "A1",
+      "ipa": "[ʋɑɾm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c437aefc-5fe6-4a24-8095-dbfae38af546",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "norwegian": "kald",
+      "cefr": "A1",
+      "ipa": "[kɑlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c5d1388-3949-48fc-aa3a-202ee3c5a212",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "norwegian": "rask",
+      "cefr": "A1",
+      "ipa": "[ɾɑsk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "821a089c-a3c6-4c55-86b2-4420d6b2cede",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "norwegian": "sakte",
+      "cefr": "A1",
+      "ipa": "[²sɑktə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42109ead-65c4-4e17-afde-c13aa5598584",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "norwegian": "lett",
+      "cefr": "A1",
+      "ipa": "[lɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "170d2964-5885-4da4-aa88-b3cfe6b057f3",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "norwegian": "vanskelig",
+      "cefr": "A1",
+      "ipa": "[²ʋɑnskəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e507a2e-e80a-4cd8-aeac-9b1684b613b4",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "norwegian": "billig",
+      "cefr": "A1",
+      "ipa": "[ˈbɪlːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf1744b7-9c92-421a-92e6-f8b7f1f00ab4",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "norwegian": "dyr",
+      "cefr": "A1",
+      "ipa": "[dyːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2970a0dc-f8a6-4292-896a-1a64d7d802e8",
+      "part-of-speech": "adjective",
+      "english": "happy, glad",
+      "norwegian": "glad",
+      "cefr": "A1",
+      "ipa": "[ɡlɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd0052ee-0e83-48c0-babf-07d36da9fd5e",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "norwegian": "lykkelig",
+      "cefr": "A2",
+      "ipa": "[²lʏkːəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a987e31-5d1b-4c31-adde-e3ffb942255a",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "norwegian": "trist",
+      "cefr": "A1",
+      "ipa": "[tɾɪst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72df8f9d-776e-4223-b8fb-5e95e10285f7",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "norwegian": "sint",
+      "cefr": "A2",
+      "ipa": "[sɪnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c82b27b-f945-42c5-9bb2-97978072c58a",
+      "part-of-speech": "adjective",
+      "english": "afraid",
+      "norwegian": "redd",
+      "cefr": "A2",
+      "ipa": "[ɾɛd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6a31754-f991-4a14-8d80-b34ae5fb9ca4",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "norwegian": "trøtt",
+      "cefr": "A1",
+      "ipa": "[tɾœt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6077258b-3813-401d-aa88-dd5071435847",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "norwegian": "syk",
+      "cefr": "A1",
+      "ipa": "[syːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5398ae52-c949-4f99-a3b6-a7cfcca1b411",
+      "part-of-speech": "adjective",
+      "english": "healthy, well",
+      "norwegian": "frisk",
+      "cefr": "A2",
+      "ipa": "[fɾɪsk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "316983ff-ffd7-4a8f-b994-6fda839a2723",
+      "part-of-speech": "adjective",
+      "english": "delicious; lovely",
+      "norwegian": "deilig",
+      "cefr": "A1",
+      "ipa": "[²dæɪli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28f15d28-0897-4fb6-882d-f1fd950420c5",
+      "part-of-speech": "adjective",
+      "english": "nice, pleasant, friendly",
+      "norwegian": "hyggelig",
+      "cefr": "A1",
+      "ipa": "[²hʏɡːəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3fa2a6f-1835-495a-95df-de3bf149b486",
+      "part-of-speech": "adjective",
+      "english": "kind",
+      "norwegian": "snill",
+      "cefr": "A2",
+      "ipa": "[snɪlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0a8fc46-f0eb-4ebb-b016-7528cd748e00",
+      "part-of-speech": "adjective",
+      "english": "clever, smart",
+      "norwegian": "smart",
+      "cefr": "A2",
+      "ipa": "[smɑːʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8058a1cc-b5b5-4691-a306-9d07c3a34642",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "norwegian": "åpen",
+      "cefr": "A1",
+      "ipa": "[ˈoːpən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "746949ba-e1cd-49ae-bae9-b6efc09facca",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "norwegian": "stengt",
+      "cefr": "A1",
+      "ipa": "[stɛŋt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efd26a0f-a300-43c0-b939-781cffd40cfa",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "norwegian": "ren",
+      "cefr": "A1",
+      "ipa": "[ɾeːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1e10cfe-5a28-4868-ac9c-99b87910d847",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "norwegian": "skitten",
+      "cefr": "A1",
+      "ipa": "[ˈʂɪtːən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2834896-3617-4afa-9360-beb02a290b48",
+      "part-of-speech": "adjective",
+      "english": "busy; occupied",
+      "norwegian": "opptatt",
+      "cefr": "A1",
+      "ipa": "[²ɔpˌtɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ac6c879-aa25-49f1-abb6-f21fe0fe462d",
+      "part-of-speech": "adjective",
+      "english": "free, available",
+      "norwegian": "ledig",
+      "cefr": "A1",
+      "ipa": "[²leːdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33f06fb6-b540-4630-b489-a8ead444d0a9",
+      "part-of-speech": "adjective",
+      "english": "finished, ready",
+      "norwegian": "ferdig",
+      "cefr": "A1",
+      "ipa": "[²fæɖːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47d482af-f72d-4032-bb10-c5e597873d3f",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "norwegian": "viktig",
+      "cefr": "A2",
+      "ipa": "[²ʋɪkti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bc9c2a4-b6d6-4798-94b6-f791b3e39db1",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "norwegian": "interessant",
+      "cefr": "A2",
+      "ipa": "[ɪntəɾeˈsɑnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c55d728a-b341-4823-a645-66befcac63fe",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "norwegian": "kjedelig",
+      "cefr": "A2",
+      "ipa": "[²çeːdəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c31c39a7-4251-4731-91cf-ebcbaf859539",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "norwegian": "mulig",
+      "cefr": "A2",
+      "ipa": "[²mʉːli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e222d566-c69c-4262-bec5-897e79bceddd",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "norwegian": "annen",
+      "cefr": "A1",
+      "ipa": "[ˈɑːən]",
+      "context": "neuter: annet; plural: andre",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "303286cf-e778-4387-8df9-62bd9a306e01",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "norwegian": "samme",
+      "cefr": "A2",
+      "ipa": "[²sɑmːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58897377-ad42-4538-a771-3974193a8042",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "norwegian": "forskjellig",
+      "cefr": "A2",
+      "ipa": "[fɔˈʂɛlːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "919c21f8-2cbc-4e9c-ad9c-6cb5ef7113c9",
+      "part-of-speech": "adjective",
+      "english": "right, correct",
+      "norwegian": "riktig",
+      "cefr": "A1",
+      "ipa": "[²ɾɪkti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f050174-24dd-40c7-8d42-88c7c0775c16",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "norwegian": "feil",
+      "cefr": "A1",
+      "ipa": "[fæɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "700b5523-8093-4478-a08c-9c29a8f6e786",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "norwegian": "full",
+      "cefr": "A2",
+      "ipa": "[fʉlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74e9f288-3eb7-40a0-996f-3daa3dcce253",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "norwegian": "tom",
+      "cefr": "A2",
+      "ipa": "[tʊmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7f672e8-88bc-4d9f-b9a9-bd62b127ebd2",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "norwegian": "rik",
+      "cefr": "A2",
+      "ipa": "[ɾiːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c13879c-a3f6-474a-b285-cfd22b24d6ff",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "norwegian": "fattig",
+      "cefr": "A2",
+      "ipa": "[²fɑtːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83b9ca22-3d36-43d7-bb08-62a845582c4d",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "norwegian": "tung",
+      "cefr": "A2",
+      "ipa": "[tʊŋː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11e0f321-8466-4584-9623-9ce41d75e52f",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "norwegian": "sterk",
+      "cefr": "A2",
+      "ipa": "[stæɾk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c5231ee-6f41-4d5b-b96f-4320966980f2",
+      "part-of-speech": "adjective",
+      "english": "thick; fat",
+      "norwegian": "tykk",
+      "cefr": "A2",
+      "ipa": "[tʏk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "385a3cdb-c7af-4abe-8659-c01efe62a069",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "norwegian": "tynn",
+      "cefr": "A2",
+      "ipa": "[tʏnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4915582-d8db-4a05-bee1-8f684d2d248b",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "norwegian": "rød",
+      "cefr": "A1",
+      "ipa": "[ɾøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "888887bb-c699-4d60-83c1-1a6290294b0b",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "norwegian": "blå",
+      "cefr": "A1",
+      "ipa": "[bloː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7753473-96c5-488f-a57c-976b648c3ba9",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "norwegian": "grønn",
+      "cefr": "A1",
+      "ipa": "[ɡɾœnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86427910-49a6-4038-b335-9fcfe539afd8",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "norwegian": "gul",
+      "cefr": "A1",
+      "ipa": "[ɡʉːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4f46b52-dd47-4a93-ace4-0c707480d4cc",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "norwegian": "svart",
+      "cefr": "A1",
+      "ipa": "[svɑʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1c16844-aefa-47c5-9bd5-113368508afb",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "norwegian": "hvit",
+      "cefr": "A1",
+      "ipa": "[viːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8a03701-5c3b-4bf6-8ff9-67885110d48a",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "norwegian": "brun",
+      "cefr": "A1",
+      "ipa": "[bɾʉːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1425b47-5788-4cf9-80ee-125ed855f35a",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "norwegian": "grå",
+      "cefr": "A1",
+      "ipa": "[ɡɾoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a1e63f0-0307-403c-b365-3b4e0fa4f0b2",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "norwegian": "oransje",
+      "cefr": "A1",
+      "ipa": "[ʊˈɾɑnʂə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2696ab9-4b0c-4389-a11d-67940c9d22f4",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "norwegian": "rosa",
+      "cefr": "A2",
+      "ipa": "[²ɾuːsɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a688a218-aa2b-4bf4-872e-77479e2d0966",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "norwegian": "lilla",
+      "cefr": "A2",
+      "ipa": "[²lɪlːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5e330b3-002a-4ad0-98fe-094e4e9d7cc1",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "norwegian": "nå",
+      "cefr": "A1",
+      "ipa": "[noː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "323fdd7b-9c42-4084-926d-f5374d567aa1",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "norwegian": "i dag",
+      "cefr": "A1",
+      "ipa": "[ɪ ˈdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeea3791-b8ea-474d-8359-98ab40e27501",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "norwegian": "i morgen",
+      "cefr": "A1",
+      "ipa": "[ɪ ˈmɔːɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7185058e-cc95-4ca0-82cf-6f5810af0659",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "norwegian": "i går",
+      "cefr": "A1",
+      "ipa": "[ɪ ˈɡoːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b2c53c2-609d-4cab-a0c1-bb6cdcea18e6",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "norwegian": "her",
+      "cefr": "A1",
+      "ipa": "[hæːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65d50ad3-fe77-47f3-a7f2-5134d2dd1998",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "norwegian": "der",
+      "cefr": "A1",
+      "ipa": "[dæːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d164025e-2b6f-4964-b724-8042a960ce28",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "norwegian": "ikke",
+      "cefr": "A1",
+      "ipa": "[²ɪkːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7da0329-8b4b-4992-9973-e3931b6d17d5",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "norwegian": "også",
+      "cefr": "A1",
+      "ipa": "[²ɔsːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94e291e6-6144-4514-92e1-cc5500ff8a16",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "norwegian": "veldig",
+      "cefr": "A1",
+      "ipa": "[²ʋɛldi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ffd23e4-0b3b-4e28-9b02-162bde1d0d00",
+      "part-of-speech": "adverb",
+      "english": "much, a lot",
+      "norwegian": "mye",
+      "cefr": "A1",
+      "ipa": "[²myːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "880efcf1-d330-4eca-85ac-c24aad9f1aaf",
+      "part-of-speech": "adverb",
+      "english": "a little, a bit",
+      "norwegian": "litt",
+      "cefr": "A1",
+      "ipa": "[lɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a346efb-797a-4e82-bd92-09c302ec5a0b",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "norwegian": "mer",
+      "cefr": "A1",
+      "ipa": "[meːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04b9fc94-8bd7-4dcf-83b5-ecf43f5dd24b",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "norwegian": "mindre",
+      "cefr": "A2",
+      "ipa": "[²mɪndɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df3a00f8-b927-4e32-b4c1-4b4f5663bea6",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "norwegian": "alltid",
+      "cefr": "A1",
+      "ipa": "[²ɑlːtiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12bc353e-53ad-44a6-9fe8-f6142c68a0b0",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "norwegian": "aldri",
+      "cefr": "A1",
+      "ipa": "[²ɑldɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d9da165-1958-4759-95f9-b28a5b6e7041",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "norwegian": "noen ganger",
+      "cefr": "A1",
+      "ipa": "[²nuːən ˈɡɑŋəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4030b62-d2af-4617-94b4-e5d7f0e3ae4c",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "norwegian": "ofte",
+      "cefr": "A1",
+      "ipa": "[²ɔftə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18fe49d5-232e-4b82-803f-76d1028de07d",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "norwegian": "vanligvis",
+      "cefr": "A2",
+      "ipa": "[²ʋɑːnliˌʋiːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef50c494-efaa-4cf1-b081-799018dbcf66",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "norwegian": "allerede",
+      "cefr": "A1",
+      "ipa": "[ɑləˈɾeːdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a0ce82f-9d5e-4fa7-9d30-e0146efebe98",
+      "part-of-speech": "adverb",
+      "english": "still",
+      "norwegian": "fortsatt",
+      "cefr": "A1",
+      "ipa": "[ˈfʊʈsɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dfbbf6a-8f1f-4726-b1f7-93bf847aa5a9",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "norwegian": "igjen",
+      "cefr": "A1",
+      "ipa": "[ɪˈjɛnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b370298-ab3b-493b-9093-ef0acc470de3",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "norwegian": "sammen",
+      "cefr": "A1",
+      "ipa": "[²sɑmːən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae0711e4-8583-41bc-89da-5fcf77ffdf06",
+      "part-of-speech": "adverb",
+      "english": "alone",
+      "norwegian": "alene",
+      "cefr": "A1",
+      "ipa": "[ɑˈleːnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0c92e12-f7ce-4ca9-9399-a261e40413a5",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "norwegian": "kanskje",
+      "cefr": "A1",
+      "ipa": "[²kɑnʂə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd07f2b4-4374-4473-bb18-aec8c36820dc",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "norwegian": "senere",
+      "cefr": "A1",
+      "ipa": "[²seːnəɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaaf1189-76ee-43ee-bcb6-6487cf8d8480",
+      "part-of-speech": "adverb",
+      "english": "first",
+      "norwegian": "først",
+      "cefr": "A1",
+      "ipa": "[fœʂt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d5a97e0-a9cb-4b28-94a9-822eb1afccaf",
+      "part-of-speech": "adverb",
+      "english": "then; so",
+      "norwegian": "så",
+      "cefr": "A1",
+      "ipa": "[soː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4869c6f1-98c3-4184-96b7-dcf26ebf8c43",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "norwegian": "tidlig",
+      "cefr": "A1",
+      "ipa": "[²tiːli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b9bfd18-6388-4748-bcf5-fd92cf363c1b",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "norwegian": "sent",
+      "cefr": "A1",
+      "ipa": "[seːnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a0e036b-edd5-4874-891f-823928365b6e",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "norwegian": "godt",
+      "cefr": "A1",
+      "ipa": "[ɡɔt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c7f8771-c24b-44bf-9f1d-774cf8abbe36",
+      "part-of-speech": "adverb",
+      "english": "only, just",
+      "norwegian": "bare",
+      "cefr": "A1",
+      "ipa": "[²bɑːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88618c58-c966-48dc-86fe-7fc273cb74f3",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "norwegian": "nesten",
+      "cefr": "A2",
+      "ipa": "[ˈnɛstən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46a9170e-a5ed-40ce-91c4-e222f44b5a01",
+      "part-of-speech": "adverb",
+      "english": "right away, soon",
+      "norwegian": "straks",
+      "cefr": "A2",
+      "ipa": "[stɾɑks]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bdae331-89af-46f1-8c23-713d34d23fb0",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "norwegian": "selvfølgelig",
+      "cefr": "A2",
+      "ipa": "[sɛlˈfœlɡəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfdbe73b-c2f3-4f4c-a81e-045a794ab8dd",
+      "part-of-speech": "adverb",
+      "english": "quite, fairly",
+      "norwegian": "ganske",
+      "cefr": "A2",
+      "ipa": "[²ɡɑnskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a04f356-d26e-4de3-8982-8688b6cb7ae7",
+      "part-of-speech": "adverb",
+      "english": "too (for dyrt: too expensive)",
+      "norwegian": "for",
+      "cefr": "A2",
+      "ipa": "[fɔɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "feaa2a0a-07b5-4647-8722-f658e13920ba",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "norwegian": "langt",
+      "cefr": "A1",
+      "ipa": "[lɑŋt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2b62c44-3adf-4452-8960-b44f33b71d46",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "norwegian": "til venstre",
+      "cefr": "A1",
+      "ipa": "[tɪl ˈʋɛnstɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e06c99d-b1c4-4c5e-9876-976e7fc217bd",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "norwegian": "til høyre",
+      "cefr": "A1",
+      "ipa": "[tɪl ²hœʏɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7beef92-8148-4763-b24f-eb1215bdc030",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "norwegian": "rett fram",
+      "cefr": "A2",
+      "ipa": "[ɾɛt ˈfɾɑmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a5b289d-f87e-498c-beb0-5123c8f1fadc",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "norwegian": "hjemme",
+      "cefr": "A1",
+      "ipa": "[²jɛmːə]",
+      "context": "hjem: (to) home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90c98a72-b77a-44b9-9913-071f5fe511e2",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "norwegian": "inne",
+      "cefr": "A2",
+      "ipa": "[²ɪnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a226a28-c099-48d2-99e7-97c5771e16b2",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "norwegian": "ute",
+      "cefr": "A2",
+      "ipa": "[²ʉːtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3d8c553-3ff5-4a26-abac-890b82864d27",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "norwegian": "hvor",
+      "cefr": "A1",
+      "ipa": "[vuːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "996adc35-8e2b-47d1-9e62-d56fc5110952",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "norwegian": "når",
+      "cefr": "A1",
+      "ipa": "[noːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "175c6fee-769a-4c88-bbf5-9a6784d40120",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "norwegian": "hvordan",
+      "cefr": "A1",
+      "ipa": "[²vuːɖɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d024745-4b82-4c0e-9aca-721fa2e1bebf",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "norwegian": "hvorfor",
+      "cefr": "A1",
+      "ipa": "[²vuːɾfɔɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5803b43-2aa8-4ad7-8729-6002a1117ebe",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "norwegian": "hvor mye",
+      "cefr": "A1",
+      "ipa": "[vuːɾ ²myːə]",
+      "context": "hvor mange: how many",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8527baec-e08b-41db-bc5e-08a9635f98e8",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "norwegian": "jeg",
+      "cefr": "A1",
+      "ipa": "[jæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8df1a60b-f145-4943-aec2-55b52514696f",
+      "part-of-speech": "pronoun",
+      "english": "you (singular)",
+      "norwegian": "du",
+      "cefr": "A1",
+      "ipa": "[dʉː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5450010f-d3fb-4114-a1d2-85e219f93585",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "norwegian": "han",
+      "cefr": "A1",
+      "ipa": "[hɑnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f65bf763-4cbe-413d-998c-c770ebbf9e1e",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "norwegian": "hun",
+      "cefr": "A1",
+      "ipa": "[hʉnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51d03f10-adea-4026-bb7d-000674eb9d3b",
+      "part-of-speech": "pronoun",
+      "english": "it; that",
+      "norwegian": "det",
+      "cefr": "A1",
+      "ipa": "[deː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "209379f5-03e9-47e6-bdce-fff558607603",
+      "part-of-speech": "pronoun",
+      "english": "it; that",
+      "norwegian": "den",
+      "cefr": "A1",
+      "ipa": "[dɛnː]",
+      "context": "for en- and ei-words; det for et-words",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e59a472-e65f-4f94-8ead-9a19d884067b",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "norwegian": "vi",
+      "cefr": "A1",
+      "ipa": "[viː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60bd5b32-1483-40bf-b857-d46878cfc00c",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "norwegian": "dere",
+      "cefr": "A1",
+      "ipa": "[²deːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64dba186-f874-4425-8582-8659e0e2e2e2",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "norwegian": "de",
+      "cefr": "A1",
+      "ipa": "[diː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d548dc9e-c78a-4cae-b078-c106284ed38a",
+      "part-of-speech": "pronoun",
+      "english": "me",
+      "norwegian": "meg",
+      "cefr": "A1",
+      "ipa": "[mæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65bc639b-793a-421e-a592-905015a3c1c7",
+      "part-of-speech": "pronoun",
+      "english": "you (object)",
+      "norwegian": "deg",
+      "cefr": "A1",
+      "ipa": "[dæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afcc93e4-7383-4096-9f3c-f2b542cdb555",
+      "part-of-speech": "pronoun",
+      "english": "him",
+      "norwegian": "ham",
+      "cefr": "A1",
+      "ipa": "[hɑmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de319097-b810-4ca9-9c82-e2661add94a9",
+      "part-of-speech": "pronoun",
+      "english": "her",
+      "norwegian": "henne",
+      "cefr": "A1",
+      "ipa": "[²hɛnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c02f1ef-1ba4-425b-a4a9-4c196f8298e0",
+      "part-of-speech": "pronoun",
+      "english": "us",
+      "norwegian": "oss",
+      "cefr": "A1",
+      "ipa": "[ɔsː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d74f6bca-b01f-4eee-b057-8a125c69154d",
+      "part-of-speech": "pronoun",
+      "english": "them",
+      "norwegian": "dem",
+      "cefr": "A1",
+      "ipa": "[dɛmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b57bb61f-d771-45d4-89ea-6db724c2519c",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "norwegian": "min",
+      "cefr": "A1",
+      "ipa": "[miːn]",
+      "context": "forms: mi (f), mitt (n), mine (plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2620d15-acd1-45d5-9266-81a02433bbae",
+      "part-of-speech": "pronoun",
+      "english": "your (singular)",
+      "norwegian": "din",
+      "cefr": "A1",
+      "ipa": "[diːn]",
+      "context": "forms: di (f), ditt (n), dine (plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6db20858-5742-477c-98f3-d3fbbe2e35ff",
+      "part-of-speech": "pronoun",
+      "english": "his",
+      "norwegian": "hans",
+      "cefr": "A1",
+      "ipa": "[hɑns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f749ed3-6424-4d2b-8b54-f72452be81e6",
+      "part-of-speech": "pronoun",
+      "english": "her, hers",
+      "norwegian": "hennes",
+      "cefr": "A1",
+      "ipa": "[ˈhɛnːəs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d675921-b3cb-49a1-a8c7-af564db07676",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "norwegian": "vår",
+      "cefr": "A1",
+      "ipa": "[voːɾ]",
+      "context": "forms: vårt (n), våre (plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "682c8517-b6d6-437c-b220-443657fbfa07",
+      "part-of-speech": "pronoun",
+      "english": "your (plural); their",
+      "norwegian": "deres",
+      "cefr": "A1",
+      "ipa": "[²deːɾəs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51fc52b3-7d38-4af6-9e0e-338c275298fd",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "norwegian": "denne",
+      "cefr": "A1",
+      "ipa": "[²dɛnːə]",
+      "context": "neuter: dette; plural: disse",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a51bf7f6-f8de-4a1d-bc82-f845ee38b28f",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "norwegian": "hva",
+      "cefr": "A1",
+      "ipa": "[vɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab594a87-9ec4-4395-9b0f-46dde4e77d98",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "norwegian": "hvem",
+      "cefr": "A1",
+      "ipa": "[vɛmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3c48178-70df-46df-a7ee-a0650d151d07",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "norwegian": "hvilken",
+      "cefr": "A1",
+      "ipa": "[ˈʋɪlkən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e3971da-18a7-48ba-b90b-9d2bbc501094",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "norwegian": "alt",
+      "cefr": "A1",
+      "ipa": "[ɑlt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85b914b3-ba3a-4a79-bf08-e88e944785a3",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "norwegian": "noe",
+      "cefr": "A2",
+      "ipa": "[²nuːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40dd6315-e3c1-4252-8bde-fa97828178ac",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "norwegian": "ingenting",
+      "cefr": "A2",
+      "ipa": "[²ɪŋənˌtɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0634f1ef-c9c9-47dc-a75b-afc06884f0f5",
+      "part-of-speech": "pronoun",
+      "english": "someone; some",
+      "norwegian": "noen",
+      "cefr": "A2",
+      "ipa": "[²nuːən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "254a4311-a95d-49cb-9c97-420cfa5f5f11",
+      "part-of-speech": "pronoun",
+      "english": "no one; no",
+      "norwegian": "ingen",
+      "cefr": "A2",
+      "ipa": "[²ɪŋːən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f6907fa-8578-4a52-ad59-2bb21283d3d2",
+      "part-of-speech": "preposition",
+      "english": "in",
+      "norwegian": "i",
+      "cefr": "A1",
+      "ipa": "[iː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9b9d428-30ad-4313-9872-7cc386fc0f8e",
+      "part-of-speech": "preposition",
+      "english": "on, at",
+      "norwegian": "på",
+      "cefr": "A1",
+      "ipa": "[poː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dd9be95-f3a4-4339-8d05-6edef6a31cd9",
+      "part-of-speech": "preposition",
+      "english": "to",
+      "norwegian": "til",
+      "cefr": "A1",
+      "ipa": "[tɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6cd64b3-91e4-4cfd-a4ce-45e612fb6772",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "norwegian": "fra",
+      "cefr": "A1",
+      "ipa": "[fɾɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b63761e-188f-4531-bc1b-2dd4ec629f3a",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "norwegian": "med",
+      "cefr": "A1",
+      "ipa": "[meː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afb6adcc-954c-424b-8c86-510abc91c9b8",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "norwegian": "uten",
+      "cefr": "A1",
+      "ipa": "[ˈʉːtən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f917b79-5fae-4e2e-8d37-9e90a059a41a",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "norwegian": "for",
+      "cefr": "A1",
+      "ipa": "[fɔɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2703831b-eaf1-4548-8d51-693aaa88c0cf",
+      "part-of-speech": "preposition",
+      "english": "about; in (time)",
+      "norwegian": "om",
+      "cefr": "A1",
+      "ipa": "[ɔmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "427a0e1c-ecdf-48bf-8fb9-8d832ed55c70",
+      "part-of-speech": "preposition",
+      "english": "of; by",
+      "norwegian": "av",
+      "cefr": "A1",
+      "ipa": "[ɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5e4fc7e-7b74-40ec-81ef-0a131777015f",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place)",
+      "norwegian": "hos",
+      "cefr": "A1",
+      "ipa": "[hʊs]",
+      "context": "hos legen: at the doctor's",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f75452c4-108f-4180-bfd2-a11b23eb8f10",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "norwegian": "etter",
+      "cefr": "A1",
+      "ipa": "[ˈɛtːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3baa9114-a373-4fe2-a723-62ad909b50a8",
+      "part-of-speech": "preposition",
+      "english": "before",
+      "norwegian": "før",
+      "cefr": "A1",
+      "ipa": "[føːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b6eac8d-7abc-4eca-b349-23e26d78e006",
+      "part-of-speech": "preposition",
+      "english": "under; during",
+      "norwegian": "under",
+      "cefr": "A1",
+      "ipa": "[ˈʉnːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27005ad9-c43f-4a49-ae23-631867048ae8",
+      "part-of-speech": "preposition",
+      "english": "over, above",
+      "norwegian": "over",
+      "cefr": "A1",
+      "ipa": "[ˈoːʋəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a43e4275-5fc8-465c-9dc3-75e1287a39f4",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "norwegian": "mellom",
+      "cefr": "A2",
+      "ipa": "[ˈmɛlːɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb234f4e-7337-4e86-b8d2-ee20cfc161b3",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "norwegian": "bak",
+      "cefr": "A1",
+      "ipa": "[bɑːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00176824-3f98-4130-86fb-4011b24674a2",
+      "part-of-speech": "preposition",
+      "english": "in front of",
+      "norwegian": "foran",
+      "cefr": "A1",
+      "ipa": "[ˈfɔɾɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9878078c-4a5f-42bb-8ccc-5a4824d98f26",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "norwegian": "ved siden av",
+      "cefr": "A2",
+      "ipa": "[ʋe ˈsiːdən ɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22163194-6cca-4863-8464-1b50e7df1033",
+      "part-of-speech": "preposition",
+      "english": "by, at",
+      "norwegian": "ved",
+      "cefr": "A2",
+      "ipa": "[ʋeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bebb7a2-d467-43d7-be98-53c350365a10",
+      "part-of-speech": "preposition",
+      "english": "towards; against",
+      "norwegian": "mot",
+      "cefr": "A2",
+      "ipa": "[muːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36f6e673-6d7e-48b6-9f1e-382cc571ff9c",
+      "part-of-speech": "preposition",
+      "english": "through",
+      "norwegian": "gjennom",
+      "cefr": "A2",
+      "ipa": "[ˈjɛnːɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a4f2021-a25e-4439-8626-341dec0e2d6c",
+      "part-of-speech": "preposition",
+      "english": "since",
+      "norwegian": "siden",
+      "cefr": "A2",
+      "ipa": "[ˈsiːdən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d23620fa-5043-4699-9c2e-aa383e510170",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "norwegian": "og",
+      "cefr": "A1",
+      "ipa": "[ɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "261696f1-ec19-4ef7-b677-da29eef0dda9",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "norwegian": "eller",
+      "cefr": "A1",
+      "ipa": "[ˈɛlːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "204f07e8-60da-42bf-8298-40c0ba09eeb2",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "norwegian": "men",
+      "cefr": "A1",
+      "ipa": "[mɛnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "075a9b6d-e54c-418b-a919-844fe20a918d",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "norwegian": "fordi",
+      "cefr": "A1",
+      "ipa": "[fɔˈɖiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41f7262e-6284-4471-9d31-a6646f8122dd",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "norwegian": "at",
+      "cefr": "A1",
+      "ipa": "[ɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba9f1710-6cd5-4e4a-b0d3-0c8fa11da427",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "norwegian": "hvis",
+      "cefr": "A1",
+      "ipa": "[ʋɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5360dc5f-c810-409f-b7fe-03f653ba1515",
+      "part-of-speech": "conjunction",
+      "english": "who, which, that",
+      "norwegian": "som",
+      "cefr": "A1",
+      "ipa": "[sɔmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bf23d86-43fe-4d32-92c0-0fd2919a261c",
+      "part-of-speech": "conjunction",
+      "english": "so",
+      "norwegian": "så",
+      "cefr": "A1",
+      "ipa": "[soː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c03843cd-ab32-4952-8f0d-3fa9365c6c5a",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "norwegian": "mens",
+      "cefr": "A2",
+      "ipa": "[mɛns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28763215-cd07-4114-b290-613b8f2ff9df",
+      "part-of-speech": "conjunction",
+      "english": "when (in the past)",
+      "norwegian": "da",
+      "cefr": "A2",
+      "ipa": "[dɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bed0e2f-7584-491f-8f2e-1a214531ac97",
+      "part-of-speech": "conjunction",
+      "english": "when; whenever",
+      "norwegian": "når",
+      "cefr": "A2",
+      "ipa": "[noːɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abddd96f-cffb-4a39-a936-3cf06a47eb8e",
+      "part-of-speech": "conjunction",
+      "english": "even though, although",
+      "norwegian": "selv om",
+      "cefr": "A2",
+      "ipa": "[sɛl ˈɔmː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03d2caf8-d6d1-4e05-becb-59a0809df262",
+      "part-of-speech": "conjunction",
+      "english": "than",
+      "norwegian": "enn",
+      "cefr": "A2",
+      "ipa": "[ɛnː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68a104ec-996a-4b15-8547-776b0c2bcf2f",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "norwegian": "ja",
+      "cefr": "A1",
+      "ipa": "[jɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56d9b8e6-8142-4024-a4b9-09affe3ea6bf",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "norwegian": "nei",
+      "cefr": "A1",
+      "ipa": "[næɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d76e6326-5688-4043-b27a-64d397b10fab",
+      "part-of-speech": "interjection",
+      "english": "hi, hello",
+      "norwegian": "hei",
+      "cefr": "A1",
+      "ipa": "[hæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f1d9f44-a00f-44de-ae82-8a0bf47a5454",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "norwegian": "hallo",
+      "cefr": "A1",
+      "ipa": "[hɑˈlʊː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b432cb19-bee0-47f6-89d8-88f3f6ac09f4",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "norwegian": "god morgen",
+      "cefr": "A1",
+      "ipa": "[ɡʊ ˈmɔːɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84f03122-7965-43ab-af4d-967ef9aaa76c",
+      "part-of-speech": "interjection",
+      "english": "good day",
+      "norwegian": "god dag",
+      "cefr": "A1",
+      "ipa": "[ɡʊ ˈdɑːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "695a3aca-7f6e-4f34-a72c-e076e73946a1",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "norwegian": "god kveld",
+      "cefr": "A1",
+      "ipa": "[ɡʊ ˈkʋɛlː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3b65623-8214-49a8-9de8-ff0ccdf01646",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "norwegian": "god natt",
+      "cefr": "A1",
+      "ipa": "[ɡʊ ˈnɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05e5b68d-fbb7-412b-8a11-ce86df85850d",
+      "part-of-speech": "interjection",
+      "english": "bye",
+      "norwegian": "ha det",
+      "cefr": "A1",
+      "ipa": "[ˈhɑː de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99a78955-c9bf-4c8a-951e-44d33bff9e4e",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "norwegian": "ha det bra",
+      "cefr": "A1",
+      "ipa": "[ˈhɑː de ˈbɾɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd26a62b-ec8c-48e3-bff2-40a3bb24e15e",
+      "part-of-speech": "interjection",
+      "english": "see you",
+      "norwegian": "vi ses",
+      "cefr": "A1",
+      "ipa": "[ʋi ˈseːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5acb9ba4-ce55-4706-b5d0-e84358a95fcd",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "norwegian": "takk",
+      "cefr": "A1",
+      "ipa": "[tɑk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "250f5858-fc72-4ef1-b269-3467aaeb94df",
+      "part-of-speech": "interjection",
+      "english": "thank you very much",
+      "norwegian": "tusen takk",
+      "cefr": "A1",
+      "ipa": "[ˈtʉːsən ˈtɑk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13113157-0610-4972-92ec-7dc0548d60d4",
+      "part-of-speech": "interjection",
+      "english": "here you are; you're welcome; please (go ahead)",
+      "norwegian": "vær så god",
+      "cefr": "A1",
+      "ipa": "[²væːʂəˌɡuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d853288-7f55-4201-8641-4b5da31fb8b3",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "norwegian": "ingen årsak",
+      "cefr": "A1",
+      "ipa": "[²ɪŋːən ˈoːʂɑːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b870c68-ec8d-4008-95ba-95f6013ef0ba",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "norwegian": "unnskyld",
+      "cefr": "A1",
+      "ipa": "[²ʉnːˌʂʏl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a39a15b0-38dc-4b14-8da7-b2d3263b43ea",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "norwegian": "beklager",
+      "cefr": "A1",
+      "ipa": "[beˈklɑːɡəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "697ef333-0b7e-4520-baa0-e542ba046a97",
+      "part-of-speech": "interjection",
+      "english": "okay",
+      "norwegian": "ok",
+      "cefr": "A1",
+      "ipa": "[ɔˈkæɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99ba2348-d211-45c2-b4c5-525a2aee76ce",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "norwegian": "hvordan går det",
+      "cefr": "A1",
+      "ipa": "[²vuːɖɑn ˈɡoːɾ deː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e0ff158-3dd5-4d61-b45c-a359efbfc7d8",
+      "part-of-speech": "interjection",
+      "english": "cheers",
+      "norwegian": "skål",
+      "cefr": "A2",
+      "ipa": "[skoːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24878410-d854-4a53-ba00-b234871948f6",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "norwegian": "gratulerer",
+      "cefr": "A2",
+      "ipa": "[ɡɾɑtʉˈleːɾəɾ]",
+      "context": "gratulerer med dagen: happy birthday",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

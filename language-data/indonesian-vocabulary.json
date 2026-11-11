@@ -1,0 +1,5550 @@
+{
+  "meta": {
+    "language": "Indonesian",
+    "languageCode": "id",
+    "nativeLanguage": "English",
+    "targetField": "indonesian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "1db8e952-f820-4ce7-9e35-9a70c9f3d155",
+      "part-of-speech": "pronoun",
+      "english": "I, me",
+      "indonesian": "saya",
+      "cefr": "A1",
+      "ipa": "[ˈsaja]",
+      "context": "neutral and polite",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77adad84-b62b-4eb1-82b6-fbd32e0c7ffd",
+      "part-of-speech": "pronoun",
+      "english": "I, me (informal)",
+      "indonesian": "aku",
+      "cefr": "A1",
+      "ipa": "[ˈaku]",
+      "context": "with friends and family",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35a42d13-b90a-4c96-92de-e1cf6e29eda2",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "indonesian": "kamu",
+      "cefr": "A1",
+      "ipa": "[ˈkamu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99f91f1f-2bf2-4c00-a9e9-77c978eb051f",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "indonesian": "Anda",
+      "cefr": "A1",
+      "ipa": "[ˈanda]",
+      "context": "always capitalized",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb04b3e2-7eb7-423e-b14b-7a0212ba184a",
+      "part-of-speech": "pronoun",
+      "english": "he, she",
+      "indonesian": "dia",
+      "cefr": "A1",
+      "ipa": "[ˈdia]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58a9fbc4-438d-438c-ad67-c06bdb3c821a",
+      "part-of-speech": "pronoun",
+      "english": "we (not including you)",
+      "indonesian": "kami",
+      "cefr": "A1",
+      "ipa": "[ˈkami]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b10a49e-891e-474d-afa1-d6516112e39a",
+      "part-of-speech": "pronoun",
+      "english": "we (including you)",
+      "indonesian": "kita",
+      "cefr": "A1",
+      "ipa": "[ˈkita]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09a85ae7-dfbb-4a8e-aafc-917529d78808",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "indonesian": "kalian",
+      "cefr": "A1",
+      "ipa": "[kaˈlian]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cce6c12f-8010-421e-a0c9-c2d04800dbdb",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "indonesian": "mereka",
+      "cefr": "A1",
+      "ipa": "[məˈreka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e9f8df2-b06c-4a9c-a380-e0667b4980a2",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "indonesian": "ini",
+      "cefr": "A1",
+      "ipa": "[ˈini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96c58ae7-66e0-479c-9091-7090f282d3ef",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "indonesian": "itu",
+      "cefr": "A1",
+      "ipa": "[ˈitu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbddaab5-5326-401a-a878-f4373be82753",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "indonesian": "apa",
+      "cefr": "A1",
+      "ipa": "[ˈapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04d40e36-8625-416c-9f76-f9cbc99cf1b9",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "indonesian": "siapa",
+      "cefr": "A1",
+      "ipa": "[siˈapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f6d6c88-2d6f-428d-8416-96a0963a3fd4",
+      "part-of-speech": "pronoun",
+      "english": "all, everyone",
+      "indonesian": "semua",
+      "cefr": "A2",
+      "ipa": "[səˈmua]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "437d653e-f9a7-477b-bb3a-6ea834d5bc10",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "indonesian": "sesuatu",
+      "cefr": "A2",
+      "ipa": "[səsuˈatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08f6928a-d249-4434-882c-e0f9abaa0ad1",
+      "part-of-speech": "conjunction",
+      "english": "which, who, that (relative)",
+      "indonesian": "yang",
+      "cefr": "A1",
+      "ipa": "[jaŋ]",
+      "context": "rumah yang besar: the big house",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06dd3275-491d-4515-90e1-22fc53f128b8",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "indonesian": "nol",
+      "cefr": "A1",
+      "ipa": "[nɔl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0488bf6a-4796-472c-b368-aa108ec66964",
+      "part-of-speech": "noun",
+      "english": "one",
+      "indonesian": "satu",
+      "cefr": "A1",
+      "ipa": "[ˈsatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddd35df3-0582-44ce-9621-d2cf87cd02df",
+      "part-of-speech": "noun",
+      "english": "two",
+      "indonesian": "dua",
+      "cefr": "A1",
+      "ipa": "[ˈdua]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "979e5e26-8d15-4e86-9e0b-ee74bc1e464e",
+      "part-of-speech": "noun",
+      "english": "three",
+      "indonesian": "tiga",
+      "cefr": "A1",
+      "ipa": "[ˈtiɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6eee022-add2-479a-970a-83297f5fbd69",
+      "part-of-speech": "noun",
+      "english": "four",
+      "indonesian": "empat",
+      "cefr": "A1",
+      "ipa": "[ˈəmpat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab41296b-bbfe-4927-9ca1-f0f16ea69507",
+      "part-of-speech": "noun",
+      "english": "five",
+      "indonesian": "lima",
+      "cefr": "A1",
+      "ipa": "[ˈlima]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ca33804-16c0-4ab7-a080-6c0e08a059ce",
+      "part-of-speech": "noun",
+      "english": "six",
+      "indonesian": "enam",
+      "cefr": "A1",
+      "ipa": "[ˈənam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae193860-d532-47ca-9bce-e2a09642a066",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "indonesian": "tujuh",
+      "cefr": "A1",
+      "ipa": "[ˈtudʒʊh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c02e95d-2ae9-4b72-bcfa-5093866f8cf4",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "indonesian": "delapan",
+      "cefr": "A1",
+      "ipa": "[dəˈlapan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1317ed91-97d6-4233-a0b7-901008e99bd7",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "indonesian": "sembilan",
+      "cefr": "A1",
+      "ipa": "[səmˈbilan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b3a5cc5-640b-4a38-bda9-db616b095a90",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "indonesian": "sepuluh",
+      "cefr": "A1",
+      "ipa": "[səˈpulʊh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b84651c1-3078-4da7-966b-3a44a0f6e74f",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "indonesian": "sebelas",
+      "cefr": "A1",
+      "ipa": "[səˈbəlas]",
+      "context": "12–19: dua belas, tiga belas …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8d700d1-5cf3-4ecb-a63a-ed4b5f1e5277",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "indonesian": "dua puluh",
+      "cefr": "A1",
+      "ipa": "[ˈdua ˈpulʊh]",
+      "context": "30, 40 …: tiga puluh, empat puluh …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62a4c82e-ff3d-4d89-b2ff-9fcce0047e50",
+      "part-of-speech": "noun",
+      "english": "one hundred",
+      "indonesian": "seratus",
+      "cefr": "A1",
+      "ipa": "[səˈratʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b216614-ab15-44a0-acf6-04208548dbb9",
+      "part-of-speech": "noun",
+      "english": "one thousand",
+      "indonesian": "seribu",
+      "cefr": "A1",
+      "ipa": "[səˈribu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15921b4d-a437-4100-b49e-6b8e04bb0545",
+      "part-of-speech": "noun",
+      "english": "million",
+      "indonesian": "juta",
+      "cefr": "A2",
+      "ipa": "[ˈdʒuta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95768beb-84f4-4e70-bf5a-91c967761119",
+      "part-of-speech": "noun",
+      "english": "person, people",
+      "indonesian": "orang",
+      "cefr": "A1",
+      "ipa": "[ˈoraŋ]",
+      "context": "also a counter for people: dua orang (two people)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be1475b8-6200-4900-ac04-1d5b47e9721c",
+      "part-of-speech": "noun",
+      "english": "man, male",
+      "indonesian": "laki-laki",
+      "cefr": "A1",
+      "ipa": "[ˈlaki ˈlaki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02c9a28c-aa4b-453d-9733-9c6c2b089981",
+      "part-of-speech": "noun",
+      "english": "woman, female",
+      "indonesian": "perempuan",
+      "cefr": "A1",
+      "ipa": "[pərəmˈpuan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea103f37-01d1-4e15-ad61-f4abf87220a3",
+      "part-of-speech": "noun",
+      "english": "woman (formal)",
+      "indonesian": "wanita",
+      "cefr": "A2",
+      "ipa": "[waˈnita]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8d8ddb6-9c60-4837-a7a9-5da73cc7b11d",
+      "part-of-speech": "noun",
+      "english": "child",
+      "indonesian": "anak",
+      "cefr": "A1",
+      "ipa": "[ˈanaʔ]",
+      "context": "anak-anak: children",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5f52d56-6467-460e-8b51-fa1f81c3972d",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "indonesian": "bayi",
+      "cefr": "A1",
+      "ipa": "[ˈbaji]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff4a9707-a44d-482d-a9d9-badda23b4b5b",
+      "part-of-speech": "noun",
+      "english": "mother; Mrs, ma'am",
+      "indonesian": "ibu",
+      "cefr": "A1",
+      "ipa": "[ˈibu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a21863f9-7f2e-481a-98e8-812f31c82028",
+      "part-of-speech": "noun",
+      "english": "father; Mr, sir",
+      "indonesian": "bapak",
+      "cefr": "A1",
+      "ipa": "[ˈbapaʔ]",
+      "context": "short form: Pak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75de5827-6ee6-4cbd-94d2-c985a87843bd",
+      "part-of-speech": "noun",
+      "english": "father",
+      "indonesian": "ayah",
+      "cefr": "A1",
+      "ipa": "[ˈajah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ac3c77c-5357-4a88-9a9b-f21486545074",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "indonesian": "orang tua",
+      "cefr": "A1",
+      "ipa": "[ˈoraŋ ˈtua]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28cb5a8d-78b6-4bfa-b5bc-a5ff00033589",
+      "part-of-speech": "noun",
+      "english": "older brother or sister",
+      "indonesian": "kakak",
+      "cefr": "A1",
+      "ipa": "[ˈkakaʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aae4acab-298d-4acd-a17b-934ea6fc8ed3",
+      "part-of-speech": "noun",
+      "english": "younger brother or sister",
+      "indonesian": "adik",
+      "cefr": "A1",
+      "ipa": "[ˈadɪʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e3fe238-e871-4e03-a56b-3de2e7d3604e",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "indonesian": "suami",
+      "cefr": "A1",
+      "ipa": "[suˈami]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "833a9990-c5dc-4b88-b566-9e948cea1a2c",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "indonesian": "istri",
+      "cefr": "A1",
+      "ipa": "[ˈistri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb039bfb-d3c5-4759-ad5d-9cba03050c37",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "indonesian": "kakek",
+      "cefr": "A1",
+      "ipa": "[ˈkakɛʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16c8ddc7-dceb-4f85-8f1f-b0d7e6052b4b",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "indonesian": "nenek",
+      "cefr": "A1",
+      "ipa": "[ˈnenɛʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5427dd93-407e-4fff-8712-3245853cb7f7",
+      "part-of-speech": "noun",
+      "english": "family",
+      "indonesian": "keluarga",
+      "cefr": "A1",
+      "ipa": "[kəluˈarɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e35677a4-d758-4757-80b8-dffefaac42e0",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "indonesian": "teman",
+      "cefr": "A1",
+      "ipa": "[ˈtəman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7af5730b-4718-4fbe-b47c-37ce121704f8",
+      "part-of-speech": "noun",
+      "english": "boyfriend, girlfriend",
+      "indonesian": "pacar",
+      "cefr": "A2",
+      "ipa": "[ˈpatʃar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9510f218-d08e-4ad9-b893-052933f41b13",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "indonesian": "tetangga",
+      "cefr": "A2",
+      "ipa": "[təˈtaŋɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "083ca9aa-b851-4f0c-8448-975fd67728e5",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "indonesian": "guru",
+      "cefr": "A1",
+      "ipa": "[ˈɡuru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a06aa9e3-d30d-4a76-8274-1bc6c0970afd",
+      "part-of-speech": "noun",
+      "english": "pupil",
+      "indonesian": "murid",
+      "cefr": "A1",
+      "ipa": "[ˈmurɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "606a142e-488e-4c31-88ce-aaeadec24bc1",
+      "part-of-speech": "noun",
+      "english": "university student",
+      "indonesian": "mahasiswa",
+      "cefr": "A1",
+      "ipa": "[mahaˈsiswa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7912294-4d38-47b9-a6f6-8b1b1ebe6518",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "indonesian": "dokter",
+      "cefr": "A1",
+      "ipa": "[ˈdɔktər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb6c2a0d-e94c-4730-bf37-f97e06c667fe",
+      "part-of-speech": "noun",
+      "english": "name",
+      "indonesian": "nama",
+      "cefr": "A1",
+      "ipa": "[ˈnama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b188de7-7ad1-4911-a4e5-9c4acfe63ea0",
+      "part-of-speech": "noun",
+      "english": "age",
+      "indonesian": "umur",
+      "cefr": "A2",
+      "ipa": "[ˈumʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4266f73-4879-4591-801d-3fe5064375ac",
+      "part-of-speech": "noun",
+      "english": "time",
+      "indonesian": "waktu",
+      "cefr": "A1",
+      "ipa": "[ˈwaʔtu]",
+      "context": "also conjunction: when",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e439fbd-e9f2-4c8a-a72c-eaff283fdbea",
+      "part-of-speech": "noun",
+      "english": "day",
+      "indonesian": "hari",
+      "cefr": "A1",
+      "ipa": "[ˈhari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c370ba4b-24e9-488d-b9c3-d7bbc00f4dd3",
+      "part-of-speech": "noun",
+      "english": "week",
+      "indonesian": "minggu",
+      "cefr": "A1",
+      "ipa": "[ˈmiŋɡu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f8a9a4a-dd1a-4aba-9aa0-a6cc2af12a6a",
+      "part-of-speech": "noun",
+      "english": "month; moon",
+      "indonesian": "bulan",
+      "cefr": "A1",
+      "ipa": "[ˈbulan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f7ac206-e910-4125-8445-d177f0412704",
+      "part-of-speech": "noun",
+      "english": "year",
+      "indonesian": "tahun",
+      "cefr": "A1",
+      "ipa": "[ˈtahʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8022ee30-8333-42b8-b51e-332e9ce096e8",
+      "part-of-speech": "noun",
+      "english": "hour; clock, watch; o'clock",
+      "indonesian": "jam",
+      "cefr": "A1",
+      "ipa": "[dʒam]",
+      "context": "jam tiga: three o'clock",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a26e775-9c7f-4f3d-af63-5a62310b4670",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "indonesian": "menit",
+      "cefr": "A1",
+      "ipa": "[ˈmenɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39eb9e21-3824-4050-9c6b-5acb68baa5d1",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "indonesian": "pagi",
+      "cefr": "A1",
+      "ipa": "[ˈpaɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9543a5db-50b8-4a80-8a7f-1b3dd5a1fdb9",
+      "part-of-speech": "noun",
+      "english": "midday, early afternoon",
+      "indonesian": "siang",
+      "cefr": "A1",
+      "ipa": "[ˈsiaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56addc67-e3fc-4422-b33e-3fbd2865ed1a",
+      "part-of-speech": "noun",
+      "english": "late afternoon",
+      "indonesian": "sore",
+      "cefr": "A1",
+      "ipa": "[ˈsore]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6c90a5e-14df-416e-86b4-2c29cb4c2170",
+      "part-of-speech": "noun",
+      "english": "evening, night",
+      "indonesian": "malam",
+      "cefr": "A1",
+      "ipa": "[ˈmalam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b19d43c-c09a-4a82-aaa2-4e45bc466c3a",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "indonesian": "Senin",
+      "cefr": "A1",
+      "ipa": "[ˈsənɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e712558c-20da-4ac1-aecc-fcd5f59a662d",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "indonesian": "Selasa",
+      "cefr": "A1",
+      "ipa": "[səˈlasa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f4d44fb-1b91-4e79-8ddf-f2957c0198e9",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "indonesian": "Rabu",
+      "cefr": "A1",
+      "ipa": "[ˈrabu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05866a43-83b3-4db6-b70f-9efe7caf0aa9",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "indonesian": "Kamis",
+      "cefr": "A1",
+      "ipa": "[ˈkamɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "622a7b8b-b7f8-4833-a37d-25b1105f59e5",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "indonesian": "Jumat",
+      "cefr": "A1",
+      "ipa": "[ˈdʒumat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41db4d7d-774f-4a05-b535-cc8d78d9c41b",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "indonesian": "Sabtu",
+      "cefr": "A1",
+      "ipa": "[ˈsaptu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a5b5070-104d-4c1f-b061-d6ca7fa9d852",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "indonesian": "Minggu",
+      "cefr": "A1",
+      "ipa": "[ˈmiŋɡu]",
+      "context": "lower-case minggu: week",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "070a5469-6ebb-4768-8293-f234c5fb2c11",
+      "part-of-speech": "noun",
+      "english": "January",
+      "indonesian": "Januari",
+      "cefr": "A1",
+      "ipa": "[dʒanuˈari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20b42f01-af28-4659-890e-63683f36525a",
+      "part-of-speech": "noun",
+      "english": "February",
+      "indonesian": "Februari",
+      "cefr": "A1",
+      "ipa": "[fɛbruˈari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "007e9ae1-b6ef-4980-9d47-4a74ee06f58a",
+      "part-of-speech": "noun",
+      "english": "March",
+      "indonesian": "Maret",
+      "cefr": "A1",
+      "ipa": "[ˈmarɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d214742f-62c0-4ad0-b91c-12ef5072df1c",
+      "part-of-speech": "noun",
+      "english": "April",
+      "indonesian": "April",
+      "cefr": "A1",
+      "ipa": "[ˈaprɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f301ee2e-c71c-4a03-9823-074d51daf0f4",
+      "part-of-speech": "noun",
+      "english": "May",
+      "indonesian": "Mei",
+      "cefr": "A1",
+      "ipa": "[mei̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7660e8b3-e27f-4e5b-9941-d7fe87663b5b",
+      "part-of-speech": "noun",
+      "english": "June",
+      "indonesian": "Juni",
+      "cefr": "A1",
+      "ipa": "[ˈdʒuni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a0d915b-e489-40b5-b9cd-a730d7deee80",
+      "part-of-speech": "noun",
+      "english": "July",
+      "indonesian": "Juli",
+      "cefr": "A1",
+      "ipa": "[ˈdʒuli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51abf1db-775f-44bb-bb99-64609c707e23",
+      "part-of-speech": "noun",
+      "english": "August",
+      "indonesian": "Agustus",
+      "cefr": "A1",
+      "ipa": "[aˈɡustʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dd77fec-0bf8-46b5-a851-5de61eae8f4a",
+      "part-of-speech": "noun",
+      "english": "September",
+      "indonesian": "September",
+      "cefr": "A1",
+      "ipa": "[sɛpˈtɛmbər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a06e27a-6b7b-4b9e-808a-6e21fb565088",
+      "part-of-speech": "noun",
+      "english": "October",
+      "indonesian": "Oktober",
+      "cefr": "A1",
+      "ipa": "[ɔkˈtobər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7d895cf-1a56-46c6-9dca-eb36b1b07357",
+      "part-of-speech": "noun",
+      "english": "November",
+      "indonesian": "November",
+      "cefr": "A1",
+      "ipa": "[noˈfɛmbər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44f57825-311c-4362-b938-feb6aedffae3",
+      "part-of-speech": "noun",
+      "english": "December",
+      "indonesian": "Desember",
+      "cefr": "A1",
+      "ipa": "[deˈsɛmbər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c9f563c-c6ed-4257-81ab-052da4ab19a5",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "indonesian": "ulang tahun",
+      "cefr": "A1",
+      "ipa": "[ˈulaŋ ˈtahʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fc5dd24-268a-48de-aff9-0fc5230c2b7a",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "indonesian": "liburan",
+      "cefr": "A1",
+      "ipa": "[liˈburan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03cce50f-4034-4c6d-9dbb-942c98b618bc",
+      "part-of-speech": "noun",
+      "english": "party",
+      "indonesian": "pesta",
+      "cefr": "A2",
+      "ipa": "[ˈpesta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95afa9b0-4c1d-488c-bbf2-8c7f4934a914",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "indonesian": "hadiah",
+      "cefr": "A2",
+      "ipa": "[haˈdiah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a284c509-a45e-4d82-bc5f-7f2b399767e9",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "indonesian": "rumah",
+      "cefr": "A1",
+      "ipa": "[ˈrumah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7245500a-c026-465c-8d1d-857e7ad7e37e",
+      "part-of-speech": "noun",
+      "english": "room",
+      "indonesian": "kamar",
+      "cefr": "A1",
+      "ipa": "[ˈkamar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de7d3501-0d7b-4539-a2e9-f515959719c3",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "indonesian": "kamar mandi",
+      "cefr": "A1",
+      "ipa": "[ˈkamar ˈmandi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae1c8174-2379-46a6-bfaa-da29754d8a9d",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "indonesian": "kamar tidur",
+      "cefr": "A1",
+      "ipa": "[ˈkamar ˈtidʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e34a901-a3bb-4cd8-981d-8c626f7af12e",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "indonesian": "dapur",
+      "cefr": "A1",
+      "ipa": "[ˈdapʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3c7672a-b9b5-437c-ba3b-c9ef5acc0eac",
+      "part-of-speech": "noun",
+      "english": "door",
+      "indonesian": "pintu",
+      "cefr": "A1",
+      "ipa": "[ˈpintu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34459d3e-68d7-49bb-ac9e-51cb10b3972d",
+      "part-of-speech": "noun",
+      "english": "window",
+      "indonesian": "jendela",
+      "cefr": "A1",
+      "ipa": "[dʒənˈdela]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d8ad77c-c69f-4f6a-94ed-cede106545d9",
+      "part-of-speech": "noun",
+      "english": "table",
+      "indonesian": "meja",
+      "cefr": "A1",
+      "ipa": "[ˈmedʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21b844d1-9efa-4101-a579-a48953013178",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "indonesian": "kursi",
+      "cefr": "A1",
+      "ipa": "[ˈkursi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "152d0584-a08e-427a-895c-a7a50d7e58da",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "indonesian": "tempat tidur",
+      "cefr": "A1",
+      "ipa": "[ˈtəmpat ˈtidʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ca8c9bf-0c25-45b8-a98e-e46cd8e5af4f",
+      "part-of-speech": "noun",
+      "english": "key",
+      "indonesian": "kunci",
+      "cefr": "A2",
+      "ipa": "[ˈkuntʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00ef4025-947e-402a-b14f-1279524833b4",
+      "part-of-speech": "noun",
+      "english": "lamp, light",
+      "indonesian": "lampu",
+      "cefr": "A2",
+      "ipa": "[ˈlampu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "084f978e-18c0-4863-8d20-78d2c3d5e015",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "indonesian": "telepon",
+      "cefr": "A1",
+      "ipa": "[teˈlepɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9dd4977a-5996-43fe-8fa7-0d53a58d05c2",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "indonesian": "HP",
+      "cefr": "A1",
+      "ipa": "[haˈpe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "338d1a4c-7c5b-4892-affe-6e73adf25e08",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "indonesian": "komputer",
+      "cefr": "A1",
+      "ipa": "[kɔmˈputər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4579e05f-edb3-475e-98ea-153cbf878088",
+      "part-of-speech": "noun",
+      "english": "television",
+      "indonesian": "televisi",
+      "cefr": "A1",
+      "ipa": "[teleˈfisi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5fe8d3c-7a03-4abf-98ba-3e02117a8d15",
+      "part-of-speech": "noun",
+      "english": "food",
+      "indonesian": "makanan",
+      "cefr": "A1",
+      "ipa": "[maˈkanan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "432950d3-b1c6-4c2a-a21e-aa5eb0169ca7",
+      "part-of-speech": "noun",
+      "english": "drink",
+      "indonesian": "minuman",
+      "cefr": "A1",
+      "ipa": "[miˈnuman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9c78dbc-4116-4038-9da7-26d2be4f6afc",
+      "part-of-speech": "noun",
+      "english": "water",
+      "indonesian": "air",
+      "cefr": "A1",
+      "ipa": "[ˈair]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "638d47be-bafe-4e0b-b1c7-c2ce81b0938a",
+      "part-of-speech": "noun",
+      "english": "rice (cooked)",
+      "indonesian": "nasi",
+      "cefr": "A1",
+      "ipa": "[ˈnasi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "335437c6-3a3f-41e4-88c2-3f7b81cbee72",
+      "part-of-speech": "noun",
+      "english": "rice (uncooked)",
+      "indonesian": "beras",
+      "cefr": "A2",
+      "ipa": "[ˈbəras]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c92b8aec-1a85-44c9-a1b7-bc7ccfe589e6",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "indonesian": "roti",
+      "cefr": "A1",
+      "ipa": "[ˈroti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a4848f8-a60b-450d-ad0d-c6f8dc6c13c0",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "indonesian": "kopi",
+      "cefr": "A1",
+      "ipa": "[ˈkopi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38639d67-5266-4df9-8df0-bb727695e624",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "indonesian": "teh",
+      "cefr": "A1",
+      "ipa": "[teh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba3c9653-34e9-4e7a-b855-386989360c02",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "indonesian": "susu",
+      "cefr": "A1",
+      "ipa": "[ˈsusu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2f95dbe-f062-416b-b1d4-316f3bbfb824",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "indonesian": "daging",
+      "cefr": "A1",
+      "ipa": "[ˈdaɡɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e21b083d-2fe3-49ae-ba3d-7f62d3a4506f",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "indonesian": "ayam",
+      "cefr": "A1",
+      "ipa": "[ˈajam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d3a7544-17b3-4b25-9f7b-bba62de7ba36",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "indonesian": "ikan",
+      "cefr": "A1",
+      "ipa": "[ˈikan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5643c9a9-b000-4794-a222-58512b5fecf0",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "indonesian": "telur",
+      "cefr": "A1",
+      "ipa": "[ˈtəlʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29ccdfac-2482-4ae8-ac5b-440121bfc763",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "indonesian": "sayur",
+      "cefr": "A1",
+      "ipa": "[ˈsajʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1383a6cf-5e04-4e09-a6fd-07bdc26b7227",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "indonesian": "buah",
+      "cefr": "A1",
+      "ipa": "[ˈbuah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46acc560-5d6a-4046-9371-dc94ee5a0346",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "indonesian": "pisang",
+      "cefr": "A1",
+      "ipa": "[ˈpisaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c468c04a-dc33-48e6-b53e-380652787ae8",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "indonesian": "jeruk",
+      "cefr": "A1",
+      "ipa": "[ˈdʒərʊʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3e75215-38a9-4086-9dfe-f4285c9fdf7f",
+      "part-of-speech": "noun",
+      "english": "noodles",
+      "indonesian": "mi",
+      "cefr": "A1",
+      "ipa": "[mi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81d26a29-68c5-43d7-873f-02adb6e5d59d",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "indonesian": "gula",
+      "cefr": "A1",
+      "ipa": "[ˈɡula]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "625aa81a-eb55-487e-9ed6-6331c12c82f4",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "indonesian": "garam",
+      "cefr": "A2",
+      "ipa": "[ˈɡaram]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "124dce9d-aec1-464b-9ab7-afb875010a63",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "indonesian": "sarapan",
+      "cefr": "A1",
+      "ipa": "[saˈrapan]",
+      "context": "also a verb: to have breakfast",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1d8b7a4-9792-482b-b307-976629c51683",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "indonesian": "restoran",
+      "cefr": "A1",
+      "ipa": "[rɛsˈtoran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a6bfd77-f689-4b68-8e85-7f9ed05592ed",
+      "part-of-speech": "noun",
+      "english": "small local eatery or shop",
+      "indonesian": "warung",
+      "cefr": "A1",
+      "ipa": "[ˈwarʊŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24f210d4-25f7-44fa-b293-fda3d6c554d5",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "indonesian": "gelas",
+      "cefr": "A1",
+      "ipa": "[ˈɡəlas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d423f3da-e05d-4c85-87be-359a14ec9282",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "indonesian": "piring",
+      "cefr": "A2",
+      "ipa": "[ˈpirɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a73741d5-cbff-4047-b6ca-282a734a7535",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "indonesian": "sendok",
+      "cefr": "A2",
+      "ipa": "[ˈsendɔʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "544ea689-a34e-4f88-a9d6-716a03586a67",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "indonesian": "garpu",
+      "cefr": "A2",
+      "ipa": "[ˈɡarpu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "960e0a26-91e4-48d2-a505-eaacefe05bfe",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "indonesian": "pisau",
+      "cefr": "A2",
+      "ipa": "[ˈpisau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "966f789c-f09f-4b4e-92a8-b7d5fb535def",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "indonesian": "kota",
+      "cefr": "A1",
+      "ipa": "[ˈkota]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c571c30-00c5-427d-a22c-45c0b1e9f8b8",
+      "part-of-speech": "noun",
+      "english": "village",
+      "indonesian": "desa",
+      "cefr": "A2",
+      "ipa": "[ˈdesa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "016c37f1-ae1f-46b3-9370-4d20a358d395",
+      "part-of-speech": "noun",
+      "english": "village; home town",
+      "indonesian": "kampung",
+      "cefr": "A2",
+      "ipa": "[ˈkampʊŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24345874-560c-43e2-838f-8511f25cfd9b",
+      "part-of-speech": "noun",
+      "english": "country",
+      "indonesian": "negara",
+      "cefr": "A1",
+      "ipa": "[nəˈɡara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0780dbbe-91a6-4f42-9574-b0d85e42504d",
+      "part-of-speech": "noun",
+      "english": "street, road",
+      "indonesian": "jalan",
+      "cefr": "A1",
+      "ipa": "[ˈdʒalan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8623576a-4221-4521-9ab4-fd9b228c1889",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "indonesian": "toko",
+      "cefr": "A1",
+      "ipa": "[ˈtoko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8e5ea62-e040-4ac1-8d5b-0bab866c94e6",
+      "part-of-speech": "noun",
+      "english": "market",
+      "indonesian": "pasar",
+      "cefr": "A1",
+      "ipa": "[ˈpasar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "146ead90-dd12-4104-83b5-610f105c7f91",
+      "part-of-speech": "noun",
+      "english": "school",
+      "indonesian": "sekolah",
+      "cefr": "A1",
+      "ipa": "[səˈkolah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d804ba6f-2b7b-45d6-a522-573760e53fd2",
+      "part-of-speech": "noun",
+      "english": "office",
+      "indonesian": "kantor",
+      "cefr": "A1",
+      "ipa": "[ˈkantɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05c45b19-7a35-4426-a027-bc065066fa68",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "indonesian": "rumah sakit",
+      "cefr": "A1",
+      "ipa": "[ˈrumah ˈsakɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30fad695-f8f1-4816-9187-bf1e34a7e9f1",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "indonesian": "apotek",
+      "cefr": "A2",
+      "ipa": "[apoˈtɛʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de195f1f-c5bb-4ddb-871d-4d777d56129e",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "indonesian": "bank",
+      "cefr": "A1",
+      "ipa": "[baŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a67d4b9-eb98-4e7e-91fd-5a45be401775",
+      "part-of-speech": "noun",
+      "english": "mosque",
+      "indonesian": "masjid",
+      "cefr": "A2",
+      "ipa": "[ˈmasdʒɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47eddfc7-e4fb-4155-b9b2-d38ebbf449b1",
+      "part-of-speech": "noun",
+      "english": "church",
+      "indonesian": "gereja",
+      "cefr": "A2",
+      "ipa": "[ɡəˈredʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31bcd84b-40e1-4cc3-ac01-5ef8341bdeae",
+      "part-of-speech": "noun",
+      "english": "park, garden",
+      "indonesian": "taman",
+      "cefr": "A2",
+      "ipa": "[ˈtaman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7cc7d1d-4c68-47bb-825d-537ef48e9b13",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "indonesian": "hotel",
+      "cefr": "A1",
+      "ipa": "[hoˈtɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afcb4d80-aefb-4dc4-a328-1b48977619af",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "indonesian": "bandara",
+      "cefr": "A1",
+      "ipa": "[banˈdara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17dc4c18-abe4-4bd6-be92-b41f5876aa80",
+      "part-of-speech": "noun",
+      "english": "station",
+      "indonesian": "stasiun",
+      "cefr": "A1",
+      "ipa": "[staˈsiʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c91762e4-58a9-4c38-b7ba-84002e046e18",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "indonesian": "bus",
+      "cefr": "A1",
+      "ipa": "[bʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbe69cf5-dca9-44a6-9c2c-aa0304650cef",
+      "part-of-speech": "noun",
+      "english": "train",
+      "indonesian": "kereta",
+      "cefr": "A1",
+      "ipa": "[kəˈreta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99a8be3e-fff1-4762-ba1d-4c9f7d88dff6",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "indonesian": "pesawat",
+      "cefr": "A1",
+      "ipa": "[pəˈsawat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a3f0429-0355-43e8-97a4-01a0074bceec",
+      "part-of-speech": "noun",
+      "english": "car",
+      "indonesian": "mobil",
+      "cefr": "A1",
+      "ipa": "[ˈmobɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b66350f-164d-48b8-bb3e-b789764790f6",
+      "part-of-speech": "noun",
+      "english": "motorbike",
+      "indonesian": "motor",
+      "cefr": "A1",
+      "ipa": "[ˈmotɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aea5ff54-90ed-4eb1-b747-bc8b8457e746",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "indonesian": "sepeda",
+      "cefr": "A1",
+      "ipa": "[səˈpeda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15b3268d-d73b-47eb-bfdf-67ca4979dbcb",
+      "part-of-speech": "noun",
+      "english": "ship, boat",
+      "indonesian": "kapal",
+      "cefr": "A2",
+      "ipa": "[ˈkapal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d68d92d-1566-4a9e-9fc5-0dfef2b600b0",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "indonesian": "tiket",
+      "cefr": "A1",
+      "ipa": "[ˈtikɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df1f4c99-2cb0-4b46-9ba3-ef4c3b3197d2",
+      "part-of-speech": "noun",
+      "english": "map",
+      "indonesian": "peta",
+      "cefr": "A2",
+      "ipa": "[ˈpeta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5d4a3f5-f8f9-4872-9330-2fd2c0e08b0a",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "indonesian": "pantai",
+      "cefr": "A1",
+      "ipa": "[ˈpantai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1acd8aeb-6afc-4910-9c67-3ca8ccfcc336",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "indonesian": "laut",
+      "cefr": "A1",
+      "ipa": "[ˈlaut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbce72b0-fba5-4344-bd7e-261d53e85460",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "indonesian": "gunung",
+      "cefr": "A1",
+      "ipa": "[ˈɡunʊŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "accf9b29-07e1-4cca-99ea-0c345b1ef24e",
+      "part-of-speech": "noun",
+      "english": "river",
+      "indonesian": "sungai",
+      "cefr": "A2",
+      "ipa": "[ˈsuŋai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ffb889c-646e-46fe-9018-c1e1deb24107",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "indonesian": "danau",
+      "cefr": "A2",
+      "ipa": "[ˈdanau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0740697d-a568-4465-8090-202dd9f46910",
+      "part-of-speech": "noun",
+      "english": "island",
+      "indonesian": "pulau",
+      "cefr": "A2",
+      "ipa": "[ˈpulau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f9a7bea-583e-4ac3-b974-28f18a4fb0fc",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "indonesian": "hutan",
+      "cefr": "A2",
+      "ipa": "[ˈhutan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4afbadce-ba82-448f-bfbb-b365747a969a",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "indonesian": "pohon",
+      "cefr": "A1",
+      "ipa": "[ˈpohɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7193c2a6-69f8-4a0d-a62c-f7073b2de1c5",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "indonesian": "bunga",
+      "cefr": "A1",
+      "ipa": "[ˈbuŋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a384526-c279-4c64-b7a0-d890762412bf",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "indonesian": "binatang",
+      "cefr": "A1",
+      "ipa": "[biˈnataŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5af340f7-2a78-4d16-a8e2-924463a81768",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "indonesian": "anjing",
+      "cefr": "A1",
+      "ipa": "[ˈandʒɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d921679-e42c-4bd7-90aa-47ce56aa39b6",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "indonesian": "kucing",
+      "cefr": "A1",
+      "ipa": "[ˈkutʃɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c5a426a-a501-46f0-af98-245bf6ac0ce5",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "indonesian": "burung",
+      "cefr": "A1",
+      "ipa": "[ˈburʊŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5fd1bc7-3351-42f5-b0f1-62c88823d8e3",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "indonesian": "cuaca",
+      "cefr": "A1",
+      "ipa": "[tʃuˈatʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70f56fe3-8f5e-4567-8cdb-b85534d110cf",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "indonesian": "hujan",
+      "cefr": "A1",
+      "ipa": "[ˈhudʒan]",
+      "context": "also a verb: to rain",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d68ed87e-a6b9-46fd-b8b2-c45d3aacf0f2",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "indonesian": "matahari",
+      "cefr": "A1",
+      "ipa": "[mataˈhari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4ea1cf2-298c-4e92-bce6-16bb5c0bc8dd",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "indonesian": "angin",
+      "cefr": "A2",
+      "ipa": "[ˈaŋɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38054471-73d8-4afb-9db3-81ef33d8e9d6",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "indonesian": "langit",
+      "cefr": "A2",
+      "ipa": "[ˈlaŋɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa832de2-8bbe-451f-8788-da2c061f6311",
+      "part-of-speech": "noun",
+      "english": "world",
+      "indonesian": "dunia",
+      "cefr": "A2",
+      "ipa": "[duˈnia]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdecbc8c-c661-462a-b17b-df033c2deca9",
+      "part-of-speech": "noun",
+      "english": "body",
+      "indonesian": "badan",
+      "cefr": "A2",
+      "ipa": "[ˈbadan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4a56c75-8961-44a7-b642-83f22b3dc534",
+      "part-of-speech": "noun",
+      "english": "head",
+      "indonesian": "kepala",
+      "cefr": "A1",
+      "ipa": "[kəˈpala]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88dcfad7-89d2-43e1-b9e5-be0a22e3935d",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "indonesian": "rambut",
+      "cefr": "A1",
+      "ipa": "[ˈrambʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e790ff65-9163-48e0-9144-724ee93e89a0",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "indonesian": "mata",
+      "cefr": "A1",
+      "ipa": "[ˈmata]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90eb1620-2be1-4f90-83ca-3e917b5694e6",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "indonesian": "telinga",
+      "cefr": "A1",
+      "ipa": "[təˈliŋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "605aa4cd-76f4-4a19-b9f1-c840acac21f0",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "indonesian": "hidung",
+      "cefr": "A1",
+      "ipa": "[ˈhidʊŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4c9e2ae-729b-48fb-9c8f-a89de4a294c0",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "indonesian": "mulut",
+      "cefr": "A1",
+      "ipa": "[ˈmulʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4feae1b3-5d43-4702-8d5b-1f193941ba7e",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "indonesian": "gigi",
+      "cefr": "A2",
+      "ipa": "[ˈɡiɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87dd137f-6f52-4434-a946-125758974f45",
+      "part-of-speech": "noun",
+      "english": "hand, arm",
+      "indonesian": "tangan",
+      "cefr": "A1",
+      "ipa": "[ˈtaŋan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7b8040b-33ec-49c0-b957-207c0458a920",
+      "part-of-speech": "noun",
+      "english": "foot, leg",
+      "indonesian": "kaki",
+      "cefr": "A1",
+      "ipa": "[ˈkaki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64f89335-3a16-49e6-8c04-2aee83d7ba9f",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "indonesian": "perut",
+      "cefr": "A2",
+      "ipa": "[ˈpərʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c553aa9-d42c-48ae-ab54-af6eaf70ef64",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "indonesian": "obat",
+      "cefr": "A2",
+      "ipa": "[ˈobat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d52d18f-9c8b-4975-b71d-227e1910a4d2",
+      "part-of-speech": "noun",
+      "english": "clothes; shirt",
+      "indonesian": "baju",
+      "cefr": "A1",
+      "ipa": "[ˈbadʒu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bc71bb4-7dbf-40c7-8c0e-2ebcd05b98cf",
+      "part-of-speech": "noun",
+      "english": "trousers, pants",
+      "indonesian": "celana",
+      "cefr": "A1",
+      "ipa": "[tʃəˈlana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0837ed61-32cc-4d42-890e-b710bffac5d2",
+      "part-of-speech": "noun",
+      "english": "shoes",
+      "indonesian": "sepatu",
+      "cefr": "A1",
+      "ipa": "[səˈpatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d95ee85-4db9-4f4a-b5af-a5ff9fa08610",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "indonesian": "tas",
+      "cefr": "A1",
+      "ipa": "[tas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4af19d5b-73ef-4475-8565-5b11bdf73dc0",
+      "part-of-speech": "noun",
+      "english": "hat, cap",
+      "indonesian": "topi",
+      "cefr": "A2",
+      "ipa": "[ˈtopi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bf49b32-19fe-40f0-aaf3-6f83170fe317",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "indonesian": "pekerjaan",
+      "cefr": "A1",
+      "ipa": "[pəkərˈdʒaan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c125e2c-8182-4a49-8e2d-f85bc942c8d8",
+      "part-of-speech": "noun",
+      "english": "money",
+      "indonesian": "uang",
+      "cefr": "A1",
+      "ipa": "[ˈuaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d748f48-f11b-431a-be5f-9ed49fad9725",
+      "part-of-speech": "noun",
+      "english": "price",
+      "indonesian": "harga",
+      "cefr": "A1",
+      "ipa": "[ˈharɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9188773-e564-4240-a771-2764e8e91e44",
+      "part-of-speech": "noun",
+      "english": "book",
+      "indonesian": "buku",
+      "cefr": "A1",
+      "ipa": "[ˈbuku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "148afad2-7e9b-48ad-a564-24d3b9b74eb4",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "indonesian": "koran",
+      "cefr": "A2",
+      "ipa": "[ˈkoran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d72261a-1915-4f06-b06e-f12cbc4f2107",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "indonesian": "surat",
+      "cefr": "A2",
+      "ipa": "[ˈsurat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3578b3e6-af97-4a22-821b-06d5ca058679",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "indonesian": "pena",
+      "cefr": "A1",
+      "ipa": "[ˈpena]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "236a1e07-07db-4bf6-a2c3-594f5c4208db",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "indonesian": "kertas",
+      "cefr": "A2",
+      "ipa": "[ˈkərtas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "377ce258-5eef-421b-9842-0eb9c420ea44",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "indonesian": "foto",
+      "cefr": "A1",
+      "ipa": "[ˈfoto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f77d49d-28e7-48e1-9320-5558d4f572fe",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "indonesian": "film",
+      "cefr": "A1",
+      "ipa": "[fɪlm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aded7016-e474-4ead-abe7-7a645b86736a",
+      "part-of-speech": "noun",
+      "english": "music",
+      "indonesian": "musik",
+      "cefr": "A1",
+      "ipa": "[ˈmusɪʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4b1160c-3592-4b8c-a561-c63443fee17e",
+      "part-of-speech": "noun",
+      "english": "song",
+      "indonesian": "lagu",
+      "cefr": "A1",
+      "ipa": "[ˈlaɡu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a876bb6f-e9ff-4904-86bc-2b4ef28f073d",
+      "part-of-speech": "noun",
+      "english": "sport, exercise",
+      "indonesian": "olahraga",
+      "cefr": "A1",
+      "ipa": "[ɔlahˈraɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0903d8dc-74ab-4a62-b389-b90be342e11c",
+      "part-of-speech": "noun",
+      "english": "language",
+      "indonesian": "bahasa",
+      "cefr": "A1",
+      "ipa": "[baˈhasa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cec58a9c-2d29-48d6-9af3-1c9d586e5353",
+      "part-of-speech": "noun",
+      "english": "word",
+      "indonesian": "kata",
+      "cefr": "A1",
+      "ipa": "[ˈkata]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90087a4b-534c-41d7-9cea-aefc0c159de2",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "indonesian": "kalimat",
+      "cefr": "A2",
+      "ipa": "[kaˈlimat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64ac4789-47a3-43af-b21f-112906cc861c",
+      "part-of-speech": "noun",
+      "english": "question",
+      "indonesian": "pertanyaan",
+      "cefr": "A1",
+      "ipa": "[pərtaˈɲaan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d583c644-16e6-41e4-a7f1-94592835ae37",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "indonesian": "jawaban",
+      "cefr": "A1",
+      "ipa": "[dʒaˈwaban]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3eefbcf1-6a8b-42f7-8476-a476b51721be",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "indonesian": "pelajaran",
+      "cefr": "A1",
+      "ipa": "[pəlaˈdʒaran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78d92d0a-500a-4891-b682-b8ddf83315b9",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "indonesian": "warna",
+      "cefr": "A1",
+      "ipa": "[ˈwarna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "929962a6-e594-4340-98f2-204b8c7414cf",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "indonesian": "masalah",
+      "cefr": "A2",
+      "ipa": "[maˈsalah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64d07f24-4ad1-4303-b839-c9f3857212d5",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "indonesian": "ide",
+      "cefr": "A2",
+      "ipa": "[ˈide]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad2d479b-b4bf-486d-8a2f-0c31b5320b1e",
+      "part-of-speech": "verb",
+      "english": "to be (there); to exist; to have",
+      "indonesian": "ada",
+      "cefr": "A1",
+      "ipa": "[ˈada]",
+      "context": "ada kopi?: is there coffee?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d26fd3b-e924-4cb7-bd44-1b241e28eec0",
+      "part-of-speech": "verb",
+      "english": "to be (formal: X is Y)",
+      "indonesian": "adalah",
+      "cefr": "A2",
+      "ipa": "[aˈdalah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "886683fe-e231-4896-80b2-5df28da74741",
+      "part-of-speech": "verb",
+      "english": "to have, own",
+      "indonesian": "punya",
+      "cefr": "A1",
+      "ipa": "[ˈpuɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "794f9621-47a8-4deb-b011-b67ba5e8e5e8",
+      "part-of-speech": "verb",
+      "english": "to become",
+      "indonesian": "menjadi",
+      "cefr": "A2",
+      "ipa": "[mənˈdʒadi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b2ff60e-22cd-429e-a9f4-41851a3e538d",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "indonesian": "makan",
+      "cefr": "A1",
+      "ipa": "[ˈmakan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10de1a96-1609-423d-9a15-9d6ed6a2862b",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "indonesian": "minum",
+      "cefr": "A1",
+      "ipa": "[ˈminʊm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2725a686-a8bf-4e54-b86b-4f824d9abba4",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "indonesian": "tidur",
+      "cefr": "A1",
+      "ipa": "[ˈtidʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "578b6907-5ef6-464e-9cd6-06b5e21ee345",
+      "part-of-speech": "verb",
+      "english": "to wake up, get up",
+      "indonesian": "bangun",
+      "cefr": "A1",
+      "ipa": "[ˈbaŋʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a8e26d0-0953-4841-b401-83ae2878f8f1",
+      "part-of-speech": "verb",
+      "english": "to bathe, shower",
+      "indonesian": "mandi",
+      "cefr": "A1",
+      "ipa": "[ˈmandi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "887ce7cd-dcde-44cc-8d55-10a4ed8b3ad5",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "indonesian": "pergi",
+      "cefr": "A1",
+      "ipa": "[ˈpərɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38d60a97-5429-4f05-b1ea-f6d3e066d493",
+      "part-of-speech": "verb",
+      "english": "to come, arrive",
+      "indonesian": "datang",
+      "cefr": "A1",
+      "ipa": "[ˈdataŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2e5fde8-7ae9-4102-baf7-c6dc890ac885",
+      "part-of-speech": "verb",
+      "english": "to go home, return",
+      "indonesian": "pulang",
+      "cefr": "A1",
+      "ipa": "[ˈpulaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4075671d-b4a8-4f98-9d08-cdd89b715336",
+      "part-of-speech": "verb",
+      "english": "to enter, go in",
+      "indonesian": "masuk",
+      "cefr": "A1",
+      "ipa": "[ˈmasʊʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14de430a-2eb5-4aa0-851d-e524eba743d8",
+      "part-of-speech": "verb",
+      "english": "to go out, exit",
+      "indonesian": "keluar",
+      "cefr": "A1",
+      "ipa": "[kəˈluar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b19ef147-be9c-4382-b4b0-baf7d67ca65c",
+      "part-of-speech": "verb",
+      "english": "to go up; to ride, take (transport)",
+      "indonesian": "naik",
+      "cefr": "A1",
+      "ipa": "[ˈnaɪʔ]",
+      "context": "naik bus: take the bus",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5271c69b-e355-4df8-8b50-b18089b48b7e",
+      "part-of-speech": "verb",
+      "english": "to go down; to get off",
+      "indonesian": "turun",
+      "cefr": "A1",
+      "ipa": "[ˈturʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff9d33e6-f2e4-4327-a966-5dbdb0422287",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "indonesian": "duduk",
+      "cefr": "A1",
+      "ipa": "[ˈdudʊʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecde57a3-8fb1-4485-aa0c-0ae468c674f8",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "indonesian": "berdiri",
+      "cefr": "A1",
+      "ipa": "[bərˈdiri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6487d20-ebc7-434e-95fb-d82fa1bd8df7",
+      "part-of-speech": "verb",
+      "english": "to go for a walk; to go out, travel",
+      "indonesian": "jalan-jalan",
+      "cefr": "A1",
+      "ipa": "[ˈdʒalan ˈdʒalan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ff45d75-d0c1-4790-a378-6d9ce8519412",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "indonesian": "berjalan",
+      "cefr": "A2",
+      "ipa": "[bərˈdʒalan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c150e18c-f0d4-427e-8809-67ad193f249e",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "indonesian": "lari",
+      "cefr": "A1",
+      "ipa": "[ˈlari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cab96cb-a3d4-4d03-afa6-ceb7e7a04bf9",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "indonesian": "berenang",
+      "cefr": "A1",
+      "ipa": "[bəˈrənaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c426b0d-de34-4dc2-abf2-d622b0b515aa",
+      "part-of-speech": "verb",
+      "english": "to live, stay",
+      "indonesian": "tinggal",
+      "cefr": "A1",
+      "ipa": "[ˈtiŋɡal]",
+      "context": "saya tinggal di Jakarta: I live in Jakarta",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2cace2c-f786-4fbd-9471-f38f507e0681",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "indonesian": "bekerja",
+      "cefr": "A1",
+      "ipa": "[bəˈkərdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22a6b33c-52d2-41fb-950d-e0bebde1822a",
+      "part-of-speech": "verb",
+      "english": "to study, learn",
+      "indonesian": "belajar",
+      "cefr": "A1",
+      "ipa": "[bəˈladʒar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "787862c0-04cc-498f-81d4-ad53b588a789",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "indonesian": "mengajar",
+      "cefr": "A2",
+      "ipa": "[məˈŋadʒar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bde563d3-ba0f-4cda-baa5-f17eec091311",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "indonesian": "membaca",
+      "cefr": "A1",
+      "ipa": "[məmˈbatʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27509a92-089e-45dc-9af8-48ebb18c855d",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "indonesian": "menulis",
+      "cefr": "A1",
+      "ipa": "[məˈnulɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88a345be-9dd8-40a0-97fd-8cd80796121d",
+      "part-of-speech": "verb",
+      "english": "to speak",
+      "indonesian": "berbicara",
+      "cefr": "A1",
+      "ipa": "[bərbiˈtʃara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c23c8f2-75e3-4f4a-a3f8-59449e4a8aaa",
+      "part-of-speech": "verb",
+      "english": "to say (informal)",
+      "indonesian": "bilang",
+      "cefr": "A1",
+      "ipa": "[ˈbilaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6197728-0aa7-4fb9-bb38-85a6afdbfac6",
+      "part-of-speech": "verb",
+      "english": "to say",
+      "indonesian": "berkata",
+      "cefr": "A2",
+      "ipa": "[bərˈkata]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb377cf5-d2af-4ebd-a047-bef9ff564cf9",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "indonesian": "bertanya",
+      "cefr": "A1",
+      "ipa": "[bərˈtaɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa69de8-2608-4b66-8aaf-f573a47eda28",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "indonesian": "menjawab",
+      "cefr": "A1",
+      "ipa": "[mənˈdʒawap]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7791aa4b-cffd-4579-9688-68c85226ff52",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "indonesian": "melihat",
+      "cefr": "A1",
+      "ipa": "[məˈlihat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f99916d4-638d-4d9b-98ff-c788b46c15bf",
+      "part-of-speech": "verb",
+      "english": "to watch (TV, a film)",
+      "indonesian": "menonton",
+      "cefr": "A1",
+      "ipa": "[məˈnɔntɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1afd8cbf-9cb0-426d-9f7a-165bf4384d08",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "indonesian": "mendengar",
+      "cefr": "A1",
+      "ipa": "[mənˈdəŋar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4b3f782-08c2-4155-92a0-eea6a73d99fd",
+      "part-of-speech": "verb",
+      "english": "to listen to",
+      "indonesian": "mendengarkan",
+      "cefr": "A2",
+      "ipa": "[məndəˈŋarkan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb24c49f-4570-43b0-ba05-c2fab471e913",
+      "part-of-speech": "verb",
+      "english": "to know (a fact)",
+      "indonesian": "tahu",
+      "cefr": "A1",
+      "ipa": "[ˈtahu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08477641-00b8-4c48-9701-3ddf831a019a",
+      "part-of-speech": "verb",
+      "english": "to know (a person)",
+      "indonesian": "kenal",
+      "cefr": "A1",
+      "ipa": "[ˈkənal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29921053-57e2-4b0d-a720-a4fd0b5c381f",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "indonesian": "mengerti",
+      "cefr": "A1",
+      "ipa": "[məˈŋərti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d62f622-db21-4013-84b0-a8ea7df5ae45",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "indonesian": "berpikir",
+      "cefr": "A2",
+      "ipa": "[bərˈpikɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c057df2-f1ae-49ff-b230-264063467943",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "indonesian": "ingat",
+      "cefr": "A1",
+      "ipa": "[ˈiŋat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8d7e96a-5e37-4c45-9d62-557b110d7db0",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "indonesian": "lupa",
+      "cefr": "A1",
+      "ipa": "[ˈlupa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ae82eb0-4807-4f26-a593-996e5d3e7c36",
+      "part-of-speech": "verb",
+      "english": "to want; will",
+      "indonesian": "mau",
+      "cefr": "A1",
+      "ipa": "[mau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4703ef57-d7f6-4a60-a95b-df07ce5b3f4b",
+      "part-of-speech": "verb",
+      "english": "to want, wish",
+      "indonesian": "ingin",
+      "cefr": "A1",
+      "ipa": "[ˈiŋɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3eec334-4835-4940-8ae7-27da636a704c",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "indonesian": "bisa",
+      "cefr": "A1",
+      "ipa": "[ˈbisa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "180b648b-3102-4ac2-b7c1-d5266ac3a9e3",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "indonesian": "harus",
+      "cefr": "A1",
+      "ipa": "[ˈharʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a22b1503-adf3-4abf-89f6-23942c227ad9",
+      "part-of-speech": "verb",
+      "english": "may, to be allowed to",
+      "indonesian": "boleh",
+      "cefr": "A1",
+      "ipa": "[ˈbolɛh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2bbd100-9653-48ef-8aa6-b651f107cf3f",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "indonesian": "perlu",
+      "cefr": "A1",
+      "ipa": "[ˈpərlu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e545f38f-6ab3-450c-b863-dcbc026c48ab",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "indonesian": "suka",
+      "cefr": "A1",
+      "ipa": "[ˈsuka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f29fb94e-3bbc-40ac-9551-80053cfcbf10",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "indonesian": "cinta",
+      "cefr": "A2",
+      "ipa": "[ˈtʃinta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a5f8f0a-4712-4195-8de1-c69f5e5d7f5a",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "indonesian": "membeli",
+      "cefr": "A1",
+      "ipa": "[məmˈbəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e94bef11-ff37-4ab8-8e4d-ca8520b04756",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "indonesian": "membayar",
+      "cefr": "A1",
+      "ipa": "[məmˈbajar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31c3226f-fb61-4746-a6c5-6e49583fcc93",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "indonesian": "menjual",
+      "cefr": "A2",
+      "ipa": "[mənˈdʒual]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80112a20-a2b5-4203-bce5-512faa525d04",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "indonesian": "memasak",
+      "cefr": "A1",
+      "ipa": "[məˈmasaʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3efc0f1-4981-4406-8e93-9e24ff8ee38a",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "indonesian": "mencuci",
+      "cefr": "A1",
+      "ipa": "[mənˈtʃutʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e73b5979-9c37-4da1-a9e0-6285c4d6dbf8",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "indonesian": "menunggu",
+      "cefr": "A1",
+      "ipa": "[məˈnuŋɡu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f76c49c6-998e-4e6a-af49-01d279b12680",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "indonesian": "membuka",
+      "cefr": "A1",
+      "ipa": "[məmˈbuka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10ef1626-b6a1-41f5-bfa9-ad6748f3b773",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "indonesian": "menutup",
+      "cefr": "A1",
+      "ipa": "[məˈnutʊp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffbba3d2-5096-446d-b117-987041bfd8ec",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "indonesian": "mulai",
+      "cefr": "A1",
+      "ipa": "[ˈmulai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ced5840e-4d12-4155-bc61-528ce18835b6",
+      "part-of-speech": "verb",
+      "english": "to finish, be finished",
+      "indonesian": "selesai",
+      "cefr": "A1",
+      "ipa": "[səˈləsai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5fb2dc7-b040-4f02-ba56-ccb3426fd5a4",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "indonesian": "berhenti",
+      "cefr": "A2",
+      "ipa": "[bərˈhənti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "767e960c-a889-4251-bbf9-0973d4e262ba",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "indonesian": "membantu",
+      "cefr": "A1",
+      "ipa": "[məmˈbantu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50c4021-46ec-458b-a61b-2155b24f4e65",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "indonesian": "memberi",
+      "cefr": "A1",
+      "ipa": "[məmˈbəri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8daae1b5-c7c0-4a33-95f9-a0c232459526",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "indonesian": "mengambil",
+      "cefr": "A1",
+      "ipa": "[məˈŋambɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e8aa14e-8257-4d17-811a-dda1a26a63b2",
+      "part-of-speech": "verb",
+      "english": "to bring, carry",
+      "indonesian": "membawa",
+      "cefr": "A1",
+      "ipa": "[məmˈbawa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8189ff6c-91c8-46b2-99b6-fb67a9301ad6",
+      "part-of-speech": "verb",
+      "english": "to make",
+      "indonesian": "membuat",
+      "cefr": "A1",
+      "ipa": "[məmˈbuat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c3e21c4-55c5-412c-ae35-7edb0bb60068",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "indonesian": "melakukan",
+      "cefr": "A2",
+      "ipa": "[məlaˈkukan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffad7eb3-1fde-4872-b5f9-9e85ac227596",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "indonesian": "mencari",
+      "cefr": "A1",
+      "ipa": "[mənˈtʃari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52bb93a8-5cd1-4787-bd00-86d23a506bfc",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "indonesian": "menemukan",
+      "cefr": "A2",
+      "ipa": "[mənəˈmukan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cb3f334-4ce2-4b41-8512-ad8b25ae1a61",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "indonesian": "bermain",
+      "cefr": "A1",
+      "ipa": "[bərˈmain]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c40be93e-de08-451a-ab8a-c2d010dc586c",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "indonesian": "bernyanyi",
+      "cefr": "A2",
+      "ipa": "[bərˈɲaɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b1cdb41-5424-4de6-8291-190a7951877c",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "indonesian": "menari",
+      "cefr": "A2",
+      "ipa": "[məˈnari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c26ed2b2-68fe-4e4f-89e5-392f0f88cdf1",
+      "part-of-speech": "verb",
+      "english": "to phone, call",
+      "indonesian": "menelepon",
+      "cefr": "A2",
+      "ipa": "[mənəˈlepɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a844528a-ed19-4bb9-89d4-6f729690fe60",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "indonesian": "mengirim",
+      "cefr": "A2",
+      "ipa": "[məˈŋirɪm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45018804-00d4-45d1-8996-4791a50dcd26",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "indonesian": "mencoba",
+      "cefr": "A2",
+      "ipa": "[mənˈtʃoba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a62064a9-3a0d-42b1-845c-28bf1c3b649d",
+      "part-of-speech": "verb",
+      "english": "to order, book",
+      "indonesian": "memesan",
+      "cefr": "A2",
+      "ipa": "[məˈməsan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74225c30-859c-4086-81fb-a6efdbeeb206",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "indonesian": "menyewa",
+      "cefr": "A2",
+      "ipa": "[məˈɲewa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc95a053-e36a-442f-bc47-5d0562e53037",
+      "part-of-speech": "verb",
+      "english": "to stay overnight",
+      "indonesian": "menginap",
+      "cefr": "A2",
+      "ipa": "[məˈŋinap]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "323daa3f-4172-4294-b671-89698889d91b",
+      "part-of-speech": "verb",
+      "english": "to go on holiday",
+      "indonesian": "berlibur",
+      "cefr": "A2",
+      "ipa": "[bərˈlibʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1c2722b-febd-457a-aecf-dad768ef7f4b",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "indonesian": "mengunjungi",
+      "cefr": "A2",
+      "ipa": "[məŋunˈdʒuŋi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f056b4cf-3e87-40f0-8eb1-036d8753bc84",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "indonesian": "bertemu",
+      "cefr": "A2",
+      "ipa": "[bərˈtəmu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f53d1fc-df0a-47ab-987c-252aed4cb5cd",
+      "part-of-speech": "verb",
+      "english": "to marry, get married",
+      "indonesian": "menikah",
+      "cefr": "A2",
+      "ipa": "[məˈnikah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab1cecc5-e722-4722-beb6-8837b614c9b9",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "indonesian": "pindah",
+      "cefr": "A2",
+      "ipa": "[ˈpindah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c7c5e08-c88b-44cd-a106-1abe3b631f98",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "indonesian": "menjelaskan",
+      "cefr": "A2",
+      "ipa": "[məndʒəˈlaskan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2223df51-6b64-4ae3-a300-a615c0700be7",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "indonesian": "memilih",
+      "cefr": "A2",
+      "ipa": "[məˈmilɪh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4499bc23-44f3-4758-bd95-c5bb490d32f3",
+      "part-of-speech": "verb",
+      "english": "to wear; to use",
+      "indonesian": "memakai",
+      "cefr": "A2",
+      "ipa": "[məˈmakai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c8010dd-5529-47ed-b801-96c819fe2a63",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "indonesian": "menggunakan",
+      "cefr": "A2",
+      "ipa": "[məŋɡuˈnakan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30d54d94-18de-4d39-b427-fb4d932f0033",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "indonesian": "merasa",
+      "cefr": "A2",
+      "ipa": "[məˈrasa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "392f810a-bcfc-4b4b-9335-4de6a23bec91",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "indonesian": "berharap",
+      "cefr": "A2",
+      "ipa": "[bərˈharap]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05b00227-384a-41e0-bd1b-5b0c01677fbd",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "indonesian": "percaya",
+      "cefr": "A2",
+      "ipa": "[pərˈtʃaja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "403c4aa0-6e4d-4a19-88b1-05f115207735",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "indonesian": "tertawa",
+      "cefr": "A2",
+      "ipa": "[tərˈtawa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ddef478-a458-436c-9253-def98965477c",
+      "part-of-speech": "verb",
+      "english": "to smile",
+      "indonesian": "tersenyum",
+      "cefr": "A2",
+      "ipa": "[tərˈsəɲʊm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15bbea71-aebb-44e0-b5ed-bf92f4fe4f4b",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "indonesian": "menangis",
+      "cefr": "A2",
+      "ipa": "[məˈnaŋɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d8c8425-6b47-421d-ae46-061123a5ad81",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "indonesian": "jatuh",
+      "cefr": "A2",
+      "ipa": "[ˈdʒatʊh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cc5e9f7-2b79-4f5c-8b98-93ea087de6c4",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "indonesian": "terbang",
+      "cefr": "A2",
+      "ipa": "[ˈtərbaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa49e516-cb8e-47d6-86ef-158e47819141",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "indonesian": "menyetir",
+      "cefr": "A2",
+      "ipa": "[məˈɲetɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3c28718-9bc1-4752-b312-8d80929028c0",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "indonesian": "lahir",
+      "cefr": "A2",
+      "ipa": "[ˈlahɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24586122-2eb4-4834-916f-f8d9b660dd06",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "indonesian": "hidup",
+      "cefr": "A2",
+      "ipa": "[ˈhidʊp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c331e906-4a27-47ef-9657-d4bce61b6dac",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "indonesian": "mati",
+      "cefr": "A2",
+      "ipa": "[ˈmati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "290f6cff-1004-481c-91d6-990eadeb1028",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "indonesian": "besar",
+      "cefr": "A1",
+      "ipa": "[ˈbəsar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f5e31b3-4ba8-46bd-bd61-30a04bd4b28a",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "indonesian": "kecil",
+      "cefr": "A1",
+      "ipa": "[ˈkətʃɪl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ffefe8b-1555-483a-89d8-7594fbcb6c05",
+      "part-of-speech": "adjective",
+      "english": "good; kind; well",
+      "indonesian": "baik",
+      "cefr": "A1",
+      "ipa": "[ˈbaɪʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69727240-e630-467f-aae9-1fa47a666447",
+      "part-of-speech": "adjective",
+      "english": "good, nice",
+      "indonesian": "bagus",
+      "cefr": "A1",
+      "ipa": "[ˈbaɡʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3acea57-6c79-4294-b879-f9000e8f9943",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "indonesian": "buruk",
+      "cefr": "A2",
+      "ipa": "[ˈburʊʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e33a7cbe-cf79-48e5-9555-df7a5b460a7f",
+      "part-of-speech": "adjective",
+      "english": "ugly; bad",
+      "indonesian": "jelek",
+      "cefr": "A1",
+      "ipa": "[ˈdʒəlɛʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4459021-105f-4b93-8c45-f544623635b0",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty",
+      "indonesian": "cantik",
+      "cefr": "A1",
+      "ipa": "[ˈtʃantɪʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d92d406-15ad-4735-81c3-2a8d0764cc89",
+      "part-of-speech": "adjective",
+      "english": "beautiful (scenery, things)",
+      "indonesian": "indah",
+      "cefr": "A2",
+      "ipa": "[ˈindah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c69b2ca0-43ff-48b3-b399-5457abd4eb0b",
+      "part-of-speech": "adjective",
+      "english": "handsome",
+      "indonesian": "tampan",
+      "cefr": "A2",
+      "ipa": "[ˈtampan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb0de826-25bf-4328-8d3f-42a9d8b0f330",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "indonesian": "baru",
+      "cefr": "A1",
+      "ipa": "[ˈbaru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35dc1454-00b7-4205-ad7e-214e92f10c1e",
+      "part-of-speech": "adjective",
+      "english": "old (not new); long (time)",
+      "indonesian": "lama",
+      "cefr": "A1",
+      "ipa": "[ˈlama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b20e560-d505-451b-99a4-43938d05a956",
+      "part-of-speech": "adjective",
+      "english": "old (of people)",
+      "indonesian": "tua",
+      "cefr": "A1",
+      "ipa": "[ˈtua]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "720cd653-676e-4ce3-8f48-412d2da211e9",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "indonesian": "muda",
+      "cefr": "A1",
+      "ipa": "[ˈmuda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02036783-db75-4900-9ba6-e6e64b67ed56",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "indonesian": "panjang",
+      "cefr": "A1",
+      "ipa": "[ˈpandʒaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "217df543-651f-4c7a-aaf7-2981d73c38e2",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "indonesian": "pendek",
+      "cefr": "A1",
+      "ipa": "[ˈpendɛʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1b4c202-b941-4308-ad30-31466e407107",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "indonesian": "tinggi",
+      "cefr": "A1",
+      "ipa": "[ˈtiŋɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ea899e7-6060-4d91-b276-3b596b963017",
+      "part-of-speech": "adjective",
+      "english": "low",
+      "indonesian": "rendah",
+      "cefr": "A2",
+      "ipa": "[ˈrəndah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82fb2321-4e3a-4d6b-9d76-3d37378d4824",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "indonesian": "panas",
+      "cefr": "A1",
+      "ipa": "[ˈpanas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc7d40cd-6cbd-46ae-876d-6a631a8890f3",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "indonesian": "dingin",
+      "cefr": "A1",
+      "ipa": "[ˈdiŋɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab59879c-b543-4748-8a22-a0085c5223a4",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "indonesian": "hangat",
+      "cefr": "A2",
+      "ipa": "[ˈhaŋat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3123e0b7-d2c1-4105-ab02-118fc3f108da",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "indonesian": "cepat",
+      "cefr": "A1",
+      "ipa": "[ˈtʃəpat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b87f35a-fe36-4614-9dfe-74aae349a0f3",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "indonesian": "lambat",
+      "cefr": "A1",
+      "ipa": "[ˈlambat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d103041a-d254-4df6-bb05-1362f069b2dd",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "indonesian": "mudah",
+      "cefr": "A1",
+      "ipa": "[ˈmudah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3c97c9a-31e8-45de-9148-e9917cb01b14",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "indonesian": "sulit",
+      "cefr": "A1",
+      "ipa": "[ˈsulɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e264908e-c3a4-4790-aa35-e033b2426b3a",
+      "part-of-speech": "adjective",
+      "english": "difficult, hard",
+      "indonesian": "susah",
+      "cefr": "A1",
+      "ipa": "[ˈsusah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca2a2eac-b28e-4be8-a32e-1696f4c435ff",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "indonesian": "murah",
+      "cefr": "A1",
+      "ipa": "[ˈmurah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17038bfb-951b-40a4-8045-b41b73bb8583",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "indonesian": "mahal",
+      "cefr": "A1",
+      "ipa": "[ˈmahal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32bb2008-0b1f-4ff2-8070-36847d11a98d",
+      "part-of-speech": "adjective",
+      "english": "happy, glad",
+      "indonesian": "senang",
+      "cefr": "A1",
+      "ipa": "[ˈsənaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "338e4068-c3c1-45b8-8781-7d829ffc01e1",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "indonesian": "bahagia",
+      "cefr": "A2",
+      "ipa": "[bahaˈɡia]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32de7188-4371-4d97-a16c-364d4930f20d",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "indonesian": "sedih",
+      "cefr": "A1",
+      "ipa": "[ˈsədɪh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a829b80f-68be-4b6e-a10c-32c000d3b0bd",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "indonesian": "marah",
+      "cefr": "A2",
+      "ipa": "[ˈmarah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de8c40ac-bab2-4510-9b22-2c342957fa04",
+      "part-of-speech": "adjective",
+      "english": "afraid",
+      "indonesian": "takut",
+      "cefr": "A2",
+      "ipa": "[ˈtakʊt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be02e727-32d6-48cd-96c7-28d332b15a5a",
+      "part-of-speech": "adjective",
+      "english": "tired (informal)",
+      "indonesian": "capek",
+      "cefr": "A1",
+      "ipa": "[ˈtʃapɛʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e17a686-b246-4029-9cf3-93ec93f05c63",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "indonesian": "lelah",
+      "cefr": "A2",
+      "ipa": "[ˈlelah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72df5b25-fd5c-486a-be98-44d95641a55e",
+      "part-of-speech": "adjective",
+      "english": "sick, ill; painful",
+      "indonesian": "sakit",
+      "cefr": "A1",
+      "ipa": "[ˈsakɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad2e2bd5-4963-4a75-9591-dada80f2d5bd",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "indonesian": "sehat",
+      "cefr": "A1",
+      "ipa": "[ˈsehat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b0e0a24-1f92-43b3-8c14-9f7ad8916df4",
+      "part-of-speech": "adjective",
+      "english": "tasty, delicious; pleasant",
+      "indonesian": "enak",
+      "cefr": "A1",
+      "ipa": "[ˈenaʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d81caba-432d-4e5c-a450-90be2b21d6b8",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "indonesian": "lapar",
+      "cefr": "A1",
+      "ipa": "[ˈlapar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9984541-5bb9-4055-a586-840809c8478c",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "indonesian": "haus",
+      "cefr": "A1",
+      "ipa": "[ˈhaʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "630ab6db-db12-45d5-b5c8-1a504dca4044",
+      "part-of-speech": "adjective",
+      "english": "full (after eating)",
+      "indonesian": "kenyang",
+      "cefr": "A2",
+      "ipa": "[ˈkəɲaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8de308f6-272c-49f1-9bc1-499f4934407e",
+      "part-of-speech": "adjective",
+      "english": "friendly",
+      "indonesian": "ramah",
+      "cefr": "A2",
+      "ipa": "[ˈramah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be4d5205-b57e-435c-ba6c-80f671598161",
+      "part-of-speech": "adjective",
+      "english": "clever, smart",
+      "indonesian": "pintar",
+      "cefr": "A1",
+      "ipa": "[ˈpintar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09af18c3-273d-4345-89de-b84ef8f9d96e",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "indonesian": "bersih",
+      "cefr": "A1",
+      "ipa": "[ˈbərsɪh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "586f5277-b060-4693-88ff-569c2ffef9d6",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "indonesian": "kotor",
+      "cefr": "A1",
+      "ipa": "[ˈkotɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9d4a964-08e6-41c0-b629-84962b49b28b",
+      "part-of-speech": "adjective",
+      "english": "busy, crowded, lively",
+      "indonesian": "ramai",
+      "cefr": "A2",
+      "ipa": "[ˈramai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f9dcacd-3a99-417c-9865-fd961d5c894f",
+      "part-of-speech": "adjective",
+      "english": "quiet, deserted",
+      "indonesian": "sepi",
+      "cefr": "A2",
+      "ipa": "[ˈsəpi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "106839ad-d244-4366-a837-cdbb00b6b7bc",
+      "part-of-speech": "adjective",
+      "english": "busy (of a person)",
+      "indonesian": "sibuk",
+      "cefr": "A1",
+      "ipa": "[ˈsibʊʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96fb8a3b-4421-4d60-bab4-bde2e08fc793",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "indonesian": "penting",
+      "cefr": "A2",
+      "ipa": "[ˈpəntɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "558c7f75-a6e7-4a6c-86ec-40f7cdbfc1a4",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "indonesian": "menarik",
+      "cefr": "A2",
+      "ipa": "[məˈnarɪʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0475bea8-071a-4c04-91be-00f1b98ddb5b",
+      "part-of-speech": "adjective",
+      "english": "correct, true, right",
+      "indonesian": "benar",
+      "cefr": "A1",
+      "ipa": "[ˈbənar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cddcb3c-079b-4ede-8a7a-adba77dd2b8a",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "indonesian": "salah",
+      "cefr": "A1",
+      "ipa": "[ˈsalah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a777377d-62ce-40f2-835e-d6fcd1613d9c",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "indonesian": "sama",
+      "cefr": "A1",
+      "ipa": "[ˈsama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5607a747-3f13-4df6-adec-63b7eb560ff5",
+      "part-of-speech": "adjective",
+      "english": "other, different",
+      "indonesian": "lain",
+      "cefr": "A1",
+      "ipa": "[ˈlain]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05143e40-d389-42cf-bad8-c614294e09b2",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "indonesian": "berbeda",
+      "cefr": "A2",
+      "ipa": "[bərˈbeda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b156c2ee-e370-4a0b-b81c-eba45e711360",
+      "part-of-speech": "adjective",
+      "english": "many, much, a lot",
+      "indonesian": "banyak",
+      "cefr": "A1",
+      "ipa": "[ˈbaɲaʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f602e55e-ffd2-4743-9d0a-b29f0c75ba5b",
+      "part-of-speech": "adjective",
+      "english": "a little, a few",
+      "indonesian": "sedikit",
+      "cefr": "A1",
+      "ipa": "[səˈdikɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74ca33fd-9645-4cbb-9c86-2b8201d2627d",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "indonesian": "penuh",
+      "cefr": "A2",
+      "ipa": "[ˈpənʊh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d2d4300-9f63-46c2-b0ba-22d8d8e401f4",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "indonesian": "kosong",
+      "cefr": "A2",
+      "ipa": "[ˈkosɔŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af226687-cf4b-4219-9c7a-36d087049f47",
+      "part-of-speech": "adjective",
+      "english": "far",
+      "indonesian": "jauh",
+      "cefr": "A1",
+      "ipa": "[ˈdʒaʊh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb15517a-a841-428d-83dd-3f4889938679",
+      "part-of-speech": "adjective",
+      "english": "near, close",
+      "indonesian": "dekat",
+      "cefr": "A1",
+      "ipa": "[ˈdəkat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d2806de-eeac-4597-99e2-6fb62a9d13b4",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "indonesian": "kaya",
+      "cefr": "A2",
+      "ipa": "[ˈkaja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9a4f92c-ed4f-493d-9b29-1361600ae6e5",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "indonesian": "miskin",
+      "cefr": "A2",
+      "ipa": "[ˈmiskɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "144d431f-a987-40a1-9e40-bd7fd9aa1939",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "indonesian": "berat",
+      "cefr": "A2",
+      "ipa": "[ˈbərat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5622fa4a-3e5d-479e-b958-6fe7a2652e55",
+      "part-of-speech": "adjective",
+      "english": "light (not heavy)",
+      "indonesian": "ringan",
+      "cefr": "A2",
+      "ipa": "[ˈriŋan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21614584-308c-4e49-998d-dc0b6216381c",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "indonesian": "kuat",
+      "cefr": "A2",
+      "ipa": "[ˈkuat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efa0dbfa-73af-405b-9e37-f79b4f661d97",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "indonesian": "buka",
+      "cefr": "A1",
+      "ipa": "[ˈbuka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83159077-a92c-4fa8-a3fe-a33a0fe06913",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "indonesian": "tutup",
+      "cefr": "A1",
+      "ipa": "[ˈtutʊp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5846fb73-817c-4a8e-831f-ff316a77220c",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "indonesian": "merah",
+      "cefr": "A1",
+      "ipa": "[ˈmerah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb2d3873-a2e9-4368-9cdf-23b892451325",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "indonesian": "biru",
+      "cefr": "A1",
+      "ipa": "[ˈbiru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbd8fc99-0ad0-49e6-8965-b74193ad1e12",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "indonesian": "hijau",
+      "cefr": "A1",
+      "ipa": "[ˈhidʒau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fe7acb2-c6a1-46d2-8e9e-8327fc8de9f6",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "indonesian": "kuning",
+      "cefr": "A1",
+      "ipa": "[ˈkunɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1fee192-bab8-4860-a5b7-9cd033ecd5b5",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "indonesian": "hitam",
+      "cefr": "A1",
+      "ipa": "[ˈhitam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3549b86-8f1a-4ae3-8666-4e14a043d32d",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "indonesian": "putih",
+      "cefr": "A1",
+      "ipa": "[ˈputɪh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bd3cdb4-94b0-4e86-abc5-e9560b39da80",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "indonesian": "cokelat",
+      "cefr": "A1",
+      "ipa": "[tʃoˈkəlat]",
+      "context": "also: chocolate",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaae6fa7-8079-4482-9a4b-56a048cfdbac",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "indonesian": "abu-abu",
+      "cefr": "A1",
+      "ipa": "[ˈabu ˈabu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "260c3811-b5ba-408d-a63f-cab1d05c1beb",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "indonesian": "oranye",
+      "cefr": "A1",
+      "ipa": "[oˈraɲe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fbcea7d-2df5-4698-947a-67235614d7bb",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "indonesian": "ungu",
+      "cefr": "A2",
+      "ipa": "[ˈuŋu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f21fa23-3fca-4a6b-bfb0-0e746ecd0db8",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "indonesian": "merah muda",
+      "cefr": "A2",
+      "ipa": "[ˈmerah ˈmuda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ccefaa1-0083-48c3-bbd9-f558d2559ebc",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "indonesian": "sekarang",
+      "cefr": "A1",
+      "ipa": "[səˈkaraŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a822825-0815-4dc4-83f0-7223c2d2f82d",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "indonesian": "hari ini",
+      "cefr": "A1",
+      "ipa": "[ˈhari ˈini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd9a66b9-e802-482d-b615-5653de86f2a9",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "indonesian": "besok",
+      "cefr": "A1",
+      "ipa": "[ˈbesɔʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07790b73-7371-4526-976e-4d86fcfb47de",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "indonesian": "kemarin",
+      "cefr": "A1",
+      "ipa": "[kəˈmarɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55b69d64-e4b6-40d3-b2ca-cda3503ebfa4",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "indonesian": "di sini",
+      "cefr": "A1",
+      "ipa": "[di ˈsini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcc61ff8-77b5-46a6-93fd-45f130a5bc2e",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "indonesian": "di sana",
+      "cefr": "A1",
+      "ipa": "[di ˈsana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15ff8d8f-109f-4360-bbcb-f4f68840ad23",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "indonesian": "di mana",
+      "cefr": "A1",
+      "ipa": "[di ˈmana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80ad4aff-8283-4a96-a783-3aebf2aa52d4",
+      "part-of-speech": "adverb",
+      "english": "where (to)",
+      "indonesian": "ke mana",
+      "cefr": "A1",
+      "ipa": "[kə ˈmana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4551fe1d-1ddc-4930-bdb9-8050976e1a96",
+      "part-of-speech": "adverb",
+      "english": "where from",
+      "indonesian": "dari mana",
+      "cefr": "A1",
+      "ipa": "[ˈdari ˈmana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09ddb474-d9a6-4ce4-80e8-661b645348ae",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "indonesian": "kapan",
+      "cefr": "A1",
+      "ipa": "[ˈkapan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31c86ff9-0b84-4094-9e4e-034900648898",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "indonesian": "mengapa",
+      "cefr": "A1",
+      "ipa": "[məˈŋapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "327eba34-1b32-45e8-9e3f-99c0fb974820",
+      "part-of-speech": "adverb",
+      "english": "why (informal)",
+      "indonesian": "kenapa",
+      "cefr": "A1",
+      "ipa": "[kəˈnapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5cdc946-6937-4b4a-9c61-2432388df393",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "indonesian": "bagaimana",
+      "cefr": "A1",
+      "ipa": "[baɡaiˈmana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9ce794c-3ce0-453b-8b90-cc44d5f43ca6",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "indonesian": "berapa",
+      "cefr": "A1",
+      "ipa": "[bəˈrapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd02df91-7ec8-42d7-bc8d-6518be6d8055",
+      "part-of-speech": "adverb",
+      "english": "not (with verbs and adjectives)",
+      "indonesian": "tidak",
+      "cefr": "A1",
+      "ipa": "[ˈtidaʔ]",
+      "context": "informal: nggak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87f2c91b-0d12-444f-a667-a1f624621787",
+      "part-of-speech": "adverb",
+      "english": "not (with nouns)",
+      "indonesian": "bukan",
+      "cefr": "A1",
+      "ipa": "[ˈbukan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b63be85b-6545-4654-85e2-9019aa6493de",
+      "part-of-speech": "adverb",
+      "english": "not yet",
+      "indonesian": "belum",
+      "cefr": "A1",
+      "ipa": "[ˈbəlʊm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04b19c91-b759-45c8-aab1-8e3b3706ceaf",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "indonesian": "sudah",
+      "cefr": "A1",
+      "ipa": "[ˈsudah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3664924-5b16-4d14-b58a-2ab4d4d61374",
+      "part-of-speech": "adverb",
+      "english": "in the middle of (doing)",
+      "indonesian": "sedang",
+      "cefr": "A1",
+      "ipa": "[ˈsədaŋ]",
+      "context": "marks an action in progress: saya sedang makan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7774d7db-5065-4aef-b177-d0ab0b217f8a",
+      "part-of-speech": "adverb",
+      "english": "will (future)",
+      "indonesian": "akan",
+      "cefr": "A1",
+      "ipa": "[ˈakan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c977e020-6baa-4da3-8fb4-174dd1c4fdc9",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "indonesian": "juga",
+      "cefr": "A1",
+      "ipa": "[ˈdʒuɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27ec6efa-830c-42b4-81b0-235e1bf4ffaa",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "indonesian": "sangat",
+      "cefr": "A1",
+      "ipa": "[ˈsaŋat]",
+      "context": "before the adjective: sangat besar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bd67076-4e51-4a11-8949-f4fdfe0e17d7",
+      "part-of-speech": "adverb",
+      "english": "very; once",
+      "indonesian": "sekali",
+      "cefr": "A1",
+      "ipa": "[səˈkali]",
+      "context": "after the adjective: besar sekali",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00ef3feb-51ef-44f2-8340-e6c1c4d8d716",
+      "part-of-speech": "adverb",
+      "english": "too (much)",
+      "indonesian": "terlalu",
+      "cefr": "A2",
+      "ipa": "[tərˈlalu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d6db13a-7b69-464f-8f72-ec3d2f237ea0",
+      "part-of-speech": "adverb",
+      "english": "again; more",
+      "indonesian": "lagi",
+      "cefr": "A1",
+      "ipa": "[ˈlaɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3458a8d8-f00b-44b1-8e15-82cd0621c4cc",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "indonesian": "selalu",
+      "cefr": "A1",
+      "ipa": "[səˈlalu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d7981c7-7233-4c3a-9ac7-eeb1c6fc4298",
+      "part-of-speech": "adverb",
+      "english": "ever, once (in the past)",
+      "indonesian": "pernah",
+      "cefr": "A2",
+      "ipa": "[ˈpərnah]",
+      "context": "tidak pernah: never",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22f7da37-c18c-40d4-a84e-5f70a76491de",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "indonesian": "kadang-kadang",
+      "cefr": "A1",
+      "ipa": "[ˈkadaŋ ˈkadaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c749cb08-9421-47b3-8de9-36b04a7cff39",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "indonesian": "sering",
+      "cefr": "A1",
+      "ipa": "[ˈsərɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8df7b018-91c9-4479-9b21-247c091de0e3",
+      "part-of-speech": "adverb",
+      "english": "rarely",
+      "indonesian": "jarang",
+      "cefr": "A2",
+      "ipa": "[ˈdʒaraŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a330cf78-f395-44bd-85aa-7843a2fc86ec",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "indonesian": "biasanya",
+      "cefr": "A2",
+      "ipa": "[biaˈsaɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12b4067c-5c36-4191-9470-62a0fea14374",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "indonesian": "mungkin",
+      "cefr": "A1",
+      "ipa": "[ˈmuŋkɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3cd0049-2f22-4f30-b73f-4dbbbbf9c10f",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "indonesian": "nanti",
+      "cefr": "A1",
+      "ipa": "[ˈnanti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08fa386d-be4d-41ed-8b74-fb7ca606af85",
+      "part-of-speech": "adverb",
+      "english": "first; in the past",
+      "indonesian": "dulu",
+      "cefr": "A1",
+      "ipa": "[ˈdulu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3241fce-d396-4f0c-821f-8009af15bc2e",
+      "part-of-speech": "adverb",
+      "english": "then",
+      "indonesian": "lalu",
+      "cefr": "A2",
+      "ipa": "[ˈlalu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "583cff27-00cf-4958-8443-82c641142115",
+      "part-of-speech": "adverb",
+      "english": "then, afterwards",
+      "indonesian": "kemudian",
+      "cefr": "A2",
+      "ipa": "[kəmuˈdian]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "047fce6f-4a35-4394-a6e1-a704be1d45f6",
+      "part-of-speech": "adverb",
+      "english": "soon, immediately",
+      "indonesian": "segera",
+      "cefr": "A2",
+      "ipa": "[səˈɡəra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fb5fecb-014b-4b74-8b16-f08f8a4aaef2",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "indonesian": "bersama",
+      "cefr": "A1",
+      "ipa": "[bərˈsama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a466c4d6-28fc-49dc-878d-dd48967496dd",
+      "part-of-speech": "adverb",
+      "english": "alone, by oneself",
+      "indonesian": "sendiri",
+      "cefr": "A1",
+      "ipa": "[sənˈdiri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ece5ddd3-c939-43e8-a5a3-6390da9a8cb8",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "indonesian": "hanya",
+      "cefr": "A1",
+      "ipa": "[ˈhaɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a2b4f10-6fc1-4c68-8eaf-f3b8271a6bcc",
+      "part-of-speech": "adverb",
+      "english": "just, only",
+      "indonesian": "saja",
+      "cefr": "A1",
+      "ipa": "[ˈsadʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3deb2e85-403c-4adf-9d4b-58cb95e3337a",
+      "part-of-speech": "adverb",
+      "english": "still",
+      "indonesian": "masih",
+      "cefr": "A1",
+      "ipa": "[ˈmasɪh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6b5d211-bca9-42b9-945c-547d5ad348dd",
+      "part-of-speech": "adverb",
+      "english": "enough; quite",
+      "indonesian": "cukup",
+      "cefr": "A2",
+      "ipa": "[ˈtʃukʊp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da8d4e63-4676-476e-8b66-b6af595b312b",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "indonesian": "hampir",
+      "cefr": "A2",
+      "ipa": "[ˈhampɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "354447ac-98f1-499a-96d3-b316822b0207",
+      "part-of-speech": "adverb",
+      "english": "of course, certainly",
+      "indonesian": "tentu",
+      "cefr": "A2",
+      "ipa": "[ˈtəntu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23e593e1-0537-4059-badc-dcc5364accda",
+      "part-of-speech": "adverb",
+      "english": "about, approximately",
+      "indonesian": "kira-kira",
+      "cefr": "A2",
+      "ipa": "[ˈkira ˈkira]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c9b4c95-ecc0-49d4-ae2a-d8abb30fb5fe",
+      "part-of-speech": "adverb",
+      "english": "left",
+      "indonesian": "kiri",
+      "cefr": "A1",
+      "ipa": "[ˈkiri]",
+      "context": "ke kiri: to the left",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a04efd83-584d-4f1a-a391-99d10853678a",
+      "part-of-speech": "adverb",
+      "english": "right",
+      "indonesian": "kanan",
+      "cefr": "A1",
+      "ipa": "[ˈkanan]",
+      "context": "ke kanan: to the right",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d35b2456-9365-452b-a9a1-736215eb92ea",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "indonesian": "di dalam",
+      "cefr": "A2",
+      "ipa": "[di ˈdalam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4573231-f22e-4bb6-965a-76edc3a8b4a5",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "indonesian": "di luar",
+      "cefr": "A2",
+      "ipa": "[di ˈluar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "726d59a7-c9b8-4861-8934-fb3ba727f6cd",
+      "part-of-speech": "preposition",
+      "english": "in, at, on",
+      "indonesian": "di",
+      "cefr": "A1",
+      "ipa": "[di]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2b02e74-7534-4c1f-9f10-13d11c96347d",
+      "part-of-speech": "preposition",
+      "english": "to",
+      "indonesian": "ke",
+      "cefr": "A1",
+      "ipa": "[kə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbf08221-633f-4b0a-827c-9c19681ddaa7",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "indonesian": "dari",
+      "cefr": "A1",
+      "ipa": "[ˈdari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fead97b-f55c-453d-881f-2a50f2afbb2f",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "indonesian": "dengan",
+      "cefr": "A1",
+      "ipa": "[ˈdəŋan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "855911f5-4037-4a2c-8b78-ade1d831a997",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "indonesian": "untuk",
+      "cefr": "A1",
+      "ipa": "[ˈuntʊʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60c7b70e-e33c-4a79-9243-2a1b30979c1e",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "indonesian": "sampai",
+      "cefr": "A1",
+      "ipa": "[ˈsampai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1af73a02-4bbd-4f0b-a421-a111528081d5",
+      "part-of-speech": "preposition",
+      "english": "at, on (time)",
+      "indonesian": "pada",
+      "cefr": "A2",
+      "ipa": "[ˈpada]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f51a9e63-439c-43f6-be3c-fac93a074806",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "indonesian": "tentang",
+      "cefr": "A2",
+      "ipa": "[ˈtəntaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e12c209-28b2-4144-baa4-616730c4bc45",
+      "part-of-speech": "preposition",
+      "english": "since",
+      "indonesian": "sejak",
+      "cefr": "A2",
+      "ipa": "[ˈsədʒaʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb4e28c6-1abb-467b-a9c1-d1950fe433f4",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "indonesian": "tanpa",
+      "cefr": "A2",
+      "ipa": "[ˈtanpa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2000b240-4372-407e-9a68-18e1f3cdac2a",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "indonesian": "antara",
+      "cefr": "A2",
+      "ipa": "[anˈtara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a71d7b9-c760-4e72-a517-8add83b137bb",
+      "part-of-speech": "preposition",
+      "english": "by (someone)",
+      "indonesian": "oleh",
+      "cefr": "A2",
+      "ipa": "[ˈolɛh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74170ec8-cfca-4bb7-ba78-b6a20a8674d4",
+      "part-of-speech": "preposition",
+      "english": "like, as",
+      "indonesian": "seperti",
+      "cefr": "A1",
+      "ipa": "[səˈpərti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82d0c619-1d0e-4c62-b92c-e35328087afe",
+      "part-of-speech": "preposition",
+      "english": "on top of, above",
+      "indonesian": "di atas",
+      "cefr": "A1",
+      "ipa": "[di ˈatas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "185a5c2e-a1e4-4c08-b7e2-1d7213162fd5",
+      "part-of-speech": "preposition",
+      "english": "under, below",
+      "indonesian": "di bawah",
+      "cefr": "A1",
+      "ipa": "[di ˈbawah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c959617-f160-4b6a-9bb0-20e94b62ebc2",
+      "part-of-speech": "preposition",
+      "english": "in front of",
+      "indonesian": "di depan",
+      "cefr": "A1",
+      "ipa": "[di ˈdəpan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed88d004-c9b7-4c27-970c-32eaf8ee3359",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "indonesian": "di belakang",
+      "cefr": "A1",
+      "ipa": "[di bəˈlakaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70b9a093-af26-4549-bc74-054dc7436d09",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "indonesian": "di samping",
+      "cefr": "A1",
+      "ipa": "[di ˈsampɪŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72d5a5bb-9f14-44ff-b800-8000cbaecd81",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "indonesian": "dan",
+      "cefr": "A1",
+      "ipa": "[dan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d56d8631-9fe2-47b5-9183-d7f0d30fc261",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "indonesian": "atau",
+      "cefr": "A1",
+      "ipa": "[ˈatau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbeff346-5f15-4428-945d-1f7317c8d5e0",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "indonesian": "tetapi",
+      "cefr": "A1",
+      "ipa": "[təˈtapi]",
+      "context": "informal: tapi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f7f04da-2f07-4996-83b9-434d52649ba2",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "indonesian": "karena",
+      "cefr": "A1",
+      "ipa": "[kaˈrəna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c1ba54e-cdee-40e8-91d3-d860e287357e",
+      "part-of-speech": "conjunction",
+      "english": "so",
+      "indonesian": "jadi",
+      "cefr": "A1",
+      "ipa": "[ˈdʒadi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30fa9f8f-4f44-442a-a4e2-d25933425b90",
+      "part-of-speech": "conjunction",
+      "english": "if; when",
+      "indonesian": "kalau",
+      "cefr": "A1",
+      "ipa": "[ˈkalau̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f49c6ba-bc8d-4014-b888-dc8a6fe0b83c",
+      "part-of-speech": "conjunction",
+      "english": "if (formal)",
+      "indonesian": "jika",
+      "cefr": "A2",
+      "ipa": "[ˈdʒika]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fad76c83-d1a0-4363-b211-6e6f739fc256",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "indonesian": "bahwa",
+      "cefr": "A2",
+      "ipa": "[ˈbahwa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "655800dc-b290-4715-a59b-a8e441251c8f",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "indonesian": "ketika",
+      "cefr": "A2",
+      "ipa": "[kəˈtika]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2451945c-da34-4d75-9529-92b775ac91f1",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "indonesian": "sebelum",
+      "cefr": "A2",
+      "ipa": "[səˈbəlʊm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76eb47fa-e941-48e5-94b4-9eb9e58f4d5a",
+      "part-of-speech": "conjunction",
+      "english": "after",
+      "indonesian": "setelah",
+      "cefr": "A2",
+      "ipa": "[səˈtəlah]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef2a6ca9-ace3-4527-8637-fd09ab905988",
+      "part-of-speech": "conjunction",
+      "english": "so that",
+      "indonesian": "supaya",
+      "cefr": "A2",
+      "ipa": "[suˈpaja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc7f74da-060a-4034-996e-7787436e3204",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "indonesian": "walaupun",
+      "cefr": "A2",
+      "ipa": "[waˈlau̯pʊn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc344649-1f65-47cf-8a74-1484c7190c15",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "indonesian": "ya",
+      "cefr": "A1",
+      "ipa": "[ja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85ae25dc-ceb4-491c-b7d1-09848d049f2c",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "indonesian": "tidak",
+      "cefr": "A1",
+      "ipa": "[ˈtidaʔ]",
+      "context": "informal: nggak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a5f9969-34bb-4985-a550-0a5432af3e12",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "indonesian": "halo",
+      "cefr": "A1",
+      "ipa": "[ˈhalo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f26e492-59dd-4d24-ac58-2ddddbcc0d63",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "indonesian": "selamat pagi",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈpaɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74c59626-58b0-4435-a723-254db7ff2a3f",
+      "part-of-speech": "interjection",
+      "english": "good day (midday)",
+      "indonesian": "selamat siang",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈsiaŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "830c0c4b-e223-44c9-bde6-05a9d7ef67fb",
+      "part-of-speech": "interjection",
+      "english": "good afternoon",
+      "indonesian": "selamat sore",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈsore]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6ac2470-0b84-4d20-8a91-171927228834",
+      "part-of-speech": "interjection",
+      "english": "good evening, good night",
+      "indonesian": "selamat malam",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈmalam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4b9c1b8-a226-4034-bf98-1aea9d8f01d3",
+      "part-of-speech": "interjection",
+      "english": "sleep well",
+      "indonesian": "selamat tidur",
+      "cefr": "A2",
+      "ipa": "[səˈlamat ˈtidʊr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01b0eac5-c23f-4970-8519-8b4b8785369c",
+      "part-of-speech": "interjection",
+      "english": "welcome",
+      "indonesian": "selamat datang",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈdataŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa1a30f9-7685-4a22-8696-b1a05c2ac21d",
+      "part-of-speech": "interjection",
+      "english": "goodbye (to someone leaving)",
+      "indonesian": "selamat jalan",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈdʒalan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d653fd01-1594-4c76-ad7e-9b000dca0d08",
+      "part-of-speech": "interjection",
+      "english": "goodbye (said when you leave)",
+      "indonesian": "selamat tinggal",
+      "cefr": "A1",
+      "ipa": "[səˈlamat ˈtiŋɡal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4ddd9af-a27a-4da7-b8ef-12abdc552369",
+      "part-of-speech": "interjection",
+      "english": "see you",
+      "indonesian": "sampai jumpa",
+      "cefr": "A1",
+      "ipa": "[ˈsampai̯ ˈdʒumpa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d43bcc77-a849-4893-b104-af97ce13a542",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "indonesian": "apa kabar",
+      "cefr": "A1",
+      "ipa": "[ˈapa ˈkabar]",
+      "context": "answer: baik (fine)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bbda0e5-351c-410c-8f73-35f8bdaf27f1",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "indonesian": "terima kasih",
+      "cefr": "A1",
+      "ipa": "[təˈrima ˈkasɪh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa6db4da-0348-4d5c-a817-7c77ac67a420",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "indonesian": "sama-sama",
+      "cefr": "A1",
+      "ipa": "[ˈsama ˈsama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8900d5a0-9d0c-4d58-84b0-cf63c5c84cc8",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "indonesian": "maaf",
+      "cefr": "A1",
+      "ipa": "[ˈmaʔaf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "869f0950-df1a-4c17-92b5-425953bf7cb6",
+      "part-of-speech": "interjection",
+      "english": "excuse me",
+      "indonesian": "permisi",
+      "cefr": "A1",
+      "ipa": "[pərˈmisi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "074a2ab7-dc69-445b-8702-8963c9014618",
+      "part-of-speech": "interjection",
+      "english": "please (asking for help); help!",
+      "indonesian": "tolong",
+      "cefr": "A1",
+      "ipa": "[ˈtolɔŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c97a781-b4d9-45f1-a71e-75e579702376",
+      "part-of-speech": "interjection",
+      "english": "please (go ahead)",
+      "indonesian": "silakan",
+      "cefr": "A1",
+      "ipa": "[siˈlakan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08abb66b-5998-4f0c-bf95-6b4de0daa2cb",
+      "part-of-speech": "interjection",
+      "english": "come on, let's go",
+      "indonesian": "ayo",
+      "cefr": "A1",
+      "ipa": "[ˈajo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9516113d-e368-4491-b298-1d7768d602a5",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "indonesian": "selamat",
+      "cefr": "A2",
+      "ipa": "[səˈlamat]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

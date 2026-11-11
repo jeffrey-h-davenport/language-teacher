@@ -1,5 +1,28 @@
 # Changelog
 
+## 1.21.1 — 2026-11-11
+- Norwegian and Swedish pronunciation: word-final stops are no longer marked as long (takk [tɑk], not [tɑkː]) — the extra length is a silent hold you can't hear at the end of a word; what you hear is the short vowel before it. Long sounds you can hear, like the n in mann [mɑnː] or the k in takke [²tɑkːə], are still marked
+
+## 1.21.0 — 2026-11-11
+- Added Norwegian: 557 words covering levels A1 and A2 — everyday nouns, verbs, adjectives and adverbs, plus pronouns, prepositions, conjunctions, numbers, greetings, days and months
+- Nouns use all three genders, as spoken in Oslo and taught in current textbooks (en mann, ei jente, et barn), with their plurals
+- Every word has bracketed IPA for standard Oslo-area pronunciation, including the retroflex sounds (barn [bɑːɳ], norsk [nɔʂk]) and the word's pitch accent — ² marks tone-2 words, as in the Swedish list
+
+## 1.20.0 — 2026-11-11
+- Added Italian: 558 words covering levels A1 and A2 — everyday nouns, verbs, adjectives and adverbs, plus pronouns, prepositions (with their contractions: del, al, nel…), conjunctions, numbers, greetings, days and months
+- Every noun is shown with the right article, chosen by how the word begins as Italian requires (il libro, l'amico, lo studente, lo zio, i genitori), plus its plural; every word has bracketed IPA for standard Italian, showing long stressed vowels, double consonants, and open vs. closed e and o
+
+## 1.19.1 — 2026-11-11
+- The European Portuguese language button now just says "Portuguese"
+
+## 1.19.0 — 2026-11-11
+- Added European Portuguese ("Portuguese (Portugal)" in the language list): 563 words covering levels A1 and A2, using the words of Portugal rather than Brazil (autocarro, comboio, pequeno-almoço, casa de banho, telemóvel…), with the Brazilian equivalent noted where they differ
+- Every noun is shown with its article (o livro, a casa, os pais) and its plural; every word has bracketed IPA for standard Lisbon pronunciation — reduced unstressed vowels, [ʃ] for final s, uvular [ʁ] for initial r and rr, and softened b, d, g between vowels
+
+## 1.18.0 — 2026-11-10
+- Added Indonesian: 501 words covering levels A1 and A2 — everyday nouns, verbs, adjectives and adverbs, plus pronouns (including formal and informal "I" and "you"), question words, prepositions, conjunctions, numbers, greetings, days and months
+- Every word has bracketed IPA showing the actual pronunciation of standard Indonesian (for example the final k as a glottal stop: anak [ˈanaʔ]), with notes on usage where it matters (sangat vs. sekali, tidak vs. bukan, plurals by repetition)
+
 ## 1.17.1 — 2026-11-08
 - Dutch pronunciation now shows the actual sounds of standard Netherlands Dutch (bracketed IPA) instead of the broad /…/ version: r is [ʁ] at the start of a syllable and the soft [ɻ] at the end (rood [ʁoʊt], maar [maːɻ]); ee, oo and eu are slightly diphthongized (been [beɪn]) and change before a final r (meer [mɪːɻ]); and the final n of -en is dropped (geven [ˈɣeɪvə])
 

@@ -1,0 +1,6661 @@
+{
+  "meta": {
+    "language": "Italian",
+    "languageCode": "it",
+    "nativeLanguage": "English",
+    "targetField": "italian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "a12c0c23-960a-4f17-b4d6-49d623396997",
+      "part-of-speech": "noun",
+      "english": "man",
+      "italian": "uomo",
+      "gender": "masculine",
+      "plural": "uomini",
+      "cefr": "A1",
+      "ipa": "[ˈwɔːmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d47e784-77e7-4c6e-9dae-4ec82d725dff",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "italian": "donna",
+      "gender": "feminine",
+      "plural": "donne",
+      "cefr": "A1",
+      "ipa": "[ˈdɔnna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad3c6ad2-89bc-4297-b5e6-012efe201ef3",
+      "part-of-speech": "noun",
+      "english": "child, little boy",
+      "italian": "bambino",
+      "gender": "masculine",
+      "plural": "bambini",
+      "cefr": "A1",
+      "ipa": "[bamˈbiːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9679320-ff69-42f3-80a0-51d561c024ac",
+      "part-of-speech": "noun",
+      "english": "little girl",
+      "italian": "bambina",
+      "gender": "feminine",
+      "plural": "bambine",
+      "cefr": "A1",
+      "ipa": "[bamˈbiːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdb80fdc-487f-4ac7-a496-45e978a9c23c",
+      "part-of-speech": "noun",
+      "english": "boy; boyfriend",
+      "italian": "ragazzo",
+      "gender": "masculine",
+      "plural": "ragazzi",
+      "cefr": "A1",
+      "ipa": "[raˈɡattso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "556726fb-f734-44c6-a2e1-aed0b8db1061",
+      "part-of-speech": "noun",
+      "english": "girl; girlfriend",
+      "italian": "ragazza",
+      "gender": "feminine",
+      "plural": "ragazze",
+      "cefr": "A1",
+      "ipa": "[raˈɡattsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba1758c1-af4b-452a-abc2-f02d47e0bad1",
+      "part-of-speech": "noun",
+      "english": "person",
+      "italian": "persona",
+      "gender": "feminine",
+      "plural": "persone",
+      "cefr": "A1",
+      "ipa": "[perˈsoːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e42d5715-09d4-4b26-a9f7-013a1cfce5a0",
+      "part-of-speech": "noun",
+      "english": "people",
+      "italian": "gente",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈdʒɛnte]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c7ad11c-9cba-48a3-bd2d-2a89e6bfb9ee",
+      "part-of-speech": "noun",
+      "english": "father",
+      "italian": "padre",
+      "gender": "masculine",
+      "plural": "padri",
+      "cefr": "A1",
+      "ipa": "[ˈpaːdre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2cdcfa0f-5cf5-4f39-8457-0b395cdd6675",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "italian": "madre",
+      "gender": "feminine",
+      "plural": "madri",
+      "cefr": "A1",
+      "ipa": "[ˈmaːdre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83f2376a-9eb5-442a-a71e-45a7a871f865",
+      "part-of-speech": "noun",
+      "english": "dad",
+      "italian": "papà",
+      "gender": "masculine",
+      "plural": "papà",
+      "cefr": "A1",
+      "ipa": "[paˈpa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8519ab0c-e755-4522-8610-4d38bfa8c264",
+      "part-of-speech": "noun",
+      "english": "mum, mom",
+      "italian": "mamma",
+      "gender": "feminine",
+      "plural": "mamme",
+      "cefr": "A1",
+      "ipa": "[ˈmamma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f9e5fff-a6f2-4ff8-9488-a499dbc89548",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "italian": "genitori",
+      "gender": "masculine",
+      "plural": "genitori",
+      "cefr": "A1",
+      "ipa": "[dʒeniˈtoːri]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9df0ed26-6dda-44dd-a30e-7fbff4d94603",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "italian": "fratello",
+      "gender": "masculine",
+      "plural": "fratelli",
+      "cefr": "A1",
+      "ipa": "[fraˈtɛllo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e87c49b-1382-4def-81e3-03e8a3564c47",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "italian": "sorella",
+      "gender": "feminine",
+      "plural": "sorelle",
+      "cefr": "A1",
+      "ipa": "[soˈrɛlla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9607a5b-a0f6-41ab-8410-7621be45d427",
+      "part-of-speech": "noun",
+      "english": "son",
+      "italian": "figlio",
+      "gender": "masculine",
+      "plural": "figli",
+      "cefr": "A1",
+      "ipa": "[ˈfiʎʎo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fd7f1f3-acc5-41cd-a721-d1ca9cb4979c",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "italian": "figlia",
+      "gender": "feminine",
+      "plural": "figlie",
+      "cefr": "A1",
+      "ipa": "[ˈfiʎʎa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8649ce77-5015-4c2b-b2db-e1cfadf579bf",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "italian": "nonno",
+      "gender": "masculine",
+      "plural": "nonni",
+      "cefr": "A1",
+      "ipa": "[ˈnɔnno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a830ff0c-e1ca-4fc3-b86c-c59c3b21314b",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "italian": "nonna",
+      "gender": "feminine",
+      "plural": "nonne",
+      "cefr": "A1",
+      "ipa": "[ˈnɔnna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84fabaa9-b368-4345-abe8-872bae0c2fba",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "italian": "zio",
+      "gender": "masculine",
+      "plural": "zii",
+      "cefr": "A2",
+      "ipa": "[ˈtsiːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26b7595e-0e01-49a1-8c61-7928d1b41600",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "italian": "zia",
+      "gender": "feminine",
+      "plural": "zie",
+      "cefr": "A2",
+      "ipa": "[ˈtsiːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eea833d0-d2cf-455d-93a9-7e94a43f7098",
+      "part-of-speech": "noun",
+      "english": "family",
+      "italian": "famiglia",
+      "gender": "feminine",
+      "plural": "famiglie",
+      "cefr": "A1",
+      "ipa": "[faˈmiʎʎa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d44351b9-0f79-40da-adb0-06283ff6168f",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "italian": "marito",
+      "gender": "masculine",
+      "plural": "mariti",
+      "cefr": "A1",
+      "ipa": "[maˈriːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dab06d3f-3182-4eec-9c28-c4360ed12fef",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "italian": "moglie",
+      "gender": "feminine",
+      "plural": "mogli",
+      "cefr": "A1",
+      "ipa": "[ˈmoʎʎe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8ab379f-8dba-47a0-bbee-7a6f82a70430",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "italian": "amico",
+      "gender": "masculine",
+      "plural": "amici",
+      "cefr": "A1",
+      "ipa": "[aˈmiːko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15f7573c-ce9e-4aee-9756-6b3ca4282a25",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "italian": "amica",
+      "gender": "feminine",
+      "plural": "amiche",
+      "cefr": "A1",
+      "ipa": "[aˈmiːka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acbfaec5-f82f-4e57-a8b5-ec6c463ebe8c",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "italian": "vicino",
+      "gender": "masculine",
+      "plural": "vicini",
+      "cefr": "A2",
+      "ipa": "[viˈtʃiːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e65abb99-87f4-493f-a5f2-f03a9c59bd53",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "italian": "collega",
+      "gender": "masculine",
+      "plural": "colleghi",
+      "cefr": "A2",
+      "ipa": "[kolˈlɛːɡa]",
+      "context": "also feminine: la collega",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "327335e5-9c3e-4d05-ac05-9257e1ac670e",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "italian": "insegnante",
+      "gender": "masculine",
+      "plural": "insegnanti",
+      "cefr": "A1",
+      "ipa": "[inseɲˈɲante]",
+      "context": "also feminine: l'insegnante (f)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc7e2c88-d23b-4d91-a556-e8601c6c2b2a",
+      "part-of-speech": "noun",
+      "english": "teacher, professor",
+      "italian": "professore",
+      "gender": "masculine",
+      "plural": "professori",
+      "cefr": "A1",
+      "ipa": "[profesˈsoːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4fb5b32-83ea-4319-8acf-ee471a5b6252",
+      "part-of-speech": "noun",
+      "english": "teacher, professor (female)",
+      "italian": "professoressa",
+      "gender": "feminine",
+      "plural": "professoresse",
+      "cefr": "A1",
+      "ipa": "[professoˈressa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0f1037f-0474-44af-9eb9-ec6f4bf14d56",
+      "part-of-speech": "noun",
+      "english": "student",
+      "italian": "studente",
+      "gender": "masculine",
+      "plural": "studenti",
+      "cefr": "A1",
+      "ipa": "[stuˈdɛnte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b22f0c6d-a089-4caa-aa86-2cc03d6f6664",
+      "part-of-speech": "noun",
+      "english": "student (female)",
+      "italian": "studentessa",
+      "gender": "feminine",
+      "plural": "studentesse",
+      "cefr": "A1",
+      "ipa": "[studenˈtessa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c583d1e-99a2-471e-8615-b30b9cfab895",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "italian": "medico",
+      "gender": "masculine",
+      "plural": "medici",
+      "cefr": "A1",
+      "ipa": "[ˈmɛːdiko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f336933-ed12-48ac-a122-ee12860eae39",
+      "part-of-speech": "noun",
+      "english": "name",
+      "italian": "nome",
+      "gender": "masculine",
+      "plural": "nomi",
+      "cefr": "A1",
+      "ipa": "[ˈnoːme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b986545c-472a-4265-a611-e44633250484",
+      "part-of-speech": "noun",
+      "english": "age",
+      "italian": "età",
+      "gender": "feminine",
+      "plural": "età",
+      "cefr": "A2",
+      "ipa": "[eˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f06cacc3-b81e-497d-b167-5c3d58e3a5bb",
+      "part-of-speech": "noun",
+      "english": "time; weather",
+      "italian": "tempo",
+      "gender": "masculine",
+      "plural": "tempi",
+      "cefr": "A1",
+      "ipa": "[ˈtɛmpo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfea5234-9963-4080-86cb-00145011fabf",
+      "part-of-speech": "noun",
+      "english": "day",
+      "italian": "giorno",
+      "gender": "masculine",
+      "plural": "giorni",
+      "cefr": "A1",
+      "ipa": "[ˈdʒorno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab3fec34-5806-432c-b69d-ec17779085e9",
+      "part-of-speech": "noun",
+      "english": "week",
+      "italian": "settimana",
+      "gender": "feminine",
+      "plural": "settimane",
+      "cefr": "A1",
+      "ipa": "[settiˈmaːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33316dfe-702f-4684-80fb-f7be0e8c2970",
+      "part-of-speech": "noun",
+      "english": "month",
+      "italian": "mese",
+      "gender": "masculine",
+      "plural": "mesi",
+      "cefr": "A1",
+      "ipa": "[ˈmeːse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cfc3f93-fa49-4c2d-a9c8-8b20afdb7ec1",
+      "part-of-speech": "noun",
+      "english": "year",
+      "italian": "anno",
+      "gender": "masculine",
+      "plural": "anni",
+      "cefr": "A1",
+      "ipa": "[ˈanno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d13a333-6748-4889-8f8b-491de2b82d0e",
+      "part-of-speech": "noun",
+      "english": "hour; time (of day)",
+      "italian": "ora",
+      "gender": "feminine",
+      "plural": "ore",
+      "cefr": "A1",
+      "ipa": "[ˈoːra]",
+      "context": "che ore sono?: what time is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbf4c56a-08d5-40d7-a7ed-371a54a2a95d",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "italian": "minuto",
+      "gender": "masculine",
+      "plural": "minuti",
+      "cefr": "A1",
+      "ipa": "[miˈnuːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7b42b42-f0bc-48c6-b8d9-39c28ff485e6",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "italian": "mattina",
+      "gender": "feminine",
+      "plural": "mattine",
+      "cefr": "A1",
+      "ipa": "[matˈtiːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4593837-ff5f-4f3c-ae22-e31923bd9a81",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "italian": "pomeriggio",
+      "gender": "masculine",
+      "plural": "pomeriggi",
+      "cefr": "A1",
+      "ipa": "[pomeˈriddʒo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c49fd31-0a42-4671-903c-11aada3a4b4d",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "italian": "sera",
+      "gender": "feminine",
+      "plural": "sere",
+      "cefr": "A1",
+      "ipa": "[ˈseːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4218d264-d26a-49fd-a8c7-fc231086a31e",
+      "part-of-speech": "noun",
+      "english": "night",
+      "italian": "notte",
+      "gender": "feminine",
+      "plural": "notti",
+      "cefr": "A1",
+      "ipa": "[ˈnɔtte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f552234e-de84-4629-b905-e8087db4bcbb",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "italian": "fine settimana",
+      "gender": "masculine",
+      "plural": "fine settimana",
+      "cefr": "A1",
+      "ipa": "[ˈfiːne settiˈmaːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88a47d8b-817f-4536-a9b8-d12898d2b7d6",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "italian": "lunedì",
+      "gender": "masculine",
+      "plural": "lunedì",
+      "cefr": "A1",
+      "ipa": "[luneˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88950ae3-e473-477a-aa31-9e4e47b4f502",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "italian": "martedì",
+      "gender": "masculine",
+      "plural": "martedì",
+      "cefr": "A1",
+      "ipa": "[marteˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f3aa210-6e1d-4392-a79b-e1720ea8ef34",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "italian": "mercoledì",
+      "gender": "masculine",
+      "plural": "mercoledì",
+      "cefr": "A1",
+      "ipa": "[merkoleˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31f2e22a-994e-46d8-a59d-54195257de93",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "italian": "giovedì",
+      "gender": "masculine",
+      "plural": "giovedì",
+      "cefr": "A1",
+      "ipa": "[dʒoveˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c297f4d-6447-4bc0-8d22-03f6f4e33fe1",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "italian": "venerdì",
+      "gender": "masculine",
+      "plural": "venerdì",
+      "cefr": "A1",
+      "ipa": "[venerˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96be763f-6a0c-4219-9532-197ad52f010e",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "italian": "sabato",
+      "gender": "masculine",
+      "plural": "sabati",
+      "cefr": "A1",
+      "ipa": "[ˈsaːbato]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa50d87a-e06b-45d6-bdfc-8fead2d68eba",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "italian": "domenica",
+      "gender": "feminine",
+      "plural": "domeniche",
+      "cefr": "A1",
+      "ipa": "[doˈmeːnika]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f090f8cd-af75-4a6b-9e68-be759f87965e",
+      "part-of-speech": "noun",
+      "english": "January",
+      "italian": "gennaio",
+      "cefr": "A1",
+      "ipa": "[dʒenˈnaːjo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55dc24f2-6e21-40b9-9399-12bd2b46c8d7",
+      "part-of-speech": "noun",
+      "english": "February",
+      "italian": "febbraio",
+      "cefr": "A1",
+      "ipa": "[febˈbraːjo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57aa1150-9448-4ebd-9c57-8f2726741169",
+      "part-of-speech": "noun",
+      "english": "March",
+      "italian": "marzo",
+      "cefr": "A1",
+      "ipa": "[ˈmartso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35b2ba94-8d20-45d2-a7c0-4ade5ad48742",
+      "part-of-speech": "noun",
+      "english": "April",
+      "italian": "aprile",
+      "cefr": "A1",
+      "ipa": "[aˈpriːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92b27f9b-f165-4f8d-b493-0ef5826b1d94",
+      "part-of-speech": "noun",
+      "english": "May",
+      "italian": "maggio",
+      "cefr": "A1",
+      "ipa": "[ˈmaddʒo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afb9d477-208a-4e40-8419-7b6fdbbd08c5",
+      "part-of-speech": "noun",
+      "english": "June",
+      "italian": "giugno",
+      "cefr": "A1",
+      "ipa": "[ˈdʒuɲɲo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61739527-b42a-4fcf-b4f9-fab4fb6a5042",
+      "part-of-speech": "noun",
+      "english": "July",
+      "italian": "luglio",
+      "cefr": "A1",
+      "ipa": "[ˈluʎʎo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "257e778d-5533-487c-8066-6e01865e65e8",
+      "part-of-speech": "noun",
+      "english": "August",
+      "italian": "agosto",
+      "cefr": "A1",
+      "ipa": "[aˈɡosto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca519074-058f-443b-a581-089612254f90",
+      "part-of-speech": "noun",
+      "english": "September",
+      "italian": "settembre",
+      "cefr": "A1",
+      "ipa": "[setˈtɛmbre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdb84e64-d52f-4852-bcb8-e5d2fbd210eb",
+      "part-of-speech": "noun",
+      "english": "October",
+      "italian": "ottobre",
+      "cefr": "A1",
+      "ipa": "[otˈtoːbre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03377ae8-4878-4f14-a56e-486c2c6b5946",
+      "part-of-speech": "noun",
+      "english": "November",
+      "italian": "novembre",
+      "cefr": "A1",
+      "ipa": "[noˈvɛmbre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "151ddfa2-2d12-4ad6-b398-ced5972998c5",
+      "part-of-speech": "noun",
+      "english": "December",
+      "italian": "dicembre",
+      "cefr": "A1",
+      "ipa": "[diˈtʃɛmbre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df89f761-1288-4117-8fe1-f6ac673bc608",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "italian": "primavera",
+      "gender": "feminine",
+      "plural": "primavere",
+      "cefr": "A2",
+      "ipa": "[primaˈvɛːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f77e70b-b4f1-4a19-8b7f-f0b7be2bb220",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "italian": "estate",
+      "gender": "feminine",
+      "plural": "estati",
+      "cefr": "A2",
+      "ipa": "[eˈstaːte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cadd6ac-c04d-4b84-b6e5-80fac7f19827",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "italian": "autunno",
+      "gender": "masculine",
+      "plural": "autunni",
+      "cefr": "A2",
+      "ipa": "[auˈtunno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cacf3ffb-a171-4bf3-8c54-620b5ed2ceb4",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "italian": "inverno",
+      "gender": "masculine",
+      "plural": "inverni",
+      "cefr": "A2",
+      "ipa": "[iɱˈvɛrno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aefe639c-4c3f-4abd-98e1-df93062367fe",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "italian": "compleanno",
+      "gender": "masculine",
+      "plural": "compleanni",
+      "cefr": "A1",
+      "ipa": "[kompleˈanno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5328f32c-58f7-4f05-a19d-c58458d1f355",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "italian": "vacanza",
+      "gender": "feminine",
+      "plural": "vacanze",
+      "cefr": "A1",
+      "ipa": "[vaˈkantsa]",
+      "context": "usually plural: le vacanze",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beb8e90c-fc4a-4c1d-89c7-0d1fd2c2bdc7",
+      "part-of-speech": "noun",
+      "english": "party; holiday",
+      "italian": "festa",
+      "gender": "feminine",
+      "plural": "feste",
+      "cefr": "A1",
+      "ipa": "[ˈfɛsta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67f9a13a-ef48-4944-a35f-a239f98d75f7",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "italian": "regalo",
+      "gender": "masculine",
+      "plural": "regali",
+      "cefr": "A2",
+      "ipa": "[reˈɡaːlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d35f492-a2e5-4346-8ba5-8eb3b9a18322",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "italian": "casa",
+      "gender": "feminine",
+      "plural": "case",
+      "cefr": "A1",
+      "ipa": "[ˈkaːsa]",
+      "context": "a casa: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df517696-bbe7-42ef-b10b-285d3361d28c",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "italian": "appartamento",
+      "gender": "masculine",
+      "plural": "appartamenti",
+      "cefr": "A1",
+      "ipa": "[appartaˈmento]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "022b0068-ac59-42f5-9362-8eaf968a6d72",
+      "part-of-speech": "noun",
+      "english": "room; bedroom",
+      "italian": "camera",
+      "gender": "feminine",
+      "plural": "camere",
+      "cefr": "A1",
+      "ipa": "[ˈkaːmera]",
+      "context": "camera da letto: bedroom",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b92c914c-0a0f-4ac0-ad98-bb4e4a4d35f4",
+      "part-of-speech": "noun",
+      "english": "living room",
+      "italian": "soggiorno",
+      "gender": "masculine",
+      "plural": "soggiorni",
+      "cefr": "A2",
+      "ipa": "[sodˈdʒorno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f836aab2-823c-41a4-927a-80527e92026a",
+      "part-of-speech": "noun",
+      "english": "kitchen; cooking, cuisine",
+      "italian": "cucina",
+      "gender": "feminine",
+      "plural": "cucine",
+      "cefr": "A1",
+      "ipa": "[kuˈtʃiːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42642ab3-03fa-4365-a15c-ec85d57b1b08",
+      "part-of-speech": "noun",
+      "english": "bathroom; bath",
+      "italian": "bagno",
+      "gender": "masculine",
+      "plural": "bagni",
+      "cefr": "A1",
+      "ipa": "[ˈbaɲɲo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3abf860-0de9-462d-8f42-5de46d59dfb9",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "italian": "giardino",
+      "gender": "masculine",
+      "plural": "giardini",
+      "cefr": "A1",
+      "ipa": "[dʒarˈdiːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cd1fe93-99b3-49ec-987f-099ac09a7206",
+      "part-of-speech": "noun",
+      "english": "door",
+      "italian": "porta",
+      "gender": "feminine",
+      "plural": "porte",
+      "cefr": "A1",
+      "ipa": "[ˈpɔrta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d4d8796-ab5e-4c7a-98bd-c86d4a0761d5",
+      "part-of-speech": "noun",
+      "english": "window",
+      "italian": "finestra",
+      "gender": "feminine",
+      "plural": "finestre",
+      "cefr": "A1",
+      "ipa": "[fiˈnɛstra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed426505-e6fd-406a-9cb5-c144adb25b34",
+      "part-of-speech": "noun",
+      "english": "table",
+      "italian": "tavolo",
+      "gender": "masculine",
+      "plural": "tavoli",
+      "cefr": "A1",
+      "ipa": "[ˈtaːvolo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "960ec4fb-a0e0-4b10-875a-fbf10b3fb559",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "italian": "sedia",
+      "gender": "feminine",
+      "plural": "sedie",
+      "cefr": "A1",
+      "ipa": "[ˈsɛːdja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e300787-fe62-4b9a-b610-e94d8e2ad44d",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "italian": "letto",
+      "gender": "masculine",
+      "plural": "letti",
+      "cefr": "A1",
+      "ipa": "[ˈlɛtto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0063a47-ed66-401d-975a-207128190b91",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "italian": "divano",
+      "gender": "masculine",
+      "plural": "divani",
+      "cefr": "A1",
+      "ipa": "[diˈvaːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6407446b-0baf-4117-bae8-e2fc6070885e",
+      "part-of-speech": "noun",
+      "english": "key",
+      "italian": "chiave",
+      "gender": "feminine",
+      "plural": "chiavi",
+      "cefr": "A1",
+      "ipa": "[ˈkjaːve]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4eb1aa51-b6e6-4280-81b3-4fbcce8d844b",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "italian": "frigorifero",
+      "gender": "masculine",
+      "plural": "frigoriferi",
+      "cefr": "A2",
+      "ipa": "[friɡoˈriːfero]",
+      "context": "often shortened to frigo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd8b6322-428a-4f36-a12c-b75b91e57552",
+      "part-of-speech": "noun",
+      "english": "television",
+      "italian": "televisione",
+      "gender": "feminine",
+      "plural": "televisioni",
+      "cefr": "A1",
+      "ipa": "[televiˈzjoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e0931b8-7356-4d49-8374-52bccf45a0a6",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "italian": "telefono",
+      "gender": "masculine",
+      "plural": "telefoni",
+      "cefr": "A1",
+      "ipa": "[teˈlɛːfono]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2af637c6-d269-4861-9dc4-e16d17b30e35",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "italian": "cellulare",
+      "gender": "masculine",
+      "plural": "cellulari",
+      "cefr": "A1",
+      "ipa": "[tʃelluˈlaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b99e3088-495e-4aa2-aefe-4b048874c607",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "italian": "computer",
+      "gender": "masculine",
+      "plural": "computer",
+      "cefr": "A1",
+      "ipa": "[komˈpjuːter]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9963061c-b488-47f0-9c1c-116d3afb8c06",
+      "part-of-speech": "noun",
+      "english": "food",
+      "italian": "cibo",
+      "gender": "masculine",
+      "plural": "cibi",
+      "cefr": "A2",
+      "ipa": "[ˈtʃiːbo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e7f6519-4b38-45bc-906b-c291c2bd44b5",
+      "part-of-speech": "noun",
+      "english": "water",
+      "italian": "acqua",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈakkwa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a49f4c15-9f6e-4849-9db4-0b88783e7b38",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "italian": "pane",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpaːne]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34a36703-cce7-4347-87de-7d5e55343f5d",
+      "part-of-speech": "noun",
+      "english": "coffee; café",
+      "italian": "caffè",
+      "gender": "masculine",
+      "plural": "caffè",
+      "cefr": "A1",
+      "ipa": "[kafˈfɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9fe4517-2aa3-4c59-ac59-b96549efde6d",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "italian": "tè",
+      "gender": "masculine",
+      "plural": "tè",
+      "cefr": "A1",
+      "ipa": "[ˈtɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8270505-a8f1-4042-a9bc-8a364ffa80c3",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "italian": "latte",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈlatte]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce1b7a08-a0de-4dfa-98b4-2c1ab2dec5b8",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "italian": "succo",
+      "gender": "masculine",
+      "plural": "succhi",
+      "cefr": "A1",
+      "ipa": "[ˈsukko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2cad494-54e0-48be-92a9-99d3fd1575cc",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "italian": "birra",
+      "gender": "feminine",
+      "plural": "birre",
+      "cefr": "A1",
+      "ipa": "[ˈbirra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1846913-bcf7-440a-bad1-20fd18302ff5",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "italian": "vino",
+      "gender": "masculine",
+      "plural": "vini",
+      "cefr": "A1",
+      "ipa": "[ˈviːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bfcb6b3-1ec0-497b-b8c5-a2f4d8a44e62",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "italian": "carne",
+      "gender": "feminine",
+      "plural": "carni",
+      "cefr": "A1",
+      "ipa": "[ˈkarne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be4989e3-1847-4c51-aae6-b3c2305e2ac9",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "italian": "pollo",
+      "gender": "masculine",
+      "plural": "polli",
+      "cefr": "A1",
+      "ipa": "[ˈpollo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "025fce08-f4ca-4249-b1ad-8398919bde5b",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "italian": "pesce",
+      "gender": "masculine",
+      "plural": "pesci",
+      "cefr": "A1",
+      "ipa": "[ˈpeʃʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77385051-0d2c-4ef9-a2b8-ed232c43833f",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "italian": "formaggio",
+      "gender": "masculine",
+      "plural": "formaggi",
+      "cefr": "A1",
+      "ipa": "[forˈmaddʒo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c1c1821-78a1-44b9-b086-ab485393ac53",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "italian": "uovo",
+      "gender": "masculine",
+      "plural": "uova",
+      "cefr": "A1",
+      "ipa": "[ˈwɔːvo]",
+      "context": "plural is feminine: le uova",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0680feee-a887-4d7c-8c30-005bc39580a6",
+      "part-of-speech": "noun",
+      "english": "vegetables",
+      "italian": "verdura",
+      "gender": "feminine",
+      "plural": "verdure",
+      "cefr": "A1",
+      "ipa": "[verˈduːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10ebbe29-3f05-4333-a534-4b108a639ab0",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "italian": "frutta",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈfrutta]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "278a8780-d502-4888-a7d9-618f1dfe89e3",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "italian": "mela",
+      "gender": "feminine",
+      "plural": "mele",
+      "cefr": "A1",
+      "ipa": "[ˈmeːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31bdb196-cf9b-4573-aef1-1b53612dea42",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "italian": "banana",
+      "gender": "feminine",
+      "plural": "banane",
+      "cefr": "A1",
+      "ipa": "[baˈnaːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98facc96-b8d5-41d4-bba3-bad7b53b6756",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "italian": "arancia",
+      "gender": "feminine",
+      "plural": "arance",
+      "cefr": "A1",
+      "ipa": "[aˈrantʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b7fb0ae-9311-4a86-8cdd-067fe6151fa8",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "italian": "patata",
+      "gender": "feminine",
+      "plural": "patate",
+      "cefr": "A1",
+      "ipa": "[paˈtaːta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02053bc5-a1c7-4f71-a260-3ba06a64cca3",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "italian": "pomodoro",
+      "gender": "masculine",
+      "plural": "pomodori",
+      "cefr": "A1",
+      "ipa": "[pomoˈdɔːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4483de0-5265-438b-b1a6-19ee25e180b9",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "italian": "riso",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈriːso]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f82c8271-19a7-4b1e-ad90-82dff19a2cb1",
+      "part-of-speech": "noun",
+      "english": "pasta; pastry",
+      "italian": "pasta",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈpasta]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23dd2299-5bc2-477a-addd-ea5b95d6e8e3",
+      "part-of-speech": "noun",
+      "english": "pizza",
+      "italian": "pizza",
+      "gender": "feminine",
+      "plural": "pizze",
+      "cefr": "A1",
+      "ipa": "[ˈpittsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45027858-9f96-44d2-8f8f-6ca20a31fa67",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "italian": "zuppa",
+      "gender": "feminine",
+      "plural": "zuppe",
+      "cefr": "A1",
+      "ipa": "[ˈtsuppa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a41a1e2-553e-40a5-af9d-0b5838c42d2f",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "italian": "zucchero",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtsukkero]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef09125f-c5d2-436c-b2fe-bd62b2751a50",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "italian": "sale",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈsaːle]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86587cfe-92a2-4c69-b03d-d49f16ee8b84",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "italian": "burro",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈburro]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88824406-2f9f-45a5-abd6-a17aca2a573b",
+      "part-of-speech": "noun",
+      "english": "ice cream",
+      "italian": "gelato",
+      "gender": "masculine",
+      "plural": "gelati",
+      "cefr": "A1",
+      "ipa": "[dʒeˈlaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b96279e-aee7-4450-9b63-0431a1d2f270",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "italian": "torta",
+      "gender": "feminine",
+      "plural": "torte",
+      "cefr": "A2",
+      "ipa": "[ˈtorta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21d43a06-6b66-4659-8a55-c5c72e7db0f0",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "italian": "colazione",
+      "gender": "feminine",
+      "plural": "colazioni",
+      "cefr": "A1",
+      "ipa": "[kolatˈtsjoːne]",
+      "context": "fare colazione: to have breakfast",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "315bfe75-f1ee-464a-ad0e-f9b122630d98",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "italian": "pranzo",
+      "gender": "masculine",
+      "plural": "pranzi",
+      "cefr": "A1",
+      "ipa": "[ˈprandzo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cda42e42-08bc-492e-ad23-ade3e55a48a0",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "italian": "cena",
+      "gender": "feminine",
+      "plural": "cene",
+      "cefr": "A1",
+      "ipa": "[ˈtʃeːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ece73d3d-67bc-4b4e-80c8-9759bc383693",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "italian": "ristorante",
+      "gender": "masculine",
+      "plural": "ristoranti",
+      "cefr": "A1",
+      "ipa": "[ristoˈrante]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05f0af77-b23e-4010-adf3-a535d407d491",
+      "part-of-speech": "noun",
+      "english": "café, bar",
+      "italian": "bar",
+      "gender": "masculine",
+      "plural": "bar",
+      "cefr": "A1",
+      "ipa": "[ˈbar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecebcdbd-9620-4fe8-b835-1bd54c9eda88",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "italian": "bicchiere",
+      "gender": "masculine",
+      "plural": "bicchieri",
+      "cefr": "A1",
+      "ipa": "[bikˈkjɛːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0475918f-0992-453b-bd7d-d49ff33d1ed5",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "italian": "bottiglia",
+      "gender": "feminine",
+      "plural": "bottiglie",
+      "cefr": "A1",
+      "ipa": "[botˈtiʎʎa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ec297c8-7bf3-49ca-850f-df7e2b6223f5",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "italian": "tazza",
+      "gender": "feminine",
+      "plural": "tazze",
+      "cefr": "A1",
+      "ipa": "[ˈtattsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48634da0-223e-464a-9ec7-3c548788bcd6",
+      "part-of-speech": "noun",
+      "english": "plate; dish",
+      "italian": "piatto",
+      "gender": "masculine",
+      "plural": "piatti",
+      "cefr": "A2",
+      "ipa": "[ˈpjatto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7236a66c-ac9b-4694-87d9-1e3419e6d17f",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "italian": "coltello",
+      "gender": "masculine",
+      "plural": "coltelli",
+      "cefr": "A2",
+      "ipa": "[kolˈtɛllo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0f2cf63-2879-49a6-9b79-666e08c95ed7",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "italian": "forchetta",
+      "gender": "feminine",
+      "plural": "forchette",
+      "cefr": "A2",
+      "ipa": "[forˈketta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a657f06-f199-4527-a560-909a76354b54",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "italian": "cucchiaio",
+      "gender": "masculine",
+      "plural": "cucchiai",
+      "cefr": "A2",
+      "ipa": "[kukˈkjaːjo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d3e6eff-d3cf-42c1-a202-6624f2103ec9",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "italian": "città",
+      "gender": "feminine",
+      "plural": "città",
+      "cefr": "A1",
+      "ipa": "[tʃitˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d98cd9b3-2f4c-4a2b-8b1a-bad00d1fda85",
+      "part-of-speech": "noun",
+      "english": "country; village",
+      "italian": "paese",
+      "gender": "masculine",
+      "plural": "paesi",
+      "cefr": "A1",
+      "ipa": "[paˈeːze]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b99adb11-f60b-42f5-8aec-8a88ccc217b2",
+      "part-of-speech": "noun",
+      "english": "road, street",
+      "italian": "strada",
+      "gender": "feminine",
+      "plural": "strade",
+      "cefr": "A1",
+      "ipa": "[ˈstraːda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8883d567-067a-49a0-a161-6428647b76a8",
+      "part-of-speech": "noun",
+      "english": "street (in addresses)",
+      "italian": "via",
+      "gender": "feminine",
+      "plural": "vie",
+      "cefr": "A1",
+      "ipa": "[ˈviːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28441a85-7d29-431c-81ae-3a64af620b78",
+      "part-of-speech": "noun",
+      "english": "square (in a town)",
+      "italian": "piazza",
+      "gender": "feminine",
+      "plural": "piazze",
+      "cefr": "A1",
+      "ipa": "[ˈpjattsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1407f3d2-738a-4f62-811b-846cf9420385",
+      "part-of-speech": "noun",
+      "english": "bridge",
+      "italian": "ponte",
+      "gender": "masculine",
+      "plural": "ponti",
+      "cefr": "A2",
+      "ipa": "[ˈponte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edea25f3-ac5a-4f33-8572-01890d2a7af1",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "italian": "negozio",
+      "gender": "masculine",
+      "plural": "negozi",
+      "cefr": "A1",
+      "ipa": "[neˈɡɔttsjo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "045512ad-576f-482c-95ef-27e4631ae4ec",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "italian": "supermercato",
+      "gender": "masculine",
+      "plural": "supermercati",
+      "cefr": "A1",
+      "ipa": "[supermerˈkaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08ae42dc-40f8-49a2-93b3-93879a95b26b",
+      "part-of-speech": "noun",
+      "english": "market",
+      "italian": "mercato",
+      "gender": "masculine",
+      "plural": "mercati",
+      "cefr": "A1",
+      "ipa": "[merˈkaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67bd5b9d-b4ea-4f8d-9ac6-863e29358cd5",
+      "part-of-speech": "noun",
+      "english": "school",
+      "italian": "scuola",
+      "gender": "feminine",
+      "plural": "scuole",
+      "cefr": "A1",
+      "ipa": "[ˈskwɔːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83d5ffd4-1759-4aa5-b058-25da8f5dd438",
+      "part-of-speech": "noun",
+      "english": "office",
+      "italian": "ufficio",
+      "gender": "masculine",
+      "plural": "uffici",
+      "cefr": "A2",
+      "ipa": "[ufˈfiːtʃo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2329390-a403-424c-b681-fc4535c53db6",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "italian": "ospedale",
+      "gender": "masculine",
+      "plural": "ospedali",
+      "cefr": "A1",
+      "ipa": "[ospeˈdaːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4cdc522-f066-47a9-93b3-9540c6967fc3",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "italian": "farmacia",
+      "gender": "feminine",
+      "plural": "farmacie",
+      "cefr": "A1",
+      "ipa": "[farmaˈtʃiːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a20820bb-b42e-44ff-8d96-7c0eae6585a3",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "italian": "banca",
+      "gender": "feminine",
+      "plural": "banche",
+      "cefr": "A1",
+      "ipa": "[ˈbaŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8492628c-3ed6-4a4e-b049-aabd3ae84a0d",
+      "part-of-speech": "noun",
+      "english": "church",
+      "italian": "chiesa",
+      "gender": "feminine",
+      "plural": "chiese",
+      "cefr": "A2",
+      "ipa": "[ˈkjɛːza]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9abb0d71-3cc6-470b-b132-fe8da908a657",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "italian": "museo",
+      "gender": "masculine",
+      "plural": "musei",
+      "cefr": "A2",
+      "ipa": "[muˈzɛːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93463abc-5c55-41f5-aa15-b40ccbd811c7",
+      "part-of-speech": "noun",
+      "english": "park",
+      "italian": "parco",
+      "gender": "masculine",
+      "plural": "parchi",
+      "cefr": "A1",
+      "ipa": "[ˈparko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddfce85f-5925-4a90-a1c5-47a42f27c4ce",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "italian": "cinema",
+      "gender": "masculine",
+      "plural": "cinema",
+      "cefr": "A1",
+      "ipa": "[ˈtʃiːnema]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb3bbbb5-55a2-4e8b-b47e-5d3f03bc35ff",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "italian": "albergo",
+      "gender": "masculine",
+      "plural": "alberghi",
+      "cefr": "A1",
+      "ipa": "[alˈbɛrɡo]",
+      "context": "also: l'hotel",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8e4ae55-451d-47bf-829c-53c78117f011",
+      "part-of-speech": "noun",
+      "english": "library",
+      "italian": "biblioteca",
+      "gender": "feminine",
+      "plural": "biblioteche",
+      "cefr": "A2",
+      "ipa": "[biblioˈtɛːka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a909f13a-76a5-4469-9532-7c78ab01bff8",
+      "part-of-speech": "noun",
+      "english": "station",
+      "italian": "stazione",
+      "gender": "feminine",
+      "plural": "stazioni",
+      "cefr": "A1",
+      "ipa": "[statˈtsjoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19db3adc-6a70-4346-aa47-bdd6822a8b3d",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "italian": "aeroporto",
+      "gender": "masculine",
+      "plural": "aeroporti",
+      "cefr": "A1",
+      "ipa": "[aeroˈpɔrto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa1bed0b-2cb9-4433-a6ac-461da7157d32",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "italian": "autobus",
+      "gender": "masculine",
+      "plural": "autobus",
+      "cefr": "A1",
+      "ipa": "[ˈautobus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba4a376b-313b-4398-97dc-6b000e369531",
+      "part-of-speech": "noun",
+      "english": "train",
+      "italian": "treno",
+      "gender": "masculine",
+      "plural": "treni",
+      "cefr": "A1",
+      "ipa": "[ˈtrɛːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec281f5b-ce13-4c24-b4e7-995e8e6740b9",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "italian": "metropolitana",
+      "gender": "feminine",
+      "plural": "metropolitane",
+      "cefr": "A2",
+      "ipa": "[metropoliˈtaːna]",
+      "context": "often shortened to metro",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f66b06fd-9dc8-4fa4-8b8a-a8f38e823b09",
+      "part-of-speech": "noun",
+      "english": "car",
+      "italian": "macchina",
+      "gender": "feminine",
+      "plural": "macchine",
+      "cefr": "A1",
+      "ipa": "[ˈmakkina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53a54412-8fe4-4f68-aeff-28411e2b45aa",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "italian": "bicicletta",
+      "gender": "feminine",
+      "plural": "biciclette",
+      "cefr": "A1",
+      "ipa": "[bitʃiˈkletta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65049744-8c96-4d47-8099-373371a27b70",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "italian": "aereo",
+      "gender": "masculine",
+      "plural": "aerei",
+      "cefr": "A1",
+      "ipa": "[aˈɛːreo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12820cff-084e-4ad8-ad58-9f9491ef3883",
+      "part-of-speech": "noun",
+      "english": "ship",
+      "italian": "nave",
+      "gender": "feminine",
+      "plural": "navi",
+      "cefr": "A2",
+      "ipa": "[ˈnaːve]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a43d5555-8ebb-4751-99db-21c426f7c3a7",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "italian": "biglietto",
+      "gender": "masculine",
+      "plural": "biglietti",
+      "cefr": "A1",
+      "ipa": "[biʎˈʎetto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2448b701-92f0-42ba-818b-4dc6944b3c18",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "italian": "viaggio",
+      "gender": "masculine",
+      "plural": "viaggi",
+      "cefr": "A2",
+      "ipa": "[ˈvjaddʒo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "685fada8-06ef-4bc1-8c7b-b529e02104fb",
+      "part-of-speech": "noun",
+      "english": "map",
+      "italian": "mappa",
+      "gender": "feminine",
+      "plural": "mappe",
+      "cefr": "A2",
+      "ipa": "[ˈmappa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40c44000-ba3e-4d63-9175-a40727736889",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "italian": "mare",
+      "gender": "masculine",
+      "plural": "mari",
+      "cefr": "A1",
+      "ipa": "[ˈmaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84b04aaf-7f62-49be-bd3e-790f4f6ac3cf",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "italian": "spiaggia",
+      "gender": "feminine",
+      "plural": "spiagge",
+      "cefr": "A1",
+      "ipa": "[ˈspjaddʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34ac4154-ced8-4b33-9465-4881f16d6dad",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "italian": "montagna",
+      "gender": "feminine",
+      "plural": "montagne",
+      "cefr": "A1",
+      "ipa": "[monˈtaɲɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea1b9d43-4c01-4747-9f3a-4feffc0ab761",
+      "part-of-speech": "noun",
+      "english": "river",
+      "italian": "fiume",
+      "gender": "masculine",
+      "plural": "fiumi",
+      "cefr": "A2",
+      "ipa": "[ˈfjuːme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e16071d-f2f8-407c-90a9-8f0b72aac70b",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "italian": "lago",
+      "gender": "masculine",
+      "plural": "laghi",
+      "cefr": "A2",
+      "ipa": "[ˈlaːɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeaa4b98-13b6-4e1c-b8ee-a16a09f1103c",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "italian": "albero",
+      "gender": "masculine",
+      "plural": "alberi",
+      "cefr": "A1",
+      "ipa": "[ˈalbero]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "801c3ac4-2322-4cd8-a497-53fb0bc5cf1b",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "italian": "fiore",
+      "gender": "masculine",
+      "plural": "fiori",
+      "cefr": "A1",
+      "ipa": "[ˈfjoːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5d00c47-faf2-4440-abae-60f049d7ba07",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "italian": "animale",
+      "gender": "masculine",
+      "plural": "animali",
+      "cefr": "A1",
+      "ipa": "[aniˈmaːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e3d6d08-54dd-4e2f-a4bb-5c41c10ba91a",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "italian": "cane",
+      "gender": "masculine",
+      "plural": "cani",
+      "cefr": "A1",
+      "ipa": "[ˈkaːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "107c3fb1-b78d-4be5-8c4c-7324f3463b34",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "italian": "gatto",
+      "gender": "masculine",
+      "plural": "gatti",
+      "cefr": "A1",
+      "ipa": "[ˈɡatto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0401eea4-0fb1-4606-a322-662a555c2cb8",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "italian": "uccello",
+      "gender": "masculine",
+      "plural": "uccelli",
+      "cefr": "A1",
+      "ipa": "[utˈtʃɛllo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4eb5c366-de76-4d2e-88e8-b8fb20b0d94e",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "italian": "cavallo",
+      "gender": "masculine",
+      "plural": "cavalli",
+      "cefr": "A2",
+      "ipa": "[kaˈvallo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abb189cf-30bd-4417-ade3-605d814d46cf",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "italian": "sole",
+      "gender": "masculine",
+      "plural": "soli",
+      "cefr": "A1",
+      "ipa": "[ˈsoːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c51dc7f7-4876-4bfe-941d-9070517ad818",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "italian": "pioggia",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈpjɔddʒa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "143cff1d-3981-439b-9046-7ee5b0cca6e8",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "italian": "vento",
+      "gender": "masculine",
+      "plural": "venti",
+      "cefr": "A2",
+      "ipa": "[ˈvɛnto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c674a65d-444b-44d2-a7f2-d073a22c333b",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "italian": "neve",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈneːve]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d006e9c-b463-41e1-951e-6337ae7ad377",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "italian": "cielo",
+      "gender": "masculine",
+      "plural": "cieli",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɛːlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "070bc6b3-c455-4018-a8d3-d42cf11a3704",
+      "part-of-speech": "noun",
+      "english": "world",
+      "italian": "mondo",
+      "gender": "masculine",
+      "plural": "mondi",
+      "cefr": "A2",
+      "ipa": "[ˈmondo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58fbd79c-35a6-4f91-8185-40a46496b912",
+      "part-of-speech": "noun",
+      "english": "body",
+      "italian": "corpo",
+      "gender": "masculine",
+      "plural": "corpi",
+      "cefr": "A2",
+      "ipa": "[ˈkɔrpo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9e58ff3-9134-485d-8748-d71f157dbd8e",
+      "part-of-speech": "noun",
+      "english": "head",
+      "italian": "testa",
+      "gender": "feminine",
+      "plural": "teste",
+      "cefr": "A1",
+      "ipa": "[ˈtɛsta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e148755-88ef-4713-87fc-f26072566957",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "italian": "capelli",
+      "gender": "masculine",
+      "plural": "capelli",
+      "cefr": "A1",
+      "ipa": "[kaˈpelli]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0529cee2-8914-4bd0-b0b8-bdb77e16802d",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "italian": "occhio",
+      "gender": "masculine",
+      "plural": "occhi",
+      "cefr": "A1",
+      "ipa": "[ˈɔkkjo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9258edca-538b-4de0-8485-ec4d0fb7c8aa",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "italian": "orecchio",
+      "gender": "masculine",
+      "plural": "orecchie",
+      "cefr": "A1",
+      "ipa": "[oˈrekkjo]",
+      "context": "plural is feminine: le orecchie",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30374354-790f-4134-962e-44835b9980e0",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "italian": "naso",
+      "gender": "masculine",
+      "plural": "nasi",
+      "cefr": "A1",
+      "ipa": "[ˈnaːso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b63ec67c-b097-4dd9-900f-f8c6caca0044",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "italian": "bocca",
+      "gender": "feminine",
+      "plural": "bocche",
+      "cefr": "A1",
+      "ipa": "[ˈbokka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b5fc039-0713-4926-a0f8-0dc965ef1ae8",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "italian": "dente",
+      "gender": "masculine",
+      "plural": "denti",
+      "cefr": "A2",
+      "ipa": "[ˈdɛnte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d9b91a7-86f1-42b4-98cb-25dfd4dc96d3",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "italian": "mano",
+      "gender": "feminine",
+      "plural": "mani",
+      "cefr": "A1",
+      "ipa": "[ˈmaːno]",
+      "context": "feminine despite the -o",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4092e7f5-0094-449e-9081-5386c940535f",
+      "part-of-speech": "noun",
+      "english": "arm",
+      "italian": "braccio",
+      "gender": "masculine",
+      "plural": "braccia",
+      "cefr": "A1",
+      "ipa": "[ˈbrattʃo]",
+      "context": "plural is feminine: le braccia",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80b2911e-d71f-4450-a16a-8e00ad791c45",
+      "part-of-speech": "noun",
+      "english": "leg",
+      "italian": "gamba",
+      "gender": "feminine",
+      "plural": "gambe",
+      "cefr": "A1",
+      "ipa": "[ˈɡamba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a525218-b77d-43d5-bf4c-ad9aa02929b6",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "italian": "piede",
+      "gender": "masculine",
+      "plural": "piedi",
+      "cefr": "A1",
+      "ipa": "[ˈpjɛːde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73e1b04a-b6fd-4044-b6b7-a42a88b264ba",
+      "part-of-speech": "noun",
+      "english": "belly, stomach",
+      "italian": "pancia",
+      "gender": "feminine",
+      "plural": "pance",
+      "cefr": "A2",
+      "ipa": "[ˈpantʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fd5aa73-b763-42a7-a40b-1ebc29f62275",
+      "part-of-speech": "noun",
+      "english": "back",
+      "italian": "schiena",
+      "gender": "feminine",
+      "plural": "schiene",
+      "cefr": "A2",
+      "ipa": "[ˈskjɛːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0b068d5-4709-458d-9571-9cb86d2a4327",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "italian": "cuore",
+      "gender": "masculine",
+      "plural": "cuori",
+      "cefr": "A2",
+      "ipa": "[ˈkwɔːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4418d146-9ae6-4b43-bc7b-c6534ae078fa",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "italian": "dolore",
+      "gender": "masculine",
+      "plural": "dolori",
+      "cefr": "A2",
+      "ipa": "[doˈloːre]",
+      "context": "mal di testa: headache",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb2bc5d3-9c40-4792-85d4-9a68b722204c",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "italian": "medicina",
+      "gender": "feminine",
+      "plural": "medicine",
+      "cefr": "A2",
+      "ipa": "[mediˈtʃiːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46d77200-0d8a-4549-855c-0b75a736373a",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "italian": "vestiti",
+      "gender": "masculine",
+      "plural": "vestiti",
+      "cefr": "A1",
+      "ipa": "[vesˈtiːti]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76b34859-4be1-4f26-9eca-86da0d5a5ec4",
+      "part-of-speech": "noun",
+      "english": "dress; suit",
+      "italian": "vestito",
+      "gender": "masculine",
+      "plural": "vestiti",
+      "cefr": "A1",
+      "ipa": "[vesˈtiːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc9a2ae0-9791-451c-ad01-6a2d3938b623",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "italian": "pantaloni",
+      "gender": "masculine",
+      "plural": "pantaloni",
+      "cefr": "A1",
+      "ipa": "[pantaˈloːni]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b4d3fe5-ccf2-4537-8288-2f523e874cc6",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "italian": "camicia",
+      "gender": "feminine",
+      "plural": "camicie",
+      "cefr": "A1",
+      "ipa": "[kaˈmiːtʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb686543-e3b6-423d-b210-7e85e9d291e4",
+      "part-of-speech": "noun",
+      "english": "T-shirt",
+      "italian": "maglietta",
+      "gender": "feminine",
+      "plural": "magliette",
+      "cefr": "A1",
+      "ipa": "[maʎˈʎetta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1de37ad9-e0ce-4a61-b397-da389d773419",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "italian": "maglione",
+      "gender": "masculine",
+      "plural": "maglioni",
+      "cefr": "A2",
+      "ipa": "[maʎˈʎoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e54f2f2-9b34-4ac6-8c83-e129ae53cd9b",
+      "part-of-speech": "noun",
+      "english": "jacket",
+      "italian": "giacca",
+      "gender": "feminine",
+      "plural": "giacche",
+      "cefr": "A1",
+      "ipa": "[ˈdʒakka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dccc1a1-67ec-4111-9183-19b402ecceb3",
+      "part-of-speech": "noun",
+      "english": "coat",
+      "italian": "cappotto",
+      "gender": "masculine",
+      "plural": "cappotti",
+      "cefr": "A2",
+      "ipa": "[kapˈpɔtto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22f4c418-8a0f-4b60-aca9-6f1fa7eaa4f4",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "italian": "gonna",
+      "gender": "feminine",
+      "plural": "gonne",
+      "cefr": "A2",
+      "ipa": "[ˈɡonna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8228a49-7eb0-4873-b918-9e5b7808b6bb",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "italian": "scarpa",
+      "gender": "feminine",
+      "plural": "scarpe",
+      "cefr": "A1",
+      "ipa": "[ˈskarpa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96346b1f-8978-4bb3-a6f9-2929e2b32258",
+      "part-of-speech": "noun",
+      "english": "bag, handbag",
+      "italian": "borsa",
+      "gender": "feminine",
+      "plural": "borse",
+      "cefr": "A1",
+      "ipa": "[ˈborsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0abd9e05-9c38-432d-b088-ab59f1be0eaf",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "italian": "cappello",
+      "gender": "masculine",
+      "plural": "cappelli",
+      "cefr": "A2",
+      "ipa": "[kapˈpɛllo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3df54f2-feda-4abb-b0cd-df8fe5960b2e",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "italian": "lavoro",
+      "gender": "masculine",
+      "plural": "lavori",
+      "cefr": "A1",
+      "ipa": "[laˈvoːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6694e05d-fc26-4559-b734-b7919252b83c",
+      "part-of-speech": "noun",
+      "english": "money",
+      "italian": "soldi",
+      "gender": "masculine",
+      "plural": "soldi",
+      "cefr": "A1",
+      "ipa": "[ˈsɔldi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d81a4aa-b486-450b-8617-280bc5b8d243",
+      "part-of-speech": "noun",
+      "english": "euro",
+      "italian": "euro",
+      "gender": "masculine",
+      "plural": "euro",
+      "cefr": "A1",
+      "ipa": "[ˈɛːuro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84823c56-bdf5-41bc-b9d8-1e0e0e7b22fd",
+      "part-of-speech": "noun",
+      "english": "price",
+      "italian": "prezzo",
+      "gender": "masculine",
+      "plural": "prezzi",
+      "cefr": "A1",
+      "ipa": "[ˈprɛttso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf2307d9-628d-4e94-922d-378a7a0ca38f",
+      "part-of-speech": "noun",
+      "english": "book",
+      "italian": "libro",
+      "gender": "masculine",
+      "plural": "libri",
+      "cefr": "A1",
+      "ipa": "[ˈliːbro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e884589-7abe-4f9a-bc10-0ffad627c571",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "italian": "giornale",
+      "gender": "masculine",
+      "plural": "giornali",
+      "cefr": "A1",
+      "ipa": "[dʒorˈnaːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f84fc67d-2d9d-4a0e-b1fa-adfe46a0403b",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "italian": "lettera",
+      "gender": "feminine",
+      "plural": "lettere",
+      "cefr": "A1",
+      "ipa": "[ˈlɛttera]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e651b3f-bb91-4c82-893e-8881371bc481",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "italian": "penna",
+      "gender": "feminine",
+      "plural": "penne",
+      "cefr": "A1",
+      "ipa": "[ˈpenna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec3c33e7-63ed-47d5-825a-8abdc60e7047",
+      "part-of-speech": "noun",
+      "english": "paper; card",
+      "italian": "carta",
+      "gender": "feminine",
+      "plural": "carte",
+      "cefr": "A1",
+      "ipa": "[ˈkarta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb4a3068-ef7e-4db4-a98a-be0c21d9f7f4",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "italian": "foto",
+      "gender": "feminine",
+      "plural": "foto",
+      "cefr": "A1",
+      "ipa": "[ˈfɔːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c95026e9-d5bf-40dc-b46e-ae234e7bc172",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "italian": "film",
+      "gender": "masculine",
+      "plural": "film",
+      "cefr": "A1",
+      "ipa": "[ˈfilm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01227758-7b49-4dbb-91c5-bf7d1e0dbbf1",
+      "part-of-speech": "noun",
+      "english": "music",
+      "italian": "musica",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmuːzika]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fbdbb28-fe30-40a6-862d-145f72a7d874",
+      "part-of-speech": "noun",
+      "english": "song",
+      "italian": "canzone",
+      "gender": "feminine",
+      "plural": "canzoni",
+      "cefr": "A2",
+      "ipa": "[kanˈtsoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4246dc8e-580e-4345-ba00-b3a3718d953c",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "italian": "sport",
+      "gender": "masculine",
+      "plural": "sport",
+      "cefr": "A1",
+      "ipa": "[ˈspɔrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b00d5baf-8fd6-4c43-a726-5352637fb5c3",
+      "part-of-speech": "noun",
+      "english": "game",
+      "italian": "gioco",
+      "gender": "masculine",
+      "plural": "giochi",
+      "cefr": "A2",
+      "ipa": "[ˈdʒɔːko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d690b4d-aea3-42b4-bf69-bb7d5446c581",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "italian": "lingua",
+      "gender": "feminine",
+      "plural": "lingue",
+      "cefr": "A1",
+      "ipa": "[ˈliŋɡwa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a07f221b-82c8-45db-90f6-6009b43b5a8e",
+      "part-of-speech": "noun",
+      "english": "word",
+      "italian": "parola",
+      "gender": "feminine",
+      "plural": "parole",
+      "cefr": "A1",
+      "ipa": "[paˈrɔːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37133fe7-0322-44a7-9895-a64b5cd9e2f5",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "italian": "frase",
+      "gender": "feminine",
+      "plural": "frasi",
+      "cefr": "A2",
+      "ipa": "[ˈfraːze]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d181d36-9ec6-4fe3-bdb3-dd2ed8b1e53a",
+      "part-of-speech": "noun",
+      "english": "question",
+      "italian": "domanda",
+      "gender": "feminine",
+      "plural": "domande",
+      "cefr": "A1",
+      "ipa": "[doˈmanda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad4bef63-f929-45b8-9685-c135c2dcda9d",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "italian": "risposta",
+      "gender": "feminine",
+      "plural": "risposte",
+      "cefr": "A1",
+      "ipa": "[riˈsposta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "710dacf6-fb87-4cf9-9c32-f4758d38eaa0",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "italian": "lezione",
+      "gender": "feminine",
+      "plural": "lezioni",
+      "cefr": "A1",
+      "ipa": "[letˈtsjoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65eb1da3-9dd8-4c48-96a6-48821ad05c78",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "italian": "colore",
+      "gender": "masculine",
+      "plural": "colori",
+      "cefr": "A1",
+      "ipa": "[koˈloːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e8b468a-0dcb-485d-a14e-9985804d1205",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "italian": "problema",
+      "gender": "masculine",
+      "plural": "problemi",
+      "cefr": "A2",
+      "ipa": "[proˈblɛːma]",
+      "context": "masculine despite the -a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f15f9ce-c0c2-4ae7-9570-09aa2e1d10d4",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "italian": "idea",
+      "gender": "feminine",
+      "plural": "idee",
+      "cefr": "A2",
+      "ipa": "[iˈdɛːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6a5f409-5918-46c3-aacb-812ab0745a34",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "italian": "cosa",
+      "gender": "feminine",
+      "plural": "cose",
+      "cefr": "A1",
+      "ipa": "[ˈkɔːsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42346dc3-3cd7-41b2-97a5-f69b776403f3",
+      "part-of-speech": "noun",
+      "english": "number",
+      "italian": "numero",
+      "gender": "masculine",
+      "plural": "numeri",
+      "cefr": "A1",
+      "ipa": "[ˈnuːmero]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c514fbde-c68b-4889-8a97-c1660537dfff",
+      "part-of-speech": "noun",
+      "english": "address",
+      "italian": "indirizzo",
+      "gender": "masculine",
+      "plural": "indirizzi",
+      "cefr": "A1",
+      "ipa": "[indiˈrittso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35344b82-39bb-47f3-8dc3-2c4ce57c7394",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "italian": "zero",
+      "cefr": "A1",
+      "ipa": "[ˈdzɛːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d222f73-976c-4f8b-8bb5-1ec6acf398e6",
+      "part-of-speech": "noun",
+      "english": "one",
+      "italian": "uno",
+      "cefr": "A1",
+      "ipa": "[ˈuːno]",
+      "context": "feminine: una",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4eb9fcfd-1dc8-4495-b2f4-744f598d40d1",
+      "part-of-speech": "noun",
+      "english": "two",
+      "italian": "due",
+      "cefr": "A1",
+      "ipa": "[ˈduːe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a191e951-ab56-4f20-82f5-c94a98ec79a6",
+      "part-of-speech": "noun",
+      "english": "three",
+      "italian": "tre",
+      "cefr": "A1",
+      "ipa": "[ˈtre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ba4d821-b11f-4bd0-99c0-945c5bb215c7",
+      "part-of-speech": "noun",
+      "english": "four",
+      "italian": "quattro",
+      "cefr": "A1",
+      "ipa": "[ˈkwattro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "886ae022-d218-443f-a791-33afcc2ba12f",
+      "part-of-speech": "noun",
+      "english": "five",
+      "italian": "cinque",
+      "cefr": "A1",
+      "ipa": "[ˈtʃiŋkwe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "564fb927-342a-42fb-9464-751e137e93bc",
+      "part-of-speech": "noun",
+      "english": "six",
+      "italian": "sei",
+      "cefr": "A1",
+      "ipa": "[ˈsɛːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3612f28-4ef8-4134-add6-1ce1dbcf6fcc",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "italian": "sette",
+      "cefr": "A1",
+      "ipa": "[ˈsɛtte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0af67a8e-0639-44bb-9abd-3d17b81ee7dc",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "italian": "otto",
+      "cefr": "A1",
+      "ipa": "[ˈɔtto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f25537d8-edce-4aa4-ab0c-59d9b8b7fd84",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "italian": "nove",
+      "cefr": "A1",
+      "ipa": "[ˈnɔːve]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c85618ef-074c-4480-b9cc-1e16996ebce8",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "italian": "dieci",
+      "cefr": "A1",
+      "ipa": "[ˈdjɛːtʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29ab32de-b165-408b-973e-788491cbd60b",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "italian": "undici",
+      "cefr": "A1",
+      "ipa": "[ˈunditʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2571395-0731-4e5e-a4db-92dd4b0a2aa4",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "italian": "dodici",
+      "cefr": "A1",
+      "ipa": "[ˈdoːditʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24b82dae-10a9-472e-b1ff-580b5b143ce3",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "italian": "venti",
+      "cefr": "A1",
+      "ipa": "[ˈventi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca50610c-efc2-4835-a470-d7f695f1b46d",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "italian": "trenta",
+      "cefr": "A1",
+      "ipa": "[ˈtrenta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c586cf7a-7388-4d9f-abe3-6de22b99d7aa",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "italian": "quaranta",
+      "cefr": "A1",
+      "ipa": "[kwaˈranta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c441d147-37ac-480f-9a36-9b746041eafc",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "italian": "cinquanta",
+      "cefr": "A1",
+      "ipa": "[tʃiŋˈkwanta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aba10a3e-8847-4631-83b2-60241a20fce8",
+      "part-of-speech": "noun",
+      "english": "one hundred",
+      "italian": "cento",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɛnto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80901dcf-d321-4cfb-899b-91cec2ef00b0",
+      "part-of-speech": "noun",
+      "english": "one thousand",
+      "italian": "mille",
+      "cefr": "A1",
+      "ipa": "[ˈmille]",
+      "context": "plural: mila (duemila)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d24fc585-2077-4af1-a239-539b60aa61a8",
+      "part-of-speech": "noun",
+      "english": "million",
+      "italian": "milione",
+      "gender": "masculine",
+      "plural": "milioni",
+      "cefr": "A2",
+      "ipa": "[miˈljoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb0b9115-cd64-49d7-8bf9-6f806b699ce7",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "italian": "essere",
+      "cefr": "A1",
+      "ipa": "[ˈɛssere]",
+      "context": "sono, sei, è, siamo, siete, sono",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e79a73a-09d8-4c1e-a208-2afc25be5574",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "italian": "avere",
+      "cefr": "A1",
+      "ipa": "[aˈveːre]",
+      "context": "ho, hai, ha, abbiamo, avete, hanno",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "152781ab-299b-41af-b81b-6b4e77c26dbe",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "italian": "fare",
+      "cefr": "A1",
+      "ipa": "[ˈfaːre]",
+      "context": "faccio, fai, fa, facciamo, fate, fanno",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13da0427-1c68-4a82-b992-c346bdc859b4",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "italian": "andare",
+      "cefr": "A1",
+      "ipa": "[anˈdaːre]",
+      "context": "vado, vai, va, andiamo, andate, vanno",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c9e641e-3958-4de4-8bf3-eaf0c3ca6227",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "italian": "venire",
+      "cefr": "A1",
+      "ipa": "[veˈniːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0076c25-bfda-4dcd-a65b-fa9447766e52",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "italian": "dare",
+      "cefr": "A1",
+      "ipa": "[ˈdaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9a020a8-90b4-4ec4-a15f-ff5748f1ec62",
+      "part-of-speech": "verb",
+      "english": "to stay; to be (feel)",
+      "italian": "stare",
+      "cefr": "A1",
+      "ipa": "[ˈstaːre]",
+      "context": "come stai?: how are you?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adf3f9a3-604a-47ec-a6c5-25dc3b038e19",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "italian": "vedere",
+      "cefr": "A1",
+      "ipa": "[veˈdeːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc3b653d-78d2-475d-bb4c-3c5e864dda8e",
+      "part-of-speech": "verb",
+      "english": "to look at, watch",
+      "italian": "guardare",
+      "cefr": "A1",
+      "ipa": "[ɡwarˈdaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b9efef9-4ebd-42f2-98c7-ee614372048e",
+      "part-of-speech": "verb",
+      "english": "to hear; to feel",
+      "italian": "sentire",
+      "cefr": "A1",
+      "ipa": "[senˈtiːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29bf2975-97a5-4daf-aadd-578ba3c83948",
+      "part-of-speech": "verb",
+      "english": "to listen to",
+      "italian": "ascoltare",
+      "cefr": "A1",
+      "ipa": "[askolˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "286137c5-4f8c-48c1-aac0-e21f22902132",
+      "part-of-speech": "verb",
+      "english": "to know (a fact); to know how to",
+      "italian": "sapere",
+      "cefr": "A1",
+      "ipa": "[saˈpeːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3532c3b6-f62c-4602-b81f-03cb997487be",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place)",
+      "italian": "conoscere",
+      "cefr": "A1",
+      "ipa": "[koˈnoʃʃere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f86ae8a7-d861-4671-a34e-c0df72e4f9df",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "italian": "volere",
+      "cefr": "A1",
+      "ipa": "[voˈleːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b544cdf1-e99b-4542-be9a-1e6d3ba3ac65",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "italian": "potere",
+      "cefr": "A1",
+      "ipa": "[poˈteːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e5ca2bc-e514-4933-8163-77d075f3a15a",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "italian": "dovere",
+      "cefr": "A1",
+      "ipa": "[doˈveːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2c364fd-7e07-4b89-9cd7-14ab7f40c5d5",
+      "part-of-speech": "verb",
+      "english": "to be pleasing (to like)",
+      "italian": "piacere",
+      "cefr": "A1",
+      "ipa": "[pjaˈtʃeːre]",
+      "context": "mi piace il caffè: I like coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "663ba394-e445-4c18-8be7-ce657019fb63",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "italian": "mangiare",
+      "cefr": "A1",
+      "ipa": "[manˈdʒaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dc00288-4e74-489b-afbc-31109084ca08",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "italian": "bere",
+      "cefr": "A1",
+      "ipa": "[ˈbeːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "619aa92f-d24c-499b-9974-959d1ca83222",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "italian": "cucinare",
+      "cefr": "A1",
+      "ipa": "[kutʃiˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1894dd5-41ba-4130-8e14-429014a1fab5",
+      "part-of-speech": "verb",
+      "english": "to have dinner",
+      "italian": "cenare",
+      "cefr": "A1",
+      "ipa": "[tʃeˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53efed0a-35df-41f9-8cbe-507eac73f151",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "italian": "parlare",
+      "cefr": "A1",
+      "ipa": "[parˈlaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f899759-113e-48c4-b505-f41992893ca1",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "italian": "dire",
+      "cefr": "A1",
+      "ipa": "[ˈdiːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc266f4f-96ac-47a5-baa4-f141d76c5480",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "italian": "chiedere",
+      "cefr": "A1",
+      "ipa": "[ˈkjɛːdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3568b9ba-5660-410b-9825-08e3f1ba5c6c",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "italian": "rispondere",
+      "cefr": "A1",
+      "ipa": "[riˈspondere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00080cf7-27f1-4a5e-9b48-3405767b119b",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "italian": "chiamarsi",
+      "cefr": "A1",
+      "ipa": "[kjaˈmarsi]",
+      "context": "mi chiamo …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b545ac3-842b-4ddb-8744-08017562af9e",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "italian": "leggere",
+      "cefr": "A1",
+      "ipa": "[ˈlɛddʒere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3fdd20c-0b11-4e8d-8947-e1f666a71c1f",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "italian": "scrivere",
+      "cefr": "A1",
+      "ipa": "[ˈskriːvere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50cad422-5cbe-484d-aa8a-0e59c3a34163",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "italian": "imparare",
+      "cefr": "A1",
+      "ipa": "[impaˈraːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fc6718b-1f6b-4469-8663-56091323f316",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "italian": "studiare",
+      "cefr": "A1",
+      "ipa": "[stuˈdjaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83a65605-58af-4f85-a7d4-cf06e8fb429c",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "italian": "insegnare",
+      "cefr": "A2",
+      "ipa": "[inseɲˈɲaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "756b67f6-869b-4b05-8a89-593138a1ec73",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "italian": "capire",
+      "cefr": "A1",
+      "ipa": "[kaˈpiːre]",
+      "context": "capisco, capisci, capisce …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ab18a11-5cf2-43ce-b09c-2c097705c3fb",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "italian": "pensare",
+      "cefr": "A1",
+      "ipa": "[penˈsaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6900fb77-d03c-4f4f-be48-60eccb67fee0",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "italian": "cercare",
+      "cefr": "A1",
+      "ipa": "[tʃerˈkaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3266f6b0-9d12-4ae4-92d7-ed4db50c0495",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "italian": "trovare",
+      "cefr": "A1",
+      "ipa": "[troˈvaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e976e140-2f3d-4a16-9bbc-48ef741ae5e2",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "italian": "lavorare",
+      "cefr": "A1",
+      "ipa": "[lavoˈraːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76a42e31-5ee2-4ab0-b12f-f3743c01bc97",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "italian": "abitare",
+      "cefr": "A1",
+      "ipa": "[abiˈtaːre]",
+      "context": "abito a Roma: I live in Rome",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1d2a8ab-a1d6-4599-b6c4-0fb9e956db2c",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "italian": "vivere",
+      "cefr": "A1",
+      "ipa": "[ˈviːvere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0e4aa43-b09b-4efd-ba29-9ebc5a00a593",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "italian": "dormire",
+      "cefr": "A1",
+      "ipa": "[dorˈmiːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "546a0dd2-a3be-48cc-b871-455f5c685451",
+      "part-of-speech": "verb",
+      "english": "to wake up",
+      "italian": "svegliarsi",
+      "cefr": "A1",
+      "ipa": "[zveʎˈʎarsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa87a4db-8667-4263-8cbc-06faf40350a7",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "italian": "alzarsi",
+      "cefr": "A1",
+      "ipa": "[alˈtsarsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12a6e55b-a673-4ab9-9e87-39edae9f0138",
+      "part-of-speech": "verb",
+      "english": "to sit down",
+      "italian": "sedersi",
+      "cefr": "A1",
+      "ipa": "[seˈdersi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95258c04-a16c-4abe-bcb7-1a19dafef23c",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "italian": "camminare",
+      "cefr": "A1",
+      "ipa": "[kammiˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13a514bf-bdad-48ef-88fa-6c72440194bf",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "italian": "correre",
+      "cefr": "A1",
+      "ipa": "[ˈkorrere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92a1e476-8550-4906-b254-6ef6ad4f8ffa",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "italian": "nuotare",
+      "cefr": "A1",
+      "ipa": "[nwoˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3320ef2-80e7-43d4-a28c-aa3e88d442a7",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "italian": "guidare",
+      "cefr": "A1",
+      "ipa": "[ɡwiˈdaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeaf4583-6d09-4715-8bd6-1bb85c5b3586",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "italian": "viaggiare",
+      "cefr": "A1",
+      "ipa": "[vjadˈdʒaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "223e57c5-bf7e-43b3-8c61-25e7ca3b0555",
+      "part-of-speech": "verb",
+      "english": "to go for a walk, stroll",
+      "italian": "passeggiare",
+      "cefr": "A2",
+      "ipa": "[passedˈdʒaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfd62c07-9a40-4c19-a734-fb6b6856d454",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "italian": "comprare",
+      "cefr": "A1",
+      "ipa": "[komˈpraːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "874dfbfd-49cb-474f-9037-625527ab1c66",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "italian": "pagare",
+      "cefr": "A1",
+      "ipa": "[paˈɡaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6ea2b0e-ee77-4380-9e17-0364ed790844",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "italian": "costare",
+      "cefr": "A1",
+      "ipa": "[kosˈtaːre]",
+      "context": "quanto costa?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e233239d-95db-433f-b318-c6cde146731a",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "italian": "vendere",
+      "cefr": "A2",
+      "ipa": "[ˈvendere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b66df95-0766-4080-9aca-68aaa72b4b39",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "italian": "aprire",
+      "cefr": "A1",
+      "ipa": "[aˈpriːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15b016db-9b7c-4e92-9288-46ffa7942b62",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "italian": "chiudere",
+      "cefr": "A1",
+      "ipa": "[ˈkjuːdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbefe167-a039-47a1-9985-09168e3d6ccd",
+      "part-of-speech": "verb",
+      "english": "to wait (for)",
+      "italian": "aspettare",
+      "cefr": "A1",
+      "ipa": "[aspetˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f7ca91c-27fa-45be-a9ac-1897ee523ab6",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "italian": "cominciare",
+      "cefr": "A1",
+      "ipa": "[kominˈtʃaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7180b0bf-84bb-42f1-882d-bf3a3a89935c",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "italian": "finire",
+      "cefr": "A1",
+      "ipa": "[fiˈniːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0a4fdaa-c1c7-4f3d-a7f5-647b8bc0bad4",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "italian": "fermarsi",
+      "cefr": "A2",
+      "ipa": "[ferˈmarsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "448a387f-0960-451f-b857-ea5185536a62",
+      "part-of-speech": "verb",
+      "english": "to play (a game, sport)",
+      "italian": "giocare",
+      "cefr": "A1",
+      "ipa": "[dʒoˈkaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "682c5cea-c970-48c5-844a-bb3de326e770",
+      "part-of-speech": "verb",
+      "english": "to play (an instrument); to ring",
+      "italian": "suonare",
+      "cefr": "A2",
+      "ipa": "[swoˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c321ee1-2134-4261-8931-e82fcd3639db",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "italian": "lavare",
+      "cefr": "A1",
+      "ipa": "[laˈvaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1244f3eb-2aa5-430f-b758-15490a46e421",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "italian": "pulire",
+      "cefr": "A2",
+      "ipa": "[puˈliːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf9fd33f-9203-43ba-bf27-2cab18c5ab08",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "italian": "aiutare",
+      "cefr": "A1",
+      "ipa": "[ajuˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d98ecba7-5ead-4868-b6f6-3ff1aef2abcb",
+      "part-of-speech": "verb",
+      "english": "to phone",
+      "italian": "telefonare",
+      "cefr": "A1",
+      "ipa": "[telefoˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ace56791-4208-4ffb-9667-3ac6da100cdd",
+      "part-of-speech": "verb",
+      "english": "to call",
+      "italian": "chiamare",
+      "cefr": "A1",
+      "ipa": "[kjaˈmaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b6c4da7-ef39-469c-aa00-56c3548e8793",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "italian": "cantare",
+      "cefr": "A1",
+      "ipa": "[kanˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dcb26f3-34e6-46c2-83b8-675ba0ae8ddb",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "italian": "ballare",
+      "cefr": "A1",
+      "ipa": "[balˈlaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f69cdbcf-0fe5-42cc-b0f1-62d3cf407d00",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "italian": "usare",
+      "cefr": "A2",
+      "ipa": "[uˈzaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e19255c5-07cb-4a59-b22c-c5cb482ec87a",
+      "part-of-speech": "verb",
+      "english": "to bring, carry; to wear",
+      "italian": "portare",
+      "cefr": "A1",
+      "ipa": "[porˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53472685-fdf5-4bb0-8e8c-db7e50c7f96c",
+      "part-of-speech": "verb",
+      "english": "to take; to have (food, drink)",
+      "italian": "prendere",
+      "cefr": "A1",
+      "ipa": "[ˈprɛndere]",
+      "context": "prendo un caffè: I'll have a coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d7f1dcf-4de1-4770-9060-a745a5c456f1",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "italian": "mettere",
+      "cefr": "A1",
+      "ipa": "[ˈmettere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "005f8204-9643-4c26-9ede-a4d8c5f0f2f7",
+      "part-of-speech": "verb",
+      "english": "to stay, remain",
+      "italian": "restare",
+      "cefr": "A1",
+      "ipa": "[resˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1b2d9ef-aeaf-4deb-b1b4-6e37e2a557d8",
+      "part-of-speech": "verb",
+      "english": "to go out, leave",
+      "italian": "uscire",
+      "cefr": "A1",
+      "ipa": "[uʃˈʃiːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01972cca-7180-44ea-ba70-ecc2372226a5",
+      "part-of-speech": "verb",
+      "english": "to come in, enter",
+      "italian": "entrare",
+      "cefr": "A1",
+      "ipa": "[enˈtraːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0612ffd-3169-4f82-8165-28df267e1dbd",
+      "part-of-speech": "verb",
+      "english": "to arrive",
+      "italian": "arrivare",
+      "cefr": "A1",
+      "ipa": "[arriˈvaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eacf187-8400-4c25-8606-db492aee0547",
+      "part-of-speech": "verb",
+      "english": "to come back, return",
+      "italian": "tornare",
+      "cefr": "A1",
+      "ipa": "[torˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "962222af-ac6a-419b-b709-c4c86f862da2",
+      "part-of-speech": "verb",
+      "english": "to leave, depart",
+      "italian": "partire",
+      "cefr": "A1",
+      "ipa": "[parˈtiːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aab5dc8f-28d7-4108-97b9-705b6e8bf023",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "italian": "dimenticare",
+      "cefr": "A2",
+      "ipa": "[dimentiˈkaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cb941a0-2078-471d-8d13-5df0e155acf6",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "italian": "ricordare",
+      "cefr": "A2",
+      "ipa": "[rikorˈdaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3169900b-cbdb-48b5-b26c-367e904a5f88",
+      "part-of-speech": "verb",
+      "english": "to try; to try on",
+      "italian": "provare",
+      "cefr": "A2",
+      "ipa": "[proˈvaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3a00640-0d6e-4070-9e50-4b40f86bf681",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "italian": "cambiare",
+      "cefr": "A2",
+      "ipa": "[kamˈbjaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10be5a04-e30a-41ec-9721-0d317dfae7a0",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "italian": "mandare",
+      "cefr": "A2",
+      "ipa": "[manˈdaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "694ebf0d-1f8c-4422-b7db-5bf4ffa5974a",
+      "part-of-speech": "verb",
+      "english": "to lose; to miss (a train)",
+      "italian": "perdere",
+      "cefr": "A2",
+      "ipa": "[ˈpɛrdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e926eed6-4afd-4dc6-842b-d0c8d1266a1b",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "italian": "vincere",
+      "cefr": "A2",
+      "ipa": "[ˈvintʃere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6fda655-0a14-4859-9aff-3dc3b17027e1",
+      "part-of-speech": "verb",
+      "english": "to get married",
+      "italian": "sposarsi",
+      "cefr": "A2",
+      "ipa": "[spoˈzarsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffbbbae2-fd91-499d-b8cc-c20d4b5318c9",
+      "part-of-speech": "verb",
+      "english": "to visit (a place)",
+      "italian": "visitare",
+      "cefr": "A2",
+      "ipa": "[viziˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e01c292-0f3f-408a-a329-258fcbc9837b",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "italian": "spiegare",
+      "cefr": "A2",
+      "ipa": "[spjeˈɡaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "205b4803-7beb-4bf5-afd3-a473a0aed945",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "italian": "tradurre",
+      "cefr": "A2",
+      "ipa": "[traˈdurre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb9dfeab-ee40-472d-aecc-a25add758261",
+      "part-of-speech": "verb",
+      "english": "to repeat",
+      "italian": "ripetere",
+      "cefr": "A2",
+      "ipa": "[riˈpɛːtere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6aff373a-ef53-485b-bdb3-8f7e4a8198b5",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "italian": "scegliere",
+      "cefr": "A2",
+      "ipa": "[ˈʃeʎʎere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e26879f3-5e56-4883-b483-b6d8a96c2299",
+      "part-of-speech": "verb",
+      "english": "to get dressed",
+      "italian": "vestirsi",
+      "cefr": "A2",
+      "ipa": "[vesˈtirsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee7b06a8-7640-465a-a4cd-6508aeaddea5",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "italian": "credere",
+      "cefr": "A2",
+      "ipa": "[ˈkreːdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f058d07-f0bb-4310-9ddf-69681d2cda8a",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "italian": "sperare",
+      "cefr": "A2",
+      "ipa": "[speˈraːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94b467d8-2a76-464b-9ce3-c3ba2c96de96",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "italian": "ridere",
+      "cefr": "A2",
+      "ipa": "[ˈriːdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e598ca32-5191-40ef-83e7-2abaaad082e2",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "italian": "piangere",
+      "cefr": "A2",
+      "ipa": "[ˈpjandʒere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5a9db48-3905-407b-b099-0ef9b839bf93",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "italian": "cadere",
+      "cefr": "A2",
+      "ipa": "[kaˈdeːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59f536c3-80cd-415a-afe6-2633570060da",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "italian": "volare",
+      "cefr": "A2",
+      "ipa": "[voˈlaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfb77614-8088-47ca-9eb8-c25ada077529",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "italian": "affittare",
+      "cefr": "A2",
+      "ipa": "[affitˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e75fe14e-903a-4a0f-9313-fdecaa4e7f5e",
+      "part-of-speech": "verb",
+      "english": "to book, reserve",
+      "italian": "prenotare",
+      "cefr": "A2",
+      "ipa": "[prenoˈtaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d53ded38-767d-4f02-ad41-fafc0bdb29e1",
+      "part-of-speech": "verb",
+      "english": "to order",
+      "italian": "ordinare",
+      "cefr": "A2",
+      "ipa": "[ordiˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "713fb1da-2877-4ab0-aec9-91c956f8763d",
+      "part-of-speech": "verb",
+      "english": "to happen",
+      "italian": "succedere",
+      "cefr": "A2",
+      "ipa": "[sutˈtʃɛːdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f97ab8d-5270-4cb9-a2b7-2d31fbaf35ee",
+      "part-of-speech": "verb",
+      "english": "to rain",
+      "italian": "piovere",
+      "cefr": "A2",
+      "ipa": "[ˈpjɔːvere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecdda33b-0354-469f-a96f-c5d8d2ca3f33",
+      "part-of-speech": "verb",
+      "english": "to snow",
+      "italian": "nevicare",
+      "cefr": "A2",
+      "ipa": "[neviˈkaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "866e8d5d-b866-4798-b349-58070fb5c48d",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "italian": "mostrare",
+      "cefr": "A2",
+      "ipa": "[mosˈtraːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93d378eb-91d0-4bed-a5e7-ba1ec11e6cb7",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "italian": "nascere",
+      "cefr": "A2",
+      "ipa": "[ˈnaʃʃere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b99e62b-2d42-4dcb-a62b-c0439e4ed6e4",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "italian": "morire",
+      "cefr": "A2",
+      "ipa": "[moˈriːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfb338e9-21ee-4819-83ec-53145ca45eb2",
+      "part-of-speech": "adjective",
+      "english": "big, large; great",
+      "italian": "grande",
+      "cefr": "A1",
+      "ipa": "[ˈɡrande]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5d6dbbe-7704-4751-a6bd-d31524d62f42",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "italian": "piccolo",
+      "cefr": "A1",
+      "ipa": "[ˈpikkolo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cefa884b-0a5c-458b-a58f-7cbd27b9ef05",
+      "part-of-speech": "adjective",
+      "english": "good; tasty",
+      "italian": "buono",
+      "cefr": "A1",
+      "ipa": "[ˈbwɔːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "982df269-c61a-408f-a325-245e68e4f496",
+      "part-of-speech": "adjective",
+      "english": "bad; nasty",
+      "italian": "cattivo",
+      "cefr": "A1",
+      "ipa": "[katˈtiːvo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4447677-39af-4c9a-9b32-f337739a2d8a",
+      "part-of-speech": "adjective",
+      "english": "beautiful, nice",
+      "italian": "bello",
+      "cefr": "A1",
+      "ipa": "[ˈbɛllo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "129d335a-f72c-4422-94d5-8452d50b6ee1",
+      "part-of-speech": "adjective",
+      "english": "ugly; bad (weather)",
+      "italian": "brutto",
+      "cefr": "A1",
+      "ipa": "[ˈbrutto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9419c350-b831-4325-bb6a-60d2df6b877c",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "italian": "nuovo",
+      "cefr": "A1",
+      "ipa": "[ˈnwɔːvo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "524ade89-fb80-45c3-b96e-16f8077cdf5a",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "italian": "vecchio",
+      "cefr": "A1",
+      "ipa": "[ˈvɛkkjo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36428377-f938-4fb7-9291-e4678812d551",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "italian": "giovane",
+      "cefr": "A1",
+      "ipa": "[ˈdʒoːvane]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d69ef055-0d9e-4c5c-ae18-8bc5b92dac81",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "italian": "alto",
+      "cefr": "A1",
+      "ipa": "[ˈalto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "588610e1-7839-4ac5-a7b7-f6ae29cb6531",
+      "part-of-speech": "adjective",
+      "english": "short (height), low",
+      "italian": "basso",
+      "cefr": "A1",
+      "ipa": "[ˈbasso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef6b83e1-f195-4eec-8a35-94f0c4003922",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "italian": "lungo",
+      "cefr": "A1",
+      "ipa": "[ˈluŋɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "931b4ad8-16ba-4ccb-b157-fcc1b079c1b8",
+      "part-of-speech": "adjective",
+      "english": "short (length)",
+      "italian": "corto",
+      "cefr": "A1",
+      "ipa": "[ˈkorto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65333a65-82f7-4e4d-a878-f422c805f22b",
+      "part-of-speech": "adjective",
+      "english": "hot, warm",
+      "italian": "caldo",
+      "cefr": "A1",
+      "ipa": "[ˈkaldo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad1f9a3c-d48e-4d53-9f0c-e83596e594c4",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "italian": "freddo",
+      "cefr": "A1",
+      "ipa": "[ˈfreddo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6902c23b-36f1-45ff-b774-e88d176823bf",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "italian": "veloce",
+      "cefr": "A1",
+      "ipa": "[veˈloːtʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0117611-066a-4769-853b-a99e6213e01d",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "italian": "lento",
+      "cefr": "A1",
+      "ipa": "[ˈlɛnto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ca7ed60-8572-40d0-882c-7c015be180f5",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "italian": "facile",
+      "cefr": "A1",
+      "ipa": "[ˈfaːtʃile]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a68bb32-39fa-4c9a-887d-2bb77548d418",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "italian": "difficile",
+      "cefr": "A1",
+      "ipa": "[difˈfiːtʃile]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10dcedbf-2fbc-491a-9750-920b44024a59",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "italian": "economico",
+      "cefr": "A1",
+      "ipa": "[ekoˈnɔːmiko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77570299-7094-4405-9975-27a8a55bfe1d",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "italian": "caro",
+      "cefr": "A1",
+      "ipa": "[ˈkaːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a27c54d5-152e-4d68-b0d9-dc82a65e1db0",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "italian": "felice",
+      "cefr": "A1",
+      "ipa": "[feˈliːtʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e6efbf3-315e-414b-8eaf-ab073cdecba4",
+      "part-of-speech": "adjective",
+      "english": "glad, pleased",
+      "italian": "contento",
+      "cefr": "A1",
+      "ipa": "[konˈtɛnto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74c4babf-e7eb-4994-b821-32265462ffc0",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "italian": "triste",
+      "cefr": "A1",
+      "ipa": "[ˈtriste]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56c4179d-f333-466b-929b-92060ddc7bdc",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "italian": "arrabbiato",
+      "cefr": "A2",
+      "ipa": "[arrabˈbjaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f4d19fc-1695-4e79-b2ab-1045403a018a",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "italian": "stanco",
+      "cefr": "A1",
+      "ipa": "[ˈstaŋko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d46ace9b-e430-4f72-af0b-4f0b23fcab77",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "italian": "malato",
+      "cefr": "A1",
+      "ipa": "[maˈlaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "687ce9c2-4b18-4f98-8085-27b5db77efb7",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "italian": "sano",
+      "cefr": "A2",
+      "ipa": "[ˈsaːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43e11532-b353-45b9-b5af-aed1b46ea65a",
+      "part-of-speech": "adjective",
+      "english": "delicious",
+      "italian": "delizioso",
+      "cefr": "A2",
+      "ipa": "[delitˈtsjoːso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5702c8a1-8108-4bdd-9f8f-963beb6cf01e",
+      "part-of-speech": "adjective",
+      "english": "nice, friendly",
+      "italian": "simpatico",
+      "cefr": "A1",
+      "ipa": "[simˈpaːtiko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1aa60c5c-e4c1-43a3-af4b-cb2fda5002fd",
+      "part-of-speech": "adjective",
+      "english": "kind",
+      "italian": "gentile",
+      "cefr": "A1",
+      "ipa": "[dʒenˈtiːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98c370b2-db70-4876-af30-a53d45883f8c",
+      "part-of-speech": "adjective",
+      "english": "intelligent, clever",
+      "italian": "intelligente",
+      "cefr": "A2",
+      "ipa": "[intelliˈdʒɛnte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20321cc1-7442-4be8-9490-3b142b27c92a",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "italian": "aperto",
+      "cefr": "A1",
+      "ipa": "[aˈpɛrto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bffe23a1-8293-4f4c-8f9e-32053c8a63ab",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "italian": "chiuso",
+      "cefr": "A1",
+      "ipa": "[ˈkjuːso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf460095-a52e-4d68-b1c2-222546269371",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "italian": "pulito",
+      "cefr": "A1",
+      "ipa": "[puˈliːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5852fd38-e03e-4659-a35f-f6a6c0fd7ce1",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "italian": "sporco",
+      "cefr": "A1",
+      "ipa": "[ˈspɔrko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "469ae17d-8169-46f4-8a8b-3de760222f94",
+      "part-of-speech": "adjective",
+      "english": "busy; occupied",
+      "italian": "occupato",
+      "cefr": "A1",
+      "ipa": "[okkuˈpaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a5b895b-2031-42de-9f38-5e3402ca66b2",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "italian": "libero",
+      "cefr": "A1",
+      "ipa": "[ˈliːbero]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01b7f97f-3d80-473d-9dd8-2086456417ff",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "italian": "pronto",
+      "cefr": "A1",
+      "ipa": "[ˈpronto]",
+      "context": "also how Italians answer the phone",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3cdcac3-c0c2-4bed-8c76-899edeed4f0d",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "italian": "importante",
+      "cefr": "A2",
+      "ipa": "[imporˈtante]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e4fbaf4-c594-4aa1-b76c-5dae71f549f7",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "italian": "interessante",
+      "cefr": "A2",
+      "ipa": "[interesˈsante]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41eca96d-c817-4f54-8ef1-e7692fb740a3",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "italian": "noioso",
+      "cefr": "A2",
+      "ipa": "[noˈjoːso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a405ef5d-3019-4ead-a252-833191455925",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "italian": "possibile",
+      "cefr": "A2",
+      "ipa": "[posˈsiːbile]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "baefa5bc-0c35-4f53-8ac8-f099a7aebf91",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "italian": "altro",
+      "cefr": "A1",
+      "ipa": "[ˈaltro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37623273-a23f-4459-8fb2-e30308815853",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "italian": "stesso",
+      "cefr": "A2",
+      "ipa": "[ˈstesso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fa42936-5b04-4a54-adda-639affdbdbd5",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "italian": "diverso",
+      "cefr": "A2",
+      "ipa": "[diˈvɛrso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "987b1cbf-600e-4abf-b73a-8eafda4cb216",
+      "part-of-speech": "adjective",
+      "english": "right, correct",
+      "italian": "giusto",
+      "cefr": "A1",
+      "ipa": "[ˈdʒusto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd735459-8d22-476f-9a09-8f51ce833808",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "italian": "sbagliato",
+      "cefr": "A1",
+      "ipa": "[zbaʎˈʎaːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c869b243-2f96-4f50-a751-6e1c3b980b10",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "italian": "pieno",
+      "cefr": "A2",
+      "ipa": "[ˈpjɛːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa9f07c1-efa0-4a6a-b9da-ced43376d8fb",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "italian": "vuoto",
+      "cefr": "A2",
+      "ipa": "[ˈvwɔːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97ead03b-60ca-468f-b902-f56898ae1134",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "italian": "ricco",
+      "cefr": "A2",
+      "ipa": "[ˈrikko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c396cef-7b04-4d19-8652-f391354c0cf7",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "italian": "povero",
+      "cefr": "A2",
+      "ipa": "[ˈpɔːvero]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82aadf04-4dfe-4d82-bc31-ec8019fc676d",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "italian": "pesante",
+      "cefr": "A2",
+      "ipa": "[peˈsante]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "368c9803-1d59-4c79-980b-e02715eeb910",
+      "part-of-speech": "adjective",
+      "english": "light (not heavy)",
+      "italian": "leggero",
+      "cefr": "A2",
+      "ipa": "[ledˈdʒɛːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10ab1db0-0030-4cc4-ab40-62b589f892e7",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "italian": "forte",
+      "cefr": "A2",
+      "ipa": "[ˈfɔrte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6eb2e84d-f704-4814-a954-481f38954e2f",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "italian": "magro",
+      "cefr": "A2",
+      "ipa": "[ˈmaːɡro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f51d310-bf7b-4515-bdfb-e5524004784e",
+      "part-of-speech": "adjective",
+      "english": "fat",
+      "italian": "grasso",
+      "cefr": "A2",
+      "ipa": "[ˈɡrasso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fb478fc-0f14-46d0-903a-fac08f612938",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "italian": "rosso",
+      "cefr": "A1",
+      "ipa": "[ˈrosso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c36dc36f-3893-43c0-bcdd-019cdcd4fb9a",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "italian": "blu",
+      "cefr": "A1",
+      "ipa": "[ˈblu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18ac23aa-01ab-4c2a-8547-5a4aa2b5e4c8",
+      "part-of-speech": "adjective",
+      "english": "light blue, sky blue",
+      "italian": "azzurro",
+      "cefr": "A1",
+      "ipa": "[adˈdzurro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62d0e797-78fb-4ab6-b65b-a9bf3fb46ee3",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "italian": "verde",
+      "cefr": "A1",
+      "ipa": "[ˈverde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc1a3cdf-318b-4c2a-be3b-ef1accef38d8",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "italian": "giallo",
+      "cefr": "A1",
+      "ipa": "[ˈdʒallo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adcb8611-37bf-4e4a-b202-2bad31d7bf2d",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "italian": "nero",
+      "cefr": "A1",
+      "ipa": "[ˈneːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3221fc14-1ba2-48f3-a359-cab0711fc33f",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "italian": "bianco",
+      "cefr": "A1",
+      "ipa": "[ˈbjaŋko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "390aa08a-c4c7-48e3-be4f-b746c72843f4",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "italian": "marrone",
+      "cefr": "A1",
+      "ipa": "[marˈroːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64c8044b-b18d-45b9-b4ff-f96e52dab048",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "italian": "grigio",
+      "cefr": "A1",
+      "ipa": "[ˈɡriːdʒo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18d078e5-e1c9-4f20-9a02-fb5552a01f5b",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "italian": "arancione",
+      "cefr": "A1",
+      "ipa": "[aranˈtʃoːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "091677ed-602c-40f6-8ba7-9582ce41911f",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "italian": "rosa",
+      "cefr": "A2",
+      "ipa": "[ˈrɔːza]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe9b186b-08d2-42d5-bbbf-d13c416e6aa8",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "italian": "viola",
+      "cefr": "A2",
+      "ipa": "[viˈɔːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42addc0f-2371-44e6-a85e-cc9f7949126b",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "italian": "adesso",
+      "cefr": "A1",
+      "ipa": "[aˈdɛsso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe5b1d57-6a90-43ff-b40c-429f32b8e243",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "italian": "oggi",
+      "cefr": "A1",
+      "ipa": "[ˈɔddʒi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99ae2341-c401-4f61-a35b-1216e6356b69",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "italian": "domani",
+      "cefr": "A1",
+      "ipa": "[doˈmaːni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e84185a9-63c7-4ae4-b774-6744e9d52735",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "italian": "ieri",
+      "cefr": "A1",
+      "ipa": "[ˈjɛːri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2776d166-71e6-42cf-8489-645f8daae3eb",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "italian": "qui",
+      "cefr": "A1",
+      "ipa": "[ˈkwi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e2eb54f-d7a8-48f4-bf2a-dc7b07178861",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "italian": "lì",
+      "cefr": "A1",
+      "ipa": "[ˈli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffbcf07a-481c-4e34-a202-e7e0edad7849",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "italian": "non",
+      "cefr": "A1",
+      "ipa": "[non]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f931f372-115f-47b0-b813-c874006c0823",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "italian": "anche",
+      "cefr": "A1",
+      "ipa": "[ˈaŋke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66af8062-3f31-49f0-a0be-483bc2bb87b8",
+      "part-of-speech": "adverb",
+      "english": "very; a lot",
+      "italian": "molto",
+      "cefr": "A1",
+      "ipa": "[ˈmolto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5be442c-d203-4163-93d4-3f1a0a68216f",
+      "part-of-speech": "adverb",
+      "english": "little, not much",
+      "italian": "poco",
+      "cefr": "A1",
+      "ipa": "[ˈpɔːko]",
+      "context": "un po': a bit",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dbe420d-7d1d-46f6-8e4f-db485d669e3b",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "italian": "più",
+      "cefr": "A1",
+      "ipa": "[ˈpju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6a2ac0d-6d93-47c2-b196-0571c2e214fc",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "italian": "meno",
+      "cefr": "A1",
+      "ipa": "[ˈmeːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "618e5985-c0e8-4790-b7ba-57f4ce248485",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "italian": "sempre",
+      "cefr": "A1",
+      "ipa": "[ˈsɛmpre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0f5649c-51fe-4d9f-82dc-33ef1f5ac22e",
+      "part-of-speech": "adverb",
+      "english": "never; ever",
+      "italian": "mai",
+      "cefr": "A1",
+      "ipa": "[ˈmaːi]",
+      "context": "non … mai: never",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be45c065-4e85-4ed0-b74d-ca1501755f17",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "italian": "a volte",
+      "cefr": "A1",
+      "ipa": "[a ˈvɔlte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eae19b15-e80d-4c89-8794-8714a0d79c35",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "italian": "spesso",
+      "cefr": "A1",
+      "ipa": "[ˈspesso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d000f728-c8e2-4ed6-aad2-1d8e85f638c7",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "italian": "di solito",
+      "cefr": "A2",
+      "ipa": "[di ˈsɔːlito]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2eadd8cd-59cc-43f6-b19b-b497ca524c8d",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "italian": "già",
+      "cefr": "A1",
+      "ipa": "[ˈdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "967aa75f-beab-463b-bf5e-67c8d0649832",
+      "part-of-speech": "adverb",
+      "english": "still; again; yet",
+      "italian": "ancora",
+      "cefr": "A1",
+      "ipa": "[aŋˈkoːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "468c760f-1eae-4a61-ba92-998c2742866f",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "italian": "insieme",
+      "cefr": "A1",
+      "ipa": "[inˈsjɛːme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7b9fa13-f627-4d78-9965-17d2fbde672a",
+      "part-of-speech": "adverb",
+      "english": "alone, on one's own",
+      "italian": "da solo",
+      "cefr": "A2",
+      "ipa": "[da ˈsoːlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd8cc172-a608-470a-aa16-f2e420c7d862",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "italian": "forse",
+      "cefr": "A1",
+      "ipa": "[ˈforse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1c397aa-ebd9-4d8f-89e9-202bfdbc76fe",
+      "part-of-speech": "adverb",
+      "english": "after, later",
+      "italian": "dopo",
+      "cefr": "A1",
+      "ipa": "[ˈdoːpo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1926b70f-8fc2-4ece-8afd-c3708e413adc",
+      "part-of-speech": "adverb",
+      "english": "before, first",
+      "italian": "prima",
+      "cefr": "A1",
+      "ipa": "[ˈpriːma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f625c269-b0d3-4b74-b2c3-bffcd247cb3e",
+      "part-of-speech": "adverb",
+      "english": "then, afterwards",
+      "italian": "poi",
+      "cefr": "A1",
+      "ipa": "[ˈpɔːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac4a0f99-b90f-4d54-aaa1-105743c3862d",
+      "part-of-speech": "adverb",
+      "english": "early; soon",
+      "italian": "presto",
+      "cefr": "A1",
+      "ipa": "[ˈprɛsto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "296e3784-6ff8-413f-a9f4-490406526890",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "italian": "tardi",
+      "cefr": "A1",
+      "ipa": "[ˈtardi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2896cde-eff3-4d9c-a257-4bb14c7bf2ec",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "italian": "bene",
+      "cefr": "A1",
+      "ipa": "[ˈbɛːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cf559de-9efe-4992-9fce-bff141e78618",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "italian": "male",
+      "cefr": "A1",
+      "ipa": "[ˈmaːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea7a8548-537b-4082-b794-76c418ffa368",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "italian": "solo",
+      "cefr": "A1",
+      "ipa": "[ˈsoːlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9458541-1f57-430e-b591-73093a13fa8e",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "italian": "quasi",
+      "cefr": "A2",
+      "ipa": "[ˈkwaːzi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dec082e-cb46-4b5c-bac9-e6c459fec7e9",
+      "part-of-speech": "adverb",
+      "english": "immediately, right away",
+      "italian": "subito",
+      "cefr": "A2",
+      "ipa": "[ˈsuːbito]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df16bfcb-1826-4aa9-9b93-c88c2d216969",
+      "part-of-speech": "adverb",
+      "english": "of course, certainly",
+      "italian": "certo",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɛrto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04820a65-74df-46a8-a5e7-59666e289039",
+      "part-of-speech": "adverb",
+      "english": "enough; quite",
+      "italian": "abbastanza",
+      "cefr": "A2",
+      "ipa": "[abbaˈstantsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "210524cd-c9fa-4a73-bde6-b1b76ee52bc9",
+      "part-of-speech": "adverb",
+      "english": "too, too much",
+      "italian": "troppo",
+      "cefr": "A2",
+      "ipa": "[ˈtrɔppo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65bb5dec-45da-4345-8e96-65af29e6d04a",
+      "part-of-speech": "adverb",
+      "english": "slowly; quietly",
+      "italian": "piano",
+      "cefr": "A2",
+      "ipa": "[ˈpjaːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7edb8602-f493-440c-ae4e-8bc7712dab97",
+      "part-of-speech": "adverb",
+      "english": "near, nearby",
+      "italian": "vicino",
+      "cefr": "A1",
+      "ipa": "[viˈtʃiːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e772c360-7293-4148-b266-891a35ddfcb7",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "italian": "lontano",
+      "cefr": "A1",
+      "ipa": "[lonˈtaːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0489feb-e810-4073-979e-ff3785536787",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "italian": "dentro",
+      "cefr": "A2",
+      "ipa": "[ˈdentro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0502e345-7ebe-4315-98b8-e8172be601f4",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "italian": "fuori",
+      "cefr": "A2",
+      "ipa": "[ˈfwɔːri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36e0bc21-869b-40e1-a0e9-e35970052692",
+      "part-of-speech": "adverb",
+      "english": "on the left, to the left",
+      "italian": "a sinistra",
+      "cefr": "A1",
+      "ipa": "[a siˈnistra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5780691-a4bd-41b7-aefa-df247c037bf6",
+      "part-of-speech": "adverb",
+      "english": "on the right, to the right",
+      "italian": "a destra",
+      "cefr": "A1",
+      "ipa": "[a ˈdɛstra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6505e07d-fb86-4fcc-834f-8443ddacef38",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "italian": "dritto",
+      "cefr": "A1",
+      "ipa": "[ˈdritto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82d4ab95-f38d-447a-84f8-f834cd714069",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "italian": "dove",
+      "cefr": "A1",
+      "ipa": "[ˈdoːve]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9dfffcae-44c0-41a3-98d4-69ee68dc6f8a",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "italian": "quando",
+      "cefr": "A1",
+      "ipa": "[ˈkwando]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84944915-df20-495d-be11-a5c30670eb23",
+      "part-of-speech": "adverb",
+      "english": "how; like, as",
+      "italian": "come",
+      "cefr": "A1",
+      "ipa": "[ˈkoːme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03ec9cd7-13c2-4f70-a8d6-1d5209b5173e",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "italian": "perché",
+      "cefr": "A1",
+      "ipa": "[perˈke]",
+      "context": "also means because",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9189e2f8-8b4d-4833-b8b3-c831178065df",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "italian": "quanto",
+      "cefr": "A1",
+      "ipa": "[ˈkwanto]",
+      "context": "quanti/quante: how many",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a10be7d8-b08c-4d1b-8e72-d12f7c3e11df",
+      "part-of-speech": "adverb",
+      "english": "here is, here are",
+      "italian": "ecco",
+      "cefr": "A1",
+      "ipa": "[ˈɛkko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30e4f4f9-808c-4179-8519-a84868a97011",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "italian": "io",
+      "cefr": "A1",
+      "ipa": "[ˈiːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f28712c-4f52-473b-9db5-15eebdbec495",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "italian": "tu",
+      "cefr": "A1",
+      "ipa": "[ˈtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd58e15d-85d6-4dcd-953d-1f6d239dffa6",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "italian": "lui",
+      "cefr": "A1",
+      "ipa": "[ˈluːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72be3578-0608-46eb-b4c3-23518688ad07",
+      "part-of-speech": "pronoun",
+      "english": "she; you (formal)",
+      "italian": "lei",
+      "cefr": "A1",
+      "ipa": "[ˈlɛːi]",
+      "context": "formal you is written Lei",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "457dc744-8443-49a5-bebb-1a3ec6dd684d",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "italian": "noi",
+      "cefr": "A1",
+      "ipa": "[ˈnoːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6e0b56d-68e0-46a9-9114-7be97fdbcca6",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "italian": "voi",
+      "cefr": "A1",
+      "ipa": "[ˈvoːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47945743-d85c-447d-81d8-0f2a0bfd1524",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "italian": "loro",
+      "cefr": "A1",
+      "ipa": "[ˈloːro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69b8ecb5-2fa8-4015-bb49-95fe11ae2e92",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "italian": "mio",
+      "cefr": "A1",
+      "ipa": "[ˈmiːo]",
+      "context": "used with the article: il mio libro",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82440dd3-cf1c-44df-b9cf-a79822ff468a",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "italian": "tuo",
+      "cefr": "A1",
+      "ipa": "[ˈtuːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed2e5544-cef8-49b0-8047-43a15d6058d4",
+      "part-of-speech": "pronoun",
+      "english": "his, her, its; your (formal)",
+      "italian": "suo",
+      "cefr": "A1",
+      "ipa": "[ˈsuːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de3d3aaa-b78e-477c-829d-8e3eeafbe34f",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "italian": "nostro",
+      "cefr": "A1",
+      "ipa": "[ˈnɔstro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edcf6c21-23b5-414a-80ad-45d345714a19",
+      "part-of-speech": "pronoun",
+      "english": "your (plural)",
+      "italian": "vostro",
+      "cefr": "A1",
+      "ipa": "[ˈvɔstro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c55461e5-eada-4533-81ba-2ea95f8bd367",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "italian": "questo",
+      "cefr": "A1",
+      "ipa": "[ˈkwesto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c97aca77-992a-4e98-b905-370271d5d0df",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "italian": "quello",
+      "cefr": "A1",
+      "ipa": "[ˈkwello]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e92c257-0cd1-4d09-b957-cb1ed7025c62",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "italian": "che cosa",
+      "cefr": "A1",
+      "ipa": "[ke ˈkɔːsa]",
+      "context": "often just che or cosa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b9c24d2-fa52-4251-9ec1-ebc0ab49c3d3",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "italian": "chi",
+      "cefr": "A1",
+      "ipa": "[ˈki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa769698-ded2-4590-b6cd-5f7122318fcc",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "italian": "quale",
+      "cefr": "A1",
+      "ipa": "[ˈkwaːle]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07b96291-8783-470f-ba6a-6fb66369da0f",
+      "part-of-speech": "pronoun",
+      "english": "everything; all",
+      "italian": "tutto",
+      "cefr": "A1",
+      "ipa": "[ˈtutto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38c51e94-123c-43a6-9690-e7c2e28b800a",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "italian": "niente",
+      "cefr": "A1",
+      "ipa": "[ˈnjɛnte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6898da8-dee5-4033-836c-12e8af32b638",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "italian": "qualcosa",
+      "cefr": "A2",
+      "ipa": "[kwalˈkɔːsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61edaacf-252a-496d-99b0-98e9383e35e8",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "italian": "qualcuno",
+      "cefr": "A2",
+      "ipa": "[kwalˈkuːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15515705-6554-4818-b281-479480dc20f4",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "italian": "nessuno",
+      "cefr": "A2",
+      "ipa": "[nesˈsuːno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77026f98-1da5-4adc-b93a-66f67d16be6e",
+      "part-of-speech": "preposition",
+      "english": "of; from",
+      "italian": "di",
+      "cefr": "A1",
+      "ipa": "[di]",
+      "context": "di + il = del, di + la = della",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bef17f5-a5f4-4ef4-b592-36af6cead3f9",
+      "part-of-speech": "preposition",
+      "english": "to, at, in (cities)",
+      "italian": "a",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "context": "a + il = al, a + la = alla",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "601f5640-019f-4c94-a2b1-02656234de09",
+      "part-of-speech": "preposition",
+      "english": "from; at (someone's place); since",
+      "italian": "da",
+      "cefr": "A1",
+      "ipa": "[da]",
+      "context": "da + il = dal; dal medico: at the doctor's",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93663378-b876-4fcf-b03e-42e28574efc6",
+      "part-of-speech": "preposition",
+      "english": "in, to (countries, rooms)",
+      "italian": "in",
+      "cefr": "A1",
+      "ipa": "[in]",
+      "context": "in + il = nel, in + la = nella",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5460cc21-c6ba-4c2f-ad52-8ff27659fa94",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "italian": "con",
+      "cefr": "A1",
+      "ipa": "[kon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ed0d257-323a-437e-8590-ec0325cf7638",
+      "part-of-speech": "preposition",
+      "english": "on",
+      "italian": "su",
+      "cefr": "A1",
+      "ipa": "[su]",
+      "context": "su + il = sul, su + la = sulla",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c1f4a6e-bb7d-4873-9e37-89e618589138",
+      "part-of-speech": "preposition",
+      "english": "for; through",
+      "italian": "per",
+      "cefr": "A1",
+      "ipa": "[per]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c492e7a-5003-4fbb-910f-bdbe16f1fedd",
+      "part-of-speech": "preposition",
+      "english": "between, among; in (time)",
+      "italian": "tra",
+      "cefr": "A2",
+      "ipa": "[tra]",
+      "context": "also fra; tra un'ora: in an hour",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77a51bdd-a588-4fe8-9560-444dc9ed2615",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "italian": "senza",
+      "cefr": "A1",
+      "ipa": "[ˈsɛntsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "368e765a-c0e3-4b50-8ece-5c786ee5b643",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "italian": "fino a",
+      "cefr": "A2",
+      "ipa": "[ˈfiːno a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17a2db50-0af0-479d-9f19-e93a6056b682",
+      "part-of-speech": "preposition",
+      "english": "during",
+      "italian": "durante",
+      "cefr": "A2",
+      "ipa": "[duˈrante]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b3947b8-6523-48c5-a579-fb416b8c5b26",
+      "part-of-speech": "preposition",
+      "english": "against",
+      "italian": "contro",
+      "cefr": "A2",
+      "ipa": "[ˈkontro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cd5ed45-ea06-4245-9776-65bf3297e50f",
+      "part-of-speech": "preposition",
+      "english": "on, above",
+      "italian": "sopra",
+      "cefr": "A2",
+      "ipa": "[ˈsoːpra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12a39d2e-b330-4e2d-9222-0d7861a4804e",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "italian": "sotto",
+      "cefr": "A1",
+      "ipa": "[ˈsotto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3413d69f-2477-4bbc-87f6-4979f87453ea",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "italian": "dietro",
+      "cefr": "A1",
+      "ipa": "[ˈdjɛːtro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e8cfd6d-0088-4bf1-bdb3-683d45821aa7",
+      "part-of-speech": "preposition",
+      "english": "in front of",
+      "italian": "davanti a",
+      "cefr": "A1",
+      "ipa": "[daˈvanti a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "992e38fe-2770-4572-9e2b-48090fc5e5ac",
+      "part-of-speech": "preposition",
+      "english": "near",
+      "italian": "vicino a",
+      "cefr": "A1",
+      "ipa": "[viˈtʃiːno a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7505137-664b-4f46-b0f5-5dd31d0738bf",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "italian": "accanto a",
+      "cefr": "A2",
+      "ipa": "[akˈkanto a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4252656f-41ae-4d5c-929e-d2b636e4ac28",
+      "part-of-speech": "preposition",
+      "english": "towards; around (time)",
+      "italian": "verso",
+      "cefr": "A2",
+      "ipa": "[ˈvɛrso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04935b2b-2c8b-4e5b-ae12-7aeee82364ea",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "italian": "e",
+      "cefr": "A1",
+      "ipa": "[e]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d71d38e7-f56e-4cbc-9a2b-972cddf4142b",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "italian": "o",
+      "cefr": "A1",
+      "ipa": "[o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7490f057-9140-4874-9037-edefea412008",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "italian": "ma",
+      "cefr": "A1",
+      "ipa": "[ma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "467d7a31-057e-4929-a2d5-aa9d0f2c3913",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "italian": "perché",
+      "cefr": "A1",
+      "ipa": "[perˈke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "417fc149-074d-4631-bc58-70c4bbeef5fd",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "italian": "che",
+      "cefr": "A1",
+      "ipa": "[ke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70820bc2-0df5-434e-b8d2-13ab99027384",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "italian": "se",
+      "cefr": "A1",
+      "ipa": "[se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "618440a3-e810-4528-bc76-c33f3b2d2984",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "italian": "quindi",
+      "cefr": "A1",
+      "ipa": "[ˈkwindi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41b6ffa4-2fc5-460c-aaa0-aaf3b219b6b4",
+      "part-of-speech": "conjunction",
+      "english": "so, then",
+      "italian": "allora",
+      "cefr": "A1",
+      "ipa": "[alˈloːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6c964c5-70cd-4e81-8437-5b7b4786703e",
+      "part-of-speech": "conjunction",
+      "english": "but, however",
+      "italian": "però",
+      "cefr": "A2",
+      "ipa": "[peˈrɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24aa895a-0dcb-4565-bd1b-8bfd38617dd4",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "italian": "mentre",
+      "cefr": "A2",
+      "ipa": "[ˈmentre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e35ad99f-5259-4902-b8b4-dc568871d95f",
+      "part-of-speech": "conjunction",
+      "english": "even though, although",
+      "italian": "anche se",
+      "cefr": "A2",
+      "ipa": "[ˈaŋke se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08b56780-47af-4517-b28e-82546a40df60",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "italian": "sì",
+      "cefr": "A1",
+      "ipa": "[ˈsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b92989ff-01a2-46e7-8d77-10337809c177",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "italian": "no",
+      "cefr": "A1",
+      "ipa": "[ˈnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca919b5b-bfc2-4058-b77f-2a00158cc518",
+      "part-of-speech": "interjection",
+      "english": "hi; bye",
+      "italian": "ciao",
+      "cefr": "A1",
+      "ipa": "[ˈtʃaːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb71560c-4b2b-4d93-ac48-3720d231d305",
+      "part-of-speech": "interjection",
+      "english": "good morning, good day",
+      "italian": "buongiorno",
+      "cefr": "A1",
+      "ipa": "[bwonˈdʒorno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a491ee69-c883-4c3b-981e-51d58fec6d7d",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "italian": "buonasera",
+      "cefr": "A1",
+      "ipa": "[bwɔnaˈseːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1c0a9c4-c8e1-4f84-b6a1-4136f438ca72",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "italian": "buonanotte",
+      "cefr": "A1",
+      "ipa": "[bwɔnaˈnɔtte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd0ac14c-32d2-488c-8010-7afd21267444",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "italian": "arrivederci",
+      "cefr": "A1",
+      "ipa": "[arriveˈdertʃi]",
+      "context": "formal: ArrivederLa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60b8d7f5-2c6e-4fdd-8d22-513f83b1a619",
+      "part-of-speech": "interjection",
+      "english": "see you soon",
+      "italian": "a presto",
+      "cefr": "A1",
+      "ipa": "[a ˈprɛsto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea1c7690-3b03-4824-8075-6361a5bf8271",
+      "part-of-speech": "interjection",
+      "english": "see you tomorrow",
+      "italian": "a domani",
+      "cefr": "A1",
+      "ipa": "[a doˈmaːni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c5fc9ab-6ffc-4c47-b6fe-38020f2a83a5",
+      "part-of-speech": "interjection",
+      "english": "welcome",
+      "italian": "benvenuto",
+      "cefr": "A1",
+      "ipa": "[bemveˈnuːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7493f8ce-255c-49b4-98e2-c3eff05a1178",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "italian": "grazie",
+      "cefr": "A1",
+      "ipa": "[ˈɡrattsje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4a034d6-fd9b-4888-b85c-16497d85d927",
+      "part-of-speech": "interjection",
+      "english": "you're welcome; please, go ahead",
+      "italian": "prego",
+      "cefr": "A1",
+      "ipa": "[ˈprɛːɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9881f314-4e4d-4769-a799-e60a6711f7bd",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "italian": "per favore",
+      "cefr": "A1",
+      "ipa": "[per faˈvoːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40343c86-7de2-4b33-b900-79791136433e",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me (informal)",
+      "italian": "scusa",
+      "cefr": "A1",
+      "ipa": "[ˈskuːza]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26278b1e-2201-4364-847e-fd27f764649e",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me (formal)",
+      "italian": "scusi",
+      "cefr": "A1",
+      "ipa": "[ˈskuːzi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd198afc-9b7e-470c-9717-f0bba4c522c8",
+      "part-of-speech": "interjection",
+      "english": "excuse me (to get past)",
+      "italian": "permesso",
+      "cefr": "A1",
+      "ipa": "[perˈmesso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2760f77-ce47-446b-83cf-a2b5f17c37cb",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "italian": "come stai",
+      "cefr": "A1",
+      "ipa": "[ˈkoːme ˈstaːi]",
+      "context": "formal: come sta?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b7553c6-a365-4729-a46a-193d1687f836",
+      "part-of-speech": "interjection",
+      "english": "okay, all right",
+      "italian": "va bene",
+      "cefr": "A1",
+      "ipa": "[va ˈbɛːne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1076b7ba-f998-4ac1-98f6-390b4dc77b39",
+      "part-of-speech": "interjection",
+      "english": "cheers; bless you",
+      "italian": "salute",
+      "cefr": "A2",
+      "ipa": "[saˈluːte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "485e2157-f49b-45e0-90fd-50b4c0d5a9f1",
+      "part-of-speech": "interjection",
+      "english": "best wishes; happy birthday",
+      "italian": "auguri",
+      "cefr": "A2",
+      "ipa": "[auˈɡuːri]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}
