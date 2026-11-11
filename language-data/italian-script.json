@@ -1,0 +1,175 @@
+{
+  "scriptName": "Italian Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Italian is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Italian, written as exact (bracketed) IPA."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "c(e,i)",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "ch",
+          "ipa": "[k]",
+          "note": "k"
+        },
+        {
+          "char": "g(e,i)",
+          "ipa": "[dʒ]",
+          "note": "j"
+        },
+        {
+          "char": "gh",
+          "ipa": "[ɡ]",
+          "note": "hard g"
+        },
+        {
+          "char": "gli",
+          "ipa": "[ʎʎ]",
+          "note": "ly"
+        },
+        {
+          "char": "gn",
+          "ipa": "[ɲɲ]",
+          "note": "ny"
+        },
+        {
+          "char": "sc(e,i)",
+          "ipa": "[ʃʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "z",
+          "ipa": "[ts dz]",
+          "note": "ts or dz"
+        },
+        {
+          "char": "double consonants",
+          "ipa": "[tt ll …]",
+          "note": "held longer: pala vs palla"
+        },
+        {
+          "char": "h",
+          "ipa": "",
+          "note": "always silent"
+        },
+        {
+          "char": "r",
+          "ipa": "[r]",
+          "note": "rolled"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "a [a]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "e [e]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "di [di]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "o [o]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "su [su]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "più [ˈpju]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "per [per]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "qui [ˈkwi]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "tè [ˈtɛ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "no [ˈnɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "pesce [ˈpeʃʃe]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "già [ˈdʒa]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ʎ",
+          "ipa": "figlio [ˈfiʎʎo]",
+          "note": "ly — l with the tongue flat, as in \"million\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "bagno [ˈbaɲɲo]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "anche [ˈaŋke]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɱ",
+          "ipa": "inverno [iɱˈvɛrno]",
+          "note": "m made with the lip against the teeth, before f or v"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "lago [ˈlaːɡo]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "tè [ˈtɛ]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "io [ˈiːo]",
+          "note": "the sound before it is long"
+        }
+      ]
+    }
+  ]
+}

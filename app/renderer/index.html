@@ -14,11 +14,19 @@
     <div class="welcome-hero">
       <div id="welcome-flag" class="flag">🌍</div>
       <h1>Language Teacher</h1>
-      <p id="welcome-subtitle" class="subtitle">Train your vocabulary</p>
+      <p id="welcome-subtitle" class="subtitle tagline">Build your skills in another language</p>
 
       <div id="language-picker" class="level-picker">
-        <p class="level-picker-label">Choose a language</p>
-        <div id="language-buttons" class="level-buttons"></div>
+        <p class="level-picker-label">Which language would you like to study?</p>
+        <!-- One row; with more than LANGUAGES_PER_PAGE languages it becomes a
+             carousel paged with the arrows. -->
+        <div class="language-carousel">
+          <button id="language-prev" class="carousel-arrow hidden" aria-label="Previous languages">‹</button>
+          <div id="language-viewport" class="language-viewport">
+            <div id="language-buttons" class="language-track"></div>
+          </div>
+          <button id="language-next" class="carousel-arrow hidden" aria-label="More languages">›</button>
+        </div>
         <button id="language-picker-toggle" class="btn-ghost small hidden"></button>
       </div>
 
@@ -106,6 +114,7 @@
   <div id="intro-screen" class="screen">
     <div class="quiz-header">
       <button id="intro-quit-btn" class="btn-ghost">Quit</button>
+      <button id="intro-guide-btn" class="btn-ghost hidden">Script Guide</button>
       <div class="progress-group">
         <span id="intro-counter" class="counter-text">1 / 1</span>
         <div class="progress-bar">

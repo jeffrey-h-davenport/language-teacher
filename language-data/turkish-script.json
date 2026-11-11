@@ -1,0 +1,145 @@
+{
+  "scriptName": "Turkish Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Turkish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Istanbul Turkish and are written as broad (slashed) IPA. Stress usually falls on the last syllable."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ç",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "ş",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "c",
+          "ipa": "[dʒ]",
+          "note": "j"
+        },
+        {
+          "char": "j",
+          "ipa": "[ʒ]",
+          "note": "s in \"measure\""
+        },
+        {
+          "char": "ı",
+          "ipa": "[ɯ]",
+          "note": "oo with unrounded lips"
+        },
+        {
+          "char": "ö",
+          "ipa": "[ø]",
+          "note": "e with rounded lips"
+        },
+        {
+          "char": "ü",
+          "ipa": "[y]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "ğ",
+          "ipa": "",
+          "note": "lengthens the vowel before it"
+        },
+        {
+          "char": "r",
+          "ipa": "[ɾ]",
+          "note": "a tap"
+        },
+        {
+          "char": "vowel harmony",
+          "ipa": "",
+          "note": "endings change their vowel to match the word: evler, kızlar"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "ay /aj/",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "ne /ne/",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "iş /iʃ/",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "o /o/",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "bu /bu/",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "üç /ytʃ/",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "j",
+          "ipa": "ay /aj/",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "bir /bir/",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "ɯ",
+          "ipa": "yıl /jɯl/",
+          "note": "oo with relaxed, unrounded lips"
+        },
+        {
+          "char": "ø",
+          "ipa": "göz /gøz/",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "şu /ʃu/",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "ucuz /udʒuz/",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɰ",
+          "ipa": "dağ /daɰ/",
+          "note": "w (or a soft g) without rounding the lips"
+        },
+        {
+          "char": "ː",
+          "ipa": "elli /elːi/",
+          "note": "the sound before it is long"
+        }
+      ]
+    }
+  ]
+}

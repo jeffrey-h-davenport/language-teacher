@@ -1,0 +1,265 @@
+{
+  "scriptName": "French Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How French is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard French and are written as broad (slashed) IPA."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ou",
+          "ipa": "[u]",
+          "note": "oo"
+        },
+        {
+          "char": "u",
+          "ipa": "[y]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "eu / œu",
+          "ipa": "[ø œ]",
+          "note": "ö"
+        },
+        {
+          "char": "oi",
+          "ipa": "[wa]",
+          "note": "wa"
+        },
+        {
+          "char": "é",
+          "ipa": "[e]",
+          "note": "ay without the glide"
+        },
+        {
+          "char": "è / ê",
+          "ipa": "[ɛ]",
+          "note": "e as in \"bed\""
+        },
+        {
+          "char": "an / en",
+          "ipa": "[ɑ̃]",
+          "note": "nasal a"
+        },
+        {
+          "char": "on",
+          "ipa": "[ɔ̃]",
+          "note": "nasal o"
+        },
+        {
+          "char": "in / ain",
+          "ipa": "[ɛ̃]",
+          "note": "nasal e"
+        },
+        {
+          "char": "ch",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "j / g(e,i)",
+          "ipa": "[ʒ]",
+          "note": "s in \"measure\""
+        },
+        {
+          "char": "gn",
+          "ipa": "[ɲ]",
+          "note": "ny"
+        },
+        {
+          "char": "r",
+          "ipa": "[ʁ]",
+          "note": "in the throat"
+        },
+        {
+          "char": "h",
+          "ipa": "",
+          "note": "always silent"
+        },
+        {
+          "char": "final consonants",
+          "ipa": "",
+          "note": "usually silent, except often c, r, f, l"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "a /a/",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "hé /e/",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "si /si/",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "eau /o/",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "où /u/",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "heu /y/",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "j",
+          "ipa": "œil /œj/",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "w",
+          "ipa": "oui /wi/",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "an /ɑ̃/",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "ais /ɛ/",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "petit /pə.ti/",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɚ",
+          "ipa": "hamburger /ambɚɡɚ/",
+          "note": "the r-coloured \"er\" in American \"butter\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "homme /ɔm/",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ø",
+          "ipa": "oeufs /ø/",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "œ",
+          "ipa": "un /œ̃/",
+          "note": "e as in \"bed\" with rounded lips"
+        },
+        {
+          "char": "õ",
+          "ipa": "arrêté de compte /a.ʁɛ.tet.kõt/",
+          "note": "nasal o"
+        },
+        {
+          "char": "ʁ",
+          "ipa": "air /ɛʁ/",
+          "note": "r made at the back of the throat (French r)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "chaud /ʃo/",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "jeu /ʒø/",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɾ",
+          "ipa": "soir /swɛː(ɾ)/",
+          "note": "a quick tap of the tongue, like the tt in American \"butter\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "ligne /liɲ/",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "ring /ʁiŋɡ/",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɥ",
+          "ipa": "hui /ɥi/",
+          "note": "a quick ü-glide, as in French \"huit\""
+        },
+        {
+          "char": "ᵑ",
+          "ipa": "oignon /oˈɲɔᵑ/",
+          "note": "a faint ng at the end"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "gars /ɡa/",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "oignon /oˈɲɔᵑ/",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "fort /fɔːʁ/",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "‿",
+          "ipa": "beaux-arts /bo.z‿aʁ/",
+          "note": "run on into the next word (liaison)"
+        },
+        {
+          "char": ".",
+          "ipa": "huer /y.e/",
+          "note": "a break between syllables"
+        },
+        {
+          "char": "(",
+          "ipa": "jeep /(d)ʒip/",
+          "note": "a sound in brackets ( ) is optional — often dropped"
+        },
+        {
+          "char": "|",
+          "ipa": "cheeseburger /tʃiz.bœʁ.ɡœʁ | tʃiz.byʁ.ɡœʁ/",
+          "note": "separates two accepted pronunciations"
+        },
+        {
+          "char": "◌̃",
+          "ipa": "un /œ̃/",
+          "note": "nasal — air through the nose too"
+        },
+        {
+          "char": "◌̥",
+          "ipa": "théâtre [te.ˈɑːtʁ̥]",
+          "note": "voiceless or whispered"
+        }
+      ]
+    }
+  ]
+}

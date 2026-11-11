@@ -1,0 +1,1271 @@
+{
+  "scriptName": "Kana",
+  "buttonLabel": "Kana Guide",
+  "fontScale": 1.3,
+  "intro": "Hiragana and katakana — the two Japanese syllable alphabets — with the pronunciation of every sound.",
+  "sections": [
+    {
+      "heading": "How kana work",
+      "text": [
+        "Japanese is written with three scripts at once: hiragana for native words and grammar endings, katakana mainly for words borrowed from other languages (コーヒー, パソコン), and kanji — Chinese characters — for most nouns, verbs and adjectives.",
+        "Each kana stands for one syllable-like beat (a mora). Hiragana and katakana are two sets of shapes for the same sounds, so learning one chart teaches you the sounds of both.",
+        "The romaji under each sound is the usual spelling in Latin letters; the IPA in brackets shows how it is actually pronounced in standard Tokyo Japanese."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "The pronunciations in this app use the International Phonetic Alphabet (IPA). Most letters sound as in English; these are the ones that don't, with an example word from the vocabulary.",
+      "items": [
+        {
+          "char": "ꜜ",
+          "ipa": "箸 [haꜜɕi]",
+          "note": "pitch drops after this point; no ꜜ = flat"
+        },
+        {
+          "char": "ː",
+          "ipa": "お母さん [okaꜜːsaɴ]",
+          "note": "long — hold the vowel for two beats"
+        },
+        {
+          "char": "◌̥",
+          "ipa": "学生 [ɡakɯ̥seː]",
+          "note": "whispered, nearly silent vowel"
+        },
+        {
+          "char": "ɴ",
+          "ipa": "本 [hoꜜɴ]",
+          "note": "ん at the end of a word — n made at the back of the mouth"
+        },
+        {
+          "char": "ŋ",
+          "ipa": "銀行 [ɡiŋkoː]",
+          "note": "ng as in sing"
+        },
+        {
+          "char": "ɲ",
+          "ipa": "兄 [aꜜɲi]",
+          "note": "n with the tongue flat, like ny"
+        },
+        {
+          "char": "ɯ",
+          "ipa": "夜 [joꜜɾɯ]",
+          "note": "u with relaxed, unrounded lips"
+        },
+        {
+          "char": "ɾ",
+          "ipa": "夜 [joꜜɾɯ]",
+          "note": "quick tap — between r, l and d"
+        },
+        {
+          "char": "ɕ",
+          "ipa": "私 [ɰataɕi]",
+          "note": "soft sh, tongue flat"
+        },
+        {
+          "char": "tɕ",
+          "ipa": "友達 [tomodatɕi]",
+          "note": "soft ch"
+        },
+        {
+          "char": "dʑ",
+          "ipa": "時間 [dʑikaɴ]",
+          "note": "soft j"
+        },
+        {
+          "char": "ç",
+          "ipa": "人 [çi̥toꜜ]",
+          "note": "h before i — like a whispered y (German ich)"
+        },
+        {
+          "char": "ɸ",
+          "ipa": "お風呂 [oɸɯꜜɾo]",
+          "note": "f blown through both lips, no teeth"
+        },
+        {
+          "char": "ɰ",
+          "ipa": "電話 [deɴɰa]",
+          "note": "w without rounding the lips"
+        },
+        {
+          "char": "ʲ",
+          "ipa": "両親 [ɾʲoꜜːɕiɴ]",
+          "note": "a y-sound blended into the consonant"
+        },
+        {
+          "char": "j",
+          "ipa": "夜 [joꜜɾɯ]",
+          "note": "y as in yes"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "学校 [ɡakkoː]",
+          "note": "always a hard g, as in go"
+        }
+      ]
+    },
+    {
+      "heading": "Hiragana",
+      "items": [
+        {
+          "char": "あ",
+          "ipa": "[a]",
+          "note": "a"
+        },
+        {
+          "char": "い",
+          "ipa": "[i]",
+          "note": "i"
+        },
+        {
+          "char": "う",
+          "ipa": "[ɯ]",
+          "note": "u"
+        },
+        {
+          "char": "え",
+          "ipa": "[e]",
+          "note": "e"
+        },
+        {
+          "char": "お",
+          "ipa": "[o]",
+          "note": "o"
+        },
+        {
+          "char": "か",
+          "ipa": "[ka]",
+          "note": "ka"
+        },
+        {
+          "char": "き",
+          "ipa": "[ki]",
+          "note": "ki"
+        },
+        {
+          "char": "く",
+          "ipa": "[kɯ]",
+          "note": "ku"
+        },
+        {
+          "char": "け",
+          "ipa": "[ke]",
+          "note": "ke"
+        },
+        {
+          "char": "こ",
+          "ipa": "[ko]",
+          "note": "ko"
+        },
+        {
+          "char": "さ",
+          "ipa": "[sa]",
+          "note": "sa"
+        },
+        {
+          "char": "し",
+          "ipa": "[ɕi]",
+          "note": "shi"
+        },
+        {
+          "char": "す",
+          "ipa": "[sɯ]",
+          "note": "su"
+        },
+        {
+          "char": "せ",
+          "ipa": "[se]",
+          "note": "se"
+        },
+        {
+          "char": "そ",
+          "ipa": "[so]",
+          "note": "so"
+        },
+        {
+          "char": "た",
+          "ipa": "[ta]",
+          "note": "ta"
+        },
+        {
+          "char": "ち",
+          "ipa": "[tɕi]",
+          "note": "chi"
+        },
+        {
+          "char": "つ",
+          "ipa": "[tsɯ]",
+          "note": "tsu"
+        },
+        {
+          "char": "て",
+          "ipa": "[te]",
+          "note": "te"
+        },
+        {
+          "char": "と",
+          "ipa": "[to]",
+          "note": "to"
+        },
+        {
+          "char": "な",
+          "ipa": "[na]",
+          "note": "na"
+        },
+        {
+          "char": "に",
+          "ipa": "[ɲi]",
+          "note": "ni"
+        },
+        {
+          "char": "ぬ",
+          "ipa": "[nɯ]",
+          "note": "nu"
+        },
+        {
+          "char": "ね",
+          "ipa": "[ne]",
+          "note": "ne"
+        },
+        {
+          "char": "の",
+          "ipa": "[no]",
+          "note": "no"
+        },
+        {
+          "char": "は",
+          "ipa": "[ha]",
+          "note": "ha — wa as the topic particle"
+        },
+        {
+          "char": "ひ",
+          "ipa": "[çi]",
+          "note": "hi"
+        },
+        {
+          "char": "ふ",
+          "ipa": "[ɸɯ]",
+          "note": "fu"
+        },
+        {
+          "char": "へ",
+          "ipa": "[he]",
+          "note": "he — e as the direction particle"
+        },
+        {
+          "char": "ほ",
+          "ipa": "[ho]",
+          "note": "ho"
+        },
+        {
+          "char": "ま",
+          "ipa": "[ma]",
+          "note": "ma"
+        },
+        {
+          "char": "み",
+          "ipa": "[mi]",
+          "note": "mi"
+        },
+        {
+          "char": "む",
+          "ipa": "[mɯ]",
+          "note": "mu"
+        },
+        {
+          "char": "め",
+          "ipa": "[me]",
+          "note": "me"
+        },
+        {
+          "char": "も",
+          "ipa": "[mo]",
+          "note": "mo"
+        },
+        {
+          "char": "や",
+          "ipa": "[ja]",
+          "note": "ya"
+        },
+        {
+          "char": "ゆ",
+          "ipa": "[jɯ]",
+          "note": "yu"
+        },
+        {
+          "char": "よ",
+          "ipa": "[jo]",
+          "note": "yo"
+        },
+        {
+          "char": "ら",
+          "ipa": "[ɾa]",
+          "note": "ra"
+        },
+        {
+          "char": "り",
+          "ipa": "[ɾi]",
+          "note": "ri"
+        },
+        {
+          "char": "る",
+          "ipa": "[ɾɯ]",
+          "note": "ru"
+        },
+        {
+          "char": "れ",
+          "ipa": "[ɾe]",
+          "note": "re"
+        },
+        {
+          "char": "ろ",
+          "ipa": "[ɾo]",
+          "note": "ro"
+        },
+        {
+          "char": "わ",
+          "ipa": "[ɰa]",
+          "note": "wa"
+        },
+        {
+          "char": "を",
+          "ipa": "[o]",
+          "note": "o — only used as the object particle"
+        },
+        {
+          "char": "ん",
+          "ipa": "[ɴ]",
+          "note": "n — changes with the next sound"
+        }
+      ]
+    },
+    {
+      "heading": "Hiragana — voiced sounds (゛) and p-sounds (゜)",
+      "text": "Two small marks change a sound: ゛ (dakuten) makes it voiced (か ka → が ga), and ゜ (handakuten) turns the h-row into p (は ha → ぱ pa).",
+      "items": [
+        {
+          "char": "が",
+          "ipa": "[ɡa]",
+          "note": "ga"
+        },
+        {
+          "char": "ぎ",
+          "ipa": "[ɡi]",
+          "note": "gi"
+        },
+        {
+          "char": "ぐ",
+          "ipa": "[ɡɯ]",
+          "note": "gu"
+        },
+        {
+          "char": "げ",
+          "ipa": "[ɡe]",
+          "note": "ge"
+        },
+        {
+          "char": "ご",
+          "ipa": "[ɡo]",
+          "note": "go"
+        },
+        {
+          "char": "ざ",
+          "ipa": "[za]",
+          "note": "za"
+        },
+        {
+          "char": "じ",
+          "ipa": "[dʑi]",
+          "note": "ji"
+        },
+        {
+          "char": "ず",
+          "ipa": "[zɯ]",
+          "note": "zu"
+        },
+        {
+          "char": "ぜ",
+          "ipa": "[ze]",
+          "note": "ze"
+        },
+        {
+          "char": "ぞ",
+          "ipa": "[zo]",
+          "note": "zo"
+        },
+        {
+          "char": "だ",
+          "ipa": "[da]",
+          "note": "da"
+        },
+        {
+          "char": "ぢ",
+          "ipa": "[dʑi]",
+          "note": "ji — rare; usually じ"
+        },
+        {
+          "char": "づ",
+          "ipa": "[zɯ]",
+          "note": "zu — rare; usually ず"
+        },
+        {
+          "char": "で",
+          "ipa": "[de]",
+          "note": "de"
+        },
+        {
+          "char": "ど",
+          "ipa": "[do]",
+          "note": "do"
+        },
+        {
+          "char": "ば",
+          "ipa": "[ba]",
+          "note": "ba"
+        },
+        {
+          "char": "び",
+          "ipa": "[bi]",
+          "note": "bi"
+        },
+        {
+          "char": "ぶ",
+          "ipa": "[bɯ]",
+          "note": "bu"
+        },
+        {
+          "char": "べ",
+          "ipa": "[be]",
+          "note": "be"
+        },
+        {
+          "char": "ぼ",
+          "ipa": "[bo]",
+          "note": "bo"
+        },
+        {
+          "char": "ぱ",
+          "ipa": "[pa]",
+          "note": "pa"
+        },
+        {
+          "char": "ぴ",
+          "ipa": "[pi]",
+          "note": "pi"
+        },
+        {
+          "char": "ぷ",
+          "ipa": "[pɯ]",
+          "note": "pu"
+        },
+        {
+          "char": "ぺ",
+          "ipa": "[pe]",
+          "note": "pe"
+        },
+        {
+          "char": "ぽ",
+          "ipa": "[po]",
+          "note": "po"
+        }
+      ]
+    },
+    {
+      "heading": "Hiragana — combined sounds (small ゃ ゅ ょ)",
+      "text": "A small ゃ, ゅ or ょ after an i-sound kana merges with it into one beat: き + ゃ → きゃ (kya). Compare the full-size びよういん (beauty salon) with びょういん (hospital).",
+      "items": [
+        {
+          "char": "きゃ",
+          "ipa": "[kʲa]",
+          "note": "kya"
+        },
+        {
+          "char": "きゅ",
+          "ipa": "[kʲɯ]",
+          "note": "kyu"
+        },
+        {
+          "char": "きょ",
+          "ipa": "[kʲo]",
+          "note": "kyo"
+        },
+        {
+          "char": "しゃ",
+          "ipa": "[ɕa]",
+          "note": "sha"
+        },
+        {
+          "char": "しゅ",
+          "ipa": "[ɕɯ]",
+          "note": "shu"
+        },
+        {
+          "char": "しょ",
+          "ipa": "[ɕo]",
+          "note": "sho"
+        },
+        {
+          "char": "ちゃ",
+          "ipa": "[tɕa]",
+          "note": "cha"
+        },
+        {
+          "char": "ちゅ",
+          "ipa": "[tɕɯ]",
+          "note": "chu"
+        },
+        {
+          "char": "ちょ",
+          "ipa": "[tɕo]",
+          "note": "cho"
+        },
+        {
+          "char": "にゃ",
+          "ipa": "[ɲa]",
+          "note": "nya"
+        },
+        {
+          "char": "にゅ",
+          "ipa": "[ɲɯ]",
+          "note": "nyu"
+        },
+        {
+          "char": "にょ",
+          "ipa": "[ɲo]",
+          "note": "nyo"
+        },
+        {
+          "char": "ひゃ",
+          "ipa": "[ça]",
+          "note": "hya"
+        },
+        {
+          "char": "ひゅ",
+          "ipa": "[çɯ]",
+          "note": "hyu"
+        },
+        {
+          "char": "ひょ",
+          "ipa": "[ço]",
+          "note": "hyo"
+        },
+        {
+          "char": "みゃ",
+          "ipa": "[mʲa]",
+          "note": "mya"
+        },
+        {
+          "char": "みゅ",
+          "ipa": "[mʲɯ]",
+          "note": "myu"
+        },
+        {
+          "char": "みょ",
+          "ipa": "[mʲo]",
+          "note": "myo"
+        },
+        {
+          "char": "りゃ",
+          "ipa": "[ɾʲa]",
+          "note": "rya"
+        },
+        {
+          "char": "りゅ",
+          "ipa": "[ɾʲɯ]",
+          "note": "ryu"
+        },
+        {
+          "char": "りょ",
+          "ipa": "[ɾʲo]",
+          "note": "ryo"
+        },
+        {
+          "char": "ぎゃ",
+          "ipa": "[ɡʲa]",
+          "note": "gya"
+        },
+        {
+          "char": "ぎゅ",
+          "ipa": "[ɡʲɯ]",
+          "note": "gyu"
+        },
+        {
+          "char": "ぎょ",
+          "ipa": "[ɡʲo]",
+          "note": "gyo"
+        },
+        {
+          "char": "じゃ",
+          "ipa": "[dʑa]",
+          "note": "ja"
+        },
+        {
+          "char": "じゅ",
+          "ipa": "[dʑɯ]",
+          "note": "ju"
+        },
+        {
+          "char": "じょ",
+          "ipa": "[dʑo]",
+          "note": "jo"
+        },
+        {
+          "char": "びゃ",
+          "ipa": "[bʲa]",
+          "note": "bya"
+        },
+        {
+          "char": "びゅ",
+          "ipa": "[bʲɯ]",
+          "note": "byu"
+        },
+        {
+          "char": "びょ",
+          "ipa": "[bʲo]",
+          "note": "byo"
+        },
+        {
+          "char": "ぴゃ",
+          "ipa": "[pʲa]",
+          "note": "pya"
+        },
+        {
+          "char": "ぴゅ",
+          "ipa": "[pʲɯ]",
+          "note": "pyu"
+        },
+        {
+          "char": "ぴょ",
+          "ipa": "[pʲo]",
+          "note": "pyo"
+        }
+      ]
+    },
+    {
+      "heading": "Katakana",
+      "items": [
+        {
+          "char": "ア",
+          "ipa": "[a]",
+          "note": "a"
+        },
+        {
+          "char": "イ",
+          "ipa": "[i]",
+          "note": "i"
+        },
+        {
+          "char": "ウ",
+          "ipa": "[ɯ]",
+          "note": "u"
+        },
+        {
+          "char": "エ",
+          "ipa": "[e]",
+          "note": "e"
+        },
+        {
+          "char": "オ",
+          "ipa": "[o]",
+          "note": "o"
+        },
+        {
+          "char": "カ",
+          "ipa": "[ka]",
+          "note": "ka"
+        },
+        {
+          "char": "キ",
+          "ipa": "[ki]",
+          "note": "ki"
+        },
+        {
+          "char": "ク",
+          "ipa": "[kɯ]",
+          "note": "ku"
+        },
+        {
+          "char": "ケ",
+          "ipa": "[ke]",
+          "note": "ke"
+        },
+        {
+          "char": "コ",
+          "ipa": "[ko]",
+          "note": "ko"
+        },
+        {
+          "char": "サ",
+          "ipa": "[sa]",
+          "note": "sa"
+        },
+        {
+          "char": "シ",
+          "ipa": "[ɕi]",
+          "note": "shi"
+        },
+        {
+          "char": "ス",
+          "ipa": "[sɯ]",
+          "note": "su"
+        },
+        {
+          "char": "セ",
+          "ipa": "[se]",
+          "note": "se"
+        },
+        {
+          "char": "ソ",
+          "ipa": "[so]",
+          "note": "so"
+        },
+        {
+          "char": "タ",
+          "ipa": "[ta]",
+          "note": "ta"
+        },
+        {
+          "char": "チ",
+          "ipa": "[tɕi]",
+          "note": "chi"
+        },
+        {
+          "char": "ツ",
+          "ipa": "[tsɯ]",
+          "note": "tsu"
+        },
+        {
+          "char": "テ",
+          "ipa": "[te]",
+          "note": "te"
+        },
+        {
+          "char": "ト",
+          "ipa": "[to]",
+          "note": "to"
+        },
+        {
+          "char": "ナ",
+          "ipa": "[na]",
+          "note": "na"
+        },
+        {
+          "char": "ニ",
+          "ipa": "[ɲi]",
+          "note": "ni"
+        },
+        {
+          "char": "ヌ",
+          "ipa": "[nɯ]",
+          "note": "nu"
+        },
+        {
+          "char": "ネ",
+          "ipa": "[ne]",
+          "note": "ne"
+        },
+        {
+          "char": "ノ",
+          "ipa": "[no]",
+          "note": "no"
+        },
+        {
+          "char": "ハ",
+          "ipa": "[ha]",
+          "note": "ha"
+        },
+        {
+          "char": "ヒ",
+          "ipa": "[çi]",
+          "note": "hi"
+        },
+        {
+          "char": "フ",
+          "ipa": "[ɸɯ]",
+          "note": "fu"
+        },
+        {
+          "char": "ヘ",
+          "ipa": "[he]",
+          "note": "he"
+        },
+        {
+          "char": "ホ",
+          "ipa": "[ho]",
+          "note": "ho"
+        },
+        {
+          "char": "マ",
+          "ipa": "[ma]",
+          "note": "ma"
+        },
+        {
+          "char": "ミ",
+          "ipa": "[mi]",
+          "note": "mi"
+        },
+        {
+          "char": "ム",
+          "ipa": "[mɯ]",
+          "note": "mu"
+        },
+        {
+          "char": "メ",
+          "ipa": "[me]",
+          "note": "me"
+        },
+        {
+          "char": "モ",
+          "ipa": "[mo]",
+          "note": "mo"
+        },
+        {
+          "char": "ヤ",
+          "ipa": "[ja]",
+          "note": "ya"
+        },
+        {
+          "char": "ユ",
+          "ipa": "[jɯ]",
+          "note": "yu"
+        },
+        {
+          "char": "ヨ",
+          "ipa": "[jo]",
+          "note": "yo"
+        },
+        {
+          "char": "ラ",
+          "ipa": "[ɾa]",
+          "note": "ra"
+        },
+        {
+          "char": "リ",
+          "ipa": "[ɾi]",
+          "note": "ri"
+        },
+        {
+          "char": "ル",
+          "ipa": "[ɾɯ]",
+          "note": "ru"
+        },
+        {
+          "char": "レ",
+          "ipa": "[ɾe]",
+          "note": "re"
+        },
+        {
+          "char": "ロ",
+          "ipa": "[ɾo]",
+          "note": "ro"
+        },
+        {
+          "char": "ワ",
+          "ipa": "[ɰa]",
+          "note": "wa"
+        },
+        {
+          "char": "ヲ",
+          "ipa": "[o]",
+          "note": "o — almost never used"
+        },
+        {
+          "char": "ン",
+          "ipa": "[ɴ]",
+          "note": "n — changes with the next sound"
+        }
+      ]
+    },
+    {
+      "heading": "Katakana — voiced sounds and p-sounds",
+      "items": [
+        {
+          "char": "ガ",
+          "ipa": "[ɡa]",
+          "note": "ga"
+        },
+        {
+          "char": "ギ",
+          "ipa": "[ɡi]",
+          "note": "gi"
+        },
+        {
+          "char": "グ",
+          "ipa": "[ɡɯ]",
+          "note": "gu"
+        },
+        {
+          "char": "ゲ",
+          "ipa": "[ɡe]",
+          "note": "ge"
+        },
+        {
+          "char": "ゴ",
+          "ipa": "[ɡo]",
+          "note": "go"
+        },
+        {
+          "char": "ザ",
+          "ipa": "[za]",
+          "note": "za"
+        },
+        {
+          "char": "ジ",
+          "ipa": "[dʑi]",
+          "note": "ji"
+        },
+        {
+          "char": "ズ",
+          "ipa": "[zɯ]",
+          "note": "zu"
+        },
+        {
+          "char": "ゼ",
+          "ipa": "[ze]",
+          "note": "ze"
+        },
+        {
+          "char": "ゾ",
+          "ipa": "[zo]",
+          "note": "zo"
+        },
+        {
+          "char": "ダ",
+          "ipa": "[da]",
+          "note": "da"
+        },
+        {
+          "char": "ヂ",
+          "ipa": "[dʑi]",
+          "note": "ji — rare"
+        },
+        {
+          "char": "ヅ",
+          "ipa": "[zɯ]",
+          "note": "zu — rare"
+        },
+        {
+          "char": "デ",
+          "ipa": "[de]",
+          "note": "de"
+        },
+        {
+          "char": "ド",
+          "ipa": "[do]",
+          "note": "do"
+        },
+        {
+          "char": "バ",
+          "ipa": "[ba]",
+          "note": "ba"
+        },
+        {
+          "char": "ビ",
+          "ipa": "[bi]",
+          "note": "bi"
+        },
+        {
+          "char": "ブ",
+          "ipa": "[bɯ]",
+          "note": "bu"
+        },
+        {
+          "char": "ベ",
+          "ipa": "[be]",
+          "note": "be"
+        },
+        {
+          "char": "ボ",
+          "ipa": "[bo]",
+          "note": "bo"
+        },
+        {
+          "char": "パ",
+          "ipa": "[pa]",
+          "note": "pa"
+        },
+        {
+          "char": "ピ",
+          "ipa": "[pi]",
+          "note": "pi"
+        },
+        {
+          "char": "プ",
+          "ipa": "[pɯ]",
+          "note": "pu"
+        },
+        {
+          "char": "ペ",
+          "ipa": "[pe]",
+          "note": "pe"
+        },
+        {
+          "char": "ポ",
+          "ipa": "[po]",
+          "note": "po"
+        }
+      ]
+    },
+    {
+      "heading": "Katakana — combined sounds",
+      "items": [
+        {
+          "char": "キャ",
+          "ipa": "[kʲa]",
+          "note": "kya"
+        },
+        {
+          "char": "キュ",
+          "ipa": "[kʲɯ]",
+          "note": "kyu"
+        },
+        {
+          "char": "キョ",
+          "ipa": "[kʲo]",
+          "note": "kyo"
+        },
+        {
+          "char": "シャ",
+          "ipa": "[ɕa]",
+          "note": "sha"
+        },
+        {
+          "char": "シュ",
+          "ipa": "[ɕɯ]",
+          "note": "shu"
+        },
+        {
+          "char": "ショ",
+          "ipa": "[ɕo]",
+          "note": "sho"
+        },
+        {
+          "char": "チャ",
+          "ipa": "[tɕa]",
+          "note": "cha"
+        },
+        {
+          "char": "チュ",
+          "ipa": "[tɕɯ]",
+          "note": "chu"
+        },
+        {
+          "char": "チョ",
+          "ipa": "[tɕo]",
+          "note": "cho"
+        },
+        {
+          "char": "ニャ",
+          "ipa": "[ɲa]",
+          "note": "nya"
+        },
+        {
+          "char": "ニュ",
+          "ipa": "[ɲɯ]",
+          "note": "nyu"
+        },
+        {
+          "char": "ニョ",
+          "ipa": "[ɲo]",
+          "note": "nyo"
+        },
+        {
+          "char": "ヒャ",
+          "ipa": "[ça]",
+          "note": "hya"
+        },
+        {
+          "char": "ヒュ",
+          "ipa": "[çɯ]",
+          "note": "hyu"
+        },
+        {
+          "char": "ヒョ",
+          "ipa": "[ço]",
+          "note": "hyo"
+        },
+        {
+          "char": "ミャ",
+          "ipa": "[mʲa]",
+          "note": "mya"
+        },
+        {
+          "char": "ミュ",
+          "ipa": "[mʲɯ]",
+          "note": "myu"
+        },
+        {
+          "char": "ミョ",
+          "ipa": "[mʲo]",
+          "note": "myo"
+        },
+        {
+          "char": "リャ",
+          "ipa": "[ɾʲa]",
+          "note": "rya"
+        },
+        {
+          "char": "リュ",
+          "ipa": "[ɾʲɯ]",
+          "note": "ryu"
+        },
+        {
+          "char": "リョ",
+          "ipa": "[ɾʲo]",
+          "note": "ryo"
+        },
+        {
+          "char": "ギャ",
+          "ipa": "[ɡʲa]",
+          "note": "gya"
+        },
+        {
+          "char": "ギュ",
+          "ipa": "[ɡʲɯ]",
+          "note": "gyu"
+        },
+        {
+          "char": "ギョ",
+          "ipa": "[ɡʲo]",
+          "note": "gyo"
+        },
+        {
+          "char": "ジャ",
+          "ipa": "[dʑa]",
+          "note": "ja"
+        },
+        {
+          "char": "ジュ",
+          "ipa": "[dʑɯ]",
+          "note": "ju"
+        },
+        {
+          "char": "ジョ",
+          "ipa": "[dʑo]",
+          "note": "jo"
+        },
+        {
+          "char": "ビャ",
+          "ipa": "[bʲa]",
+          "note": "bya"
+        },
+        {
+          "char": "ビュ",
+          "ipa": "[bʲɯ]",
+          "note": "byu"
+        },
+        {
+          "char": "ビョ",
+          "ipa": "[bʲo]",
+          "note": "byo"
+        },
+        {
+          "char": "ピャ",
+          "ipa": "[pʲa]",
+          "note": "pya"
+        },
+        {
+          "char": "ピュ",
+          "ipa": "[pʲɯ]",
+          "note": "pyu"
+        },
+        {
+          "char": "ピョ",
+          "ipa": "[pʲo]",
+          "note": "pyo"
+        }
+      ]
+    },
+    {
+      "heading": "Katakana — extra combinations for borrowed words",
+      "text": "Katakana uses some extra small-vowel combinations to write sounds Japanese doesn't otherwise have.",
+      "items": [
+        {
+          "char": "ファ",
+          "ipa": "[ɸa]",
+          "note": "fa"
+        },
+        {
+          "char": "フィ",
+          "ipa": "[ɸi]",
+          "note": "fi"
+        },
+        {
+          "char": "フェ",
+          "ipa": "[ɸe]",
+          "note": "fe"
+        },
+        {
+          "char": "フォ",
+          "ipa": "[ɸo]",
+          "note": "fo"
+        },
+        {
+          "char": "ティ",
+          "ipa": "[ti]",
+          "note": "ti"
+        },
+        {
+          "char": "ディ",
+          "ipa": "[di]",
+          "note": "di"
+        },
+        {
+          "char": "トゥ",
+          "ipa": "[tɯ]",
+          "note": "tu"
+        },
+        {
+          "char": "ウィ",
+          "ipa": "[ɰi]",
+          "note": "wi"
+        },
+        {
+          "char": "ウェ",
+          "ipa": "[ɰe]",
+          "note": "we"
+        },
+        {
+          "char": "ウォ",
+          "ipa": "[ɰo]",
+          "note": "wo"
+        },
+        {
+          "char": "シェ",
+          "ipa": "[ɕe]",
+          "note": "she"
+        },
+        {
+          "char": "ジェ",
+          "ipa": "[dʑe]",
+          "note": "je"
+        },
+        {
+          "char": "チェ",
+          "ipa": "[tɕe]",
+          "note": "che"
+        },
+        {
+          "char": "ヴ",
+          "ipa": "[bɯ]",
+          "note": "vu (usually said bu)"
+        }
+      ]
+    },
+    {
+      "heading": "Long vowels and double consonants",
+      "text": [
+        "Long vowels count as two beats. In hiragana, add a vowel kana: おかあさん (okaasan), おにいさん, すうがく. Long e is usually written えい and long o usually おう: せんせい [seɴseː], ありがとう [aɾiɡatoː]. In katakana, use the bar ー: コーヒー [koːçiː].",
+        "A small っ (or ッ) doubles the next consonant — you hold it for a beat before releasing: きって (kitte, stamp) vs きて (kite, come). In IPA it shows as a double letter: [kitte].",
+        "ん is a beat of its own. It sounds like [m] before p, b, m (さんぽ [sampo]), [n] before t, d, n (ほんと [honto]), [ŋ] before k, g (ぎんこう [ɡiŋkoː]), and [ɴ] at the end of a word (ほん [hoɴ])."
+      ]
+    },
+    {
+      "heading": "Reading the IPA in this app",
+      "text": [
+        "Pitch accent: Tokyo Japanese marks words with pitch, not stress. ꜜ shows where the pitch drops: はし [haꜜɕi] is chopsticks (high-low), はし [haɕiꜜ] is bridge (low-high, dropping on the next word). A word with no ꜜ is flat — it never drops: はな [hana], nose.",
+        "Devoiced vowels: i and u between voiceless consonants, or at the end after one, are whispered or nearly silent. The small circle shows this: です [desɯ̥] sounds like \"dess\", した [ɕi̥ta] like \"shta\".",
+        "Some letters to note: [ɯ] is an unrounded u — like \"oo\" with relaxed lips; [ɾ] is a light tap between r, l and d; [ɸ] is f made with both lips; [ɕ] and [tɕ] are softer than English sh and ch."
+      ]
+    }
+  ]
+}

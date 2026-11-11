@@ -1,0 +1,180 @@
+{
+  "scriptName": "Indonesian Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Indonesian is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Indonesian, written as exact (bracketed) IPA. Stress usually falls on the next-to-last syllable."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "c",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "j",
+          "ipa": "[dʒ]",
+          "note": "j"
+        },
+        {
+          "char": "ny",
+          "ipa": "[ɲ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ng",
+          "ipa": "[ŋ]",
+          "note": "ng as in \"sing\""
+        },
+        {
+          "char": "ngg",
+          "ipa": "[ŋɡ]",
+          "note": "ng as in \"finger\""
+        },
+        {
+          "char": "sy",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "kh",
+          "ipa": "[x]",
+          "note": "throaty, as in \"loch\""
+        },
+        {
+          "char": "final k",
+          "ipa": "[ʔ]",
+          "note": "a catch in the throat"
+        },
+        {
+          "char": "e",
+          "ipa": "[ə e]",
+          "note": "usually \"uh\", sometimes e"
+        },
+        {
+          "char": "r",
+          "ipa": "[r]",
+          "note": "rolled"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "ya [ja]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "teh [teh]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "mi [mi]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "ayo [ˈajo]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "aku [ˈaku]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "ya [ja]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "air [ˈair]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "waktu [ˈwaʔtu]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "oleh [ˈolɛh]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "ke [kə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɪ",
+          "ipa": "film [fɪlm]",
+          "note": "i, as in \"bit\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "nol [nɔl]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ʊ",
+          "ipa": "bus [bʊs]",
+          "note": "oo, as in \"book\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "pacar [ˈpatʃar]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "jam [dʒam]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "punya [ˈpuɲa]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "yang [jaŋ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʔ",
+          "ipa": "anak [ˈanaʔ]",
+          "note": "a catch in the throat, as in \"uh-oh\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "tiga [ˈtiɡa]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "aku [ˈaku]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "Mei [mei̯]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
+        }
+      ]
+    }
+  ]
+}

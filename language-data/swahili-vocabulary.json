@@ -1,0 +1,5633 @@
+{
+  "meta": {
+    "language": "Swahili",
+    "languageCode": "sw",
+    "nativeLanguage": "English",
+    "targetField": "swahili",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "7dcd8112-791f-44ed-b7bb-44b0599be61c",
+      "part-of-speech": "noun",
+      "english": "person",
+      "swahili": "mtu",
+      "plural": "watu",
+      "cefr": "A1",
+      "ipa": "[ˈm̩tu]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81626892-dc0f-4c08-b908-4dbf68ad02bb",
+      "part-of-speech": "noun",
+      "english": "man",
+      "swahili": "mwanamume",
+      "plural": "wanaume",
+      "cefr": "A1",
+      "ipa": "[mwɑnɑˈmumɛ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4e5e260-317b-4ecd-b4a0-4fe52348f0ac",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "swahili": "mwanamke",
+      "plural": "wanawake",
+      "cefr": "A1",
+      "ipa": "[mwɑˈnɑm̩kɛ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eef2ec6-e5ec-4354-af18-d06109463bb2",
+      "part-of-speech": "noun",
+      "english": "child",
+      "swahili": "mtoto",
+      "plural": "watoto",
+      "cefr": "A1",
+      "ipa": "[m̩ˈtɔtɔ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a7b1693-9c71-4aab-b852-cc51064e6006",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "swahili": "mvulana",
+      "plural": "wavulana",
+      "cefr": "A1",
+      "ipa": "[m̩vuˈlɑnɑ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8e79a44-0088-4917-8bde-8d02279613e6",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "swahili": "msichana",
+      "plural": "wasichana",
+      "cefr": "A1",
+      "ipa": "[m̩siˈtʃɑnɑ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd807a02-4094-4397-9cd1-c7ece5bcbb69",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "swahili": "mtoto mchanga",
+      "plural": "watoto wachanga",
+      "cefr": "A2",
+      "ipa": "[m̩ˈtɔtɔ m̩ˈtʃɑŋɡɑ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d23023aa-c468-40ac-a00c-df5432aaa009",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "swahili": "mama",
+      "plural": "mama",
+      "cefr": "A1",
+      "ipa": "[ˈmɑmɑ]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8de6c855-865e-47bf-b56e-4d84c38341f8",
+      "part-of-speech": "noun",
+      "english": "father",
+      "swahili": "baba",
+      "plural": "baba",
+      "cefr": "A1",
+      "ipa": "[ˈɓɑɓɑ]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b093797-90c1-4cd2-83a2-03913f45516d",
+      "part-of-speech": "noun",
+      "english": "parent",
+      "swahili": "mzazi",
+      "plural": "wazazi",
+      "cefr": "A2",
+      "ipa": "[m̩ˈzɑzi]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7afab50-c1de-4f3a-8abb-acfe3ce84cb3",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "swahili": "kaka",
+      "plural": "kaka",
+      "cefr": "A1",
+      "ipa": "[ˈkɑkɑ]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0549ff1-433b-4db9-aae2-ccfcf9d76771",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "swahili": "dada",
+      "plural": "dada",
+      "cefr": "A1",
+      "ipa": "[ˈɗɑɗɑ]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1771d039-17fa-4618-98b6-8d74b77b5fa6",
+      "part-of-speech": "noun",
+      "english": "daughter; young woman",
+      "swahili": "binti",
+      "plural": "binti",
+      "cefr": "A2",
+      "ipa": "[ˈɓinti]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94bd7e10-0057-4f2b-9cd5-98bbcf0a4111",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "swahili": "babu",
+      "plural": "babu",
+      "cefr": "A1",
+      "ipa": "[ˈɓɑɓu]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f004b6f7-f6da-45c9-9ce5-d91490e63a56",
+      "part-of-speech": "noun",
+      "english": "grandmother; madam",
+      "swahili": "bibi",
+      "plural": "bibi",
+      "cefr": "A1",
+      "ipa": "[ˈɓiɓi]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08ad7ff4-9e35-4934-9256-c7e18db3961b",
+      "part-of-speech": "noun",
+      "english": "family",
+      "swahili": "familia",
+      "plural": "familia",
+      "cefr": "A1",
+      "ipa": "[fɑˈmiliɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fecdc99-0892-48bc-9cf4-902b70cf9d06",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "swahili": "rafiki",
+      "plural": "marafiki",
+      "cefr": "A1",
+      "ipa": "[ɾɑˈfiki]",
+      "context": "class 9/10, but takes wa- agreement as a person; plural also rafiki",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "583631cf-b896-4f89-85e7-14657649c5b5",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "swahili": "mume",
+      "plural": "waume",
+      "cefr": "A1",
+      "ipa": "[ˈmumɛ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab67a57d-d88f-4187-b7de-8d2956b31bfb",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "swahili": "mke",
+      "plural": "wake",
+      "cefr": "A1",
+      "ipa": "[ˈm̩kɛ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc6fa3d5-efce-4e49-8600-28f00afc5bc8",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "swahili": "jirani",
+      "plural": "majirani",
+      "cefr": "A2",
+      "ipa": "[ʄiˈɾɑni]",
+      "context": "class 9/10, but takes wa- agreement as a person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b3176c1-c3b3-42cb-846f-82d99c4775c6",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "swahili": "mwalimu",
+      "plural": "walimu",
+      "cefr": "A1",
+      "ipa": "[mwɑˈlimu]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "831de477-d07f-411a-82f6-1bf6cf162b89",
+      "part-of-speech": "noun",
+      "english": "student, pupil",
+      "swahili": "mwanafunzi",
+      "plural": "wanafunzi",
+      "cefr": "A1",
+      "ipa": "[mwɑnɑˈfunzi]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08740a80-2d89-4e51-9540-b5530488d887",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "swahili": "daktari",
+      "plural": "madaktari",
+      "cefr": "A1",
+      "ipa": "[ɗɑkˈtɑɾi]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50429590-c1d4-4367-a331-bf95faffa324",
+      "part-of-speech": "noun",
+      "english": "name",
+      "swahili": "jina",
+      "plural": "majina",
+      "cefr": "A1",
+      "ipa": "[ˈʄinɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c447e08-5b8e-4f7e-91d6-4e0ffdb988ed",
+      "part-of-speech": "noun",
+      "english": "age",
+      "swahili": "umri",
+      "cefr": "A2",
+      "ipa": "[uˈm̩ɾi]",
+      "context": "class 11 (u-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "757bfd13-ba3a-4e10-84f4-b9fd48a8bbcc",
+      "part-of-speech": "noun",
+      "english": "time",
+      "swahili": "wakati",
+      "plural": "nyakati",
+      "cefr": "A1",
+      "ipa": "[wɑˈkɑti]",
+      "context": "class 11 (u-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b07feb7-7ffc-424e-ae0a-ee1689b9ae82",
+      "part-of-speech": "noun",
+      "english": "day",
+      "swahili": "siku",
+      "plural": "siku",
+      "cefr": "A1",
+      "ipa": "[ˈsiku]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "226d90cc-dacb-4df7-912a-9e15053c3931",
+      "part-of-speech": "noun",
+      "english": "week",
+      "swahili": "wiki",
+      "plural": "wiki",
+      "cefr": "A1",
+      "ipa": "[ˈwiki]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3d7509d-bf17-463c-82e6-914b8c8ff17c",
+      "part-of-speech": "noun",
+      "english": "month; moon",
+      "swahili": "mwezi",
+      "plural": "miezi",
+      "cefr": "A1",
+      "ipa": "[ˈmwɛzi]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84b6de48-81d8-4252-a082-3a5a0235d777",
+      "part-of-speech": "noun",
+      "english": "year",
+      "swahili": "mwaka",
+      "plural": "miaka",
+      "cefr": "A1",
+      "ipa": "[ˈmwɑkɑ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73129497-8c33-4684-a628-dd53a20e3c8e",
+      "part-of-speech": "noun",
+      "english": "hour; clock, watch; o'clock",
+      "swahili": "saa",
+      "plural": "saa",
+      "cefr": "A1",
+      "ipa": "[ˈsɑː]",
+      "context": "Swahili time counts from 6 a.m.: saa moja = 7 o'clock",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d984763a-6df6-42aa-8397-0bd711aea51e",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "swahili": "dakika",
+      "plural": "dakika",
+      "cefr": "A1",
+      "ipa": "[ɗɑˈkikɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4f4e127-c5eb-46d3-b218-209a27d1b25d",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "swahili": "asubuhi",
+      "cefr": "A1",
+      "ipa": "[ɑsuˈɓuhi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e299ccd6-3a80-41fe-8675-2f89da3717da",
+      "part-of-speech": "noun",
+      "english": "afternoon, daytime",
+      "swahili": "mchana",
+      "cefr": "A1",
+      "ipa": "[m̩ˈtʃɑnɑ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34e4eff3-669c-4335-a228-1374a3363e1f",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "swahili": "jioni",
+      "cefr": "A1",
+      "ipa": "[ʄiˈɔni]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fc5ba9c-283d-4837-9323-4da566bd0976",
+      "part-of-speech": "noun",
+      "english": "night",
+      "swahili": "usiku",
+      "cefr": "A1",
+      "ipa": "[uˈsiku]",
+      "context": "class 11 (u-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a33bccb6-44b5-449b-9386-500572043e73",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "swahili": "Jumatatu",
+      "cefr": "A1",
+      "ipa": "[ʄumɑˈtɑtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dd44e6a-2d2a-47af-82ea-faf1db84688e",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "swahili": "Jumanne",
+      "cefr": "A1",
+      "ipa": "[ʄumɑˈn̩nɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b37fb59-fcb7-4a95-a721-e60f764fbd38",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "swahili": "Jumatano",
+      "cefr": "A1",
+      "ipa": "[ʄumɑˈtɑnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e5fc525-4948-479b-ab58-a83a9ceff5e6",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "swahili": "Alhamisi",
+      "cefr": "A1",
+      "ipa": "[ɑlhɑˈmisi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0f4bd1b-5300-4d33-af3f-ef673874eb3d",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "swahili": "Ijumaa",
+      "cefr": "A1",
+      "ipa": "[iʄuˈmɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "507a2e6b-7c7b-4196-bfd0-f02dc6711420",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "swahili": "Jumamosi",
+      "cefr": "A1",
+      "ipa": "[ʄumɑˈmɔsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a811fe68-10e9-4799-99a6-eb1f7d450577",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "swahili": "Jumapili",
+      "cefr": "A1",
+      "ipa": "[ʄumɑˈpili]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "272c650e-afce-4357-bcf9-437d6f5cb535",
+      "part-of-speech": "noun",
+      "english": "January",
+      "swahili": "Januari",
+      "cefr": "A1",
+      "ipa": "[ʄɑnuˈɑɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "046f7570-eb8f-4dfa-9f46-d4212d91c143",
+      "part-of-speech": "noun",
+      "english": "February",
+      "swahili": "Februari",
+      "cefr": "A1",
+      "ipa": "[fɛɓɾuˈɑɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe67afcc-849c-43d0-a5f9-2c7789b33da2",
+      "part-of-speech": "noun",
+      "english": "March",
+      "swahili": "Machi",
+      "cefr": "A1",
+      "ipa": "[ˈmɑtʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50c86595-65a1-4fc7-ac4b-6529c741e110",
+      "part-of-speech": "noun",
+      "english": "April",
+      "swahili": "Aprili",
+      "cefr": "A1",
+      "ipa": "[ɑˈpɾili]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99066519-14d0-4f00-9bb1-a1ffa793e1f5",
+      "part-of-speech": "noun",
+      "english": "May",
+      "swahili": "Mei",
+      "cefr": "A1",
+      "ipa": "[ˈmɛi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6708cb4-225a-4422-8923-2fc546b88b9a",
+      "part-of-speech": "noun",
+      "english": "June",
+      "swahili": "Juni",
+      "cefr": "A1",
+      "ipa": "[ˈʄuni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27514b36-0483-495b-95b7-458cfaacb4fe",
+      "part-of-speech": "noun",
+      "english": "July",
+      "swahili": "Julai",
+      "cefr": "A1",
+      "ipa": "[ʄuˈlɑi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7342dd4a-4666-49da-9cda-ba0a1e42f6aa",
+      "part-of-speech": "noun",
+      "english": "August",
+      "swahili": "Agosti",
+      "cefr": "A1",
+      "ipa": "[ɑˈɠɔsti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14d65b0b-ee97-4324-b283-5993cda0a105",
+      "part-of-speech": "noun",
+      "english": "September",
+      "swahili": "Septemba",
+      "cefr": "A1",
+      "ipa": "[sɛpˈtɛmbɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89e0e49c-c68e-46b3-ac6e-baa59747fa45",
+      "part-of-speech": "noun",
+      "english": "October",
+      "swahili": "Oktoba",
+      "cefr": "A1",
+      "ipa": "[ɔkˈtɔɓɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2737ccd5-3c9e-4c90-bcea-152702d9006f",
+      "part-of-speech": "noun",
+      "english": "November",
+      "swahili": "Novemba",
+      "cefr": "A1",
+      "ipa": "[nɔˈvɛmbɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20b1b0d2-1905-4b65-8aa0-3de969b1f789",
+      "part-of-speech": "noun",
+      "english": "December",
+      "swahili": "Desemba",
+      "cefr": "A1",
+      "ipa": "[ɗɛˈsɛmbɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a91e280-19cb-41e6-a57f-39289b556a40",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "swahili": "siku ya kuzaliwa",
+      "cefr": "A1",
+      "ipa": "[ˈsiku jɑ kuzɑˈliwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfd100bc-ebb6-4949-a28a-c172734184d8",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "swahili": "likizo",
+      "plural": "likizo",
+      "cefr": "A1",
+      "ipa": "[liˈkizɔ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cd7b225-9437-45d1-9478-33fa4ddf388d",
+      "part-of-speech": "noun",
+      "english": "celebration, party",
+      "swahili": "sherehe",
+      "plural": "sherehe",
+      "cefr": "A2",
+      "ipa": "[ʃɛˈɾɛhɛ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd2252aa-038c-4ed1-b008-556f8473f6b0",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "swahili": "zawadi",
+      "plural": "zawadi",
+      "cefr": "A2",
+      "ipa": "[zɑˈwɑɗi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f58428e9-f84d-4775-b89d-a0cb09538c16",
+      "part-of-speech": "noun",
+      "english": "house",
+      "swahili": "nyumba",
+      "plural": "nyumba",
+      "cefr": "A1",
+      "ipa": "[ˈɲumbɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5637016-49a8-4f24-a77d-df7b3bcc2286",
+      "part-of-speech": "noun",
+      "english": "home, at home",
+      "swahili": "nyumbani",
+      "cefr": "A1",
+      "ipa": "[ɲuˈmbɑni]",
+      "context": "nyumba + -ni (at)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd7e046a-6d11-4677-b85b-8f086a6a3f57",
+      "part-of-speech": "noun",
+      "english": "room",
+      "swahili": "chumba",
+      "plural": "vyumba",
+      "cefr": "A1",
+      "ipa": "[ˈtʃumbɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78bf5161-b1df-42be-963b-7213437f8a7b",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "swahili": "chumba cha kulala",
+      "plural": "vyumba vya kulala",
+      "cefr": "A1",
+      "ipa": "[ˈtʃumbɑ tʃɑ kuˈlɑlɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7eb5e5cd-9c46-4f82-b1fe-64b21e46779a",
+      "part-of-speech": "noun",
+      "english": "kitchen; stove",
+      "swahili": "jiko",
+      "plural": "majiko",
+      "cefr": "A1",
+      "ipa": "[ˈʄikɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5accea0e-da86-4d52-a39d-05caabfd8506",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "swahili": "choo",
+      "plural": "vyoo",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɔː]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "847a8659-ae00-4263-93c8-0705f8e59910",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "swahili": "bafu",
+      "plural": "mabafu",
+      "cefr": "A1",
+      "ipa": "[ˈɓɑfu]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "902d436b-1c84-4c2a-9625-d2c38879a5d7",
+      "part-of-speech": "noun",
+      "english": "door",
+      "swahili": "mlango",
+      "plural": "milango",
+      "cefr": "A1",
+      "ipa": "[m̩ˈlɑŋɡɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c20d785-c236-4aea-af34-e60c08c81271",
+      "part-of-speech": "noun",
+      "english": "window",
+      "swahili": "dirisha",
+      "plural": "madirisha",
+      "cefr": "A1",
+      "ipa": "[ɗiˈɾiʃɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6a5edca-bbdd-43c3-829f-a7808ad72179",
+      "part-of-speech": "noun",
+      "english": "table",
+      "swahili": "meza",
+      "plural": "meza",
+      "cefr": "A1",
+      "ipa": "[ˈmɛzɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01f32284-82c4-414e-a4a7-ea62c11d8e3b",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "swahili": "kiti",
+      "plural": "viti",
+      "cefr": "A1",
+      "ipa": "[ˈkiti]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9ab0b41-2891-4088-880d-937203160458",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "swahili": "kitanda",
+      "plural": "vitanda",
+      "cefr": "A1",
+      "ipa": "[kiˈtɑndɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07f52800-1620-484c-8218-7b9783e951b8",
+      "part-of-speech": "noun",
+      "english": "key",
+      "swahili": "ufunguo",
+      "plural": "funguo",
+      "cefr": "A1",
+      "ipa": "[ufuˈŋɡuɔ]",
+      "context": "class 11/10 (u-/—)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9914e868-7777-429b-aaf9-34635127384a",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "swahili": "simu",
+      "plural": "simu",
+      "cefr": "A1",
+      "ipa": "[ˈsimu]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a48db208-4e8c-470a-85e3-f50fb3d2b9cc",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "swahili": "kompyuta",
+      "plural": "kompyuta",
+      "cefr": "A1",
+      "ipa": "[kɔmˈpjutɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb66d8f5-ce4a-49fb-b9c4-7a13dc6a0374",
+      "part-of-speech": "noun",
+      "english": "television",
+      "swahili": "televisheni",
+      "plural": "televisheni",
+      "cefr": "A1",
+      "ipa": "[tɛlɛviˈʃɛni]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "278b09c6-4361-4b78-b71e-a31bbc07cf58",
+      "part-of-speech": "noun",
+      "english": "food",
+      "swahili": "chakula",
+      "plural": "vyakula",
+      "cefr": "A1",
+      "ipa": "[tʃɑˈkulɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52cbd982-9bdc-4635-92de-a90680e4a7bc",
+      "part-of-speech": "noun",
+      "english": "water",
+      "swahili": "maji",
+      "cefr": "A1",
+      "ipa": "[ˈmɑʄi]",
+      "context": "class 6 (ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "282cc23d-7e12-4761-a98c-f831b2e1ecdc",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "swahili": "mkate",
+      "plural": "mikate",
+      "cefr": "A1",
+      "ipa": "[m̩ˈkɑtɛ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d8eb29d-45ce-441a-bb26-d2607baa023e",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "swahili": "chai",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɑi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4fab30c-70f9-4a45-8499-441fc9f593eb",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "swahili": "kahawa",
+      "cefr": "A1",
+      "ipa": "[kɑˈhɑwɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "453a7f26-ed09-48dc-9eb9-0b0be729abce",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "swahili": "maziwa",
+      "cefr": "A1",
+      "ipa": "[mɑˈziwɑ]",
+      "context": "class 6 (ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f7b074e-9d8c-47a9-8d1e-1ba568b03ee4",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "swahili": "juisi",
+      "cefr": "A1",
+      "ipa": "[ˈʄuisi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "618065a3-14a3-4f41-8c52-1bbb6d11dcaa",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "swahili": "bia",
+      "plural": "bia",
+      "cefr": "A1",
+      "ipa": "[ˈɓiɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bf33f74-a0ca-4749-88ba-b24226f22629",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "swahili": "nyama",
+      "cefr": "A1",
+      "ipa": "[ˈɲɑmɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "850779bc-cfa6-4a1f-9df1-be53388bff70",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "swahili": "kuku",
+      "plural": "kuku",
+      "cefr": "A1",
+      "ipa": "[ˈkuku]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9736b03-f6d9-4ca0-8bb0-9d29a72922c4",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "swahili": "samaki",
+      "plural": "samaki",
+      "cefr": "A1",
+      "ipa": "[sɑˈmɑki]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec90da43-46fc-4804-902a-eaf0d4cef997",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "swahili": "yai",
+      "plural": "mayai",
+      "cefr": "A1",
+      "ipa": "[ˈjɑi]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cd0544f-45c9-4a64-9d4f-541386027e1b",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "swahili": "mboga",
+      "plural": "mboga",
+      "cefr": "A1",
+      "ipa": "[ˈmbɔɠɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5159cbd8-c57b-428c-a386-f228f8b854eb",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "swahili": "tunda",
+      "plural": "matunda",
+      "cefr": "A1",
+      "ipa": "[ˈtundɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bdcbd23-6185-40eb-b141-faf714ceafcb",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "swahili": "ndizi",
+      "plural": "ndizi",
+      "cefr": "A1",
+      "ipa": "[ˈndizi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd3c9c92-8b94-4c2e-8d1f-2cafa5b1d5b5",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "swahili": "chungwa",
+      "plural": "machungwa",
+      "cefr": "A1",
+      "ipa": "[ˈtʃuŋɡwɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b27631f-78ab-425a-bd35-13d74dd82ee2",
+      "part-of-speech": "noun",
+      "english": "mango",
+      "swahili": "embe",
+      "plural": "maembe",
+      "cefr": "A1",
+      "ipa": "[ˈɛmbɛ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fbc3c4f-e8b7-4d38-ab72-98a623cf9efc",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "swahili": "kiazi",
+      "plural": "viazi",
+      "cefr": "A1",
+      "ipa": "[kiˈɑzi]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b12600e-4cc4-47d5-a98f-52ead38fb023",
+      "part-of-speech": "noun",
+      "english": "rice (cooked)",
+      "swahili": "wali",
+      "cefr": "A1",
+      "ipa": "[ˈwɑli]",
+      "context": "class 11 (u-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79468c10-386e-4669-880e-6d23e96772c6",
+      "part-of-speech": "noun",
+      "english": "rice (uncooked)",
+      "swahili": "mchele",
+      "cefr": "A2",
+      "ipa": "[m̩ˈtʃɛlɛ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdfec7ea-0474-44e4-a320-3c251bc40261",
+      "part-of-speech": "noun",
+      "english": "ugali (maize porridge)",
+      "swahili": "ugali",
+      "cefr": "A1",
+      "ipa": "[uˈɠɑli]",
+      "context": "class 11 (u-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dccf33da-0115-40fd-b033-88f5a848a9e0",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "swahili": "sukari",
+      "cefr": "A1",
+      "ipa": "[suˈkɑɾi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41b0889f-5c4d-4d54-81dc-e7750a2662f3",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "swahili": "chumvi",
+      "cefr": "A2",
+      "ipa": "[ˈtʃumvi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51ef84b7-ae36-48b1-ab00-306e6fe8b39e",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "swahili": "supu",
+      "cefr": "A1",
+      "ipa": "[ˈsupu]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ec175ad-2026-489b-8fb7-7d1713eb35ae",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "swahili": "keki",
+      "plural": "keki",
+      "cefr": "A2",
+      "ipa": "[ˈkɛki]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb3a2807-05da-4406-93a0-39c7168c908e",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "swahili": "kifungua kinywa",
+      "cefr": "A1",
+      "ipa": "[kifuˈŋɡuɑ ˈkiɲwɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57b40b46-6247-486c-a641-b905e995f7da",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "swahili": "chakula cha mchana",
+      "cefr": "A1",
+      "ipa": "[tʃɑˈkulɑ tʃɑ m̩ˈtʃɑnɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "138dc9e6-6b34-4ebb-8567-f2da60b8e244",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "swahili": "chakula cha jioni",
+      "cefr": "A1",
+      "ipa": "[tʃɑˈkulɑ tʃɑ ʄiˈɔni]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c0a18e9-82a2-4663-abcf-f6a2b838c2f7",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "swahili": "mgahawa",
+      "plural": "migahawa",
+      "cefr": "A1",
+      "ipa": "[m̩ɠɑˈhɑwɑ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c993aa99-03fe-45c5-baa6-b1bf87831290",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "swahili": "kikombe",
+      "plural": "vikombe",
+      "cefr": "A1",
+      "ipa": "[kiˈkɔmbɛ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d66c132-dbbb-4e5e-b110-7865514f1269",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "swahili": "glasi",
+      "plural": "glasi",
+      "cefr": "A1",
+      "ipa": "[ˈɠlɑsi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3da98e66-bf0a-434a-abb3-c560ea2aac38",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "swahili": "chupa",
+      "plural": "chupa",
+      "cefr": "A1",
+      "ipa": "[ˈtʃupɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acea863e-03fd-4ccf-b3d2-1406fe22d1f0",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "swahili": "sahani",
+      "plural": "sahani",
+      "cefr": "A2",
+      "ipa": "[sɑˈhɑni]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86c7d250-2ede-40a8-9fa7-863ecdd4c913",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "swahili": "kisu",
+      "plural": "visu",
+      "cefr": "A2",
+      "ipa": "[ˈkisu]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8a61da8-7abf-4ec8-a67d-c5742d12d1f0",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "swahili": "uma",
+      "plural": "nyuma",
+      "cefr": "A2",
+      "ipa": "[ˈumɑ]",
+      "context": "class 11/10 (u-/ny-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c432659-7920-47bc-ad18-3ad57ee653f5",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "swahili": "kijiko",
+      "plural": "vijiko",
+      "cefr": "A2",
+      "ipa": "[kiˈʄikɔ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e338db29-f26e-4d57-a4ff-48725195cb86",
+      "part-of-speech": "noun",
+      "english": "town",
+      "swahili": "mji",
+      "plural": "miji",
+      "cefr": "A1",
+      "ipa": "[ˈm̩ʄi]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6c54ba9-9786-42d0-9bd8-718a6290d3de",
+      "part-of-speech": "noun",
+      "english": "city",
+      "swahili": "jiji",
+      "plural": "majiji",
+      "cefr": "A1",
+      "ipa": "[ˈʄiʄi]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "970d2513-620b-434e-a64d-d0e3f50e8eef",
+      "part-of-speech": "noun",
+      "english": "village",
+      "swahili": "kijiji",
+      "plural": "vijiji",
+      "cefr": "A2",
+      "ipa": "[kiˈʄiʄi]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e49a909-ac2b-4a75-8ba1-4cdc19bba056",
+      "part-of-speech": "noun",
+      "english": "country",
+      "swahili": "nchi",
+      "plural": "nchi",
+      "cefr": "A1",
+      "ipa": "[ˈn̩tʃi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35b8573f-b84f-4087-bb9f-764b1eafb5db",
+      "part-of-speech": "noun",
+      "english": "road",
+      "swahili": "barabara",
+      "plural": "barabara",
+      "cefr": "A1",
+      "ipa": "[ɓɑɾɑˈɓɑɾɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29e264df-c398-4746-9b6e-decdbbb69a9f",
+      "part-of-speech": "noun",
+      "english": "street, neighbourhood",
+      "swahili": "mtaa",
+      "plural": "mitaa",
+      "cefr": "A1",
+      "ipa": "[m̩ˈtɑː]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7c9dfc3-db7a-460f-b81f-90b1b5a551ab",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "swahili": "duka",
+      "plural": "maduka",
+      "cefr": "A1",
+      "ipa": "[ˈɗukɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c656464-c1f0-4bd1-af45-1d5e7970637a",
+      "part-of-speech": "noun",
+      "english": "market",
+      "swahili": "soko",
+      "plural": "masoko",
+      "cefr": "A1",
+      "ipa": "[ˈsɔkɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4404eeb8-2e84-401f-a927-42dc6f2f24cb",
+      "part-of-speech": "noun",
+      "english": "school",
+      "swahili": "shule",
+      "plural": "shule",
+      "cefr": "A1",
+      "ipa": "[ˈʃulɛ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9e94c41-7724-4cc6-9dd5-c4a51454004c",
+      "part-of-speech": "noun",
+      "english": "office",
+      "swahili": "ofisi",
+      "plural": "ofisi",
+      "cefr": "A2",
+      "ipa": "[ɔˈfisi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "723d8bfa-a223-4d85-850c-e924ec2a2928",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "swahili": "hospitali",
+      "plural": "hospitali",
+      "cefr": "A1",
+      "ipa": "[hɔspiˈtɑli]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d5d98b7-eb41-42e4-bc60-481ca8491e2e",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "swahili": "duka la dawa",
+      "plural": "maduka ya dawa",
+      "cefr": "A2",
+      "ipa": "[ˈɗukɑ lɑ ˈɗɑwɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8322bff-b3c1-4a49-ae22-e70e5c9fda1f",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "swahili": "benki",
+      "plural": "benki",
+      "cefr": "A1",
+      "ipa": "[ˈɓɛŋki]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b81e143-0b04-43b5-9524-5c9dfbc68e95",
+      "part-of-speech": "noun",
+      "english": "church",
+      "swahili": "kanisa",
+      "plural": "makanisa",
+      "cefr": "A2",
+      "ipa": "[kɑˈnisɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d29a82f5-0880-4d14-a4d9-c8815aab3232",
+      "part-of-speech": "noun",
+      "english": "mosque",
+      "swahili": "msikiti",
+      "plural": "misikiti",
+      "cefr": "A2",
+      "ipa": "[m̩siˈkiti]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9762ce5a-7d1c-45be-8ca5-4a56a0d30d38",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "swahili": "hoteli",
+      "plural": "hoteli",
+      "cefr": "A1",
+      "ipa": "[hɔˈtɛli]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a27215e1-57e7-4dfd-802c-ddc4f984a374",
+      "part-of-speech": "noun",
+      "english": "station, stop",
+      "swahili": "kituo",
+      "plural": "vituo",
+      "cefr": "A1",
+      "ipa": "[kiˈtuɔ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccc72be5-30b0-4072-98ad-443261a027c8",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "swahili": "uwanja wa ndege",
+      "plural": "viwanja vya ndege",
+      "cefr": "A1",
+      "ipa": "[uˈwɑɲɟɑ wɑ ˈndɛɠɛ]",
+      "context": "class 11/8 (u-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37b70d3a-3121-4b06-a6af-0961283e0b6f",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "swahili": "basi",
+      "plural": "mabasi",
+      "cefr": "A1",
+      "ipa": "[ˈɓɑsi]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51ae0e27-edd3-4f2a-b536-3a8c7e23166a",
+      "part-of-speech": "noun",
+      "english": "minibus (public transport)",
+      "swahili": "daladala",
+      "plural": "daladala",
+      "cefr": "A2",
+      "ipa": "[ɗɑlɑˈɗɑlɑ]",
+      "context": "class 9/10 (same form in the plural); the word used in Tanzania (in Kenya: matatu)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5dac607-4cae-428b-b3c9-5f7d78747e99",
+      "part-of-speech": "noun",
+      "english": "train",
+      "swahili": "treni",
+      "plural": "treni",
+      "cefr": "A1",
+      "ipa": "[ˈtɾɛni]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32e00efa-a7e6-4480-aa1a-406128464857",
+      "part-of-speech": "noun",
+      "english": "car",
+      "swahili": "gari",
+      "plural": "magari",
+      "cefr": "A1",
+      "ipa": "[ˈɠɑɾi]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb663703-09bd-44c2-868e-55929f9b1477",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "swahili": "baiskeli",
+      "plural": "baiskeli",
+      "cefr": "A1",
+      "ipa": "[ɓɑisˈkɛli]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3853fbfb-f8a7-4fa3-8351-0863750b6935",
+      "part-of-speech": "noun",
+      "english": "aeroplane; bird",
+      "swahili": "ndege",
+      "plural": "ndege",
+      "cefr": "A1",
+      "ipa": "[ˈndɛɠɛ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3316cdd-e2b6-4ae4-93ad-8861853ba718",
+      "part-of-speech": "noun",
+      "english": "ship",
+      "swahili": "meli",
+      "plural": "meli",
+      "cefr": "A2",
+      "ipa": "[ˈmɛli]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "827079a6-dc51-4298-ba8f-f30be16c7be4",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "swahili": "tiketi",
+      "plural": "tiketi",
+      "cefr": "A1",
+      "ipa": "[tiˈkɛti]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "243b3dc9-6d8d-466e-a8dd-ea4b33ce2f56",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "swahili": "safari",
+      "plural": "safari",
+      "cefr": "A1",
+      "ipa": "[sɑˈfɑɾi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a83483fd-1966-4dce-8219-4175c4650281",
+      "part-of-speech": "noun",
+      "english": "sea, ocean",
+      "swahili": "bahari",
+      "plural": "bahari",
+      "cefr": "A1",
+      "ipa": "[ɓɑˈhɑɾi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d891a4b-f511-4f54-836d-4c2c961d929b",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "swahili": "ufukwe",
+      "plural": "fukwe",
+      "cefr": "A1",
+      "ipa": "[uˈfukwɛ]",
+      "context": "class 11/10 (u-/—)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21286059-aa79-4b26-9558-00dc94e5836b",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "swahili": "mlima",
+      "plural": "milima",
+      "cefr": "A1",
+      "ipa": "[m̩ˈlimɑ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dde4033e-2178-4646-a10b-5a58f10b88c0",
+      "part-of-speech": "noun",
+      "english": "river",
+      "swahili": "mto",
+      "plural": "mito",
+      "cefr": "A2",
+      "ipa": "[ˈm̩tɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac312034-56f9-48b2-b837-36b63a4fa206",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "swahili": "ziwa",
+      "plural": "maziwa",
+      "cefr": "A2",
+      "ipa": "[ˈziwɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b1abd4f-dd1f-496f-80c7-e06f49154f94",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "swahili": "mti",
+      "plural": "miti",
+      "cefr": "A1",
+      "ipa": "[ˈm̩ti]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb9376fe-89b1-452a-aa89-5d6811750bfb",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "swahili": "ua",
+      "plural": "maua",
+      "cefr": "A1",
+      "ipa": "[ˈuɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "187f0989-8c07-43d2-9243-5be96fa4f929",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "swahili": "mnyama",
+      "plural": "wanyama",
+      "cefr": "A1",
+      "ipa": "[m̩ˈɲɑmɑ]",
+      "context": "class 1/2 (m-/wa-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a646ea2e-b1db-493a-9259-a0505c77d4e9",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "swahili": "mbwa",
+      "plural": "mbwa",
+      "cefr": "A1",
+      "ipa": "[ˈmbwɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95807f76-fb45-425c-b065-b24d71516076",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "swahili": "paka",
+      "plural": "paka",
+      "cefr": "A1",
+      "ipa": "[ˈpɑkɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28d3bf8c-bf36-4b41-bb30-97a357af14fd",
+      "part-of-speech": "noun",
+      "english": "lion",
+      "swahili": "simba",
+      "plural": "simba",
+      "cefr": "A1",
+      "ipa": "[ˈsimbɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fc257fd-91a6-450a-9167-753800a951ee",
+      "part-of-speech": "noun",
+      "english": "elephant",
+      "swahili": "tembo",
+      "plural": "tembo",
+      "cefr": "A2",
+      "ipa": "[ˈtɛmbɔ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e5ab232-d177-40c9-8a81-9906a91a120e",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "swahili": "hali ya hewa",
+      "cefr": "A1",
+      "ipa": "[ˈhɑli jɑ ˈhɛwɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfb608ba-9a29-4a3d-8d5e-fa3bae29375d",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "swahili": "jua",
+      "cefr": "A1",
+      "ipa": "[ˈʄuɑ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c85e8752-1360-471d-bcbc-78e2c30cae6e",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "swahili": "mvua",
+      "cefr": "A1",
+      "ipa": "[ˈm̩vuɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "178d2f72-c7f6-4c28-99f3-bfa5c8254c76",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "swahili": "upepo",
+      "plural": "pepo",
+      "cefr": "A2",
+      "ipa": "[uˈpɛpɔ]",
+      "context": "class 11/10 (u-/—)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf273bd6-19ce-49fd-85b0-b098a92a4086",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "swahili": "anga",
+      "cefr": "A2",
+      "ipa": "[ˈɑŋɡɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bcb4e228-81d7-4c56-af22-6a661dd0cbc9",
+      "part-of-speech": "noun",
+      "english": "world",
+      "swahili": "dunia",
+      "cefr": "A2",
+      "ipa": "[ɗuˈniɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bc75dd2-44e4-4bd8-a896-bfc1fba618e1",
+      "part-of-speech": "noun",
+      "english": "body",
+      "swahili": "mwili",
+      "plural": "miili",
+      "cefr": "A2",
+      "ipa": "[ˈmwili]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d5fe358-926c-48f8-9f35-e2e4098e7ec8",
+      "part-of-speech": "noun",
+      "english": "head",
+      "swahili": "kichwa",
+      "plural": "vichwa",
+      "cefr": "A1",
+      "ipa": "[ˈkitʃwɑ]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b006ebae-fda7-44a5-8341-5c8758d9ac55",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "swahili": "nywele",
+      "plural": "nywele",
+      "cefr": "A1",
+      "ipa": "[ˈɲwɛlɛ]",
+      "context": "class 10 (singular: unywele, a single hair)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "226f5570-923c-44d4-b171-808b5f99a98a",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "swahili": "jicho",
+      "plural": "macho",
+      "cefr": "A1",
+      "ipa": "[ˈʄitʃɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e958284-da7c-4258-82e1-c1503f3caecb",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "swahili": "sikio",
+      "plural": "masikio",
+      "cefr": "A1",
+      "ipa": "[siˈkiɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc7d73a8-85ec-487f-a583-e48f6aeb5671",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "swahili": "pua",
+      "plural": "pua",
+      "cefr": "A1",
+      "ipa": "[ˈpuɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "670125c4-ac07-4129-9b3e-9335d300ec0d",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "swahili": "mdomo",
+      "plural": "midomo",
+      "cefr": "A1",
+      "ipa": "[m̩ˈɗɔmɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad70da5f-ae7c-407d-b776-c90a5a94c1b6",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "swahili": "jino",
+      "plural": "meno",
+      "cefr": "A2",
+      "ipa": "[ˈʄinɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "020c2006-710e-4c67-b372-575b71f41c49",
+      "part-of-speech": "noun",
+      "english": "hand, arm",
+      "swahili": "mkono",
+      "plural": "mikono",
+      "cefr": "A1",
+      "ipa": "[m̩ˈkɔnɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "248eb5e6-e07c-46fd-b17f-7802a6f1c8e7",
+      "part-of-speech": "noun",
+      "english": "leg, foot",
+      "swahili": "mguu",
+      "plural": "miguu",
+      "cefr": "A1",
+      "ipa": "[m̩ˈɠuː]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cfee75a-7e2c-4b98-bf0a-abd1f7ef2ff5",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "swahili": "tumbo",
+      "plural": "matumbo",
+      "cefr": "A2",
+      "ipa": "[ˈtumbɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b43b62ef-53de-45b2-89b5-4d576a3bda14",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "swahili": "moyo",
+      "plural": "mioyo",
+      "cefr": "A2",
+      "ipa": "[ˈmɔjɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb876865-20ab-4705-8159-8aa92345a15c",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "swahili": "dawa",
+      "plural": "dawa",
+      "cefr": "A1",
+      "ipa": "[ˈɗɑwɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f865208f-e88e-4245-ae6e-55d6c83505b3",
+      "part-of-speech": "noun",
+      "english": "clothes; cloth",
+      "swahili": "nguo",
+      "plural": "nguo",
+      "cefr": "A1",
+      "ipa": "[ˈŋɡuɔ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f48f9bb9-76a7-4c03-beb4-9a1a8c626136",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "swahili": "shati",
+      "plural": "mashati",
+      "cefr": "A1",
+      "ipa": "[ˈʃɑti]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b482e791-b0e8-46da-a9f7-3477f2a3e38b",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "swahili": "suruali",
+      "plural": "suruali",
+      "cefr": "A1",
+      "ipa": "[suɾuˈɑli]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3535ca80-ebc3-467f-8709-b8450ed8a031",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "swahili": "gauni",
+      "plural": "magauni",
+      "cefr": "A1",
+      "ipa": "[ˈɠɑuni]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0d81fb9-3ad0-448b-a1c8-391c80d3c136",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "swahili": "kiatu",
+      "plural": "viatu",
+      "cefr": "A1",
+      "ipa": "[kiˈɑtu]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb6c45f4-5982-4233-9092-93c163c6a80a",
+      "part-of-speech": "noun",
+      "english": "hat, cap",
+      "swahili": "kofia",
+      "plural": "kofia",
+      "cefr": "A2",
+      "ipa": "[kɔˈfiɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88031110-e722-4d54-bc7b-01d5e4e457c8",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "swahili": "mfuko",
+      "plural": "mifuko",
+      "cefr": "A1",
+      "ipa": "[m̩ˈfukɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6886b630-866e-4f97-9f8d-99309ab90ff8",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "swahili": "kazi",
+      "plural": "kazi",
+      "cefr": "A1",
+      "ipa": "[ˈkɑzi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ddf649f-a9fd-4a61-9315-ff30523b1843",
+      "part-of-speech": "noun",
+      "english": "money",
+      "swahili": "pesa",
+      "cefr": "A1",
+      "ipa": "[ˈpɛsɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0cf4d1aa-9c00-426f-9deb-b94f76050f65",
+      "part-of-speech": "noun",
+      "english": "shilling",
+      "swahili": "shilingi",
+      "plural": "shilingi",
+      "cefr": "A1",
+      "ipa": "[ʃiˈliŋɡi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5353b63-ba84-43b5-82d7-4930a29e7726",
+      "part-of-speech": "noun",
+      "english": "price",
+      "swahili": "bei",
+      "plural": "bei",
+      "cefr": "A1",
+      "ipa": "[ˈɓɛi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b019df3e-bfe4-4160-aa08-1531011e9970",
+      "part-of-speech": "noun",
+      "english": "book",
+      "swahili": "kitabu",
+      "plural": "vitabu",
+      "cefr": "A1",
+      "ipa": "[kiˈtɑɓu]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d84757b-b93b-4fc9-91a1-f928ddbe870a",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "swahili": "gazeti",
+      "plural": "magazeti",
+      "cefr": "A1",
+      "ipa": "[ɠɑˈzɛti]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb1f9e5f-8c9e-401a-b92b-09ceca4b1080",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "swahili": "barua",
+      "plural": "barua",
+      "cefr": "A1",
+      "ipa": "[ɓɑˈɾuɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a30bd98-6f2e-4512-aefb-ea223abe56f9",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "swahili": "kalamu",
+      "plural": "kalamu",
+      "cefr": "A1",
+      "ipa": "[kɑˈlɑmu]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "701d9adf-191a-4529-9edf-dab6767d1299",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "swahili": "karatasi",
+      "plural": "karatasi",
+      "cefr": "A1",
+      "ipa": "[kɑɾɑˈtɑsi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d81d457-bbae-4eb9-936b-398e6eac68f8",
+      "part-of-speech": "noun",
+      "english": "picture, photo",
+      "swahili": "picha",
+      "plural": "picha",
+      "cefr": "A1",
+      "ipa": "[ˈpitʃɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e181df69-d304-4557-9efa-461fa8ed5aec",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "swahili": "filamu",
+      "plural": "filamu",
+      "cefr": "A1",
+      "ipa": "[fiˈlɑmu]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0dcb75f8-13c0-4001-8aac-39bfedc7edca",
+      "part-of-speech": "noun",
+      "english": "music",
+      "swahili": "muziki",
+      "cefr": "A1",
+      "ipa": "[muˈziki]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9080d9a8-08d1-40e1-a58e-71f749108688",
+      "part-of-speech": "noun",
+      "english": "song",
+      "swahili": "wimbo",
+      "plural": "nyimbo",
+      "cefr": "A1",
+      "ipa": "[ˈwimbɔ]",
+      "context": "class 11/10 (u-/ny-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "606325f2-75fa-45a0-a22e-20e9b4eaf5f7",
+      "part-of-speech": "noun",
+      "english": "game; sport",
+      "swahili": "mchezo",
+      "plural": "michezo",
+      "cefr": "A1",
+      "ipa": "[m̩ˈtʃɛzɔ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9455a350-221b-47be-b14c-6d8c31ec4f21",
+      "part-of-speech": "noun",
+      "english": "ball; football",
+      "swahili": "mpira",
+      "plural": "mipira",
+      "cefr": "A1",
+      "ipa": "[m̩ˈpiɾɑ]",
+      "context": "class 3/4 (m-/mi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfa4eb2d-920c-41e2-ba54-fcfd26595dfc",
+      "part-of-speech": "noun",
+      "english": "language",
+      "swahili": "lugha",
+      "plural": "lugha",
+      "cefr": "A1",
+      "ipa": "[ˈluɣɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "119d6fc3-795f-407c-b93c-942762d63ae7",
+      "part-of-speech": "noun",
+      "english": "word",
+      "swahili": "neno",
+      "plural": "maneno",
+      "cefr": "A1",
+      "ipa": "[ˈnɛnɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3e5fd95-1f11-4eaf-8136-72f2f527705e",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "swahili": "sentensi",
+      "plural": "sentensi",
+      "cefr": "A2",
+      "ipa": "[sɛnˈtɛnsi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc09c876-7464-4c16-a717-2cf36f010754",
+      "part-of-speech": "noun",
+      "english": "question",
+      "swahili": "swali",
+      "plural": "maswali",
+      "cefr": "A1",
+      "ipa": "[ˈswɑli]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4c0038d-1e8d-4457-9982-2340a9f4f13e",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "swahili": "jibu",
+      "plural": "majibu",
+      "cefr": "A1",
+      "ipa": "[ˈʄiɓu]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4860b08-0ea2-4b3b-afca-88165cec13ae",
+      "part-of-speech": "noun",
+      "english": "lesson; subject",
+      "swahili": "somo",
+      "plural": "masomo",
+      "cefr": "A1",
+      "ipa": "[ˈsɔmɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6b50ce2-7a09-4cae-9fa7-16798b63287d",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "swahili": "rangi",
+      "plural": "rangi",
+      "cefr": "A1",
+      "ipa": "[ˈɾɑŋɡi]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b052cd6-afd1-4e70-9087-47f6508804c8",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "swahili": "tatizo",
+      "plural": "matatizo",
+      "cefr": "A2",
+      "ipa": "[tɑˈtizɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7547510c-56af-4b27-bc78-2f96a0cba3d1",
+      "part-of-speech": "noun",
+      "english": "idea, thought",
+      "swahili": "wazo",
+      "plural": "mawazo",
+      "cefr": "A2",
+      "ipa": "[ˈwɑzɔ]",
+      "context": "class 5/6 (ji-/ma-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e662ac05-4c7d-4cdd-a8a1-29ffcdf15467",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "swahili": "kitu",
+      "plural": "vitu",
+      "cefr": "A1",
+      "ipa": "[ˈkitu]",
+      "context": "class 7/8 (ki-/vi-)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eda3575f-ca32-4eeb-a3a8-bbd77847294f",
+      "part-of-speech": "noun",
+      "english": "number",
+      "swahili": "namba",
+      "plural": "namba",
+      "cefr": "A1",
+      "ipa": "[ˈnɑmbɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2da79f67-b2db-4994-b058-81db48aafb0f",
+      "part-of-speech": "noun",
+      "english": "address",
+      "swahili": "anwani",
+      "plural": "anwani",
+      "cefr": "A2",
+      "ipa": "[ɑnˈwɑni]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3f49d57-8ac0-4d45-8dcc-6806de2dd603",
+      "part-of-speech": "noun",
+      "english": "hunger",
+      "swahili": "njaa",
+      "cefr": "A1",
+      "ipa": "[ˈɲɟɑː]",
+      "context": "nina njaa: I'm hungry",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bbfcb85-eaeb-4cd5-a530-d70b6456da35",
+      "part-of-speech": "noun",
+      "english": "thirst",
+      "swahili": "kiu",
+      "cefr": "A1",
+      "ipa": "[ˈkiu]",
+      "context": "nina kiu: I'm thirsty",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71cee964-6330-4575-8edc-66ab05393a1c",
+      "part-of-speech": "noun",
+      "english": "happiness, joy",
+      "swahili": "furaha",
+      "cefr": "A2",
+      "ipa": "[fuˈɾɑhɑ]",
+      "context": "class 9/10 (same form in the plural)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7870eb6b-5cef-4b25-aac9-159f543106a8",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "swahili": "sifuri",
+      "cefr": "A1",
+      "ipa": "[siˈfuɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7652f3b-7162-4488-b716-c0a3ab737849",
+      "part-of-speech": "noun",
+      "english": "one",
+      "swahili": "moja",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʄɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df10e347-56ff-4fae-9f61-9fafb3853669",
+      "part-of-speech": "noun",
+      "english": "two",
+      "swahili": "mbili",
+      "cefr": "A1",
+      "ipa": "[ˈmbili]",
+      "context": "with people: wawili",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17b6219e-35e5-4e5d-b651-2bb2e2cd03aa",
+      "part-of-speech": "noun",
+      "english": "three",
+      "swahili": "tatu",
+      "cefr": "A1",
+      "ipa": "[ˈtɑtu]",
+      "context": "with people: watatu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eccebff2-ccdd-4aeb-8aa3-486c0f8a7879",
+      "part-of-speech": "noun",
+      "english": "four",
+      "swahili": "nne",
+      "cefr": "A1",
+      "ipa": "[ˈn̩nɛ]",
+      "context": "with people: wanne",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec2cc3de-d7e6-4186-bd57-be0a848667c2",
+      "part-of-speech": "noun",
+      "english": "five",
+      "swahili": "tano",
+      "cefr": "A1",
+      "ipa": "[ˈtɑnɔ]",
+      "context": "with people: watano",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7f3ba34-455c-407e-905c-fbc681090eb6",
+      "part-of-speech": "noun",
+      "english": "six",
+      "swahili": "sita",
+      "cefr": "A1",
+      "ipa": "[ˈsitɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff35f7a2-c13c-43b8-9d27-c75d9ceb62fa",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "swahili": "saba",
+      "cefr": "A1",
+      "ipa": "[ˈsɑɓɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8180681e-d126-450a-baa7-75500a5f9e56",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "swahili": "nane",
+      "cefr": "A1",
+      "ipa": "[ˈnɑnɛ]",
+      "context": "with people: wanane",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08c4ff7f-86ef-4ee8-8ec6-e6f9bdb0e4f7",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "swahili": "tisa",
+      "cefr": "A1",
+      "ipa": "[ˈtisɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30022d4d-f966-4eb0-809f-329f4c344e57",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "swahili": "kumi",
+      "cefr": "A1",
+      "ipa": "[ˈkumi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0b9b20b-65cd-40f5-89b6-17f52e18f67d",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "swahili": "kumi na moja",
+      "cefr": "A1",
+      "ipa": "[ˈkumi nɑ ˈmɔʄɑ]",
+      "context": "12–19: kumi na mbili, kumi na tatu …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "548aee5b-afc9-4b35-9668-a802b0fb0b9e",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "swahili": "ishirini",
+      "cefr": "A1",
+      "ipa": "[iʃiˈɾini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f272f5b5-a974-4ecd-abdd-86c26d5be10c",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "swahili": "thelathini",
+      "cefr": "A1",
+      "ipa": "[θɛlɑˈθini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f3d0207-2d22-4596-81e8-427b81028ea3",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "swahili": "arobaini",
+      "cefr": "A1",
+      "ipa": "[ɑɾɔɓɑˈini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80f26f86-df6d-4321-9cda-d40ff0bcd878",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "swahili": "hamsini",
+      "cefr": "A1",
+      "ipa": "[hɑmˈsini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a923f2fd-7cc8-4fd9-99db-6b4f749ceced",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "swahili": "mia",
+      "cefr": "A1",
+      "ipa": "[ˈmiɑ]",
+      "context": "mia moja: one hundred",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0741841-b18a-4a97-bb6e-34a7fb8bb07f",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "swahili": "elfu",
+      "cefr": "A1",
+      "ipa": "[ˈɛlfu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ba2a2c6-6d3e-4a22-9208-827902d77400",
+      "part-of-speech": "noun",
+      "english": "million",
+      "swahili": "milioni",
+      "cefr": "A2",
+      "ipa": "[miliˈɔni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abba9750-ef04-463f-b0b3-452e0e0dd79c",
+      "part-of-speech": "verb",
+      "english": "to be; to become",
+      "swahili": "kuwa",
+      "cefr": "A1",
+      "ipa": "[ˈkuwɑ]",
+      "context": "present: ni (is, are); si (is not, are not)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "983626ee-f705-4090-aa19-f9c0e5830303",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "swahili": "kuwa na",
+      "cefr": "A1",
+      "ipa": "[ˈkuwɑ nɑ]",
+      "context": "present: nina, una, ana … (I have, you have, he/she has)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b526237b-2cea-4987-9761-c131a01e5d10",
+      "part-of-speech": "verb",
+      "english": "there is, there are",
+      "swahili": "kuna",
+      "cefr": "A1",
+      "ipa": "[ˈkunɑ]",
+      "context": "hakuna: there isn't",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2be5b1e-43a3-41f4-b3cd-72273c3cecc1",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "swahili": "kufanya",
+      "cefr": "A1",
+      "ipa": "[kuˈfɑɲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "835b4666-4c64-453f-87e5-225796ae805b",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "swahili": "kwenda",
+      "cefr": "A1",
+      "ipa": "[ˈkwɛndɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41fa1568-a35d-4e6f-a2bd-b9d73172d939",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "swahili": "kuja",
+      "cefr": "A1",
+      "ipa": "[ˈkuʄɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b063fe5-2431-4b12-bbbc-1501207ebba3",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "swahili": "kupa",
+      "cefr": "A1",
+      "ipa": "[ˈkupɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99b8da12-427c-4b99-a2cf-867a4b50a5c2",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "swahili": "kuchukua",
+      "cefr": "A1",
+      "ipa": "[kutʃuˈkuɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0093543-28ba-44e4-9a70-d38e6a8585bf",
+      "part-of-speech": "verb",
+      "english": "to get; to find",
+      "swahili": "kupata",
+      "cefr": "A1",
+      "ipa": "[kuˈpɑtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d59bea4-e4fb-4aec-91e6-e9f0f7c757c4",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "swahili": "kuona",
+      "cefr": "A1",
+      "ipa": "[kuˈɔnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4546a6f-7012-4125-bda4-632c482f6ed5",
+      "part-of-speech": "verb",
+      "english": "to look at, watch",
+      "swahili": "kuangalia",
+      "cefr": "A1",
+      "ipa": "[kuɑŋɡɑˈliɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbe3a330-5fc5-45ad-9078-21b456c28c03",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "swahili": "kusikia",
+      "cefr": "A1",
+      "ipa": "[kusiˈkiɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "235493b6-4118-4db7-ac64-3b1f945ea829",
+      "part-of-speech": "verb",
+      "english": "to listen to",
+      "swahili": "kusikiliza",
+      "cefr": "A1",
+      "ipa": "[kusikiˈlizɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5669347-1a4b-4263-829a-9fdfb551edff",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "swahili": "kujua",
+      "cefr": "A1",
+      "ipa": "[kuˈʄuɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3717eab2-606b-4e38-8aa7-18c071a01234",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "swahili": "kutaka",
+      "cefr": "A1",
+      "ipa": "[kuˈtɑkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0aa3412-7519-4e7a-bda1-b2550b88057d",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "swahili": "kuweza",
+      "cefr": "A1",
+      "ipa": "[kuˈwɛzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c34b78f0-5b02-4a84-a089-306a24c86dfc",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "swahili": "kuhitaji",
+      "cefr": "A1",
+      "ipa": "[kuhiˈtɑʄi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "135be347-d061-4353-8c63-137b826d14e0",
+      "part-of-speech": "verb",
+      "english": "to like, love",
+      "swahili": "kupenda",
+      "cefr": "A1",
+      "ipa": "[kuˈpɛndɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb431ad7-ab19-421f-bd2e-53ee63c1ec4c",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "swahili": "kula",
+      "cefr": "A1",
+      "ipa": "[ˈkulɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34dd7836-a3e7-42f4-97e3-fe0dda6fba81",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "swahili": "kunywa",
+      "cefr": "A1",
+      "ipa": "[ˈkuɲwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2aafc28d-82ba-4edb-88bb-d7b52440cae9",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "swahili": "kupika",
+      "cefr": "A1",
+      "ipa": "[kuˈpikɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9582dff-fe0b-45f6-8837-02a30c239d95",
+      "part-of-speech": "verb",
+      "english": "to say, speak",
+      "swahili": "kusema",
+      "cefr": "A1",
+      "ipa": "[kuˈsɛmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3011f741-f43d-423a-9804-2b2ac18e0a27",
+      "part-of-speech": "verb",
+      "english": "to talk, converse",
+      "swahili": "kuzungumza",
+      "cefr": "A1",
+      "ipa": "[kuzuˈŋɡumzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "835669af-5146-4df0-98e3-96c1c8a77e0d",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "swahili": "kuuliza",
+      "cefr": "A1",
+      "ipa": "[kuuˈlizɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c2167f8-584e-49d2-9ba1-da101909846c",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "swahili": "kujibu",
+      "cefr": "A1",
+      "ipa": "[kuˈʄiɓu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b6266b1-df4e-4db0-86e3-c13429d815e0",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "swahili": "kuitwa",
+      "cefr": "A1",
+      "ipa": "[kuˈitwɑ]",
+      "context": "ninaitwa …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d94536ed-f68c-4ce5-9c74-379d274bec46",
+      "part-of-speech": "verb",
+      "english": "to read; to study",
+      "swahili": "kusoma",
+      "cefr": "A1",
+      "ipa": "[kuˈsɔmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d241dce2-0fba-42e2-8c2f-55feb08bfbeb",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "swahili": "kuandika",
+      "cefr": "A1",
+      "ipa": "[kuɑnˈdikɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bb0aca2-66d3-455e-90b3-ffc080e25c69",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "swahili": "kujifunza",
+      "cefr": "A1",
+      "ipa": "[kuʄiˈfunzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4d9c5e4-715d-40f7-a17c-d382cdfd80bb",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "swahili": "kufundisha",
+      "cefr": "A2",
+      "ipa": "[kufunˈdiʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4be6296b-ae0d-4e7a-8109-4f14c792deba",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "swahili": "kuelewa",
+      "cefr": "A1",
+      "ipa": "[kuɛˈlɛwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "740978c6-b32b-4516-9858-41c6f903f897",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "swahili": "kufikiri",
+      "cefr": "A1",
+      "ipa": "[kufiˈkiɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2509c1dc-1e41-4496-b51e-c7e72e2eb1ea",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "swahili": "kutafuta",
+      "cefr": "A1",
+      "ipa": "[kutɑˈfutɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "611f3122-1765-4dbc-8e68-3139026a4b97",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "swahili": "kufanya kazi",
+      "cefr": "A1",
+      "ipa": "[kuˈfɑɲɑ ˈkɑzi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da44a1db-87f2-45f4-a3d6-e347d54780f1",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "swahili": "kuishi",
+      "cefr": "A1",
+      "ipa": "[kuˈiʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4329243-959a-493d-8811-9355cb4d21e4",
+      "part-of-speech": "verb",
+      "english": "to sleep; to lie down",
+      "swahili": "kulala",
+      "cefr": "A1",
+      "ipa": "[kuˈlɑlɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e41f2ac3-d695-4aeb-b42a-fbb6c601d9cc",
+      "part-of-speech": "verb",
+      "english": "to wake up",
+      "swahili": "kuamka",
+      "cefr": "A1",
+      "ipa": "[kuˈɑm̩kɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c6c83de-b844-4ffc-b850-d22dacdd2e85",
+      "part-of-speech": "verb",
+      "english": "to sit; to stay",
+      "swahili": "kukaa",
+      "cefr": "A1",
+      "ipa": "[kuˈkɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe422d9a-ac2d-4dbc-b315-71b1235b1b82",
+      "part-of-speech": "verb",
+      "english": "to stand; to stop",
+      "swahili": "kusimama",
+      "cefr": "A1",
+      "ipa": "[kusiˈmɑmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f57b159-7e7f-4bcf-b77b-eee6ab68429d",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "swahili": "kutembea",
+      "cefr": "A1",
+      "ipa": "[kutɛˈmbɛɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f17741aa-5b8c-41c2-90dd-7935544ddd19",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "swahili": "kukimbia",
+      "cefr": "A1",
+      "ipa": "[kukiˈmbiɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "576205ae-0595-4e01-aa4b-cefda857e76b",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "swahili": "kuogelea",
+      "cefr": "A1",
+      "ipa": "[kuɔɠɛˈlɛɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33a7c566-7765-43d3-84c0-10c1b3b99688",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "swahili": "kuendesha",
+      "cefr": "A2",
+      "ipa": "[kuɛnˈdɛʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d9c7c91-fce0-4526-9283-c3c8b64ef05e",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "swahili": "kusafiri",
+      "cefr": "A1",
+      "ipa": "[kusɑˈfiɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "379bb89f-90ac-434d-bf01-10fffdcd8e82",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "swahili": "kununua",
+      "cefr": "A1",
+      "ipa": "[kunuˈnuɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d725675b-bc49-4ded-a3bd-03a6e042340b",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "swahili": "kulipa",
+      "cefr": "A1",
+      "ipa": "[kuˈlipɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55929340-2e81-44d0-9047-ca1386396f33",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "swahili": "kuuza",
+      "cefr": "A2",
+      "ipa": "[kuˈuzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e04cb15-f023-4907-bcc1-e320c2978bfe",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "swahili": "kufungua",
+      "cefr": "A1",
+      "ipa": "[kufuˈŋɡuɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8901e964-426f-4fa4-b5e4-a5378103aa7d",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "swahili": "kufunga",
+      "cefr": "A1",
+      "ipa": "[kuˈfuŋɡɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a752832b-26f7-42c1-84d9-8a749a2a357c",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "swahili": "kusubiri",
+      "cefr": "A1",
+      "ipa": "[kusuˈɓiɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90b54e8c-c532-4572-9ce1-c588a3bd6c53",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "swahili": "kuanza",
+      "cefr": "A1",
+      "ipa": "[kuˈɑnzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a2015f3-4409-456f-baff-a95250abf5f1",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "swahili": "kumaliza",
+      "cefr": "A1",
+      "ipa": "[kumɑˈlizɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1853e140-de03-437f-9618-8a41ccc580a0",
+      "part-of-speech": "verb",
+      "english": "to play; to dance",
+      "swahili": "kucheza",
+      "cefr": "A1",
+      "ipa": "[kuˈtʃɛzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b19159ae-bbab-41fd-846a-284fdf2eb124",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "swahili": "kuosha",
+      "cefr": "A1",
+      "ipa": "[kuˈɔʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f46250ce-6b0f-4356-8e8d-817b628b104c",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "swahili": "kusaidia",
+      "cefr": "A1",
+      "ipa": "[kusɑˈiɗiɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38828046-5274-4e03-a7a5-3059a2fc65d4",
+      "part-of-speech": "verb",
+      "english": "to phone, call",
+      "swahili": "kupiga simu",
+      "cefr": "A1",
+      "ipa": "[kuˈpiɠɑ ˈsimu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e622677-9355-43c1-bb92-13cd9c27c144",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "swahili": "kuimba",
+      "cefr": "A1",
+      "ipa": "[kuˈimbɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d08bf3a2-e0f0-436b-b35d-a94749d0dbf1",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "swahili": "kutumia",
+      "cefr": "A2",
+      "ipa": "[kutuˈmiɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d26c907e-438a-445d-bad3-ed04f9085bb5",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "swahili": "kuleta",
+      "cefr": "A1",
+      "ipa": "[kuˈlɛtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d11529f-5803-4b4b-a70a-bacfd2c29662",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "swahili": "kuweka",
+      "cefr": "A1",
+      "ipa": "[kuˈwɛkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84314873-99aa-4885-8a9e-48d939911219",
+      "part-of-speech": "verb",
+      "english": "to enter, go in",
+      "swahili": "kuingia",
+      "cefr": "A1",
+      "ipa": "[kuiˈŋɡiɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e0d6064-9117-4590-ac8b-bd56842b1f13",
+      "part-of-speech": "verb",
+      "english": "to go out; to come from",
+      "swahili": "kutoka",
+      "cefr": "A1",
+      "ipa": "[kuˈtɔkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cddc01f4-6a69-4cf7-ad5d-6b241ee67794",
+      "part-of-speech": "verb",
+      "english": "to arrive",
+      "swahili": "kufika",
+      "cefr": "A1",
+      "ipa": "[kuˈfikɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dc269af-eac9-46da-941c-832f7d279f61",
+      "part-of-speech": "verb",
+      "english": "to return, come back",
+      "swahili": "kurudi",
+      "cefr": "A1",
+      "ipa": "[kuˈɾuɗi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "451b7d23-867a-4e6f-bed6-6e055c59c98e",
+      "part-of-speech": "verb",
+      "english": "to leave, depart",
+      "swahili": "kuondoka",
+      "cefr": "A1",
+      "ipa": "[kuɔnˈdɔkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3aff06b5-95d2-45a5-964f-ea274792629a",
+      "part-of-speech": "verb",
+      "english": "to be late",
+      "swahili": "kuchelewa",
+      "cefr": "A1",
+      "ipa": "[kutʃɛˈlɛwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1251f2c-c675-4805-a545-c478f3a32a2b",
+      "part-of-speech": "verb",
+      "english": "to be tired",
+      "swahili": "kuchoka",
+      "cefr": "A1",
+      "ipa": "[kuˈtʃɔkɑ]",
+      "context": "nimechoka: I'm tired",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08688acb-0d8b-4657-86c3-b279a6e0cc71",
+      "part-of-speech": "verb",
+      "english": "to be happy, glad",
+      "swahili": "kufurahi",
+      "cefr": "A1",
+      "ipa": "[kufuˈɾɑhi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0cf03ffb-1731-48d1-979b-8dc139cce624",
+      "part-of-speech": "verb",
+      "english": "to be sad",
+      "swahili": "kuhuzunika",
+      "cefr": "A2",
+      "ipa": "[kuhuzuˈnikɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26d3e121-cc8c-488b-82ab-d3847a5758c7",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "swahili": "kusahau",
+      "cefr": "A2",
+      "ipa": "[kusɑˈhɑu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "974246b5-d18a-47da-a5ae-5724f945691a",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "swahili": "kukumbuka",
+      "cefr": "A2",
+      "ipa": "[kukuˈmbukɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83c39805-6536-40c5-a9d9-ce0b8e6632f6",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "swahili": "kujaribu",
+      "cefr": "A2",
+      "ipa": "[kuʄɑˈɾiɓu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc1ff1c5-b156-4f23-9ca4-2565173be33b",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "swahili": "kubadilisha",
+      "cefr": "A2",
+      "ipa": "[kuɓɑɗiˈliʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "588cf3c0-7ece-4e91-8231-d140567bfed1",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "swahili": "kutuma",
+      "cefr": "A2",
+      "ipa": "[kuˈtumɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71de034c-3d55-4fff-b444-71ed41849d8b",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "swahili": "kupoteza",
+      "cefr": "A2",
+      "ipa": "[kupɔˈtɛzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb53a899-f617-4e14-9c0e-bf8f813b4fac",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "swahili": "kushinda",
+      "cefr": "A2",
+      "ipa": "[kuˈʃindɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c627269d-a64c-4b26-bb4d-148faba5f2c3",
+      "part-of-speech": "verb",
+      "english": "to marry (said of a man)",
+      "swahili": "kuoa",
+      "cefr": "A2",
+      "ipa": "[kuˈɔɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad5e10ec-820b-4a41-9f78-fb0beca38fe7",
+      "part-of-speech": "verb",
+      "english": "to get married (said of a woman)",
+      "swahili": "kuolewa",
+      "cefr": "A2",
+      "ipa": "[kuɔˈlɛwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "172aeab2-c820-4623-b93a-bdcc05114467",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "swahili": "kutembelea",
+      "cefr": "A2",
+      "ipa": "[kutɛmbɛˈlɛɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec4d4dfd-aaab-466f-9c19-71fc631aa26a",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "swahili": "kukutana",
+      "cefr": "A2",
+      "ipa": "[kukuˈtɑnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "021bad13-ce20-4907-ab26-468b412bb8c7",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "swahili": "kueleza",
+      "cefr": "A2",
+      "ipa": "[kuɛˈlɛzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad1e220d-be88-456f-a858-7087df4e9677",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "swahili": "kutafsiri",
+      "cefr": "A2",
+      "ipa": "[kutɑfˈsiɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "248a56ec-2229-41a3-876c-3de642e3eed0",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "swahili": "kuchagua",
+      "cefr": "A2",
+      "ipa": "[kutʃɑˈɠuɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "812ea74e-26c9-4fac-8e87-a45f00a52251",
+      "part-of-speech": "verb",
+      "english": "to wear, put on",
+      "swahili": "kuvaa",
+      "cefr": "A2",
+      "ipa": "[kuˈvɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "545771dc-cd17-4429-b566-f06384ab07c1",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "swahili": "kuhisi",
+      "cefr": "A2",
+      "ipa": "[kuˈhisi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5122c64e-6b9c-4f8b-9542-8165bb451bf9",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "swahili": "kutumaini",
+      "cefr": "A2",
+      "ipa": "[kutumɑˈini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65dc44c1-dcfc-4228-b9fc-a8eb2e73df35",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "swahili": "kuamini",
+      "cefr": "A2",
+      "ipa": "[kuɑˈmini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08f442ac-9adf-45fd-99df-f1cdf12fa2bd",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "swahili": "kucheka",
+      "cefr": "A2",
+      "ipa": "[kuˈtʃɛkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc2d3c69-3c0b-4682-91bd-89528bc98ef6",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "swahili": "kulia",
+      "cefr": "A2",
+      "ipa": "[kuˈliɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e390bcc-b786-4f00-ae99-cc6587c0598e",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "swahili": "kuanguka",
+      "cefr": "A2",
+      "ipa": "[kuɑˈŋɡukɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bc3cffc-4b3f-4536-8fe9-e385034dbf62",
+      "part-of-speech": "verb",
+      "english": "to fly; to jump",
+      "swahili": "kuruka",
+      "cefr": "A2",
+      "ipa": "[kuˈɾukɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d6a1f72-e533-4497-8c13-ee122ea02d15",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "swahili": "kukodi",
+      "cefr": "A2",
+      "ipa": "[kuˈkɔɗi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed3b0402-c5fa-436d-b55e-13a2b99c4c4d",
+      "part-of-speech": "verb",
+      "english": "to order",
+      "swahili": "kuagiza",
+      "cefr": "A2",
+      "ipa": "[kuɑˈɠizɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d86c1267-1e87-466c-9f58-976379e0e468",
+      "part-of-speech": "verb",
+      "english": "to happen",
+      "swahili": "kutokea",
+      "cefr": "A2",
+      "ipa": "[kutɔˈkɛɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49deaf93-a1eb-4c0e-93e1-b66a9aa79dec",
+      "part-of-speech": "verb",
+      "english": "to rain",
+      "swahili": "kunyesha",
+      "cefr": "A2",
+      "ipa": "[kuˈɲɛʃɑ]",
+      "context": "mvua inanyesha: it's raining",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da94c08c-6cb3-466e-9c22-588a853c3a83",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "swahili": "kuonyesha",
+      "cefr": "A2",
+      "ipa": "[kuɔˈɲɛʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6889e58d-c34f-4079-b931-2a2f2fe9e3f3",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "swahili": "kuzaliwa",
+      "cefr": "A2",
+      "ipa": "[kuzɑˈliwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f45eda8-d37a-4f38-8d08-0709f2f8cf10",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "swahili": "kufa",
+      "cefr": "A2",
+      "ipa": "[ˈkufɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0909fdc-c6df-4575-a882-bb976f1ae749",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "swahili": "kuhama",
+      "cefr": "A2",
+      "ipa": "[kuˈhɑmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a48966f9-cafb-4d3d-b949-763c9b016686",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "swahili": "kupumzika",
+      "cefr": "A2",
+      "ipa": "[kupumˈzikɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0e33781-eec1-4981-8ea7-31cc421d35e8",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "swahili": "-kubwa",
+      "cefr": "A1",
+      "ipa": "[ˈkubwɑ]",
+      "context": "takes the noun's class prefix: mtu mkubwa, kitabu kikubwa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d714b96d-cd1a-4df0-8f74-d73b6628c1c7",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "swahili": "-dogo",
+      "cefr": "A1",
+      "ipa": "[ˈɗɔɠɔ]",
+      "context": "takes the noun's class prefix: mtu mdogo, kitabu kidogo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40889994-ab9d-4e3d-9a79-93ac3776f35c",
+      "part-of-speech": "adjective",
+      "english": "good; beautiful, nice",
+      "swahili": "-zuri",
+      "cefr": "A1",
+      "ipa": "[ˈzuɾi]",
+      "context": "takes the noun's class prefix: mtu mzuri, kitabu kizuri",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a1112a4-55b9-49d3-b8aa-aed300b1735c",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "swahili": "-baya",
+      "cefr": "A1",
+      "ipa": "[ˈɓɑjɑ]",
+      "context": "takes the noun's class prefix: mtu mbaya, kitabu kibaya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e820a5e-710c-4877-97e6-f51327443979",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "swahili": "-pya",
+      "cefr": "A1",
+      "ipa": "[ˈpjɑ]",
+      "context": "takes the noun's class prefix: mtu mpya, kitabu kipya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9fbedd4-22c3-4f41-b209-b7cd9e54f4eb",
+      "part-of-speech": "adjective",
+      "english": "old (of people)",
+      "swahili": "-zee",
+      "cefr": "A1",
+      "ipa": "[ˈzɛɛ]",
+      "context": "takes the noun's class prefix: mtu mzee, kitabu kizee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e692f84d-2e26-428c-9a18-36c233c4ad88",
+      "part-of-speech": "adjective",
+      "english": "old, worn (of things)",
+      "swahili": "-kuukuu",
+      "cefr": "A2",
+      "ipa": "[kuuˈkuu]",
+      "context": "takes the noun's class prefix: mtu mkuukuu, kitabu kikuukuu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1ba6fa8-7a20-4c50-a816-c9e132cb6c03",
+      "part-of-speech": "adjective",
+      "english": "long; tall",
+      "swahili": "-refu",
+      "cefr": "A1",
+      "ipa": "[ˈɾɛfu]",
+      "context": "takes the noun's class prefix: mtu mrefu, kitabu kirefu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bc8af22-d5c4-4c16-a477-4c9cb79bcb01",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "swahili": "-fupi",
+      "cefr": "A1",
+      "ipa": "[ˈfupi]",
+      "context": "takes the noun's class prefix: mtu mfupi, kitabu kifupi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "990fa6c0-cc00-461e-aace-1b59800d6a05",
+      "part-of-speech": "adjective",
+      "english": "many, much",
+      "swahili": "-ingi",
+      "cefr": "A1",
+      "ipa": "[ˈiŋɡi]",
+      "context": "takes the noun's class prefix: mtu mingi, kitabu kiingi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcf3fb9e-9a16-466a-a998-734ca6066cc5",
+      "part-of-speech": "adjective",
+      "english": "few",
+      "swahili": "-chache",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɑtʃɛ]",
+      "context": "takes the noun's class prefix: mtu mchache, kitabu kichache",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "226e0a8b-bcd5-47d2-8e46-07db75796aee",
+      "part-of-speech": "adjective",
+      "english": "hard, difficult",
+      "swahili": "-gumu",
+      "cefr": "A1",
+      "ipa": "[ˈɠumu]",
+      "context": "takes the noun's class prefix: mtu mgumu, kitabu kigumu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9931b41e-96c4-483c-88e8-dcb585ff78d0",
+      "part-of-speech": "adjective",
+      "english": "sweet, tasty",
+      "swahili": "-tamu",
+      "cefr": "A1",
+      "ipa": "[ˈtɑmu]",
+      "context": "takes the noun's class prefix: mtu mtamu, kitabu kitamu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87be067d-04f7-4308-95bd-4583e08ade92",
+      "part-of-speech": "adjective",
+      "english": "young, immature",
+      "swahili": "-changa",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɑŋɡɑ]",
+      "context": "takes the noun's class prefix: mtu mchanga, kitabu kichanga",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16ce47c4-1897-4b74-88c2-0fda4c25dbda",
+      "part-of-speech": "adjective",
+      "english": "fat, thick",
+      "swahili": "-nene",
+      "cefr": "A2",
+      "ipa": "[ˈnɛnɛ]",
+      "context": "takes the noun's class prefix: mtu mnene, kitabu kinene",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9a80ced-d5e4-44e4-9244-e2c0716073d8",
+      "part-of-speech": "adjective",
+      "english": "thin, narrow",
+      "swahili": "-embamba",
+      "cefr": "A2",
+      "ipa": "[ɛˈmbɑmbɑ]",
+      "context": "takes the noun's class prefix: mtu membamba, kitabu kiembamba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "501f11e6-d32d-4c97-9183-a6d6d2e37ce8",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "swahili": "-zito",
+      "cefr": "A2",
+      "ipa": "[ˈzitɔ]",
+      "context": "takes the noun's class prefix: mtu mzito, kitabu kizito",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "071cb5aa-6684-4cad-959a-b4f0a6c513f1",
+      "part-of-speech": "adjective",
+      "english": "light; easy",
+      "swahili": "-epesi",
+      "cefr": "A2",
+      "ipa": "[ɛˈpɛsi]",
+      "context": "takes the noun's class prefix: mtu mepesi, kitabu kiepesi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06e23b5d-790b-4e92-86dd-617b26d8f7d2",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "swahili": "-eupe",
+      "cefr": "A1",
+      "ipa": "[ɛˈupɛ]",
+      "context": "takes the noun's class prefix: nyumba nyeupe, kitabu cheupe",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dc19e06-a69b-4a9a-baba-883c4544c3a0",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "swahili": "-eusi",
+      "cefr": "A1",
+      "ipa": "[ɛˈusi]",
+      "context": "takes the noun's class prefix: nyumba nyeusi, kitabu cheusi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cbec6d8-d916-4e47-80ef-337b24beab89",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "swahili": "-ekundu",
+      "cefr": "A1",
+      "ipa": "[ɛˈkundu]",
+      "context": "takes the noun's class prefix: nyumba nyekundu, kitabu chekundu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "390ffa59-b8dc-423a-98ff-2ccd26a3449b",
+      "part-of-speech": "adjective",
+      "english": "clean; nice, cool",
+      "swahili": "safi",
+      "cefr": "A1",
+      "ipa": "[ˈsɑfi]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e987d20-ec74-4c71-a8db-bb44d140eaf0",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "swahili": "-chafu",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɑfu]",
+      "context": "takes the noun's class prefix: mtu mchafu, kitabu kichafu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20fd180a-45f8-4b07-8031-51937ae36618",
+      "part-of-speech": "adjective",
+      "english": "easy; cheap",
+      "swahili": "rahisi",
+      "cefr": "A1",
+      "ipa": "[ɾɑˈhisi]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b94afda6-14fa-4ad5-a937-0278df935758",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "swahili": "ghali",
+      "cefr": "A1",
+      "ipa": "[ˈɣɑli]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a12e4d3c-4029-4a70-bb3e-b574fe1189aa",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "swahili": "tayari",
+      "cefr": "A1",
+      "ipa": "[tɑˈjɑɾi]",
+      "context": "invariable; also means already",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab0dbf83-4cbd-4083-9cba-b14f7bca0a64",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "swahili": "muhimu",
+      "cefr": "A2",
+      "ipa": "[muˈhimu]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e556c511-48f4-4164-89ae-6e4d291f12fd",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "swahili": "moto",
+      "cefr": "A1",
+      "ipa": "[ˈmɔtɔ]",
+      "context": "invariable; also the noun fire",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "696ea517-4639-43ea-b87f-6a3c3e970520",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "swahili": "baridi",
+      "cefr": "A1",
+      "ipa": "[ɓɑˈɾiɗi]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c90a1aa-6bf3-45c1-bbb8-0a68a568595c",
+      "part-of-speech": "adjective",
+      "english": "ill, sick (of a person)",
+      "swahili": "mgonjwa",
+      "cefr": "A1",
+      "ipa": "[m̩ˈɠɔɲɟwɑ]",
+      "context": "also a noun: patient (plural wagonjwa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f05964c-a16c-4423-939e-c4fabf8faf10",
+      "part-of-speech": "adjective",
+      "english": "same; equal",
+      "swahili": "sawa",
+      "cefr": "A1",
+      "ipa": "[ˈsɑwɑ]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "505fe19e-b97f-4446-b79e-f1f5617cc5ae",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "swahili": "tofauti",
+      "cefr": "A2",
+      "ipa": "[tɔfɑˈuti]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fb45e9c-b6e1-4fb5-8446-e45c17930036",
+      "part-of-speech": "adjective",
+      "english": "true",
+      "swahili": "kweli",
+      "cefr": "A1",
+      "ipa": "[ˈkwɛli]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffd11a68-6d15-4563-b06f-a293fb079688",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "swahili": "kijani",
+      "cefr": "A1",
+      "ipa": "[kiˈʄɑni]",
+      "context": "invariable; often rangi ya kijani",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bf0dd52-f29d-4aa9-abbe-309765484195",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "swahili": "njano",
+      "cefr": "A1",
+      "ipa": "[ˈɲɟɑnɔ]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "434e768e-98bc-4a4c-aa5f-a5a6cc7d5c2f",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "swahili": "buluu",
+      "cefr": "A1",
+      "ipa": "[ɓuˈluː]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d041de3-41ee-4083-8a65-c8a687c4159d",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "swahili": "kahawia",
+      "cefr": "A1",
+      "ipa": "[kɑhɑˈwiɑ]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "694a643d-a992-41dd-a088-5d03b2d35da7",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "swahili": "kijivu",
+      "cefr": "A1",
+      "ipa": "[kiˈʄivu]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d24b9878-ea83-4c6b-8fcf-c5c002125f96",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "swahili": "rangi ya chungwa",
+      "cefr": "A1",
+      "ipa": "[ˈɾɑŋɡi jɑ ˈtʃuŋɡwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bebb4a3c-2900-45cf-ae2a-cf07823b0ce8",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "swahili": "waridi",
+      "cefr": "A2",
+      "ipa": "[wɑˈɾiɗi]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d51b3bc-87a4-47b1-aeea-be7bb9d91f07",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "swahili": "zambarau",
+      "cefr": "A2",
+      "ipa": "[zɑmɓɑˈɾɑu]",
+      "context": "invariable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15510995-917e-4e45-b891-1210dd012174",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "swahili": "sasa",
+      "cefr": "A1",
+      "ipa": "[ˈsɑsɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cebbc749-4f6d-4209-89e9-a72b70967a35",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "swahili": "leo",
+      "cefr": "A1",
+      "ipa": "[ˈlɛɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c81f28d-3ac0-4a47-aef4-c1b30a0f00a0",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "swahili": "kesho",
+      "cefr": "A1",
+      "ipa": "[ˈkɛʃɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e885a2b5-4922-4ae1-8f2e-3ae067ccb3de",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "swahili": "jana",
+      "cefr": "A1",
+      "ipa": "[ˈʄɑnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcaf358c-0b05-407e-adbd-3e72dd963ddd",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "swahili": "hapa",
+      "cefr": "A1",
+      "ipa": "[ˈhɑpɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7de2e9d2-76a4-4c0c-b212-ae51eef4f3ab",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "swahili": "pale",
+      "cefr": "A1",
+      "ipa": "[ˈpɑlɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5da7f2a1-33ea-4cf9-a956-d824dd43b476",
+      "part-of-speech": "adverb",
+      "english": "over there",
+      "swahili": "huko",
+      "cefr": "A1",
+      "ipa": "[ˈhukɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aeb14ac-43bc-4786-ad50-322548929ed6",
+      "part-of-speech": "adverb",
+      "english": "very; a lot",
+      "swahili": "sana",
+      "cefr": "A1",
+      "ipa": "[ˈsɑnɑ]",
+      "context": "after the word: nzuri sana (very good)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa4e5605-f57c-4cc3-807a-3df98fc54f50",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "swahili": "pia",
+      "cefr": "A1",
+      "ipa": "[ˈpiɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aacc8a5d-6ac0-4675-85d1-cd2e0694007f",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "swahili": "tena",
+      "cefr": "A1",
+      "ipa": "[ˈtɛnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b60a003-961c-434a-a805-6e8275982eb5",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "swahili": "siku zote",
+      "cefr": "A1",
+      "ipa": "[ˈsiku ˈzɔtɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a377ce46-abf3-434d-a526-ea42f990a0cb",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "swahili": "kamwe",
+      "cefr": "A2",
+      "ipa": "[ˈkɑmwɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf9d4a82-f4a2-499f-8236-66c504763b32",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "swahili": "mara nyingi",
+      "cefr": "A1",
+      "ipa": "[ˈmɑɾɑ ˈɲiŋɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9e52d98-382f-4e3e-8ef9-d7604f3d383a",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "swahili": "wakati mwingine",
+      "cefr": "A1",
+      "ipa": "[wɑˈkɑti mwiˈŋɡinɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0ea3a50-0b83-40c9-a146-a8fcfa98d4f0",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "swahili": "kwa kawaida",
+      "cefr": "A2",
+      "ipa": "[kwɑ kɑwɑˈiɗɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae7cdd23-0d74-4b0b-8c54-2cd62c16ae65",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "swahili": "tayari",
+      "cefr": "A1",
+      "ipa": "[tɑˈjɑɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aade4b4e-dcdc-49df-823a-20ff77e41b51",
+      "part-of-speech": "adverb",
+      "english": "still; not yet",
+      "swahili": "bado",
+      "cefr": "A1",
+      "ipa": "[ˈɓɑɗɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f37f5f1-1f9f-4346-9502-328f99c83114",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "swahili": "pamoja",
+      "cefr": "A1",
+      "ipa": "[pɑˈmɔʄɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c860fc29-97cc-435e-a07a-5f867e77a098",
+      "part-of-speech": "adverb",
+      "english": "alone, by myself",
+      "swahili": "peke yangu",
+      "cefr": "A2",
+      "ipa": "[ˈpɛkɛ ˈjɑŋɡu]",
+      "context": "peke yako: by yourself; peke yake: by himself/herself",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c640ca2-f672-49bd-83fa-6d24b033ae15",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "swahili": "labda",
+      "cefr": "A1",
+      "ipa": "[ˈlɑɓɗɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a33ed4ad-88d3-476a-89c1-a8a0b9a88909",
+      "part-of-speech": "adverb",
+      "english": "later, afterwards",
+      "swahili": "baadaye",
+      "cefr": "A1",
+      "ipa": "[ɓɑːˈɗɑjɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39956f0e-d3fd-42f8-97e8-0d3c04175393",
+      "part-of-speech": "adverb",
+      "english": "first",
+      "swahili": "kwanza",
+      "cefr": "A1",
+      "ipa": "[ˈkwɑnzɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3e8d99e-6907-47a3-9c08-7247c7f25000",
+      "part-of-speech": "adverb",
+      "english": "then, next",
+      "swahili": "halafu",
+      "cefr": "A1",
+      "ipa": "[hɑˈlɑfu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae41a58d-b507-4b54-b522-286cf7975bb5",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "swahili": "mapema",
+      "cefr": "A1",
+      "ipa": "[mɑˈpɛmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da2bee55-a47a-4042-b459-309619d8cfa9",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "swahili": "vizuri",
+      "cefr": "A1",
+      "ipa": "[viˈzuɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fe2a54a-ad32-48cf-9317-474b3b9386ff",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "swahili": "vibaya",
+      "cefr": "A1",
+      "ipa": "[viˈɓɑjɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0ea9fc5-6bac-4b9a-8cef-2d62b13fe761",
+      "part-of-speech": "adverb",
+      "english": "only, just",
+      "swahili": "tu",
+      "cefr": "A1",
+      "ipa": "[ˈtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a84c5b6a-cf2d-421e-a179-4201e7e7fbb0",
+      "part-of-speech": "adverb",
+      "english": "near; almost",
+      "swahili": "karibu",
+      "cefr": "A1",
+      "ipa": "[kɑˈɾiɓu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45cf9bd1-43a8-4d17-a889-dff4374f6a5b",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "swahili": "mbali",
+      "cefr": "A1",
+      "ipa": "[ˈmbɑli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8f3e920-1bdb-42f4-b71d-8fbac8892ed8",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "swahili": "ndani",
+      "cefr": "A2",
+      "ipa": "[ˈndɑni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f2acef6-794f-4694-85c7-0e13ac10cf9a",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "swahili": "nje",
+      "cefr": "A2",
+      "ipa": "[ˈɲɟɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "289a408e-487c-4432-8ad5-63f321abbb14",
+      "part-of-speech": "adverb",
+      "english": "left",
+      "swahili": "kushoto",
+      "cefr": "A1",
+      "ipa": "[kuˈʃɔtɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f28b03cd-f166-4133-a316-fd7698d2d540",
+      "part-of-speech": "adverb",
+      "english": "right",
+      "swahili": "kulia",
+      "cefr": "A1",
+      "ipa": "[kuˈliɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8749d2d-cfdb-48d5-b041-a3db543f84fc",
+      "part-of-speech": "adverb",
+      "english": "straight ahead; directly",
+      "swahili": "moja kwa moja",
+      "cefr": "A2",
+      "ipa": "[ˈmɔʄɑ kwɑ ˈmɔʄɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "709a60be-df8c-4f12-b994-e7710b55f20e",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "swahili": "haraka",
+      "cefr": "A1",
+      "ipa": "[hɑˈɾɑkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "529609d1-0b61-4ed6-8d22-fb4adb9c6b2b",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "swahili": "polepole",
+      "cefr": "A1",
+      "ipa": "[pɔlɛˈpɔlɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fbd7510-0487-4843-99b2-66e87b3859bc",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "swahili": "kidogo",
+      "cefr": "A1",
+      "ipa": "[kiˈɗɔɠɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f44a92d1-c3b3-4237-bb82-aabd7f2bdc94",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "swahili": "zaidi",
+      "cefr": "A1",
+      "ipa": "[zɑˈiɗi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b850d59-a36b-42ac-88f8-7227cd0fded3",
+      "part-of-speech": "adverb",
+      "english": "completely, absolutely",
+      "swahili": "kabisa",
+      "cefr": "A2",
+      "ipa": "[kɑˈɓisɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95dbaf30-73f1-4594-8eb3-232530ae36e0",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "swahili": "wapi",
+      "cefr": "A1",
+      "ipa": "[ˈwɑpi]",
+      "context": "after the verb: unakwenda wapi? (where are you going?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63d90c8b-3684-46d8-ba23-49f40e6b0de7",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "swahili": "lini",
+      "cefr": "A1",
+      "ipa": "[ˈlini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e767ff3a-60fb-438c-8bef-f19c60bb66d1",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "swahili": "vipi",
+      "cefr": "A1",
+      "ipa": "[ˈvipi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d407870-b6a1-450a-8d27-e15e45715605",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "swahili": "kwa nini",
+      "cefr": "A1",
+      "ipa": "[kwɑ ˈnini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7285834-4e91-4d59-a85a-85d17ccdd5ed",
+      "part-of-speech": "adverb",
+      "english": "how many",
+      "swahili": "ngapi",
+      "cefr": "A1",
+      "ipa": "[ˈŋɡɑpi]",
+      "context": "takes the class prefix: watu wangapi?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f3aae3e-ca92-447c-8781-c1bf6748b94f",
+      "part-of-speech": "pronoun",
+      "english": "I, me",
+      "swahili": "mimi",
+      "cefr": "A1",
+      "ipa": "[ˈmimi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2bde897-a07a-4cba-a962-081c812fbe31",
+      "part-of-speech": "pronoun",
+      "english": "you (singular)",
+      "swahili": "wewe",
+      "cefr": "A1",
+      "ipa": "[ˈwɛwɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bac13d77-f9af-45ed-a050-0cbce3c9351a",
+      "part-of-speech": "pronoun",
+      "english": "he, she",
+      "swahili": "yeye",
+      "cefr": "A1",
+      "ipa": "[ˈjɛjɛ]",
+      "context": "Swahili doesn't distinguish he and she",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c564ae17-d97b-4eb5-a5ed-3de891b88499",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "swahili": "sisi",
+      "cefr": "A1",
+      "ipa": "[ˈsisi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fdfa6e32-c779-4069-908a-5e50315f9993",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "swahili": "ninyi",
+      "cefr": "A1",
+      "ipa": "[ˈniɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6563b8b0-c785-4a90-9b1a-990562212e13",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "swahili": "wao",
+      "cefr": "A1",
+      "ipa": "[ˈwɑɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cf66dae-bb0f-4f91-9258-b0d60eac0a01",
+      "part-of-speech": "pronoun",
+      "english": "my",
+      "swahili": "-angu",
+      "cefr": "A1",
+      "ipa": "[ˈɑŋɡu]",
+      "context": "takes the class prefix: mtoto wangu, kitabu changu, nyumba yangu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bead69e-4d7d-4c3e-9b4d-2756ac6cd58a",
+      "part-of-speech": "pronoun",
+      "english": "your (singular)",
+      "swahili": "-ako",
+      "cefr": "A1",
+      "ipa": "[ˈɑkɔ]",
+      "context": "takes the class prefix: wako, chako, yako",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a38bf672-4882-4b66-9e28-5140f057037f",
+      "part-of-speech": "pronoun",
+      "english": "his, her",
+      "swahili": "-ake",
+      "cefr": "A1",
+      "ipa": "[ˈɑkɛ]",
+      "context": "takes the class prefix: wake, chake, yake",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "195a0549-cd6a-4a80-b369-66d3d4d345d9",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "swahili": "-etu",
+      "cefr": "A1",
+      "ipa": "[ˈɛtu]",
+      "context": "takes the class prefix: wetu, chetu, yetu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86a852d1-6cf4-4f4f-b282-e7b3b5e15126",
+      "part-of-speech": "pronoun",
+      "english": "your (plural)",
+      "swahili": "-enu",
+      "cefr": "A1",
+      "ipa": "[ˈɛnu]",
+      "context": "takes the class prefix: wenu, chenu, yenu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b82274c8-a4f5-443c-ae21-841db4d4c1db",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "swahili": "-ao",
+      "cefr": "A1",
+      "ipa": "[ˈɑɔ]",
+      "context": "takes the class prefix: wao, chao, yao",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7d91b56-125e-4e17-8fe6-af93d741309b",
+      "part-of-speech": "pronoun",
+      "english": "this (person)",
+      "swahili": "huyu",
+      "cefr": "A1",
+      "ipa": "[ˈhuju]",
+      "context": "for things it changes with the class: hiki kitabu, hii nyumba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99e756d4-f04c-40e6-a5a2-16d5fffdf7ab",
+      "part-of-speech": "pronoun",
+      "english": "that (person)",
+      "swahili": "yule",
+      "cefr": "A1",
+      "ipa": "[ˈjulɛ]",
+      "context": "for things: kile kitabu, ile nyumba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9b902dc-9d79-4b79-97ce-be3be3c32f23",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "swahili": "nani",
+      "cefr": "A1",
+      "ipa": "[ˈnɑni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58e55925-b253-4d9b-91b8-8191d34a714d",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "swahili": "nini",
+      "cefr": "A1",
+      "ipa": "[ˈnini]",
+      "context": "after the verb: unataka nini? (what do you want?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f5417d7-4e0f-49c5-85bb-c6083870380f",
+      "part-of-speech": "pronoun",
+      "english": "which, what kind of",
+      "swahili": "gani",
+      "cefr": "A1",
+      "ipa": "[ˈɠɑni]",
+      "context": "after the noun: kitabu gani?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "068dd3b7-a711-4c80-b292-c2e77ead8ec2",
+      "part-of-speech": "pronoun",
+      "english": "every, each",
+      "swahili": "kila",
+      "cefr": "A1",
+      "ipa": "[ˈkilɑ]",
+      "context": "before the noun: kila siku (every day)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2cd4109-d3b3-4aa0-955b-81e769445c1e",
+      "part-of-speech": "pronoun",
+      "english": "all",
+      "swahili": "-ote",
+      "cefr": "A2",
+      "ipa": "[ˈɔtɛ]",
+      "context": "takes the class prefix: watu wote, vitu vyote",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2739226d-6e39-4b99-8240-8ddc6e95b66b",
+      "part-of-speech": "preposition",
+      "english": "in, at",
+      "swahili": "katika",
+      "cefr": "A1",
+      "ipa": "[kɑˈtikɑ]",
+      "context": "often replaced by -ni on the noun: nyumbani (at home)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b42ca8e0-58f0-41ea-a8c4-4813186879d7",
+      "part-of-speech": "preposition",
+      "english": "by, with; at (someone's place); for",
+      "swahili": "kwa",
+      "cefr": "A1",
+      "ipa": "[kwɑ]",
+      "context": "kwa basi: by bus",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e2b73d4-f26d-49c8-92ba-1666085cbbb4",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "swahili": "kutoka",
+      "cefr": "A1",
+      "ipa": "[kuˈtɔkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "064e04bb-a962-4ded-a288-29821ee2ee05",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "swahili": "mpaka",
+      "cefr": "A1",
+      "ipa": "[m̩ˈpɑkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51a5ecc8-d3ba-43f7-a1b2-9d241402cfeb",
+      "part-of-speech": "preposition",
+      "english": "until",
+      "swahili": "hadi",
+      "cefr": "A2",
+      "ipa": "[ˈhɑɗi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "003ef327-c669-4fbe-b13b-0892ad5bb0e6",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "swahili": "kuhusu",
+      "cefr": "A2",
+      "ipa": "[kuˈhusu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cafeaf34-38c2-4d7f-8aa5-68e59ab16018",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "swahili": "bila",
+      "cefr": "A1",
+      "ipa": "[ˈɓilɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b5b2603-ed14-43df-9838-1c4d56d43f60",
+      "part-of-speech": "preposition",
+      "english": "for, for the sake of",
+      "swahili": "kwa ajili ya",
+      "cefr": "A2",
+      "ipa": "[kwɑ ɑˈʄili jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2954d46a-b4df-449f-836f-b42e6a24be3f",
+      "part-of-speech": "preposition",
+      "english": "on, on top of; about",
+      "swahili": "juu ya",
+      "cefr": "A1",
+      "ipa": "[ˈʄuu jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5d97462-7451-469b-bc26-e8e68ec97e78",
+      "part-of-speech": "preposition",
+      "english": "under, below",
+      "swahili": "chini ya",
+      "cefr": "A1",
+      "ipa": "[ˈtʃini jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94e2aa3e-0fbd-4017-9bfb-9c11fb4bc647",
+      "part-of-speech": "preposition",
+      "english": "in front of",
+      "swahili": "mbele ya",
+      "cefr": "A1",
+      "ipa": "[ˈmbɛlɛ jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2669b935-a975-4dd3-9c79-ed512d058076",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "swahili": "nyuma ya",
+      "cefr": "A1",
+      "ipa": "[ˈɲumɑ jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e96ecf1-d228-46bd-b2ca-6b26649fa42d",
+      "part-of-speech": "preposition",
+      "english": "near",
+      "swahili": "karibu na",
+      "cefr": "A1",
+      "ipa": "[kɑˈɾiɓu nɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4ebd62f-c1b0-4c78-8e81-8bf04edf6cfc",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "swahili": "kati ya",
+      "cefr": "A2",
+      "ipa": "[ˈkɑti jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64f7a653-3256-4bfb-8dc7-3ab68f8badd9",
+      "part-of-speech": "preposition",
+      "english": "since",
+      "swahili": "tangu",
+      "cefr": "A2",
+      "ipa": "[ˈtɑŋɡu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a347ff16-a203-4a11-967f-216d66916127",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "swahili": "baada ya",
+      "cefr": "A1",
+      "ipa": "[ɓɑˈɑɗɑ jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0ede8cc-e4bd-46c4-8701-b55ebf3ee52d",
+      "part-of-speech": "preposition",
+      "english": "before",
+      "swahili": "kabla ya",
+      "cefr": "A1",
+      "ipa": "[ˈkɑɓlɑ jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3746bf69-bd15-4b19-8116-ef1fc4a95cca",
+      "part-of-speech": "conjunction",
+      "english": "and; with",
+      "swahili": "na",
+      "cefr": "A1",
+      "ipa": "[nɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9724e0f-d089-4905-afaf-588f936524a7",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "swahili": "au",
+      "cefr": "A1",
+      "ipa": "[ˈɑu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "915220ab-4b73-4014-acbb-a085b2489774",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "swahili": "lakini",
+      "cefr": "A1",
+      "ipa": "[lɑˈkini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d77f6cb-f8a4-4743-a660-6a74e15d1583",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "swahili": "kwa sababu",
+      "cefr": "A1",
+      "ipa": "[kwɑ sɑˈɓɑɓu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e0142e9-9d1b-4930-8847-742b3aa1695b",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "swahili": "kwa hiyo",
+      "cefr": "A1",
+      "ipa": "[kwɑ ˈhijɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba6fbb54-338d-415b-9e54-a6432ef0eb26",
+      "part-of-speech": "conjunction",
+      "english": "if; like, as",
+      "swahili": "kama",
+      "cefr": "A1",
+      "ipa": "[ˈkɑmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4bbe111-9f88-4157-acd0-9cdd48856170",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "swahili": "kwamba",
+      "cefr": "A2",
+      "ipa": "[ˈkwɑmbɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfe033e2-530b-4bda-adfb-c5b5e7dc6227",
+      "part-of-speech": "conjunction",
+      "english": "so that, in order to",
+      "swahili": "ili",
+      "cefr": "A2",
+      "ipa": "[ˈili]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8ac5476-12b7-4d9e-a381-303f0d16a8e2",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "swahili": "ingawa",
+      "cefr": "A2",
+      "ipa": "[iˈŋɡɑwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44e324ad-7a5e-493a-bea8-09bebadf6ea8",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "swahili": "ndiyo",
+      "cefr": "A1",
+      "ipa": "[ˈndijɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1f7fecd-05ca-44b8-a22c-eb0b10596ebe",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "swahili": "hapana",
+      "cefr": "A1",
+      "ipa": "[hɑˈpɑnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d45868dc-3773-45b4-868f-2ae4e28bfd33",
+      "part-of-speech": "interjection",
+      "english": "hello (often to visitors)",
+      "swahili": "jambo",
+      "cefr": "A1",
+      "ipa": "[ˈʄɑmbɔ]",
+      "context": "among Swahili speakers: hujambo? — reply: sijambo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "412395ee-9072-43f0-9b41-b312f12a8fb1",
+      "part-of-speech": "interjection",
+      "english": "hello; how are things?",
+      "swahili": "habari",
+      "cefr": "A1",
+      "ipa": "[hɑˈɓɑɾi]",
+      "context": "habari gani? / habari za asubuhi? — reply: nzuri (fine)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3be7f6b4-3e81-41ef-92ca-4d4679f8bdcc",
+      "part-of-speech": "interjection",
+      "english": "hi (informal)",
+      "swahili": "mambo",
+      "cefr": "A1",
+      "ipa": "[ˈmɑmbɔ]",
+      "context": "reply: poa (cool, fine)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b73eb01-0d19-4b8c-9689-a9f1b078bbab",
+      "part-of-speech": "interjection",
+      "english": "respectful greeting to an elder",
+      "swahili": "shikamoo",
+      "cefr": "A1",
+      "ipa": "[ʃikɑˈmɔː]",
+      "context": "reply: marahaba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d026adf-0691-4e4a-9ff9-4bd59c699c73",
+      "part-of-speech": "interjection",
+      "english": "fine, good (in reply)",
+      "swahili": "nzuri",
+      "cefr": "A1",
+      "ipa": "[ˈnzuɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ec4e06b-6102-4f83-b367-7bce1c2845a7",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "swahili": "asante",
+      "cefr": "A1",
+      "ipa": "[ɑˈsɑntɛ]",
+      "context": "asante sana: thank you very much",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4a3324f-8723-41ca-8c20-27c02042d7d7",
+      "part-of-speech": "interjection",
+      "english": "welcome; you're welcome",
+      "swahili": "karibu",
+      "cefr": "A1",
+      "ipa": "[kɑˈɾiɓu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58c377c5-ac70-4b3c-89a3-72d8263d6f1c",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "swahili": "tafadhali",
+      "cefr": "A1",
+      "ipa": "[tɑfɑˈðɑli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43e59793-a801-44e0-aacd-4ae72032ce65",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "swahili": "samahani",
+      "cefr": "A1",
+      "ipa": "[sɑmɑˈhɑni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb565694-2521-4cd2-9bfe-4973ef87a31f",
+      "part-of-speech": "interjection",
+      "english": "sorry (sympathy)",
+      "swahili": "pole",
+      "cefr": "A1",
+      "ipa": "[ˈpɔlɛ]",
+      "context": "said when someone is hurt or having a hard time",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "590df478-654c-4d2e-ac9e-cf83fcd80e23",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "swahili": "kwaheri",
+      "cefr": "A1",
+      "ipa": "[kwɑˈhɛɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd0fad5c-2dee-4b2d-8f8f-61ef0e21696c",
+      "part-of-speech": "interjection",
+      "english": "see you",
+      "swahili": "tutaonana",
+      "cefr": "A1",
+      "ipa": "[tutɑɔˈnɑnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "522fba29-8147-4098-9a1a-7238c15edf74",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "swahili": "usiku mwema",
+      "cefr": "A1",
+      "ipa": "[uˈsiku ˈmwɛmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9adcfc46-e6e6-4d0e-bb92-83c2c79b5568",
+      "part-of-speech": "interjection",
+      "english": "okay, fine",
+      "swahili": "sawa",
+      "cefr": "A1",
+      "ipa": "[ˈsɑwɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2172fdb3-6826-4b4c-8a2f-bb2fdcfd7f7f",
+      "part-of-speech": "interjection",
+      "english": "no problem",
+      "swahili": "hakuna matata",
+      "cefr": "A2",
+      "ipa": "[hɑˈkunɑ mɑˈtɑtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63e350f5-76df-4227-8e84-0159f875c572",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "swahili": "hongera",
+      "cefr": "A2",
+      "ipa": "[hɔˈŋɡɛɾɑ]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}
