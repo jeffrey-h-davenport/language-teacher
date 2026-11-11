@@ -1,0 +1,79 @@
+{
+  "scriptName": "Spanish Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Spanish is pronounced — the main spelling rules.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "This Spanish list doesn't have pronunciations yet; this chart covers the main spelling rules (Spain; Latin American differences noted)."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "a e i o u",
+          "ipa": "[a e i o u]",
+          "note": "short, pure vowels"
+        },
+        {
+          "char": "j / g(e,i)",
+          "ipa": "[x]",
+          "note": "throaty, as in \"loch\""
+        },
+        {
+          "char": "ñ",
+          "ipa": "[ɲ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ll / y",
+          "ipa": "[ʝ]",
+          "note": "y, often close to j"
+        },
+        {
+          "char": "r",
+          "ipa": "[ɾ]",
+          "note": "a single tap"
+        },
+        {
+          "char": "rr / initial r",
+          "ipa": "[r]",
+          "note": "rolled"
+        },
+        {
+          "char": "z / c(e,i)",
+          "ipa": "[θ]",
+          "note": "th as in \"thin\" (Spain); s in Latin America"
+        },
+        {
+          "char": "ch",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "h",
+          "ipa": "",
+          "note": "always silent"
+        },
+        {
+          "char": "b / v",
+          "ipa": "[b β]",
+          "note": "the same sound; soft between vowels"
+        },
+        {
+          "char": "d",
+          "ipa": "[d ð]",
+          "note": "soft \"th\" between vowels"
+        },
+        {
+          "char": "qu / gu(e,i)",
+          "ipa": "[k ɡ]",
+          "note": "the u is silent"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,305 @@
+{
+  "scriptName": "Swedish Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Swedish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Central Swedish. Some are exact (bracketed) IPA and some broad (slashed). ¹ and ² mark the two word tones."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "å",
+          "ipa": "[oː ɔ]",
+          "note": "o"
+        },
+        {
+          "char": "ä",
+          "ipa": "[ɛ ɛː]",
+          "note": "e as in \"bed\""
+        },
+        {
+          "char": "ö",
+          "ipa": "[ø œ]",
+          "note": "e with rounded lips"
+        },
+        {
+          "char": "u",
+          "ipa": "[ʉ ɵ]",
+          "note": "oo with the tongue forward"
+        },
+        {
+          "char": "o",
+          "ipa": "[uː ɔ]",
+          "note": "often oo"
+        },
+        {
+          "char": "y",
+          "ipa": "[y ʏ]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "sj / stj / sk(e,i)",
+          "ipa": "[ɧ]",
+          "note": "the breathy sj-sound"
+        },
+        {
+          "char": "tj / kj / k(e,i)",
+          "ipa": "[ɕ]",
+          "note": "a soft sh"
+        },
+        {
+          "char": "g(e,i)",
+          "ipa": "[j]",
+          "note": "y"
+        },
+        {
+          "char": "rt rd rn rl rs",
+          "ipa": "[ʈ ɖ ɳ ɭ ʂ]",
+          "note": "the r merges with the next sound"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "la /la/",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "se /seː/",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "bli /bliː/",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "på /poː/",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "jo /juː/",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "ny /nyː/",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "j",
+          "ipa": "ju /jɵ/",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "ur /ʉːr/",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "x",
+          "ipa": "chans /xans/",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "æ",
+          "ipa": "ära /²æːra/",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "av /ɑːv/",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "nej /nɛj/",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "ledsen /lɛsːən/",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɪ",
+          "ipa": "in /ɪn/",
+          "note": "i, as in \"bit\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "och /ɔ/",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ʊ",
+          "ipa": "fort /ˈfʊʈ/",
+          "note": "oo, as in \"book\""
+        },
+        {
+          "char": "ʉ",
+          "ipa": "nu /nʉː/",
+          "note": "oo said with the tongue pushed forward"
+        },
+        {
+          "char": "ø",
+          "ipa": "dö /døː/",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "œ",
+          "ipa": "kör /ɕœːr/",
+          "note": "e as in \"bed\" with rounded lips"
+        },
+        {
+          "char": "ɶ",
+          "ipa": "förstås [fɶˈʂtɔs]",
+          "note": "a very open vowel with rounded lips"
+        },
+        {
+          "char": "ɵ",
+          "ipa": "upp /ɵp/",
+          "note": "a rounded vowel between ö and o"
+        },
+        {
+          "char": "ʏ",
+          "ipa": "nyss /nʏs/",
+          "note": "i as in \"bit\" with rounded lips"
+        },
+        {
+          "char": "ɕ",
+          "ipa": "tjej /ɕɛj/",
+          "note": "a soft sh, with the tongue flat"
+        },
+        {
+          "char": "ɧ",
+          "ipa": "skepp /ɧɛp/",
+          "note": "the Swedish sj-sound — a breathy sh made further back"
+        },
+        {
+          "char": "ʂ",
+          "ipa": "värsta /²væʂʈa/",
+          "note": "sh with the tongue tip curled back"
+        },
+        {
+          "char": "ʐ",
+          "ipa": "rör [¹rœːʐ]",
+          "note": "zh with the tongue tip curled back"
+        },
+        {
+          "char": "ʈ",
+          "ipa": "bort /bɔʈː/",
+          "note": "t with the tongue tip curled back"
+        },
+        {
+          "char": "ɖ",
+          "ipa": "mord /muːɖ/",
+          "note": "d with the tongue tip curled back"
+        },
+        {
+          "char": "ɳ",
+          "ipa": "ont [¹ʊɳʈ]",
+          "note": "n with the tongue tip curled back"
+        },
+        {
+          "char": "ɭ",
+          "ipa": "ärlig /²æːɭɪ(ɡ)/",
+          "note": "l with the tongue tip curled back"
+        },
+        {
+          "char": "ŋ",
+          "ipa": "gång /ɡɔŋ/",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ᶻ",
+          "ipa": "vid [¹viːdᶻ]",
+          "note": "a faint buzz of z after the sound"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "gå /ɡoː/",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "aj /ˈaj/",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ˌ",
+          "ipa": "inga /ˈɪŋˌa/",
+          "note": "the next syllable has a lighter, secondary stress"
+        },
+        {
+          "char": "ː",
+          "ipa": "på /poː/",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "¹",
+          "ipa": "be [¹beː]",
+          "note": "tone 1 — the word's melody falls once"
+        },
+        {
+          "char": "²",
+          "ipa": "uppe /²ɵpɛ/",
+          "note": "tone 2 — the word's melody falls, then rises again"
+        },
+        {
+          "char": "á",
+          "ipa": "arbeta /árˈbeːta/",
+          "note": "a, marked as stressed"
+        },
+        {
+          "char": ".",
+          "ipa": "känna /ˈɕɛn.na/",
+          "note": "a break between syllables"
+        },
+        {
+          "char": "-",
+          "ipa": "försök [¹fœ-ˈsøːk]",
+          "note": "a break between syllables"
+        },
+        {
+          "char": "(",
+          "ipa": "med /meː(d)/",
+          "note": "a sound in brackets ( ) is optional — often dropped"
+        },
+        {
+          "char": "◌̪",
+          "ipa": "därför [d̪æ̌rfœ̞r]",
+          "note": "with the tongue against the teeth"
+        },
+        {
+          "char": "◌̞",
+          "ipa": "förr [ˈfœ̞rː]",
+          "note": "slightly more open"
+        },
+        {
+          "char": "◌̟",
+          "ipa": "ursäkta /ʉ̟ːˈʂɛkta/",
+          "note": "slightly further forward"
+        },
+        {
+          "char": "◌̌",
+          "ipa": "därför [d̪æ̌rfœ̞r]",
+          "note": "with a rising pitch"
+        }
+      ]
+    }
+  ]
+}

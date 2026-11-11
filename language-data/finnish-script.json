@@ -1,0 +1,69 @@
+{
+  "scriptName": "Finnish Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Finnish is pronounced — the main spelling rules.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "This Finnish list doesn't have pronunciations yet; this chart covers the main spelling rules. Finnish is spelled as it sounds: every letter is pronounced, and the first syllable is always stressed."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ä",
+          "ipa": "[æ]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ö",
+          "ipa": "[ø]",
+          "note": "e with rounded lips"
+        },
+        {
+          "char": "y",
+          "ipa": "[y]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "double vowels",
+          "ipa": "[aː eː …]",
+          "note": "long: tuli (fire) vs tuuli (wind)"
+        },
+        {
+          "char": "double consonants",
+          "ipa": "[kː tː …]",
+          "note": "held longer: tuli vs tulli (customs)"
+        },
+        {
+          "char": "j",
+          "ipa": "[j]",
+          "note": "y"
+        },
+        {
+          "char": "r",
+          "ipa": "[r]",
+          "note": "rolled"
+        },
+        {
+          "char": "ng",
+          "ipa": "[ŋː]",
+          "note": "long ng"
+        },
+        {
+          "char": "nk",
+          "ipa": "[ŋk]",
+          "note": "ng + k"
+        },
+        {
+          "char": "h",
+          "ipa": "[h]",
+          "note": "always pronounced, even before consonants"
+        }
+      ]
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "name": "language-teacher",
-  "version": "1.21.1",
+  "version": "1.25.0",
   "description": "Language learning app for macOS",
   "main": "app/main.js",
   "scripts": {

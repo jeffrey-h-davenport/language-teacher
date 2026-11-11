@@ -1,5 +1,35 @@
 # Changelog
 
+## 1.25.0 — 2026-11-11
+- Every language now has a guide: Dutch, Finnish, French, German, Indonesian, Italian, Norwegian, Portuguese, Spanish, Swahili, Swedish and Turkish get a Pronunciation Guide (open it from the new-word cards or during the quiz)
+- Each one notes which accent the pronunciations follow, charts the spellings that don't sound the way an English speaker might expect (Dutch ij, French u, Spanish ñ, Portuguese lh…), and — where the words have pronunciations — explains every symbol they use, with an example word from the list
+- These are a first pass, kept short for now
+
+## 1.24.1 — 2026-11-11
+- The Kana Guide now starts with a key to every pronunciation symbol used in the Japanese words — including the pitch-drop arrow ꜜ, ɴ, ɯ, ɾ and the whisper mark — each with what it sounds like and an example word
+- A language's guide (Script, Grammar or Kana Guide) can now also be opened from the new-word introduction cards, not just during the quiz
+
+## 1.24.0 — 2026-11-11
+- Added Japanese: 430 words covering levels A1 and A2 — everyday nouns, verbs (with their group and polite -masu form), i- and na-adjectives, adverbs, pronouns, the main particles (は, が, を, に, で…), numbers, days of the week, and everyday expressions (いただきます, お願いします, すみません…)
+- Words are shown as normally written — kanji where Japanese uses kanji, kana otherwise
+- Every word has bracketed IPA for standard Tokyo Japanese, with the pitch accent marked (ꜜ shows where the pitch drops: 箸 [haꜜɕi] chopsticks vs 橋 [haɕiꜜ] bridge) and whispered vowels shown (です [desɯ̥])
+- New Kana Guide (the button during a Japanese quiz): hiragana and katakana charts with the pronunciation of every sound, the voiced and combined sounds, long vowels, small っ, ん, and how to read the pitch marks
+
+## 1.23.0 — 2026-11-11
+- Added Swahili (with the flag of Tanzania, where it has the most speakers): 473 words covering levels A1 and A2 — everyday nouns, verbs, adjectives and adverbs, plus pronouns, question words, prepositions, conjunctions, numbers, greetings (including shikamoo and the habari/mambo replies), days and months
+- Every noun shows its plural and its noun class (mtu → watu, kitabu → vitabu); adjectives that change with the noun are listed as stems (-zuri) with an example of how they agree
+- Every word has bracketed IPA for standard Tanzanian Swahili, including the implosive b, d, j, g sounds (baba [ˈɓɑɓɑ])
+
+## 1.22.2 — 2026-11-11
+- The welcome tagline always reads "Build your skills in another language" — it no longer switches to the name of the language you last studied
+
+## 1.22.1 — 2026-11-11
+- New welcome-screen tagline, "Build your skills in another language" (or in the language you're studying), set in italics with a short accent-colored line beneath it and a gentle fade-in, replacing the longer description
+
+## 1.22.0 — 2026-11-11
+- The language picker now always shows a single row of languages — whether you're viewing your favorites or all languages. When there are more than four, use the ‹ and › arrows to page through them four at a time; an arrow greys out at the start or end of the list
+- The welcome screen now describes what the app does instead of just saying "Learn a language", and asks "Which language would you like to study?" in place of "Choose a language"
+
 ## 1.21.1 — 2026-11-11
 - Norwegian and Swedish pronunciation: word-final stops are no longer marked as long (takk [tɑk], not [tɑkː]) — the extra length is a silent hold you can't hear at the end of a word; what you hear is the short vowel before it. Long sounds you can hear, like the n in mann [mɑnː] or the k in takke [²tɑkːə], are still marked
 

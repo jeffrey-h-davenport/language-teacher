@@ -114,6 +114,49 @@ html, body {
   font-size: 1.05rem;
   color: rgba(255,255,255,0.65);
   margin-bottom: 12px;
+  max-width: 460px;
+  line-height: 1.45;
+  text-wrap: balance;   /* even line lengths — no single word left on the last line */
+}
+
+/* Welcome-screen tagline: italic, set apart with a short accent rule, and a
+   one-time entrance (fade-and-rise; the rule draws out from the centre).
+   Replays each time the welcome screen is shown, since the screen goes from
+   display:none to visible. */
+.tagline {
+  font-size: 1.2rem;
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: 0.2px;
+  color: rgba(255,255,255,0.82);
+  margin: 2px 0 18px;
+  animation: tagline-in 0.8s ease-out 0.15s both;
+}
+
+.tagline::after {
+  content: '';
+  display: block;
+  width: 44px;
+  height: 2px;
+  margin: 12px auto 0;
+  border-radius: 2px;
+  background: var(--accent);
+  transform-origin: center;
+  animation: tagline-rule 0.6s ease-out 0.55s both;
+}
+
+@keyframes tagline-in {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: none; }
+}
+
+@keyframes tagline-rule {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .tagline, .tagline::after { animation: none; }
 }
 
 .hint {
@@ -177,6 +220,65 @@ html, body {
   gap: 8px;
   max-width: 420px;
 }
+
+.language-carousel {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* One row of buttons. When paged, the viewport is exactly four buttons wide
+   (button width + gaps) and the row slides a page at a time underneath it. */
+.language-viewport {
+  --lang-btn-width: 136px;
+  --lang-gap: 8px;
+  flex: 0 0 auto;
+}
+
+.language-viewport.paged {
+  width: calc(4 * var(--lang-btn-width) + 3 * var(--lang-gap));
+  overflow: hidden;
+}
+
+.language-track {
+  display: flex;
+  gap: var(--lang-gap);
+  justify-content: center;
+  transition: transform 0.35s ease;
+}
+
+.language-viewport.paged .language-track { justify-content: flex-start; }
+
+.language-track .level-btn,
+.language-track .lang-filler {
+  flex: 0 0 var(--lang-btn-width);
+  width: var(--lang-btn-width);   /* so the row's own size counts the full width */
+}
+
+.language-track .level-btn {
+  padding: 8px 10px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.carousel-arrow {
+  background: rgba(255,255,255,0.1);
+  color: white;
+  border: 1px solid rgba(255,255,255,0.28);
+  border-radius: 50%;
+  width: 34px;
+  height: 34px;
+  flex: 0 0 34px;
+  font-size: 1.3rem;
+  line-height: 1;
+  font-family: var(--font);
+  cursor: pointer;
+  transition: background 0.15s, opacity 0.15s;
+}
+
+.carousel-arrow:hover:not(:disabled) { background: rgba(255,255,255,0.2); }
+.carousel-arrow:disabled { opacity: 0.3; cursor: default; }
 
 .level-btn {
   background: rgba(255,255,255,0.1);

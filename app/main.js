@@ -33,10 +33,12 @@ const LANGUAGE_INFO = {
   hindi:   { language: 'Hindi',   languageCode: 'hi' },
   indonesian: { language: 'Indonesian', languageCode: 'id' },
   italian: { language: 'Italian', languageCode: 'it' },
+  japanese: { language: 'Japanese', languageCode: 'ja' },
   korean:  { language: 'Korean',  languageCode: 'ko' },
   norwegian: { language: 'Norwegian', languageCode: 'no' },
   portuguese: { language: 'Portuguese', languageCode: 'pt' },
   spanish: { language: 'Spanish', languageCode: 'es' },
+  swahili: { language: 'Swahili', languageCode: 'sw' },
   swedish: { language: 'Swedish', languageCode: 'sv' },
   turkish: { language: 'Turkish', languageCode: 'tr' },
 }

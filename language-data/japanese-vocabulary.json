@@ -1,0 +1,4915 @@
+{
+  "meta": {
+    "language": "Japanese",
+    "languageCode": "ja",
+    "nativeLanguage": "English",
+    "targetField": "japanese",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "496f78a6-1927-4531-9406-17686d5f9e8b",
+      "part-of-speech": "noun",
+      "english": "person",
+      "japanese": "人",
+      "cefr": "A1",
+      "ipa": "[çi̥toꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33719d01-032c-4642-8467-4585d0c97fff",
+      "part-of-speech": "noun",
+      "english": "man",
+      "japanese": "男",
+      "cefr": "A1",
+      "ipa": "[otokoꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b05c814-7d57-49d9-955c-95d69ff5852c",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "japanese": "女",
+      "cefr": "A1",
+      "ipa": "[onnaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2f3bf14-cc3a-40f6-8c9a-fd12cab7aef9",
+      "part-of-speech": "noun",
+      "english": "child",
+      "japanese": "子供",
+      "cefr": "A1",
+      "ipa": "[kodomo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0cfce12f-cfe9-4179-9e5c-df5c85e6b423",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "japanese": "赤ちゃん",
+      "cefr": "A1",
+      "ipa": "[aꜜkatɕaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b37ac99-e918-42b5-9a75-4a32a7bb74d2",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "japanese": "お母さん",
+      "cefr": "A1",
+      "ipa": "[okaꜜːsaɴ]",
+      "context": "your own mother when talking to others: 母 (はは)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ed62582-8fd6-40be-a93d-7725c477a9dc",
+      "part-of-speech": "noun",
+      "english": "father",
+      "japanese": "お父さん",
+      "cefr": "A1",
+      "ipa": "[otoꜜːsaɴ]",
+      "context": "your own father when talking to others: 父 (ちち)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2651dd3c-a269-418d-bc85-7935455b4117",
+      "part-of-speech": "noun",
+      "english": "(my) mother",
+      "japanese": "母",
+      "cefr": "A2",
+      "ipa": "[haꜜha]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2ab8603-f2bb-4ec8-adf4-1255a5075d61",
+      "part-of-speech": "noun",
+      "english": "(my) father",
+      "japanese": "父",
+      "cefr": "A2",
+      "ipa": "[tɕi̥tɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c45eaa5e-b5df-4661-a9ff-f730aa8aa6e3",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "japanese": "両親",
+      "cefr": "A1",
+      "ipa": "[ɾʲoꜜːɕiɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55de38b8-c77c-40c7-8832-2a07ed6884f0",
+      "part-of-speech": "noun",
+      "english": "(my) older brother",
+      "japanese": "兄",
+      "cefr": "A1",
+      "ipa": "[aꜜɲi]",
+      "context": "someone else's: お兄さん",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b0b98ac-2af6-412e-bbe2-859340b834be",
+      "part-of-speech": "noun",
+      "english": "(my) older sister",
+      "japanese": "姉",
+      "cefr": "A1",
+      "ipa": "[ane]",
+      "context": "someone else's: お姉さん",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da54ed18-71ca-4c1d-a0c1-4a6097bba57c",
+      "part-of-speech": "noun",
+      "english": "younger brother",
+      "japanese": "弟",
+      "cefr": "A1",
+      "ipa": "[otoːtoꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "968985b6-9a0c-4606-a3db-d2440361d170",
+      "part-of-speech": "noun",
+      "english": "younger sister",
+      "japanese": "妹",
+      "cefr": "A1",
+      "ipa": "[imoːtoꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6d9ed7b-ef92-4b8c-8426-075e5904d498",
+      "part-of-speech": "noun",
+      "english": "brothers and sisters, siblings",
+      "japanese": "兄弟",
+      "cefr": "A2",
+      "ipa": "[kʲoꜜːdai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c431ef8d-0e51-41ae-9c8c-3288f5bc5799",
+      "part-of-speech": "noun",
+      "english": "son",
+      "japanese": "息子",
+      "cefr": "A1",
+      "ipa": "[mɯsɯ̥ko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb2f9284-48ca-4fc2-bdc4-c9fe7d29e80d",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "japanese": "娘",
+      "cefr": "A1",
+      "ipa": "[mɯsɯmeꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0ac1c06-6451-4847-803c-75b1e45e7e39",
+      "part-of-speech": "noun",
+      "english": "grandfather; old man",
+      "japanese": "おじいさん",
+      "cefr": "A1",
+      "ipa": "[odʑiꜜːsaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b97db8a8-af6e-4b59-8d15-d31523038de9",
+      "part-of-speech": "noun",
+      "english": "grandmother; old woman",
+      "japanese": "おばあさん",
+      "cefr": "A1",
+      "ipa": "[obaꜜːsaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "906fedcc-2c22-4c14-b88d-ed82d12ab571",
+      "part-of-speech": "noun",
+      "english": "family",
+      "japanese": "家族",
+      "cefr": "A1",
+      "ipa": "[kaꜜzokɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67cd7627-1eae-4d73-8f29-701f1aee1bd2",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "japanese": "夫",
+      "cefr": "A1",
+      "ipa": "[otto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edb59af0-3453-4dc1-aa8e-eedf6feaaf46",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "japanese": "妻",
+      "cefr": "A1",
+      "ipa": "[tsɯꜜma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6b10bda-6ccd-44ba-93bd-6dde7c31d158",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "japanese": "友達",
+      "cefr": "A1",
+      "ipa": "[tomodatɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfeb5eee-2272-44f9-8724-ff026ed54528",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "japanese": "先生",
+      "cefr": "A1",
+      "ipa": "[seɴseꜜː]",
+      "context": "also used as a title for teachers and doctors",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39bb3c75-1432-4eb0-85b2-431ef095243d",
+      "part-of-speech": "noun",
+      "english": "student",
+      "japanese": "学生",
+      "cefr": "A1",
+      "ipa": "[ɡakɯ̥seː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f18bed0c-23e4-40a5-b359-0b4824470f20",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "japanese": "医者",
+      "cefr": "A1",
+      "ipa": "[iɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7af9f15e-1f79-4c1a-8684-474755fce45d",
+      "part-of-speech": "noun",
+      "english": "name",
+      "japanese": "名前",
+      "cefr": "A1",
+      "ipa": "[namae]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7047a65c-3253-4e83-94ca-86cf1463b34c",
+      "part-of-speech": "noun",
+      "english": "year; age",
+      "japanese": "年",
+      "cefr": "A1",
+      "ipa": "[toɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c6c3ac2-5ed2-43ef-814e-0bc1862a66eb",
+      "part-of-speech": "noun",
+      "english": "time; hour(s)",
+      "japanese": "時間",
+      "cefr": "A1",
+      "ipa": "[dʑikaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1cadfdf-d386-47cd-8245-5c77892c9a4f",
+      "part-of-speech": "noun",
+      "english": "day; sun",
+      "japanese": "日",
+      "cefr": "A1",
+      "ipa": "[çi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a67c3171-3936-40f1-8483-1b53c954371b",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "japanese": "週末",
+      "cefr": "A1",
+      "ipa": "[ɕɯːmatsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46d577cd-4197-44f7-9b0e-e65f82f9c140",
+      "part-of-speech": "noun",
+      "english": "moon; month",
+      "japanese": "月",
+      "cefr": "A1",
+      "ipa": "[tsɯ̥kiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4c5629c-04e6-40a0-b963-e65f7f6c4fc9",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "japanese": "朝",
+      "cefr": "A1",
+      "ipa": "[aꜜsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69f9f9ee-22e4-4d6e-8c99-4b1e3595f884",
+      "part-of-speech": "noun",
+      "english": "noon, daytime",
+      "japanese": "昼",
+      "cefr": "A1",
+      "ipa": "[çiɾɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dbbcac4-a181-4df5-8669-5d5868353cdb",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "japanese": "晩",
+      "cefr": "A1",
+      "ipa": "[baɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "730f0e40-0e1c-446a-8cdb-84bec2794c58",
+      "part-of-speech": "noun",
+      "english": "night",
+      "japanese": "夜",
+      "cefr": "A1",
+      "ipa": "[joꜜɾɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0bbe8f2-a75b-4293-a255-cecb3d903e56",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "japanese": "月曜日",
+      "cefr": "A1",
+      "ipa": "[ɡetsɯjoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12649cd7-4a51-4c18-b9ed-5a6620cfcabc",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "japanese": "火曜日",
+      "cefr": "A1",
+      "ipa": "[kajoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "477cac36-e40e-4416-9b08-e382919a846c",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "japanese": "水曜日",
+      "cefr": "A1",
+      "ipa": "[sɯijoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8737d751-7da1-41c4-b4f9-22cb65166fac",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "japanese": "木曜日",
+      "cefr": "A1",
+      "ipa": "[mokɯjoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30769c91-e3bc-4dbd-a0f1-8091103244ed",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "japanese": "金曜日",
+      "cefr": "A1",
+      "ipa": "[kiɴjoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2dc3c0f-6280-4170-9e02-2bfd35919db6",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "japanese": "土曜日",
+      "cefr": "A1",
+      "ipa": "[dojoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fd239a2-ea41-4c55-81bc-b506fe191787",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "japanese": "日曜日",
+      "cefr": "A1",
+      "ipa": "[ɲitɕijoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef03684f-e72a-4437-aa8d-4ad294ffda28",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "japanese": "誕生日",
+      "cefr": "A1",
+      "ipa": "[taɲdʑoꜜːbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4078a1f-4079-4679-98cd-458c6a422a64",
+      "part-of-speech": "noun",
+      "english": "holiday; day off; break",
+      "japanese": "休み",
+      "cefr": "A1",
+      "ipa": "[jasɯ̥miꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d793bebc-0c48-4c45-aaac-8608a82eebef",
+      "part-of-speech": "noun",
+      "english": "party",
+      "japanese": "パーティー",
+      "cefr": "A1",
+      "ipa": "[paꜜːtiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4632d828-29c6-4d1f-a28f-f050822ae959",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "japanese": "プレゼント",
+      "cefr": "A2",
+      "ipa": "[pɯ̥ɾezeꜜnto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2cbe7018-163e-4505-af05-41e20992e7f4",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "japanese": "家",
+      "cefr": "A1",
+      "ipa": "[ieꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24b45fd5-3b05-482b-9e4d-74e830c2135f",
+      "part-of-speech": "noun",
+      "english": "home; my house",
+      "japanese": "うち",
+      "cefr": "A1",
+      "ipa": "[ɯtɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2362317-f02c-43fb-bd9f-ae1e0c1f0865",
+      "part-of-speech": "noun",
+      "english": "room",
+      "japanese": "部屋",
+      "cefr": "A1",
+      "ipa": "[hejaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e630f589-ba61-43c1-94c8-e9df8d331902",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "japanese": "台所",
+      "cefr": "A1",
+      "ipa": "[daidokoɾo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73779817-2c9b-4292-b433-cb31c8984d9c",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "japanese": "トイレ",
+      "cefr": "A1",
+      "ipa": "[toꜜiɾe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9b85e9a-ee1a-45e0-9939-f986ec72254b",
+      "part-of-speech": "noun",
+      "english": "bath",
+      "japanese": "お風呂",
+      "cefr": "A1",
+      "ipa": "[oɸɯꜜɾo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0847ef9d-f2b7-4226-8133-a7f59c127a5d",
+      "part-of-speech": "noun",
+      "english": "door",
+      "japanese": "ドア",
+      "cefr": "A1",
+      "ipa": "[doꜜa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95f112a0-ae05-415b-a50f-a76ff080c2c1",
+      "part-of-speech": "noun",
+      "english": "window",
+      "japanese": "窓",
+      "cefr": "A1",
+      "ipa": "[maꜜdo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0c41d28-9e34-4327-9361-3e96c761e078",
+      "part-of-speech": "noun",
+      "english": "desk",
+      "japanese": "机",
+      "cefr": "A1",
+      "ipa": "[tsɯ̥kɯe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db369607-6ad8-40b6-84f4-7a4fad3f2361",
+      "part-of-speech": "noun",
+      "english": "table",
+      "japanese": "テーブル",
+      "cefr": "A1",
+      "ipa": "[teːbɯɾɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8dc8d337-ac16-461f-94c7-f8a2c8e4ba27",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "japanese": "椅子",
+      "cefr": "A1",
+      "ipa": "[isɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6908258e-a5f9-403d-a949-a673dd687ba7",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "japanese": "ベッド",
+      "cefr": "A1",
+      "ipa": "[beꜜddo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d39378ac-bcca-4f66-b3ec-1632ebc0ec3c",
+      "part-of-speech": "noun",
+      "english": "key",
+      "japanese": "鍵",
+      "cefr": "A2",
+      "ipa": "[kaɡiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "434f84e0-7112-47fe-b6a5-6eaee48b57e0",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "japanese": "電話",
+      "cefr": "A1",
+      "ipa": "[deɴɰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61f0d993-2bd0-4dbb-8c71-931791deaf55",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "japanese": "携帯",
+      "cefr": "A1",
+      "ipa": "[keːtai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e58756e-a467-4970-888b-dedea44fb5c6",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "japanese": "パソコン",
+      "cefr": "A1",
+      "ipa": "[pasokoɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "216c6fea-21d2-46ff-956e-9f18f1fdf58f",
+      "part-of-speech": "noun",
+      "english": "television",
+      "japanese": "テレビ",
+      "cefr": "A1",
+      "ipa": "[teꜜɾebi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcef0a67-41f8-4637-961c-82fa7c9ba3af",
+      "part-of-speech": "noun",
+      "english": "food",
+      "japanese": "食べ物",
+      "cefr": "A1",
+      "ipa": "[tabemoꜜno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20185c7f-c4f9-402b-9e47-3a350c3bacb5",
+      "part-of-speech": "noun",
+      "english": "drink",
+      "japanese": "飲み物",
+      "cefr": "A1",
+      "ipa": "[nomimoꜜno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17842b6e-b5ce-40b9-a04b-348368fb73bd",
+      "part-of-speech": "noun",
+      "english": "water",
+      "japanese": "水",
+      "cefr": "A1",
+      "ipa": "[mizɯ]",
+      "context": "cold water; hot water is お湯",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddf65d52-d99e-464a-a51d-bef214fa78db",
+      "part-of-speech": "noun",
+      "english": "cooked rice; meal",
+      "japanese": "ご飯",
+      "cefr": "A1",
+      "ipa": "[ɡoꜜhaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f196a53-3901-4f90-8346-c92536f3ea85",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "japanese": "パン",
+      "cefr": "A1",
+      "ipa": "[paꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee2b4e13-27eb-4575-a512-eda8dcd681ce",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "japanese": "コーヒー",
+      "cefr": "A1",
+      "ipa": "[koːçiꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a88601c-30ac-4161-b6af-ac82b2f222c9",
+      "part-of-speech": "noun",
+      "english": "tea (green tea)",
+      "japanese": "お茶",
+      "cefr": "A1",
+      "ipa": "[otɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2464544-1bf6-4fd3-a9eb-1257d9aae11d",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "japanese": "牛乳",
+      "cefr": "A1",
+      "ipa": "[ɡʲɯːɲɯː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a6efea2-1348-4f16-8810-c91a788f4011",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "japanese": "ジュース",
+      "cefr": "A1",
+      "ipa": "[dʑɯꜜːsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e12a69c-3ef3-4db2-9107-0e45e6efda49",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "japanese": "ビール",
+      "cefr": "A1",
+      "ipa": "[biꜜːɾɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58599c80-de60-4b76-96fb-99ddaef59a5b",
+      "part-of-speech": "noun",
+      "english": "alcohol; sake",
+      "japanese": "お酒",
+      "cefr": "A1",
+      "ipa": "[osake]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d2610f1-729b-4534-824a-199458be7199",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "japanese": "肉",
+      "cefr": "A1",
+      "ipa": "[ɲikɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "336630b3-95f9-4488-a884-c6153e679c59",
+      "part-of-speech": "noun",
+      "english": "chicken (meat)",
+      "japanese": "鶏肉",
+      "cefr": "A2",
+      "ipa": "[toɾiɲikɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f6d5846-fdbe-4b08-83cb-4337510ade5e",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "japanese": "魚",
+      "cefr": "A1",
+      "ipa": "[sakana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49602a73-9462-4b52-b66d-502e972784c2",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "japanese": "卵",
+      "cefr": "A1",
+      "ipa": "[tamaɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fc016cd-6060-49d7-97af-c69e61ad4e15",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "japanese": "野菜",
+      "cefr": "A1",
+      "ipa": "[jasai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e65c63f-3d4b-4df7-a7ca-5c87c6606641",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "japanese": "果物",
+      "cefr": "A1",
+      "ipa": "[kɯ̥daꜜmono]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74b08bc3-6ff7-45fc-92e6-eeaf8ecda6bb",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "japanese": "りんご",
+      "cefr": "A1",
+      "ipa": "[ɾiŋɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "555da838-a56a-4204-be26-7bfe5d0b9591",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "japanese": "バナナ",
+      "cefr": "A1",
+      "ipa": "[baꜜnana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8c437a2-5884-4434-855f-49b2b438f0af",
+      "part-of-speech": "noun",
+      "english": "mandarin orange",
+      "japanese": "みかん",
+      "cefr": "A1",
+      "ipa": "[miꜜkaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b932cfe2-edd9-4a08-bc23-c3937ac0075c",
+      "part-of-speech": "noun",
+      "english": "rice (uncooked)",
+      "japanese": "米",
+      "cefr": "A2",
+      "ipa": "[komeꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19808534-1caf-491f-9ab6-92eeb7ca02c4",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "japanese": "砂糖",
+      "cefr": "A2",
+      "ipa": "[satoꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "582e811a-de14-4a0b-a10c-ac72f6aac718",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "japanese": "塩",
+      "cefr": "A2",
+      "ipa": "[ɕioꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d79e9ae-c407-49dd-a03d-9d318945c3e4",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "japanese": "スープ",
+      "cefr": "A1",
+      "ipa": "[sɯꜜːpɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d04209bf-edd0-4da0-903d-7dcbf309439a",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "japanese": "ケーキ",
+      "cefr": "A1",
+      "ipa": "[keꜜːki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d73bc31f-058b-4f83-bc83-ecc18a285a61",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "japanese": "朝ご飯",
+      "cefr": "A1",
+      "ipa": "[asaɡoꜜhaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a16615d9-6c43-4c07-a194-9e35df80ea5c",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "japanese": "昼ご飯",
+      "cefr": "A1",
+      "ipa": "[çiɾɯɡoꜜhaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bdc6f5f-f125-4ddf-a0d7-671897e6cd22",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "japanese": "晩ご飯",
+      "cefr": "A1",
+      "ipa": "[baŋɡoꜜhaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7a11d30-aa6d-4844-9d1e-b56276602ef2",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "japanese": "レストラン",
+      "cefr": "A1",
+      "ipa": "[ɾeꜜsɯ̥toɾaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4ccea13-36d5-4b3f-8caa-2f64a2dd5900",
+      "part-of-speech": "noun",
+      "english": "café",
+      "japanese": "喫茶店",
+      "cefr": "A2",
+      "ipa": "[kissateɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caa52532-2b56-45cf-afb6-f53dc7f2b0fb",
+      "part-of-speech": "noun",
+      "english": "glass, cup",
+      "japanese": "コップ",
+      "cefr": "A1",
+      "ipa": "[koppɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f6fe1a6-69a4-4737-9a61-28388c9a046f",
+      "part-of-speech": "noun",
+      "english": "plate, dish",
+      "japanese": "皿",
+      "cefr": "A2",
+      "ipa": "[saɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b007bcc9-34ac-496d-bd09-e1983fc8047e",
+      "part-of-speech": "noun",
+      "english": "chopsticks",
+      "japanese": "箸",
+      "cefr": "A1",
+      "ipa": "[haꜜɕi]",
+      "context": "compare 橋 (bridge): [haɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "add23bd4-0af6-43b6-b0be-5ca4f9a61cb0",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "japanese": "スプーン",
+      "cefr": "A2",
+      "ipa": "[sɯ̥pɯꜜːɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6539d672-0b4e-4019-b44f-9ca34ae58d9d",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "japanese": "フォーク",
+      "cefr": "A2",
+      "ipa": "[ɸoꜜːkɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8339e1d-f4bf-42e8-be7e-d7eded281780",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "japanese": "ナイフ",
+      "cefr": "A2",
+      "ipa": "[naꜜiɸɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49167e1e-4c23-449e-b3fd-e5bbb8d414c4",
+      "part-of-speech": "noun",
+      "english": "town",
+      "japanese": "町",
+      "cefr": "A1",
+      "ipa": "[matɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32220502-9f93-40c0-956f-98c72acd74c2",
+      "part-of-speech": "noun",
+      "english": "village",
+      "japanese": "村",
+      "cefr": "A2",
+      "ipa": "[mɯɾaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0deb406-2dfc-4105-9332-632d820f8239",
+      "part-of-speech": "noun",
+      "english": "country",
+      "japanese": "国",
+      "cefr": "A1",
+      "ipa": "[kɯɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "590dc9bc-45cd-4f76-bbb7-1005e1625926",
+      "part-of-speech": "noun",
+      "english": "road, street; way",
+      "japanese": "道",
+      "cefr": "A1",
+      "ipa": "[mitɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa52ba99-64cd-4783-8247-9484b5b307a5",
+      "part-of-speech": "noun",
+      "english": "bridge",
+      "japanese": "橋",
+      "cefr": "A2",
+      "ipa": "[haɕiꜜ]",
+      "context": "compare 箸 (chopsticks): [haꜜɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8519ecc5-13d7-4259-b00c-7f1e17b30f64",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "japanese": "店",
+      "cefr": "A1",
+      "ipa": "[miseꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c4cae7d-b6b2-420a-a30e-0b8af9e35e79",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "japanese": "スーパー",
+      "cefr": "A1",
+      "ipa": "[sɯꜜːpaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c566a37-3c9f-42d9-8053-229636824162",
+      "part-of-speech": "noun",
+      "english": "school",
+      "japanese": "学校",
+      "cefr": "A1",
+      "ipa": "[ɡakkoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91501ac6-8b64-49ba-9f18-d77a59508e35",
+      "part-of-speech": "noun",
+      "english": "university",
+      "japanese": "大学",
+      "cefr": "A1",
+      "ipa": "[daiɡakɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d97ffa61-4685-441c-88d2-e658d74d4e8a",
+      "part-of-speech": "noun",
+      "english": "company, office",
+      "japanese": "会社",
+      "cefr": "A1",
+      "ipa": "[kaiɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e4fddc5-bd4f-4d10-9734-b29bef2f5f3f",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "japanese": "病院",
+      "cefr": "A1",
+      "ipa": "[bʲoːiɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "592a6d24-16e8-44c8-a71d-2c786c0d08f6",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "japanese": "薬局",
+      "cefr": "A2",
+      "ipa": "[jakkʲokɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b75a0949-a235-4c47-bbd5-ff365ba690ce",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "japanese": "銀行",
+      "cefr": "A1",
+      "ipa": "[ɡiŋkoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2684769d-732f-48df-971d-18a7f2b34d01",
+      "part-of-speech": "noun",
+      "english": "post office",
+      "japanese": "郵便局",
+      "cefr": "A2",
+      "ipa": "[jɯːbiŋkʲoꜜkɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3331683-5c47-4609-85e3-08340efedd51",
+      "part-of-speech": "noun",
+      "english": "(Buddhist) temple",
+      "japanese": "お寺",
+      "cefr": "A2",
+      "ipa": "[oteɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2f85647-e1db-4ec9-b72a-977366a9f3e6",
+      "part-of-speech": "noun",
+      "english": "(Shinto) shrine",
+      "japanese": "神社",
+      "cefr": "A2",
+      "ipa": "[dʑiꜜɲdʑa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7b16d16-c5af-41ca-863b-ff791d535ad6",
+      "part-of-speech": "noun",
+      "english": "park",
+      "japanese": "公園",
+      "cefr": "A1",
+      "ipa": "[koːeɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50048237-ac45-4db8-a81b-787156e376ba",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "japanese": "映画館",
+      "cefr": "A2",
+      "ipa": "[eːɡaꜜkaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d974a55-d753-4d6c-8123-7e8bc7346925",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "japanese": "ホテル",
+      "cefr": "A1",
+      "ipa": "[hoꜜteɾɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c555013-7148-47be-b377-f3b3cfdba355",
+      "part-of-speech": "noun",
+      "english": "library",
+      "japanese": "図書館",
+      "cefr": "A1",
+      "ipa": "[toɕoꜜkaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1f26a8b-2fe0-4b4a-a462-b06f000e752c",
+      "part-of-speech": "noun",
+      "english": "station",
+      "japanese": "駅",
+      "cefr": "A1",
+      "ipa": "[eꜜki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "171e9128-958e-42d5-9afb-480db534a025",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "japanese": "空港",
+      "cefr": "A1",
+      "ipa": "[kɯːkoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "baef6d4f-1e19-4332-ac99-1bc213815a69",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "japanese": "バス",
+      "cefr": "A1",
+      "ipa": "[baꜜsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "135730d8-0ba7-4384-8b33-50b050f5eb2f",
+      "part-of-speech": "noun",
+      "english": "train",
+      "japanese": "電車",
+      "cefr": "A1",
+      "ipa": "[deɴɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3f9bb7a-459a-495b-9331-a499f3b5e718",
+      "part-of-speech": "noun",
+      "english": "underground, subway",
+      "japanese": "地下鉄",
+      "cefr": "A2",
+      "ipa": "[tɕi̥katetsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e07cdd3-6e43-4a9e-973a-ad2c27cb4fbb",
+      "part-of-speech": "noun",
+      "english": "car",
+      "japanese": "車",
+      "cefr": "A1",
+      "ipa": "[kɯɾɯma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaad424e-f196-4a07-b8dc-9269ab40a0be",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "japanese": "自転車",
+      "cefr": "A1",
+      "ipa": "[dʑiteɴɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6223fedc-75c7-4f90-bfef-6a76d7a6d66e",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "japanese": "飛行機",
+      "cefr": "A1",
+      "ipa": "[çikoꜜːki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e5e61f4-335b-4ede-a792-f8ecd42a2c06",
+      "part-of-speech": "noun",
+      "english": "ship, boat",
+      "japanese": "船",
+      "cefr": "A2",
+      "ipa": "[ɸɯꜜne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c2143e4-8b75-43c3-9558-d7c63bb59d2e",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "japanese": "切符",
+      "cefr": "A1",
+      "ipa": "[kippɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d80f94d6-4387-4ca0-868c-a8e99686c977",
+      "part-of-speech": "noun",
+      "english": "trip, travel",
+      "japanese": "旅行",
+      "cefr": "A1",
+      "ipa": "[ɾʲokoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e2a1c2d-01a7-4430-802f-9e0b1cdb6daa",
+      "part-of-speech": "noun",
+      "english": "map",
+      "japanese": "地図",
+      "cefr": "A2",
+      "ipa": "[tɕiꜜzɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd0b4538-9647-43cc-9dca-f293825ced8b",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "japanese": "海",
+      "cefr": "A1",
+      "ipa": "[ɯꜜmi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "760fa41b-829a-4306-90c7-187a366f4cac",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "japanese": "山",
+      "cefr": "A1",
+      "ipa": "[jamaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c835d2ed-72ad-4281-922d-aba2628dfe3f",
+      "part-of-speech": "noun",
+      "english": "river",
+      "japanese": "川",
+      "cefr": "A1",
+      "ipa": "[kaɰaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18fc8772-398d-4e12-a4f9-8db503960242",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "japanese": "湖",
+      "cefr": "A2",
+      "ipa": "[mizɯꜜːmi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f7fcaa8-09d9-43f5-a1c1-a324df31006e",
+      "part-of-speech": "noun",
+      "english": "tree; wood",
+      "japanese": "木",
+      "cefr": "A1",
+      "ipa": "[kiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99ec43e6-a476-4f34-9097-aaa842fa85aa",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "japanese": "花",
+      "cefr": "A1",
+      "ipa": "[hanaꜜ]",
+      "context": "compare 鼻 (nose): [hana] — flat",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b11f0e13-1b20-4121-8a68-9a0ba475d882",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "japanese": "動物",
+      "cefr": "A1",
+      "ipa": "[doːbɯtsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10338c01-1409-4986-ac8c-1862403e66c3",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "japanese": "犬",
+      "cefr": "A1",
+      "ipa": "[inɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed3f045d-74c7-4d75-928c-18d74e128098",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "japanese": "猫",
+      "cefr": "A1",
+      "ipa": "[neꜜko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41afe5db-4015-488c-8834-fb8fe8939213",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "japanese": "鳥",
+      "cefr": "A1",
+      "ipa": "[toɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8450d56a-f9f5-4b7e-8a8b-f75e526e926c",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "japanese": "天気",
+      "cefr": "A1",
+      "ipa": "[teꜜŋki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89703c93-2460-480b-b389-79be781c1bd3",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "japanese": "雨",
+      "cefr": "A1",
+      "ipa": "[aꜜme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d7904b3-63be-4bb7-9af6-a38c3d1324a0",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "japanese": "雪",
+      "cefr": "A1",
+      "ipa": "[jɯkiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97d88a1f-568f-40aa-b721-74a6a64ab5de",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "japanese": "風",
+      "cefr": "A2",
+      "ipa": "[kaze]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4db12e5b-dede-4f0f-a19f-ca434b04144e",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "japanese": "空",
+      "cefr": "A2",
+      "ipa": "[soꜜɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a59e08d8-da3f-4033-ab84-c0bcf7d92bf7",
+      "part-of-speech": "noun",
+      "english": "world",
+      "japanese": "世界",
+      "cefr": "A2",
+      "ipa": "[seꜜkai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72ac6c4e-b680-4b4d-8b93-031386ce47bd",
+      "part-of-speech": "noun",
+      "english": "body",
+      "japanese": "体",
+      "cefr": "A2",
+      "ipa": "[kaɾada]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c6e8316-2b1a-4aeb-8894-a9ec87b15f91",
+      "part-of-speech": "noun",
+      "english": "head",
+      "japanese": "頭",
+      "cefr": "A1",
+      "ipa": "[atamaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf2df6d7-18a8-4809-beb4-d284fabc8aab",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "japanese": "髪",
+      "cefr": "A1",
+      "ipa": "[kamiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb3b3895-7bc1-4b59-830f-a3053e73c6e1",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "japanese": "目",
+      "cefr": "A1",
+      "ipa": "[meꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5e4568c-22d2-4344-b081-5d22fcf85294",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "japanese": "耳",
+      "cefr": "A1",
+      "ipa": "[mimiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2f34da7-735c-4d65-9f8a-f4c390c5bddd",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "japanese": "鼻",
+      "cefr": "A1",
+      "ipa": "[hana]",
+      "context": "compare 花 (flower): [hanaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "549d9fa4-f285-4c36-8e47-d8f4572419ae",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "japanese": "口",
+      "cefr": "A1",
+      "ipa": "[kɯ̥tɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "946903de-644c-4ba2-bd73-335bb0bb675d",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "japanese": "歯",
+      "cefr": "A1",
+      "ipa": "[haꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "722304c2-a5f1-43ab-b617-cf900442051a",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "japanese": "手",
+      "cefr": "A1",
+      "ipa": "[teꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58474c90-2565-401a-8e49-7f741247be64",
+      "part-of-speech": "noun",
+      "english": "foot, leg",
+      "japanese": "足",
+      "cefr": "A1",
+      "ipa": "[aɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6d5bb73-c20c-4265-8413-1a7c48b27165",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "japanese": "お腹",
+      "cefr": "A1",
+      "ipa": "[onaka]",
+      "context": "お腹が空いた: I'm hungry",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "357e10b4-2899-4fbd-af3b-1464b414c2a3",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "japanese": "薬",
+      "cefr": "A1",
+      "ipa": "[kɯ̥sɯɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7359f304-6cda-4bd4-9c24-89bf21dafa8a",
+      "part-of-speech": "noun",
+      "english": "illness",
+      "japanese": "病気",
+      "cefr": "A1",
+      "ipa": "[bʲoːki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "012d7dcf-9e83-424d-81dc-1285232da2ad",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "japanese": "服",
+      "cefr": "A1",
+      "ipa": "[ɸɯ̥kɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2860ba79-d467-4139-821a-4db07bc35e16",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "japanese": "シャツ",
+      "cefr": "A1",
+      "ipa": "[ɕaꜜtsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f03393ad-bdb2-4d0c-8534-2bc9380d1ccb",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "japanese": "ズボン",
+      "cefr": "A1",
+      "ipa": "[zɯboꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb9f9ad5-9562-4d5e-a03f-0d3fc6a22d07",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "japanese": "スカート",
+      "cefr": "A1",
+      "ipa": "[sɯ̥kaꜜːto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "417a21b9-b166-49bc-ba23-2289dda88777",
+      "part-of-speech": "noun",
+      "english": "shoes",
+      "japanese": "靴",
+      "cefr": "A1",
+      "ipa": "[kɯ̥tsɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c932fd7-c038-48b1-96e9-30d5b7bd4a1b",
+      "part-of-speech": "noun",
+      "english": "hat, cap",
+      "japanese": "帽子",
+      "cefr": "A2",
+      "ipa": "[boːɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6ffb77e-6b5e-46a8-8c4c-bc6e6e6a8731",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "japanese": "かばん",
+      "cefr": "A1",
+      "ipa": "[kabaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "589a60d2-4e5e-4449-b01a-59e9b8a0f7bc",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "japanese": "仕事",
+      "cefr": "A1",
+      "ipa": "[ɕiɡoto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb4a5763-ef07-4335-9c45-e1a70f250323",
+      "part-of-speech": "noun",
+      "english": "money",
+      "japanese": "お金",
+      "cefr": "A1",
+      "ipa": "[okane]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fd241c5-4479-4fc8-97e4-1efb1c127e8b",
+      "part-of-speech": "noun",
+      "english": "yen",
+      "japanese": "円",
+      "cefr": "A1",
+      "ipa": "[eꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0bbc1c1-cd1f-4e8e-a118-b68d12e3f8eb",
+      "part-of-speech": "noun",
+      "english": "book",
+      "japanese": "本",
+      "cefr": "A1",
+      "ipa": "[hoꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "941116ab-47de-4f06-8026-209cbc2ec9cd",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "japanese": "新聞",
+      "cefr": "A1",
+      "ipa": "[ɕimbɯɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d19bdcb-ed62-4078-b2b1-4cb667038ad4",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "japanese": "手紙",
+      "cefr": "A1",
+      "ipa": "[teɡami]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "261eb8f9-8287-414f-9cc4-3c967c6cf053",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "japanese": "ペン",
+      "cefr": "A1",
+      "ipa": "[peꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a540e14f-b5c0-4119-9c96-accf1b8477d0",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "japanese": "紙",
+      "cefr": "A1",
+      "ipa": "[kamiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccdd0f8d-99e9-4911-a171-0972b3849358",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "japanese": "写真",
+      "cefr": "A1",
+      "ipa": "[ɕaɕiɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31d0686c-4385-447b-9eb4-9555337faa10",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "japanese": "映画",
+      "cefr": "A1",
+      "ipa": "[eːɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4a9f50d-ecbd-4769-af83-b1dfd1c95cd5",
+      "part-of-speech": "noun",
+      "english": "music",
+      "japanese": "音楽",
+      "cefr": "A1",
+      "ipa": "[oꜜŋɡakɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0da128cb-d932-44be-8f92-c28c48be124a",
+      "part-of-speech": "noun",
+      "english": "song",
+      "japanese": "歌",
+      "cefr": "A1",
+      "ipa": "[ɯtaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20bf9a75-b239-464e-b207-747b2c372a28",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "japanese": "スポーツ",
+      "cefr": "A1",
+      "ipa": "[sɯ̥poꜜːtsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41b629af-0ca2-4cdf-9d85-ffce5af3a1b2",
+      "part-of-speech": "noun",
+      "english": "game",
+      "japanese": "ゲーム",
+      "cefr": "A2",
+      "ipa": "[ɡeꜜːmɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e1cbab4-3584-4f94-9f0f-7fae047b4caa",
+      "part-of-speech": "noun",
+      "english": "Japanese (language)",
+      "japanese": "日本語",
+      "cefr": "A1",
+      "ipa": "[ɲihoŋɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05f22998-b9fa-433c-8151-d9042b7b2cec",
+      "part-of-speech": "noun",
+      "english": "English (language)",
+      "japanese": "英語",
+      "cefr": "A1",
+      "ipa": "[eːɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "494c6ec6-bbb6-4062-9b03-01c8496f3860",
+      "part-of-speech": "noun",
+      "english": "word; language",
+      "japanese": "言葉",
+      "cefr": "A1",
+      "ipa": "[kotobaꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2cf04963-fd34-4ac2-b354-6ddb79e29125",
+      "part-of-speech": "noun",
+      "english": "question",
+      "japanese": "質問",
+      "cefr": "A1",
+      "ipa": "[ɕi̥tsɯmoɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45d7347e-6561-4c36-9737-f95523675bf0",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "japanese": "答え",
+      "cefr": "A1",
+      "ipa": "[kotaꜜe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f6b799c-2216-4797-bd2b-fd3aaa0e79d5",
+      "part-of-speech": "noun",
+      "english": "homework",
+      "japanese": "宿題",
+      "cefr": "A1",
+      "ipa": "[ɕɯ̥kɯdai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b9e4d28-0b5e-40b8-8619-065504e3a2a2",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "japanese": "色",
+      "cefr": "A1",
+      "ipa": "[iɾoꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1d101eb-97ef-4164-abf7-e92827d38111",
+      "part-of-speech": "noun",
+      "english": "green",
+      "japanese": "緑",
+      "cefr": "A1",
+      "ipa": "[miꜜdoɾi]",
+      "context": "a noun: 緑の車 (a green car)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b604fb2-f646-4737-8a86-c4a840703a05",
+      "part-of-speech": "noun",
+      "english": "problem; question (on a test)",
+      "japanese": "問題",
+      "cefr": "A2",
+      "ipa": "[moɴdai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "072f449f-ebbe-424c-8b08-97a2da8fe872",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "japanese": "物",
+      "cefr": "A1",
+      "ipa": "[monoꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16728a40-6553-4443-b845-d7dc6c814df5",
+      "part-of-speech": "noun",
+      "english": "number",
+      "japanese": "番号",
+      "cefr": "A2",
+      "ipa": "[baŋɡoꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e231e425-7512-4234-a475-5695f96991c1",
+      "part-of-speech": "noun",
+      "english": "address",
+      "japanese": "住所",
+      "cefr": "A2",
+      "ipa": "[dʑɯꜜːɕo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a314646b-b411-4766-a5f7-7090e0e92bc3",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "japanese": "ゼロ",
+      "cefr": "A1",
+      "ipa": "[zeꜜɾo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3332c694-04f4-4129-895e-80fdf3cfe05f",
+      "part-of-speech": "noun",
+      "english": "one",
+      "japanese": "一",
+      "cefr": "A1",
+      "ipa": "[itɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83e0d332-137a-46e7-bb1b-3535c53b3102",
+      "part-of-speech": "noun",
+      "english": "two",
+      "japanese": "二",
+      "cefr": "A1",
+      "ipa": "[ɲiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea1e2a79-c24f-4b7c-a41a-597b433b8904",
+      "part-of-speech": "noun",
+      "english": "three",
+      "japanese": "三",
+      "cefr": "A1",
+      "ipa": "[saɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8de0dd5d-e60c-4032-b5b4-a2cb574a15ad",
+      "part-of-speech": "noun",
+      "english": "four",
+      "japanese": "四",
+      "cefr": "A1",
+      "ipa": "[joꜜɴ]",
+      "context": "also し",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c5d3190-1721-487f-b2f1-a52371fb59c8",
+      "part-of-speech": "noun",
+      "english": "five",
+      "japanese": "五",
+      "cefr": "A1",
+      "ipa": "[ɡoꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0d18558-a28f-4b2a-b44f-4b67c119951a",
+      "part-of-speech": "noun",
+      "english": "six",
+      "japanese": "六",
+      "cefr": "A1",
+      "ipa": "[ɾokɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e852c1b-6cb0-4840-825a-17b4d88d4e28",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "japanese": "七",
+      "cefr": "A1",
+      "ipa": "[naꜜna]",
+      "context": "also しち",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95771c74-51a9-45c8-b8e6-8ef9c6ed35c2",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "japanese": "八",
+      "cefr": "A1",
+      "ipa": "[hatɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a51fc0cb-ac25-461c-8817-dccb9bd726a0",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "japanese": "九",
+      "cefr": "A1",
+      "ipa": "[kʲɯꜜː]",
+      "context": "also く",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d681058-1ebf-4ea6-a0db-7df944ec8a74",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "japanese": "十",
+      "cefr": "A1",
+      "ipa": "[dʑɯꜜː]",
+      "context": "11–19: 十一, 十二 …; 20: 二十",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8b4cd03-abe2-435b-a120-383686bbaee0",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "japanese": "百",
+      "cefr": "A1",
+      "ipa": "[çakɯꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c44fa4c-3cdb-4fe9-b191-daced6330da7",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "japanese": "千",
+      "cefr": "A1",
+      "ipa": "[seꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2442dec-0b4f-4b82-b0ea-6de0d616c5b1",
+      "part-of-speech": "noun",
+      "english": "ten thousand",
+      "japanese": "万",
+      "cefr": "A1",
+      "ipa": "[maꜜɴ]",
+      "context": "Japanese counts large numbers in units of 10,000",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ae3a9b6-1c7a-4103-8d38-e54b2512d094",
+      "part-of-speech": "verb",
+      "english": "to be, exist (things); to have",
+      "japanese": "ある",
+      "cefr": "A1",
+      "ipa": "[aꜜɾɯ]",
+      "context": "u-verb; polite: あります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37e4e5d2-4066-40af-b811-ddf68bbc7253",
+      "part-of-speech": "verb",
+      "english": "to be, exist (people, animals)",
+      "japanese": "いる",
+      "cefr": "A1",
+      "ipa": "[iɾɯ]",
+      "context": "ru-verb; polite: います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cafb4389-cf9e-43d3-a832-8a51835b1d09",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "japanese": "する",
+      "cefr": "A1",
+      "ipa": "[sɯɾɯ]",
+      "context": "irregular verb; polite: します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c15b84c-b455-46ad-aeb0-b3757fc2c4e5",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "japanese": "来る",
+      "cefr": "A1",
+      "ipa": "[kɯꜜɾɯ]",
+      "context": "irregular verb; polite: 来ます (きます)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b64c73e-8c91-4e2c-a42b-8e906f512af7",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "japanese": "行く",
+      "cefr": "A1",
+      "ipa": "[ikɯ]",
+      "context": "u-verb; polite: 行きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2edc8324-044a-4966-a88d-c56cf69d1bdf",
+      "part-of-speech": "verb",
+      "english": "to go home, return",
+      "japanese": "帰る",
+      "cefr": "A1",
+      "ipa": "[kaꜜeɾɯ]",
+      "context": "u-verb; polite: 帰ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "911650aa-f44f-4969-bc47-8c4a13a1d53a",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "japanese": "食べる",
+      "cefr": "A1",
+      "ipa": "[tabeꜜɾɯ]",
+      "context": "ru-verb; polite: 食べます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3621eb4a-f218-4412-b9b1-62bf07f41927",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "japanese": "飲む",
+      "cefr": "A1",
+      "ipa": "[noꜜmɯ]",
+      "context": "u-verb; polite: 飲みます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e03d30d3-64fd-46ad-89f9-6e13da131509",
+      "part-of-speech": "verb",
+      "english": "to see, look at, watch",
+      "japanese": "見る",
+      "cefr": "A1",
+      "ipa": "[miꜜɾɯ]",
+      "context": "ru-verb; polite: 見ます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36d728b2-8b57-45c5-b4ea-be5bd8f578eb",
+      "part-of-speech": "verb",
+      "english": "to hear, listen; to ask",
+      "japanese": "聞く",
+      "cefr": "A1",
+      "ipa": "[kikɯ]",
+      "context": "u-verb; polite: 聞きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af3e23d1-3a60-4bcf-9c07-178b65271c8f",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "japanese": "読む",
+      "cefr": "A1",
+      "ipa": "[joꜜmɯ]",
+      "context": "u-verb; polite: 読みます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91d60bf9-fd7a-4159-93e5-7b022aab37ad",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "japanese": "書く",
+      "cefr": "A1",
+      "ipa": "[kaꜜkɯ]",
+      "context": "u-verb; polite: 書きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "902b12a6-a292-4fd1-bbbb-039e00657975",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "japanese": "話す",
+      "cefr": "A1",
+      "ipa": "[hanaꜜsɯ]",
+      "context": "u-verb; polite: 話します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6b26197-c3e7-4dbc-b642-23ee624750ae",
+      "part-of-speech": "verb",
+      "english": "to say",
+      "japanese": "言う",
+      "cefr": "A1",
+      "ipa": "[iɯ]",
+      "context": "u-verb; polite: 言います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb316fd5-cda8-4939-accb-245f24ea8a30",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "japanese": "分かる",
+      "cefr": "A1",
+      "ipa": "[ɰakaꜜɾɯ]",
+      "context": "u-verb; polite: 分かります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84cafbef-c319-4eda-b449-4bc180e66e1d",
+      "part-of-speech": "verb",
+      "english": "to know; to get to know",
+      "japanese": "知る",
+      "cefr": "A1",
+      "ipa": "[ɕiɾɯ]",
+      "context": "u-verb; polite: 知ります; \"I know\" is 知っています",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "286afa72-6eb0-4763-8569-e6d145160338",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "japanese": "思う",
+      "cefr": "A1",
+      "ipa": "[omoꜜɯ]",
+      "context": "u-verb; polite: 思います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ab5fdb0-9ccb-4e57-a363-2687cb8e9987",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "japanese": "買う",
+      "cefr": "A1",
+      "ipa": "[kaɯ]",
+      "context": "u-verb; polite: 買います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07eeb4b3-3b72-4bf2-adc6-58e9706d9c07",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "japanese": "売る",
+      "cefr": "A2",
+      "ipa": "[ɯɾɯ]",
+      "context": "u-verb; polite: 売ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65b9ac9d-3f87-4108-bd56-f46ea4e74168",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "japanese": "待つ",
+      "cefr": "A1",
+      "ipa": "[maꜜtsɯ]",
+      "context": "u-verb; polite: 待ちます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ac2f816-ce65-4f2a-beb4-bd60780c4650",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "japanese": "会う",
+      "cefr": "A1",
+      "ipa": "[aꜜɯ]",
+      "context": "u-verb; polite: 会います; 友達に会う: to meet a friend",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fce9be6e-804a-41b3-a3ed-d66cd38299aa",
+      "part-of-speech": "verb",
+      "english": "to make",
+      "japanese": "作る",
+      "cefr": "A1",
+      "ipa": "[tsɯ̥kɯꜜɾɯ]",
+      "context": "u-verb; polite: 作ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec38dbf1-ca42-4db2-9b1e-5a845a855ad6",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "japanese": "使う",
+      "cefr": "A1",
+      "ipa": "[tsɯ̥kaɯ]",
+      "context": "u-verb; polite: 使います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c7c5448-128d-410d-a956-c5e1b8ec2c94",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "japanese": "働く",
+      "cefr": "A1",
+      "ipa": "[hataɾakɯ]",
+      "context": "u-verb; polite: 働きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbb3eafa-87ac-4435-8d6f-4f9d804e03e2",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "japanese": "勉強する",
+      "cefr": "A1",
+      "ipa": "[beŋkʲoː sɯɾɯ]",
+      "context": "irregular verb; polite: 勉強します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d3f64d5-b536-4179-8431-aa653666b5d9",
+      "part-of-speech": "verb",
+      "english": "to sleep; to go to bed",
+      "japanese": "寝る",
+      "cefr": "A1",
+      "ipa": "[neɾɯ]",
+      "context": "ru-verb; polite: 寝ます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "420e9a95-e95c-4acc-9ca4-a28be07d68a0",
+      "part-of-speech": "verb",
+      "english": "to get up, wake up",
+      "japanese": "起きる",
+      "cefr": "A1",
+      "ipa": "[okiꜜɾɯ]",
+      "context": "ru-verb; polite: 起きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "048772a3-c623-43cd-8b22-68089d39ffec",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "japanese": "住む",
+      "cefr": "A1",
+      "ipa": "[sɯꜜmɯ]",
+      "context": "u-verb; polite: 住みます; \"I live in …\" is …に住んでいます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52988791-5240-4a8c-aa8e-3dd94b8e8935",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "japanese": "座る",
+      "cefr": "A1",
+      "ipa": "[sɯɰaɾɯ]",
+      "context": "u-verb; polite: 座ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e30746ec-0e29-4ac1-baf8-fc9b0f3d5acd",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "japanese": "立つ",
+      "cefr": "A1",
+      "ipa": "[taꜜtsɯ]",
+      "context": "u-verb; polite: 立ちます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "263d9730-d3f7-4b40-ae1c-100c4a486a6d",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "japanese": "歩く",
+      "cefr": "A1",
+      "ipa": "[aɾɯꜜkɯ]",
+      "context": "u-verb; polite: 歩きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0258c9ed-dde4-4324-8a20-0e24afe9cf55",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "japanese": "走る",
+      "cefr": "A1",
+      "ipa": "[haɕiꜜɾɯ]",
+      "context": "u-verb; polite: 走ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4da241d-e233-414d-8ef8-cfe647303a14",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "japanese": "泳ぐ",
+      "cefr": "A1",
+      "ipa": "[ojoꜜɡɯ]",
+      "context": "u-verb; polite: 泳ぎます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f17c09c-5c5a-4b09-9e78-3439f0b5655a",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "japanese": "運転する",
+      "cefr": "A2",
+      "ipa": "[ɯnteɴ sɯɾɯ]",
+      "context": "irregular verb; polite: 運転します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4dc735f-59a0-4df6-8c8f-b74976b72316",
+      "part-of-speech": "verb",
+      "english": "to ride, get on (a vehicle)",
+      "japanese": "乗る",
+      "cefr": "A1",
+      "ipa": "[noɾɯ]",
+      "context": "u-verb; polite: 乗ります; 電車に乗る: to take the train",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acbb68f2-aee6-4a46-97dc-b329429131b4",
+      "part-of-speech": "verb",
+      "english": "to get off (a vehicle)",
+      "japanese": "降りる",
+      "cefr": "A1",
+      "ipa": "[oɾiꜜɾɯ]",
+      "context": "ru-verb; polite: 降ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c623f11f-a56e-40a1-bb04-6c150d85bbf8",
+      "part-of-speech": "verb",
+      "english": "to enter, go in",
+      "japanese": "入る",
+      "cefr": "A1",
+      "ipa": "[haꜜiɾɯ]",
+      "context": "u-verb; polite: 入ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29d75e31-5330-4b91-8e49-26084ac5193f",
+      "part-of-speech": "verb",
+      "english": "to go out, leave",
+      "japanese": "出る",
+      "cefr": "A1",
+      "ipa": "[deꜜɾɯ]",
+      "context": "ru-verb; polite: 出ます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be0e05ef-7379-486f-9244-cfc6b8033446",
+      "part-of-speech": "verb",
+      "english": "to open (something)",
+      "japanese": "開ける",
+      "cefr": "A1",
+      "ipa": "[akeɾɯ]",
+      "context": "ru-verb; polite: 開けます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de1b62f3-5d2a-4de8-8171-4bfaf3f0321f",
+      "part-of-speech": "verb",
+      "english": "to close (something)",
+      "japanese": "閉める",
+      "cefr": "A1",
+      "ipa": "[ɕimeꜜɾɯ]",
+      "context": "ru-verb; polite: 閉めます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7d97958-efd8-4add-b0aa-c2a4154f9d8c",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "japanese": "始まる",
+      "cefr": "A1",
+      "ipa": "[hadʑimaɾɯ]",
+      "context": "u-verb; polite: 始まります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e29577d-f546-4a2f-a932-183ce39ab1f1",
+      "part-of-speech": "verb",
+      "english": "to end, finish",
+      "japanese": "終わる",
+      "cefr": "A1",
+      "ipa": "[oɰaɾɯ]",
+      "context": "u-verb; polite: 終わります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55568058-092a-4bbf-ae85-e40ad70e4e5c",
+      "part-of-speech": "verb",
+      "english": "to play; to hang out",
+      "japanese": "遊ぶ",
+      "cefr": "A1",
+      "ipa": "[asobɯ]",
+      "context": "u-verb; polite: 遊びます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e408f01-5634-4d45-86fb-77e0e4b5fd66",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "japanese": "洗う",
+      "cefr": "A1",
+      "ipa": "[aɾaɯ]",
+      "context": "u-verb; polite: 洗います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0dbe65c-192c-4996-a796-178ef691504b",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "japanese": "手伝う",
+      "cefr": "A1",
+      "ipa": "[tetsɯdaꜜɯ]",
+      "context": "u-verb; polite: 手伝います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5beff06-9f09-46f8-9625-004813f731af",
+      "part-of-speech": "verb",
+      "english": "to phone",
+      "japanese": "電話する",
+      "cefr": "A1",
+      "ipa": "[deɴɰa sɯɾɯ]",
+      "context": "irregular verb; polite: 電話します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f63bc63-1551-43fe-aff3-e5a1100afec9",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "japanese": "歌う",
+      "cefr": "A1",
+      "ipa": "[ɯtaɯ]",
+      "context": "u-verb; polite: 歌います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bbea283-8b77-4e59-95bf-c6f86743f616",
+      "part-of-speech": "verb",
+      "english": "to teach; to tell",
+      "japanese": "教える",
+      "cefr": "A1",
+      "ipa": "[oɕieɾɯ]",
+      "context": "ru-verb; polite: 教えます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2650e20-b93a-4bf1-9b11-910ea87748ef",
+      "part-of-speech": "verb",
+      "english": "to learn (from someone)",
+      "japanese": "習う",
+      "cefr": "A1",
+      "ipa": "[naɾaꜜɯ]",
+      "context": "u-verb; polite: 習います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7a708cd-3679-4f31-bce7-cd9a93e8d979",
+      "part-of-speech": "verb",
+      "english": "to rest; to take a day off",
+      "japanese": "休む",
+      "cefr": "A1",
+      "ipa": "[jasɯꜜmɯ]",
+      "context": "u-verb; polite: 休みます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a74186d5-c555-492d-9aa9-543dba5cf6f8",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "japanese": "あげる",
+      "cefr": "A1",
+      "ipa": "[aɡeɾɯ]",
+      "context": "ru-verb; polite: あげます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68b53a85-c391-4d0f-bfa4-177bd85a92d5",
+      "part-of-speech": "verb",
+      "english": "to receive, get",
+      "japanese": "もらう",
+      "cefr": "A1",
+      "ipa": "[moɾaɯ]",
+      "context": "u-verb; polite: もらいます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8492144-8f38-496f-b6f4-1c19f969e55a",
+      "part-of-speech": "verb",
+      "english": "to hold, carry; to have",
+      "japanese": "持つ",
+      "cefr": "A1",
+      "ipa": "[moꜜtsɯ]",
+      "context": "u-verb; polite: 持ちます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79a5b528-1580-422e-9353-2fe6028e2fd9",
+      "part-of-speech": "verb",
+      "english": "to put, place",
+      "japanese": "置く",
+      "cefr": "A2",
+      "ipa": "[okɯ]",
+      "context": "u-verb; polite: 置きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92e286ea-d405-49c4-b8a7-468655660484",
+      "part-of-speech": "verb",
+      "english": "to wear, put on (clothes)",
+      "japanese": "着る",
+      "cefr": "A1",
+      "ipa": "[kiɾɯ]",
+      "context": "ru-verb; polite: 着ます; shoes and trousers use 履く (はく)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "682f3944-2b7d-41a8-bbcc-51959d75f801",
+      "part-of-speech": "verb",
+      "english": "to take; to pick up",
+      "japanese": "取る",
+      "cefr": "A1",
+      "ipa": "[toꜜɾɯ]",
+      "context": "u-verb; polite: 取ります; take a photo: 写真を撮る (same sound)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9387f6e-3020-4e4f-a3cb-169936ae99fb",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "japanese": "できる",
+      "cefr": "A1",
+      "ipa": "[dekiꜜɾɯ]",
+      "context": "ru-verb; polite: できます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cf0715d-100b-4eba-9da4-8e6cbd42280a",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "japanese": "要る",
+      "cefr": "A2",
+      "ipa": "[iɾɯ]",
+      "context": "u-verb; polite: 要ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dddbc02b-eb71-4169-845e-750b030d1255",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "japanese": "忘れる",
+      "cefr": "A2",
+      "ipa": "[ɰasɯɾeɾɯ]",
+      "context": "ru-verb; polite: 忘れます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00fd8b61-e993-4fd1-9dd1-d70472bebfd7",
+      "part-of-speech": "verb",
+      "english": "to remember; to memorize",
+      "japanese": "覚える",
+      "cefr": "A2",
+      "ipa": "[oboeꜜɾɯ]",
+      "context": "ru-verb; polite: 覚えます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aab01206-8a26-4ed0-ab18-17265d00dc39",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "japanese": "送る",
+      "cefr": "A2",
+      "ipa": "[okɯɾɯ]",
+      "context": "u-verb; polite: 送ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b040b112-0e62-4e06-be7d-2a2e85b85cfd",
+      "part-of-speech": "verb",
+      "english": "to arrive",
+      "japanese": "着く",
+      "cefr": "A2",
+      "ipa": "[tsɯꜜkɯ]",
+      "context": "u-verb; polite: 着きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "739aa1e0-e857-4b28-a12a-8374a37e4a66",
+      "part-of-speech": "verb",
+      "english": "to go out",
+      "japanese": "出かける",
+      "cefr": "A2",
+      "ipa": "[dekakeɾɯ]",
+      "context": "ru-verb; polite: 出かけます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41d7af11-15c1-49e8-908e-6769ae07637f",
+      "part-of-speech": "verb",
+      "english": "to get married",
+      "japanese": "結婚する",
+      "cefr": "A2",
+      "ipa": "[kekkoɴ sɯɾɯ]",
+      "context": "irregular verb; polite: 結婚します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f127b95-f867-4176-918a-c44cf2cee21a",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "japanese": "旅行する",
+      "cefr": "A2",
+      "ipa": "[ɾʲokoː sɯɾɯ]",
+      "context": "irregular verb; polite: 旅行します",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73499d6d-e78d-4871-b9e4-626e77c1c80e",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "japanese": "生まれる",
+      "cefr": "A2",
+      "ipa": "[ɯmaɾeɾɯ]",
+      "context": "ru-verb; polite: 生まれます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d39ee50-1047-4c7f-aab2-7aeee07c54aa",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "japanese": "死ぬ",
+      "cefr": "A2",
+      "ipa": "[ɕinɯ]",
+      "context": "u-verb; polite: 死にます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b4b214e-5eda-4f68-84d7-eb9c99f0b06e",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "japanese": "笑う",
+      "cefr": "A2",
+      "ipa": "[ɰaɾaɯ]",
+      "context": "u-verb; polite: 笑います",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27849b7f-befe-48d3-a2ef-87082f89fb58",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "japanese": "泣く",
+      "cefr": "A2",
+      "ipa": "[nakɯ]",
+      "context": "u-verb; polite: 泣きます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1abd0a80-7dc9-4d83-adf3-18c928c5194e",
+      "part-of-speech": "verb",
+      "english": "to fall (rain, snow)",
+      "japanese": "降る",
+      "cefr": "A2",
+      "ipa": "[ɸɯꜜɾɯ]",
+      "context": "u-verb; polite: 降ります; 雨が降る: it rains",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1303abc7-9710-406a-acd6-0774bce83633",
+      "part-of-speech": "verb",
+      "english": "to be in trouble, be at a loss",
+      "japanese": "困る",
+      "cefr": "A2",
+      "ipa": "[komaꜜɾɯ]",
+      "context": "u-verb; polite: 困ります",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25b60f03-8481-4fdc-b133-697a1b99bc2d",
+      "part-of-speech": "verb",
+      "english": "to do one's best",
+      "japanese": "頑張る",
+      "cefr": "A2",
+      "ipa": "[ɡambaꜜɾɯ]",
+      "context": "u-verb; polite: 頑張ります; 頑張って!: good luck!",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96ca1e9f-bffa-4700-9d49-77134b17f9db",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "japanese": "大きい",
+      "cefr": "A1",
+      "ipa": "[oːkiꜜː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ace6005-3423-48ed-acaa-540393372580",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "japanese": "小さい",
+      "cefr": "A1",
+      "ipa": "[tɕiːsaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32b3a702-694a-4e02-b7ef-f7bf8a107670",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "japanese": "いい",
+      "cefr": "A1",
+      "ipa": "[iꜜː]",
+      "context": "i-adjective; past: よかった",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78896872-e7e0-4721-896e-dc7371fa2bbd",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "japanese": "悪い",
+      "cefr": "A1",
+      "ipa": "[ɰaɾɯꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68d8f38e-ba48-4b15-bddb-6574d68f34dc",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "japanese": "新しい",
+      "cefr": "A1",
+      "ipa": "[ataɾaɕiꜜː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f31b119e-33a0-41f4-acbe-953d30881776",
+      "part-of-speech": "adjective",
+      "english": "old (of things)",
+      "japanese": "古い",
+      "cefr": "A1",
+      "ipa": "[ɸɯɾɯꜜi]",
+      "context": "i-adjective; for people: 年を取った",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba76931d-74c8-48f1-a597-6def0da90c81",
+      "part-of-speech": "adjective",
+      "english": "expensive; tall, high",
+      "japanese": "高い",
+      "cefr": "A1",
+      "ipa": "[takaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6711d1a-b412-4abd-9ef3-f8539b74c1f9",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "japanese": "安い",
+      "cefr": "A1",
+      "ipa": "[jasɯꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4223d817-f16f-4c99-9785-c6ae65c214fe",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "japanese": "長い",
+      "cefr": "A1",
+      "ipa": "[naɡaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3592f17d-b87d-4ca7-bb2b-05169b2ba37d",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "japanese": "短い",
+      "cefr": "A1",
+      "ipa": "[midʑikaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf0c5718-7630-41ff-860a-37a58010d524",
+      "part-of-speech": "adjective",
+      "english": "hot (weather)",
+      "japanese": "暑い",
+      "cefr": "A1",
+      "ipa": "[atsɯꜜi]",
+      "context": "i-adjective; hot to the touch: 熱い (same sound)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ec01cd4-185d-4933-97c3-4619a4bd8fe7",
+      "part-of-speech": "adjective",
+      "english": "cold (weather)",
+      "japanese": "寒い",
+      "cefr": "A1",
+      "ipa": "[samɯꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fede3ee-4b65-4e7d-b304-09e74d901237",
+      "part-of-speech": "adjective",
+      "english": "cold (to the touch)",
+      "japanese": "冷たい",
+      "cefr": "A1",
+      "ipa": "[tsɯmetai]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65e1a3b7-8f80-482b-869b-a845ec9ae52b",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "japanese": "暖かい",
+      "cefr": "A1",
+      "ipa": "[atatakaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8060c122-20df-4eb7-97a9-d1ecde7cf20a",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "japanese": "速い",
+      "cefr": "A1",
+      "ipa": "[hajaꜜi]",
+      "context": "i-adjective; early: 早い (same sound)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc7abedd-beff-40bb-9c9e-170defc5eb73",
+      "part-of-speech": "adjective",
+      "english": "slow; late",
+      "japanese": "遅い",
+      "cefr": "A1",
+      "ipa": "[osoi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bde90187-3662-4a34-97ce-941c35214c6d",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "japanese": "難しい",
+      "cefr": "A1",
+      "ipa": "[mɯzɯkaɕiꜜː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23d1dfdb-b73e-4214-a799-c358c4b7e891",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "japanese": "易しい",
+      "cefr": "A1",
+      "ipa": "[jasaɕiː]",
+      "context": "i-adjective; kind: 優しい (same sound)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82c7c269-c761-493a-94af-e7e5ca6243b5",
+      "part-of-speech": "adjective",
+      "english": "fun, enjoyable",
+      "japanese": "楽しい",
+      "cefr": "A1",
+      "ipa": "[tanoɕiꜜː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2100e5d3-6cb7-4463-a3f7-273256dd6ecd",
+      "part-of-speech": "adjective",
+      "english": "glad, happy",
+      "japanese": "嬉しい",
+      "cefr": "A1",
+      "ipa": "[ɯɾeɕiꜜː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6a6b320-566a-40c8-b8aa-f2470f597617",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "japanese": "悲しい",
+      "cefr": "A2",
+      "ipa": "[kanaɕiː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9ce85c7-02f6-4748-809e-736f1a6369ab",
+      "part-of-speech": "adjective",
+      "english": "delicious, tasty",
+      "japanese": "おいしい",
+      "cefr": "A1",
+      "ipa": "[oiɕiː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd819cdb-8e40-4c2e-9a79-c5132a10a44b",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "japanese": "忙しい",
+      "cefr": "A1",
+      "ipa": "[isoɡaɕiꜜː]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbd4be20-ec99-4e95-8cd2-1d169674aa98",
+      "part-of-speech": "adjective",
+      "english": "painful, sore",
+      "japanese": "痛い",
+      "cefr": "A1",
+      "ipa": "[itaꜜi]",
+      "context": "i-adjective; 痛い!: ouch!",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51189ef7-9138-4336-92f2-f426a4dcde42",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "japanese": "白い",
+      "cefr": "A1",
+      "ipa": "[ɕiɾoꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "903eb304-21cb-4496-ac64-7015eb38e859",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "japanese": "黒い",
+      "cefr": "A1",
+      "ipa": "[kɯɾoꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d50f3066-208c-4319-9725-82ecc0f647ab",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "japanese": "赤い",
+      "cefr": "A1",
+      "ipa": "[akai]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95ff9908-600d-4498-8401-386f479c9084",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "japanese": "青い",
+      "cefr": "A1",
+      "ipa": "[aoꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf802e8a-830d-47b6-bdde-fc5f0eca557d",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "japanese": "黄色い",
+      "cefr": "A1",
+      "ipa": "[kiːɾoi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7dcd549-f169-4e8a-9b2b-1e2c2daf27c3",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "japanese": "茶色い",
+      "cefr": "A1",
+      "ipa": "[tɕaiɾoi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10101932-0c2b-4764-b539-22c1830428af",
+      "part-of-speech": "adjective",
+      "english": "many, a lot",
+      "japanese": "多い",
+      "cefr": "A1",
+      "ipa": "[oꜜːi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebd940d9-1f9a-4dff-a50e-48ade4a48b37",
+      "part-of-speech": "adjective",
+      "english": "few, little",
+      "japanese": "少ない",
+      "cefr": "A1",
+      "ipa": "[sɯ̥kɯnaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5966d7cf-71d0-4265-ba94-36bec3f6317b",
+      "part-of-speech": "adjective",
+      "english": "near, close",
+      "japanese": "近い",
+      "cefr": "A1",
+      "ipa": "[tɕi̥kaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "655a8721-31be-4188-9bf6-ca38853dd24d",
+      "part-of-speech": "adjective",
+      "english": "far",
+      "japanese": "遠い",
+      "cefr": "A1",
+      "ipa": "[toːi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9ff13ce-5a7a-4bce-8ea2-8ae44c1e2685",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "japanese": "若い",
+      "cefr": "A1",
+      "ipa": "[ɰakaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4488b35e-2069-402d-b524-5563ca7a022f",
+      "part-of-speech": "adjective",
+      "english": "interesting; funny",
+      "japanese": "面白い",
+      "cefr": "A1",
+      "ipa": "[omoɕiɾoꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd5c7c2a-743d-403a-bf79-a3aefccda390",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "japanese": "つまらない",
+      "cefr": "A2",
+      "ipa": "[tsɯmaɾaꜜnai]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad808096-86b1-4e21-a713-530186f7dd31",
+      "part-of-speech": "adjective",
+      "english": "wide, spacious",
+      "japanese": "広い",
+      "cefr": "A2",
+      "ipa": "[çiɾoꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b129242b-2e4a-4c6a-8dda-f75d1b04fe95",
+      "part-of-speech": "adjective",
+      "english": "narrow, cramped",
+      "japanese": "狭い",
+      "cefr": "A2",
+      "ipa": "[semaꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "444f9a2d-a784-4b1c-9022-d61d54c9676d",
+      "part-of-speech": "adjective",
+      "english": "bright; cheerful",
+      "japanese": "明るい",
+      "cefr": "A2",
+      "ipa": "[akaɾɯi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "310e3749-3ae2-42bd-8e08-45befa397403",
+      "part-of-speech": "adjective",
+      "english": "dark",
+      "japanese": "暗い",
+      "cefr": "A2",
+      "ipa": "[kɯɾai]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b2f7c6e-d650-46a6-bd60-d9578e545909",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "japanese": "重い",
+      "cefr": "A2",
+      "ipa": "[omoi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c01ba5a-8fd2-4ac4-ab49-391083ff42c2",
+      "part-of-speech": "adjective",
+      "english": "light",
+      "japanese": "軽い",
+      "cefr": "A2",
+      "ipa": "[kaɾɯi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e657361-4017-49b7-a8b3-8aeabd56a5b5",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "japanese": "強い",
+      "cefr": "A2",
+      "ipa": "[tsɯjoꜜi]",
+      "context": "i-adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "657547c6-27c3-4eb9-b601-25375c39806b",
+      "part-of-speech": "adjective",
+      "english": "wanted (to want something)",
+      "japanese": "欲しい",
+      "cefr": "A1",
+      "ipa": "[hoɕiꜜː]",
+      "context": "i-adjective; 水が欲しい: I want water",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f0c26a2-005a-4344-ae7e-ebe529c57e41",
+      "part-of-speech": "adjective",
+      "english": "well, healthy; lively",
+      "japanese": "元気",
+      "cefr": "A1",
+      "ipa": "[ɡeꜜŋki]",
+      "context": "na-adjective: 元気な + noun; お元気ですか: how are you?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a344cb6-9adf-4c40-a396-fc763690fb7d",
+      "part-of-speech": "adjective",
+      "english": "quiet",
+      "japanese": "静か",
+      "cefr": "A1",
+      "ipa": "[ɕiꜜzɯka]",
+      "context": "na-adjective: 静かな + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5196fc9d-8256-4941-9f6b-531ca8bb8eb0",
+      "part-of-speech": "adjective",
+      "english": "famous",
+      "japanese": "有名",
+      "cefr": "A1",
+      "ipa": "[jɯːmeː]",
+      "context": "na-adjective: 有名な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04197874-48a3-4edd-84fd-b26e7b69c26e",
+      "part-of-speech": "adjective",
+      "english": "liked (to like)",
+      "japanese": "好き",
+      "cefr": "A1",
+      "ipa": "[sɯ̥kiꜜ]",
+      "context": "na-adjective: 好きな + noun; 猫が好きです: I like cats",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "672cfc4f-696f-4e5c-aab3-255ec81261a6",
+      "part-of-speech": "adjective",
+      "english": "disliked (to dislike)",
+      "japanese": "嫌い",
+      "cefr": "A1",
+      "ipa": "[kiɾai]",
+      "context": "na-adjective: 嫌いな + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0dfd4650-d671-4161-a8e0-0d391cbe526f",
+      "part-of-speech": "adjective",
+      "english": "pretty, beautiful; clean",
+      "japanese": "きれい",
+      "cefr": "A1",
+      "ipa": "[kiꜜɾeː]",
+      "context": "na-adjective: きれいな + noun (despite ending in い)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05ebfd77-2cf0-4b0f-bec9-6593094a9575",
+      "part-of-speech": "adjective",
+      "english": "convenient",
+      "japanese": "便利",
+      "cefr": "A1",
+      "ipa": "[beꜜɴɾi]",
+      "context": "na-adjective: 便利な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "452ac33c-11ce-4454-8e57-5d1ffa3d3658",
+      "part-of-speech": "adjective",
+      "english": "free (not busy)",
+      "japanese": "暇",
+      "cefr": "A1",
+      "ipa": "[hima]",
+      "context": "na-adjective: 暇な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "308f902c-5b60-4ee9-bb06-4edccc044110",
+      "part-of-speech": "adjective",
+      "english": "good at, skilful",
+      "japanese": "上手",
+      "cefr": "A1",
+      "ipa": "[dʑoːzɯꜜ]",
+      "context": "na-adjective: 上手な + noun; 料理が上手: good at cooking",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1822fc6d-565a-4e0d-b9f7-64ffbe1d8850",
+      "part-of-speech": "adjective",
+      "english": "bad at, unskilful",
+      "japanese": "下手",
+      "cefr": "A1",
+      "ipa": "[hetaꜜ]",
+      "context": "na-adjective: 下手な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7fcc18c-2a6e-40c9-a9ba-abf9ea19d2f3",
+      "part-of-speech": "adjective",
+      "english": "all right, OK",
+      "japanese": "大丈夫",
+      "cefr": "A1",
+      "ipa": "[daidʑoꜜːbɯ]",
+      "context": "na-adjective: 大丈夫な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c3fd4f1-cbb8-440f-afad-c21cc6fab885",
+      "part-of-speech": "adjective",
+      "english": "important, precious",
+      "japanese": "大切",
+      "cefr": "A2",
+      "ipa": "[taisetsɯ]",
+      "context": "na-adjective: 大切な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "306c7522-3230-4ab1-83fb-a9628d37e3f0",
+      "part-of-speech": "adjective",
+      "english": "easy, simple",
+      "japanese": "簡単",
+      "cefr": "A2",
+      "ipa": "[kantaɴ]",
+      "context": "na-adjective: 簡単な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f592acc3-1ee4-4815-8053-24295b8d3ca8",
+      "part-of-speech": "adjective",
+      "english": "hard, tough",
+      "japanese": "大変",
+      "cefr": "A2",
+      "ipa": "[taiheɴ]",
+      "context": "na-adjective: 大変な + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87c58324-36ee-4f81-927e-ecd5c4a46cd3",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "japanese": "同じ",
+      "cefr": "A1",
+      "ipa": "[onadʑi]",
+      "context": "directly before a noun with no な: 同じ本",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5aa92dd-5c29-447d-beef-205bb1dc0587",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "japanese": "今",
+      "cefr": "A1",
+      "ipa": "[iꜜma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19c4a461-b76c-40b5-9032-0cf63eec8efc",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "japanese": "今日",
+      "cefr": "A1",
+      "ipa": "[kʲoꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ac3b615-3577-4608-9103-efcdf54ed2df",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "japanese": "明日",
+      "cefr": "A1",
+      "ipa": "[aɕi̥taꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3aea3947-74d2-4757-82db-a3958b7a52e7",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "japanese": "昨日",
+      "cefr": "A1",
+      "ipa": "[kinoꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11d6a2b0-dd0c-4656-a821-80c3f8146028",
+      "part-of-speech": "adverb",
+      "english": "every day",
+      "japanese": "毎日",
+      "cefr": "A1",
+      "ipa": "[maꜜiɲitɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e3b0203-2e08-46f6-8f5b-f1b7225bf499",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "japanese": "とても",
+      "cefr": "A1",
+      "ipa": "[totemo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8eeac0cb-4e08-4082-89a7-50f23ec0a9db",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "japanese": "少し",
+      "cefr": "A1",
+      "ipa": "[sɯ̥koɕiꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a57d1b8d-f9b8-4448-b7f0-de301b7b0b60",
+      "part-of-speech": "adverb",
+      "english": "a little; a moment",
+      "japanese": "ちょっと",
+      "cefr": "A1",
+      "ipa": "[tɕoꜜtto]",
+      "context": "also a polite way to decline: ちょっと…",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7248dd7-5234-4e5f-9b83-41c4f5b8a31e",
+      "part-of-speech": "adverb",
+      "english": "a lot, many",
+      "japanese": "たくさん",
+      "cefr": "A1",
+      "ipa": "[takɯ̥saɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfd539cf-39a5-4b71-b190-c519c5b9c58e",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "japanese": "いつも",
+      "cefr": "A1",
+      "ipa": "[iꜜtsɯmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "512d0a99-2cdb-4f82-a885-6c77623a5b29",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "japanese": "時々",
+      "cefr": "A1",
+      "ipa": "[tokidoki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0d5686b-f76c-484e-8426-61ee1b959c19",
+      "part-of-speech": "adverb",
+      "english": "often; well",
+      "japanese": "よく",
+      "cefr": "A1",
+      "ipa": "[joꜜkɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf8d1a27-6d13-45d0-a154-7bb816862cd4",
+      "part-of-speech": "adverb",
+      "english": "(not) at all",
+      "japanese": "全然",
+      "cefr": "A1",
+      "ipa": "[zeɴzeɴ]",
+      "context": "with a negative verb: 全然分かりません",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d800df5e-ae89-4c0d-ba97-19203001fc18",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "japanese": "また",
+      "cefr": "A1",
+      "ipa": "[mata]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2101de4d-f3f2-41b9-a923-7e2940f534b3",
+      "part-of-speech": "adverb",
+      "english": "already; (not) any more",
+      "japanese": "もう",
+      "cefr": "A1",
+      "ipa": "[moꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a57fed01-75ce-4923-a710-f28fc80be402",
+      "part-of-speech": "adverb",
+      "english": "still; (not) yet",
+      "japanese": "まだ",
+      "cefr": "A1",
+      "ipa": "[maꜜda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37985c82-08cc-4f3e-87ab-3cb3dfb08730",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "japanese": "一緒に",
+      "cefr": "A1",
+      "ipa": "[iɕɕo ɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7cf752f-1077-4767-b528-03ca3d519de3",
+      "part-of-speech": "adverb",
+      "english": "alone, by oneself",
+      "japanese": "一人で",
+      "cefr": "A2",
+      "ipa": "[çi̥toꜜɾi de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4814ec8-09bf-47e5-9c51-a7ff9328b044",
+      "part-of-speech": "adverb",
+      "english": "probably, maybe",
+      "japanese": "多分",
+      "cefr": "A1",
+      "ipa": "[taꜜbɯɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1983f75-3138-4ec4-b24d-8e3517a35f61",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "japanese": "後で",
+      "cefr": "A1",
+      "ipa": "[aꜜto de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a972e61c-3de7-4b11-abaf-71f79c26094c",
+      "part-of-speech": "adverb",
+      "english": "slowly; leisurely",
+      "japanese": "ゆっくり",
+      "cefr": "A1",
+      "ipa": "[jɯkkɯꜜɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b00d53c0-1a14-4269-a522-fa27b537e593",
+      "part-of-speech": "adverb",
+      "english": "soon, right away",
+      "japanese": "すぐ",
+      "cefr": "A2",
+      "ipa": "[sɯꜜɡɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6604f2e9-fb57-46ab-974b-79c9d22ee5e4",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "japanese": "もっと",
+      "cefr": "A1",
+      "ipa": "[moꜜtto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6634a660-e18e-4a7f-9fab-d15190c8d1fe",
+      "part-of-speech": "adverb",
+      "english": "most; number one",
+      "japanese": "一番",
+      "cefr": "A1",
+      "ipa": "[itɕibaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9203e47a-4ba8-43c0-ade2-587b1d02bde5",
+      "part-of-speech": "adverb",
+      "english": "really, truly",
+      "japanese": "本当に",
+      "cefr": "A2",
+      "ipa": "[hontoː ɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1bf39d9-359b-4d12-b29d-556a0a3844e1",
+      "part-of-speech": "adverb",
+      "english": "exactly, just",
+      "japanese": "ちょうど",
+      "cefr": "A2",
+      "ipa": "[tɕoːdo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a026901-32ad-4300-bd79-c915f9d54870",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "japanese": "まっすぐ",
+      "cefr": "A2",
+      "ipa": "[massɯꜜɡɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "171f2ec8-29d5-445a-998e-ff423b143a03",
+      "part-of-speech": "adverb",
+      "english": "right",
+      "japanese": "右",
+      "cefr": "A1",
+      "ipa": "[miɡi]",
+      "context": "a noun: 右に曲がる (turn right)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9a04165-b874-47a0-83bd-651215137ec2",
+      "part-of-speech": "adverb",
+      "english": "left",
+      "japanese": "左",
+      "cefr": "A1",
+      "ipa": "[çidaɾi]",
+      "context": "a noun: 左に曲がる (turn left)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c981480-5406-449f-8444-416b364d3188",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "japanese": "いつ",
+      "cefr": "A1",
+      "ipa": "[iꜜtsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "653ee42e-5d24-4b73-8cd8-de309089dfb2",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "japanese": "どう",
+      "cefr": "A1",
+      "ipa": "[doꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f3774a8-e0ed-474c-902a-b2a52e5ad31d",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "japanese": "なぜ",
+      "cefr": "A1",
+      "ipa": "[naꜜze]",
+      "context": "everyday: どうして",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "465c9c6e-3048-4d8c-aa9a-29bb8e667e84",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "japanese": "どうして",
+      "cefr": "A1",
+      "ipa": "[doꜜːɕi̥te]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1563ff9-5762-4e02-8b0a-6a5925e2edf4",
+      "part-of-speech": "adverb",
+      "english": "how much (price)",
+      "japanese": "いくら",
+      "cefr": "A1",
+      "ipa": "[iꜜkɯɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4172d9f-8434-4817-8113-310b3b1d611f",
+      "part-of-speech": "adverb",
+      "english": "how many; how old",
+      "japanese": "いくつ",
+      "cefr": "A1",
+      "ipa": "[iꜜkɯtsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1daa7d6b-f0cf-4286-890a-1b6ed12f892c",
+      "part-of-speech": "pronoun",
+      "english": "I, me",
+      "japanese": "私",
+      "cefr": "A1",
+      "ipa": "[ɰataɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "346b5920-c0df-4726-8a5b-209bb5eb376b",
+      "part-of-speech": "pronoun",
+      "english": "you",
+      "japanese": "あなた",
+      "cefr": "A1",
+      "ipa": "[anaꜜta]",
+      "context": "often avoided; Japanese usually uses the person's name + さん",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f5fdcf5-d359-4d47-870e-b60d4ea07afb",
+      "part-of-speech": "pronoun",
+      "english": "he; boyfriend",
+      "japanese": "彼",
+      "cefr": "A1",
+      "ipa": "[kaꜜɾe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b08cd8a-dad3-4c94-b84e-86d80201f953",
+      "part-of-speech": "pronoun",
+      "english": "she; girlfriend",
+      "japanese": "彼女",
+      "cefr": "A1",
+      "ipa": "[kaꜜnodʑo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4578f558-3d4d-4448-8ad3-9cceb404407c",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "japanese": "私たち",
+      "cefr": "A1",
+      "ipa": "[ɰataɕiꜜtatɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf7ba790-b0a5-4da5-b5b6-d8ded68c1504",
+      "part-of-speech": "pronoun",
+      "english": "everyone (polite)",
+      "japanese": "皆さん",
+      "cefr": "A1",
+      "ipa": "[minaꜜsaɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82f9eafb-0fb2-4a78-8b03-a9576b505267",
+      "part-of-speech": "pronoun",
+      "english": "everyone, all",
+      "japanese": "みんな",
+      "cefr": "A1",
+      "ipa": "[minna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6bb064a-b156-4591-9e49-017771769442",
+      "part-of-speech": "pronoun",
+      "english": "this (one)",
+      "japanese": "これ",
+      "cefr": "A1",
+      "ipa": "[koɾe]",
+      "context": "near me",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "499faac2-6496-44d0-8547-b8875daab381",
+      "part-of-speech": "pronoun",
+      "english": "that (one)",
+      "japanese": "それ",
+      "cefr": "A1",
+      "ipa": "[soɾe]",
+      "context": "near you",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5030829-0d2b-47f2-adc1-a7b4c6249caf",
+      "part-of-speech": "pronoun",
+      "english": "that (one) over there",
+      "japanese": "あれ",
+      "cefr": "A1",
+      "ipa": "[aɾe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06f07f18-500b-4d4d-9ec1-d419894f1e40",
+      "part-of-speech": "pronoun",
+      "english": "this (+ noun)",
+      "japanese": "この",
+      "cefr": "A1",
+      "ipa": "[kono]",
+      "context": "この本: this book",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4294bf7-d554-4620-90fb-64b59785e9dd",
+      "part-of-speech": "pronoun",
+      "english": "that (+ noun)",
+      "japanese": "その",
+      "cefr": "A1",
+      "ipa": "[sono]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00680353-0b24-4937-80a9-15fe31ff8397",
+      "part-of-speech": "pronoun",
+      "english": "here",
+      "japanese": "ここ",
+      "cefr": "A1",
+      "ipa": "[koko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8df9e6f-9912-48ed-930b-0591511470d3",
+      "part-of-speech": "pronoun",
+      "english": "there (near you)",
+      "japanese": "そこ",
+      "cefr": "A1",
+      "ipa": "[soko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0f8c072-3e5b-4e18-8008-84325998c301",
+      "part-of-speech": "pronoun",
+      "english": "over there",
+      "japanese": "あそこ",
+      "cefr": "A1",
+      "ipa": "[asoko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62161943-f95a-4bda-b786-2aec4ce7937e",
+      "part-of-speech": "pronoun",
+      "english": "where",
+      "japanese": "どこ",
+      "cefr": "A1",
+      "ipa": "[doꜜko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45b68b67-ab32-4fc5-a2c5-9f91224264a2",
+      "part-of-speech": "pronoun",
+      "english": "which (one)",
+      "japanese": "どれ",
+      "cefr": "A1",
+      "ipa": "[doꜜɾe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f48c4c98-eacf-4c52-9d2c-0532860ca994",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "japanese": "何",
+      "cefr": "A1",
+      "ipa": "[naꜜɲi]",
+      "context": "also なん before some sounds: 何ですか (なんですか)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe71b75d-f00e-4280-a74e-8e33ba260701",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "japanese": "誰",
+      "cefr": "A1",
+      "ipa": "[daꜜɾe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31a5cd04-821a-4d5e-bda5-3545e1965c39",
+      "part-of-speech": "pronoun",
+      "english": "oneself",
+      "japanese": "自分",
+      "cefr": "A2",
+      "ipa": "[dʑibɯɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a185db11-ae0a-4633-9f83-be36e5cf0f48",
+      "part-of-speech": "preposition",
+      "english": "(topic marker) as for",
+      "japanese": "は",
+      "cefr": "A1",
+      "ipa": "[ɰa]",
+      "context": "particle, after the word: 私は学生です; written は but said wa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59d574e9-04f5-4848-8e01-a651c0faab16",
+      "part-of-speech": "preposition",
+      "english": "(subject marker)",
+      "japanese": "が",
+      "cefr": "A1",
+      "ipa": "[ɡa]",
+      "context": "particle, after the word",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6817226-2dee-4e19-b269-ef233d58c16c",
+      "part-of-speech": "preposition",
+      "english": "(object marker)",
+      "japanese": "を",
+      "cefr": "A1",
+      "ipa": "[o]",
+      "context": "particle, after the word: 水を飲む",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c38d930e-2667-45ff-8dfb-a591d6b22f02",
+      "part-of-speech": "preposition",
+      "english": "to; at (a time); in",
+      "japanese": "に",
+      "cefr": "A1",
+      "ipa": "[ɲi]",
+      "context": "particle, after the word: 駅に行く, 七時に",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f848598-a8a8-43ee-87cb-aa1b4466b322",
+      "part-of-speech": "preposition",
+      "english": "at (where something happens); by (means)",
+      "japanese": "で",
+      "cefr": "A1",
+      "ipa": "[de]",
+      "context": "particle, after the word: 家で食べる, バスで",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09aefa1f-3347-4f76-abda-cc5c62ed36fb",
+      "part-of-speech": "preposition",
+      "english": "towards, to",
+      "japanese": "へ",
+      "cefr": "A1",
+      "ipa": "[e]",
+      "context": "particle, after the word; written へ but said e",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "522ced60-6421-4c1c-98d7-932e980adb21",
+      "part-of-speech": "preposition",
+      "english": "and; with",
+      "japanese": "と",
+      "cefr": "A1",
+      "ipa": "[to]",
+      "context": "particle, after the word: 友達と (with a friend)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "540a0c84-d084-46da-aa7c-0fb44486d88a",
+      "part-of-speech": "preposition",
+      "english": "'s, of",
+      "japanese": "の",
+      "cefr": "A1",
+      "ipa": "[no]",
+      "context": "particle, after the word: 私の本 (my book)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf68429d-a852-4076-9a11-0f176306ce07",
+      "part-of-speech": "preposition",
+      "english": "also, too",
+      "japanese": "も",
+      "cefr": "A1",
+      "ipa": "[mo]",
+      "context": "particle, after the word: 私も (me too)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1f34580-6c0c-4485-a7e6-207431e9f2e7",
+      "part-of-speech": "preposition",
+      "english": "from; because",
+      "japanese": "から",
+      "cefr": "A1",
+      "ipa": "[kaɾa]",
+      "context": "particle, after the word",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bb97bc7-5065-467e-9655-8e433aa5d25a",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "japanese": "まで",
+      "cefr": "A1",
+      "ipa": "[made]",
+      "context": "particle, after the word",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e7c28aa-b8d8-46d9-abae-fc31c7b0c703",
+      "part-of-speech": "conjunction",
+      "english": "and (then)",
+      "japanese": "そして",
+      "cefr": "A1",
+      "ipa": "[soɕi̥te]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3405eac2-d950-4875-bc2e-d104bd77b370",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "japanese": "でも",
+      "cefr": "A1",
+      "ipa": "[deꜜmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "055717da-58b9-43ca-bca6-cdfafd116e4b",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "japanese": "だから",
+      "cefr": "A2",
+      "ipa": "[daꜜkaɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81eb7dae-4702-4945-a596-81c1efda49f0",
+      "part-of-speech": "conjunction",
+      "english": "and then, after that",
+      "japanese": "それから",
+      "cefr": "A2",
+      "ipa": "[soɾekaɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "013050af-fe94-4a27-861c-8c5d66dc59d2",
+      "part-of-speech": "conjunction",
+      "english": "however",
+      "japanese": "しかし",
+      "cefr": "A2",
+      "ipa": "[ɕi̥kaꜜɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67b50f57-9f63-4282-8a22-e90a8a666549",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "japanese": "はい",
+      "cefr": "A1",
+      "ipa": "[haꜜi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f001875-05ff-42e8-a288-60bedcf0ebe4",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "japanese": "いいえ",
+      "cefr": "A1",
+      "ipa": "[iːeꜜ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c41b45bc-2432-4baf-9cb1-136f82e31636",
+      "part-of-speech": "interjection",
+      "english": "hello, good afternoon",
+      "japanese": "こんにちは",
+      "cefr": "A1",
+      "ipa": "[koɲɲitɕiɰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5070f8f-2b20-4d34-b63d-0e0f11efd145",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "japanese": "おはようございます",
+      "cefr": "A1",
+      "ipa": "[ohajoː ɡozaimaꜜsɯ̥]",
+      "context": "casual: おはよう",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87735691-f69b-4d6c-8623-6d4729440949",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "japanese": "こんばんは",
+      "cefr": "A1",
+      "ipa": "[kombaɴɰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08c91f1f-6bac-41b8-b715-d06251de39f1",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "japanese": "おやすみなさい",
+      "cefr": "A1",
+      "ipa": "[ojasɯminasaꜜi]",
+      "context": "casual: おやすみ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63a16a87-1c90-4fa9-b259-61ed595c7b88",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "japanese": "さようなら",
+      "cefr": "A1",
+      "ipa": "[sajoːnaꜜɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "270ae627-6528-4542-a42d-105d626b7c42",
+      "part-of-speech": "interjection",
+      "english": "bye, see you (casual)",
+      "japanese": "じゃあね",
+      "cefr": "A1",
+      "ipa": "[dʑaː ne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d34a236-c288-4be9-aeb2-6f4a297dc0b9",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "japanese": "ありがとう",
+      "cefr": "A1",
+      "ipa": "[aɾiꜜɡatoː]",
+      "context": "more polite: ありがとうございます",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9eb8255b-a497-4289-89e5-1a9a5d96fbea",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "japanese": "どういたしまして",
+      "cefr": "A1",
+      "ipa": "[doꜜː itaɕimaꜜɕi̥te]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23f0245a-5345-4483-a283-d758363c3ebb",
+      "part-of-speech": "interjection",
+      "english": "excuse me; sorry",
+      "japanese": "すみません",
+      "cefr": "A1",
+      "ipa": "[sɯmimaseꜜɴ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fa64976-02ab-424e-b343-b6271d4faedb",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "japanese": "ごめんなさい",
+      "cefr": "A1",
+      "ipa": "[ɡomennasaꜜi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eda91c0e-eb4b-4c6c-9886-1859bb115599",
+      "part-of-speech": "interjection",
+      "english": "please (asking for something)",
+      "japanese": "お願いします",
+      "cefr": "A1",
+      "ipa": "[oneɡai ɕimaꜜsɯ̥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c06f58c1-e9ff-4acc-ba33-a4da59c81072",
+      "part-of-speech": "interjection",
+      "english": "(said before eating)",
+      "japanese": "いただきます",
+      "cefr": "A1",
+      "ipa": "[itadakimaꜜsɯ̥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf19ba31-4cde-422a-900c-80d240e27195",
+      "part-of-speech": "interjection",
+      "english": "(said after eating) thank you for the meal",
+      "japanese": "ごちそうさまでした",
+      "cefr": "A1",
+      "ipa": "[ɡotɕisoːsama deꜜɕi̥ta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48e4e458-9cdd-49c7-88ea-5ddb6dbbb2bb",
+      "part-of-speech": "interjection",
+      "english": "hello (on the phone)",
+      "japanese": "もしもし",
+      "cefr": "A1",
+      "ipa": "[moꜜɕimoɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b74c6e20-6575-44a0-bfbd-f814e46ed2e8",
+      "part-of-speech": "interjection",
+      "english": "nice to meet you",
+      "japanese": "はじめまして",
+      "cefr": "A1",
+      "ipa": "[hadʑimemaꜜɕi̥te]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a8c10de-23b0-42a9-8225-3aec542814f5",
+      "part-of-speech": "interjection",
+      "english": "welcome (in shops, restaurants)",
+      "japanese": "いらっしゃいませ",
+      "cefr": "A2",
+      "ipa": "[iɾaɕɕaimaꜜse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9878140-5e48-47bb-a5c7-453fa9f8329c",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "japanese": "おめでとう",
+      "cefr": "A2",
+      "ipa": "[omedetoː]",
+      "context": "more polite: おめでとうございます",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

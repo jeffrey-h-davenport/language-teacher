@@ -1,0 +1,235 @@
+{
+  "scriptName": "Portuguese Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Portuguese is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Lisbon Portuguese, written as exact (bracketed) IPA."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ão",
+          "ipa": "[ɐ̃w̃]",
+          "note": "nasal \"ow\""
+        },
+        {
+          "char": "ã",
+          "ipa": "[ɐ̃]",
+          "note": "nasal \"uh\""
+        },
+        {
+          "char": "lh",
+          "ipa": "[ʎ]",
+          "note": "ly"
+        },
+        {
+          "char": "nh",
+          "ipa": "[ɲ]",
+          "note": "ny"
+        },
+        {
+          "char": "ch / x",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "j / g(e,i)",
+          "ipa": "[ʒ]",
+          "note": "s in \"measure\""
+        },
+        {
+          "char": "rr / initial r",
+          "ipa": "[ʁ]",
+          "note": "in the throat"
+        },
+        {
+          "char": "r",
+          "ipa": "[ɾ]",
+          "note": "a tap"
+        },
+        {
+          "char": "s (end of syllable)",
+          "ipa": "[ʃ ʒ]",
+          "note": "sh or zh"
+        },
+        {
+          "char": "ç",
+          "ipa": "[s]",
+          "note": "s"
+        },
+        {
+          "char": "unstressed e",
+          "ipa": "[ɨ]",
+          "note": "very short, often dropped"
+        },
+        {
+          "char": "unstressed o",
+          "ipa": "[u]",
+          "note": "oo"
+        },
+        {
+          "char": "ei",
+          "ipa": "[ɐj]",
+          "note": "like \"ay\" in \"say\", starting from \"uh\""
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "chá [ˈʃa]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "eu [ˈew]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "e [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "ou [o]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "tu [ˈtu]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "pai [ˈpaj]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "w",
+          "ipa": "eu [ˈew]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "ɐ",
+          "ipa": "a [ɐ]",
+          "note": "a short, central \"uh\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "pé [ˈpɛ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ɨ",
+          "ipa": "de [dɨ]",
+          "note": "a short central i, like the vowel in \"roses\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "só [ˈsɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ũ",
+          "ipa": "um [ˈũ]",
+          "note": "nasal u"
+        },
+        {
+          "char": "õ",
+          "ipa": "bom [ˈbõ]",
+          "note": "nasal o"
+        },
+        {
+          "char": "ĩ",
+          "ipa": "sim [ˈsĩ]",
+          "note": "nasal i"
+        },
+        {
+          "char": "ẽ",
+          "ipa": "tempo [ˈtẽpu]",
+          "note": "nasal e"
+        },
+        {
+          "char": "β",
+          "ipa": "bebé [bɛˈβɛ]",
+          "note": "a soft b, with the lips not quite closed"
+        },
+        {
+          "char": "ð",
+          "ipa": "cedo [ˈseðu]",
+          "note": "th, as in \"this\""
+        },
+        {
+          "char": "ɣ",
+          "ipa": "água [ˈaɣwɐ]",
+          "note": "a soft, buzzing version of the ch in \"loch\""
+        },
+        {
+          "char": "ʁ",
+          "ipa": "rua [ˈʁuɐ]",
+          "note": "r made at the back of the throat (French r)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "chá [ˈʃa]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "já [ˈʒa]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɾ",
+          "ipa": "ir [ˈiɾ]",
+          "note": "a quick tap of the tongue, like the tt in American \"butter\""
+        },
+        {
+          "char": "ɫ",
+          "ipa": "sal [ˈsaɫ]",
+          "note": "a dark l, as in \"full\""
+        },
+        {
+          "char": "ʎ",
+          "ipa": "olho [ˈoʎu]",
+          "note": "ly — l with the tongue flat, as in \"million\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "junho [ˈʒuɲu]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "gato [ˈɡatu]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "um [ˈũ]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ˌ",
+          "ipa": "cor-de-rosa [ˌkoɾðɨˈʁɔzɐ]",
+          "note": "the next syllable has a lighter, secondary stress"
+        },
+        {
+          "char": "◌̃",
+          "ipa": "em [ɐ̃j̃]",
+          "note": "nasal — air through the nose too"
+        }
+      ]
+    }
+  ]
+}

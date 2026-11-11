@@ -1,0 +1,230 @@
+{
+  "scriptName": "Dutch Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Dutch is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Netherlands Dutch, written as exact (bracketed) IPA."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ij / ei",
+          "ipa": "[ɛi]",
+          "note": "as in \"my\", starting from e"
+        },
+        {
+          "char": "ui",
+          "ipa": "[œy]",
+          "note": "no English equivalent: ö + ü"
+        },
+        {
+          "char": "ou / au",
+          "ipa": "[ʌu]",
+          "note": "as in \"how\""
+        },
+        {
+          "char": "oe",
+          "ipa": "[u]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "eu",
+          "ipa": "[øː]",
+          "note": "long ö"
+        },
+        {
+          "char": "u / uu",
+          "ipa": "[y]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "ie",
+          "ipa": "[i]",
+          "note": "ee"
+        },
+        {
+          "char": "aa / ee / oo",
+          "ipa": "[aː eː oː]",
+          "note": "long vowels"
+        },
+        {
+          "char": "g / ch",
+          "ipa": "[ɣ x]",
+          "note": "throaty, as in \"loch\""
+        },
+        {
+          "char": "sch",
+          "ipa": "[sx]",
+          "note": "s + throaty ch"
+        },
+        {
+          "char": "w",
+          "ipa": "[ʋ]",
+          "note": "between v and w"
+        },
+        {
+          "char": "-en",
+          "ipa": "[ə]",
+          "note": "the final n is usually dropped"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "aan [aːn]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "thee [teɪ]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "ei [ɛi]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "oom [oʊm]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "koe [ku]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "u [y]",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "c",
+          "ipa": "kaartje [ˈkaːɻcə]",
+          "note": "a k made further forward, against the roof of the mouth"
+        },
+        {
+          "char": "j",
+          "ipa": "jas [jɑs]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "x",
+          "ipa": "dag [dɑx]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "al [ɑl]",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ʌ",
+          "ipa": "oud [ʌut]",
+          "note": "u, as in \"cup\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "ei [ɛi]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "te [tə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɪ",
+          "ipa": "ik [ɪk]",
+          "note": "i, as in \"bit\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "op [ɔp]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ʊ",
+          "ipa": "oom [oʊm]",
+          "note": "oo, as in \"book\""
+        },
+        {
+          "char": "ø",
+          "ipa": "neus [nøʏs]",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "œ",
+          "ipa": "uit [œyt]",
+          "note": "e as in \"bed\" with rounded lips"
+        },
+        {
+          "char": "ʏ",
+          "ipa": "zus [zʏs]",
+          "note": "i as in \"bit\" with rounded lips"
+        },
+        {
+          "char": "ɣ",
+          "ipa": "goed [ɣut]",
+          "note": "a soft, buzzing version of the ch in \"loch\""
+        },
+        {
+          "char": "ɦ",
+          "ipa": "hoe [ɦu]",
+          "note": "a breathy, voiced h"
+        },
+        {
+          "char": "ʁ",
+          "ipa": "rug [ʁʏx]",
+          "note": "r made at the back of the throat (French r)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "lunch [lʏnʃ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ɻ",
+          "ipa": "uur [yːɻ]",
+          "note": "a soft r with the tongue tip curled back, almost like English r"
+        },
+        {
+          "char": "ɲ",
+          "ipa": "oranje [oʊˈʁɑɲə]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "ding [dɪŋ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʋ",
+          "ipa": "uw [yʋ]",
+          "note": "between v and w, with the lips barely touching"
+        },
+        {
+          "char": "ˈ",
+          "ipa": "jongen [ˈjɔŋə]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "uur [yːɻ]",
+          "note": "the sound before it is long"
+        }
+      ]
+    }
+  ]
+}

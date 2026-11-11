@@ -210,7 +210,7 @@ const FLAGS = {
   'hu': '🇭🇺', 'id': '🇮🇩', 'it': '🇮🇹', 'ja': '🇯🇵',
   'ko': '🇰🇷', 'nl': '🇳🇱', 'no': '🇳🇴', 'pl': '🇵🇱',
   'pt': '🇵🇹', 'pt-br': '🇧🇷', 'ro': '🇷🇴', 'ru': '🇷🇺',
-  'sk': '🇸🇰', 'sv': '🇸🇪', 'th': '🇹🇭', 'tr': '🇹🇷',
+  'sk': '🇸🇰', 'sv': '🇸🇪', 'sw': '🇹🇿', 'th': '🇹🇭', 'tr': '🇹🇷',
   'uk': '🇺🇦', 'vi': '🇻🇳', 'zh': '🇨🇳', 'zh-tw': '🇹🇼',
 }
 
@@ -469,11 +469,9 @@ function persistProgress() {
 // ── Welcome Screen ────────────────────────────────────
 function updateWelcomeScreen() {
   const flag = flagFor(currentMeta?.languageCode)
-  const lang = currentMeta?.language
   $('welcome-flag').textContent     = flag
-  $('welcome-subtitle').textContent = lang
-    ? `Learn ${lang}`
-    : 'Learn a language'
+  // The tagline itself is fixed (set in index.html) — it doesn't name the
+  // language last studied.
   $('browse-btn-welcome').style.display = allWords.length > 0 ? '' : 'none'
 }
 
@@ -1193,6 +1191,7 @@ function renderLanguageButtons() {
     const btn = document.createElement('button')
     btn.className   = 'level-btn'
     btn.textContent = `${flagFor(entry.languageCode)} ${entry.language}`
+    btn.title       = entry.language   // full name if the button truncates it
     // The editor only edits vocabulary, so it skips the mode picker
     // (quiz vs. reading) and goes straight to browsing the words.
     btn.addEventListener('click', () => {
@@ -1201,6 +1200,21 @@ function renderLanguageButtons() {
     })
     container.appendChild(btn)
   })
+  const paged = entries.length > LANGUAGES_PER_PAGE
+  $('language-viewport').classList.toggle('paged', paged)
+  // Pad the last page with empty slots so every page is exactly one row of
+  // LANGUAGES_PER_PAGE and paging always lands on a page boundary.
+  if (paged) {
+    const missing = (LANGUAGES_PER_PAGE - entries.length % LANGUAGES_PER_PAGE) % LANGUAGES_PER_PAGE
+    for (let i = 0; i < missing; i++) {
+      const filler = document.createElement('span')
+      filler.className = 'lang-filler'
+      filler.setAttribute('aria-hidden', 'true')
+      container.appendChild(filler)
+    }
+  }
+  languagePage = 0
+  showLanguagePage()
 
   const toggle = $('language-picker-toggle')
   if (favorites.length === 0) {
@@ -1209,6 +1223,35 @@ function renderLanguageButtons() {
     toggle.classList.remove('hidden')
     toggle.textContent = languagePickerShowAll ? 'Show favorites only' : 'Show all languages'
   }
+}
+
+// ── Language Carousel ─────────────────────────────────
+// The picker shows one row of LANGUAGES_PER_PAGE buttons (sized in CSS);
+// beyond that, the arrows page through the rest a full row at a time.
+// The row slides with a CSS transform rather than scrolling: Electron's
+// smooth programmatic scrolling inside an overflow:hidden box only moves once.
+const LANGUAGES_PER_PAGE = 4
+let languagePage = 0
+
+function showLanguagePage() {
+  const track = $('language-buttons')
+  const items = track.children
+  const paged = items.length > LANGUAGES_PER_PAGE
+  const pages = Math.ceil(items.length / LANGUAGES_PER_PAGE)
+  // One page = LANGUAGES_PER_PAGE buttons plus their gaps, measured from the
+  // layout so it always matches the CSS.
+  const stride = paged ? items[LANGUAGES_PER_PAGE].offsetLeft - items[0].offsetLeft : 0
+  track.style.transform = `translateX(${-languagePage * stride}px)`
+  $('language-prev').classList.toggle('hidden', !paged)
+  $('language-next').classList.toggle('hidden', !paged)
+  $('language-prev').disabled = languagePage <= 0
+  $('language-next').disabled = languagePage >= pages - 1
+}
+
+function pageLanguages(direction) {
+  const pages = Math.ceil($('language-buttons').children.length / LANGUAGES_PER_PAGE)
+  languagePage = Math.max(0, Math.min(languagePage + direction, pages - 1))
+  showLanguagePage()
 }
 
 function toggleShowAllLanguages() {
@@ -1274,11 +1317,14 @@ async function loadVocabulary(slug) {
 // Driven entirely by the optional <slug>-script.json data file, so this
 // works for any future non-Latin-script language without code changes —
 // the button just hides itself when a language has no script file.
+// The guide button appears on both the word-intro and quiz screens.
 function updateScriptGuideButton() {
-  $('script-guide-btn').classList.toggle('hidden', !currentScript)
-  // buttonLabel lets a guide that isn't about the script (e.g. Czech
-  // grammar) name itself; older guide files just keep the default.
-  $('script-guide-btn').textContent = currentScript?.buttonLabel || 'Script Guide'
+  for (const id of ['script-guide-btn', 'intro-guide-btn']) {
+    $(id).classList.toggle('hidden', !currentScript)
+    // buttonLabel lets a guide that isn't about the script (e.g. Czech
+    // grammar) name itself; older guide files just keep the default.
+    $(id).textContent = currentScript?.buttonLabel || 'Script Guide'
+  }
 }
 
 function renderScriptGuide() {
@@ -1885,6 +1931,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   $('mode-back-btn').addEventListener('click', resetWelcomePicker)
   $('language-picker-toggle').addEventListener('click', toggleShowAllLanguages)
+  $('language-prev').addEventListener('click', () => pageLanguages(-1))
+  $('language-next').addEventListener('click', () => pageLanguages(1))
 
   $('preferences-btn').addEventListener('click', showPreferences)
   $('preferences-close').addEventListener('click', hidePreferences)
@@ -1949,6 +1997,7 @@ document.addEventListener('DOMContentLoaded', () => {
   document.addEventListener('click', () => $('countability-info-popover').classList.add('hidden'))
 
   $('script-guide-btn').addEventListener('click', showScriptGuide)
+  $('intro-guide-btn').addEventListener('click', showScriptGuide)
   $('script-guide-close').addEventListener('click', hideScriptGuide)
   $('script-guide-modal').addEventListener('click', e => {
     if (e.target.id === 'script-guide-modal') hideScriptGuide()

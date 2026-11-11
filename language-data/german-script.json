@@ -1,0 +1,104 @@
+{
+  "scriptName": "German Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How German is pronounced — the main spelling rules.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "This German list doesn't have pronunciations yet; this chart covers the main spelling rules (standard German)."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ä",
+          "ipa": "[ɛ ɛː]",
+          "note": "e as in \"bed\""
+        },
+        {
+          "char": "ö",
+          "ipa": "[ø œ]",
+          "note": "e with rounded lips"
+        },
+        {
+          "char": "ü",
+          "ipa": "[y ʏ]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "ei / ai",
+          "ipa": "[aɪ]",
+          "note": "as in \"my\""
+        },
+        {
+          "char": "ie",
+          "ipa": "[iː]",
+          "note": "ee"
+        },
+        {
+          "char": "eu / äu",
+          "ipa": "[ɔʏ]",
+          "note": "oy, as in \"boy\""
+        },
+        {
+          "char": "ch",
+          "ipa": "[ç x]",
+          "note": "hissing after e/i, throaty after a/o/u"
+        },
+        {
+          "char": "sch",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "sp- / st-",
+          "ipa": "[ʃp ʃt]",
+          "note": "shp, sht at the start of a word"
+        },
+        {
+          "char": "z",
+          "ipa": "[ts]",
+          "note": "ts"
+        },
+        {
+          "char": "w",
+          "ipa": "[v]",
+          "note": "v"
+        },
+        {
+          "char": "v",
+          "ipa": "[f]",
+          "note": "usually f"
+        },
+        {
+          "char": "j",
+          "ipa": "[j]",
+          "note": "y"
+        },
+        {
+          "char": "s + vowel",
+          "ipa": "[z]",
+          "note": "z"
+        },
+        {
+          "char": "ß",
+          "ipa": "[s]",
+          "note": "ss"
+        },
+        {
+          "char": "r",
+          "ipa": "[ʁ]",
+          "note": "in the throat; often a vowel after a vowel"
+        },
+        {
+          "char": "final b, d, g",
+          "ipa": "[p t k]",
+          "note": "hardened at the end of a word"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+{
+  "scriptName": "Norwegian Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Norwegian is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Oslo-area Norwegian, written as exact (bracketed) IPA. ² marks words with tone 2; other stressed words have tone 1."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "æ",
+          "ipa": "[æ]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ø",
+          "ipa": "[ø œ]",
+          "note": "e with rounded lips"
+        },
+        {
+          "char": "å",
+          "ipa": "[oː ɔ]",
+          "note": "o"
+        },
+        {
+          "char": "o",
+          "ipa": "[uː ʊ]",
+          "note": "often oo"
+        },
+        {
+          "char": "u",
+          "ipa": "[ʉ]",
+          "note": "oo with the tongue forward"
+        },
+        {
+          "char": "y",
+          "ipa": "[y ʏ]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "kj / k(i,y)",
+          "ipa": "[ç]",
+          "note": "a hissing h"
+        },
+        {
+          "char": "sj / skj",
+          "ipa": "[ʂ]",
+          "note": "sh"
+        },
+        {
+          "char": "rt rd rn rl rs",
+          "ipa": "[ʈ ɖ ɳ ɭ ʂ]",
+          "note": "the r merges with the next sound"
+        },
+        {
+          "char": "hv / hj",
+          "ipa": "[v j]",
+          "note": "the h is silent"
+        },
+        {
+          "char": "g(i,y)",
+          "ipa": "[j]",
+          "note": "y"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "e",
+          "ipa": "te [teː]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "i [iː]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "år [oːɾ]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "ord [uːɾ]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "by [byː]",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "j",
+          "ipa": "jobb [jɔb]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "æ",
+          "ipa": "vei [ʋæɪ]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "av [ɑː]",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "egg [ɛɡ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "øye [²œʏə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɪ",
+          "ipa": "mai [mɑɪ]",
+          "note": "i, as in \"bit\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "og [ɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ʊ",
+          "ipa": "ost [ʊst]",
+          "note": "oo, as in \"book\""
+        },
+        {
+          "char": "ʉ",
+          "ipa": "gutt [ɡʉt]",
+          "note": "oo said with the tongue pushed forward"
+        },
+        {
+          "char": "ø",
+          "ipa": "øl [øːl]",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "œ",
+          "ipa": "kjøtt [çœt]",
+          "note": "e as in \"bed\" with rounded lips"
+        },
+        {
+          "char": "ʏ",
+          "ipa": "rygg [ɾʏɡ]",
+          "note": "i as in \"bit\" with rounded lips"
+        },
+        {
+          "char": "ç",
+          "ipa": "kjøtt [çœt]",
+          "note": "a hissing h, as in German \"ich\""
+        },
+        {
+          "char": "ʂ",
+          "ipa": "mars [mɑʂ]",
+          "note": "sh with the tongue tip curled back"
+        },
+        {
+          "char": "ʈ",
+          "ipa": "skjørt [ʂœʈ]",
+          "note": "t with the tongue tip curled back"
+        },
+        {
+          "char": "ɖ",
+          "ipa": "ferdig [²fæɖːi]",
+          "note": "d with the tongue tip curled back"
+        },
+        {
+          "char": "ɳ",
+          "ipa": "barn [bɑːɳ]",
+          "note": "n with the tongue tip curled back"
+        },
+        {
+          "char": "ɭ",
+          "ipa": "dårlig [²doːɭi]",
+          "note": "l with the tongue tip curled back"
+        },
+        {
+          "char": "ɾ",
+          "ipa": "år [oːɾ]",
+          "note": "a quick tap of the tongue, like the tt in American \"butter\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "ting [tɪŋ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʋ",
+          "ipa": "vei [ʋæɪ]",
+          "note": "between v and w, with the lips barely touching"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "egg [ɛɡ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "idé [ɪˈdeː]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ˌ",
+          "ipa": "innsjø [²ɪnˌʂøː]",
+          "note": "the next syllable has a lighter, secondary stress"
+        },
+        {
+          "char": "ː",
+          "ipa": "i [iː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "²",
+          "ipa": "øye [²œʏə]",
+          "note": "tone 2 — the word's melody falls, then rises again"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "ferie [ˈfeːɾi̯ə]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
+        }
+      ]
+    }
+  ]
+}

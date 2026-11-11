@@ -1,0 +1,200 @@
+{
+  "scriptName": "Swahili Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Swahili is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Tanzanian Swahili, written as exact (bracketed) IPA. Stress falls on the next-to-last syllable."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "a e i o u",
+          "ipa": "[ɑ ɛ i ɔ u]",
+          "note": "short, pure vowels"
+        },
+        {
+          "char": "ch",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "j",
+          "ipa": "[ʄ]",
+          "note": "implosive j"
+        },
+        {
+          "char": "b d g",
+          "ipa": "[ɓ ɗ ɠ]",
+          "note": "implosive, except after m or n"
+        },
+        {
+          "char": "ny",
+          "ipa": "[ɲ]",
+          "note": "ny"
+        },
+        {
+          "char": "ng'",
+          "ipa": "[ŋ]",
+          "note": "ng as in \"sing\""
+        },
+        {
+          "char": "ng",
+          "ipa": "[ŋɡ]",
+          "note": "ng as in \"finger\""
+        },
+        {
+          "char": "sh",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "th / dh",
+          "ipa": "[θ ð]",
+          "note": "th in \"thin\" / \"this\""
+        },
+        {
+          "char": "gh",
+          "ipa": "[ɣ]",
+          "note": "a soft throaty g"
+        },
+        {
+          "char": "r",
+          "ipa": "[ɾ]",
+          "note": "a tap"
+        },
+        {
+          "char": "m before a consonant",
+          "ipa": "[m̩]",
+          "note": "a syllable of its own: mtu"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "i",
+          "ipa": "Mei [ˈmɛi]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "u",
+          "ipa": "ua [ˈuɑ]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "yai [ˈjɑi]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "w",
+          "ipa": "kwa [kwɑ]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "na [nɑ]",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "Mei [ˈmɛi]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "-ao [ˈɑɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ð",
+          "ipa": "tafadhali [tɑfɑˈðɑli]",
+          "note": "th, as in \"this\""
+        },
+        {
+          "char": "θ",
+          "ipa": "thelathini [θɛlɑˈθini]",
+          "note": "th, as in \"thin\""
+        },
+        {
+          "char": "ɣ",
+          "ipa": "lugha [ˈluɣɑ]",
+          "note": "a soft, buzzing version of the ch in \"loch\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "choo [ˈtʃɔː]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ɾ",
+          "ipa": "gari [ˈɠɑɾi]",
+          "note": "a quick tap of the tongue, like the tt in American \"butter\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "nje [ˈɲɟɛ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "anga [ˈɑŋɡɑ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɟ",
+          "ipa": "nje [ˈɲɟɛ]",
+          "note": "a d made against the roof of the mouth, like the d in \"dune\""
+        },
+        {
+          "char": "ɓ",
+          "ipa": "bia [ˈɓiɑ]",
+          "note": "b made by sucking air in slightly (implosive)"
+        },
+        {
+          "char": "ɗ",
+          "ipa": "dada [ˈɗɑɗɑ]",
+          "note": "d made by sucking air in slightly (implosive)"
+        },
+        {
+          "char": "ʄ",
+          "ipa": "jua [ˈʄuɑ]",
+          "note": "a j-like sound made by sucking air in slightly (implosive)"
+        },
+        {
+          "char": "ɠ",
+          "ipa": "gari [ˈɠɑɾi]",
+          "note": "g made by sucking air in slightly (implosive)"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "anga [ˈɑŋɡɑ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "ua [ˈuɑ]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "saa [ˈsɑː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "◌̩",
+          "ipa": "mtu [ˈm̩tu]",
+          "note": "forms a syllable on its own, without a vowel"
+        }
+      ]
+    }
+  ]
+}
