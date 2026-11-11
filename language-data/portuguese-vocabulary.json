@@ -1,0 +1,6716 @@
+{
+  "meta": {
+    "language": "Portuguese",
+    "languageCode": "pt",
+    "nativeLanguage": "English",
+    "targetField": "portuguese",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "bd3578d4-dcea-419c-828f-9202d7a2c144",
+      "part-of-speech": "noun",
+      "english": "man",
+      "portuguese": "homem",
+      "gender": "masculine",
+      "plural": "homens",
+      "cefr": "A1",
+      "ipa": "[ˈɔmɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfffcd07-a7ba-42fb-9e3a-1f872dd1ee57",
+      "part-of-speech": "noun",
+      "english": "woman; wife",
+      "portuguese": "mulher",
+      "gender": "feminine",
+      "plural": "mulheres",
+      "cefr": "A1",
+      "ipa": "[muˈʎɛɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b48771d7-0335-4d14-9552-0354531bfd41",
+      "part-of-speech": "noun",
+      "english": "child",
+      "portuguese": "criança",
+      "gender": "feminine",
+      "plural": "crianças",
+      "cefr": "A1",
+      "ipa": "[kɾiˈɐ̃sɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7dd22d5-7001-4000-8d6f-ca639446f6dc",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "portuguese": "rapaz",
+      "gender": "masculine",
+      "plural": "rapazes",
+      "cefr": "A1",
+      "ipa": "[ʁɐˈpaʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bb3996e-1642-4d26-9726-c7ecfb486de3",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "portuguese": "rapariga",
+      "gender": "feminine",
+      "plural": "raparigas",
+      "cefr": "A1",
+      "ipa": "[ʁɐpɐˈɾiɣɐ]",
+      "context": "European Portuguese (in Brazil: menina)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d78183c4-20f4-4d61-a435-4b43798791b5",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "portuguese": "bebé",
+      "gender": "masculine",
+      "plural": "bebés",
+      "cefr": "A1",
+      "ipa": "[bɛˈβɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df0dc202-4e9c-4631-bccf-efabc1cd3907",
+      "part-of-speech": "noun",
+      "english": "person",
+      "portuguese": "pessoa",
+      "gender": "feminine",
+      "plural": "pessoas",
+      "cefr": "A1",
+      "ipa": "[pɨˈsoɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da795fc1-4ee8-4e67-b69c-a328975b2613",
+      "part-of-speech": "noun",
+      "english": "father",
+      "portuguese": "pai",
+      "gender": "masculine",
+      "plural": "pais",
+      "cefr": "A1",
+      "ipa": "[ˈpaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ffc9887-9ecb-4c4a-b106-d20075b86bc2",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "portuguese": "mãe",
+      "gender": "feminine",
+      "plural": "mães",
+      "cefr": "A1",
+      "ipa": "[ˈmɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd5dbc25-7ec9-4689-aae4-c1737b563ba3",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "portuguese": "pais",
+      "gender": "masculine",
+      "plural": "pais",
+      "cefr": "A1",
+      "ipa": "[ˈpajʃ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0812c611-1d56-44c0-8194-327d095a33a9",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "portuguese": "irmão",
+      "gender": "masculine",
+      "plural": "irmãos",
+      "cefr": "A1",
+      "ipa": "[iɾˈmɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61ccc3c1-131a-422a-8643-7bcd0f158c07",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "portuguese": "irmã",
+      "gender": "feminine",
+      "plural": "irmãs",
+      "cefr": "A1",
+      "ipa": "[iɾˈmɐ̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37f79b04-2201-4f25-831d-df99408c3da4",
+      "part-of-speech": "noun",
+      "english": "son",
+      "portuguese": "filho",
+      "gender": "masculine",
+      "plural": "filhos",
+      "cefr": "A1",
+      "ipa": "[ˈfiʎu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76bf48b0-ee55-4387-8d27-97708669f45a",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "portuguese": "filha",
+      "gender": "feminine",
+      "plural": "filhas",
+      "cefr": "A1",
+      "ipa": "[ˈfiʎɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45c3d37b-7d10-4133-ae7d-d4f71952d3a2",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "portuguese": "avô",
+      "gender": "masculine",
+      "plural": "avôs",
+      "cefr": "A1",
+      "ipa": "[ɐˈvo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50c3d7b6-8ac9-4c5a-8d22-d57d90864031",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "portuguese": "avó",
+      "gender": "feminine",
+      "plural": "avós",
+      "cefr": "A1",
+      "ipa": "[ɐˈvɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e14f4bae-da39-4d8e-a295-c128491ac37c",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "portuguese": "tio",
+      "gender": "masculine",
+      "plural": "tios",
+      "cefr": "A2",
+      "ipa": "[ˈtiu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7ffd679-c54b-436c-9b03-2e7b763e2974",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "portuguese": "tia",
+      "gender": "feminine",
+      "plural": "tias",
+      "cefr": "A2",
+      "ipa": "[ˈtiɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db527ca7-40b6-48bd-ad4a-cf9ceba6b002",
+      "part-of-speech": "noun",
+      "english": "family",
+      "portuguese": "família",
+      "gender": "feminine",
+      "plural": "famílias",
+      "cefr": "A1",
+      "ipa": "[fɐˈmiljɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae9cf9e2-86ca-4b85-abf0-6fc362f20bf5",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "portuguese": "marido",
+      "gender": "masculine",
+      "plural": "maridos",
+      "cefr": "A1",
+      "ipa": "[mɐˈɾiðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "512227d8-eaf6-4431-bcc7-3be562a8a458",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "portuguese": "amigo",
+      "gender": "masculine",
+      "plural": "amigos",
+      "cefr": "A1",
+      "ipa": "[ɐˈmiɣu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63206aab-0ead-43f1-95e9-f1a7c1db702d",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "portuguese": "amiga",
+      "gender": "feminine",
+      "plural": "amigas",
+      "cefr": "A1",
+      "ipa": "[ɐˈmiɣɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d7578fb-6596-438b-b689-72700faefa21",
+      "part-of-speech": "noun",
+      "english": "boyfriend",
+      "portuguese": "namorado",
+      "gender": "masculine",
+      "plural": "namorados",
+      "cefr": "A2",
+      "ipa": "[nɐmuˈɾaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "019487b3-f0ef-4c79-9103-6451a2553edc",
+      "part-of-speech": "noun",
+      "english": "girlfriend",
+      "portuguese": "namorada",
+      "gender": "feminine",
+      "plural": "namoradas",
+      "cefr": "A2",
+      "ipa": "[nɐmuˈɾaðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2960000-584d-4860-819c-46f3eb91a43a",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "portuguese": "vizinho",
+      "gender": "masculine",
+      "plural": "vizinhos",
+      "cefr": "A2",
+      "ipa": "[viˈziɲu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e09f8a85-87cb-452f-acbe-0d5a2d9f58f9",
+      "part-of-speech": "noun",
+      "english": "colleague, classmate",
+      "portuguese": "colega",
+      "gender": "masculine",
+      "plural": "colegas",
+      "cefr": "A2",
+      "ipa": "[kuˈlɛɣɐ]",
+      "context": "also feminine: a colega",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58dd5ee4-4227-492f-b307-599ddef9b9bb",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "portuguese": "professor",
+      "gender": "masculine",
+      "plural": "professores",
+      "cefr": "A1",
+      "ipa": "[pɾufɨˈsoɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd2077e4-8551-45c8-a93a-8e9a53185b4d",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "portuguese": "professora",
+      "gender": "feminine",
+      "plural": "professoras",
+      "cefr": "A1",
+      "ipa": "[pɾufɨˈsoɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e8dce89-1071-432b-b407-d5fe206bde85",
+      "part-of-speech": "noun",
+      "english": "pupil, student",
+      "portuguese": "aluno",
+      "gender": "masculine",
+      "plural": "alunos",
+      "cefr": "A1",
+      "ipa": "[ɐˈlunu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78013e1f-266a-4a48-8949-ce8b3dc2ee3c",
+      "part-of-speech": "noun",
+      "english": "pupil, student (female)",
+      "portuguese": "aluna",
+      "gender": "feminine",
+      "plural": "alunas",
+      "cefr": "A1",
+      "ipa": "[ɐˈlunɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "157e3752-429d-43e1-b2a5-f4527efb9545",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "portuguese": "médico",
+      "gender": "masculine",
+      "plural": "médicos",
+      "cefr": "A1",
+      "ipa": "[ˈmɛðiku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e577055f-d470-4a07-b32e-2676ebedf4f3",
+      "part-of-speech": "noun",
+      "english": "doctor (female)",
+      "portuguese": "médica",
+      "gender": "feminine",
+      "plural": "médicas",
+      "cefr": "A1",
+      "ipa": "[ˈmɛðikɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93552cb1-e769-4ff5-9448-2fdeb8d801a4",
+      "part-of-speech": "noun",
+      "english": "name",
+      "portuguese": "nome",
+      "gender": "masculine",
+      "plural": "nomes",
+      "cefr": "A1",
+      "ipa": "[ˈnomɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04b1928a-d01a-49df-85d3-7b6a1c5ebc1b",
+      "part-of-speech": "noun",
+      "english": "age",
+      "portuguese": "idade",
+      "gender": "feminine",
+      "plural": "idades",
+      "cefr": "A2",
+      "ipa": "[iˈðaðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1b337b5-5f8f-4dff-bb72-4b63f5c47489",
+      "part-of-speech": "noun",
+      "english": "time; weather",
+      "portuguese": "tempo",
+      "gender": "masculine",
+      "plural": "tempos",
+      "cefr": "A1",
+      "ipa": "[ˈtẽpu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8c9df4c-e4b9-4f20-93a9-1373e6b7ec7b",
+      "part-of-speech": "noun",
+      "english": "day",
+      "portuguese": "dia",
+      "gender": "masculine",
+      "plural": "dias",
+      "cefr": "A1",
+      "ipa": "[ˈdiɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b68af0b9-c168-4392-b14c-091bc1f3c47b",
+      "part-of-speech": "noun",
+      "english": "week",
+      "portuguese": "semana",
+      "gender": "feminine",
+      "plural": "semanas",
+      "cefr": "A1",
+      "ipa": "[sɨˈmɐnɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aeb9abcc-dfbb-4ffb-8941-fddb9f484b70",
+      "part-of-speech": "noun",
+      "english": "month",
+      "portuguese": "mês",
+      "gender": "masculine",
+      "plural": "meses",
+      "cefr": "A1",
+      "ipa": "[ˈmeʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73474148-c2ee-446e-a6f5-27f36682cef2",
+      "part-of-speech": "noun",
+      "english": "year",
+      "portuguese": "ano",
+      "gender": "masculine",
+      "plural": "anos",
+      "cefr": "A1",
+      "ipa": "[ˈɐnu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ca07688-f1d6-4ef5-8ada-1247e370e952",
+      "part-of-speech": "noun",
+      "english": "hour; time (of day)",
+      "portuguese": "hora",
+      "gender": "feminine",
+      "plural": "horas",
+      "cefr": "A1",
+      "ipa": "[ˈɔɾɐ]",
+      "context": "que horas são?: what time is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fda4a52-b26e-4b4a-87e7-1088668a6918",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "portuguese": "minuto",
+      "gender": "masculine",
+      "plural": "minutos",
+      "cefr": "A1",
+      "ipa": "[miˈnutu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a179b28-c272-4b65-822f-dc7145e8fd1e",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "portuguese": "manhã",
+      "gender": "feminine",
+      "plural": "manhãs",
+      "cefr": "A1",
+      "ipa": "[mɐˈɲɐ̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a54f41a-4849-4dfe-ab47-e58017870bf2",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "portuguese": "tarde",
+      "gender": "feminine",
+      "plural": "tardes",
+      "cefr": "A1",
+      "ipa": "[ˈtaɾðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cfae8b5-35a6-4d43-9ad0-0aa9a304c748",
+      "part-of-speech": "noun",
+      "english": "night, evening",
+      "portuguese": "noite",
+      "gender": "feminine",
+      "plural": "noites",
+      "cefr": "A1",
+      "ipa": "[ˈnojtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97fc7f4f-d8e6-4498-97b7-3966bc0fd1c6",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "portuguese": "fim de semana",
+      "gender": "masculine",
+      "plural": "fins de semana",
+      "cefr": "A1",
+      "ipa": "[ˈfĩ dɨ sɨˈmɐnɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63d372dc-e15c-4508-8a11-ae03bae852ed",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "portuguese": "segunda-feira",
+      "gender": "feminine",
+      "plural": "segundas-feiras",
+      "cefr": "A1",
+      "ipa": "[sɨˈɣũdɐ ˈfɐjɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f62cc45-b12d-4fe4-9438-00f87bcd8eaf",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "portuguese": "terça-feira",
+      "gender": "feminine",
+      "plural": "terças-feiras",
+      "cefr": "A1",
+      "ipa": "[ˈteɾsɐ ˈfɐjɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72ef0ae0-2b69-462a-b343-6b954a2b12ab",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "portuguese": "quarta-feira",
+      "gender": "feminine",
+      "plural": "quartas-feiras",
+      "cefr": "A1",
+      "ipa": "[ˈkwaɾtɐ ˈfɐjɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5babd986-13d3-4a7b-b9d6-d9ac034edf99",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "portuguese": "quinta-feira",
+      "gender": "feminine",
+      "plural": "quintas-feiras",
+      "cefr": "A1",
+      "ipa": "[ˈkĩtɐ ˈfɐjɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f0f9e96-7d2c-4aaf-bc47-86114615bce4",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "portuguese": "sexta-feira",
+      "gender": "feminine",
+      "plural": "sextas-feiras",
+      "cefr": "A1",
+      "ipa": "[ˈsɐjʃtɐ ˈfɐjɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c513bb3-85ab-490e-963e-a06721582a88",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "portuguese": "sábado",
+      "gender": "masculine",
+      "plural": "sábados",
+      "cefr": "A1",
+      "ipa": "[ˈsaβɐðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77d65fad-4ed8-49fc-a6d9-27662cb855b5",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "portuguese": "domingo",
+      "gender": "masculine",
+      "plural": "domingos",
+      "cefr": "A1",
+      "ipa": "[duˈmĩɡu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc261449-2a89-4900-9677-466ea31e745c",
+      "part-of-speech": "noun",
+      "english": "January",
+      "portuguese": "janeiro",
+      "cefr": "A1",
+      "ipa": "[ʒɐˈnɐjɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ef1356e-b991-423b-b226-bc6ea615a75d",
+      "part-of-speech": "noun",
+      "english": "February",
+      "portuguese": "fevereiro",
+      "cefr": "A1",
+      "ipa": "[fɨvɨˈɾɐjɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "240d3ffc-3d77-4932-986f-e39321ddc1e6",
+      "part-of-speech": "noun",
+      "english": "March",
+      "portuguese": "março",
+      "cefr": "A1",
+      "ipa": "[ˈmaɾsu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b90d7f19-00f1-44c5-ab13-32cc5da86ff3",
+      "part-of-speech": "noun",
+      "english": "April",
+      "portuguese": "abril",
+      "cefr": "A1",
+      "ipa": "[ɐˈβɾiɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09ac4286-e59d-43d0-80f4-f3bc62712b8c",
+      "part-of-speech": "noun",
+      "english": "May",
+      "portuguese": "maio",
+      "cefr": "A1",
+      "ipa": "[ˈmaju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "044992e2-187e-4fbe-bc5b-2777f09f2712",
+      "part-of-speech": "noun",
+      "english": "June",
+      "portuguese": "junho",
+      "cefr": "A1",
+      "ipa": "[ˈʒuɲu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c6d8686-e1b8-4c5b-8c74-1453967f0ed4",
+      "part-of-speech": "noun",
+      "english": "July",
+      "portuguese": "julho",
+      "cefr": "A1",
+      "ipa": "[ˈʒuʎu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73f2e8ad-2ae0-47db-93f7-7438a7900a37",
+      "part-of-speech": "noun",
+      "english": "August",
+      "portuguese": "agosto",
+      "cefr": "A1",
+      "ipa": "[ɐˈɣoʃtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd54ca5f-8fbc-4852-812f-4625554ce37b",
+      "part-of-speech": "noun",
+      "english": "September",
+      "portuguese": "setembro",
+      "cefr": "A1",
+      "ipa": "[sɨˈtẽbɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5c8ad41-24b1-4ec0-b098-f7f703da55a0",
+      "part-of-speech": "noun",
+      "english": "October",
+      "portuguese": "outubro",
+      "cefr": "A1",
+      "ipa": "[oˈtuβɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b998f8e-cbdc-4166-bb41-c0346f63f612",
+      "part-of-speech": "noun",
+      "english": "November",
+      "portuguese": "novembro",
+      "cefr": "A1",
+      "ipa": "[nuˈvẽbɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66478272-1e34-4e9e-bcdb-6429ce2b6971",
+      "part-of-speech": "noun",
+      "english": "December",
+      "portuguese": "dezembro",
+      "cefr": "A1",
+      "ipa": "[dɨˈzẽbɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb22bc46-3d5f-4d25-9b6e-5c7771e8f2df",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "portuguese": "primavera",
+      "gender": "feminine",
+      "plural": "primaveras",
+      "cefr": "A2",
+      "ipa": "[pɾimɐˈvɛɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2a96de3-9817-4e9b-8a7b-0517f962fe51",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "portuguese": "verão",
+      "gender": "masculine",
+      "plural": "verões",
+      "cefr": "A2",
+      "ipa": "[vɨˈɾɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb6779b5-1f7f-46ca-a1ef-2ffb17465a74",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "portuguese": "outono",
+      "gender": "masculine",
+      "plural": "outonos",
+      "cefr": "A2",
+      "ipa": "[oˈtonu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5340a632-f5cf-42b0-9824-c25284c98183",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "portuguese": "inverno",
+      "gender": "masculine",
+      "plural": "invernos",
+      "cefr": "A2",
+      "ipa": "[ĩˈvɛɾnu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccd0b85a-928f-4bf9-ad1f-fa05e532377d",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "portuguese": "aniversário",
+      "gender": "masculine",
+      "plural": "aniversários",
+      "cefr": "A1",
+      "ipa": "[ɐnivɨɾˈsaɾju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0ed389a-1467-4f63-b553-1089290d5c6b",
+      "part-of-speech": "noun",
+      "english": "holidays, vacation",
+      "portuguese": "férias",
+      "gender": "feminine",
+      "plural": "férias",
+      "cefr": "A1",
+      "ipa": "[ˈfɛɾjɐʃ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1016db89-3c39-4184-a45e-68514cba0b77",
+      "part-of-speech": "noun",
+      "english": "party",
+      "portuguese": "festa",
+      "gender": "feminine",
+      "plural": "festas",
+      "cefr": "A1",
+      "ipa": "[ˈfɛʃtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9990ad7-4793-4aa6-afed-575d7f7de52b",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "portuguese": "presente",
+      "gender": "masculine",
+      "plural": "presentes",
+      "cefr": "A2",
+      "ipa": "[pɾɨˈzẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5a39e33-c27b-48d3-b29f-7d9df11c8aeb",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "portuguese": "casa",
+      "gender": "feminine",
+      "plural": "casas",
+      "cefr": "A1",
+      "ipa": "[ˈkazɐ]",
+      "context": "em casa: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e38214dd-6b16-4490-81f9-ad7b11852396",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "portuguese": "apartamento",
+      "gender": "masculine",
+      "plural": "apartamentos",
+      "cefr": "A1",
+      "ipa": "[ɐpɐɾtɐˈmẽtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ec40d97-a26d-4486-9e7a-eb7d6c0c4842",
+      "part-of-speech": "noun",
+      "english": "bedroom; room",
+      "portuguese": "quarto",
+      "gender": "masculine",
+      "plural": "quartos",
+      "cefr": "A1",
+      "ipa": "[ˈkwaɾtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a58fe79-ab69-449f-ae06-ec8b8437ef6b",
+      "part-of-speech": "noun",
+      "english": "living room",
+      "portuguese": "sala",
+      "gender": "feminine",
+      "plural": "salas",
+      "cefr": "A1",
+      "ipa": "[ˈsalɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63f42bd1-6bf1-41b7-aed8-7588b9499c7e",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "portuguese": "cozinha",
+      "gender": "feminine",
+      "plural": "cozinhas",
+      "cefr": "A1",
+      "ipa": "[kuˈziɲɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "318ac711-1e91-421b-bd92-bf417daed656",
+      "part-of-speech": "noun",
+      "english": "bathroom, toilet",
+      "portuguese": "casa de banho",
+      "gender": "feminine",
+      "plural": "casas de banho",
+      "cefr": "A1",
+      "ipa": "[ˈkazɐ ðɨ ˈβɐɲu]",
+      "context": "European Portuguese (in Brazil: banheiro)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be082af3-a02b-4f6e-9b1c-d56162e100d2",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "portuguese": "jardim",
+      "gender": "masculine",
+      "plural": "jardins",
+      "cefr": "A1",
+      "ipa": "[ʒɐɾˈðĩ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ef248aa-9ae3-4eb7-8263-6af67595d09a",
+      "part-of-speech": "noun",
+      "english": "door",
+      "portuguese": "porta",
+      "gender": "feminine",
+      "plural": "portas",
+      "cefr": "A1",
+      "ipa": "[ˈpɔɾtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6343b76-2337-49f2-b374-a9e76c2b877d",
+      "part-of-speech": "noun",
+      "english": "window",
+      "portuguese": "janela",
+      "gender": "feminine",
+      "plural": "janelas",
+      "cefr": "A1",
+      "ipa": "[ʒɐˈnɛlɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73708499-1d9a-416b-a497-167b4cc4d955",
+      "part-of-speech": "noun",
+      "english": "table",
+      "portuguese": "mesa",
+      "gender": "feminine",
+      "plural": "mesas",
+      "cefr": "A1",
+      "ipa": "[ˈmezɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cf7401a-a6b3-4cfd-bac9-f792d1f8fb69",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "portuguese": "cadeira",
+      "gender": "feminine",
+      "plural": "cadeiras",
+      "cefr": "A1",
+      "ipa": "[kɐˈðɐjɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94d39259-b336-4f97-bed5-b916bb769d31",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "portuguese": "cama",
+      "gender": "feminine",
+      "plural": "camas",
+      "cefr": "A1",
+      "ipa": "[ˈkɐmɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "045b2cb0-25ad-4002-baeb-86e04e7adf9e",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "portuguese": "sofá",
+      "gender": "masculine",
+      "plural": "sofás",
+      "cefr": "A1",
+      "ipa": "[sɔˈfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cc2a100-b2b9-4482-a6ef-c4b4f9a54990",
+      "part-of-speech": "noun",
+      "english": "key",
+      "portuguese": "chave",
+      "gender": "feminine",
+      "plural": "chaves",
+      "cefr": "A1",
+      "ipa": "[ˈʃavɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cfa7b74-ab6c-4101-8f79-2351406e26ac",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "portuguese": "frigorífico",
+      "gender": "masculine",
+      "plural": "frigoríficos",
+      "cefr": "A2",
+      "ipa": "[fɾiɣuˈɾifiku]",
+      "context": "European Portuguese (in Brazil: geladeira)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f618d60-b052-4124-a931-404943e4a3ee",
+      "part-of-speech": "noun",
+      "english": "television",
+      "portuguese": "televisão",
+      "gender": "feminine",
+      "plural": "televisões",
+      "cefr": "A1",
+      "ipa": "[tɨlɨviˈzɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd1fe360-dd1e-44ea-859e-ecfdea1ae7b9",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "portuguese": "telefone",
+      "gender": "masculine",
+      "plural": "telefones",
+      "cefr": "A1",
+      "ipa": "[tɨlɨˈfɔnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ff09a8f-56ee-4724-87a0-d08462435b5e",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "portuguese": "telemóvel",
+      "gender": "masculine",
+      "plural": "telemóveis",
+      "cefr": "A1",
+      "ipa": "[tɛlɛˈmɔvɛɫ]",
+      "context": "European Portuguese (in Brazil: celular)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dfce4e4-c8ad-4603-b563-5f666873c0a9",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "portuguese": "computador",
+      "gender": "masculine",
+      "plural": "computadores",
+      "cefr": "A1",
+      "ipa": "[kõputɐˈðoɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8573645-151c-4af4-872e-5fd087ba9d5c",
+      "part-of-speech": "noun",
+      "english": "food",
+      "portuguese": "comida",
+      "gender": "feminine",
+      "plural": "comidas",
+      "cefr": "A1",
+      "ipa": "[kuˈmiðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ee44f6e-37c5-4baa-84c1-2c5d5b2ab1bf",
+      "part-of-speech": "noun",
+      "english": "water",
+      "portuguese": "água",
+      "gender": "feminine",
+      "plural": "águas",
+      "cefr": "A1",
+      "ipa": "[ˈaɣwɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9e538a6-6211-49d9-95d9-7d97ff7517fe",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "portuguese": "pão",
+      "gender": "masculine",
+      "plural": "pães",
+      "cefr": "A1",
+      "ipa": "[ˈpɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d753f4a-cd21-4668-b5b6-af1d75b46c26",
+      "part-of-speech": "noun",
+      "english": "coffee; café",
+      "portuguese": "café",
+      "gender": "masculine",
+      "plural": "cafés",
+      "cefr": "A1",
+      "ipa": "[kɐˈfɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0699e868-b305-4ef6-8ea4-37e8d6392ae6",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "portuguese": "chá",
+      "gender": "masculine",
+      "plural": "chás",
+      "cefr": "A1",
+      "ipa": "[ˈʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e7b462c-2834-4a49-90ba-7438351de189",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "portuguese": "leite",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈlɐjtɨ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f49afe6-3862-40f2-a9e7-e251fc028314",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "portuguese": "sumo",
+      "gender": "masculine",
+      "plural": "sumos",
+      "cefr": "A1",
+      "ipa": "[ˈsumu]",
+      "context": "European Portuguese (in Brazil: suco)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ca72d30-7d9b-4725-a484-ba5905d521cc",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "portuguese": "cerveja",
+      "gender": "feminine",
+      "plural": "cervejas",
+      "cefr": "A1",
+      "ipa": "[sɨɾˈvɐʒɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab0d8f41-b83f-4723-b16f-da7edd7224b4",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "portuguese": "vinho",
+      "gender": "masculine",
+      "plural": "vinhos",
+      "cefr": "A1",
+      "ipa": "[ˈviɲu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cd1d2f3-414b-482e-8016-005e2a295656",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "portuguese": "carne",
+      "gender": "feminine",
+      "plural": "carnes",
+      "cefr": "A1",
+      "ipa": "[ˈkaɾnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fff9e50-1549-4dce-800a-c011443e91c6",
+      "part-of-speech": "noun",
+      "english": "chicken (food)",
+      "portuguese": "frango",
+      "gender": "masculine",
+      "plural": "frangos",
+      "cefr": "A1",
+      "ipa": "[ˈfɾɐ̃ɡu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91fac8bd-b9ff-4502-8774-994bace4d151",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "portuguese": "peixe",
+      "gender": "masculine",
+      "plural": "peixes",
+      "cefr": "A1",
+      "ipa": "[ˈpɐjʃɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e38deb0c-35a6-4d8f-a0a3-68f34bc27d7a",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "portuguese": "queijo",
+      "gender": "masculine",
+      "plural": "queijos",
+      "cefr": "A1",
+      "ipa": "[ˈkɐjʒu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d748420f-fea4-4e2d-aa2d-1a3082a58c23",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "portuguese": "ovo",
+      "gender": "masculine",
+      "plural": "ovos",
+      "cefr": "A1",
+      "ipa": "[ˈovu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d1df889-9324-4471-8005-f3adf6d0263a",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "portuguese": "legume",
+      "gender": "masculine",
+      "plural": "legumes",
+      "cefr": "A1",
+      "ipa": "[lɨˈɣumɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e45ee76-1dfe-473c-9388-de1fc80d3173",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "portuguese": "fruta",
+      "gender": "feminine",
+      "plural": "frutas",
+      "cefr": "A1",
+      "ipa": "[ˈfɾutɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bafcf77-c5a1-4f77-a2b0-7e3b8a7e19f2",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "portuguese": "maçã",
+      "gender": "feminine",
+      "plural": "maçãs",
+      "cefr": "A1",
+      "ipa": "[mɐˈsɐ̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "260deb71-f435-4f65-b05f-048efec0bda2",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "portuguese": "banana",
+      "gender": "feminine",
+      "plural": "bananas",
+      "cefr": "A1",
+      "ipa": "[bɐˈnɐnɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f8a59c2-daf9-4b8f-a6c8-78a954107542",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "portuguese": "laranja",
+      "gender": "feminine",
+      "plural": "laranjas",
+      "cefr": "A1",
+      "ipa": "[lɐˈɾɐ̃ʒɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cbcd398-60c2-4111-bbc8-24ab71f886c0",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "portuguese": "batata",
+      "gender": "feminine",
+      "plural": "batatas",
+      "cefr": "A1",
+      "ipa": "[bɐˈtatɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ca370a8-e2c9-40bb-b7a3-22fe6b02e65a",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "portuguese": "arroz",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɐˈʁoʃ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1101a8d2-2a63-4289-a811-a2e7cd9deabf",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "portuguese": "sopa",
+      "gender": "feminine",
+      "plural": "sopas",
+      "cefr": "A1",
+      "ipa": "[ˈsopɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf68fa91-4279-477a-8e66-b4033d28a069",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "portuguese": "açúcar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɐˈsukaɾ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a212a013-a13d-4707-b655-c2974f7ec2d6",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "portuguese": "sal",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈsaɫ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4034bc2-25eb-4260-bb47-c7e3a6c0a42d",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "portuguese": "manteiga",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[mɐ̃ˈtɐjɣɐ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d036aa9-ea73-41c9-a323-9653419469de",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "portuguese": "bolo",
+      "gender": "masculine",
+      "plural": "bolos",
+      "cefr": "A2",
+      "ipa": "[ˈbolu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4c41d35-1558-494b-bc95-3116962e421f",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "portuguese": "pequeno-almoço",
+      "gender": "masculine",
+      "plural": "pequenos-almoços",
+      "cefr": "A1",
+      "ipa": "[pɨˈkenu aɫˈmosu]",
+      "context": "European Portuguese (in Brazil: café da manhã)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78d642ba-19c1-420a-81aa-7fdf73f77d46",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "portuguese": "almoço",
+      "gender": "masculine",
+      "plural": "almoços",
+      "cefr": "A1",
+      "ipa": "[aɫˈmosu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39b09b65-1842-4230-9ae8-bbf3e64be17c",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "portuguese": "jantar",
+      "gender": "masculine",
+      "plural": "jantares",
+      "cefr": "A1",
+      "ipa": "[ʒɐ̃ˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48bf38c2-7d2c-4640-a2ef-755eed75437c",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "portuguese": "restaurante",
+      "gender": "masculine",
+      "plural": "restaurantes",
+      "cefr": "A1",
+      "ipa": "[ʁɨʃtawˈɾɐ̃tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "054721fd-f2ac-4617-b57b-441c2c323fea",
+      "part-of-speech": "noun",
+      "english": "pastry shop, café",
+      "portuguese": "pastelaria",
+      "gender": "feminine",
+      "plural": "pastelarias",
+      "cefr": "A2",
+      "ipa": "[pɐʃtɨlɐˈɾiɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b7a42cb-56b2-4aaa-9409-8f8adfc3830b",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "portuguese": "copo",
+      "gender": "masculine",
+      "plural": "copos",
+      "cefr": "A1",
+      "ipa": "[ˈkɔpu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9b5ae89-c09e-417e-a899-a79aa7c3aeb8",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "portuguese": "chávena",
+      "gender": "feminine",
+      "plural": "chávenas",
+      "cefr": "A1",
+      "ipa": "[ˈʃavɨnɐ]",
+      "context": "European Portuguese (in Brazil: xícara)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "354b6099-fcd3-4c38-9e7d-f1ee93d1289e",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "portuguese": "garrafa",
+      "gender": "feminine",
+      "plural": "garrafas",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈʁafɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9adfc4cc-c393-40e2-b844-d54f56a72b9b",
+      "part-of-speech": "noun",
+      "english": "plate; dish",
+      "portuguese": "prato",
+      "gender": "masculine",
+      "plural": "pratos",
+      "cefr": "A2",
+      "ipa": "[ˈpɾatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "523747e3-66eb-4e44-b72e-1e88b5f2c5cc",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "portuguese": "faca",
+      "gender": "feminine",
+      "plural": "facas",
+      "cefr": "A2",
+      "ipa": "[ˈfakɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21adb3e6-bca0-4fd6-8a70-bc35e956b834",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "portuguese": "garfo",
+      "gender": "masculine",
+      "plural": "garfos",
+      "cefr": "A2",
+      "ipa": "[ˈɡaɾfu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14130198-9345-41b9-a1d7-07782b5d7151",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "portuguese": "colher",
+      "gender": "feminine",
+      "plural": "colheres",
+      "cefr": "A2",
+      "ipa": "[kuˈʎɛɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20780fb5-5cae-46ea-8dc1-5085db85abf3",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "portuguese": "cidade",
+      "gender": "feminine",
+      "plural": "cidades",
+      "cefr": "A1",
+      "ipa": "[siˈðaðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f971adf6-130f-4efc-af34-b7986289d061",
+      "part-of-speech": "noun",
+      "english": "village",
+      "portuguese": "aldeia",
+      "gender": "feminine",
+      "plural": "aldeias",
+      "cefr": "A2",
+      "ipa": "[aɫˈdɐjɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71aed963-0973-4745-a06c-47a391daf4a2",
+      "part-of-speech": "noun",
+      "english": "country",
+      "portuguese": "país",
+      "gender": "masculine",
+      "plural": "países",
+      "cefr": "A1",
+      "ipa": "[pɐˈiʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed537e53-7d31-4b4d-8faa-69b9c66ed39b",
+      "part-of-speech": "noun",
+      "english": "street",
+      "portuguese": "rua",
+      "gender": "feminine",
+      "plural": "ruas",
+      "cefr": "A1",
+      "ipa": "[ˈʁuɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3128a565-6013-454a-b9f1-541e5b1a07e7",
+      "part-of-speech": "noun",
+      "english": "road",
+      "portuguese": "estrada",
+      "gender": "feminine",
+      "plural": "estradas",
+      "cefr": "A2",
+      "ipa": "[ɨʃˈtɾaðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bb6c58f-a990-4c67-b249-87886a9d84ec",
+      "part-of-speech": "noun",
+      "english": "square (in a town)",
+      "portuguese": "praça",
+      "gender": "feminine",
+      "plural": "praças",
+      "cefr": "A2",
+      "ipa": "[ˈpɾasɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3efc4218-bc05-4816-9750-ff8181b63750",
+      "part-of-speech": "noun",
+      "english": "bridge",
+      "portuguese": "ponte",
+      "gender": "feminine",
+      "plural": "pontes",
+      "cefr": "A2",
+      "ipa": "[ˈpõtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41b5b678-0a29-4574-9d00-e3ee99929d29",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "portuguese": "loja",
+      "gender": "feminine",
+      "plural": "lojas",
+      "cefr": "A1",
+      "ipa": "[ˈlɔʒɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75c929f7-02ee-4e3f-8da8-22c5fd685cb6",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "portuguese": "supermercado",
+      "gender": "masculine",
+      "plural": "supermercados",
+      "cefr": "A1",
+      "ipa": "[supɛɾmɨɾˈkaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8ee9615-4214-41b9-a147-a8b4e1225b76",
+      "part-of-speech": "noun",
+      "english": "market",
+      "portuguese": "mercado",
+      "gender": "masculine",
+      "plural": "mercados",
+      "cefr": "A1",
+      "ipa": "[mɨɾˈkaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc2929af-375b-4d01-a9f5-ab004ccb9457",
+      "part-of-speech": "noun",
+      "english": "school",
+      "portuguese": "escola",
+      "gender": "feminine",
+      "plural": "escolas",
+      "cefr": "A1",
+      "ipa": "[ɨʃˈkɔlɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed4eb059-58bf-4031-96da-f08def904d2c",
+      "part-of-speech": "noun",
+      "english": "office",
+      "portuguese": "escritório",
+      "gender": "masculine",
+      "plural": "escritórios",
+      "cefr": "A2",
+      "ipa": "[ɨʃkɾiˈtɔɾju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b579f837-b68c-488a-82ff-6ec5656927cf",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "portuguese": "hospital",
+      "gender": "masculine",
+      "plural": "hospitais",
+      "cefr": "A1",
+      "ipa": "[ɔʃpiˈtaɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffa3a889-a22e-4a40-907f-2a8fdb44bf90",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "portuguese": "farmácia",
+      "gender": "feminine",
+      "plural": "farmácias",
+      "cefr": "A1",
+      "ipa": "[fɐɾˈmasjɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "971b80f4-eb68-4976-a392-c113d29bd00c",
+      "part-of-speech": "noun",
+      "english": "bank; bench",
+      "portuguese": "banco",
+      "gender": "masculine",
+      "plural": "bancos",
+      "cefr": "A1",
+      "ipa": "[ˈbɐ̃ku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fce45586-fdb3-4fed-a67a-545c90a6485e",
+      "part-of-speech": "noun",
+      "english": "church",
+      "portuguese": "igreja",
+      "gender": "feminine",
+      "plural": "igrejas",
+      "cefr": "A2",
+      "ipa": "[iˈɣɾɐʒɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f84f019e-ba5a-4314-9f82-d9d1c2f5f1d4",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "portuguese": "museu",
+      "gender": "masculine",
+      "plural": "museus",
+      "cefr": "A2",
+      "ipa": "[muˈzew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c28a1cdf-277c-433a-afcc-b17712486be5",
+      "part-of-speech": "noun",
+      "english": "park",
+      "portuguese": "parque",
+      "gender": "masculine",
+      "plural": "parques",
+      "cefr": "A1",
+      "ipa": "[ˈpaɾkɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f4f3fc2-0aac-4820-b9e7-5882eaa4679c",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "portuguese": "cinema",
+      "gender": "masculine",
+      "plural": "cinemas",
+      "cefr": "A1",
+      "ipa": "[siˈnemɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f14c8e65-93ac-462c-b8ec-b88fc2cc1de9",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "portuguese": "hotel",
+      "gender": "masculine",
+      "plural": "hotéis",
+      "cefr": "A1",
+      "ipa": "[ɔˈtɛɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43bcfea3-b92c-4084-aa2e-6264d3956fe1",
+      "part-of-speech": "noun",
+      "english": "library",
+      "portuguese": "biblioteca",
+      "gender": "feminine",
+      "plural": "bibliotecas",
+      "cefr": "A2",
+      "ipa": "[bibliuˈtɛkɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01e3d7de-fb33-4db3-9d50-aa498f4b923f",
+      "part-of-speech": "noun",
+      "english": "station",
+      "portuguese": "estação",
+      "gender": "feminine",
+      "plural": "estações",
+      "cefr": "A1",
+      "ipa": "[ɨʃtɐˈsɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "062a5b4b-1217-4e1c-8a65-74fa3d1e677c",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "portuguese": "aeroporto",
+      "gender": "masculine",
+      "plural": "aeroportos",
+      "cefr": "A1",
+      "ipa": "[ɐɛɾɔˈpoɾtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5d3945e-6b7f-45ce-8bf9-0b4f0f48d0d1",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "portuguese": "autocarro",
+      "gender": "masculine",
+      "plural": "autocarros",
+      "cefr": "A1",
+      "ipa": "[awtɔˈkaʁu]",
+      "context": "European Portuguese (in Brazil: ônibus)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6e75277-e058-4c6a-a500-f061ab57bab4",
+      "part-of-speech": "noun",
+      "english": "train",
+      "portuguese": "comboio",
+      "gender": "masculine",
+      "plural": "comboios",
+      "cefr": "A1",
+      "ipa": "[kõˈβɔju]",
+      "context": "European Portuguese (in Brazil: trem)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad803c16-b92c-41c0-8697-c83da1a9d34c",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "portuguese": "metro",
+      "gender": "masculine",
+      "plural": "metros",
+      "cefr": "A1",
+      "ipa": "[ˈmɛtɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "faa9f171-14c2-43ba-b4dc-44e6a358ca45",
+      "part-of-speech": "noun",
+      "english": "tram",
+      "portuguese": "elétrico",
+      "gender": "masculine",
+      "plural": "elétricos",
+      "cefr": "A2",
+      "ipa": "[iˈlɛtɾiku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7899324-ac79-458a-9f16-cc18b5727f4e",
+      "part-of-speech": "noun",
+      "english": "car",
+      "portuguese": "carro",
+      "gender": "masculine",
+      "plural": "carros",
+      "cefr": "A1",
+      "ipa": "[ˈkaʁu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99b2b41a-6523-4c45-a481-94985fcaba40",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "portuguese": "bicicleta",
+      "gender": "feminine",
+      "plural": "bicicletas",
+      "cefr": "A1",
+      "ipa": "[bisiˈklɛtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b77785dd-a1d5-40fc-909e-ef989e3cf53e",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "portuguese": "avião",
+      "gender": "masculine",
+      "plural": "aviões",
+      "cefr": "A1",
+      "ipa": "[ɐˈvjɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c07bc64-d8b5-4cce-bf4c-b59b2e41b06c",
+      "part-of-speech": "noun",
+      "english": "boat",
+      "portuguese": "barco",
+      "gender": "masculine",
+      "plural": "barcos",
+      "cefr": "A2",
+      "ipa": "[ˈbaɾku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2520c30-31c0-4599-90e5-5ee63bbde3e1",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "portuguese": "bilhete",
+      "gender": "masculine",
+      "plural": "bilhetes",
+      "cefr": "A1",
+      "ipa": "[biˈʎetɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bab2d49-dbf2-49ae-bba4-9df81529d0a3",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "portuguese": "viagem",
+      "gender": "feminine",
+      "plural": "viagens",
+      "cefr": "A2",
+      "ipa": "[viˈaʒɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b749e2b3-acb3-41b0-a099-dbf2d53265fd",
+      "part-of-speech": "noun",
+      "english": "map",
+      "portuguese": "mapa",
+      "gender": "masculine",
+      "plural": "mapas",
+      "cefr": "A2",
+      "ipa": "[ˈmapɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d66b58ce-8b48-4394-9541-1e3aab4d9e74",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "portuguese": "mar",
+      "gender": "masculine",
+      "plural": "mares",
+      "cefr": "A1",
+      "ipa": "[ˈmaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53c53b4d-69f3-4994-be16-25957b4e12b2",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "portuguese": "praia",
+      "gender": "feminine",
+      "plural": "praias",
+      "cefr": "A1",
+      "ipa": "[ˈpɾajɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "358161bd-280b-4bd1-baf3-6e130e993a21",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "portuguese": "montanha",
+      "gender": "feminine",
+      "plural": "montanhas",
+      "cefr": "A2",
+      "ipa": "[mõˈtɐɲɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be58a2f3-2624-487f-8d79-ee439697a599",
+      "part-of-speech": "noun",
+      "english": "river",
+      "portuguese": "rio",
+      "gender": "masculine",
+      "plural": "rios",
+      "cefr": "A2",
+      "ipa": "[ˈʁiu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a6d1a80-0fec-4dfd-891c-30de732f9c63",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "portuguese": "árvore",
+      "gender": "feminine",
+      "plural": "árvores",
+      "cefr": "A1",
+      "ipa": "[ˈaɾvuɾɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f737fddd-c297-4515-b33d-c445c2595030",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "portuguese": "flor",
+      "gender": "feminine",
+      "plural": "flores",
+      "cefr": "A1",
+      "ipa": "[ˈfloɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8d1000c-9c67-4848-8a4a-7bd59cd601dd",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "portuguese": "animal",
+      "gender": "masculine",
+      "plural": "animais",
+      "cefr": "A1",
+      "ipa": "[ɐniˈmaɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d3ceec9-8c4f-4c72-b980-6519cdf11391",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "portuguese": "cão",
+      "gender": "masculine",
+      "plural": "cães",
+      "cefr": "A1",
+      "ipa": "[ˈkɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "810fb41b-2974-49af-9a05-6b5a79644ca1",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "portuguese": "gato",
+      "gender": "masculine",
+      "plural": "gatos",
+      "cefr": "A1",
+      "ipa": "[ˈɡatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99e1ad6f-3721-4ae8-bcc3-0d5adf4c5e12",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "portuguese": "pássaro",
+      "gender": "masculine",
+      "plural": "pássaros",
+      "cefr": "A1",
+      "ipa": "[ˈpasɐɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "867cd747-ed91-4ccf-9a06-84b1f69f8bbf",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "portuguese": "cavalo",
+      "gender": "masculine",
+      "plural": "cavalos",
+      "cefr": "A2",
+      "ipa": "[kɐˈvalu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abc39c4e-6767-4a14-9f67-1eaa3d546329",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "portuguese": "sol",
+      "gender": "masculine",
+      "plural": "sóis",
+      "cefr": "A1",
+      "ipa": "[ˈsɔɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12df9892-38d3-4a82-9d6c-ba2fe1f834db",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "portuguese": "chuva",
+      "gender": "feminine",
+      "plural": "chuvas",
+      "cefr": "A1",
+      "ipa": "[ˈʃuvɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fc4741f-b356-4736-a04f-cf68e32bc09c",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "portuguese": "vento",
+      "gender": "masculine",
+      "plural": "ventos",
+      "cefr": "A2",
+      "ipa": "[ˈvẽtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa13760c-e003-40ef-9d1e-b13997972b39",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "portuguese": "neve",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈnɛvɨ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af7eb2bf-0868-4571-9702-bf2fa1a6e10b",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "portuguese": "céu",
+      "gender": "masculine",
+      "plural": "céus",
+      "cefr": "A2",
+      "ipa": "[ˈsɛw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13a1981f-fcb4-46dd-817f-0dfa198ef43c",
+      "part-of-speech": "noun",
+      "english": "world",
+      "portuguese": "mundo",
+      "gender": "masculine",
+      "plural": "mundos",
+      "cefr": "A2",
+      "ipa": "[ˈmũdu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4418c34-447e-44cf-a93e-7225e6e4b324",
+      "part-of-speech": "noun",
+      "english": "body",
+      "portuguese": "corpo",
+      "gender": "masculine",
+      "plural": "corpos",
+      "cefr": "A2",
+      "ipa": "[ˈkoɾpu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eacd7212-683e-4f65-bc22-ed0d165ef756",
+      "part-of-speech": "noun",
+      "english": "head",
+      "portuguese": "cabeça",
+      "gender": "feminine",
+      "plural": "cabeças",
+      "cefr": "A1",
+      "ipa": "[kɐˈβesɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09dda2a5-0b81-4ddf-b773-0225b38ad56c",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "portuguese": "cabelo",
+      "gender": "masculine",
+      "plural": "cabelos",
+      "cefr": "A1",
+      "ipa": "[kɐˈβelu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b1ec567-c284-46e7-8226-217929389761",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "portuguese": "olho",
+      "gender": "masculine",
+      "plural": "olhos",
+      "cefr": "A1",
+      "ipa": "[ˈoʎu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4d0634b-df5d-474c-9a4c-680578109652",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "portuguese": "orelha",
+      "gender": "feminine",
+      "plural": "orelhas",
+      "cefr": "A1",
+      "ipa": "[ɔˈɾɐʎɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5325f842-61df-4724-9128-6279533268b8",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "portuguese": "nariz",
+      "gender": "masculine",
+      "plural": "narizes",
+      "cefr": "A1",
+      "ipa": "[nɐˈɾiʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c91d69f8-6d98-498f-812c-7d01736da9a3",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "portuguese": "boca",
+      "gender": "feminine",
+      "plural": "bocas",
+      "cefr": "A1",
+      "ipa": "[ˈbokɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04f9b376-2569-4a00-9c8c-aae100e9160a",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "portuguese": "dente",
+      "gender": "masculine",
+      "plural": "dentes",
+      "cefr": "A2",
+      "ipa": "[ˈdẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2385b6b1-4c99-48aa-86b2-218189f48c1f",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "portuguese": "mão",
+      "gender": "feminine",
+      "plural": "mãos",
+      "cefr": "A1",
+      "ipa": "[ˈmɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5151cc12-679e-48ba-b557-b9a3188278a0",
+      "part-of-speech": "noun",
+      "english": "arm",
+      "portuguese": "braço",
+      "gender": "masculine",
+      "plural": "braços",
+      "cefr": "A1",
+      "ipa": "[ˈbɾasu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05a0263c-cd4d-425b-a31d-863eecfd90ea",
+      "part-of-speech": "noun",
+      "english": "leg",
+      "portuguese": "perna",
+      "gender": "feminine",
+      "plural": "pernas",
+      "cefr": "A1",
+      "ipa": "[ˈpɛɾnɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c72d38da-eb64-45f2-84f5-0d81a4efa319",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "portuguese": "pé",
+      "gender": "masculine",
+      "plural": "pés",
+      "cefr": "A1",
+      "ipa": "[ˈpɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3e03a7a-bff2-4982-a93b-8d6597907fc4",
+      "part-of-speech": "noun",
+      "english": "belly, stomach",
+      "portuguese": "barriga",
+      "gender": "feminine",
+      "plural": "barrigas",
+      "cefr": "A2",
+      "ipa": "[bɐˈʁiɣɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a7cfeec-5a6c-44d4-bab8-29487f943837",
+      "part-of-speech": "noun",
+      "english": "back",
+      "portuguese": "costas",
+      "gender": "feminine",
+      "plural": "costas",
+      "cefr": "A2",
+      "ipa": "[ˈkɔʃtɐʃ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80d6cf57-0108-403a-adc4-73b48ede36ab",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "portuguese": "coração",
+      "gender": "masculine",
+      "plural": "corações",
+      "cefr": "A2",
+      "ipa": "[kuɾɐˈsɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b137283-b83e-4c0d-8eba-6b54062cb5c4",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "portuguese": "dor",
+      "gender": "feminine",
+      "plural": "dores",
+      "cefr": "A2",
+      "ipa": "[ˈdoɾ]",
+      "context": "dor de cabeça: headache",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f39807e4-9d12-417e-8d08-d218ab173829",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "portuguese": "medicamento",
+      "gender": "masculine",
+      "plural": "medicamentos",
+      "cefr": "A2",
+      "ipa": "[mɨðikɐˈmẽtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d94384dc-7630-4b4d-95da-463ea0acd58b",
+      "part-of-speech": "noun",
+      "english": "clothes, clothing",
+      "portuguese": "roupa",
+      "gender": "feminine",
+      "plural": "roupas",
+      "cefr": "A1",
+      "ipa": "[ˈʁopɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa851bd6-b652-407e-9f38-5aa942f9c4f5",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "portuguese": "calças",
+      "gender": "feminine",
+      "plural": "calças",
+      "cefr": "A1",
+      "ipa": "[ˈkaɫsɐʃ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c93cf4b9-32f2-42c1-aab4-923a759fdd6f",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "portuguese": "camisa",
+      "gender": "feminine",
+      "plural": "camisas",
+      "cefr": "A1",
+      "ipa": "[kɐˈmizɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa24107-e6cd-4ced-bc45-6f4b8ead6e0b",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper; T-shirt",
+      "portuguese": "camisola",
+      "gender": "feminine",
+      "plural": "camisolas",
+      "cefr": "A2",
+      "ipa": "[kɐmiˈzɔlɐ]",
+      "context": "European Portuguese",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46d06b22-03c4-4e39-8bcc-c248711f2446",
+      "part-of-speech": "noun",
+      "english": "coat, jacket",
+      "portuguese": "casaco",
+      "gender": "masculine",
+      "plural": "casacos",
+      "cefr": "A1",
+      "ipa": "[kɐˈzaku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "368f15fd-45b5-427a-b955-ec2844f2ec54",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "portuguese": "vestido",
+      "gender": "masculine",
+      "plural": "vestidos",
+      "cefr": "A1",
+      "ipa": "[vɨʃˈtiðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fd08156-dc97-4aa6-bf01-dbdbffdde57b",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "portuguese": "saia",
+      "gender": "feminine",
+      "plural": "saias",
+      "cefr": "A2",
+      "ipa": "[ˈsajɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6e4b19c-1b11-4410-b9b7-0a53968566a2",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "portuguese": "sapato",
+      "gender": "masculine",
+      "plural": "sapatos",
+      "cefr": "A1",
+      "ipa": "[sɐˈpatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01c22fa2-b564-4f72-8312-dfd6f264f439",
+      "part-of-speech": "noun",
+      "english": "bag; suitcase",
+      "portuguese": "mala",
+      "gender": "feminine",
+      "plural": "malas",
+      "cefr": "A1",
+      "ipa": "[ˈmalɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75bdd0e1-889e-4d3a-921b-e2e8a942224e",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "portuguese": "chapéu",
+      "gender": "masculine",
+      "plural": "chapéus",
+      "cefr": "A2",
+      "ipa": "[ʃɐˈpɛw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35f5d1ba-2d7b-41f0-a9fe-c874fb02f3fc",
+      "part-of-speech": "noun",
+      "english": "work; job",
+      "portuguese": "trabalho",
+      "gender": "masculine",
+      "plural": "trabalhos",
+      "cefr": "A1",
+      "ipa": "[tɾɐˈβaʎu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c70c1c65-5ec2-47b2-bf3d-0bd5094a7316",
+      "part-of-speech": "noun",
+      "english": "job, employment",
+      "portuguese": "emprego",
+      "gender": "masculine",
+      "plural": "empregos",
+      "cefr": "A2",
+      "ipa": "[ẽˈpɾeɣu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f0f049d-365d-4d19-991e-63e4a574ddc9",
+      "part-of-speech": "noun",
+      "english": "money",
+      "portuguese": "dinheiro",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[diˈɲɐjɾu]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "737fd4f6-a15c-4969-a512-739480fc588b",
+      "part-of-speech": "noun",
+      "english": "euro",
+      "portuguese": "euro",
+      "gender": "masculine",
+      "plural": "euros",
+      "cefr": "A1",
+      "ipa": "[ˈewɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16a55e6d-659c-4cec-bafb-386beb6f7221",
+      "part-of-speech": "noun",
+      "english": "price",
+      "portuguese": "preço",
+      "gender": "masculine",
+      "plural": "preços",
+      "cefr": "A1",
+      "ipa": "[ˈpɾesu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52d68ffc-b710-4a1c-b4fb-e2a4bbce5fc8",
+      "part-of-speech": "noun",
+      "english": "book",
+      "portuguese": "livro",
+      "gender": "masculine",
+      "plural": "livros",
+      "cefr": "A1",
+      "ipa": "[ˈlivɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ca86f9d-a4d3-4afb-af47-d66275f30e24",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "portuguese": "jornal",
+      "gender": "masculine",
+      "plural": "jornais",
+      "cefr": "A1",
+      "ipa": "[ʒuɾˈnaɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "107c338d-3708-4f14-bfbc-1c786e9e2ffc",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "portuguese": "carta",
+      "gender": "feminine",
+      "plural": "cartas",
+      "cefr": "A1",
+      "ipa": "[ˈkaɾtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0497d409-a0ed-4d9f-bba1-9b613ac749e3",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "portuguese": "caneta",
+      "gender": "feminine",
+      "plural": "canetas",
+      "cefr": "A1",
+      "ipa": "[kɐˈnetɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5470eee9-1c12-40d4-8968-3309bd73f81f",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "portuguese": "papel",
+      "gender": "masculine",
+      "plural": "papéis",
+      "cefr": "A1",
+      "ipa": "[pɐˈpɛɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bdff8f8-60d2-4876-8562-3c73867be2aa",
+      "part-of-speech": "noun",
+      "english": "photograph",
+      "portuguese": "fotografia",
+      "gender": "feminine",
+      "plural": "fotografias",
+      "cefr": "A1",
+      "ipa": "[futuɣɾɐˈfiɐ]",
+      "context": "often shortened to foto",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4891b70b-efff-4f1e-92ee-ffaf28ed353b",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "portuguese": "filme",
+      "gender": "masculine",
+      "plural": "filmes",
+      "cefr": "A1",
+      "ipa": "[ˈfiɫmɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3af3713-55b0-4b05-a66d-b4c86a0617a3",
+      "part-of-speech": "noun",
+      "english": "music",
+      "portuguese": "música",
+      "gender": "feminine",
+      "plural": "músicas",
+      "cefr": "A1",
+      "ipa": "[ˈmuzikɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cec4258-9946-4b60-8443-802882a7769e",
+      "part-of-speech": "noun",
+      "english": "song",
+      "portuguese": "canção",
+      "gender": "feminine",
+      "plural": "canções",
+      "cefr": "A2",
+      "ipa": "[kɐ̃ˈsɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4584a2c5-3572-4736-90d3-5c244327e8c9",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "portuguese": "desporto",
+      "gender": "masculine",
+      "plural": "desportos",
+      "cefr": "A1",
+      "ipa": "[dɨʃˈpoɾtu]",
+      "context": "European Portuguese (in Brazil: esporte)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e8df2bc-6d56-4096-96d3-e49464f74e6d",
+      "part-of-speech": "noun",
+      "english": "game; match",
+      "portuguese": "jogo",
+      "gender": "masculine",
+      "plural": "jogos",
+      "cefr": "A2",
+      "ipa": "[ˈʒoɣu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee3f0466-99dc-4bea-9553-9b549e5f592c",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "portuguese": "língua",
+      "gender": "feminine",
+      "plural": "línguas",
+      "cefr": "A1",
+      "ipa": "[ˈlĩɡwɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32886382-569d-4a2a-aef1-19e13fae7ac7",
+      "part-of-speech": "noun",
+      "english": "word",
+      "portuguese": "palavra",
+      "gender": "feminine",
+      "plural": "palavras",
+      "cefr": "A1",
+      "ipa": "[pɐˈlavɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea741a8f-75e5-4c34-afb7-8f1f35c8618e",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "portuguese": "frase",
+      "gender": "feminine",
+      "plural": "frases",
+      "cefr": "A2",
+      "ipa": "[ˈfɾazɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94c844d5-fc06-4c71-8d47-b9557f2d1cbe",
+      "part-of-speech": "noun",
+      "english": "question",
+      "portuguese": "pergunta",
+      "gender": "feminine",
+      "plural": "perguntas",
+      "cefr": "A1",
+      "ipa": "[pɨɾˈɣũtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5abab61-e050-4969-864f-3718959f405d",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "portuguese": "resposta",
+      "gender": "feminine",
+      "plural": "respostas",
+      "cefr": "A1",
+      "ipa": "[ʁɨʃˈpɔʃtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eae6487d-d716-482b-99d8-4e341bbee5d2",
+      "part-of-speech": "noun",
+      "english": "lesson, class",
+      "portuguese": "aula",
+      "gender": "feminine",
+      "plural": "aulas",
+      "cefr": "A1",
+      "ipa": "[ˈawlɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39314d59-6a32-4619-992f-fd4a4e5af119",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "portuguese": "cor",
+      "gender": "feminine",
+      "plural": "cores",
+      "cefr": "A1",
+      "ipa": "[ˈkoɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "087de2d7-e653-4b83-aa1d-ca3934df9e6c",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "portuguese": "problema",
+      "gender": "masculine",
+      "plural": "problemas",
+      "cefr": "A2",
+      "ipa": "[pɾuˈβlemɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d47592c3-e42e-4be0-8103-d18f5f17e92b",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "portuguese": "ideia",
+      "gender": "feminine",
+      "plural": "ideias",
+      "cefr": "A2",
+      "ipa": "[iˈðɐjɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "579d7f56-0dd6-4e58-84c6-e92d45043105",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "portuguese": "coisa",
+      "gender": "feminine",
+      "plural": "coisas",
+      "cefr": "A1",
+      "ipa": "[ˈkojzɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25171730-1581-4441-bb4f-5b60a02d1146",
+      "part-of-speech": "noun",
+      "english": "number",
+      "portuguese": "número",
+      "gender": "masculine",
+      "plural": "números",
+      "cefr": "A1",
+      "ipa": "[ˈnumɨɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70ee3d15-577a-48c3-816e-286525e1315c",
+      "part-of-speech": "noun",
+      "english": "address",
+      "portuguese": "morada",
+      "gender": "feminine",
+      "plural": "moradas",
+      "cefr": "A1",
+      "ipa": "[muˈɾaðɐ]",
+      "context": "European Portuguese (in Brazil: endereço)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c4d1260-562e-48a7-bac2-793d7739d7f5",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "portuguese": "zero",
+      "cefr": "A1",
+      "ipa": "[ˈzɛɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "015e6daf-a8fc-457a-9540-4c71077711de",
+      "part-of-speech": "noun",
+      "english": "one",
+      "portuguese": "um",
+      "cefr": "A1",
+      "ipa": "[ˈũ]",
+      "context": "feminine: uma",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffd401f5-8e49-40aa-8db4-ddbee584aae3",
+      "part-of-speech": "noun",
+      "english": "two",
+      "portuguese": "dois",
+      "cefr": "A1",
+      "ipa": "[ˈdojʃ]",
+      "context": "feminine: duas",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5feff9ec-9ab1-4a9c-86be-89b44bf30474",
+      "part-of-speech": "noun",
+      "english": "three",
+      "portuguese": "três",
+      "cefr": "A1",
+      "ipa": "[ˈtɾeʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4f11487-a412-4572-a3a0-6257abf3e4d4",
+      "part-of-speech": "noun",
+      "english": "four",
+      "portuguese": "quatro",
+      "cefr": "A1",
+      "ipa": "[ˈkwatɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d59e6b0f-ad6e-422f-b5b3-94fd28aa0649",
+      "part-of-speech": "noun",
+      "english": "five",
+      "portuguese": "cinco",
+      "cefr": "A1",
+      "ipa": "[ˈsĩku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de4ed266-878c-4777-8b14-89874bf67390",
+      "part-of-speech": "noun",
+      "english": "six",
+      "portuguese": "seis",
+      "cefr": "A1",
+      "ipa": "[ˈsɐjʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0be26f0-9dc1-4b78-abee-e58b2d1890f2",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "portuguese": "sete",
+      "cefr": "A1",
+      "ipa": "[ˈsɛtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5073f8c0-97fd-44db-b1fd-b6a039c32c89",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "portuguese": "oito",
+      "cefr": "A1",
+      "ipa": "[ˈojtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61d98d0d-b389-4cc7-999f-b2c5cbd0f7d3",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "portuguese": "nove",
+      "cefr": "A1",
+      "ipa": "[ˈnɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a90f71d8-3aaa-4d90-aef8-07cc45d4e11a",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "portuguese": "dez",
+      "cefr": "A1",
+      "ipa": "[ˈdɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e84f2285-8673-4d83-a3c5-89449ca73a36",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "portuguese": "onze",
+      "cefr": "A1",
+      "ipa": "[ˈõzɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cc01436-d5ad-496a-b2a0-a36f110dd7c8",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "portuguese": "doze",
+      "cefr": "A1",
+      "ipa": "[ˈdozɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23877626-2aa7-4d38-828e-359cc4d41166",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "portuguese": "vinte",
+      "cefr": "A1",
+      "ipa": "[ˈvĩtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0124fd9f-1b14-4425-a581-24d34a88482e",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "portuguese": "trinta",
+      "cefr": "A1",
+      "ipa": "[ˈtɾĩtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5939bb1-d5c1-41b8-861e-acc55de006bb",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "portuguese": "quarenta",
+      "cefr": "A1",
+      "ipa": "[kwɐˈɾẽtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac871be0-e02c-4e9c-9df4-99c7674a7b97",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "portuguese": "cinquenta",
+      "cefr": "A1",
+      "ipa": "[sĩˈkwẽtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf3c370f-b9c5-45c7-a8c3-839430856792",
+      "part-of-speech": "noun",
+      "english": "one hundred",
+      "portuguese": "cem",
+      "cefr": "A1",
+      "ipa": "[ˈsɐ̃j̃]",
+      "context": "cento before other numbers: cento e um",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d082435e-448a-4612-9451-cf2aa288927f",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "portuguese": "mil",
+      "cefr": "A1",
+      "ipa": "[ˈmiɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f92be31c-85c1-4063-a1a8-8c5f039a4db1",
+      "part-of-speech": "noun",
+      "english": "million",
+      "portuguese": "milhão",
+      "gender": "masculine",
+      "plural": "milhões",
+      "cefr": "A2",
+      "ipa": "[miˈʎɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e53a868-6001-42cd-af67-48db3815353b",
+      "part-of-speech": "verb",
+      "english": "to be (permanent: identity, origin)",
+      "portuguese": "ser",
+      "cefr": "A1",
+      "ipa": "[ˈseɾ]",
+      "context": "sou, és, é, somos, são",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "474f5e44-af81-433e-b310-b7a5cbacee9d",
+      "part-of-speech": "verb",
+      "english": "to be (temporary: state, location)",
+      "portuguese": "estar",
+      "cefr": "A1",
+      "ipa": "[ɨʃˈtaɾ]",
+      "context": "estou, estás, está, estamos, estão",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f19e63b-96d5-45f7-954c-41843890d7b5",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "portuguese": "ter",
+      "cefr": "A1",
+      "ipa": "[ˈteɾ]",
+      "context": "tenho, tens, tem, temos, têm",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efcf8e4b-4f95-47eb-bee7-35b1156b9992",
+      "part-of-speech": "verb",
+      "english": "there to be",
+      "portuguese": "haver",
+      "cefr": "A2",
+      "ipa": "[ɐˈveɾ]",
+      "context": "há: there is, there are",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4964590-40b1-4e2b-9a32-d2ec21b1a3f1",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "portuguese": "fazer",
+      "cefr": "A1",
+      "ipa": "[fɐˈzeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39634b2a-dbea-42e2-906c-b835ee90d20b",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "portuguese": "ir",
+      "cefr": "A1",
+      "ipa": "[ˈiɾ]",
+      "context": "vou, vais, vai, vamos, vão",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfa9041b-c164-4b5d-b431-31ad813904e6",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "portuguese": "vir",
+      "cefr": "A1",
+      "ipa": "[ˈviɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3898add2-b8cd-468f-9a3d-9c21e7b4216d",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "portuguese": "dar",
+      "cefr": "A1",
+      "ipa": "[ˈdaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40b6146d-84ef-44f7-b946-0a7e0425d94b",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "portuguese": "ver",
+      "cefr": "A1",
+      "ipa": "[ˈveɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a84c00a3-0122-493a-b142-25b2942c345e",
+      "part-of-speech": "verb",
+      "english": "to look",
+      "portuguese": "olhar",
+      "cefr": "A1",
+      "ipa": "[ɔˈʎaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da22f2aa-9427-4817-b993-2706d3a4db35",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "portuguese": "ouvir",
+      "cefr": "A1",
+      "ipa": "[oˈviɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3804c08-a3cc-4497-bb52-c17c1703e684",
+      "part-of-speech": "verb",
+      "english": "to listen to music",
+      "portuguese": "ouvir música",
+      "cefr": "A1",
+      "ipa": "[oˈviɾ ˈmuzikɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be4f82dd-18f3-4dc6-839f-89340f5f0691",
+      "part-of-speech": "verb",
+      "english": "to know (a fact); to know how to",
+      "portuguese": "saber",
+      "cefr": "A1",
+      "ipa": "[sɐˈβeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eccace41-9a30-4b8a-9ee3-18d8db2999bd",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place); to meet",
+      "portuguese": "conhecer",
+      "cefr": "A1",
+      "ipa": "[kuɲɨˈseɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19baf034-8b6f-4c33-8cdc-cd611e8e35d6",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "portuguese": "querer",
+      "cefr": "A1",
+      "ipa": "[kɨˈɾeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a436798-c431-43d9-89dd-93268f3364eb",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "portuguese": "poder",
+      "cefr": "A1",
+      "ipa": "[puˈðeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b09030d8-ba32-44f0-bad5-4fbc3e0433be",
+      "part-of-speech": "verb",
+      "english": "must, should; to owe",
+      "portuguese": "dever",
+      "cefr": "A2",
+      "ipa": "[dɨˈveɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4905c93-a4c9-41b1-b09d-27e1c8e9d00e",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "portuguese": "precisar",
+      "cefr": "A1",
+      "ipa": "[pɾɨsiˈzaɾ]",
+      "context": "precisar de + noun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "344521a2-10aa-4271-a370-668d80811d28",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "portuguese": "gostar",
+      "cefr": "A1",
+      "ipa": "[ɡuʃˈtaɾ]",
+      "context": "gostar de: gosto de café (I like coffee)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "296c04d4-14f2-40cd-8868-00746255a247",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "portuguese": "comer",
+      "cefr": "A1",
+      "ipa": "[kuˈmeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d695100-dfd2-486e-82be-1871f81b639f",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "portuguese": "beber",
+      "cefr": "A1",
+      "ipa": "[bɨˈβeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e91ed543-e1f6-4137-8303-42313a774417",
+      "part-of-speech": "verb",
+      "english": "to take; to have (a drink, meal)",
+      "portuguese": "tomar",
+      "cefr": "A1",
+      "ipa": "[tuˈmaɾ]",
+      "context": "tomar um café: to have a coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a527e7c9-f5f6-4855-8015-cf4bd01e50d8",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "portuguese": "cozinhar",
+      "cefr": "A1",
+      "ipa": "[kuziˈɲaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f686e548-9b27-4de6-a5b8-dc35d6aad088",
+      "part-of-speech": "verb",
+      "english": "to have lunch",
+      "portuguese": "almoçar",
+      "cefr": "A1",
+      "ipa": "[aɫmuˈsaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9dd0bc83-fb8b-49ab-af1b-f423dab384d2",
+      "part-of-speech": "verb",
+      "english": "to have dinner",
+      "portuguese": "jantar",
+      "cefr": "A1",
+      "ipa": "[ʒɐ̃ˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9002bbdc-b451-4d53-9e40-831711ee4526",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "portuguese": "falar",
+      "cefr": "A1",
+      "ipa": "[fɐˈlaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7deb2339-86d5-42e4-9b2b-9790656da378",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "portuguese": "dizer",
+      "cefr": "A1",
+      "ipa": "[diˈzeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b4fce3c-cf5c-44c2-a227-47d56eb1c764",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "portuguese": "perguntar",
+      "cefr": "A1",
+      "ipa": "[pɨɾɣũˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7851cc54-e066-4495-96c4-62888b9faa26",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "portuguese": "responder",
+      "cefr": "A1",
+      "ipa": "[ʁɨʃpõˈdeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5584b1ce-339c-4c98-be6f-98caa71672a7",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "portuguese": "chamar-se",
+      "cefr": "A1",
+      "ipa": "[ʃɐˈmaɾsɨ]",
+      "context": "chamo-me …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "900eb8ca-24a4-45b5-b173-d2cb2c8a6f09",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "portuguese": "ler",
+      "cefr": "A1",
+      "ipa": "[ˈleɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b35d6b4-0030-4946-bf18-8ae1bbde1c7f",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "portuguese": "escrever",
+      "cefr": "A1",
+      "ipa": "[ɨʃkɾɨˈveɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9c1097f-45cd-4418-892b-00258a2ee744",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "portuguese": "aprender",
+      "cefr": "A1",
+      "ipa": "[ɐpɾẽˈdeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ae6ccf2-2b2b-4dd3-85a5-114b96a0ad62",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "portuguese": "estudar",
+      "cefr": "A1",
+      "ipa": "[ɨʃtuˈðaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea503d09-ae6f-48ec-b522-14b8d0a7701c",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "portuguese": "ensinar",
+      "cefr": "A2",
+      "ipa": "[ẽsiˈnaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f99343a1-3acf-4d00-8923-896598d0eb13",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "portuguese": "perceber",
+      "cefr": "A1",
+      "ipa": "[pɨɾsɨˈβeɾ]",
+      "context": "the everyday word in Portugal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "389ec16e-ec5d-4e93-ae6c-b6e84b370629",
+      "part-of-speech": "verb",
+      "english": "to understand, comprehend",
+      "portuguese": "compreender",
+      "cefr": "A2",
+      "ipa": "[kõpɾjẽˈdeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47207c65-b9ab-4fb8-9309-7e04f078f120",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "portuguese": "pensar",
+      "cefr": "A1",
+      "ipa": "[pẽˈsaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95cadaed-ea63-4dba-8a25-a0225428bd0d",
+      "part-of-speech": "verb",
+      "english": "to think (opinion); to find",
+      "portuguese": "achar",
+      "cefr": "A1",
+      "ipa": "[ɐˈʃaɾ]",
+      "context": "acho que sim: I think so",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "913bf056-77bb-4843-8b00-3f8c57d403e5",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "portuguese": "procurar",
+      "cefr": "A1",
+      "ipa": "[pɾɔkuˈɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09ff541e-0321-4ac4-96be-4b9647277476",
+      "part-of-speech": "verb",
+      "english": "to find; to meet",
+      "portuguese": "encontrar",
+      "cefr": "A1",
+      "ipa": "[ẽkõˈtɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62d2a3f1-0a9b-4b4e-90d1-e143d2a72cfb",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "portuguese": "trabalhar",
+      "cefr": "A1",
+      "ipa": "[tɾɐβɐˈʎaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7be897f7-2ef2-4ce4-8b3c-a2b603a5ec43",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "portuguese": "morar",
+      "cefr": "A1",
+      "ipa": "[muˈɾaɾ]",
+      "context": "moro em Lisboa: I live in Lisbon",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee62b129-188f-46dd-aaf5-0ad3834fcef7",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "portuguese": "viver",
+      "cefr": "A1",
+      "ipa": "[viˈveɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9dc51d0-6f58-4c58-b1bf-f0468894b10e",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "portuguese": "dormir",
+      "cefr": "A1",
+      "ipa": "[duɾˈmiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "945a6c05-9fc8-4020-8370-0d47e77bbc13",
+      "part-of-speech": "verb",
+      "english": "to wake up",
+      "portuguese": "acordar",
+      "cefr": "A1",
+      "ipa": "[ɐkuɾˈðaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f15a8703-7982-4726-8561-a6ebfa4d2ab8",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "portuguese": "levantar-se",
+      "cefr": "A1",
+      "ipa": "[lɨvɐ̃ˈtaɾsɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84bcfdd6-0d40-4666-b573-b0cc62d045d8",
+      "part-of-speech": "verb",
+      "english": "to sit down",
+      "portuguese": "sentar-se",
+      "cefr": "A1",
+      "ipa": "[sẽˈtaɾsɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c392f84-3c88-415d-886d-7331abdddb90",
+      "part-of-speech": "verb",
+      "english": "to walk; to go (by transport)",
+      "portuguese": "andar",
+      "cefr": "A1",
+      "ipa": "[ɐ̃ˈdaɾ]",
+      "context": "andar de autocarro: to go by bus",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "369c6a28-e516-4418-82fd-6306084b67bc",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "portuguese": "correr",
+      "cefr": "A1",
+      "ipa": "[kuˈʁeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c2ce6cb-e879-45ee-9a32-96d187a452f7",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "portuguese": "nadar",
+      "cefr": "A1",
+      "ipa": "[nɐˈðaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e5e8194-9db5-4fb0-80d7-c990d7e0ca4c",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "portuguese": "conduzir",
+      "cefr": "A1",
+      "ipa": "[kõduˈziɾ]",
+      "context": "European Portuguese (in Brazil: dirigir)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ddcb83b-13ed-4a7f-b15c-94c0c56dafa0",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "portuguese": "viajar",
+      "cefr": "A1",
+      "ipa": "[viɐˈʒaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87a69d04-ad8a-4158-9dc5-fe6b89737473",
+      "part-of-speech": "verb",
+      "english": "to go for a walk, stroll",
+      "portuguese": "passear",
+      "cefr": "A2",
+      "ipa": "[pɐˈsjaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2506b225-c919-48d0-a2e9-1841f4188197",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "portuguese": "comprar",
+      "cefr": "A1",
+      "ipa": "[kõˈpɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ec54108-4cbd-4f14-8e97-4a32cff52ed8",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "portuguese": "pagar",
+      "cefr": "A1",
+      "ipa": "[pɐˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42e73c67-d406-4590-9220-3da62d2178f7",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "portuguese": "custar",
+      "cefr": "A1",
+      "ipa": "[kuʃˈtaɾ]",
+      "context": "quanto custa?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e824d61f-5b24-41b2-8635-f9a1ab6d3125",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "portuguese": "vender",
+      "cefr": "A2",
+      "ipa": "[vẽˈdeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ababe5d6-fb6a-4fcf-807b-5d37934bd805",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "portuguese": "abrir",
+      "cefr": "A1",
+      "ipa": "[ɐˈβɾiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94924dd0-9254-4497-bd44-dc5c48ed857d",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "portuguese": "fechar",
+      "cefr": "A1",
+      "ipa": "[fɨˈʃaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c612fba-c2ad-4aad-a001-5a9cb746f13f",
+      "part-of-speech": "verb",
+      "english": "to wait; to hope",
+      "portuguese": "esperar",
+      "cefr": "A1",
+      "ipa": "[ɨʃpɨˈɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa27590-e9e8-475a-8d64-7c423d2bd833",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "portuguese": "começar",
+      "cefr": "A1",
+      "ipa": "[kumɨˈsaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "409e4f75-477e-463e-9993-f5032c16465d",
+      "part-of-speech": "verb",
+      "english": "to finish, end",
+      "portuguese": "acabar",
+      "cefr": "A1",
+      "ipa": "[ɐkɐˈβaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a2d8a2b-921d-4433-b2a7-dfbcc73e17aa",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "portuguese": "parar",
+      "cefr": "A1",
+      "ipa": "[pɐˈɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdca905d-7afc-486f-883f-13483b7f2d59",
+      "part-of-speech": "verb",
+      "english": "to play (a game, sport)",
+      "portuguese": "jogar",
+      "cefr": "A1",
+      "ipa": "[ʒuˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bc30f93-50ee-44e5-841f-b5f8a524bbca",
+      "part-of-speech": "verb",
+      "english": "to play (of children)",
+      "portuguese": "brincar",
+      "cefr": "A2",
+      "ipa": "[bɾĩˈkaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81063732-ccb3-4131-8408-4e2ea06840da",
+      "part-of-speech": "verb",
+      "english": "to touch; to play (an instrument)",
+      "portuguese": "tocar",
+      "cefr": "A2",
+      "ipa": "[tuˈkaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "583cfebe-5eee-4cfb-b285-7719b6165e7e",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "portuguese": "lavar",
+      "cefr": "A1",
+      "ipa": "[lɐˈvaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e52d5e7-c92d-48fe-80ed-7ebadb879256",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "portuguese": "limpar",
+      "cefr": "A2",
+      "ipa": "[lĩˈpaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a060a411-b3af-435d-a389-66a8a0c7a924",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "portuguese": "ajudar",
+      "cefr": "A1",
+      "ipa": "[ɐʒuˈðaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b44d0776-60b4-4a2b-830f-0e59c84a93e2",
+      "part-of-speech": "verb",
+      "english": "to phone",
+      "portuguese": "telefonar",
+      "cefr": "A1",
+      "ipa": "[tɨlɨfuˈnaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df4628bd-ccd2-44e7-b5b6-b1c56f872340",
+      "part-of-speech": "verb",
+      "english": "to call; to switch on",
+      "portuguese": "ligar",
+      "cefr": "A1",
+      "ipa": "[liˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b862d42f-a5c5-4f38-b113-8bb924e2b10b",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "portuguese": "cantar",
+      "cefr": "A1",
+      "ipa": "[kɐ̃ˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aed3b280-772c-4680-918f-51807380b1db",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "portuguese": "dançar",
+      "cefr": "A1",
+      "ipa": "[dɐ̃ˈsaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fb7b29b-d0b1-4aae-be0e-eccf5e628a14",
+      "part-of-speech": "verb",
+      "english": "to use; to wear",
+      "portuguese": "usar",
+      "cefr": "A2",
+      "ipa": "[uˈzaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e372fc82-a282-4cf2-b8ea-c57edfa70c10",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "portuguese": "trazer",
+      "cefr": "A1",
+      "ipa": "[tɾɐˈzeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab89f61a-a79e-486d-be1b-91ce87bd7b61",
+      "part-of-speech": "verb",
+      "english": "to take, carry (away)",
+      "portuguese": "levar",
+      "cefr": "A1",
+      "ipa": "[lɨˈvaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c7f7af5-ebf9-4834-a4b7-87aced757293",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "portuguese": "pôr",
+      "cefr": "A1",
+      "ipa": "[ˈpoɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b4701dd-81d3-435c-a283-53803094f334",
+      "part-of-speech": "verb",
+      "english": "to stay; to be (located); to become",
+      "portuguese": "ficar",
+      "cefr": "A1",
+      "ipa": "[fiˈkaɾ]",
+      "context": "onde fica?: where is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92c0f765-5950-40c0-baf5-834992064f76",
+      "part-of-speech": "verb",
+      "english": "to go out, leave",
+      "portuguese": "sair",
+      "cefr": "A1",
+      "ipa": "[sɐˈiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "252db914-4584-48b1-a6b8-972786326186",
+      "part-of-speech": "verb",
+      "english": "to come in, enter",
+      "portuguese": "entrar",
+      "cefr": "A1",
+      "ipa": "[ẽˈtɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d81e8576-792a-493d-975b-21286273a371",
+      "part-of-speech": "verb",
+      "english": "to arrive",
+      "portuguese": "chegar",
+      "cefr": "A1",
+      "ipa": "[ʃɨˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22193c88-19cd-412d-b1db-5f673564aa93",
+      "part-of-speech": "verb",
+      "english": "to come back, return",
+      "portuguese": "voltar",
+      "cefr": "A1",
+      "ipa": "[vɔɫˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b84b8a79-e4af-41fc-92cb-5a250bc9eaed",
+      "part-of-speech": "verb",
+      "english": "to leave, depart; to break",
+      "portuguese": "partir",
+      "cefr": "A2",
+      "ipa": "[pɐɾˈtiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6104352-f2e5-4eac-b304-14a497317e47",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "portuguese": "esquecer",
+      "cefr": "A2",
+      "ipa": "[ɨʃkɨˈseɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d0494b5-acbd-4119-9e1d-b1103f7e8166",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "portuguese": "lembrar-se",
+      "cefr": "A2",
+      "ipa": "[lẽˈbɾaɾsɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b07da9a-e818-4777-bdfa-3ea55503c8e0",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "portuguese": "tentar",
+      "cefr": "A2",
+      "ipa": "[tẽˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14700cd9-fab4-45f0-a8c1-833a86c454d5",
+      "part-of-speech": "verb",
+      "english": "to change; to move (house)",
+      "portuguese": "mudar",
+      "cefr": "A2",
+      "ipa": "[muˈðaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0b42311-39de-4285-b30e-aa2de3edbb13",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "portuguese": "enviar",
+      "cefr": "A2",
+      "ipa": "[ẽviˈaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c9e2acc-96af-49d0-920d-592f16a7d045",
+      "part-of-speech": "verb",
+      "english": "to send; to order",
+      "portuguese": "mandar",
+      "cefr": "A2",
+      "ipa": "[mɐ̃ˈdaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "970bad59-fc3f-4ae2-967b-27df3b0814e1",
+      "part-of-speech": "verb",
+      "english": "to lose; to miss (a train)",
+      "portuguese": "perder",
+      "cefr": "A2",
+      "ipa": "[pɨɾˈðeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd9b9fb0-9abd-498f-8984-25e6949c6712",
+      "part-of-speech": "verb",
+      "english": "to win; to earn",
+      "portuguese": "ganhar",
+      "cefr": "A2",
+      "ipa": "[ɡɐˈɲaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d33889cf-bb5c-4102-b0fe-643a4078486c",
+      "part-of-speech": "verb",
+      "english": "to marry, get married",
+      "portuguese": "casar",
+      "cefr": "A2",
+      "ipa": "[kɐˈzaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "812aa31a-34e1-4adc-a586-695eab33e08d",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "portuguese": "visitar",
+      "cefr": "A2",
+      "ipa": "[viziˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6495ce3f-b59b-4bb5-bdc2-be7af651a28b",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "portuguese": "explicar",
+      "cefr": "A2",
+      "ipa": "[ɐjʃpliˈkaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "196f6248-bea7-4ed9-a981-e49ff4452818",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "portuguese": "traduzir",
+      "cefr": "A2",
+      "ipa": "[tɾɐðuˈziɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "593fcc97-fb26-4487-832e-d0210cfdd736",
+      "part-of-speech": "verb",
+      "english": "to repeat",
+      "portuguese": "repetir",
+      "cefr": "A2",
+      "ipa": "[ʁɨpɨˈtiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c960f2b-1ba3-41a2-abc6-a1e6e0cba9d5",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "portuguese": "escolher",
+      "cefr": "A2",
+      "ipa": "[ɨʃkuˈʎeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14a57864-0a44-4138-b595-9d1abd689807",
+      "part-of-speech": "verb",
+      "english": "to put on, wear (clothes)",
+      "portuguese": "vestir",
+      "cefr": "A2",
+      "ipa": "[vɨʃˈtiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52e45f93-40b1-434a-9542-efb2895d903c",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "portuguese": "sentir",
+      "cefr": "A2",
+      "ipa": "[sẽˈtiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "865ac2f2-bc8d-4a48-abb6-7f4ab0e1c8bb",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "portuguese": "acreditar",
+      "cefr": "A2",
+      "ipa": "[ɐkɾɨðiˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afc20f65-c30f-4360-907e-c5d97c515eba",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "portuguese": "rir",
+      "cefr": "A2",
+      "ipa": "[ˈʁiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0483cb7d-b20b-46e4-a8ed-76f8af90d133",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "portuguese": "chorar",
+      "cefr": "A2",
+      "ipa": "[ʃuˈɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "910b4d8a-aa2d-4cea-9aec-7eb2dab0e6e9",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "portuguese": "cair",
+      "cefr": "A2",
+      "ipa": "[kɐˈiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eedfa678-5ee8-49ad-a160-7b71254ad36b",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "portuguese": "voar",
+      "cefr": "A2",
+      "ipa": "[vuˈaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bcbec0d-5c39-4b5a-a4c0-85a97531c1d3",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "portuguese": "alugar",
+      "cefr": "A2",
+      "ipa": "[ɐluˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f76353d7-e7fa-4d36-95b3-68b3ac60932f",
+      "part-of-speech": "verb",
+      "english": "to book, reserve",
+      "portuguese": "reservar",
+      "cefr": "A2",
+      "ipa": "[ʁɨzɨɾˈvaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c23ad5b2-1648-4fbe-b083-16839784b87e",
+      "part-of-speech": "verb",
+      "english": "to ask for, order",
+      "portuguese": "pedir",
+      "cefr": "A2",
+      "ipa": "[pɨˈðiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dba3a68-ee3f-4337-bb8e-19a3c87a5416",
+      "part-of-speech": "verb",
+      "english": "to happen",
+      "portuguese": "acontecer",
+      "cefr": "A2",
+      "ipa": "[ɐkõtɨˈseɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0015407e-3496-4427-a6a7-bd021310a275",
+      "part-of-speech": "verb",
+      "english": "to rain",
+      "portuguese": "chover",
+      "cefr": "A2",
+      "ipa": "[ʃuˈveɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66754373-57a5-4d18-81a1-d4e587c898bc",
+      "part-of-speech": "verb",
+      "english": "to snow",
+      "portuguese": "nevar",
+      "cefr": "A2",
+      "ipa": "[nɨˈvaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ddcd27b-0059-4220-953b-8c3d0e27f403",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "portuguese": "mostrar",
+      "cefr": "A2",
+      "ipa": "[muʃˈtɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e556e178-9bd7-4cf1-8bc6-26bf356dbcc1",
+      "part-of-speech": "verb",
+      "english": "to be born",
+      "portuguese": "nascer",
+      "cefr": "A2",
+      "ipa": "[nɐʃˈseɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c83df523-44e1-4ee1-b75b-908de0db47ef",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "portuguese": "morrer",
+      "cefr": "A2",
+      "ipa": "[muˈʁeɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07369f80-ad5c-4121-822c-a2374d9a9de2",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "portuguese": "grande",
+      "cefr": "A1",
+      "ipa": "[ˈɡɾɐ̃dɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0851abdc-c7d9-4fdd-9017-8b92ef11461a",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "portuguese": "pequeno",
+      "cefr": "A1",
+      "ipa": "[pɨˈkenu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "337ca878-4737-4713-8008-cff239e23ffb",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "portuguese": "bom",
+      "cefr": "A1",
+      "ipa": "[ˈbõ]",
+      "context": "feminine: boa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09fabe19-8753-4879-8e24-6555e83cd228",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "portuguese": "mau",
+      "cefr": "A1",
+      "ipa": "[ˈmaw]",
+      "context": "feminine: má",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0a029a4-c84e-47be-b708-d4e6f61b424d",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty, nice",
+      "portuguese": "bonito",
+      "cefr": "A1",
+      "ipa": "[buˈnitu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d079648-0ecc-4ed3-ae6b-9475e0b81a98",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "portuguese": "feio",
+      "cefr": "A1",
+      "ipa": "[ˈfɐju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3665c54f-af69-4f02-a562-cb0e857c0ae9",
+      "part-of-speech": "adjective",
+      "english": "new; young",
+      "portuguese": "novo",
+      "cefr": "A1",
+      "ipa": "[ˈnovu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60356c6b-bf02-47a3-92c2-4f579b5f8aaa",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "portuguese": "velho",
+      "cefr": "A1",
+      "ipa": "[ˈvɛʎu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03e56f28-7925-4fd3-868d-33d9c12f6eb8",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "portuguese": "jovem",
+      "cefr": "A2",
+      "ipa": "[ˈʒɔvɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25a4e23f-fa6e-471e-8e21-46256bb889c1",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "portuguese": "alto",
+      "cefr": "A1",
+      "ipa": "[ˈaɫtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "787b6b96-89d9-46ad-a9ee-539925bef615",
+      "part-of-speech": "adjective",
+      "english": "short (height), low",
+      "portuguese": "baixo",
+      "cefr": "A1",
+      "ipa": "[ˈbajʃu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb222567-0b51-452f-b4a7-ae73f0383f76",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "portuguese": "comprido",
+      "cefr": "A1",
+      "ipa": "[kõˈpɾiðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e712bfc-f40a-4c3a-9d28-0dc44099ec30",
+      "part-of-speech": "adjective",
+      "english": "short (length)",
+      "portuguese": "curto",
+      "cefr": "A1",
+      "ipa": "[ˈkuɾtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ca13869-067a-4883-8fac-97820a84c05f",
+      "part-of-speech": "adjective",
+      "english": "hot, warm",
+      "portuguese": "quente",
+      "cefr": "A1",
+      "ipa": "[ˈkẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a02546e-57bd-474e-87ff-220117919838",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "portuguese": "frio",
+      "cefr": "A1",
+      "ipa": "[ˈfɾiu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1be72208-d2b3-438e-827d-41e817f97603",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "portuguese": "rápido",
+      "cefr": "A1",
+      "ipa": "[ˈʁapiðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef1214b8-20b2-412b-a5c2-3c6b5a9b297e",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "portuguese": "lento",
+      "cefr": "A1",
+      "ipa": "[ˈlẽtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3833b03c-6a46-40d9-80aa-5c8466a42033",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "portuguese": "fácil",
+      "cefr": "A1",
+      "ipa": "[ˈfasiɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6552621e-8f5f-46b7-b80b-e8d18ade7315",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "portuguese": "difícil",
+      "cefr": "A1",
+      "ipa": "[diˈfisiɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71798738-f66f-4f90-a6e6-b508a545c071",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "portuguese": "barato",
+      "cefr": "A1",
+      "ipa": "[bɐˈɾatu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f40c6f22-0d10-49be-bef4-de368c1131f0",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "portuguese": "caro",
+      "cefr": "A1",
+      "ipa": "[ˈkaɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cd04faa-d1ad-489a-ae89-46f04973769d",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "portuguese": "feliz",
+      "cefr": "A1",
+      "ipa": "[fɨˈliʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9346f480-da54-457d-8e67-c35859035259",
+      "part-of-speech": "adjective",
+      "english": "glad, pleased",
+      "portuguese": "contente",
+      "cefr": "A1",
+      "ipa": "[kõˈtẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "560bac62-2917-4355-bf12-f82048934e1c",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "portuguese": "triste",
+      "cefr": "A1",
+      "ipa": "[ˈtɾiʃtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14ccbb1a-5fff-4c36-bd4f-674e3dc780c4",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "portuguese": "zangado",
+      "cefr": "A2",
+      "ipa": "[zɐ̃ˈɡaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b95584c-0a4f-4aeb-a6b0-1523ccd65483",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "portuguese": "cansado",
+      "cefr": "A1",
+      "ipa": "[kɐ̃ˈsaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12a1c632-1315-4a92-b9e9-4e989af49810",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "portuguese": "doente",
+      "cefr": "A1",
+      "ipa": "[duˈẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb6f1826-1f86-4257-8f42-9c678d2c2879",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "portuguese": "saudável",
+      "cefr": "A2",
+      "ipa": "[sɐwˈðavɛɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c15f9fb-c241-453a-a444-cec53ea194e7",
+      "part-of-speech": "adjective",
+      "english": "delicious",
+      "portuguese": "delicioso",
+      "cefr": "A1",
+      "ipa": "[dɨlisiˈozu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b253c58-b2a8-4e08-949a-842a8d89e2c9",
+      "part-of-speech": "adjective",
+      "english": "nice, friendly",
+      "portuguese": "simpático",
+      "cefr": "A1",
+      "ipa": "[sĩˈpatiku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60427545-5267-4b91-a133-36fd7cdcdb4a",
+      "part-of-speech": "adjective",
+      "english": "cute, nice-looking; cool",
+      "portuguese": "giro",
+      "cefr": "A2",
+      "ipa": "[ˈʒiɾu]",
+      "context": "European Portuguese",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "330afd9b-f4ae-4694-abff-c4ba2977b438",
+      "part-of-speech": "adjective",
+      "english": "intelligent, clever",
+      "portuguese": "inteligente",
+      "cefr": "A2",
+      "ipa": "[ĩtɨliˈʒẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14a557fe-ae4d-423e-ac7a-3a6d424329f3",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "portuguese": "aberto",
+      "cefr": "A1",
+      "ipa": "[ɐˈβɛɾtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28adb6ce-7975-487c-91fb-51e1de25eef7",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "portuguese": "fechado",
+      "cefr": "A1",
+      "ipa": "[fɨˈʃaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f40b6014-10f1-43a9-a274-284d6ed27ecc",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "portuguese": "limpo",
+      "cefr": "A1",
+      "ipa": "[ˈlĩpu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffba1373-3d7e-445b-ba45-c5d02e389ee1",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "portuguese": "sujo",
+      "cefr": "A1",
+      "ipa": "[ˈsuʒu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95a08488-7ca5-4e1c-9adb-3ec77cd34147",
+      "part-of-speech": "adjective",
+      "english": "busy; occupied",
+      "portuguese": "ocupado",
+      "cefr": "A1",
+      "ipa": "[ɔkuˈpaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6a21ca5-c724-40b6-8d1e-d3a3f5cff6fe",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "portuguese": "livre",
+      "cefr": "A1",
+      "ipa": "[ˈlivɾɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03516330-9f54-46b3-94c5-88e5b8cb056e",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "portuguese": "pronto",
+      "cefr": "A2",
+      "ipa": "[ˈpɾõtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afb6fe7b-2d85-4856-b1a1-9a0ece9bcb86",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "portuguese": "importante",
+      "cefr": "A2",
+      "ipa": "[ĩpuɾˈtɐ̃tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed1b6dd1-6cdc-4aca-97ad-7deb2dd8654c",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "portuguese": "interessante",
+      "cefr": "A2",
+      "ipa": "[ĩtɨɾɨˈsɐ̃tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15cdc4d1-db32-483e-9057-911af5291c03",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "portuguese": "aborrecido",
+      "cefr": "A2",
+      "ipa": "[ɐβuʁɨˈsiðu]",
+      "context": "European Portuguese (in Brazil: chato)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22c5da4d-54ef-4731-aefb-b6717a02dd91",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "portuguese": "possível",
+      "cefr": "A2",
+      "ipa": "[puˈsivɛɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e1e863f-3736-459b-9a82-aa760b80aa2a",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "portuguese": "outro",
+      "cefr": "A1",
+      "ipa": "[ˈotɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f487369f-6b4c-4d71-9e2b-4843e7426753",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "portuguese": "mesmo",
+      "cefr": "A2",
+      "ipa": "[ˈmeʒmu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81f6f143-5336-477b-ac1a-0bc57b94f22d",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "portuguese": "diferente",
+      "cefr": "A2",
+      "ipa": "[difɨˈɾẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42919b85-f51d-4fa5-93b9-d01d29c6ffb6",
+      "part-of-speech": "adjective",
+      "english": "right, correct",
+      "portuguese": "certo",
+      "cefr": "A1",
+      "ipa": "[ˈsɛɾtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47502c65-1ecd-489c-a46c-d79b3226a29a",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "portuguese": "errado",
+      "cefr": "A2",
+      "ipa": "[iˈʁaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0ef7212-6f31-4e7f-8f93-f97f92a16604",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "portuguese": "cheio",
+      "cefr": "A2",
+      "ipa": "[ˈʃɐju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ba575b8-3e60-44ac-bdbc-91b09fbbbcbd",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "portuguese": "vazio",
+      "cefr": "A2",
+      "ipa": "[vɐˈziu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c45396fd-b01d-4526-b34c-428856599015",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "portuguese": "rico",
+      "cefr": "A2",
+      "ipa": "[ˈʁiku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25c52615-211f-4aee-afc6-ead9a28b14d1",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "portuguese": "pobre",
+      "cefr": "A2",
+      "ipa": "[ˈpɔβɾɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c0571fe-5905-469f-9b70-32abca435b0f",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "portuguese": "pesado",
+      "cefr": "A2",
+      "ipa": "[pɨˈzaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c3d133c-9716-4523-9e16-15794f9b322a",
+      "part-of-speech": "adjective",
+      "english": "light (not heavy)",
+      "portuguese": "leve",
+      "cefr": "A2",
+      "ipa": "[ˈlɛvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "666256cf-da71-4562-8280-1baec20ee2db",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "portuguese": "forte",
+      "cefr": "A2",
+      "ipa": "[ˈfɔɾtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eb41aab-68fb-4b66-b5a5-86fbe8f82f35",
+      "part-of-speech": "adjective",
+      "english": "fat",
+      "portuguese": "gordo",
+      "cefr": "A2",
+      "ipa": "[ˈɡoɾðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a38243e0-43de-46ba-ab9a-a5ff20bfd86e",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "portuguese": "magro",
+      "cefr": "A2",
+      "ipa": "[ˈmaɣɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3dde26a-5bf2-4c6b-94ca-d979cfba3f09",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "portuguese": "vermelho",
+      "cefr": "A1",
+      "ipa": "[vɨɾˈmɐʎu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a66d4a8-f862-4d10-b18d-d2a0f9518344",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "portuguese": "azul",
+      "cefr": "A1",
+      "ipa": "[ɐˈzuɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65de3d1f-8e17-4e34-82a5-be47b1b2e42e",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "portuguese": "verde",
+      "cefr": "A1",
+      "ipa": "[ˈveɾðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69c6cb27-268b-4c6b-b125-5aec0a0a78b9",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "portuguese": "amarelo",
+      "cefr": "A1",
+      "ipa": "[ɐmɐˈɾɛlu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee5ca53b-4c4c-48d9-886e-eefa5f52c19f",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "portuguese": "preto",
+      "cefr": "A1",
+      "ipa": "[ˈpɾetu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9da6b10-8e2d-40b9-a470-eb6ee363da61",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "portuguese": "branco",
+      "cefr": "A1",
+      "ipa": "[ˈbɾɐ̃ku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d7812e6-6c06-4c6f-9c0d-cc81bd06669d",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "portuguese": "castanho",
+      "cefr": "A1",
+      "ipa": "[kɐʃˈtɐɲu]",
+      "context": "European Portuguese (in Brazil: marrom)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67a03744-0680-4cd3-b3a4-bce1ba01bfcd",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "portuguese": "cinzento",
+      "cefr": "A1",
+      "ipa": "[sĩˈzẽtu]",
+      "context": "European Portuguese (in Brazil: cinza)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51eea834-625f-4084-ba03-98e6ae5d6e80",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "portuguese": "cor de laranja",
+      "cefr": "A1",
+      "ipa": "[ˈkoɾ ðɨ lɐˈɾɐ̃ʒɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e0b8263-a247-439f-86b2-32c0af8bcfb2",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "portuguese": "cor-de-rosa",
+      "cefr": "A2",
+      "ipa": "[ˌkoɾðɨˈʁɔzɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4731b9e1-0772-4dbc-a4f6-9a7a49e7f96b",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "portuguese": "roxo",
+      "cefr": "A2",
+      "ipa": "[ˈʁoʃu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5957d2f-7a36-4025-a9a5-8fd932f45826",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "portuguese": "agora",
+      "cefr": "A1",
+      "ipa": "[ɐˈɣɔɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cd5c606-7f15-4f65-b75d-ab8f47de13cc",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "portuguese": "hoje",
+      "cefr": "A1",
+      "ipa": "[ˈoʒɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9716c757-f571-403d-9293-d4aa54edd6e6",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "portuguese": "amanhã",
+      "cefr": "A1",
+      "ipa": "[amɐˈɲɐ̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05a6bfe5-c948-485d-83de-2aef9d6e7f5d",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "portuguese": "ontem",
+      "cefr": "A1",
+      "ipa": "[ˈõtɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "582d04a1-0791-43b9-9bd2-c4dcb089463e",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "portuguese": "aqui",
+      "cefr": "A1",
+      "ipa": "[ɐˈki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d15967ed-7647-4596-bcdc-2bdd4a7f077b",
+      "part-of-speech": "adverb",
+      "english": "there (near)",
+      "portuguese": "ali",
+      "cefr": "A1",
+      "ipa": "[ɐˈli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f373db5-a780-494e-bec2-847a005b91cf",
+      "part-of-speech": "adverb",
+      "english": "there (far)",
+      "portuguese": "lá",
+      "cefr": "A1",
+      "ipa": "[ˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18513a80-476d-486e-af3a-1795d6e4ac2a",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "portuguese": "não",
+      "cefr": "A1",
+      "ipa": "[ˈnɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fc0d079-3ba5-4ac9-8ec0-32d6785a1f85",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "portuguese": "também",
+      "cefr": "A1",
+      "ipa": "[tɐ̃ˈbɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf8fbaad-ad53-4217-898c-2389e753d645",
+      "part-of-speech": "adverb",
+      "english": "very; a lot, much",
+      "portuguese": "muito",
+      "cefr": "A1",
+      "ipa": "[ˈmũjtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7af5525c-4cac-4694-92d2-16f61d874741",
+      "part-of-speech": "adverb",
+      "english": "little, not much",
+      "portuguese": "pouco",
+      "cefr": "A1",
+      "ipa": "[ˈpoku]",
+      "context": "um pouco: a little",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecbfba4e-fce0-4a13-ac71-c4cd12f2974f",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "portuguese": "mais",
+      "cefr": "A1",
+      "ipa": "[ˈmajʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "181d9ba3-ed93-4059-8b62-ad0db769eba0",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "portuguese": "menos",
+      "cefr": "A1",
+      "ipa": "[ˈmenuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3d7fbf5-af2d-4340-9dad-af18c6022fec",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "portuguese": "sempre",
+      "cefr": "A1",
+      "ipa": "[ˈsẽpɾɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e87c137-c7cb-465f-9cb0-99506c69c8a9",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "portuguese": "nunca",
+      "cefr": "A1",
+      "ipa": "[ˈnũkɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bf59be9-8a2d-4158-abd3-2697ef597ba4",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "portuguese": "às vezes",
+      "cefr": "A1",
+      "ipa": "[aʒ ˈvezɨʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76d8217e-0c8e-4af5-aa6c-84bfee9d8fb3",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "portuguese": "muitas vezes",
+      "cefr": "A1",
+      "ipa": "[ˈmũjtɐʒ ˈvezɨʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ed074c5-ce1a-4560-923d-b52137f9e122",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "portuguese": "normalmente",
+      "cefr": "A2",
+      "ipa": "[nɔɾˌmaɫˈmẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99122503-b06b-4e6b-ba25-022765472330",
+      "part-of-speech": "adverb",
+      "english": "already; now",
+      "portuguese": "já",
+      "cefr": "A1",
+      "ipa": "[ˈʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4cf61f6-966c-4b3a-adc1-2853585158d8",
+      "part-of-speech": "adverb",
+      "english": "still, yet",
+      "portuguese": "ainda",
+      "cefr": "A1",
+      "ipa": "[ɐˈĩdɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef3c2953-3e35-4f1b-a34a-04af4814b132",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "portuguese": "outra vez",
+      "cefr": "A1",
+      "ipa": "[ˈotɾɐ ˈveʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03543979-263d-492c-b6d2-49149503f509",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "portuguese": "juntos",
+      "cefr": "A1",
+      "ipa": "[ˈʒũtuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1c3d322-4195-4b08-b841-1af0cfd25272",
+      "part-of-speech": "adverb",
+      "english": "alone",
+      "portuguese": "sozinho",
+      "cefr": "A2",
+      "ipa": "[sɔˈziɲu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f180fd3-d28d-4379-968a-8cc74a4a38aa",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "portuguese": "talvez",
+      "cefr": "A1",
+      "ipa": "[taɫˈveʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b0c4112-712d-4444-8868-baf41d000fe3",
+      "part-of-speech": "adverb",
+      "english": "after, afterwards, later",
+      "portuguese": "depois",
+      "cefr": "A1",
+      "ipa": "[dɨˈpojʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a8d73c7-b700-4c91-a1ed-dfb1dc7b0490",
+      "part-of-speech": "adverb",
+      "english": "before",
+      "portuguese": "antes",
+      "cefr": "A1",
+      "ipa": "[ˈɐ̃tɨʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60ecc7d8-781f-4012-aff2-8be188cbc6b9",
+      "part-of-speech": "adverb",
+      "english": "first",
+      "portuguese": "primeiro",
+      "cefr": "A1",
+      "ipa": "[pɾiˈmɐjɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70bd1d18-2f7c-4037-a145-f4b580d5b2e3",
+      "part-of-speech": "adverb",
+      "english": "then; so",
+      "portuguese": "então",
+      "cefr": "A1",
+      "ipa": "[ẽˈtɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ba37e51-82d3-4ea1-b6ea-2fa164716d4c",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "portuguese": "cedo",
+      "cefr": "A1",
+      "ipa": "[ˈseðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb30c2b6-cb38-4ef3-8695-76466ff2b6ac",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "portuguese": "tarde",
+      "cefr": "A1",
+      "ipa": "[ˈtaɾðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24c7f4c6-6f6f-4325-a3f3-abee2b67dcf6",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "portuguese": "bem",
+      "cefr": "A1",
+      "ipa": "[ˈbɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc7699bf-bc33-44ee-97a6-7d342ceb12f2",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "portuguese": "mal",
+      "cefr": "A1",
+      "ipa": "[ˈmaɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf5a31dd-2535-4c07-8eb2-4b280d0a846e",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "portuguese": "só",
+      "cefr": "A1",
+      "ipa": "[ˈsɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9aba7f23-ac8e-4155-a921-7ca4f03a6f05",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "portuguese": "quase",
+      "cefr": "A2",
+      "ipa": "[ˈkwazɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "501a151d-208b-4577-889c-c60a08b02fb9",
+      "part-of-speech": "adverb",
+      "english": "soon; right away",
+      "portuguese": "logo",
+      "cefr": "A2",
+      "ipa": "[ˈlɔɣu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3263158f-5496-4c1b-9564-de4f6632876b",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "portuguese": "claro",
+      "cefr": "A2",
+      "ipa": "[ˈklaɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e7f6688-421d-42a8-98fc-f1960cb8dcbf",
+      "part-of-speech": "adverb",
+      "english": "quite; enough",
+      "portuguese": "bastante",
+      "cefr": "A2",
+      "ipa": "[bɐʃˈtɐ̃tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e5b83ed-c038-4f37-b999-aa62538185e8",
+      "part-of-speech": "adverb",
+      "english": "too much",
+      "portuguese": "demais",
+      "cefr": "A2",
+      "ipa": "[dɨˈmajʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25945b54-b38e-42c7-a895-7d43dcd89a43",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "portuguese": "devagar",
+      "cefr": "A2",
+      "ipa": "[dɨvɐˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4c541d3-4e60-4390-aecf-d9a182e0a14a",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "portuguese": "depressa",
+      "cefr": "A2",
+      "ipa": "[dɨˈpɾɛsɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41a5469f-8926-4560-b6d3-d7e58babf831",
+      "part-of-speech": "adverb",
+      "english": "near, nearby",
+      "portuguese": "perto",
+      "cefr": "A1",
+      "ipa": "[ˈpɛɾtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c21af4c-56d8-47be-a792-43b8ed58ecf0",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "portuguese": "longe",
+      "cefr": "A1",
+      "ipa": "[ˈlõʒɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2e130d0-0ce2-45fc-9608-ac587fee377a",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "portuguese": "dentro",
+      "cefr": "A2",
+      "ipa": "[ˈdẽtɾu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c62fb60d-d52c-4e4f-a42e-90614bb8a68c",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "portuguese": "fora",
+      "cefr": "A2",
+      "ipa": "[ˈfɔɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d939869-ab37-44a4-b73e-f63c679165ce",
+      "part-of-speech": "adverb",
+      "english": "on the left, to the left",
+      "portuguese": "à esquerda",
+      "cefr": "A1",
+      "ipa": "[a ɨʃˈkeɾðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ebb88ff-3d1b-4f0f-b12d-fd330297dc7d",
+      "part-of-speech": "adverb",
+      "english": "on the right, to the right",
+      "portuguese": "à direita",
+      "cefr": "A1",
+      "ipa": "[a ðiˈɾɐjtɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9b21d4d-39ed-4f94-ae84-2893869b201b",
+      "part-of-speech": "adverb",
+      "english": "straight ahead; opposite",
+      "portuguese": "em frente",
+      "cefr": "A1",
+      "ipa": "[ɐ̃j̃ ˈfɾẽtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bf02991-9e2b-4777-a3f3-443956a74483",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "portuguese": "onde",
+      "cefr": "A1",
+      "ipa": "[ˈõdɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fae9d93e-2e95-4a36-a3af-34332b998b3c",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "portuguese": "quando",
+      "cefr": "A1",
+      "ipa": "[ˈkwɐ̃du]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8e066b2-33bb-4bd5-b8fe-abc59bc0b512",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "portuguese": "como",
+      "cefr": "A1",
+      "ipa": "[ˈkomu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "151f3ac5-e5f0-40f1-b895-f6d4fcb3a23f",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "portuguese": "porquê",
+      "cefr": "A1",
+      "ipa": "[puɾˈke]",
+      "context": "at the end of a question: porquê?; at the start: porque …?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19ea47a4-f2f3-4711-8a14-3ef19d66cd1b",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "portuguese": "quanto",
+      "cefr": "A1",
+      "ipa": "[ˈkwɐ̃tu]",
+      "context": "quantos/quantas: how many",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "664930de-d150-4721-8731-956fc55b01d8",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "portuguese": "eu",
+      "cefr": "A1",
+      "ipa": "[ˈew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7cf473a-23d6-491a-b37e-38a9f591a568",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "portuguese": "tu",
+      "cefr": "A1",
+      "ipa": "[ˈtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a35fc10-f27a-4392-91e2-ef4d165f092e",
+      "part-of-speech": "pronoun",
+      "english": "you (polite)",
+      "portuguese": "você",
+      "cefr": "A1",
+      "ipa": "[vɔˈse]",
+      "context": "in Portugal often avoided; use o senhor / a senhora or the verb alone",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4e686b0-50e9-428d-bb11-a6cf7418c2bc",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "portuguese": "ele",
+      "cefr": "A1",
+      "ipa": "[ˈelɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f838b98e-dc00-40b4-8a5b-56dd5bde5083",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "portuguese": "ela",
+      "cefr": "A1",
+      "ipa": "[ˈɛlɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2f94975-6dbb-49f9-9fbc-53fe394ca8f5",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "portuguese": "nós",
+      "cefr": "A1",
+      "ipa": "[ˈnɔʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34484b64-4b19-4323-9806-1ec588803b22",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "portuguese": "vocês",
+      "cefr": "A1",
+      "ipa": "[vɔˈseʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75e43b5c-00f5-45b9-a0d1-c8bec9cd5b95",
+      "part-of-speech": "pronoun",
+      "english": "they (masculine or mixed)",
+      "portuguese": "eles",
+      "cefr": "A1",
+      "ipa": "[ˈelɨʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61f2a54f-40a7-4b0a-b7ba-a4d6f92614df",
+      "part-of-speech": "pronoun",
+      "english": "they (feminine)",
+      "portuguese": "elas",
+      "cefr": "A1",
+      "ipa": "[ˈɛlɐʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73cec4cf-2358-4cf6-81ac-d1a07252350e",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "portuguese": "meu",
+      "cefr": "A1",
+      "ipa": "[ˈmew]",
+      "context": "feminine: minha",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8fed48c-7573-45db-b0f3-55d6a61cbe39",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "portuguese": "teu",
+      "cefr": "A1",
+      "ipa": "[ˈtew]",
+      "context": "feminine: tua",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "255f4f1e-b2ee-43be-9a9c-2a357acebebc",
+      "part-of-speech": "pronoun",
+      "english": "his, her, your (polite), their",
+      "portuguese": "seu",
+      "cefr": "A1",
+      "ipa": "[ˈsew]",
+      "context": "feminine: sua",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "437a871e-acbf-4186-8fbd-e4eb5202364f",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "portuguese": "nosso",
+      "cefr": "A1",
+      "ipa": "[ˈnɔsu]",
+      "context": "feminine: nossa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "757e7701-8f3a-4a37-b696-c52cd3e02ae1",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "portuguese": "este",
+      "cefr": "A1",
+      "ipa": "[ˈeʃtɨ]",
+      "context": "feminine: esta",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0716c222-dafc-4caa-a8f5-fc6a3ae69a69",
+      "part-of-speech": "pronoun",
+      "english": "this (thing)",
+      "portuguese": "isto",
+      "cefr": "A1",
+      "ipa": "[ˈiʃtu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0bd6ea7-8cc8-4321-8800-da028d2ab0d9",
+      "part-of-speech": "pronoun",
+      "english": "that (near you)",
+      "portuguese": "esse",
+      "cefr": "A1",
+      "ipa": "[ˈesɨ]",
+      "context": "feminine: essa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78c0e661-6471-4d77-b943-dd7917480289",
+      "part-of-speech": "pronoun",
+      "english": "that (thing)",
+      "portuguese": "isso",
+      "cefr": "A1",
+      "ipa": "[ˈisu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e3e66e9-8cd5-4291-99fb-c278568d5a11",
+      "part-of-speech": "pronoun",
+      "english": "that (over there)",
+      "portuguese": "aquele",
+      "cefr": "A1",
+      "ipa": "[ɐˈkelɨ]",
+      "context": "feminine: aquela",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "931b760a-b016-47d7-98a6-8a07a85396df",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "portuguese": "o que",
+      "cefr": "A1",
+      "ipa": "[u ˈke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a7254ec-d526-4701-ba6f-2c9709511ed7",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "portuguese": "quem",
+      "cefr": "A1",
+      "ipa": "[ˈkɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d8c9455-e4c2-49b8-8b22-f2ca9f21ce9d",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "portuguese": "qual",
+      "cefr": "A1",
+      "ipa": "[ˈkwaɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee8d89a5-e7f9-4185-ac9c-76859909be07",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "portuguese": "tudo",
+      "cefr": "A1",
+      "ipa": "[ˈtuðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f29a789b-d626-4d46-8acc-e0329e9bae5b",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "portuguese": "nada",
+      "cefr": "A1",
+      "ipa": "[ˈnaðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5b048b6-4ed2-4a91-a1ef-426ebbdc00e6",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "portuguese": "alguém",
+      "cefr": "A2",
+      "ipa": "[aɫˈɣɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84fd3569-5598-47b7-9976-1a87efc29b79",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "portuguese": "ninguém",
+      "cefr": "A2",
+      "ipa": "[nĩˈɡɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "148c317c-0b81-424a-b7de-c4ca1809f582",
+      "part-of-speech": "pronoun",
+      "english": "everyone, all",
+      "portuguese": "todos",
+      "cefr": "A1",
+      "ipa": "[ˈtoðuʃ]",
+      "context": "feminine: todas",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c52f30b-4c67-4559-85d7-efab40ee9477",
+      "part-of-speech": "preposition",
+      "english": "in, on, at",
+      "portuguese": "em",
+      "cefr": "A1",
+      "ipa": "[ɐ̃j̃]",
+      "context": "em + o = no, em + a = na",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ab9914c-b25c-4110-81ea-a014c719208d",
+      "part-of-speech": "preposition",
+      "english": "of, from",
+      "portuguese": "de",
+      "cefr": "A1",
+      "ipa": "[dɨ]",
+      "context": "de + o = do, de + a = da",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "529ae245-08ab-4068-9bf6-03eeaf4fd72c",
+      "part-of-speech": "preposition",
+      "english": "to, at",
+      "portuguese": "a",
+      "cefr": "A1",
+      "ipa": "[ɐ]",
+      "context": "a + o = ao, a + a = à",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4082906-8163-40ac-819d-a9b48ab09760",
+      "part-of-speech": "preposition",
+      "english": "for; to",
+      "portuguese": "para",
+      "cefr": "A1",
+      "ipa": "[ˈpɐɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcf62e1d-dda8-4fa3-b46a-34b1be0f056a",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "portuguese": "com",
+      "cefr": "A1",
+      "ipa": "[ˈkõ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1e379b4-4e89-4add-8a12-e698670a3407",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "portuguese": "sem",
+      "cefr": "A1",
+      "ipa": "[ˈsɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51ac50c3-567b-4f1b-88dc-3477d21368f5",
+      "part-of-speech": "preposition",
+      "english": "by, through, for",
+      "portuguese": "por",
+      "cefr": "A1",
+      "ipa": "[puɾ]",
+      "context": "por + o = pelo, por + a = pela",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da5ba8e4-5751-4ffc-85fc-139817d2a8a5",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "portuguese": "entre",
+      "cefr": "A2",
+      "ipa": "[ˈẽtɾɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01c1c1d9-26e2-435a-8bc3-8fc29e774834",
+      "part-of-speech": "preposition",
+      "english": "on, about",
+      "portuguese": "sobre",
+      "cefr": "A2",
+      "ipa": "[ˈsoβɾɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bf8797b-125f-40ce-b9cc-f3e1f5291d5f",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "portuguese": "até",
+      "cefr": "A1",
+      "ipa": "[ɐˈtɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a36393c-9103-4529-8bb9-97c79507c38b",
+      "part-of-speech": "preposition",
+      "english": "since",
+      "portuguese": "desde",
+      "cefr": "A2",
+      "ipa": "[ˈdeʒðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2fdffa6-b02e-4eb1-92fd-057977fa4115",
+      "part-of-speech": "preposition",
+      "english": "against",
+      "portuguese": "contra",
+      "cefr": "A2",
+      "ipa": "[ˈkõtɾɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52f341ab-26cc-430b-bb72-281f249cff1b",
+      "part-of-speech": "preposition",
+      "english": "during",
+      "portuguese": "durante",
+      "cefr": "A2",
+      "ipa": "[duˈɾɐ̃tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba0de30b-dcbe-4159-8ed0-ed9ed1ff7d37",
+      "part-of-speech": "preposition",
+      "english": "near",
+      "portuguese": "perto de",
+      "cefr": "A1",
+      "ipa": "[ˈpɛɾtu ðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77ca2fd7-1ae1-456e-b107-d1b1c0179488",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "portuguese": "ao lado de",
+      "cefr": "A1",
+      "ipa": "[aw ˈlaðu ðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd6fc4c6-96ae-4738-952e-8af1b5f1e711",
+      "part-of-speech": "preposition",
+      "english": "on top of",
+      "portuguese": "em cima de",
+      "cefr": "A1",
+      "ipa": "[ɐ̃j̃ ˈsimɐ ðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3d663b1-b70d-4cf8-99f1-8cdca50eb1a8",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "portuguese": "debaixo de",
+      "cefr": "A1",
+      "ipa": "[dɨˈβajʃu ðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb2c708c-2878-4d65-a50c-e06924ac8891",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "portuguese": "atrás de",
+      "cefr": "A1",
+      "ipa": "[ɐˈtɾaʒ ðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "869247b5-36a0-40d9-aa63-3d52efd72537",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "portuguese": "e",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83de2f8f-1416-4734-90e7-8273b7d4425b",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "portuguese": "ou",
+      "cefr": "A1",
+      "ipa": "[o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffa491b7-ef42-4973-9a05-af411ce04f2e",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "portuguese": "mas",
+      "cefr": "A1",
+      "ipa": "[mɐʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82472673-e497-48a4-ac07-700aded3c2ef",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "portuguese": "porque",
+      "cefr": "A1",
+      "ipa": "[ˈpuɾkɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3f7382f-599a-443e-9c63-97357ada3d26",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "portuguese": "que",
+      "cefr": "A1",
+      "ipa": "[kɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42cff8ed-b3c6-456b-8fdd-c8729ef26509",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "portuguese": "se",
+      "cefr": "A1",
+      "ipa": "[sɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e99fef75-ddd3-4655-9476-cf1bf1673da7",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "portuguese": "portanto",
+      "cefr": "A2",
+      "ipa": "[puɾˈtɐ̃tu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe62b5a8-03ea-4766-887d-4249e67a3332",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "portuguese": "enquanto",
+      "cefr": "A2",
+      "ipa": "[ẽˈkwɐ̃tu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6eede3a1-51dd-4d99-b43a-03cd5a57d129",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "portuguese": "embora",
+      "cefr": "A2",
+      "ipa": "[ẽˈbɔɾɐ]",
+      "context": "followed by the subjunctive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ecee6bb-0a10-4139-b5f7-9e4200c6b895",
+      "part-of-speech": "conjunction",
+      "english": "nor, not even",
+      "portuguese": "nem",
+      "cefr": "A2",
+      "ipa": "[ˈnɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d52057d7-0087-4e6e-80fd-6324dc2a162c",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "portuguese": "sim",
+      "cefr": "A1",
+      "ipa": "[ˈsĩ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca32df20-a6dc-4999-b193-af2e8da9d112",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "portuguese": "não",
+      "cefr": "A1",
+      "ipa": "[ˈnɐ̃w̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "197706c1-f144-4167-8acd-d92091e0574a",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "portuguese": "olá",
+      "cefr": "A1",
+      "ipa": "[ɔˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e945414-b28e-43af-998b-36d58af41ad6",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "portuguese": "bom dia",
+      "cefr": "A1",
+      "ipa": "[bõ ˈdiɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e52ce09-c770-452a-96fc-a07397a129a6",
+      "part-of-speech": "interjection",
+      "english": "good afternoon",
+      "portuguese": "boa tarde",
+      "cefr": "A1",
+      "ipa": "[ˈboɐ ˈtaɾðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85500ddd-f168-47c7-b6ef-c8ef0ec966b4",
+      "part-of-speech": "interjection",
+      "english": "good evening, good night",
+      "portuguese": "boa noite",
+      "cefr": "A1",
+      "ipa": "[ˈboɐ ˈnojtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4112cfa-138d-4b5a-9c13-fb68493fafb0",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "portuguese": "adeus",
+      "cefr": "A1",
+      "ipa": "[ɐˈðewʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60e0a796-e2bf-4a5a-a8dd-de165e335c5e",
+      "part-of-speech": "interjection",
+      "english": "bye",
+      "portuguese": "tchau",
+      "cefr": "A1",
+      "ipa": "[ˈtʃaw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac06950e-37e1-4e82-9073-247643b3d586",
+      "part-of-speech": "interjection",
+      "english": "see you later",
+      "portuguese": "até logo",
+      "cefr": "A1",
+      "ipa": "[ɐˈtɛ ˈlɔɣu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e23c27ad-9010-4c96-9405-31cd5a6c7322",
+      "part-of-speech": "interjection",
+      "english": "see you tomorrow",
+      "portuguese": "até amanhã",
+      "cefr": "A1",
+      "ipa": "[ɐˈtɛ amɐˈɲɐ̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f3266d2-9ac6-42ff-a1b6-2588d9250738",
+      "part-of-speech": "interjection",
+      "english": "thank you (said by a man)",
+      "portuguese": "obrigado",
+      "cefr": "A1",
+      "ipa": "[ɔβɾiˈɣaðu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f3e871a-0577-4d60-a59d-1d52653b2232",
+      "part-of-speech": "interjection",
+      "english": "thank you (said by a woman)",
+      "portuguese": "obrigada",
+      "cefr": "A1",
+      "ipa": "[ɔβɾiˈɣaðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fb6fe9f-6e59-4c33-95e5-019e52fd6fec",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "portuguese": "de nada",
+      "cefr": "A1",
+      "ipa": "[dɨ ˈnaðɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ea35b30-a2e0-49d2-9f92-21c24003aabe",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "portuguese": "por favor",
+      "cefr": "A1",
+      "ipa": "[puɾ fɐˈvoɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe9673cf-dba4-4a00-92b3-76b9162a9f78",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "portuguese": "desculpe",
+      "cefr": "A1",
+      "ipa": "[dɨʃˈkuɫpɨ]",
+      "context": "informal: desculpa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e9a1754-e296-4069-b8aa-56f6b10ab520",
+      "part-of-speech": "interjection",
+      "english": "excuse me (to get past)",
+      "portuguese": "com licença",
+      "cefr": "A1",
+      "ipa": "[kõ liˈsẽsɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb7ed921-0965-44a4-82bd-69c32c8a4e6d",
+      "part-of-speech": "interjection",
+      "english": "how are you?; all good",
+      "portuguese": "tudo bem",
+      "cefr": "A1",
+      "ipa": "[ˈtuðu ˈβɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "351e92c4-bc43-45bc-9774-86d874b65f94",
+      "part-of-speech": "interjection",
+      "english": "okay, all right",
+      "portuguese": "está bem",
+      "cefr": "A1",
+      "ipa": "[ɨʃˈta ˈβɐ̃j̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "896e1509-fac6-4633-9d4b-ad5a7847a789",
+      "part-of-speech": "interjection",
+      "english": "congratulations; happy birthday",
+      "portuguese": "parabéns",
+      "cefr": "A2",
+      "ipa": "[pɐɾɐˈβɐ̃jʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98928388-5ab1-4c0a-984a-73282d0129a3",
+      "part-of-speech": "interjection",
+      "english": "cheers; bless you",
+      "portuguese": "saúde",
+      "cefr": "A2",
+      "ipa": "[sɐˈuðɨ]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

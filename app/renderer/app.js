@@ -226,6 +226,7 @@ const ARTICLES = {
   'pt': { masculine: 'o',   feminine: 'a',   plural: 'os',  pluralFeminine: 'as'  },
   'nl': { masculine: 'de',  feminine: 'de',  common: 'de', neuter: 'het', plural: 'de' },
   'sv': { common: 'en',     neuter: 'ett' },
+  'no': { masculine: 'en',  feminine: 'ei',  neuter: 'et' },
 }
 
 // Register (formality level) choices by language code, highest to lowest.
@@ -374,6 +375,7 @@ function articleFor(word) {
   if (word.article) return word.article
   if (word['part-of-speech'] !== 'noun') return ''
   const code = currentMeta?.languageCode?.toLowerCase() || 'de'
+  if (code === 'it') return italianArticle(word)
   const map  = ARTICLES[code] || {}
   if (word.countability === 'plural-only') {
     if (word.gender === 'feminine' && map.pluralFeminine) return map.pluralFeminine
@@ -389,6 +391,21 @@ function articleFor(word) {
   }
 
   return map[word.gender] ?? ''
+}
+
+// Italian picks its article from how the noun begins, not just its gender:
+// l' before a vowel, lo / gli before s + consonant, z, gn, ps, pn, x, y.
+const IT_LO_START = /^(s[^aeiouàèéìòóù]|z|gn|ps|pn|x|y)/
+const IT_VOWEL_START = /^[aeiouàèéìòóù]/
+function italianArticle(word) {
+  if (!word.gender) return ''
+  const pluralOnly = word.countability === 'plural-only'
+  const text = ((pluralOnly ? word.plural : null) || word[targetFieldName()] || '').toLowerCase()
+  const vowel = IT_VOWEL_START.test(text)
+  const lo    = IT_LO_START.test(text)
+  if (word.gender === 'feminine') return pluralOnly ? 'le' : (vowel ? "l'" : 'la')
+  if (pluralOnly) return (vowel || lo) ? 'gli' : 'i'
+  return vowel ? "l'" : (lo ? 'lo' : 'il')
 }
 
 function formatTarget(word) {
