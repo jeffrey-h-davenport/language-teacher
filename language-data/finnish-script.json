@@ -2,12 +2,12 @@
   "scriptName": "Finnish Pronunciation",
   "buttonLabel": "Pronunciation Guide",
   "generated": "pronunciation",
-  "intro": "How Finnish is pronounced — the main spelling rules.",
+  "intro": "How Finnish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
   "sections": [
     {
       "heading": "About the pronunciations",
       "text": [
-        "This Finnish list doesn't have pronunciations yet; this chart covers the main spelling rules. Finnish is spelled as it sounds: every letter is pronounced, and the first syllable is always stressed."
+        "Pronunciations follow standard Finnish, written as exact (bracketed) IPA. Finnish is spelled as it sounds: every letter is pronounced, doubled letters are long (ː), and the first syllable is always stressed."
       ]
     },
     {
@@ -62,6 +62,107 @@
           "char": "h",
           "ipa": "[h]",
           "note": "always pronounced, even before consonants"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "e",
+          "ipa": "e [e]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "in [in]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "jo [jo]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "suu [suː]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "yy [yː]",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "j",
+          "ipa": "ja [jɑ]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "hra [hrɑ]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "æ",
+          "ipa": "ää [æː]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "a [ɑ]",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ø",
+          "ipa": "öö [øː]",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "show [ʃou̯]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "jazz [ˈdʒæs]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "newton [ˈɲuːton]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "henki [ˈheŋki]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʋ",
+          "ipa": "rva [rʋɑ]",
+          "note": "between v and w, with the lips barely touching"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "go [ɡo]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "oy [ˈoy]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "oo [oː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "ei [ei̯]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
         }
       ]
     }

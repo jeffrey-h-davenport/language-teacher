@@ -26,6 +26,7 @@ const PREFERENCES_PATH = path.join(app.getPath('userData'), 'preferences.json')
 const LANGUAGE_INFO = {
   chinese: { language: 'Chinese', languageCode: 'zh' },
   czech:   { language: 'Czech',   languageCode: 'cs' },
+  danish:  { language: 'Danish',  languageCode: 'da' },
   dutch:   { language: 'Dutch',   languageCode: 'nl' },
   finnish: { language: 'Finnish', languageCode: 'fi' },
   french:  { language: 'French',  languageCode: 'fr' },
@@ -36,7 +37,9 @@ const LANGUAGE_INFO = {
   japanese: { language: 'Japanese', languageCode: 'ja' },
   korean:  { language: 'Korean',  languageCode: 'ko' },
   norwegian: { language: 'Norwegian', languageCode: 'no' },
+  polish:  { language: 'Polish',  languageCode: 'pl' },
   portuguese: { language: 'Portuguese', languageCode: 'pt' },
+  russian: { language: 'Russian', languageCode: 'ru' },
   spanish: { language: 'Spanish', languageCode: 'es' },
   swahili: { language: 'Swahili', languageCode: 'sw' },
   swedish: { language: 'Swedish', languageCode: 'sv' },

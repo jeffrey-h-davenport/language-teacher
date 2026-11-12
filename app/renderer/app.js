@@ -215,6 +215,8 @@ const FLAGS = {
 }
 
 // French vowel-initial words that trigger elision (le/la → l')
+// Languages whose ARTICLES entry holds the indefinite article (a/an).
+const INDEFINITE_ARTICLE_LANGS = new Set(['sv', 'no', 'da'])
 const ELISION_STARTERS = new Set('aeiouàâéèêëîïôùûüœ')
 
 // Definite articles by language code and grammatical gender
@@ -227,6 +229,7 @@ const ARTICLES = {
   'nl': { masculine: 'de',  feminine: 'de',  common: 'de', neuter: 'het', plural: 'de' },
   'sv': { common: 'en',     neuter: 'ett' },
   'no': { masculine: 'en',  feminine: 'ei',  neuter: 'et' },
+  'da': { common: 'en',     neuter: 'et' },
 }
 
 // Register (formality level) choices by language code, highest to lowest.
@@ -382,6 +385,9 @@ function articleFor(word) {
     return map.plural ?? ''
   }
   if (!word.gender) return ''
+  // Scandinavian articles mean "a/an", which uncountable nouns don't take
+  // (Danish mad, not "en mad").
+  if (word.countability === 'mass' && INDEFINITE_ARTICLE_LANGS.has(code)) return ''
 
   // French elision: le/la → l' before vowel-initial words or h muet
   if (code === 'fr') {

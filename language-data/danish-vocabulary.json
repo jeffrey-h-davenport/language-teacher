@@ -1,0 +1,6605 @@
+{
+  "meta": {
+    "language": "Danish",
+    "languageCode": "da",
+    "nativeLanguage": "English",
+    "targetField": "danish",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "3c124f3f-baeb-4054-b402-b4e9f5524768",
+      "part-of-speech": "noun",
+      "english": "man; husband",
+      "danish": "mand",
+      "gender": "common",
+      "plural": "mænd",
+      "cefr": "A1",
+      "ipa": "[ˈmanˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9564b136-4304-47bc-8a00-468f35592978",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "danish": "kvinde",
+      "gender": "common",
+      "plural": "kvinder",
+      "cefr": "A1",
+      "ipa": "[ˈkʰvenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "068728a9-d0aa-41dd-9238-0cf524b7d741",
+      "part-of-speech": "noun",
+      "english": "child",
+      "danish": "barn",
+      "gender": "neuter",
+      "plural": "børn",
+      "cefr": "A1",
+      "ipa": "[ˈbɑːˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "152f175b-c38f-4954-aec6-dfa799c986fa",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "danish": "dreng",
+      "gender": "common",
+      "plural": "drenge",
+      "cefr": "A1",
+      "ipa": "[ˈdʁɛŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c932a24-bfa2-45e2-ae4e-46cfb19d20e0",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "danish": "pige",
+      "gender": "common",
+      "plural": "piger",
+      "cefr": "A1",
+      "ipa": "[ˈpʰiːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b3d8d14-11ba-49d4-be69-3132371b9f91",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "danish": "baby",
+      "gender": "common",
+      "plural": "babyer",
+      "cefr": "A1",
+      "ipa": "[ˈbɛjbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65f94d42-11b3-4a6b-a9a4-4664be307ff9",
+      "part-of-speech": "noun",
+      "english": "person",
+      "danish": "person",
+      "gender": "common",
+      "plural": "personer",
+      "cefr": "A1",
+      "ipa": "[pæɐ̯ˈsoˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6650d14e-e1ca-4912-9f44-c9ac17f461d9",
+      "part-of-speech": "noun",
+      "english": "human being, person",
+      "danish": "menneske",
+      "gender": "neuter",
+      "plural": "mennesker",
+      "cefr": "A2",
+      "ipa": "[ˈmɛnəsɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ea93b76-bf6f-4271-936f-1cd42991c2be",
+      "part-of-speech": "noun",
+      "english": "father",
+      "danish": "far",
+      "gender": "common",
+      "plural": "fædre",
+      "cefr": "A1",
+      "ipa": "[ˈfɑː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f7ccf2b-c964-4c2b-806e-4e509cee331d",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "danish": "mor",
+      "gender": "common",
+      "plural": "mødre",
+      "cefr": "A1",
+      "ipa": "[ˈmoɐ̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bad467bf-4017-45c2-a7c9-50f6bc93ad08",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "danish": "forældre",
+      "gender": "common",
+      "plural": "forældre",
+      "cefr": "A1",
+      "ipa": "[fʌˈɛlˀdʁɐ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10a7f39f-166f-4782-a543-7337c7908c50",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "danish": "bror",
+      "gender": "common",
+      "plural": "brødre",
+      "cefr": "A1",
+      "ipa": "[ˈbʁoɐ̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0be4e6e3-c0a7-4a6f-813c-a423648549df",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "danish": "søster",
+      "gender": "common",
+      "plural": "søstre",
+      "cefr": "A1",
+      "ipa": "[ˈsøsdɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94a004e1-0bc5-4941-97d3-4affe778d6f8",
+      "part-of-speech": "noun",
+      "english": "son",
+      "danish": "søn",
+      "gender": "common",
+      "plural": "sønner",
+      "cefr": "A1",
+      "ipa": "[ˈsœnˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76a2f87a-e853-4d39-b898-0848f4494968",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "danish": "datter",
+      "gender": "common",
+      "plural": "døtre",
+      "cefr": "A1",
+      "ipa": "[ˈdadɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33861083-c530-4e8c-a917-6140bd51ea11",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "danish": "bedstefar",
+      "gender": "common",
+      "plural": "bedstefædre",
+      "cefr": "A1",
+      "ipa": "[ˈbɛsdəˌfɑː]",
+      "context": "also farfar (father's father), morfar (mother's father)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53aca823-e3e4-45f9-bcac-9ba09662d606",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "danish": "bedstemor",
+      "gender": "common",
+      "plural": "bedstemødre",
+      "cefr": "A1",
+      "ipa": "[ˈbɛsdəˌmoɐ̯]",
+      "context": "also farmor, mormor",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5e23320-b2eb-464b-b38b-3604ac71060c",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "danish": "onkel",
+      "gender": "common",
+      "plural": "onkler",
+      "cefr": "A2",
+      "ipa": "[ˈɔŋˀkl̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86458ea0-e271-4631-b99b-e0d02b7ee7d7",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "danish": "tante",
+      "gender": "common",
+      "plural": "tanter",
+      "cefr": "A2",
+      "ipa": "[ˈtˢandə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f09f9a0b-9c92-41d4-aed3-6c5633ab490f",
+      "part-of-speech": "noun",
+      "english": "family",
+      "danish": "familie",
+      "gender": "common",
+      "plural": "familier",
+      "cefr": "A1",
+      "ipa": "[faˈmiˀljə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e472f5b5-ce1c-476f-b264-400156d89ce0",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "danish": "ven",
+      "gender": "common",
+      "plural": "venner",
+      "cefr": "A1",
+      "ipa": "[ˈvɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "784e330c-0668-4140-94e5-f57b357f8a76",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "danish": "veninde",
+      "gender": "common",
+      "plural": "veninder",
+      "cefr": "A1",
+      "ipa": "[vɛnˈenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18079cc9-3e1a-4cce-a755-607cd48dc24e",
+      "part-of-speech": "noun",
+      "english": "boyfriend, girlfriend",
+      "danish": "kæreste",
+      "gender": "common",
+      "plural": "kærester",
+      "cefr": "A2",
+      "ipa": "[ˈkʰɛːɐsdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc8eccc4-f974-4365-b44f-8f4d19bec8b7",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "danish": "nabo",
+      "gender": "common",
+      "plural": "naboer",
+      "cefr": "A2",
+      "ipa": "[ˈnæːbo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2439fdd9-b7b6-435d-aac0-e536547089fe",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "danish": "kollega",
+      "gender": "common",
+      "plural": "kolleger",
+      "cefr": "A2",
+      "ipa": "[kʰoˈleːɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f96b1df9-eb3f-4b38-8f78-bf08696e863d",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "danish": "lærer",
+      "gender": "common",
+      "plural": "lærere",
+      "cefr": "A1",
+      "ipa": "[ˈlɛːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cea2095-326d-4789-8552-267ea1c8bfb9",
+      "part-of-speech": "noun",
+      "english": "student",
+      "danish": "studerende",
+      "gender": "common",
+      "plural": "studerende",
+      "cefr": "A1",
+      "ipa": "[sduˈdeˀʌnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "284400c3-7f83-4180-bb75-8b5cba385477",
+      "part-of-speech": "noun",
+      "english": "pupil",
+      "danish": "elev",
+      "gender": "common",
+      "plural": "elever",
+      "cefr": "A1",
+      "ipa": "[eˈleˀw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01a5cbea-24ef-40ce-9c57-d1723c84b115",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "danish": "læge",
+      "gender": "common",
+      "plural": "læger",
+      "cefr": "A1",
+      "ipa": "[ˈlɛːjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1507c31-feb3-4f81-9568-d3da5fd8dc8d",
+      "part-of-speech": "noun",
+      "english": "name",
+      "danish": "navn",
+      "gender": "neuter",
+      "plural": "navne",
+      "cefr": "A1",
+      "ipa": "[ˈnɑwˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4a0ffcb-24a2-4343-b314-0d9f3894f847",
+      "part-of-speech": "noun",
+      "english": "age",
+      "danish": "alder",
+      "gender": "common",
+      "plural": "aldre",
+      "cefr": "A2",
+      "ipa": "[ˈalɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a908bbf9-42d1-4b33-9300-4283581943f9",
+      "part-of-speech": "noun",
+      "english": "time",
+      "danish": "tid",
+      "gender": "common",
+      "plural": "tider",
+      "cefr": "A1",
+      "ipa": "[ˈtˢiðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34a6f68d-b717-4f37-9c64-78321cd2772b",
+      "part-of-speech": "noun",
+      "english": "day",
+      "danish": "dag",
+      "gender": "common",
+      "plural": "dage",
+      "cefr": "A1",
+      "ipa": "[ˈdæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5aaba640-5d3d-4aa7-9790-2b2040ad4e83",
+      "part-of-speech": "noun",
+      "english": "week",
+      "danish": "uge",
+      "gender": "common",
+      "plural": "uger",
+      "cefr": "A1",
+      "ipa": "[ˈuːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb402663-a905-4b36-b873-c6ea0e0b38fd",
+      "part-of-speech": "noun",
+      "english": "month",
+      "danish": "måned",
+      "gender": "common",
+      "plural": "måneder",
+      "cefr": "A1",
+      "ipa": "[ˈmɔːnəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fc57882-44f7-4bd6-ada7-57e6bfbc92d3",
+      "part-of-speech": "noun",
+      "english": "year",
+      "danish": "år",
+      "gender": "neuter",
+      "plural": "år",
+      "cefr": "A1",
+      "ipa": "[ˈɔːˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e286083-0484-4aa1-9834-db123e8a2abe",
+      "part-of-speech": "noun",
+      "english": "hour; lesson",
+      "danish": "time",
+      "gender": "common",
+      "plural": "timer",
+      "cefr": "A1",
+      "ipa": "[ˈtˢiːmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7da78910-9b1e-4959-8895-3933cc2305c2",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "danish": "minut",
+      "gender": "neuter",
+      "plural": "minutter",
+      "cefr": "A1",
+      "ipa": "[miˈnut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "392c1ba5-928c-4255-8eac-d245241d4382",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "danish": "morgen",
+      "gender": "common",
+      "plural": "morgener",
+      "cefr": "A1",
+      "ipa": "[ˈmɒːɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f78ff0a-e34e-415a-8d6c-5e285de17ccd",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "danish": "eftermiddag",
+      "gender": "common",
+      "plural": "eftermiddage",
+      "cefr": "A1",
+      "ipa": "[ˈɛfdɐmeˌdæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fb97104-1ce8-4a35-9ac1-40488f41e819",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "danish": "aften",
+      "gender": "common",
+      "plural": "aftener",
+      "cefr": "A1",
+      "ipa": "[ˈɑfdən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44ac53f3-b643-4eba-b54f-202d435ca905",
+      "part-of-speech": "noun",
+      "english": "night",
+      "danish": "nat",
+      "gender": "common",
+      "plural": "nætter",
+      "cefr": "A1",
+      "ipa": "[ˈnat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6da1c167-564c-4fc1-83f9-58ad9d325035",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "danish": "weekend",
+      "gender": "common",
+      "plural": "weekender",
+      "cefr": "A1",
+      "ipa": "[ˈwiːkɛnd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6ce80dd-8587-4d60-86cb-7c93769b2eed",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "danish": "mandag",
+      "gender": "common",
+      "plural": "mandage",
+      "cefr": "A1",
+      "ipa": "[ˈmanˀda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8671fe25-5b48-46c7-8a92-eda50391d135",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "danish": "tirsdag",
+      "gender": "common",
+      "plural": "tirsdage",
+      "cefr": "A1",
+      "ipa": "[ˈtˢiɐ̯ˀsda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "704af954-fb6c-4168-aecc-3237e349e1f4",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "danish": "onsdag",
+      "gender": "common",
+      "plural": "onsdage",
+      "cefr": "A1",
+      "ipa": "[ˈonˀsda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "877fd958-295d-4f13-81e5-88f69b7e6b5e",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "danish": "torsdag",
+      "gender": "common",
+      "plural": "torsdage",
+      "cefr": "A1",
+      "ipa": "[ˈtˢɒːˀsda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "912c3721-5c04-405c-a092-79d4f789b4bb",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "danish": "fredag",
+      "gender": "common",
+      "plural": "fredage",
+      "cefr": "A1",
+      "ipa": "[ˈfʁɛːda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa445063-d2b6-41a2-869d-9fcf510c5b43",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "danish": "lørdag",
+      "gender": "common",
+      "plural": "lørdage",
+      "cefr": "A1",
+      "ipa": "[ˈlœɐ̯da]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61ee58ee-aaa2-4532-ae68-7c5e849d1db3",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "danish": "søndag",
+      "gender": "common",
+      "plural": "søndage",
+      "cefr": "A1",
+      "ipa": "[ˈsœnda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2cc21dc-23bc-4b8a-90aa-e9c6e4fb7b45",
+      "part-of-speech": "noun",
+      "english": "January",
+      "danish": "januar",
+      "cefr": "A1",
+      "ipa": "[ˈjanuˌɑˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8c2b4c8-4cb3-4ce5-b17f-cf9af7203879",
+      "part-of-speech": "noun",
+      "english": "February",
+      "danish": "februar",
+      "cefr": "A1",
+      "ipa": "[ˈfeːbʁuˌɑˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e47f795-d79a-437a-8957-f1c0e7588ec9",
+      "part-of-speech": "noun",
+      "english": "March",
+      "danish": "marts",
+      "cefr": "A1",
+      "ipa": "[ˈmɑːds]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4be7ed0-693a-4c5d-8032-966109ef5b7c",
+      "part-of-speech": "noun",
+      "english": "April",
+      "danish": "april",
+      "cefr": "A1",
+      "ipa": "[aˈpʰʁiˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "466bc462-2719-4146-b488-c3d58dafd7da",
+      "part-of-speech": "noun",
+      "english": "May",
+      "danish": "maj",
+      "cefr": "A1",
+      "ipa": "[ˈmajˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1aff276-6ee8-4b8a-8a3a-6e73b670d123",
+      "part-of-speech": "noun",
+      "english": "June",
+      "danish": "juni",
+      "cefr": "A1",
+      "ipa": "[ˈjuːni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b9ad0c7-a235-4576-a90a-aaca2968662c",
+      "part-of-speech": "noun",
+      "english": "July",
+      "danish": "juli",
+      "cefr": "A1",
+      "ipa": "[ˈjuːli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54124e06-85a1-4b5d-99ed-06f53ae2cc3e",
+      "part-of-speech": "noun",
+      "english": "August",
+      "danish": "august",
+      "cefr": "A1",
+      "ipa": "[ɑwˈɡɔsd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cc05d7a-a10a-4d04-ac76-65e6bb9e7e1f",
+      "part-of-speech": "noun",
+      "english": "September",
+      "danish": "september",
+      "cefr": "A1",
+      "ipa": "[sɛpˈtˢɛmˀbɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ecb227d-48d0-4ea9-bfd5-4b7d9ffe2379",
+      "part-of-speech": "noun",
+      "english": "October",
+      "danish": "oktober",
+      "cefr": "A1",
+      "ipa": "[ɔkˈtˢoˀbɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55c31ab9-362f-4c04-9f5a-fb784e2c5644",
+      "part-of-speech": "noun",
+      "english": "November",
+      "danish": "november",
+      "cefr": "A1",
+      "ipa": "[noˈvɛmˀbɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8aac10f9-cdfb-43aa-9bab-10e73a34f258",
+      "part-of-speech": "noun",
+      "english": "December",
+      "danish": "december",
+      "cefr": "A1",
+      "ipa": "[deˈsɛmˀbɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "726454cd-19d6-48bd-8578-1a36562bbe00",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "danish": "forår",
+      "gender": "neuter",
+      "plural": "forår",
+      "cefr": "A2",
+      "ipa": "[ˈfɒːɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ac199d5-a19c-47f6-8e55-afe6b690860a",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "danish": "sommer",
+      "gender": "common",
+      "plural": "somre",
+      "cefr": "A2",
+      "ipa": "[ˈsʌmɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28084a31-be00-4af6-aed2-f52a007c5778",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "danish": "efterår",
+      "gender": "neuter",
+      "plural": "efterår",
+      "cefr": "A2",
+      "ipa": "[ˈɛfdɐˌɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d225221-3c47-442c-988f-ff0ed8bbf63f",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "danish": "vinter",
+      "gender": "common",
+      "plural": "vintre",
+      "cefr": "A2",
+      "ipa": "[ˈvenˀdɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2de5e835-bae5-45d4-9917-60e269adeb03",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "danish": "fødselsdag",
+      "gender": "common",
+      "plural": "fødselsdage",
+      "cefr": "A1",
+      "ipa": "[ˈføsəlsˌdæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e13fc966-b8cb-4ce9-a5c6-121daadef42d",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "danish": "ferie",
+      "gender": "common",
+      "plural": "ferier",
+      "cefr": "A1",
+      "ipa": "[ˈfeɐ̯jə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "261db09b-80c2-4a51-a17d-1743e1482407",
+      "part-of-speech": "noun",
+      "english": "party",
+      "danish": "fest",
+      "gender": "common",
+      "plural": "fester",
+      "cefr": "A1",
+      "ipa": "[ˈfɛsd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7db8da96-e4eb-496d-b0a1-1162f8bfa400",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "danish": "gave",
+      "gender": "common",
+      "plural": "gaver",
+      "cefr": "A2",
+      "ipa": "[ˈɡæːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ef08713-804e-42a5-8851-0936792c864b",
+      "part-of-speech": "noun",
+      "english": "cosiness, a warm and relaxed atmosphere",
+      "danish": "hygge",
+      "gender": "common",
+      "cefr": "A2",
+      "ipa": "[ˈhyɡə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0c2927e-2ec8-40c2-a216-1c5fd02bb94e",
+      "part-of-speech": "noun",
+      "english": "house",
+      "danish": "hus",
+      "gender": "neuter",
+      "plural": "huse",
+      "cefr": "A1",
+      "ipa": "[ˈhuːˀs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edcc5b64-008d-4b44-b369-1eb4adbbc696",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "danish": "lejlighed",
+      "gender": "common",
+      "plural": "lejligheder",
+      "cefr": "A1",
+      "ipa": "[ˈlajliˌheðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e48cdc45-52e7-41b0-9dec-725ef2e5ab50",
+      "part-of-speech": "noun",
+      "english": "room",
+      "danish": "værelse",
+      "gender": "neuter",
+      "plural": "værelser",
+      "cefr": "A1",
+      "ipa": "[ˈvæɐ̯lsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "175e3f8b-dc06-4ad1-a7e0-e798a03aba2d",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "danish": "soveværelse",
+      "gender": "neuter",
+      "plural": "soveværelser",
+      "cefr": "A1",
+      "ipa": "[ˈsɒwəˌvæɐ̯lsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e28089f-f08a-44ac-aee5-537b58e2514c",
+      "part-of-speech": "noun",
+      "english": "living room",
+      "danish": "stue",
+      "gender": "common",
+      "plural": "stuer",
+      "cefr": "A1",
+      "ipa": "[ˈsduːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "204df609-917c-42a2-86a0-886e4e57ec8e",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "danish": "køkken",
+      "gender": "neuter",
+      "plural": "køkkener",
+      "cefr": "A1",
+      "ipa": "[ˈkʰøɡŋ̍]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91420850-a794-4647-b800-67c980a80baf",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "danish": "badeværelse",
+      "gender": "neuter",
+      "plural": "badeværelser",
+      "cefr": "A1",
+      "ipa": "[ˈbæːðəˌvæɐ̯lsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da64b726-e365-4a8a-bfa1-d2a53c8dc29e",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "danish": "toilet",
+      "gender": "neuter",
+      "plural": "toiletter",
+      "cefr": "A1",
+      "ipa": "[tˢoaˈlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68d2dc7e-8c9b-473e-bd12-3ca01c0eab67",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "danish": "have",
+      "gender": "common",
+      "plural": "haver",
+      "cefr": "A1",
+      "ipa": "[ˈhæːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41c78db2-2bf4-4d58-b3b1-206f885425f5",
+      "part-of-speech": "noun",
+      "english": "door",
+      "danish": "dør",
+      "gender": "common",
+      "plural": "døre",
+      "cefr": "A1",
+      "ipa": "[ˈdøɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d509e49d-6ec5-4776-b6c8-e63dea17ad70",
+      "part-of-speech": "noun",
+      "english": "window",
+      "danish": "vindue",
+      "gender": "neuter",
+      "plural": "vinduer",
+      "cefr": "A1",
+      "ipa": "[ˈvendu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab406beb-c6bd-4eac-910a-094addc0be49",
+      "part-of-speech": "noun",
+      "english": "table",
+      "danish": "bord",
+      "gender": "neuter",
+      "plural": "borde",
+      "cefr": "A1",
+      "ipa": "[ˈboɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf59e8de-be84-490e-874d-c3c2f27b8262",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "danish": "stol",
+      "gender": "common",
+      "plural": "stole",
+      "cefr": "A1",
+      "ipa": "[ˈsdoˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "168f9971-557b-4d0a-8319-5461fe096dbc",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "danish": "seng",
+      "gender": "common",
+      "plural": "senge",
+      "cefr": "A1",
+      "ipa": "[ˈsɛŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccad6a60-fc36-4df3-95ef-da9b13bd22fa",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "danish": "sofa",
+      "gender": "common",
+      "plural": "sofaer",
+      "cefr": "A1",
+      "ipa": "[ˈsoːfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6368ca08-0a2e-4afe-81c3-e2329bd732ba",
+      "part-of-speech": "noun",
+      "english": "key",
+      "danish": "nøgle",
+      "gender": "common",
+      "plural": "nøgler",
+      "cefr": "A1",
+      "ipa": "[ˈnʌjlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1ac3854-124f-4be7-ade8-3b6c84c59b7e",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "danish": "køleskab",
+      "gender": "neuter",
+      "plural": "køleskabe",
+      "cefr": "A2",
+      "ipa": "[ˈkʰøːləˌsɡæˀb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa6d50db-922d-4827-bbbc-fc818203c223",
+      "part-of-speech": "noun",
+      "english": "television",
+      "danish": "fjernsyn",
+      "gender": "neuter",
+      "plural": "fjernsyn",
+      "cefr": "A1",
+      "ipa": "[ˈfjæɐ̯nˌsyˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51a175b6-7937-4d70-8d38-779b7c83e6a0",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "danish": "telefon",
+      "gender": "common",
+      "plural": "telefoner",
+      "cefr": "A1",
+      "ipa": "[tˢeləˈfoˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9838cd9-78db-4367-ab47-3943c0558945",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "danish": "mobil",
+      "gender": "common",
+      "plural": "mobiler",
+      "cefr": "A1",
+      "ipa": "[moˈbiˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82c4ccda-a57b-4b57-bfdd-4a665f69cc5a",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "danish": "computer",
+      "gender": "common",
+      "plural": "computere",
+      "cefr": "A1",
+      "ipa": "[kʰʌmˈpjuːdɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93086c5c-1f6e-4cfa-b409-d138a4d6a0e3",
+      "part-of-speech": "noun",
+      "english": "food",
+      "danish": "mad",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈmað]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e495ec6-f485-4856-aa87-0226ce245d4b",
+      "part-of-speech": "noun",
+      "english": "water",
+      "danish": "vand",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈvanˀ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25bea761-2391-48c4-8ed8-654f5b6d015d",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "danish": "brød",
+      "gender": "neuter",
+      "plural": "brød",
+      "cefr": "A1",
+      "ipa": "[ˈbʁœðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "177b0b40-b828-436b-a6e2-fd2f0b3fc323",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "danish": "kaffe",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈkʰafə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a93e4351-5d90-4f93-a86d-9e7189ec9f9c",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "danish": "te",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈtˢeˀ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e4beb41-7965-4467-a4d2-51aee51ad64d",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "danish": "mælk",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈmɛlˀk]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97b3dbf4-a686-4339-ae42-af16342bc393",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "danish": "juice",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈdʒuːs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7a06ccf-123a-471b-9bc2-37e235a56ae3",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "danish": "øl",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈølˀ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06ac1a1d-1979-46a3-a3d8-018a585a509d",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "danish": "vin",
+      "gender": "common",
+      "plural": "vine",
+      "cefr": "A1",
+      "ipa": "[ˈviˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5cf4e6f-6c12-454d-83b0-d758fc595bd7",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "danish": "kød",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈkʰøð]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96582105-8cbb-47fe-ab1a-0b9798cdc950",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "danish": "kylling",
+      "gender": "common",
+      "plural": "kyllinger",
+      "cefr": "A1",
+      "ipa": "[ˈkʰyleŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22ea0ee7-52c0-4aa0-8c01-a1fd20dc1575",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "danish": "fisk",
+      "gender": "common",
+      "plural": "fisk",
+      "cefr": "A1",
+      "ipa": "[ˈfesɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a83cf451-506d-44d8-8677-9f6f17034f24",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "danish": "ost",
+      "gender": "common",
+      "plural": "oste",
+      "cefr": "A1",
+      "ipa": "[ˈʌsd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7574569a-52c1-4314-9d6f-09930e85aa7e",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "danish": "æg",
+      "gender": "neuter",
+      "plural": "æg",
+      "cefr": "A1",
+      "ipa": "[ˈɛːˀɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a00f8c0f-2760-48dd-a221-005677989ff6",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "danish": "grøntsag",
+      "gender": "common",
+      "plural": "grøntsager",
+      "cefr": "A1",
+      "ipa": "[ˈɡʁœnˌsæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5044e0d-cf04-452c-b8ce-3cbf3ee9254e",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "danish": "frugt",
+      "gender": "common",
+      "plural": "frugter",
+      "cefr": "A1",
+      "ipa": "[ˈfʁɔɡd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5484478-8d28-4a30-af5c-c232dde732e9",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "danish": "æble",
+      "gender": "neuter",
+      "plural": "æbler",
+      "cefr": "A1",
+      "ipa": "[ˈɛːblə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a649f6de-9d00-4a6f-aaec-b9b3ce5a3f39",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "danish": "banan",
+      "gender": "common",
+      "plural": "bananer",
+      "cefr": "A1",
+      "ipa": "[baˈnæˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21c115e4-e524-4b6a-9e42-35de2ba2a3b1",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "danish": "appelsin",
+      "gender": "common",
+      "plural": "appelsiner",
+      "cefr": "A1",
+      "ipa": "[ɑbəlˈsiˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "989e769c-4a31-471d-a631-42d04ad5f99c",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "danish": "kartoffel",
+      "gender": "common",
+      "plural": "kartofler",
+      "cefr": "A1",
+      "ipa": "[kʰɑˈtˢʌfl̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dfc457d-66f3-41a0-bdcb-67e4233f034d",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "danish": "ris",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈʁiˀs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cab16247-6574-4d58-8c3a-7e750d4ca0d9",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "danish": "suppe",
+      "gender": "common",
+      "plural": "supper",
+      "cefr": "A1",
+      "ipa": "[ˈsɔbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fb7b574-72bd-4b82-a26e-e07b8669f0dc",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "danish": "sukker",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsɔɡɐ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "254c6042-6870-4235-a5a8-2b2abb31a2ad",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "danish": "salt",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈsalˀt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af988944-c1a0-40a8-a2c2-af355dbee93d",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "danish": "smør",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsmœɐ̯]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc9e5792-125b-450d-88cd-a9210005b4dc",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "danish": "kage",
+      "gender": "common",
+      "plural": "kager",
+      "cefr": "A1",
+      "ipa": "[ˈkʰæːjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d91324df-59cf-4040-871f-38e2c77ad7cb",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "danish": "morgenmad",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈmɒːɒnˌmað]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb8afe79-b5a7-4821-850a-d67d4e3ba752",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "danish": "frokost",
+      "gender": "common",
+      "plural": "frokoster",
+      "cefr": "A1",
+      "ipa": "[ˈfʁɔkʌsd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2c3a55a-5e81-4304-9d19-a4fd9a74bcda",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "danish": "aftensmad",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈɑfdənsˌmað]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f66039f3-e94d-4ff6-a1e2-228ed2237b67",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "danish": "restaurant",
+      "gender": "common",
+      "plural": "restauranter",
+      "cefr": "A1",
+      "ipa": "[ʁɛsdoˈʁɑŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64e37248-a6dc-482e-a71c-1e399437b6ba",
+      "part-of-speech": "noun",
+      "english": "café",
+      "danish": "café",
+      "gender": "common",
+      "plural": "caféer",
+      "cefr": "A1",
+      "ipa": "[kʰaˈfe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80355eb7-8b3c-4a76-9c96-423c6ad88ed9",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "danish": "glas",
+      "gender": "neuter",
+      "plural": "glas",
+      "cefr": "A1",
+      "ipa": "[ˈɡlas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6692a6bf-f0ec-4dc7-944c-e38b5e54e6b6",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "danish": "kop",
+      "gender": "common",
+      "plural": "kopper",
+      "cefr": "A1",
+      "ipa": "[ˈkʰʌb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8d697c3-bf75-4cbb-9fdb-bcc4e1d60a16",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "danish": "flaske",
+      "gender": "common",
+      "plural": "flasker",
+      "cefr": "A1",
+      "ipa": "[ˈflasɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b4d1d6b-6b06-4b91-ac6c-e25b26f59231",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "danish": "tallerken",
+      "gender": "common",
+      "plural": "tallerkener",
+      "cefr": "A2",
+      "ipa": "[tˢaˈlæɐ̯ˀkŋ̍]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "194bcdb0-9227-40cd-b9a7-6206c3a0b617",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "danish": "kniv",
+      "gender": "common",
+      "plural": "knive",
+      "cefr": "A2",
+      "ipa": "[ˈkʰniwˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b8a517b-2976-43b2-bfd3-351e4969f355",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "danish": "gaffel",
+      "gender": "common",
+      "plural": "gafler",
+      "cefr": "A2",
+      "ipa": "[ˈɡafl̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ed99a02-5593-49a6-8acb-bcc0a4aff7d9",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "danish": "ske",
+      "gender": "common",
+      "plural": "skeer",
+      "cefr": "A2",
+      "ipa": "[ˈsɡeˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2302352-4db7-4708-b1ae-3df1c429be0e",
+      "part-of-speech": "noun",
+      "english": "town, city",
+      "danish": "by",
+      "gender": "common",
+      "plural": "byer",
+      "cefr": "A1",
+      "ipa": "[ˈbyˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b2ad83d-2839-4851-bb44-b771d252b95b",
+      "part-of-speech": "noun",
+      "english": "country",
+      "danish": "land",
+      "gender": "neuter",
+      "plural": "lande",
+      "cefr": "A1",
+      "ipa": "[ˈlanˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35b17f13-98d3-4573-96b5-18cd0d1b4535",
+      "part-of-speech": "noun",
+      "english": "street",
+      "danish": "gade",
+      "gender": "common",
+      "plural": "gader",
+      "cefr": "A1",
+      "ipa": "[ˈɡæːðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8971f132-4253-4005-a3ba-a41826438ea9",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "danish": "vej",
+      "gender": "common",
+      "plural": "veje",
+      "cefr": "A1",
+      "ipa": "[ˈvajˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89758b80-3b17-44ea-b3e3-2377aaa6e37f",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "danish": "butik",
+      "gender": "common",
+      "plural": "butikker",
+      "cefr": "A1",
+      "ipa": "[buˈtˢik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a0d72b9-c3d7-4973-bf89-31523d88057b",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "danish": "supermarked",
+      "gender": "neuter",
+      "plural": "supermarkeder",
+      "cefr": "A1",
+      "ipa": "[ˈsuːbɐˌmɑːkəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4777a3f3-ecd3-4a87-86bd-b1d68541be74",
+      "part-of-speech": "noun",
+      "english": "market",
+      "danish": "marked",
+      "gender": "neuter",
+      "plural": "markeder",
+      "cefr": "A2",
+      "ipa": "[ˈmɑːkəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfc7345c-d9bf-43c8-b579-86ad8b118496",
+      "part-of-speech": "noun",
+      "english": "school",
+      "danish": "skole",
+      "gender": "common",
+      "plural": "skoler",
+      "cefr": "A1",
+      "ipa": "[ˈsɡoːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02880038-2af8-49d6-b880-65482dee51c0",
+      "part-of-speech": "noun",
+      "english": "office",
+      "danish": "kontor",
+      "gender": "neuter",
+      "plural": "kontorer",
+      "cefr": "A2",
+      "ipa": "[kʰʌnˈtˢoɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ff40575-658d-4746-9619-581660e8dffc",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "danish": "hospital",
+      "gender": "neuter",
+      "plural": "hospitaler",
+      "cefr": "A1",
+      "ipa": "[hʌsbiˈtˢæˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b832882-56ba-4f61-aa56-98483f8fbeee",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "danish": "apotek",
+      "gender": "neuter",
+      "plural": "apoteker",
+      "cefr": "A2",
+      "ipa": "[apoˈtˢeˀk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3a0ebe9-017e-4152-b77a-1e4ba63778e1",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "danish": "bank",
+      "gender": "common",
+      "plural": "banker",
+      "cefr": "A1",
+      "ipa": "[ˈbɑŋˀk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab1adf69-8b69-410f-ac57-d6c0fa02c891",
+      "part-of-speech": "noun",
+      "english": "church",
+      "danish": "kirke",
+      "gender": "common",
+      "plural": "kirker",
+      "cefr": "A2",
+      "ipa": "[ˈkʰiɐ̯ɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04d7b11f-b32a-479c-9e59-072c80cdb376",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "danish": "museum",
+      "gender": "neuter",
+      "plural": "museer",
+      "cefr": "A2",
+      "ipa": "[muˈsɛːɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac4975ec-b922-44c5-b08f-79fdaa2e6ed3",
+      "part-of-speech": "noun",
+      "english": "park",
+      "danish": "park",
+      "gender": "common",
+      "plural": "parker",
+      "cefr": "A1",
+      "ipa": "[ˈpʰɑːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c237511-334c-440a-b2fa-5a4dca90b75b",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "danish": "biograf",
+      "gender": "common",
+      "plural": "biografer",
+      "cefr": "A1",
+      "ipa": "[bioˈɡʁɑˀf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03cf1c62-461c-4e9c-97ef-8f331a7c65e1",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "danish": "hotel",
+      "gender": "neuter",
+      "plural": "hoteller",
+      "cefr": "A1",
+      "ipa": "[hoˈtˢɛlˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25813e24-314f-4c9f-855f-851149219ef8",
+      "part-of-speech": "noun",
+      "english": "library",
+      "danish": "bibliotek",
+      "gender": "neuter",
+      "plural": "biblioteker",
+      "cefr": "A2",
+      "ipa": "[biblioˈtˢeˀk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c51ebfe-49d4-41ef-bebe-2af3c2df56d5",
+      "part-of-speech": "noun",
+      "english": "station",
+      "danish": "station",
+      "gender": "common",
+      "plural": "stationer",
+      "cefr": "A1",
+      "ipa": "[sdaˈɕoˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f6ed3da-8bc5-49ca-a179-5a89ec112bfe",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "danish": "lufthavn",
+      "gender": "common",
+      "plural": "lufthavne",
+      "cefr": "A1",
+      "ipa": "[ˈlɔfdˌhɑwˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87635b4d-07fe-4c68-8e50-2dca79f13e2a",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "danish": "bus",
+      "gender": "common",
+      "plural": "busser",
+      "cefr": "A1",
+      "ipa": "[ˈbus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6eeceff9-0bfc-4eae-b1b7-a200312027eb",
+      "part-of-speech": "noun",
+      "english": "train",
+      "danish": "tog",
+      "gender": "neuter",
+      "plural": "tog",
+      "cefr": "A1",
+      "ipa": "[ˈtˢɒˀw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82df9d1b-940e-4d78-922e-bc8e9753753d",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "danish": "metro",
+      "gender": "common",
+      "plural": "metroer",
+      "cefr": "A2",
+      "ipa": "[ˈmeːdʁo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ed0396a-684d-4ec5-9d93-b888aa031449",
+      "part-of-speech": "noun",
+      "english": "car",
+      "danish": "bil",
+      "gender": "common",
+      "plural": "biler",
+      "cefr": "A1",
+      "ipa": "[ˈbiˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c238988c-809a-4f1c-8d21-80f59ff5e42a",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "danish": "cykel",
+      "gender": "common",
+      "plural": "cykler",
+      "cefr": "A1",
+      "ipa": "[ˈsykl̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c12c7996-ec67-48cb-a215-0056a68bb9d8",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "danish": "fly",
+      "gender": "neuter",
+      "plural": "fly",
+      "cefr": "A1",
+      "ipa": "[ˈflyˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3079b300-473f-45d9-8fb8-40f1cec9d463",
+      "part-of-speech": "noun",
+      "english": "boat",
+      "danish": "båd",
+      "gender": "common",
+      "plural": "både",
+      "cefr": "A2",
+      "ipa": "[ˈbɔːˀð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6b7b379-db21-4971-a25e-01e846617bc6",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "danish": "billet",
+      "gender": "common",
+      "plural": "billetter",
+      "cefr": "A1",
+      "ipa": "[biˈlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d571dbf-3c1c-4056-ac5f-04614fe0842a",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "danish": "rejse",
+      "gender": "common",
+      "plural": "rejser",
+      "cefr": "A2",
+      "ipa": "[ˈʁajsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "652e36a3-ca12-4c82-8758-4b63acc815cb",
+      "part-of-speech": "noun",
+      "english": "map; card",
+      "danish": "kort",
+      "gender": "neuter",
+      "plural": "kort",
+      "cefr": "A2",
+      "ipa": "[ˈkʰɒːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59885849-d9b3-43e0-922d-65ac65c988d6",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "danish": "hav",
+      "gender": "neuter",
+      "plural": "have",
+      "cefr": "A1",
+      "ipa": "[ˈhɑwˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2690df81-cbd1-4fc7-b4c4-fd31e1780d95",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "danish": "strand",
+      "gender": "common",
+      "plural": "strande",
+      "cefr": "A1",
+      "ipa": "[ˈsdʁanˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca87df47-a043-4ac0-9d2f-fc1bf97fb329",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "danish": "bjerg",
+      "gender": "neuter",
+      "plural": "bjerge",
+      "cefr": "A2",
+      "ipa": "[ˈbjæɐ̯ˀw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04471a34-58e3-48e8-abde-da93ac9765f1",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "danish": "sø",
+      "gender": "common",
+      "plural": "søer",
+      "cefr": "A2",
+      "ipa": "[ˈsøˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39a4cede-126d-4e60-bdde-553649941803",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "danish": "skov",
+      "gender": "common",
+      "plural": "skove",
+      "cefr": "A2",
+      "ipa": "[ˈsɡʌwˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2a82a47-1a1b-473d-a9e8-02cd466d0fb0",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "danish": "træ",
+      "gender": "neuter",
+      "plural": "træer",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʁɛˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69b4620e-4bf7-4d7b-bb6a-a649dee81c8a",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "danish": "blomst",
+      "gender": "common",
+      "plural": "blomster",
+      "cefr": "A1",
+      "ipa": "[ˈblʌmˀsd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea3d1bc5-18c9-4a13-99f7-5de72d7e8ded",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "danish": "dyr",
+      "gender": "neuter",
+      "plural": "dyr",
+      "cefr": "A1",
+      "ipa": "[ˈdyɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "683a8a55-a165-4a8d-b7ee-1fca65f8bf28",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "danish": "hund",
+      "gender": "common",
+      "plural": "hunde",
+      "cefr": "A1",
+      "ipa": "[ˈhunˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53000bbb-03d2-4131-a19a-674390383ef1",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "danish": "kat",
+      "gender": "common",
+      "plural": "katte",
+      "cefr": "A1",
+      "ipa": "[ˈkʰat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebb4bb4a-5b3a-45ad-bf74-139ee5467568",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "danish": "fugl",
+      "gender": "common",
+      "plural": "fugle",
+      "cefr": "A1",
+      "ipa": "[ˈfuˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b0221d8-c2bf-4e22-aa1a-acdb473b85eb",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "danish": "hest",
+      "gender": "common",
+      "plural": "heste",
+      "cefr": "A2",
+      "ipa": "[ˈhɛsd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dc1e711-df93-463c-8717-ff802a1c6e0f",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "danish": "vejr",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈvɛɐ̯ˀ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4d7afa8-115d-4151-87a8-0648683d2222",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "danish": "sol",
+      "gender": "common",
+      "plural": "sole",
+      "cefr": "A1",
+      "ipa": "[ˈsoˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f454a123-7561-46ee-8867-5cb7ca9a40a5",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "danish": "regn",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈʁajˀn]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cb2571d-8840-4b33-bf5b-c015b64f33d6",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "danish": "sne",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈsneˀ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d964794-c481-49a1-8f3c-5050e86749c4",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "danish": "vind",
+      "gender": "common",
+      "plural": "vinde",
+      "cefr": "A2",
+      "ipa": "[ˈvenˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb5ce939-46e6-4f06-aabc-640ba5965f1c",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "danish": "himmel",
+      "gender": "common",
+      "plural": "himle",
+      "cefr": "A2",
+      "ipa": "[ˈheml̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cacd0c1-6ea7-49cc-bc40-980d4f16167f",
+      "part-of-speech": "noun",
+      "english": "world",
+      "danish": "verden",
+      "gender": "common",
+      "plural": "verdener",
+      "cefr": "A2",
+      "ipa": "[ˈvæɐ̯dn̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de677240-1737-49aa-9469-7507c49eccf7",
+      "part-of-speech": "noun",
+      "english": "body",
+      "danish": "krop",
+      "gender": "common",
+      "plural": "kroppe",
+      "cefr": "A2",
+      "ipa": "[ˈkʰʁʌb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5cf5dd7-459e-4239-9b35-417d5cfce92b",
+      "part-of-speech": "noun",
+      "english": "head",
+      "danish": "hoved",
+      "gender": "neuter",
+      "plural": "hoveder",
+      "cefr": "A1",
+      "ipa": "[ˈhoːəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f719dd3-6dd4-4b3b-804f-831190c67f35",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "danish": "hår",
+      "gender": "neuter",
+      "plural": "hår",
+      "cefr": "A1",
+      "ipa": "[ˈhɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75052d0b-f92f-4ebb-8b3b-99b0876728d8",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "danish": "øje",
+      "gender": "neuter",
+      "plural": "øjne",
+      "cefr": "A1",
+      "ipa": "[ˈʌjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c97e7d8-0496-4581-9595-9c7168322ea2",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "danish": "øre",
+      "gender": "neuter",
+      "plural": "ører",
+      "cefr": "A1",
+      "ipa": "[ˈøːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bcad355-64db-4e43-8f30-095b369f86ef",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "danish": "næse",
+      "gender": "common",
+      "plural": "næser",
+      "cefr": "A1",
+      "ipa": "[ˈnɛːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ef170a0-32a4-4c1c-be8f-a6bc408cdbd2",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "danish": "mund",
+      "gender": "common",
+      "plural": "munde",
+      "cefr": "A1",
+      "ipa": "[ˈmɔnˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05b621a7-41e1-4128-b8e7-0bd6759968b6",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "danish": "tand",
+      "gender": "common",
+      "plural": "tænder",
+      "cefr": "A2",
+      "ipa": "[ˈtˢanˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c6b4f64-68e0-467e-b71f-136bc9c9837b",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "danish": "hånd",
+      "gender": "common",
+      "plural": "hænder",
+      "cefr": "A1",
+      "ipa": "[ˈhʌnˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe95c311-f43b-486d-9798-e766e959d216",
+      "part-of-speech": "noun",
+      "english": "arm",
+      "danish": "arm",
+      "gender": "common",
+      "plural": "arme",
+      "cefr": "A1",
+      "ipa": "[ˈɑːˀm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87ae4c12-ef59-4247-b07d-ef2bddf3c1c1",
+      "part-of-speech": "noun",
+      "english": "leg; bone",
+      "danish": "ben",
+      "gender": "neuter",
+      "plural": "ben",
+      "cefr": "A1",
+      "ipa": "[ˈbeˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd477bee-5f20-4106-8451-8230160d30df",
+      "part-of-speech": "noun",
+      "english": "foot",
+      "danish": "fod",
+      "gender": "common",
+      "plural": "fødder",
+      "cefr": "A1",
+      "ipa": "[ˈfoˀð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e5d77a0-3e26-45a4-9466-53309d5a169a",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "danish": "mave",
+      "gender": "common",
+      "plural": "maver",
+      "cefr": "A2",
+      "ipa": "[ˈmæːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd664352-34ec-4544-b1d9-b6a201e2ffdf",
+      "part-of-speech": "noun",
+      "english": "back",
+      "danish": "ryg",
+      "gender": "common",
+      "plural": "rygge",
+      "cefr": "A2",
+      "ipa": "[ˈʁœɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6e251e6-13da-4558-ad9a-fbf1da22db35",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "danish": "hjerte",
+      "gender": "neuter",
+      "plural": "hjerter",
+      "cefr": "A2",
+      "ipa": "[ˈjæɐ̯də]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4797e5bf-00cb-4c56-9b94-b850d5217c70",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "danish": "medicin",
+      "gender": "common",
+      "cefr": "A2",
+      "ipa": "[mediˈsiˀn]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b12326cc-5761-4cd5-ae3f-aa087991b048",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "danish": "tøj",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʌj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b7cbfed-0de8-4c99-9de4-0f502ad64c60",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "danish": "bukser",
+      "gender": "common",
+      "plural": "bukser",
+      "cefr": "A1",
+      "ipa": "[ˈbɔɡsɐ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77e821e9-6dae-4b45-82be-8f28a2d7faa3",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "danish": "skjorte",
+      "gender": "common",
+      "plural": "skjorter",
+      "cefr": "A1",
+      "ipa": "[ˈsɡjoɐ̯də]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f04207c7-4bb1-41b3-a24e-f1c9ffbf64c8",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "danish": "trøje",
+      "gender": "common",
+      "plural": "trøjer",
+      "cefr": "A2",
+      "ipa": "[ˈtˢʁʌjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d6ced3d-6dd9-4eef-bedc-a83cb66fe36a",
+      "part-of-speech": "noun",
+      "english": "jacket",
+      "danish": "jakke",
+      "gender": "common",
+      "plural": "jakker",
+      "cefr": "A1",
+      "ipa": "[ˈjaɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0279684-3dfc-41b5-9fbe-e0c473ce124c",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "danish": "kjole",
+      "gender": "common",
+      "plural": "kjoler",
+      "cefr": "A1",
+      "ipa": "[ˈkʰjoːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2161999-4a6d-447b-a921-26c614d8ac90",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "danish": "nederdel",
+      "gender": "common",
+      "plural": "nederdele",
+      "cefr": "A2",
+      "ipa": "[ˈneðɐˌdeˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97c5e294-cde9-42bb-a7ad-5e74cb4d25b0",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "danish": "sko",
+      "gender": "common",
+      "plural": "sko",
+      "cefr": "A1",
+      "ipa": "[ˈsɡoˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d0359de-3884-4b8a-aabd-0fa2a6d81030",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "danish": "taske",
+      "gender": "common",
+      "plural": "tasker",
+      "cefr": "A1",
+      "ipa": "[ˈtˢasɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "102825dc-6fac-456f-8c75-f6dcf3e97d9e",
+      "part-of-speech": "noun",
+      "english": "hat (knitted)",
+      "danish": "hue",
+      "gender": "common",
+      "plural": "huer",
+      "cefr": "A2",
+      "ipa": "[ˈhuːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ce79699-6e6b-4956-98fa-b3d0616c1f92",
+      "part-of-speech": "noun",
+      "english": "work; job",
+      "danish": "arbejde",
+      "gender": "neuter",
+      "plural": "arbejder",
+      "cefr": "A1",
+      "ipa": "[ˈɑːˌbajˀdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd333636-25ca-4bfc-945e-976770b29943",
+      "part-of-speech": "noun",
+      "english": "job",
+      "danish": "job",
+      "gender": "neuter",
+      "plural": "job",
+      "cefr": "A1",
+      "ipa": "[ˈdʒʌb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34fbc79f-1f6a-479d-bca5-abdfacd5e9bd",
+      "part-of-speech": "noun",
+      "english": "money",
+      "danish": "penge",
+      "gender": "common",
+      "plural": "penge",
+      "cefr": "A1",
+      "ipa": "[ˈpʰɛŋə]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "609a4a39-2267-40ee-b707-6dd6f0de8a63",
+      "part-of-speech": "noun",
+      "english": "krone (currency); crown",
+      "danish": "krone",
+      "gender": "common",
+      "plural": "kroner",
+      "cefr": "A1",
+      "ipa": "[ˈkʰʁoːnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a34d4c37-6930-4c82-9e99-0d53dd96d162",
+      "part-of-speech": "noun",
+      "english": "price",
+      "danish": "pris",
+      "gender": "common",
+      "plural": "priser",
+      "cefr": "A1",
+      "ipa": "[ˈpʰʁiˀs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6f4d8ea-afac-4b5a-ad14-751ba5447170",
+      "part-of-speech": "noun",
+      "english": "book",
+      "danish": "bog",
+      "gender": "common",
+      "plural": "bøger",
+      "cefr": "A1",
+      "ipa": "[ˈbɔˀw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6fbd6fd-1edb-43ce-8b06-416fc138d49f",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "danish": "avis",
+      "gender": "common",
+      "plural": "aviser",
+      "cefr": "A1",
+      "ipa": "[aˈviˀs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccf2324d-2e81-4d8b-bf55-99248d7119b1",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "danish": "brev",
+      "gender": "neuter",
+      "plural": "breve",
+      "cefr": "A1",
+      "ipa": "[ˈbʁɛwˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb61fe10-4d58-4099-b56f-6ca09ba426b6",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "danish": "pen",
+      "gender": "common",
+      "plural": "penne",
+      "cefr": "A1",
+      "ipa": "[ˈpʰɛnˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55e15e5c-dd65-45c3-b0bd-d96a399b29a4",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "danish": "papir",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[paˈpʰiɐ̯ˀ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4396bec-d40a-4a6d-b1d2-7a1cc9c8f82f",
+      "part-of-speech": "noun",
+      "english": "picture, photo",
+      "danish": "billede",
+      "gender": "neuter",
+      "plural": "billeder",
+      "cefr": "A1",
+      "ipa": "[ˈbeləðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de0f96be-6030-4b9e-80ef-b765f6ba6992",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "danish": "film",
+      "gender": "common",
+      "plural": "film",
+      "cefr": "A1",
+      "ipa": "[ˈfilˀm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c6de767-2ae8-4aca-ac61-2e7fdb15e03a",
+      "part-of-speech": "noun",
+      "english": "music",
+      "danish": "musik",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[muˈsiɡ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "578e7db8-e967-47d4-b783-62f070c4304d",
+      "part-of-speech": "noun",
+      "english": "song",
+      "danish": "sang",
+      "gender": "common",
+      "plural": "sange",
+      "cefr": "A2",
+      "ipa": "[ˈsɑŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f63fcef-9ce5-4e42-ba25-27419f991478",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "danish": "sport",
+      "gender": "common",
+      "cefr": "A1",
+      "ipa": "[ˈsbɒːd]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "571bb034-ad43-4f7d-a68c-ff693dabe5c9",
+      "part-of-speech": "noun",
+      "english": "game",
+      "danish": "spil",
+      "gender": "neuter",
+      "plural": "spil",
+      "cefr": "A2",
+      "ipa": "[ˈsbel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffbdfb7a-b669-4fce-8b41-4d1c962723ed",
+      "part-of-speech": "noun",
+      "english": "language",
+      "danish": "sprog",
+      "gender": "neuter",
+      "plural": "sprog",
+      "cefr": "A1",
+      "ipa": "[ˈsbʁɔwˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16348441-322e-4763-a42a-6548bf3222c4",
+      "part-of-speech": "noun",
+      "english": "word",
+      "danish": "ord",
+      "gender": "neuter",
+      "plural": "ord",
+      "cefr": "A1",
+      "ipa": "[ˈoɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0ca9911-31ce-43cf-90bf-c3d845435504",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "danish": "sætning",
+      "gender": "common",
+      "plural": "sætninger",
+      "cefr": "A2",
+      "ipa": "[ˈsɛdneŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4cff138-dd8c-4f93-ae04-efbdd17b7b79",
+      "part-of-speech": "noun",
+      "english": "question",
+      "danish": "spørgsmål",
+      "gender": "neuter",
+      "plural": "spørgsmål",
+      "cefr": "A1",
+      "ipa": "[ˈsbœɐ̯sˌmɔˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "621d0af7-c0f0-45f4-8ddf-f5cdb1627c12",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "danish": "svar",
+      "gender": "neuter",
+      "plural": "svar",
+      "cefr": "A1",
+      "ipa": "[ˈsvɑˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91105ff3-f561-4603-aef9-8353c0d56a26",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "danish": "farve",
+      "gender": "common",
+      "plural": "farver",
+      "cefr": "A1",
+      "ipa": "[ˈfɑːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c05eb182-17be-48c7-922b-b0b50a518a59",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "danish": "problem",
+      "gender": "neuter",
+      "plural": "problemer",
+      "cefr": "A2",
+      "ipa": "[pʰʁoˈbleˀm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcdf59b2-4db9-4864-bf32-65475bc91996",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "danish": "idé",
+      "gender": "common",
+      "plural": "idéer",
+      "cefr": "A2",
+      "ipa": "[iˈdeˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ba11f3b-bf43-43d7-ad75-154a676f9ee7",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "danish": "ting",
+      "gender": "common",
+      "plural": "ting",
+      "cefr": "A1",
+      "ipa": "[ˈtˢeŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a6b8b34-e576-4085-9aed-1228e917a92f",
+      "part-of-speech": "noun",
+      "english": "number",
+      "danish": "nummer",
+      "gender": "neuter",
+      "plural": "numre",
+      "cefr": "A1",
+      "ipa": "[ˈnɔmɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d37c4b0-2f8e-4531-a698-5ef231acd529",
+      "part-of-speech": "noun",
+      "english": "address",
+      "danish": "adresse",
+      "gender": "common",
+      "plural": "adresser",
+      "cefr": "A1",
+      "ipa": "[aˈdʁɑsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aabeb519-9944-4954-8fc7-1e8f086596ba",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "danish": "nul",
+      "cefr": "A1",
+      "ipa": "[ˈnul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d92f720-9783-46d6-8512-8d14dd61bd15",
+      "part-of-speech": "noun",
+      "english": "one",
+      "danish": "en",
+      "cefr": "A1",
+      "ipa": "[ˈeˀn]",
+      "context": "et with et-words",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff127193-d920-47f2-9e7d-53ce750bdded",
+      "part-of-speech": "noun",
+      "english": "two",
+      "danish": "to",
+      "cefr": "A1",
+      "ipa": "[ˈtˢoˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "197414f0-c1d5-4835-bd22-cdef6b9e91ab",
+      "part-of-speech": "noun",
+      "english": "three",
+      "danish": "tre",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʁæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a049ffe4-801b-4e52-a740-004d42d21267",
+      "part-of-speech": "noun",
+      "english": "four",
+      "danish": "fire",
+      "cefr": "A1",
+      "ipa": "[ˈfiːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6362ac78-42b3-4a39-8212-890580100066",
+      "part-of-speech": "noun",
+      "english": "five",
+      "danish": "fem",
+      "cefr": "A1",
+      "ipa": "[ˈfɛmˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c050a846-fe0a-4407-87e2-06e2ceaad4b6",
+      "part-of-speech": "noun",
+      "english": "six",
+      "danish": "seks",
+      "cefr": "A1",
+      "ipa": "[ˈsɛɡs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42539248-8a34-48a6-ba60-f5016d622be1",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "danish": "syv",
+      "cefr": "A1",
+      "ipa": "[ˈsywˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcdbcda1-cdb2-4aa5-844d-fe99ddaf3a52",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "danish": "otte",
+      "cefr": "A1",
+      "ipa": "[ˈɔːdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71af5751-6a6a-496c-a1be-966a06ca2f5a",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "danish": "ni",
+      "cefr": "A1",
+      "ipa": "[ˈniˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "781f3834-0c87-41c0-a90b-9996a05ab6e0",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "danish": "ti",
+      "cefr": "A1",
+      "ipa": "[ˈtˢiˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02813cf9-0fe3-4a9f-9932-5b2a74070c13",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "danish": "elleve",
+      "cefr": "A1",
+      "ipa": "[ˈɛlvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0e76926-de1a-4f83-af66-a152aeaade3c",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "danish": "tolv",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʌlˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5787e335-c45e-4c23-b1ed-7ab8f4f3fce2",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "danish": "tyve",
+      "cefr": "A1",
+      "ipa": "[ˈtˢyːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "086373eb-fc54-4318-8f5b-03be067041db",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "danish": "tredive",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʁɑðvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59bc5e37-eb98-45ed-9473-8088f3a722cd",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "danish": "fyrre",
+      "cefr": "A1",
+      "ipa": "[ˈfœɐ̯ɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adc43789-4f83-41f6-9fbf-02ba9da37225",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "danish": "halvtreds",
+      "plural": "counted in twenties: 50 = \"half-third\" × 20",
+      "cefr": "A1",
+      "ipa": "[halˈtˢʁɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02f9b43b-62f9-4f00-962c-e3f464ae9bb5",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "danish": "hundrede",
+      "cefr": "A1",
+      "ipa": "[ˈhunʁəðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "577c59cb-ecfd-4757-ad6f-280b649ee566",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "danish": "tusind",
+      "cefr": "A1",
+      "ipa": "[ˈtˢuːsən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "485e034d-9133-4419-8ed4-849f0f840f18",
+      "part-of-speech": "noun",
+      "english": "million",
+      "danish": "million",
+      "gender": "common",
+      "plural": "millioner",
+      "cefr": "A2",
+      "ipa": "[miliˈoˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b81ee5ec-338d-4844-a0fa-4ed02f4cbd8a",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "danish": "være",
+      "cefr": "A1",
+      "ipa": "[ˈvɛːɐ]",
+      "context": "present: er",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "587ea857-5f24-4ed2-8d51-0cc1be3f05b7",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "danish": "have",
+      "cefr": "A1",
+      "ipa": "[ˈhæː]",
+      "context": "present: har",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dbb680b-49e1-4a9e-91fa-7f8419d970c4",
+      "part-of-speech": "verb",
+      "english": "to become; to stay",
+      "danish": "blive",
+      "cefr": "A1",
+      "ipa": "[ˈbliːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b566ecdc-5280-4510-b5c8-d2f9ed5d4dc6",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "danish": "gøre",
+      "cefr": "A1",
+      "ipa": "[ˈɡœːɐ]",
+      "context": "present: gør",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32752380-5cf2-49c0-bbd1-67dd8798500f",
+      "part-of-speech": "verb",
+      "english": "to make; to do",
+      "danish": "lave",
+      "cefr": "A1",
+      "ipa": "[ˈlæːvə]",
+      "context": "lave mad: to cook",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e90e67e5-1f15-46cb-8015-06a9a560b701",
+      "part-of-speech": "verb",
+      "english": "to go; to walk",
+      "danish": "gå",
+      "cefr": "A1",
+      "ipa": "[ˈɡɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16dba187-779b-4d07-a657-71abe39960e2",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "danish": "komme",
+      "cefr": "A1",
+      "ipa": "[ˈkʰʌmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "356f12dc-f587-4cdc-9c69-e9bdf0dbf367",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "danish": "tage",
+      "cefr": "A1",
+      "ipa": "[ˈtˢæː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16c1de7e-f6f7-4ed5-9cb7-f69bc71dc4a9",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "danish": "give",
+      "cefr": "A1",
+      "ipa": "[ˈɡiˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "981899e5-703a-406e-ad84-81def8b8be47",
+      "part-of-speech": "verb",
+      "english": "to get, receive",
+      "danish": "få",
+      "cefr": "A1",
+      "ipa": "[ˈfɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d61fa05d-820f-41b9-890c-14038d2b17d9",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "danish": "se",
+      "cefr": "A1",
+      "ipa": "[ˈseˀ]",
+      "context": "se fjernsyn: to watch TV",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "341ee55a-f1b9-43c5-ae9b-1ae731262db4",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "danish": "høre",
+      "cefr": "A1",
+      "ipa": "[ˈhøːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1390be0-f01e-4cad-b695-9ab52122f532",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "danish": "lytte",
+      "cefr": "A2",
+      "ipa": "[ˈlødə]",
+      "context": "lytte til: to listen to",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e54aea3f-a730-493d-82c4-2e947d129caa",
+      "part-of-speech": "verb",
+      "english": "to know (a fact)",
+      "danish": "vide",
+      "cefr": "A1",
+      "ipa": "[ˈviːðə]",
+      "context": "present: ved",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d63e205-3f18-41d2-884d-a924bf74b872",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place)",
+      "danish": "kende",
+      "cefr": "A1",
+      "ipa": "[ˈkʰɛnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "299963a6-257c-4f55-a03f-d525cc7dd26e",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "danish": "ville",
+      "cefr": "A1",
+      "ipa": "[ˈvelə]",
+      "context": "present: vil",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a673c609-ef6b-444a-9341-5b5517778548",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "danish": "kunne",
+      "cefr": "A1",
+      "ipa": "[ˈkʰunə]",
+      "context": "present: kan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da146dfc-c0e4-4684-88c5-21015fc4fed4",
+      "part-of-speech": "verb",
+      "english": "shall, will; to have to",
+      "danish": "skulle",
+      "cefr": "A1",
+      "ipa": "[ˈsɡulə]",
+      "context": "present: skal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62e9ddc9-eead-421b-9d32-c3e9c57f8211",
+      "part-of-speech": "verb",
+      "english": "may; must",
+      "danish": "måtte",
+      "cefr": "A1",
+      "ipa": "[ˈmʌdə]",
+      "context": "present: må",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d747d87-5446-4c03-ae21-715d63d9adab",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "danish": "kunne lide",
+      "cefr": "A1",
+      "ipa": "[ˈkʰunə ˈliːðə]",
+      "context": "jeg kan lide kaffe: I like coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42430a12-3bbe-480c-9d78-cd79ae11215e",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "danish": "elske",
+      "cefr": "A2",
+      "ipa": "[ˈɛlsɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95369193-aae2-4ae8-a1df-01b68bc0bf78",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "danish": "spise",
+      "cefr": "A1",
+      "ipa": "[ˈsbiːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d567f1b-f880-42d4-8e0a-c425437c025d",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "danish": "drikke",
+      "cefr": "A1",
+      "ipa": "[ˈdʁeɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9868ba90-bcef-4852-9fab-c237bf22c0c4",
+      "part-of-speech": "verb",
+      "english": "to speak",
+      "danish": "tale",
+      "cefr": "A1",
+      "ipa": "[ˈtˢæːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d3a527d-235e-4467-acd0-bae0b1612bf2",
+      "part-of-speech": "verb",
+      "english": "to talk, chat",
+      "danish": "snakke",
+      "cefr": "A1",
+      "ipa": "[ˈsnaɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54270311-b3bd-44ba-b1b6-15fc50261a87",
+      "part-of-speech": "verb",
+      "english": "to say",
+      "danish": "sige",
+      "cefr": "A1",
+      "ipa": "[ˈsiː]",
+      "context": "present: siger",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "157674ed-ee2d-48f4-8783-7cdbc56bdd83",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "danish": "spørge",
+      "cefr": "A1",
+      "ipa": "[ˈsbœɐ̯ɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1104332f-8e3b-4fb5-86c1-4bfe8b29e14f",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "danish": "svare",
+      "cefr": "A1",
+      "ipa": "[ˈsvɑːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43c1035a-6edc-4fc6-86b5-fb35f854643a",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "danish": "hedde",
+      "cefr": "A1",
+      "ipa": "[ˈheðə]",
+      "context": "jeg hedder …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fea32ce0-5f11-4212-a948-db8115388872",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "danish": "læse",
+      "cefr": "A1",
+      "ipa": "[ˈlɛːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c97266f2-b8a6-466c-93e0-db6d3920e0ab",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "danish": "skrive",
+      "cefr": "A1",
+      "ipa": "[ˈsɡʁiːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ea4ef94-b71b-4ff3-929a-ef228f21955b",
+      "part-of-speech": "verb",
+      "english": "to learn; to teach",
+      "danish": "lære",
+      "cefr": "A1",
+      "ipa": "[ˈlɛːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b52fda05-e743-4899-bdfd-d8fbfe4ca89e",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "danish": "studere",
+      "cefr": "A1",
+      "ipa": "[sduˈdeˀɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64e1d524-5600-42aa-8673-61ead789379c",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "danish": "forstå",
+      "cefr": "A1",
+      "ipa": "[fʌˈsdɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3f418b8-ca46-498b-b295-e15d60e3f488",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "danish": "tænke",
+      "cefr": "A1",
+      "ipa": "[ˈtˢɛŋɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b54b5b2c-2e4f-4298-8b02-4c740a0f67ba",
+      "part-of-speech": "verb",
+      "english": "to think (opinion)",
+      "danish": "synes",
+      "cefr": "A1",
+      "ipa": "[ˈsyːnəs]",
+      "context": "jeg synes, det er godt: I think it's good",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "309ff21b-5216-4f6c-9ad2-00140d19b428",
+      "part-of-speech": "verb",
+      "english": "to believe, think",
+      "danish": "tro",
+      "cefr": "A2",
+      "ipa": "[ˈtˢʁoˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65330136-84da-42ce-a535-94eb3aeeaba1",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "danish": "lede efter",
+      "cefr": "A1",
+      "ipa": "[ˈleːðə ˈɛfdɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5de085e-0ff0-44a3-a7b2-fcb9e9aaf699",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "danish": "finde",
+      "cefr": "A1",
+      "ipa": "[ˈfenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a92d5eff-4900-4218-857a-b56807e917bd",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "danish": "arbejde",
+      "cefr": "A1",
+      "ipa": "[ˈɑːˌbajˀdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8c01570-2073-42dd-b376-a0b732d78759",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "danish": "bo",
+      "cefr": "A1",
+      "ipa": "[ˈboˀ]",
+      "context": "jeg bor i København: I live in Copenhagen",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdd99a8f-70bd-4688-8e00-e297595e58a1",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "danish": "leve",
+      "cefr": "A2",
+      "ipa": "[ˈleːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2493f38a-d100-4142-901f-7c4193a34030",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "danish": "sove",
+      "cefr": "A1",
+      "ipa": "[ˈsɒwə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e519c96-67e1-4718-accf-27e657467bc1",
+      "part-of-speech": "verb",
+      "english": "to wake up",
+      "danish": "vågne",
+      "cefr": "A1",
+      "ipa": "[ˈvʌwnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cec6fd22-58ba-4228-ae16-d358e41c2e35",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "danish": "stå op",
+      "cefr": "A1",
+      "ipa": "[ˈsdɔˀ ˈʌb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c9babfc-f822-4ba7-8849-1da2584e4a01",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "danish": "sidde",
+      "cefr": "A1",
+      "ipa": "[ˈseðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b19de74-a0fb-46c1-a9f6-22f90ecc2bf0",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "danish": "stå",
+      "cefr": "A1",
+      "ipa": "[ˈsdɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec2ac8a6-6e6c-41b2-948e-c379b2263c69",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying)",
+      "danish": "ligge",
+      "cefr": "A1",
+      "ipa": "[ˈleɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee88b325-294e-4694-ac26-7890ea42470a",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "danish": "løbe",
+      "cefr": "A1",
+      "ipa": "[ˈløːbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "792dd27b-b921-4aa1-8a9c-fddf9f74548b",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "danish": "svømme",
+      "cefr": "A1",
+      "ipa": "[ˈsvœmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cbdb415-acaf-49ec-b90f-7f1059ff700c",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "danish": "køre",
+      "cefr": "A1",
+      "ipa": "[ˈkʰøːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79b76c0f-bfdc-42a4-8483-832f5ed4d29b",
+      "part-of-speech": "verb",
+      "english": "to cycle",
+      "danish": "cykle",
+      "cefr": "A1",
+      "ipa": "[ˈsyɡlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdee8602-fb9d-4474-a545-24445a6e2c44",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "danish": "rejse",
+      "cefr": "A1",
+      "ipa": "[ˈʁajsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba2702ac-91ce-4e6b-9e87-513883f36a85",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "danish": "købe",
+      "cefr": "A1",
+      "ipa": "[ˈkʰøːbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "917bc78f-0a64-4eca-8cf1-415439819dd8",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "danish": "betale",
+      "cefr": "A1",
+      "ipa": "[beˈtˢæˀlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88e4dd8d-f1c7-4fd9-8293-5ffbeaf9c0eb",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "danish": "koste",
+      "cefr": "A1",
+      "ipa": "[ˈkʰʌsdə]",
+      "context": "hvad koster det?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d309df2-9eb8-49eb-b05e-3e4b5b4358b1",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "danish": "sælge",
+      "cefr": "A2",
+      "ipa": "[ˈsɛljə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d81cb6a9-29bf-405a-981b-e57ae2836240",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "danish": "åbne",
+      "cefr": "A1",
+      "ipa": "[ˈɔːbnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07f170fe-5213-4100-a989-c7312708a931",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "danish": "lukke",
+      "cefr": "A1",
+      "ipa": "[ˈlɔɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "242856d4-968f-4586-99b8-f5fbef43741f",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "danish": "vente",
+      "cefr": "A1",
+      "ipa": "[ˈvɛndə]",
+      "context": "vente på: to wait for",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3167a02-11f2-40fd-921e-c7006d6a2e55",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "danish": "begynde",
+      "cefr": "A1",
+      "ipa": "[beˈɡønˀə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d1f3b0c-e5d1-440e-b528-dbe0dd207fa4",
+      "part-of-speech": "verb",
+      "english": "to end, finish",
+      "danish": "slutte",
+      "cefr": "A1",
+      "ipa": "[ˈsludə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a16ef835-4a25-41b2-8377-7568dc55b9da",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "danish": "stoppe",
+      "cefr": "A1",
+      "ipa": "[ˈsdʌbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ff23b2b-2917-4956-be42-652267baa90e",
+      "part-of-speech": "verb",
+      "english": "to play (a game, an instrument)",
+      "danish": "spille",
+      "cefr": "A1",
+      "ipa": "[ˈsbelə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4072cc19-9a3a-4527-9751-7449d6210538",
+      "part-of-speech": "verb",
+      "english": "to play (of children)",
+      "danish": "lege",
+      "cefr": "A2",
+      "ipa": "[ˈlɑjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b234796-a8ab-404d-a1c3-fe7c5f574fa5",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "danish": "vaske",
+      "cefr": "A1",
+      "ipa": "[ˈvasɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "851f1c0b-1ce4-44da-9945-d09d0b1775d7",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "danish": "hjælpe",
+      "cefr": "A1",
+      "ipa": "[ˈjɛlbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acfbb5d2-ef3b-461a-9210-947270cc9771",
+      "part-of-speech": "verb",
+      "english": "to call, phone",
+      "danish": "ringe",
+      "cefr": "A1",
+      "ipa": "[ˈʁeŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f519a6e5-884f-4211-872f-b55f83202405",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "danish": "synge",
+      "cefr": "A1",
+      "ipa": "[ˈsøŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3412f2c3-43a9-4475-b750-aaa3ba55ff6e",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "danish": "danse",
+      "cefr": "A1",
+      "ipa": "[ˈdansə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e102576c-e300-446d-ac11-28655125ef36",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "danish": "bruge",
+      "cefr": "A2",
+      "ipa": "[ˈbʁuːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8355be0-107b-434b-a46b-a34babf699e2",
+      "part-of-speech": "verb",
+      "english": "to put, lay",
+      "danish": "lægge",
+      "cefr": "A2",
+      "ipa": "[ˈlɛɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f443ab95-769b-4e16-ac92-78fa7fdd798d",
+      "part-of-speech": "verb",
+      "english": "to put, set",
+      "danish": "sætte",
+      "cefr": "A2",
+      "ipa": "[ˈsɛdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56256d42-7fff-4a6e-a202-3999c3b5be47",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "danish": "glemme",
+      "cefr": "A2",
+      "ipa": "[ˈɡlɛmə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ef40c1b-cc38-4dc5-9299-fcffbbc02e15",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "danish": "huske",
+      "cefr": "A2",
+      "ipa": "[ˈhusɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfcfb875-6758-49d5-a96e-54ec3216e572",
+      "part-of-speech": "verb",
+      "english": "to try; to try on",
+      "danish": "prøve",
+      "cefr": "A2",
+      "ipa": "[ˈpʰʁœːwə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "812c693e-2a32-45ca-b2e4-99689605602f",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "danish": "ændre",
+      "cefr": "A2",
+      "ipa": "[ˈɛndʁɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cc4dfc8-de4a-4970-b102-79bfaa19e020",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "danish": "sende",
+      "cefr": "A2",
+      "ipa": "[ˈsɛnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "199b0019-2cae-40c0-8ea7-fe4041b250f7",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "danish": "miste",
+      "cefr": "A2",
+      "ipa": "[ˈmesdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3df9d4c0-1d4a-44f6-b988-8301e9bba444",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "danish": "vinde",
+      "cefr": "A2",
+      "ipa": "[ˈvenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7551b09b-a2ac-42ba-ba58-546dcbd9327a",
+      "part-of-speech": "verb",
+      "english": "to get married",
+      "danish": "gifte sig",
+      "cefr": "A2",
+      "ipa": "[ˈɡifdə saj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beb98d9f-35f9-4754-985a-235b0edeb11f",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "danish": "besøge",
+      "cefr": "A2",
+      "ipa": "[beˈsøˀə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dffe5cd-2c1a-4287-815b-2a0f855b79f1",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "danish": "møde",
+      "cefr": "A2",
+      "ipa": "[ˈmøːðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02b81a70-989d-4eb3-af26-2dd292f3d2c2",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "danish": "forklare",
+      "cefr": "A2",
+      "ipa": "[fʌˈklɑˀɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa79bbc6-c5a6-4f26-a68d-dadae87564e1",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "danish": "oversætte",
+      "cefr": "A2",
+      "ipa": "[ˈɒwɐˌsɛdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13c9fe0a-54c2-457b-8fe0-62cb3e6c47da",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "danish": "vælge",
+      "cefr": "A2",
+      "ipa": "[ˈvɛljə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03244fe3-ff91-42dd-9cf1-662bd2e3b4d4",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "danish": "føle",
+      "cefr": "A2",
+      "ipa": "[ˈføːlə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a26d954e-a161-4e7e-9d15-70a670ba1ddd",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "danish": "håbe",
+      "cefr": "A2",
+      "ipa": "[ˈhɔːbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "911a6cf4-684a-4920-b195-d3a54de4c7f1",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "danish": "grine",
+      "cefr": "A2",
+      "ipa": "[ˈɡʁiːnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40226c3b-4e67-4fa7-b1b8-3e7c4ce7e19a",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "danish": "græde",
+      "cefr": "A2",
+      "ipa": "[ˈɡʁɛːðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c509c1a6-ecea-4047-9ad3-b8dd2085536d",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "danish": "falde",
+      "cefr": "A2",
+      "ipa": "[ˈfalə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c66c9ff3-13e9-4b74-98d2-829b34ecacc4",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "danish": "flyve",
+      "cefr": "A2",
+      "ipa": "[ˈflyːvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "526a9a98-ea30-4b4f-8bfd-ff38a3d2b51b",
+      "part-of-speech": "verb",
+      "english": "to rent",
+      "danish": "leje",
+      "cefr": "A2",
+      "ipa": "[ˈlɑjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be2cd675-c1a8-4948-b42d-32787e8a1c26",
+      "part-of-speech": "verb",
+      "english": "to order, book",
+      "danish": "bestille",
+      "cefr": "A2",
+      "ipa": "[beˈsdelˀə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86ef5284-4323-4c05-bbed-a7566ca1af46",
+      "part-of-speech": "verb",
+      "english": "to happen",
+      "danish": "ske",
+      "cefr": "A2",
+      "ipa": "[ˈsɡeˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa6d9462-637e-4565-a284-253b562faba8",
+      "part-of-speech": "verb",
+      "english": "to rain",
+      "danish": "regne",
+      "cefr": "A2",
+      "ipa": "[ˈʁɑjnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2382fdd0-d42a-4918-b504-1512cb186491",
+      "part-of-speech": "verb",
+      "english": "to snow",
+      "danish": "sne",
+      "cefr": "A2",
+      "ipa": "[ˈsneˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "190b67e7-c278-4caf-98a5-00e2099c3191",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "danish": "vise",
+      "cefr": "A2",
+      "ipa": "[ˈviːsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86ccd7a9-df97-417f-adde-6a72c9cfcc9a",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "danish": "flytte",
+      "cefr": "A2",
+      "ipa": "[ˈfløːdə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "457da942-f05b-49cb-b0d3-c7b9c3afeb40",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "danish": "dø",
+      "cefr": "A2",
+      "ipa": "[ˈdøˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e1bfb00-aac8-4eec-b42e-c09d247d61d3",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "danish": "stor",
+      "cefr": "A1",
+      "ipa": "[ˈsdoɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc6e2644-1590-44fb-81bf-579e46b325e7",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "danish": "lille",
+      "cefr": "A1",
+      "ipa": "[ˈlilə]",
+      "context": "plural: små",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfffbdf3-e45a-433c-9f50-cd504687a38d",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "danish": "god",
+      "cefr": "A1",
+      "ipa": "[ˈɡoˀð]",
+      "context": "neuter: godt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99f482af-830d-4019-8d83-687b610ac04f",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "danish": "dårlig",
+      "cefr": "A1",
+      "ipa": "[ˈdɒːli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d38a600f-d76c-442e-8d8f-7f65d2641d24",
+      "part-of-speech": "adjective",
+      "english": "fine, nice",
+      "danish": "fin",
+      "cefr": "A1",
+      "ipa": "[ˈfiˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c7b0ca2-26dd-43a9-9be1-42ee41fb90b8",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "danish": "smuk",
+      "cefr": "A1",
+      "ipa": "[ˈsmɔɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a735633a-2c9d-4ad2-beea-702327ca5820",
+      "part-of-speech": "adjective",
+      "english": "pretty, nice; neat",
+      "danish": "pæn",
+      "cefr": "A1",
+      "ipa": "[ˈpʰɛˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ae3c9cc-f040-4633-a84c-7a0fba230433",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "danish": "grim",
+      "cefr": "A2",
+      "ipa": "[ˈɡʁamˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "801c2633-5671-44fa-8dd4-013753653c1b",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "danish": "ny",
+      "cefr": "A1",
+      "ipa": "[ˈnyˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57d092dc-46d6-49af-9cd2-7699b8021b7a",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "danish": "gammel",
+      "cefr": "A1",
+      "ipa": "[ˈɡaml̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e2b771f-7100-4865-afd4-c7ee893b1af2",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "danish": "ung",
+      "cefr": "A1",
+      "ipa": "[ˈɔŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e501917-6b5d-4810-b745-d865fcc0c8bc",
+      "part-of-speech": "adjective",
+      "english": "tall, high; loud",
+      "danish": "høj",
+      "cefr": "A1",
+      "ipa": "[ˈhʌjˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "555748aa-545b-4c99-8a9a-a92f4e5e31c2",
+      "part-of-speech": "adjective",
+      "english": "low",
+      "danish": "lav",
+      "cefr": "A2",
+      "ipa": "[ˈlæˀw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d3e0526-83ba-4bd3-b192-fdf43cbde62a",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "danish": "lang",
+      "cefr": "A1",
+      "ipa": "[ˈlɑŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f66e8d1-916c-414d-83b5-dc70db7d88d5",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "danish": "kort",
+      "cefr": "A1",
+      "ipa": "[ˈkʰɒːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5384b5ea-a93d-418a-8f54-2f1f77bfd1cd",
+      "part-of-speech": "adjective",
+      "english": "warm, hot",
+      "danish": "varm",
+      "cefr": "A1",
+      "ipa": "[ˈvɑˀm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "562b939a-96b2-46bd-8996-50520db10b64",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "danish": "kold",
+      "cefr": "A1",
+      "ipa": "[ˈkʰʌlˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa65c2b8-823a-4edb-95b6-b4d1ccc722f2",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "danish": "hurtig",
+      "cefr": "A1",
+      "ipa": "[ˈhuɐ̯di]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9565e92f-0d5d-4a2b-8bf2-b3d0ba8f9479",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "danish": "langsom",
+      "cefr": "A1",
+      "ipa": "[ˈlɑŋˌsʌmˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca8d0290-7f5c-4e2b-8334-455bd50971ed",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "danish": "let",
+      "cefr": "A1",
+      "ipa": "[ˈlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d57f3e00-e983-49fe-a80e-3c2d26aa04b2",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "danish": "svær",
+      "cefr": "A1",
+      "ipa": "[ˈsvɛɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fcd7f7b-f9f9-487a-aa1b-0e3dfd67400e",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "danish": "billig",
+      "cefr": "A1",
+      "ipa": "[ˈbili]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c038faa3-74a3-49d4-95d3-1327163c0f72",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "danish": "dyr",
+      "cefr": "A1",
+      "ipa": "[ˈdyɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c57055d-c029-42ee-b6b4-d28784a0331d",
+      "part-of-speech": "adjective",
+      "english": "happy, glad",
+      "danish": "glad",
+      "cefr": "A1",
+      "ipa": "[ˈɡlað]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93881e2d-1a99-4d51-bc80-bd2bb95640c7",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "danish": "lykkelig",
+      "cefr": "A2",
+      "ipa": "[ˈløɡəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7853c372-3bb1-47fc-beea-943feb46d678",
+      "part-of-speech": "adjective",
+      "english": "sad, upset",
+      "danish": "ked af det",
+      "cefr": "A1",
+      "ipa": "[ˈkʰeð a de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91d08168-d148-4df3-a948-65e20735e982",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "danish": "vred",
+      "cefr": "A2",
+      "ipa": "[ˈvʁɛðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09dc7845-c869-4061-8cb9-1413c89b09d7",
+      "part-of-speech": "adjective",
+      "english": "afraid",
+      "danish": "bange",
+      "cefr": "A2",
+      "ipa": "[ˈbɑŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91fb39d2-c828-4b76-a4c9-fddcf992703f",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "danish": "træt",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʁat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bf727e6-f64f-44b3-ae23-329a04535e5e",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "danish": "syg",
+      "cefr": "A1",
+      "ipa": "[ˈsyˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85a02068-2ff6-4e51-89c6-91bfbbdd67fa",
+      "part-of-speech": "adjective",
+      "english": "healthy, well",
+      "danish": "rask",
+      "cefr": "A2",
+      "ipa": "[ˈʁasɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f3d7932-313c-4194-8801-72195ed73aef",
+      "part-of-speech": "adjective",
+      "english": "delicious; lovely",
+      "danish": "lækker",
+      "cefr": "A1",
+      "ipa": "[ˈlɛɡɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90ee40a8-8a32-433b-ade3-8d6b8501bae5",
+      "part-of-speech": "adjective",
+      "english": "cosy, pleasant",
+      "danish": "hyggelig",
+      "cefr": "A1",
+      "ipa": "[ˈhyɡəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f28daeb7-270a-4f97-ba0a-44e79d221bbd",
+      "part-of-speech": "adjective",
+      "english": "sweet; kind",
+      "danish": "sød",
+      "cefr": "A1",
+      "ipa": "[ˈsøðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82afd6c3-d862-49a9-944d-da0789662b04",
+      "part-of-speech": "adjective",
+      "english": "fun, funny",
+      "danish": "sjov",
+      "cefr": "A1",
+      "ipa": "[ˈɕʌw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4146f2ff-036f-47ee-b481-f4b04ed007e9",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "danish": "åben",
+      "cefr": "A1",
+      "ipa": "[ˈɔːbm̩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "356eabc1-4e2e-45c1-b8b1-2b6d6a8d588f",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "danish": "lukket",
+      "cefr": "A1",
+      "ipa": "[ˈlɔɡəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b37491fb-f320-4955-81cf-96ec4dfecde3",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "danish": "ren",
+      "cefr": "A1",
+      "ipa": "[ˈʁɛˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9eb35c2f-bdb0-4d85-9573-b9e1bd3d5811",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "danish": "beskidt",
+      "cefr": "A1",
+      "ipa": "[beˈsɡit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c3dfe9f-1a02-485e-942b-7ea15e33ea6a",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "danish": "travl",
+      "cefr": "A1",
+      "ipa": "[ˈtˢʁɑwˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "534fd89a-ebae-412c-a014-9d9997af97af",
+      "part-of-speech": "adjective",
+      "english": "free, available",
+      "danish": "ledig",
+      "cefr": "A1",
+      "ipa": "[ˈleːði]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f18b58dd-5cba-45c5-8305-4aece59f07d2",
+      "part-of-speech": "adjective",
+      "english": "finished, ready",
+      "danish": "færdig",
+      "cefr": "A1",
+      "ipa": "[ˈfæɐ̯di]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3181c8f5-57a0-4d5b-85f9-fa6d7ba89971",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "danish": "vigtig",
+      "cefr": "A2",
+      "ipa": "[ˈveɡdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efb0c230-ef0c-493e-84b3-fedbc8d9d51b",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "danish": "interessant",
+      "cefr": "A2",
+      "ipa": "[entʁɛˈsanˀt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "693f37a7-4044-4e3a-8f70-1064e5a50e7b",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "danish": "kedelig",
+      "cefr": "A2",
+      "ipa": "[ˈkʰeːðəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48d898ec-2924-4e95-a1a2-47370c8aca7d",
+      "part-of-speech": "adjective",
+      "english": "possible",
+      "danish": "mulig",
+      "cefr": "A2",
+      "ipa": "[ˈmuːli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1564503d-ffe1-40d8-8bec-38b96fdbbe1e",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "danish": "anden",
+      "cefr": "A1",
+      "ipa": "[ˈanən]",
+      "context": "neuter: andet; plural: andre",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6bd089f-67af-4063-8794-b5521f76e296",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "danish": "samme",
+      "cefr": "A2",
+      "ipa": "[ˈsamə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1372cffc-07c1-4810-9461-c52ef6ec22fa",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "danish": "forskellig",
+      "cefr": "A2",
+      "ipa": "[fʌˈsɡɛlˀi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ff5651d-aaf5-452c-aa8e-f319f20a8048",
+      "part-of-speech": "adjective",
+      "english": "right, correct; real",
+      "danish": "rigtig",
+      "cefr": "A1",
+      "ipa": "[ˈʁɛɡdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4eba4a5-b3ab-40b2-8d74-bfb426fa87e0",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "danish": "forkert",
+      "cefr": "A1",
+      "ipa": "[fʌˈkʰeɐ̯ˀd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22fe4385-98c4-4722-a85e-2e94b26da22f",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "danish": "fuld",
+      "cefr": "A2",
+      "ipa": "[ˈfulˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da25155d-ebe1-4d63-97a4-f4a983392618",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "danish": "tom",
+      "cefr": "A2",
+      "ipa": "[ˈtˢʌmˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9eace052-7461-46a1-8894-8602fa0b5d70",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "danish": "rig",
+      "cefr": "A2",
+      "ipa": "[ˈʁiˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "561c1b66-2970-4bcd-8ece-17bf54677707",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "danish": "fattig",
+      "cefr": "A2",
+      "ipa": "[ˈfadi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5981579-6bf6-41a1-ac17-6e69159efe37",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "danish": "tung",
+      "cefr": "A2",
+      "ipa": "[ˈtˢɔŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf08d318-ebc0-4aff-a246-e69d6bb27b26",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "danish": "stærk",
+      "cefr": "A2",
+      "ipa": "[ˈsdæɐ̯ˀk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fbae246-9266-4b83-b462-105283e1e9ce",
+      "part-of-speech": "adjective",
+      "english": "thick; fat",
+      "danish": "tyk",
+      "cefr": "A2",
+      "ipa": "[ˈtˢyɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "725f059e-3b79-48e5-a1dd-d19c9442c285",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "danish": "tynd",
+      "cefr": "A2",
+      "ipa": "[ˈtˢønˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5e04c3f-15a6-4f73-804f-2bf38c64aa48",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "danish": "rød",
+      "cefr": "A1",
+      "ipa": "[ˈʁœðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e010ecf5-6e40-4e9c-ad7d-84a836ea2fcd",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "danish": "blå",
+      "cefr": "A1",
+      "ipa": "[ˈblɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32984ba6-4262-4ae9-920f-3b2e1516e5b6",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "danish": "grøn",
+      "cefr": "A1",
+      "ipa": "[ˈɡʁœnˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "850c5322-6138-49b5-878a-279287c49a64",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "danish": "gul",
+      "cefr": "A1",
+      "ipa": "[ˈɡuˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20496b9b-cad8-4507-bd92-a93e1e384e9d",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "danish": "sort",
+      "cefr": "A1",
+      "ipa": "[ˈsoɐ̯d]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e84e6c1f-390e-44b0-b55b-943f92cb3d2a",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "danish": "hvid",
+      "cefr": "A1",
+      "ipa": "[ˈviðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "475b8a8a-8bf1-4e10-b155-2efeb1658bc2",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "danish": "brun",
+      "cefr": "A1",
+      "ipa": "[ˈbʁuˀn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e6e5410-619c-4be4-9c41-8a177629b0ea",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "danish": "grå",
+      "cefr": "A1",
+      "ipa": "[ˈɡʁɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bec13cce-d53e-46bb-a046-2047fd8bd888",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "danish": "orange",
+      "cefr": "A1",
+      "ipa": "[oˈʁɑŋɕə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "123acb2c-08a8-4c3f-9e40-84f9e1ad6baf",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "danish": "lyserød",
+      "cefr": "A2",
+      "ipa": "[ˈlyːsəˌʁœðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50d29b4e-e584-4d84-9e67-f6b54112e0c7",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "danish": "lilla",
+      "cefr": "A2",
+      "ipa": "[ˈlila]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa29f8d7-5e2f-4c41-ad6c-6a48e776f4ce",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "danish": "nu",
+      "cefr": "A1",
+      "ipa": "[ˈnu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4dc7bca-f1f8-4a25-9f54-2d262f4a2327",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "danish": "i dag",
+      "cefr": "A1",
+      "ipa": "[i ˈdæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "592687fb-1acf-4f63-94ae-90fd0b72af63",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "danish": "i morgen",
+      "cefr": "A1",
+      "ipa": "[i ˈmɒːɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75272497-d3aa-43ba-a5ad-1c866cd1b446",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "danish": "i går",
+      "cefr": "A1",
+      "ipa": "[i ˈɡɔˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "775b5b7a-4e39-417b-b10a-3f05cdde85ce",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "danish": "her",
+      "cefr": "A1",
+      "ipa": "[ˈhɛɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8898a5f-b05f-40b4-9a21-9def99cfb093",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "danish": "der",
+      "cefr": "A1",
+      "ipa": "[ˈdɛɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34491f61-d9fb-48fc-b2c4-357b68f7a713",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "danish": "ikke",
+      "cefr": "A1",
+      "ipa": "[ˈeɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c93dfcf-69c9-461a-baa4-746c97afa843",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "danish": "også",
+      "cefr": "A1",
+      "ipa": "[ˈʌsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7efbb116-3ec4-4c69-ae78-42ac3d51e128",
+      "part-of-speech": "adverb",
+      "english": "very; much",
+      "danish": "meget",
+      "cefr": "A1",
+      "ipa": "[ˈmɑjəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42c08c32-aeaf-4aee-a2e9-484a2097c0ce",
+      "part-of-speech": "adverb",
+      "english": "a little, a bit",
+      "danish": "lidt",
+      "cefr": "A1",
+      "ipa": "[ˈlet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "728df489-7ab1-471a-8071-418eeee88d76",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "danish": "mere",
+      "cefr": "A1",
+      "ipa": "[ˈmeːɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "549c2c18-d158-4a08-94b4-14aac0371e2b",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "danish": "mindre",
+      "cefr": "A2",
+      "ipa": "[ˈmendʁɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3504b270-afd8-469e-ae8a-d16b707dfe25",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "danish": "altid",
+      "cefr": "A1",
+      "ipa": "[ˈalˌtˢiðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21c3938d-10ef-41b6-b491-24a28ca6c4dd",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "danish": "aldrig",
+      "cefr": "A1",
+      "ipa": "[ˈɑldʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35ecd6b4-ab0e-46d4-a697-f40479c5c4a5",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "danish": "nogle gange",
+      "cefr": "A1",
+      "ipa": "[ˈnoːn ˈɡɑŋə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c3cc4a8-85f8-4046-9079-82ca9d2ed108",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "danish": "tit",
+      "cefr": "A1",
+      "ipa": "[ˈtˢit]",
+      "context": "also ofte",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9537fc9e-4375-41da-b8db-12c7db41a009",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "danish": "normalt",
+      "cefr": "A2",
+      "ipa": "[nɒˈmæˀlt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68f8d5b1-2e43-4521-86b2-9bcf47298b0c",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "danish": "allerede",
+      "cefr": "A1",
+      "ipa": "[aləˈʁæːðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ebf3c29-ec56-4a7e-9393-c1f67ba63bf1",
+      "part-of-speech": "adverb",
+      "english": "still",
+      "danish": "stadig",
+      "cefr": "A1",
+      "ipa": "[ˈsdæːði]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80b0df5b-445b-434e-a600-06047b04fb86",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "danish": "igen",
+      "cefr": "A1",
+      "ipa": "[iˈɡɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d29549ef-3a68-4a04-b71a-80245098b60c",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "danish": "sammen",
+      "cefr": "A1",
+      "ipa": "[ˈsamən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09d1a458-0fa5-4387-a57c-61d334d1cca5",
+      "part-of-speech": "adverb",
+      "english": "alone",
+      "danish": "alene",
+      "cefr": "A1",
+      "ipa": "[aˈleːnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d2e8341-f0e6-400a-ab76-abf427c5666f",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "danish": "måske",
+      "cefr": "A1",
+      "ipa": "[mʌˈsɡeˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdbcf7f4-c11e-40c5-89ff-78237a259397",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "danish": "senere",
+      "cefr": "A1",
+      "ipa": "[ˈseːnɐɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "954700ff-072f-4e48-9903-1adbf108febb",
+      "part-of-speech": "adverb",
+      "english": "first",
+      "danish": "først",
+      "cefr": "A1",
+      "ipa": "[ˈfœɐ̯sd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8da478ee-1213-4425-a300-fbbb57da05d2",
+      "part-of-speech": "adverb",
+      "english": "then; so",
+      "danish": "så",
+      "cefr": "A1",
+      "ipa": "[ˈsʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce34c2d9-f1ae-4414-baad-b4167968ded5",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "danish": "tidligt",
+      "cefr": "A1",
+      "ipa": "[ˈtˢiðlid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10fb9406-beb9-45a0-a13a-3be3c2abb28d",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "danish": "sent",
+      "cefr": "A1",
+      "ipa": "[ˈseˀnd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a19799cc-64a3-49ab-bca3-65fc45518a45",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "danish": "godt",
+      "cefr": "A1",
+      "ipa": "[ˈɡʌd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a5ab4a1-3186-4c34-8dce-feac3d596e7b",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "danish": "kun",
+      "cefr": "A1",
+      "ipa": "[ˈkʰɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d99a9825-1759-4c3a-a08d-b0668e717326",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "danish": "næsten",
+      "cefr": "A2",
+      "ipa": "[ˈnɛsdən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e363956-e63c-42a9-9345-756388da1b1f",
+      "part-of-speech": "adverb",
+      "english": "right away",
+      "danish": "straks",
+      "cefr": "A2",
+      "ipa": "[ˈsdʁɑɡs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10682538-4ec8-4c7d-90d5-2413680fbe1d",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "danish": "selvfølgelig",
+      "cefr": "A2",
+      "ipa": "[sɛlˈføljəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f51b1bb6-9b48-4964-a6a1-bae634779446",
+      "part-of-speech": "adverb",
+      "english": "quite, rather",
+      "danish": "ret",
+      "cefr": "A2",
+      "ipa": "[ˈʁad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44a2fe6f-46aa-4179-9e5b-0c1b1687e512",
+      "part-of-speech": "adverb",
+      "english": "too (for dyrt: too expensive)",
+      "danish": "for",
+      "cefr": "A2",
+      "ipa": "[fʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "485deb53-f9a4-4329-b944-06d2cb675574",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "danish": "langt",
+      "cefr": "A1",
+      "ipa": "[ˈlɑŋˀd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1b81966-61a5-432c-9011-027b7b8bbb45",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "danish": "til venstre",
+      "cefr": "A1",
+      "ipa": "[tˢe ˈvɛnsdʁɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1aefd920-193c-4547-8404-27f36294c509",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "danish": "til højre",
+      "cefr": "A1",
+      "ipa": "[tˢe ˈhʌjʁɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b47e6c09-e6a2-4640-a8ff-dcfd42852b73",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "danish": "ligeud",
+      "cefr": "A2",
+      "ipa": "[ˈliːəˌuðˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47a252be-3097-4e43-92d4-5c285b16531a",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "danish": "hjemme",
+      "cefr": "A1",
+      "ipa": "[ˈjɛmə]",
+      "context": "hjem: (to) home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7983ff04-54aa-447a-83fe-045e2f9e89b7",
+      "part-of-speech": "adverb",
+      "english": "inside",
+      "danish": "inde",
+      "cefr": "A2",
+      "ipa": "[ˈenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ad46fc7-7ef1-4854-b4cf-eab2dea1f434",
+      "part-of-speech": "adverb",
+      "english": "outside",
+      "danish": "ude",
+      "cefr": "A2",
+      "ipa": "[ˈuːðə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5c90d79-6300-43ce-8429-98c7d86d05df",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "danish": "hvor",
+      "cefr": "A1",
+      "ipa": "[ˈvɒˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e01383e-2128-441d-b149-3e57675aa679",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "danish": "hvornår",
+      "cefr": "A1",
+      "ipa": "[vʌˈnɒˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e38ed65-e4d8-4524-a465-acfd075f2a4d",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "danish": "hvordan",
+      "cefr": "A1",
+      "ipa": "[vʌˈdan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d6be2ad-5ffc-4686-a5ce-97fed6887f17",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "danish": "hvorfor",
+      "cefr": "A1",
+      "ipa": "[ˈvɒːfʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "764816f3-208d-4690-8ec2-1ab6c4c97c12",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "danish": "hvor meget",
+      "cefr": "A1",
+      "ipa": "[vɒ ˈmɑjəð]",
+      "context": "hvor mange: how many",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cd6889e-0788-4344-ac3c-6f041666f716",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "danish": "jeg",
+      "cefr": "A1",
+      "ipa": "[ˈjɑj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bcbeb28c-ef31-42c4-a509-42ebaef86908",
+      "part-of-speech": "pronoun",
+      "english": "you (singular)",
+      "danish": "du",
+      "cefr": "A1",
+      "ipa": "[ˈdu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce907377-ae1a-4c8f-a6d9-1d20d555c23f",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "danish": "han",
+      "cefr": "A1",
+      "ipa": "[ˈhan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5954309-d2f1-473c-8f21-ac5216572220",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "danish": "hun",
+      "cefr": "A1",
+      "ipa": "[ˈhun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9fd7110-f8fe-42fb-bedd-0382b9a59e22",
+      "part-of-speech": "pronoun",
+      "english": "it (en-words); that",
+      "danish": "den",
+      "cefr": "A1",
+      "ipa": "[ˈdɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddfff140-5250-4a8a-8dd7-ab04237240f8",
+      "part-of-speech": "pronoun",
+      "english": "it (et-words); that",
+      "danish": "det",
+      "cefr": "A1",
+      "ipa": "[ˈde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "980fc37e-dbb9-4972-ab99-a4ea1966a02b",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "danish": "vi",
+      "cefr": "A1",
+      "ipa": "[ˈvi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "818613b4-dee9-4b2c-8215-4ce61f74a0b3",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "danish": "I",
+      "cefr": "A1",
+      "ipa": "[ˈi]",
+      "context": "always written with a capital I",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e18644b4-50b6-46b0-8215-9f6316eb8b98",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "danish": "de",
+      "cefr": "A1",
+      "ipa": "[ˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48e269cf-331c-46a7-b1d6-2ab373e79e29",
+      "part-of-speech": "pronoun",
+      "english": "me",
+      "danish": "mig",
+      "cefr": "A1",
+      "ipa": "[ˈmɑj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "730c90f7-e632-4713-89a3-c8597c338401",
+      "part-of-speech": "pronoun",
+      "english": "you (object)",
+      "danish": "dig",
+      "cefr": "A1",
+      "ipa": "[ˈdɑj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "288e7661-e37b-4a13-8aeb-2c7711def202",
+      "part-of-speech": "pronoun",
+      "english": "him",
+      "danish": "ham",
+      "cefr": "A1",
+      "ipa": "[ˈham]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54536e72-7864-41a0-9cd2-92dd8d173717",
+      "part-of-speech": "pronoun",
+      "english": "her",
+      "danish": "hende",
+      "cefr": "A1",
+      "ipa": "[ˈhenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "533d3013-1658-4062-8c09-eb62b0b95b0f",
+      "part-of-speech": "pronoun",
+      "english": "us",
+      "danish": "os",
+      "cefr": "A1",
+      "ipa": "[ˈʌs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43eb7840-e081-4aaa-9052-88083879c6a2",
+      "part-of-speech": "pronoun",
+      "english": "you (plural, object)",
+      "danish": "jer",
+      "cefr": "A1",
+      "ipa": "[ˈjɛɐ̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e24d285-aa46-4f5d-8eee-ef9469db41aa",
+      "part-of-speech": "pronoun",
+      "english": "them",
+      "danish": "dem",
+      "cefr": "A1",
+      "ipa": "[ˈdɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cef8749-3c94-43e4-9433-1fbd699b3556",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "danish": "min",
+      "cefr": "A1",
+      "ipa": "[ˈminˀ]",
+      "context": "neuter: mit; plural: mine",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b866830-b2b8-4ded-bf2e-df21801161bf",
+      "part-of-speech": "pronoun",
+      "english": "your (singular)",
+      "danish": "din",
+      "cefr": "A1",
+      "ipa": "[ˈdinˀ]",
+      "context": "neuter: dit; plural: dine",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af5dd00e-1ae8-4581-8685-14fb273be35c",
+      "part-of-speech": "pronoun",
+      "english": "his",
+      "danish": "hans",
+      "cefr": "A1",
+      "ipa": "[ˈhans]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a935cc30-14f6-452a-9d7f-68d3f7a03599",
+      "part-of-speech": "pronoun",
+      "english": "her, hers",
+      "danish": "hendes",
+      "cefr": "A1",
+      "ipa": "[ˈhenəs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78be2c81-86bf-47c4-9959-a96f3b4b52a0",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "danish": "vores",
+      "cefr": "A1",
+      "ipa": "[ˈvɒːɒs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62ad2a26-b1fd-483e-8db3-d14ab3041498",
+      "part-of-speech": "pronoun",
+      "english": "your (plural)",
+      "danish": "jeres",
+      "cefr": "A1",
+      "ipa": "[ˈjɛːɐs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99cf9851-1c0a-4a27-82d4-4f2fbf05e4a8",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "danish": "deres",
+      "cefr": "A1",
+      "ipa": "[ˈdɛːɐs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6103a07e-bbeb-4f89-ae67-d8eaeb93aa59",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "danish": "denne",
+      "cefr": "A1",
+      "ipa": "[ˈdɛnə]",
+      "context": "neuter: dette; plural: disse",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6180b8fb-1661-4e4b-ac0e-88197dc558b3",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "danish": "hvad",
+      "cefr": "A1",
+      "ipa": "[ˈvað]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "121b55e7-6e21-4cec-8cd3-22b96d165c81",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "danish": "hvem",
+      "cefr": "A1",
+      "ipa": "[ˈvɛmˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00140577-fccc-4a6a-9af8-3715df4fa25c",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "danish": "hvilken",
+      "cefr": "A1",
+      "ipa": "[ˈvelkən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97f4b03d-163b-4e96-9bc9-484046b94afe",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "danish": "alt",
+      "cefr": "A1",
+      "ipa": "[ˈalˀd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72765ec1-12cb-4ea5-9290-9e92bc6b8e0b",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "danish": "noget",
+      "cefr": "A2",
+      "ipa": "[ˈnoːəð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaf26ea6-e0c2-4267-9e7f-b08f7806855c",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "danish": "ingenting",
+      "cefr": "A2",
+      "ipa": "[ˈeŋənˌtˢeŋˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58eff041-d2de-447b-8147-f41dc6f33816",
+      "part-of-speech": "pronoun",
+      "english": "someone; some",
+      "danish": "nogen",
+      "cefr": "A2",
+      "ipa": "[ˈnoːən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "180404ac-b98c-48f2-ba16-9951310748dc",
+      "part-of-speech": "pronoun",
+      "english": "no one; no",
+      "danish": "ingen",
+      "cefr": "A2",
+      "ipa": "[ˈeŋən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80a00b97-2360-4494-bfeb-225f6b40d698",
+      "part-of-speech": "preposition",
+      "english": "in",
+      "danish": "i",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf2ddf7f-a528-453a-aafa-dc88f5d7a05c",
+      "part-of-speech": "preposition",
+      "english": "on, at",
+      "danish": "på",
+      "cefr": "A1",
+      "ipa": "[pʰɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b6cca9f-7d95-42e9-95d5-d1f9b68c976d",
+      "part-of-speech": "preposition",
+      "english": "to",
+      "danish": "til",
+      "cefr": "A1",
+      "ipa": "[tˢe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4105d3f8-7727-408a-9606-b076298bcb20",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "danish": "fra",
+      "cefr": "A1",
+      "ipa": "[fʁɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "732078bd-d4fe-4c9f-9784-fa9af4d0fea9",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "danish": "med",
+      "cefr": "A1",
+      "ipa": "[með]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6099807-78f6-4dc2-ba23-3cca44747f58",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "danish": "uden",
+      "cefr": "A1",
+      "ipa": "[ˈuːðən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa170303-6510-4d84-a065-b12cd5b765ad",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "danish": "for",
+      "cefr": "A1",
+      "ipa": "[fʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c6bc02f-2fe1-4400-8934-be778c88dea1",
+      "part-of-speech": "preposition",
+      "english": "about; in (time)",
+      "danish": "om",
+      "cefr": "A1",
+      "ipa": "[ʌm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b668e11f-073b-4302-92a0-db9263e5d45b",
+      "part-of-speech": "preposition",
+      "english": "of; by",
+      "danish": "af",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb73e380-bf38-4c77-861f-c1b414392f6d",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place)",
+      "danish": "hos",
+      "cefr": "A1",
+      "ipa": "[hʌs]",
+      "context": "hos lægen: at the doctor's",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d58becb-8449-47f8-a7a5-eb68428dc0ae",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "danish": "efter",
+      "cefr": "A1",
+      "ipa": "[ˈɛfdɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2be4d7a-fa25-40b8-bce3-37eb35760647",
+      "part-of-speech": "preposition",
+      "english": "before",
+      "danish": "før",
+      "cefr": "A1",
+      "ipa": "[ˈføɐ̯ˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de58932a-b0f0-4b5c-b1bf-fa47096ea0fb",
+      "part-of-speech": "preposition",
+      "english": "under; during",
+      "danish": "under",
+      "cefr": "A1",
+      "ipa": "[ˈɔnɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb71ddd0-d423-4205-b32e-1515e0883ffc",
+      "part-of-speech": "preposition",
+      "english": "over, above",
+      "danish": "over",
+      "cefr": "A1",
+      "ipa": "[ˈɒwɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59c1493c-ff21-45d8-a93b-20283dfe184f",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "danish": "mellem",
+      "cefr": "A2",
+      "ipa": "[ˈmɛləm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "549b7917-787d-42fc-bde1-2346094c87e8",
+      "part-of-speech": "preposition",
+      "english": "behind",
+      "danish": "bag",
+      "cefr": "A1",
+      "ipa": "[ˈbæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5509090b-90e4-4093-be11-2bd68dbb1919",
+      "part-of-speech": "preposition",
+      "english": "in front of",
+      "danish": "foran",
+      "cefr": "A1",
+      "ipa": "[ˈfɒːan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fb6bbf5-a1e1-448c-998c-2972606ecbf2",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "danish": "ved siden af",
+      "cefr": "A2",
+      "ipa": "[ve ˈsiːðən a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75a40653-7b3b-418e-8c08-010e84a29821",
+      "part-of-speech": "preposition",
+      "english": "by, at",
+      "danish": "ved",
+      "cefr": "A2",
+      "ipa": "[veð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb651b8e-545a-459d-aec3-be5460803572",
+      "part-of-speech": "preposition",
+      "english": "towards; against",
+      "danish": "mod",
+      "cefr": "A2",
+      "ipa": "[moð]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35534f4c-8501-4b6d-adf8-8d707b1f447e",
+      "part-of-speech": "preposition",
+      "english": "through",
+      "danish": "gennem",
+      "cefr": "A2",
+      "ipa": "[ˈɡɛnəm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cefc5db-282a-494a-8bad-a4d3b9258b73",
+      "part-of-speech": "preposition",
+      "english": "since",
+      "danish": "siden",
+      "cefr": "A2",
+      "ipa": "[ˈsiːðən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a76dfc52-c2a5-4646-92c4-ed85c4b86274",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "danish": "og",
+      "cefr": "A1",
+      "ipa": "[ʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b14a7c87-02b5-48df-8cd2-2f73a90f9a8f",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "danish": "eller",
+      "cefr": "A1",
+      "ipa": "[ˈɛlɐ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "299d2313-a4e4-4acb-86fd-970978a1cf01",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "danish": "men",
+      "cefr": "A1",
+      "ipa": "[mɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07ad765d-fe93-4a39-9950-3bc97398d6e6",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "danish": "fordi",
+      "cefr": "A1",
+      "ipa": "[fʌˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ad2e7eb-376c-48eb-99e0-5dbf5f1d7648",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "danish": "at",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70334512-10f2-4379-af11-b464a819b8f1",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "danish": "hvis",
+      "cefr": "A1",
+      "ipa": "[ves]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fba205e-af66-4e34-bcf8-f79e72f335d9",
+      "part-of-speech": "conjunction",
+      "english": "who, which, that",
+      "danish": "som",
+      "cefr": "A1",
+      "ipa": "[sʌm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80a5590b-b8b3-41fc-86ce-5f02ec627a5f",
+      "part-of-speech": "conjunction",
+      "english": "so",
+      "danish": "så",
+      "cefr": "A1",
+      "ipa": "[sʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "470fd06a-38bf-41fb-be71-40fe53147d75",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "danish": "mens",
+      "cefr": "A2",
+      "ipa": "[mɛns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95584e55-157c-44c4-a88d-5f04e8aa5dfb",
+      "part-of-speech": "conjunction",
+      "english": "when (in the past)",
+      "danish": "da",
+      "cefr": "A2",
+      "ipa": "[da]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25f48026-6462-4565-82ca-6e5c95d6df2d",
+      "part-of-speech": "conjunction",
+      "english": "when; whenever",
+      "danish": "når",
+      "cefr": "A2",
+      "ipa": "[nʌ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9469271a-0bf8-46a7-b584-be57d6f16935",
+      "part-of-speech": "conjunction",
+      "english": "even though, although",
+      "danish": "selvom",
+      "cefr": "A2",
+      "ipa": "[sɛlˈʌm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f871e32f-642c-480f-969a-001fface8e91",
+      "part-of-speech": "conjunction",
+      "english": "than",
+      "danish": "end",
+      "cefr": "A2",
+      "ipa": "[ɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41abc3b4-92a2-4c79-ae98-b19b738094be",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "danish": "ja",
+      "cefr": "A1",
+      "ipa": "[ˈjæ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "778351ea-40f0-4809-a7ec-943a9dbd829a",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "danish": "nej",
+      "cefr": "A1",
+      "ipa": "[ˈnɑjˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6fb5522-5856-46f3-8358-6c3192a1917c",
+      "part-of-speech": "interjection",
+      "english": "hi, hello",
+      "danish": "hej",
+      "cefr": "A1",
+      "ipa": "[ˈhɑj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd0f1fe9-6496-492c-a0d7-3ca2a95529fb",
+      "part-of-speech": "interjection",
+      "english": "good day, hello",
+      "danish": "goddag",
+      "cefr": "A1",
+      "ipa": "[ɡoˈdæˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5915d786-2aea-4733-a3cf-2f04dbd3c4b3",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "danish": "godmorgen",
+      "cefr": "A1",
+      "ipa": "[ɡoˈmɒːɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12583314-2de9-4bab-bd55-d905f4c74039",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "danish": "godaften",
+      "cefr": "A1",
+      "ipa": "[ɡoˈɑfdən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7892718e-bc40-423b-965a-70846125983d",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "danish": "godnat",
+      "cefr": "A1",
+      "ipa": "[ɡoˈnat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84e328dd-5bee-47b9-9f58-c79b7d4d709b",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "danish": "farvel",
+      "cefr": "A1",
+      "ipa": "[fɑˈvɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e688f78-3cf7-445c-8beb-b79d16a4f617",
+      "part-of-speech": "interjection",
+      "english": "bye",
+      "danish": "hej hej",
+      "cefr": "A1",
+      "ipa": "[hɑj ˈhɑj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88c73b5d-c431-4a94-af9b-0fafcac3de7b",
+      "part-of-speech": "interjection",
+      "english": "see you",
+      "danish": "vi ses",
+      "cefr": "A1",
+      "ipa": "[vi ˈseˀs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "573b7798-e63d-421a-acb3-5f31ec9031aa",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "danish": "tak",
+      "cefr": "A1",
+      "ipa": "[ˈtˢaɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f86d6c64-eafd-49f9-bda2-04b7f083d86c",
+      "part-of-speech": "interjection",
+      "english": "thank you very much",
+      "danish": "tusind tak",
+      "cefr": "A1",
+      "ipa": "[ˈtˢuːsən ˈtˢaɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef24fa4f-e60b-44dd-bf75-56e2566606ff",
+      "part-of-speech": "interjection",
+      "english": "you're welcome; thank you too",
+      "danish": "selv tak",
+      "cefr": "A1",
+      "ipa": "[ˈsɛl ˈtˢaɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5fc88d8-af28-486a-9c99-4c710606b21d",
+      "part-of-speech": "interjection",
+      "english": "here you are; help yourself",
+      "danish": "værsgo",
+      "cefr": "A1",
+      "ipa": "[ˈvæɐ̯sɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55d855cd-aa04-43d5-b85a-acfcd25c43a7",
+      "part-of-speech": "interjection",
+      "english": "enjoy your meal; you're welcome (after a meal)",
+      "danish": "velbekomme",
+      "cefr": "A2",
+      "ipa": "[ˈvɛlbeˌkʰʌmˀə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a88108f8-01c4-4965-9ea9-a91abe2b67a4",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "danish": "undskyld",
+      "cefr": "A1",
+      "ipa": "[ˈɔnˌsɡylˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e374a765-aeda-4906-b72e-7ad0043277b1",
+      "part-of-speech": "interjection",
+      "english": "okay",
+      "danish": "okay",
+      "cefr": "A1",
+      "ipa": "[oˈkʰɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09e9a8d7-60ac-4408-9111-9533147af626",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "danish": "hvordan går det",
+      "cefr": "A1",
+      "ipa": "[vʌˈdan ˈɡɔˀ de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "556cf8f6-7e87-44dd-bf4c-990dec4f99b5",
+      "part-of-speech": "interjection",
+      "english": "cheers",
+      "danish": "skål",
+      "cefr": "A2",
+      "ipa": "[ˈsɡɔˀl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fdb4ce01-4964-438b-9288-ce4ac7c5f186",
+      "part-of-speech": "interjection",
+      "english": "congratulations; happy birthday",
+      "danish": "tillykke",
+      "cefr": "A2",
+      "ipa": "[tˢeˈløɡə]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

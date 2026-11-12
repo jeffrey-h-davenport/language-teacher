@@ -1,0 +1,6359 @@
+{
+  "meta": {
+    "language": "Polish",
+    "languageCode": "pl",
+    "nativeLanguage": "English",
+    "targetField": "polish",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "be921591-1ca9-4aff-9c87-0d51eaa42293",
+      "part-of-speech": "noun",
+      "english": "person",
+      "polish": "człowiek",
+      "gender": "masculine",
+      "plural": "ludzie",
+      "cefr": "A1",
+      "ipa": "[ˈtʂwɔvʲɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "606d7e50-cb90-475a-8747-c0c55c584fb8",
+      "part-of-speech": "noun",
+      "english": "man",
+      "polish": "mężczyzna",
+      "gender": "masculine",
+      "plural": "mężczyźni",
+      "cefr": "A1",
+      "ipa": "[mɛ̃ˈʂtʂɨzna]",
+      "context": "masculine despite the -a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8b1c891-b70c-472d-b0a4-d265645c9546",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "polish": "kobieta",
+      "gender": "feminine",
+      "plural": "kobiety",
+      "cefr": "A1",
+      "ipa": "[kɔˈbʲɛta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6e71c0e-1409-4c2c-8558-cc7dcb601518",
+      "part-of-speech": "noun",
+      "english": "child",
+      "polish": "dziecko",
+      "gender": "neuter",
+      "plural": "dzieci",
+      "cefr": "A1",
+      "ipa": "[ˈdʑɛtskɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0753989-bca1-4f87-ac59-d4a923c826e2",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "polish": "chłopiec",
+      "gender": "masculine",
+      "plural": "chłopcy",
+      "cefr": "A1",
+      "ipa": "[ˈxwɔpʲɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d890de77-48ea-48e4-a2ff-f84521014aee",
+      "part-of-speech": "noun",
+      "english": "girl; girlfriend",
+      "polish": "dziewczyna",
+      "gender": "feminine",
+      "plural": "dziewczyny",
+      "cefr": "A1",
+      "ipa": "[dʑɛˈftʂɨna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "894792f6-3968-4cc0-8eec-166f84e9dab0",
+      "part-of-speech": "noun",
+      "english": "mum, mother",
+      "polish": "mama",
+      "gender": "feminine",
+      "plural": "mamy",
+      "cefr": "A1",
+      "ipa": "[ˈmama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33e2e017-d87d-4ae5-bcae-5031a7b481ce",
+      "part-of-speech": "noun",
+      "english": "dad, father",
+      "polish": "tata",
+      "gender": "masculine",
+      "plural": "tatowie",
+      "cefr": "A1",
+      "ipa": "[ˈtata]",
+      "context": "masculine despite the -a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f29f684c-3b2a-4ba5-8573-ec9c69a3a3e6",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "polish": "matka",
+      "gender": "feminine",
+      "plural": "matki",
+      "cefr": "A2",
+      "ipa": "[ˈmatka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7435843-0da6-4768-a0c4-a23af1fe0786",
+      "part-of-speech": "noun",
+      "english": "father",
+      "polish": "ojciec",
+      "gender": "masculine",
+      "plural": "ojcowie",
+      "cefr": "A1",
+      "ipa": "[ˈɔjtɕɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34fdb82c-81bc-403d-a1e9-009168a0e68f",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "polish": "rodzice",
+      "gender": "masculine",
+      "plural": "rodzice",
+      "cefr": "A1",
+      "ipa": "[rɔˈdʑitsɛ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3a74101-2a2d-4c66-afb4-3109a2b92f03",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "polish": "brat",
+      "gender": "masculine",
+      "plural": "bracia",
+      "cefr": "A1",
+      "ipa": "[brat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48e8722c-7928-4797-8bcb-9e7b9efff946",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "polish": "siostra",
+      "gender": "feminine",
+      "plural": "siostry",
+      "cefr": "A1",
+      "ipa": "[ˈɕɔstra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8471aca0-b3ea-4b36-afb9-447b899834ce",
+      "part-of-speech": "noun",
+      "english": "son",
+      "polish": "syn",
+      "gender": "masculine",
+      "plural": "synowie",
+      "cefr": "A1",
+      "ipa": "[sɨn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4f0427b-2663-4392-a6ad-3707438dadff",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "polish": "córka",
+      "gender": "feminine",
+      "plural": "córki",
+      "cefr": "A1",
+      "ipa": "[ˈtsurka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67cd8894-ecb3-4050-ab94-99b111f01169",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "polish": "dziadek",
+      "gender": "masculine",
+      "plural": "dziadkowie",
+      "cefr": "A1",
+      "ipa": "[ˈdʑadɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23656691-f20b-431f-b43d-4a3ac6c0fd67",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "polish": "babcia",
+      "gender": "feminine",
+      "plural": "babcie",
+      "cefr": "A1",
+      "ipa": "[ˈbaptɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8475913-26fa-4fee-af44-beb8c2ecd447",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "polish": "wujek",
+      "gender": "masculine",
+      "plural": "wujkowie",
+      "cefr": "A2",
+      "ipa": "[ˈvujɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "277dadfb-4b1d-452c-85bc-c43baa18dd6a",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "polish": "ciocia",
+      "gender": "feminine",
+      "plural": "ciocie",
+      "cefr": "A2",
+      "ipa": "[ˈtɕɔtɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e6c7848-d819-4c71-be06-305a5532e0af",
+      "part-of-speech": "noun",
+      "english": "family",
+      "polish": "rodzina",
+      "gender": "feminine",
+      "plural": "rodziny",
+      "cefr": "A1",
+      "ipa": "[rɔˈdʑina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fe32e87-457b-4633-b868-16759104d8e8",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "polish": "mąż",
+      "gender": "masculine",
+      "plural": "mężowie",
+      "cefr": "A1",
+      "ipa": "[mɔ̃ʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ab2b2f9-96a5-4bf2-b710-f163bce0feb3",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "polish": "żona",
+      "gender": "feminine",
+      "plural": "żony",
+      "cefr": "A1",
+      "ipa": "[ˈʐɔna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e21beac3-ed56-4303-bcbc-c3225b2551c4",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "polish": "przyjaciel",
+      "gender": "masculine",
+      "plural": "przyjaciele",
+      "cefr": "A1",
+      "ipa": "[pʂɨˈjatɕɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b46b6a4-27c4-4be0-a8fa-de7905cabb86",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "polish": "przyjaciółka",
+      "gender": "feminine",
+      "plural": "przyjaciółki",
+      "cefr": "A1",
+      "ipa": "[pʂɨjaˈtɕuwka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d2ae3c5-c0fb-4e3d-9a4b-357d4c5748d2",
+      "part-of-speech": "noun",
+      "english": "friend, mate; colleague",
+      "polish": "kolega",
+      "gender": "masculine",
+      "plural": "koledzy",
+      "cefr": "A1",
+      "ipa": "[kɔˈlɛɡa]",
+      "context": "masculine despite the -a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b3bc54b-7179-488c-b63a-a361679ff9c3",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "polish": "sąsiad",
+      "gender": "masculine",
+      "plural": "sąsiedzi",
+      "cefr": "A2",
+      "ipa": "[ˈsɔ̃ɕat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd589ab0-3900-4384-bb20-cf8ac82d3caa",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "polish": "nauczyciel",
+      "gender": "masculine",
+      "plural": "nauczyciele",
+      "cefr": "A1",
+      "ipa": "[nauˈtʂɨtɕɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4aad4c8b-3810-42e7-a799-19c8bfbf215d",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "polish": "nauczycielka",
+      "gender": "feminine",
+      "plural": "nauczycielki",
+      "cefr": "A1",
+      "ipa": "[nautʂɨˈtɕɛlka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e58b72a-d334-4430-8b61-5c7b2306756f",
+      "part-of-speech": "noun",
+      "english": "student",
+      "polish": "student",
+      "gender": "masculine",
+      "plural": "studenci",
+      "cefr": "A1",
+      "ipa": "[ˈstudɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb4d4047-ef68-4a6e-96ee-5aac456feedc",
+      "part-of-speech": "noun",
+      "english": "student (female)",
+      "polish": "studentka",
+      "gender": "feminine",
+      "plural": "studentki",
+      "cefr": "A1",
+      "ipa": "[stuˈdɛntka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9bf7fe6-0cb8-45c9-a543-8c3b88aeac82",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "polish": "lekarz",
+      "gender": "masculine",
+      "plural": "lekarze",
+      "cefr": "A1",
+      "ipa": "[ˈlɛkaʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "458bc609-6641-497f-9bc3-a9869c9fa528",
+      "part-of-speech": "noun",
+      "english": "(first) name",
+      "polish": "imię",
+      "gender": "neuter",
+      "plural": "imiona",
+      "cefr": "A1",
+      "ipa": "[ˈimʲɛ]",
+      "context": "mam na imię …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f9b5a07-547a-45ce-828f-ba7156edbf04",
+      "part-of-speech": "noun",
+      "english": "surname",
+      "polish": "nazwisko",
+      "gender": "neuter",
+      "plural": "nazwiska",
+      "cefr": "A1",
+      "ipa": "[naˈzvʲiskɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c18b75d-508e-4c0f-9987-4510f023fd1b",
+      "part-of-speech": "noun",
+      "english": "age; century",
+      "polish": "wiek",
+      "gender": "masculine",
+      "plural": "wieki",
+      "cefr": "A2",
+      "ipa": "[vʲɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ea9aa78-511f-4844-b49a-f09a4a0982f2",
+      "part-of-speech": "noun",
+      "english": "time",
+      "polish": "czas",
+      "gender": "masculine",
+      "plural": "czasy",
+      "cefr": "A1",
+      "ipa": "[tʂas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fff83f3b-3bbc-44c0-9cd7-bc0c919117e6",
+      "part-of-speech": "noun",
+      "english": "day",
+      "polish": "dzień",
+      "gender": "masculine",
+      "plural": "dni",
+      "cefr": "A1",
+      "ipa": "[dʑɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83a1d0d4-967f-497c-923a-dee7789af2f9",
+      "part-of-speech": "noun",
+      "english": "week",
+      "polish": "tydzień",
+      "gender": "masculine",
+      "plural": "tygodnie",
+      "cefr": "A1",
+      "ipa": "[ˈtɨdʑɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "856883be-0f7b-4a41-8a42-8a78b19fd451",
+      "part-of-speech": "noun",
+      "english": "month",
+      "polish": "miesiąc",
+      "gender": "masculine",
+      "plural": "miesiące",
+      "cefr": "A1",
+      "ipa": "[ˈmʲɛɕɔnts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de879d93-70f2-47a0-af02-cf50e6fd88c3",
+      "part-of-speech": "noun",
+      "english": "year",
+      "polish": "rok",
+      "gender": "masculine",
+      "plural": "lata",
+      "cefr": "A1",
+      "ipa": "[rɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09cf133c-10f3-4b35-a96f-984bdc163ea0",
+      "part-of-speech": "noun",
+      "english": "hour; o'clock",
+      "polish": "godzina",
+      "gender": "feminine",
+      "plural": "godziny",
+      "cefr": "A1",
+      "ipa": "[ɡɔˈdʑina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9903264f-c1e6-4756-8d3c-079288fc062c",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "polish": "minuta",
+      "gender": "feminine",
+      "plural": "minuty",
+      "cefr": "A1",
+      "ipa": "[mʲiˈnuta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a3f2532-093c-4ca6-9838-7035d4036f8f",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "polish": "ranek",
+      "gender": "masculine",
+      "plural": "ranki",
+      "cefr": "A2",
+      "ipa": "[ˈranɛk]",
+      "context": "in the morning: rano",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a00484ef-cfeb-4760-bbed-6d9557abe7c1",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "polish": "popołudnie",
+      "gender": "neuter",
+      "plural": "popołudnia",
+      "cefr": "A1",
+      "ipa": "[pɔpɔˈwudɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f306a5d4-d19b-4093-a7b1-63b11d14ab1a",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "polish": "wieczór",
+      "gender": "masculine",
+      "plural": "wieczory",
+      "cefr": "A1",
+      "ipa": "[ˈvʲɛtʂur]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "708a4c68-5a3c-47c4-9e8e-625700071918",
+      "part-of-speech": "noun",
+      "english": "night",
+      "polish": "noc",
+      "gender": "feminine",
+      "plural": "noce",
+      "cefr": "A1",
+      "ipa": "[nɔts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5cc3fbc-c222-468b-ab6a-e18230599fae",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "polish": "weekend",
+      "gender": "masculine",
+      "plural": "weekendy",
+      "cefr": "A1",
+      "ipa": "[vɛˈɛkɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86244137-4cd6-40b1-90fe-3209e2e2afcb",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "polish": "poniedziałek",
+      "gender": "masculine",
+      "plural": "poniedziałki",
+      "cefr": "A1",
+      "ipa": "[pɔɲɛˈdʑawɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97b12a3d-6b8a-4dd4-9fc5-e39405e8cb4c",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "polish": "wtorek",
+      "gender": "masculine",
+      "plural": "wtorki",
+      "cefr": "A1",
+      "ipa": "[ˈftɔrɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27907d34-1830-43cd-97ca-248de5d73d0f",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "polish": "środa",
+      "gender": "feminine",
+      "plural": "środy",
+      "cefr": "A1",
+      "ipa": "[ˈɕrɔda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7bfcb62-a137-4e7e-85a9-2f53a6699ddd",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "polish": "czwartek",
+      "gender": "masculine",
+      "plural": "czwartki",
+      "cefr": "A1",
+      "ipa": "[ˈtʂfartɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7644e853-dd7d-41df-894e-7b3827dd8ac1",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "polish": "piątek",
+      "gender": "masculine",
+      "plural": "piątki",
+      "cefr": "A1",
+      "ipa": "[ˈpʲɔntɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d84743f-fb66-4c9c-80ae-ccbc5b785b6d",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "polish": "sobota",
+      "gender": "feminine",
+      "plural": "soboty",
+      "cefr": "A1",
+      "ipa": "[sɔˈbɔta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eb9bcb4-1d40-4fc4-b1ae-978fc93de1b8",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "polish": "niedziela",
+      "gender": "feminine",
+      "plural": "niedziele",
+      "cefr": "A1",
+      "ipa": "[ɲɛˈdʑɛla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb966f07-cca7-4a9a-ab61-349ad3e92939",
+      "part-of-speech": "noun",
+      "english": "January",
+      "polish": "styczeń",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈstɨtʂɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f49453aa-9dad-49c6-8662-ce4b5cbdbf0d",
+      "part-of-speech": "noun",
+      "english": "February",
+      "polish": "luty",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈlutɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0633c114-2f96-403a-bda8-a9e23a91b050",
+      "part-of-speech": "noun",
+      "english": "March",
+      "polish": "marzec",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈmaʐɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2ee0e78-6ec1-44e1-b4af-af0f999646ac",
+      "part-of-speech": "noun",
+      "english": "April",
+      "polish": "kwiecień",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkfʲɛtɕɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a169171b-29db-420d-ae97-84df2e8518ea",
+      "part-of-speech": "noun",
+      "english": "May",
+      "polish": "maj",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[maj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78ad57be-688a-4eea-8ac8-5ea52724ba16",
+      "part-of-speech": "noun",
+      "english": "June",
+      "polish": "czerwiec",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtʂɛrvʲɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4627652-8201-4ac0-8c55-821015fe0a8a",
+      "part-of-speech": "noun",
+      "english": "July",
+      "polish": "lipiec",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈlipʲɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32bd48fd-8e25-4d03-a7b6-9dd30e1dd26b",
+      "part-of-speech": "noun",
+      "english": "August",
+      "polish": "sierpień",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɕɛrpʲɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a121066-7794-4d87-98f1-96a88c4dca6f",
+      "part-of-speech": "noun",
+      "english": "September",
+      "polish": "wrzesień",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈvʐɛɕɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1618a9a-e2d9-4e3b-a0ff-201ea4a6eaae",
+      "part-of-speech": "noun",
+      "english": "October",
+      "polish": "październik",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[paˈʑdʑɛrɲik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13583dfd-36d7-46c8-9c6b-21fb5db107b5",
+      "part-of-speech": "noun",
+      "english": "November",
+      "polish": "listopad",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[liˈstɔpat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "659e0c4a-79ce-4691-80a0-0826779e78cc",
+      "part-of-speech": "noun",
+      "english": "December",
+      "polish": "grudzień",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɡrudʑɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "955c14b1-9905-42f9-9882-6f3eb34cdff9",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "polish": "wiosna",
+      "gender": "feminine",
+      "plural": "wiosny",
+      "cefr": "A2",
+      "ipa": "[ˈvʲɔsna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14b7d5e9-f2f0-42ca-b252-588b4dc2bfc3",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "polish": "lato",
+      "gender": "neuter",
+      "plural": "lata",
+      "cefr": "A2",
+      "ipa": "[ˈlatɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb03036c-a00b-4598-8568-0b205bedd97f",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "polish": "jesień",
+      "gender": "feminine",
+      "plural": "jesienie",
+      "cefr": "A2",
+      "ipa": "[ˈjɛɕɛɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0ade9ab-879f-4d8d-9a3c-5a2c34325bdb",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "polish": "zima",
+      "gender": "feminine",
+      "plural": "zimy",
+      "cefr": "A2",
+      "ipa": "[ˈʑima]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ed0f10e-faa6-4207-9289-751a42cbafef",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "polish": "urodziny",
+      "gender": "feminine",
+      "plural": "urodziny",
+      "cefr": "A1",
+      "ipa": "[urɔˈdʑinɨ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcf17312-fa6a-4251-8b82-ee91ea1fb90d",
+      "part-of-speech": "noun",
+      "english": "holidays, vacation",
+      "polish": "wakacje",
+      "gender": "feminine",
+      "plural": "wakacje",
+      "cefr": "A1",
+      "ipa": "[vaˈkatsjɛ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b69e47d5-0fbf-42e8-9b14-66cdb13a0cc1",
+      "part-of-speech": "noun",
+      "english": "holiday, festival",
+      "polish": "święto",
+      "gender": "neuter",
+      "plural": "święta",
+      "cefr": "A2",
+      "ipa": "[ˈɕfʲɛntɔ]",
+      "context": "Święta: Christmas or Easter",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb603e3f-7f4e-45be-b2c9-d28495eb42b5",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "polish": "prezent",
+      "gender": "masculine",
+      "plural": "prezenty",
+      "cefr": "A2",
+      "ipa": "[ˈprɛzɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b28f4e74-2690-4696-bd8f-39ebc6dbf9ef",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "polish": "dom",
+      "gender": "masculine",
+      "plural": "domy",
+      "cefr": "A1",
+      "ipa": "[dɔm]",
+      "context": "w domu: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6130db5-14b6-49db-bbdc-84d190f76e02",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "polish": "mieszkanie",
+      "gender": "neuter",
+      "plural": "mieszkania",
+      "cefr": "A1",
+      "ipa": "[mʲɛˈʂkaɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcaaf069-ab71-49d2-9c68-c24aa8c1d454",
+      "part-of-speech": "noun",
+      "english": "room; peace",
+      "polish": "pokój",
+      "gender": "masculine",
+      "plural": "pokoje",
+      "cefr": "A1",
+      "ipa": "[ˈpɔkuj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0e260bb-c518-46b7-b6db-bc80bd0baedc",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "polish": "sypialnia",
+      "gender": "feminine",
+      "plural": "sypialnie",
+      "cefr": "A1",
+      "ipa": "[sɨˈpʲalɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fc98525-309c-41e6-b2bd-8844084ce226",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "polish": "kuchnia",
+      "gender": "feminine",
+      "plural": "kuchnie",
+      "cefr": "A1",
+      "ipa": "[ˈkuxɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b7c5202-13b4-48ed-9b0d-d96437b4654b",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "polish": "łazienka",
+      "gender": "feminine",
+      "plural": "łazienki",
+      "cefr": "A1",
+      "ipa": "[waˈʑɛŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e54743e-e16c-4c3c-b069-050d7f3d0687",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "polish": "toaleta",
+      "gender": "feminine",
+      "plural": "toalety",
+      "cefr": "A1",
+      "ipa": "[tɔaˈlɛta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8d012b6-bfb6-4fc3-ba7b-63eb82bee5a1",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "polish": "ogród",
+      "gender": "masculine",
+      "plural": "ogrody",
+      "cefr": "A1",
+      "ipa": "[ˈɔɡrut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccd27af5-a160-4231-83ed-ddca7be63280",
+      "part-of-speech": "noun",
+      "english": "door",
+      "polish": "drzwi",
+      "gender": "feminine",
+      "plural": "drzwi",
+      "cefr": "A1",
+      "ipa": "[dʐvʲi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98d63464-1dfb-4cff-8ca4-92fb390c62ff",
+      "part-of-speech": "noun",
+      "english": "window",
+      "polish": "okno",
+      "gender": "neuter",
+      "plural": "okna",
+      "cefr": "A1",
+      "ipa": "[ˈɔknɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7b79078-9231-438f-962c-b25722ec1386",
+      "part-of-speech": "noun",
+      "english": "table",
+      "polish": "stół",
+      "gender": "masculine",
+      "plural": "stoły",
+      "cefr": "A1",
+      "ipa": "[stuw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbfaa468-e89a-4c07-bb76-07d86739ec6a",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "polish": "krzesło",
+      "gender": "neuter",
+      "plural": "krzesła",
+      "cefr": "A1",
+      "ipa": "[ˈkʂɛswɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd0673a2-a6ae-458c-ac14-e584f6be0a41",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "polish": "łóżko",
+      "gender": "neuter",
+      "plural": "łóżka",
+      "cefr": "A1",
+      "ipa": "[ˈwuʂkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce7c92cf-f362-4594-ab76-7ec495aecb8f",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "polish": "kanapa",
+      "gender": "feminine",
+      "plural": "kanapy",
+      "cefr": "A1",
+      "ipa": "[kaˈnapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d3d4584-776b-4c50-acec-7d04c695b6b1",
+      "part-of-speech": "noun",
+      "english": "key",
+      "polish": "klucz",
+      "gender": "masculine",
+      "plural": "klucze",
+      "cefr": "A1",
+      "ipa": "[klutʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "208ee890-3882-4c29-b24d-fc804d446378",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "polish": "lodówka",
+      "gender": "feminine",
+      "plural": "lodówki",
+      "cefr": "A2",
+      "ipa": "[lɔˈdufka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67400695-dc0f-4342-9d21-b9801e8f8541",
+      "part-of-speech": "noun",
+      "english": "television (set)",
+      "polish": "telewizor",
+      "gender": "masculine",
+      "plural": "telewizory",
+      "cefr": "A1",
+      "ipa": "[tɛlɛˈvʲizɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7e91d8e-4e16-478e-9cce-bcd302a8d752",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "polish": "telefon",
+      "gender": "masculine",
+      "plural": "telefony",
+      "cefr": "A1",
+      "ipa": "[tɛˈlɛfɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7a39183-6c81-466b-b02e-438b0222139e",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "polish": "komputer",
+      "gender": "masculine",
+      "plural": "komputery",
+      "cefr": "A1",
+      "ipa": "[kɔmˈputɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f49a54a-c539-4b56-838d-59abf2b43cfd",
+      "part-of-speech": "noun",
+      "english": "food",
+      "polish": "jedzenie",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[jɛˈdzɛɲɛ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45ffc48f-af41-489e-9ef2-3d71294afcf5",
+      "part-of-speech": "noun",
+      "english": "water",
+      "polish": "woda",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈvɔda]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abd3e500-22a9-4a8a-841d-45f1bb0c6193",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "polish": "chleb",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[xlɛp]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbe21417-28a2-4794-8d10-de90361a2315",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "polish": "kawa",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈkava]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a4d6d72-c887-4b58-ac18-a139f5f02b49",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "polish": "herbata",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[xɛrˈbata]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ca2166f-6bcf-47a7-941b-293b31da8c06",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "polish": "mleko",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmlɛkɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61f1dfb3-552a-4dd6-b50b-514568d85844",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "polish": "sok",
+      "gender": "masculine",
+      "plural": "soki",
+      "cefr": "A1",
+      "ipa": "[sɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cfa1cff-ac8d-4d37-991e-64d11dade3ba",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "polish": "piwo",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈpʲivɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aab110aa-abe2-457f-97e7-c8bc448d8d00",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "polish": "wino",
+      "gender": "neuter",
+      "plural": "wina",
+      "cefr": "A1",
+      "ipa": "[ˈvʲinɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "773923b8-9d2b-4377-ae7a-557b0297ba26",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "polish": "mięso",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmʲɛ̃sɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25d4a4dd-5961-4c73-92d8-c40de00edbe9",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "polish": "kurczak",
+      "gender": "masculine",
+      "plural": "kurczaki",
+      "cefr": "A1",
+      "ipa": "[ˈkurtʂak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a329d341-1bfa-4904-9577-563bb1811a5b",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "polish": "ryba",
+      "gender": "feminine",
+      "plural": "ryby",
+      "cefr": "A1",
+      "ipa": "[ˈrɨba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3c17036-1af8-4500-b54f-dde00ac395ca",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "polish": "ser",
+      "gender": "masculine",
+      "plural": "sery",
+      "cefr": "A1",
+      "ipa": "[sɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8469aa2b-242f-4ba2-b6a3-6839184c29a6",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "polish": "jajko",
+      "gender": "neuter",
+      "plural": "jajka",
+      "cefr": "A1",
+      "ipa": "[ˈjajkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c81d5dd-3167-4b99-be78-7a7f30b72767",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "polish": "warzywo",
+      "gender": "neuter",
+      "plural": "warzywa",
+      "cefr": "A1",
+      "ipa": "[vaˈʐɨvɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a02edeb8-c05f-497c-b3a6-b532a247b98c",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "polish": "owoc",
+      "gender": "masculine",
+      "plural": "owoce",
+      "cefr": "A1",
+      "ipa": "[ˈɔvɔts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d13d0a19-7185-4c70-bcb1-3067ab34a750",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "polish": "jabłko",
+      "gender": "neuter",
+      "plural": "jabłka",
+      "cefr": "A1",
+      "ipa": "[ˈjapkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "967d9814-ee64-4ad8-acac-71690933e679",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "polish": "banan",
+      "gender": "masculine",
+      "plural": "banany",
+      "cefr": "A1",
+      "ipa": "[ˈbanan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "277e7c9e-617e-4541-a9be-238ce1cf5030",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "polish": "pomarańcza",
+      "gender": "feminine",
+      "plural": "pomarańcze",
+      "cefr": "A1",
+      "ipa": "[pɔmaˈraɲtʂa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cb2d163-f57d-45f6-ace1-8c5ca64e5461",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "polish": "ziemniak",
+      "gender": "masculine",
+      "plural": "ziemniaki",
+      "cefr": "A1",
+      "ipa": "[ˈʑɛmɲak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a14e4fb2-f529-4e97-9910-6daf004f7edb",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "polish": "ryż",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[rɨʂ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b08ca90-eee4-4f2b-9fe4-df496749e1f7",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "polish": "zupa",
+      "gender": "feminine",
+      "plural": "zupy",
+      "cefr": "A1",
+      "ipa": "[ˈzupa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11a13a8d-b987-4e2a-91a5-c8cfd9631361",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "polish": "cukier",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtsukʲɛr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea695ff3-e614-49fb-847e-9092b80d9912",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "polish": "sól",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[sul]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a47cf4d9-ca8b-40ad-b74a-0236783b9979",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "polish": "masło",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmaswɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c79a4f2b-3c9d-49c6-b905-6cd3dd92225f",
+      "part-of-speech": "noun",
+      "english": "cake; dough",
+      "polish": "ciasto",
+      "gender": "neuter",
+      "plural": "ciasta",
+      "cefr": "A2",
+      "ipa": "[ˈtɕastɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c037e024-bf1b-4a16-9594-c960b5315cf0",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "polish": "śniadanie",
+      "gender": "neuter",
+      "plural": "śniadania",
+      "cefr": "A1",
+      "ipa": "[ɕɲaˈdaɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cb54925-949e-4dec-9744-11aef2d0114f",
+      "part-of-speech": "noun",
+      "english": "lunch, main meal",
+      "polish": "obiad",
+      "gender": "masculine",
+      "plural": "obiady",
+      "cefr": "A1",
+      "ipa": "[ˈɔbʲat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16bad8b4-c81b-4b64-807a-2e8cf9d8c775",
+      "part-of-speech": "noun",
+      "english": "dinner, supper",
+      "polish": "kolacja",
+      "gender": "feminine",
+      "plural": "kolacje",
+      "cefr": "A1",
+      "ipa": "[kɔˈlatsja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5277a12c-16c2-4f8e-bfd9-906715423460",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "polish": "restauracja",
+      "gender": "feminine",
+      "plural": "restauracje",
+      "cefr": "A1",
+      "ipa": "[rɛstauˈratsja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3ef59b6-539c-4200-bdf4-831327cbbe0b",
+      "part-of-speech": "noun",
+      "english": "café",
+      "polish": "kawiarnia",
+      "gender": "feminine",
+      "plural": "kawiarnie",
+      "cefr": "A1",
+      "ipa": "[kaˈvʲarɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a44580c-46d1-4d0d-b7a7-b2a55e2aaba3",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "polish": "szklanka",
+      "gender": "feminine",
+      "plural": "szklanki",
+      "cefr": "A1",
+      "ipa": "[ˈʂklaŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c23dda6c-f552-4fce-9efa-bb7313e59a09",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "polish": "filiżanka",
+      "gender": "feminine",
+      "plural": "filiżanki",
+      "cefr": "A1",
+      "ipa": "[fʲiliˈʐaŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b661fb5d-db00-4846-8fdc-253aeacf1423",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "polish": "butelka",
+      "gender": "feminine",
+      "plural": "butelki",
+      "cefr": "A1",
+      "ipa": "[buˈtɛlka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d6bfdf9-a513-4ed3-be3a-2b7bba16bb86",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "polish": "talerz",
+      "gender": "masculine",
+      "plural": "talerze",
+      "cefr": "A2",
+      "ipa": "[ˈtalɛʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb5871e3-7101-4874-8db1-e75c81560f74",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "polish": "nóż",
+      "gender": "masculine",
+      "plural": "noże",
+      "cefr": "A2",
+      "ipa": "[nuʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8940021-f78a-42d6-8c1b-c2e667cbafb3",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "polish": "widelec",
+      "gender": "masculine",
+      "plural": "widelce",
+      "cefr": "A2",
+      "ipa": "[vʲiˈdɛlɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f7d37ca-97f7-4dcb-896b-42157fec8620",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "polish": "łyżka",
+      "gender": "feminine",
+      "plural": "łyżki",
+      "cefr": "A2",
+      "ipa": "[ˈwɨʂka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60de70c6-09d8-4ea3-ac63-b951c595b314",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "polish": "miasto",
+      "gender": "neuter",
+      "plural": "miasta",
+      "cefr": "A1",
+      "ipa": "[ˈmʲastɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3e46480-1dd4-4579-ab3b-04f173dce860",
+      "part-of-speech": "noun",
+      "english": "village; countryside",
+      "polish": "wieś",
+      "gender": "feminine",
+      "plural": "wsie",
+      "cefr": "A2",
+      "ipa": "[vʲɛɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "706968fa-49ae-475d-acf9-93c439b17f3d",
+      "part-of-speech": "noun",
+      "english": "country",
+      "polish": "kraj",
+      "gender": "masculine",
+      "plural": "kraje",
+      "cefr": "A1",
+      "ipa": "[kraj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f7a9b36-80e6-4b5a-83be-fffda92022dd",
+      "part-of-speech": "noun",
+      "english": "street",
+      "polish": "ulica",
+      "gender": "feminine",
+      "plural": "ulice",
+      "cefr": "A1",
+      "ipa": "[uˈlitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cd07e73-2097-4571-9ca1-f7bbc27c9ac5",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "polish": "droga",
+      "gender": "feminine",
+      "plural": "drogi",
+      "cefr": "A1",
+      "ipa": "[ˈdrɔɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5238bcf-76e8-4159-9bfb-d2e4c183b4dc",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "polish": "sklep",
+      "gender": "masculine",
+      "plural": "sklepy",
+      "cefr": "A1",
+      "ipa": "[sklɛp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd339497-fd9f-47d3-b1c7-68b1331d377f",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "polish": "supermarket",
+      "gender": "masculine",
+      "plural": "supermarkety",
+      "cefr": "A1",
+      "ipa": "[supɛrˈmarkɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "111198ea-53dc-4543-a1ca-e0b937762006",
+      "part-of-speech": "noun",
+      "english": "market square; market",
+      "polish": "rynek",
+      "gender": "masculine",
+      "plural": "rynki",
+      "cefr": "A1",
+      "ipa": "[ˈrɨnɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2063f4e-b97e-4f0c-9e59-afe0d9893935",
+      "part-of-speech": "noun",
+      "english": "school",
+      "polish": "szkoła",
+      "gender": "feminine",
+      "plural": "szkoły",
+      "cefr": "A1",
+      "ipa": "[ˈʂkɔwa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "265db2fa-93a5-4d51-b9ec-23b383c99079",
+      "part-of-speech": "noun",
+      "english": "university",
+      "polish": "uniwersytet",
+      "gender": "masculine",
+      "plural": "uniwersytety",
+      "cefr": "A1",
+      "ipa": "[uɲivɛrˈsɨtɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2679f07-9a16-41c7-b144-f891bf069cf1",
+      "part-of-speech": "noun",
+      "english": "office",
+      "polish": "biuro",
+      "gender": "neuter",
+      "plural": "biura",
+      "cefr": "A2",
+      "ipa": "[ˈbʲurɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29d2edd8-a097-416d-8f70-ccd13ea4e772",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "polish": "szpital",
+      "gender": "masculine",
+      "plural": "szpitale",
+      "cefr": "A1",
+      "ipa": "[ˈʂpʲital]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27ed6b37-2800-4cf5-90ee-4cd57ba3fbf6",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "polish": "apteka",
+      "gender": "feminine",
+      "plural": "apteki",
+      "cefr": "A1",
+      "ipa": "[aˈptɛka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4138fd3-e38a-4bc9-95c2-422d1a29396f",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "polish": "bank",
+      "gender": "masculine",
+      "plural": "banki",
+      "cefr": "A1",
+      "ipa": "[baŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30e37c15-5e93-47a7-b41a-79641953f80b",
+      "part-of-speech": "noun",
+      "english": "church",
+      "polish": "kościół",
+      "gender": "masculine",
+      "plural": "kościoły",
+      "cefr": "A2",
+      "ipa": "[ˈkɔɕtɕuw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d73e803-1d14-4482-979b-47afc3792571",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "polish": "muzeum",
+      "gender": "neuter",
+      "plural": "muzea",
+      "cefr": "A2",
+      "ipa": "[muˈzɛum]",
+      "context": "doesn't change in the singular",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f779b5b-06be-41a1-a005-dc993985b25c",
+      "part-of-speech": "noun",
+      "english": "park",
+      "polish": "park",
+      "gender": "masculine",
+      "plural": "parki",
+      "cefr": "A1",
+      "ipa": "[park]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06acdd1b-12f1-4302-8f3f-2c14e0494b09",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "polish": "kino",
+      "gender": "neuter",
+      "plural": "kina",
+      "cefr": "A1",
+      "ipa": "[ˈkʲinɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9964c2f6-09ec-42b8-8e41-714fd212894f",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "polish": "hotel",
+      "gender": "masculine",
+      "plural": "hotele",
+      "cefr": "A1",
+      "ipa": "[ˈxɔtɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd15d687-80b4-4770-8674-183e502185ce",
+      "part-of-speech": "noun",
+      "english": "library",
+      "polish": "biblioteka",
+      "gender": "feminine",
+      "plural": "biblioteki",
+      "cefr": "A2",
+      "ipa": "[bʲiblʲɔˈtɛka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d5cb210-25b9-4022-9fe7-c55dd0ca893c",
+      "part-of-speech": "noun",
+      "english": "(railway, bus) station",
+      "polish": "dworzec",
+      "gender": "masculine",
+      "plural": "dworce",
+      "cefr": "A1",
+      "ipa": "[ˈdvɔʐɛts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c537d8bc-39b4-4896-8178-2925164653ff",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "polish": "lotnisko",
+      "gender": "neuter",
+      "plural": "lotniska",
+      "cefr": "A1",
+      "ipa": "[lɔˈtɲiskɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25a8a73f-f839-4835-a353-bd7231e050a9",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "polish": "autobus",
+      "gender": "masculine",
+      "plural": "autobusy",
+      "cefr": "A1",
+      "ipa": "[awˈtɔbus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d7f0333-3e16-45a9-8de6-522e93d822d5",
+      "part-of-speech": "noun",
+      "english": "train",
+      "polish": "pociąg",
+      "gender": "masculine",
+      "plural": "pociągi",
+      "cefr": "A1",
+      "ipa": "[ˈpɔtɕɔŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02cc19ad-cc85-4241-9e75-1a58ea59ffd1",
+      "part-of-speech": "noun",
+      "english": "tram",
+      "polish": "tramwaj",
+      "gender": "masculine",
+      "plural": "tramwaje",
+      "cefr": "A2",
+      "ipa": "[ˈtramvaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8121b9e2-913d-4538-ac83-611a6b5fa900",
+      "part-of-speech": "noun",
+      "english": "car",
+      "polish": "samochód",
+      "gender": "masculine",
+      "plural": "samochody",
+      "cefr": "A1",
+      "ipa": "[saˈmɔxut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1c06a3d-4433-432d-91e3-2fd20e561005",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "polish": "rower",
+      "gender": "masculine",
+      "plural": "rowery",
+      "cefr": "A1",
+      "ipa": "[ˈrɔvɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "084106df-f88e-4a09-b11e-3f96df9f3de6",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "polish": "samolot",
+      "gender": "masculine",
+      "plural": "samoloty",
+      "cefr": "A1",
+      "ipa": "[saˈmɔlɔt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c611b89-9eee-4b76-a8c7-98274f99c2db",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "polish": "bilet",
+      "gender": "masculine",
+      "plural": "bilety",
+      "cefr": "A1",
+      "ipa": "[ˈbʲilɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0035dda-8cfb-4980-811c-4eec84ca9ee9",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "polish": "podróż",
+      "gender": "feminine",
+      "plural": "podróże",
+      "cefr": "A2",
+      "ipa": "[ˈpɔdruʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4bc9532-ca15-45b1-a535-ccdd2ab1600a",
+      "part-of-speech": "noun",
+      "english": "map",
+      "polish": "mapa",
+      "gender": "feminine",
+      "plural": "mapy",
+      "cefr": "A2",
+      "ipa": "[ˈmapa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae88b0ad-795c-41b1-b0a6-4012829667f0",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "polish": "morze",
+      "gender": "neuter",
+      "plural": "morza",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʐɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "602521d9-84c3-47fd-a380-56dfd5dce2db",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "polish": "plaża",
+      "gender": "feminine",
+      "plural": "plaże",
+      "cefr": "A1",
+      "ipa": "[ˈplaʐa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81e67b08-aa10-4a65-aae3-549245209edd",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "polish": "góra",
+      "gender": "feminine",
+      "plural": "góry",
+      "cefr": "A1",
+      "ipa": "[ˈɡura]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25ec6abc-eb6f-4828-b1c8-80a04401de1b",
+      "part-of-speech": "noun",
+      "english": "river",
+      "polish": "rzeka",
+      "gender": "feminine",
+      "plural": "rzeki",
+      "cefr": "A1",
+      "ipa": "[ˈʐɛka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bab04fb5-55b4-4f85-8ee0-7561a13d6364",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "polish": "jezioro",
+      "gender": "neuter",
+      "plural": "jeziora",
+      "cefr": "A2",
+      "ipa": "[jɛˈʑɔrɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78cd0d5b-6fb0-4e63-9cea-8efff28f5091",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "polish": "las",
+      "gender": "masculine",
+      "plural": "lasy",
+      "cefr": "A1",
+      "ipa": "[las]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e935f407-7879-43c5-af62-f625a1e0dcd8",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "polish": "drzewo",
+      "gender": "neuter",
+      "plural": "drzewa",
+      "cefr": "A1",
+      "ipa": "[ˈdʐɛvɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50eeddd-0311-436d-b18c-d1c267ff9959",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "polish": "kwiat",
+      "gender": "masculine",
+      "plural": "kwiaty",
+      "cefr": "A1",
+      "ipa": "[kfʲat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4048afee-1524-4766-baef-0affc53bdcea",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "polish": "zwierzę",
+      "gender": "neuter",
+      "plural": "zwierzęta",
+      "cefr": "A1",
+      "ipa": "[ˈzvʲɛʐɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d06b1cd-68a8-4c7e-a348-35847ad1f497",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "polish": "pies",
+      "gender": "masculine",
+      "plural": "psy",
+      "cefr": "A1",
+      "ipa": "[pʲɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "967d15df-d834-4f49-810d-b4ff1bb11017",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "polish": "kot",
+      "gender": "masculine",
+      "plural": "koty",
+      "cefr": "A1",
+      "ipa": "[kɔt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5641f800-c7a1-4fc6-9b77-88dc323d8b77",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "polish": "ptak",
+      "gender": "masculine",
+      "plural": "ptaki",
+      "cefr": "A1",
+      "ipa": "[ptak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97f6dc35-1e8d-42af-a393-1953732436b6",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "polish": "koń",
+      "gender": "masculine",
+      "plural": "konie",
+      "cefr": "A2",
+      "ipa": "[kɔɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f84c04c-d676-4a51-82be-36b2a7ca9cca",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "polish": "pogoda",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[pɔˈɡɔda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d0a845c-6707-4432-b398-031f9848f4da",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "polish": "słońce",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈswɔɲtsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17af0e38-64fd-40cb-a9fa-2ab9f55e8fec",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "polish": "deszcz",
+      "gender": "masculine",
+      "plural": "deszcze",
+      "cefr": "A1",
+      "ipa": "[dɛʂtʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe14851a-6130-44ab-8da0-3b24565ce083",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "polish": "śnieg",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɕɲɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0faecbf-01a1-4860-876a-e12ff1b3b6e9",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "polish": "wiatr",
+      "gender": "masculine",
+      "plural": "wiatry",
+      "cefr": "A2",
+      "ipa": "[vʲatr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4be594af-d06c-41b9-864a-84f1e3098ff4",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "polish": "niebo",
+      "gender": "neuter",
+      "plural": "nieba",
+      "cefr": "A2",
+      "ipa": "[ˈɲɛbɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b475c8e4-f4ba-426b-a109-446edcd5f66c",
+      "part-of-speech": "noun",
+      "english": "world",
+      "polish": "świat",
+      "gender": "masculine",
+      "plural": "światy",
+      "cefr": "A2",
+      "ipa": "[ɕfʲat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "288731aa-fc7f-4f7f-9639-fe8568b9dc8e",
+      "part-of-speech": "noun",
+      "english": "body",
+      "polish": "ciało",
+      "gender": "neuter",
+      "plural": "ciała",
+      "cefr": "A2",
+      "ipa": "[ˈtɕawɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94779910-5f4d-48a8-a9e8-a38990ff2138",
+      "part-of-speech": "noun",
+      "english": "head",
+      "polish": "głowa",
+      "gender": "feminine",
+      "plural": "głowy",
+      "cefr": "A1",
+      "ipa": "[ˈɡwɔva]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea053d4f-27de-4da6-9a33-4996a8e710b1",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "polish": "włosy",
+      "gender": "masculine",
+      "plural": "włosy",
+      "cefr": "A1",
+      "ipa": "[ˈvwɔsɨ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a3b8c13-82c8-4933-95d7-81752a410eae",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "polish": "oko",
+      "gender": "neuter",
+      "plural": "oczy",
+      "cefr": "A1",
+      "ipa": "[ˈɔkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f449ab6-2bbd-40d5-928e-486ef3030a26",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "polish": "ucho",
+      "gender": "neuter",
+      "plural": "uszy",
+      "cefr": "A1",
+      "ipa": "[ˈuxɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "117b9851-78ae-4a54-b1a7-91eaba6818c0",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "polish": "nos",
+      "gender": "masculine",
+      "plural": "nosy",
+      "cefr": "A1",
+      "ipa": "[nɔs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ab6d006-20af-4306-85bf-519addf5c278",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "polish": "usta",
+      "gender": "neuter",
+      "plural": "usta",
+      "cefr": "A1",
+      "ipa": "[ˈusta]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e81a4d4-5211-48c8-8380-d7d568233eac",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "polish": "ząb",
+      "gender": "masculine",
+      "plural": "zęby",
+      "cefr": "A2",
+      "ipa": "[zɔmp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcad9a45-f685-433b-967e-abfc09801514",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "polish": "ręka",
+      "gender": "feminine",
+      "plural": "ręce",
+      "cefr": "A1",
+      "ipa": "[ˈrɛŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88dfce31-690c-4b4b-b96f-8a16dc02190e",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "polish": "noga",
+      "gender": "feminine",
+      "plural": "nogi",
+      "cefr": "A1",
+      "ipa": "[ˈnɔɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1ba51d6-ba13-434b-9c7a-6f3861ac5750",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "polish": "brzuch",
+      "gender": "masculine",
+      "plural": "brzuchy",
+      "cefr": "A2",
+      "ipa": "[bʐux]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f377e8f8-7ff0-4255-afc0-e7bb2c593750",
+      "part-of-speech": "noun",
+      "english": "back",
+      "polish": "plecy",
+      "gender": "masculine",
+      "plural": "plecy",
+      "cefr": "A2",
+      "ipa": "[ˈplɛtsɨ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e764bc0-67d8-42d7-9f50-e7cd04d210ec",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "polish": "serce",
+      "gender": "neuter",
+      "plural": "serca",
+      "cefr": "A2",
+      "ipa": "[ˈsɛrtsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77cf1f5d-7cad-4ef7-b07c-ee811782c45c",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "polish": "lekarstwo",
+      "gender": "neuter",
+      "plural": "lekarstwa",
+      "cefr": "A2",
+      "ipa": "[lɛˈkarstfɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1ccd971-bcbb-4488-9fd7-adfdbcda089c",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "polish": "ubranie",
+      "gender": "neuter",
+      "plural": "ubrania",
+      "cefr": "A1",
+      "ipa": "[uˈbraɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86fa41bb-daec-458f-92c2-667c1dbd561a",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "polish": "spodnie",
+      "gender": "masculine",
+      "plural": "spodnie",
+      "cefr": "A1",
+      "ipa": "[ˈspɔdɲɛ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdfd8bfe-81de-4e9f-b90e-e6af79799dd0",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "polish": "koszula",
+      "gender": "feminine",
+      "plural": "koszule",
+      "cefr": "A1",
+      "ipa": "[kɔˈʂula]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee20a656-6524-4210-8f9e-a3a971ea3ac3",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "polish": "sweter",
+      "gender": "masculine",
+      "plural": "swetry",
+      "cefr": "A2",
+      "ipa": "[ˈsfɛtɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a79068a0-2d24-4946-8b22-69b3e2647791",
+      "part-of-speech": "noun",
+      "english": "jacket",
+      "polish": "kurtka",
+      "gender": "feminine",
+      "plural": "kurtki",
+      "cefr": "A1",
+      "ipa": "[ˈkurtka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c78d1533-6af5-499f-8511-41d1a779f3f3",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "polish": "sukienka",
+      "gender": "feminine",
+      "plural": "sukienki",
+      "cefr": "A1",
+      "ipa": "[suˈkʲɛŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eda55bfc-6d4e-4b59-acbc-3fbdcbe920a9",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "polish": "spódnica",
+      "gender": "feminine",
+      "plural": "spódnice",
+      "cefr": "A2",
+      "ipa": "[spuˈdɲitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "948cfc30-782e-426d-a419-b7f9314cc46d",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "polish": "but",
+      "gender": "masculine",
+      "plural": "buty",
+      "cefr": "A1",
+      "ipa": "[but]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11792539-872d-4b08-a0d0-14b56ee886f5",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "polish": "torba",
+      "gender": "feminine",
+      "plural": "torby",
+      "cefr": "A1",
+      "ipa": "[ˈtɔrba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e15c2db-a676-423a-869b-1d457b09f995",
+      "part-of-speech": "noun",
+      "english": "hat, cap",
+      "polish": "czapka",
+      "gender": "feminine",
+      "plural": "czapki",
+      "cefr": "A2",
+      "ipa": "[ˈtʂapka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ada4f4b-960b-44be-98af-cf4125385fd8",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "polish": "praca",
+      "gender": "feminine",
+      "plural": "prace",
+      "cefr": "A1",
+      "ipa": "[ˈpratsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "253d979e-2838-4007-a3b2-6aa860266d10",
+      "part-of-speech": "noun",
+      "english": "money",
+      "polish": "pieniądze",
+      "gender": "masculine",
+      "plural": "pieniądze",
+      "cefr": "A1",
+      "ipa": "[pʲɛˈɲɔndzɛ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "badabda9-718d-4027-9ac4-828a63ba7322",
+      "part-of-speech": "noun",
+      "english": "zloty (currency)",
+      "polish": "złoty",
+      "gender": "masculine",
+      "plural": "złote",
+      "cefr": "A1",
+      "ipa": "[ˈzwɔtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d589dfd5-e519-4201-8bbb-572aaf5b1c97",
+      "part-of-speech": "noun",
+      "english": "price",
+      "polish": "cena",
+      "gender": "feminine",
+      "plural": "ceny",
+      "cefr": "A1",
+      "ipa": "[ˈtsɛna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "977a5358-7a11-4e4f-9b96-d0d75996acc7",
+      "part-of-speech": "noun",
+      "english": "book",
+      "polish": "książka",
+      "gender": "feminine",
+      "plural": "książki",
+      "cefr": "A1",
+      "ipa": "[ˈkɕɔ̃ʂka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6de7dea0-074f-4340-b2e6-289d95d35062",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "polish": "gazeta",
+      "gender": "feminine",
+      "plural": "gazety",
+      "cefr": "A1",
+      "ipa": "[ɡaˈzɛta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26a24f0e-5ff0-4bb8-809f-6d38054d24a7",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "polish": "list",
+      "gender": "masculine",
+      "plural": "listy",
+      "cefr": "A1",
+      "ipa": "[list]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08dea15a-c7ce-4b15-b5f3-0321af3fbf7e",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "polish": "długopis",
+      "gender": "masculine",
+      "plural": "długopisy",
+      "cefr": "A1",
+      "ipa": "[dwuˈɡɔpʲis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "333ce2f0-9d18-4cdd-88fc-1e2971fd71b8",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "polish": "papier",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpapʲɛr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "161f69d2-af1d-4f08-9f4d-6a8eb9b5a0bb",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "polish": "zdjęcie",
+      "gender": "neuter",
+      "plural": "zdjęcia",
+      "cefr": "A1",
+      "ipa": "[ˈzdjɛɲtɕɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6a404b8-5ead-4514-ad16-f4922eb388e0",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "polish": "film",
+      "gender": "masculine",
+      "plural": "filmy",
+      "cefr": "A1",
+      "ipa": "[fʲilm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79280b9f-6515-4a0d-a27a-d463d41a30b3",
+      "part-of-speech": "noun",
+      "english": "music",
+      "polish": "muzyka",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmuzɨka]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e05c001-c483-4a9b-9196-dd040cae1e3b",
+      "part-of-speech": "noun",
+      "english": "song",
+      "polish": "piosenka",
+      "gender": "feminine",
+      "plural": "piosenki",
+      "cefr": "A1",
+      "ipa": "[pʲɔˈsɛŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42293f6b-b99e-4096-b49b-5a68c1d6f519",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "polish": "sport",
+      "gender": "masculine",
+      "plural": "sporty",
+      "cefr": "A1",
+      "ipa": "[spɔrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11dccf02-5eca-4e7c-95c2-9506840d2eb8",
+      "part-of-speech": "noun",
+      "english": "game",
+      "polish": "gra",
+      "gender": "feminine",
+      "plural": "gry",
+      "cefr": "A2",
+      "ipa": "[ɡra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6d75b8a-4934-495b-b33f-5de73fac7c94",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "polish": "język",
+      "gender": "masculine",
+      "plural": "języki",
+      "cefr": "A1",
+      "ipa": "[ˈjɛ̃zɨk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65e0cca5-81a7-442e-8ce5-0e834915c080",
+      "part-of-speech": "noun",
+      "english": "word",
+      "polish": "słowo",
+      "gender": "neuter",
+      "plural": "słowa",
+      "cefr": "A1",
+      "ipa": "[ˈswɔvɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c867cdc-9422-4016-b554-4587e07ef6d7",
+      "part-of-speech": "noun",
+      "english": "sentence; opinion",
+      "polish": "zdanie",
+      "gender": "neuter",
+      "plural": "zdania",
+      "cefr": "A2",
+      "ipa": "[ˈzdaɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa3d3b67-da5c-4820-949a-0b99776bb25b",
+      "part-of-speech": "noun",
+      "english": "question",
+      "polish": "pytanie",
+      "gender": "neuter",
+      "plural": "pytania",
+      "cefr": "A1",
+      "ipa": "[pɨˈtaɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c63875cc-453c-4ead-a944-b495697ba672",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "polish": "odpowiedź",
+      "gender": "feminine",
+      "plural": "odpowiedzi",
+      "cefr": "A1",
+      "ipa": "[ɔˈtpɔvʲɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6432b670-d746-43f4-8a81-2d319459f105",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "polish": "lekcja",
+      "gender": "feminine",
+      "plural": "lekcje",
+      "cefr": "A1",
+      "ipa": "[ˈlɛktsja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0499f953-8981-4c50-9b40-b38543906bd5",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "polish": "kolor",
+      "gender": "masculine",
+      "plural": "kolory",
+      "cefr": "A1",
+      "ipa": "[ˈkɔlɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09ebb2db-3c3e-4756-9162-8d4b18b9173f",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "polish": "problem",
+      "gender": "masculine",
+      "plural": "problemy",
+      "cefr": "A2",
+      "ipa": "[ˈprɔblɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ec39bbf-da24-4dd4-88fc-b344f59fdbed",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "polish": "pomysł",
+      "gender": "masculine",
+      "plural": "pomysły",
+      "cefr": "A2",
+      "ipa": "[ˈpɔmɨsw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cdadb3f-8213-4bc4-bca5-2e7fb048e07b",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "polish": "rzecz",
+      "gender": "feminine",
+      "plural": "rzeczy",
+      "cefr": "A1",
+      "ipa": "[ʐɛtʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47a49762-d8b6-4008-9db5-21137f3bc9db",
+      "part-of-speech": "noun",
+      "english": "number",
+      "polish": "numer",
+      "gender": "masculine",
+      "plural": "numery",
+      "cefr": "A1",
+      "ipa": "[ˈnumɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5570d461-0641-438b-a84f-032b3b33410d",
+      "part-of-speech": "noun",
+      "english": "address",
+      "polish": "adres",
+      "gender": "masculine",
+      "plural": "adresy",
+      "cefr": "A1",
+      "ipa": "[ˈadrɛs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c216317-2581-4ec6-905e-73ea2584c246",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "polish": "zero",
+      "cefr": "A1",
+      "ipa": "[ˈzɛrɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1676586e-de8d-49ed-9a2c-35ff210670fc",
+      "part-of-speech": "noun",
+      "english": "one",
+      "polish": "jeden",
+      "cefr": "A1",
+      "ipa": "[ˈjɛdɛn]",
+      "context": "jedna (f), jedno (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0791fa4f-751a-4045-83f0-c238acffb28f",
+      "part-of-speech": "noun",
+      "english": "two",
+      "polish": "dwa",
+      "cefr": "A1",
+      "ipa": "[dva]",
+      "context": "dwie (f)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bddfa72d-a3d4-4d36-a63a-d041c82f4554",
+      "part-of-speech": "noun",
+      "english": "three",
+      "polish": "trzy",
+      "cefr": "A1",
+      "ipa": "[tʂɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38117c65-f534-408f-9f48-517b0a1d81c2",
+      "part-of-speech": "noun",
+      "english": "four",
+      "polish": "cztery",
+      "cefr": "A1",
+      "ipa": "[ˈtʂtɛrɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0a19afa-b56d-42ef-a328-d06f1b35a1fa",
+      "part-of-speech": "noun",
+      "english": "five",
+      "polish": "pięć",
+      "cefr": "A1",
+      "ipa": "[pʲɛɲtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "165e0c98-8dfe-4832-a2f7-af5caaf95dea",
+      "part-of-speech": "noun",
+      "english": "six",
+      "polish": "sześć",
+      "cefr": "A1",
+      "ipa": "[ʂɛɕtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a58fa015-892f-4671-98cc-323fa385c551",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "polish": "siedem",
+      "cefr": "A1",
+      "ipa": "[ˈɕɛdɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6832475-8b55-4716-9fa9-20fde3d1a40a",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "polish": "osiem",
+      "cefr": "A1",
+      "ipa": "[ˈɔɕɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab1d07d6-fc46-40de-84e8-533f5f8e174f",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "polish": "dziewięć",
+      "cefr": "A1",
+      "ipa": "[ˈdʑɛvʲɛɲtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cea79e9-5f91-49eb-95d9-cfdf587a6422",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "polish": "dziesięć",
+      "cefr": "A1",
+      "ipa": "[ˈdʑɛɕɛɲtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b508b373-cbb3-45a0-937e-fe1de6a1787a",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "polish": "jedenaście",
+      "cefr": "A1",
+      "ipa": "[jɛdɛˈnaɕtɕɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0c67f79-df5e-4744-a21c-6794cfd2875a",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "polish": "dwadzieścia",
+      "cefr": "A1",
+      "ipa": "[dvaˈdʑɛɕtɕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "679922de-1a57-4b1a-98c0-ea5f261831dd",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "polish": "trzydzieści",
+      "cefr": "A1",
+      "ipa": "[tʂɨˈdʑɛɕtɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df33a655-65bf-46d1-9915-56b29a6fda52",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "polish": "czterdzieści",
+      "cefr": "A1",
+      "ipa": "[tʂtɛrˈdʑɛɕtɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c500b4a2-9f19-41b1-b467-8c2d72d61f7c",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "polish": "pięćdziesiąt",
+      "cefr": "A1",
+      "ipa": "[pʲɛɲˈdʑdʑɛɕɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90481fe9-47c3-481f-b1a1-943a98cc040c",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "polish": "sto",
+      "cefr": "A1",
+      "ipa": "[stɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "692c8438-b896-4595-b85e-58a906ad04a6",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "polish": "tysiąc",
+      "cefr": "A1",
+      "ipa": "[ˈtɨɕɔnts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a81e67d-d297-4841-9918-d13417639d98",
+      "part-of-speech": "noun",
+      "english": "million",
+      "polish": "milion",
+      "gender": "masculine",
+      "plural": "miliony",
+      "cefr": "A2",
+      "ipa": "[ˈmʲilʲɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7633f07d-da45-4963-8b49-abc41d3f8876",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "polish": "być",
+      "cefr": "A1",
+      "ipa": "[bɨtɕ]",
+      "context": "jestem, jesteś, jest, jesteśmy, jesteście, są",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f8103a1-c06a-417e-a12c-24ed9ba0648d",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "polish": "mieć",
+      "cefr": "A1",
+      "ipa": "[mʲɛtɕ]",
+      "context": "mam, masz, ma, mamy, macie, mają",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14c20580-37a7-45a2-9734-7c9619c8050a",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "polish": "robić",
+      "cefr": "A1",
+      "ipa": "[ˈrɔbʲitɕ]",
+      "context": "imperfective; perfective: zrobić",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96ed4889-7cf5-4dee-aa4b-c85b470fb462",
+      "part-of-speech": "verb",
+      "english": "to go (on foot, one way, now)",
+      "polish": "iść",
+      "cefr": "A1",
+      "ipa": "[iɕtɕ]",
+      "context": "idę, idziesz …; regularly: chodzić",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a32f43e-3de6-4cd8-b09d-f62a6ba10ef3",
+      "part-of-speech": "verb",
+      "english": "to go (on foot, regularly)",
+      "polish": "chodzić",
+      "cefr": "A1",
+      "ipa": "[ˈxɔdʑitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bcb56f8-5a63-4a90-856a-489584fa3979",
+      "part-of-speech": "verb",
+      "english": "to go (by transport, one way, now)",
+      "polish": "jechać",
+      "cefr": "A1",
+      "ipa": "[ˈjɛxatɕ]",
+      "context": "jadę, jedziesz …; regularly: jeździć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c581aee5-01ff-4a64-883a-ac0bc8884d78",
+      "part-of-speech": "verb",
+      "english": "to go (by transport, regularly)",
+      "polish": "jeździć",
+      "cefr": "A2",
+      "ipa": "[ˈjɛʑdʑitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2148aad-67a6-47e5-8a00-4f44430127ae",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "polish": "dawać",
+      "cefr": "A1",
+      "ipa": "[ˈdavatɕ]",
+      "context": "imperfective; perfective: dać",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c40faeb2-3d64-45b4-b278-1f9263cca05e",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "polish": "brać",
+      "cefr": "A1",
+      "ipa": "[bratɕ]",
+      "context": "imperfective; perfective: wziąć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45678b59-7afc-417c-a82d-9c593e22894c",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "polish": "widzieć",
+      "cefr": "A1",
+      "ipa": "[ˈvʲidʑɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "501c1d12-4576-423d-8b84-5edafb4d256b",
+      "part-of-speech": "verb",
+      "english": "to look",
+      "polish": "patrzeć",
+      "cefr": "A1",
+      "ipa": "[ˈpatʂɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b44b2f2-c25f-4cb4-8bfb-de8d3e0a2890",
+      "part-of-speech": "verb",
+      "english": "to watch",
+      "polish": "oglądać",
+      "cefr": "A1",
+      "ipa": "[ɔˈɡlɔndatɕ]",
+      "context": "oglądać telewizję: to watch TV",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96dabea7-5373-40e9-9103-ea72373836f9",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "polish": "słyszeć",
+      "cefr": "A1",
+      "ipa": "[ˈswɨʂɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e419b473-6837-46cb-be03-7db35280ac1d",
+      "part-of-speech": "verb",
+      "english": "to listen (to)",
+      "polish": "słuchać",
+      "cefr": "A1",
+      "ipa": "[ˈswuxatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0b94355-b65d-4524-b505-295467f2450a",
+      "part-of-speech": "verb",
+      "english": "to know (a fact)",
+      "polish": "wiedzieć",
+      "cefr": "A1",
+      "ipa": "[ˈvʲɛdʑɛtɕ]",
+      "context": "wiem, wiesz, wie …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38e94e21-4129-4f8f-a436-4e7c340c0c02",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place)",
+      "polish": "znać",
+      "cefr": "A1",
+      "ipa": "[znatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08d4b97d-42e0-4f7a-9f09-5c22cbf01ba5",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "polish": "chcieć",
+      "cefr": "A1",
+      "ipa": "[xtɕɛtɕ]",
+      "context": "chcę, chcesz, chce …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a97a96b9-3b92-458b-a2cf-9648084ea16e",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "polish": "móc",
+      "cefr": "A1",
+      "ipa": "[muts]",
+      "context": "mogę, możesz, może …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14ead978-95fa-4fda-954c-3f21150de397",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "polish": "lubić",
+      "cefr": "A1",
+      "ipa": "[ˈlubʲitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82fbed09-afda-4bf8-a12c-a796cc3c967d",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "polish": "kochać",
+      "cefr": "A1",
+      "ipa": "[ˈkɔxatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e485cebf-7fd2-42b7-a577-f549e573f518",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "polish": "jeść",
+      "cefr": "A1",
+      "ipa": "[jɛɕtɕ]",
+      "context": "jem, jesz, je, jemy, jecie, jedzą",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16e229d8-8310-4635-a5cb-63863b57ce7e",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "polish": "pić",
+      "cefr": "A1",
+      "ipa": "[pʲitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d10c0049-17d6-4a1a-bbbf-7251ae18ffd3",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "polish": "gotować",
+      "cefr": "A1",
+      "ipa": "[ɡɔˈtɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49d04ad3-8fb4-49d0-bf7f-cbfb5f8c1d3c",
+      "part-of-speech": "verb",
+      "english": "to speak, talk; to say",
+      "polish": "mówić",
+      "cefr": "A1",
+      "ipa": "[ˈmuvʲitɕ]",
+      "context": "perfective (to say): powiedzieć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e262b69-d693-4eaf-97bb-e34ca7053575",
+      "part-of-speech": "verb",
+      "english": "to talk, have a conversation",
+      "polish": "rozmawiać",
+      "cefr": "A1",
+      "ipa": "[rɔˈzmavʲatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b1bae7d-4c87-4f60-b8a5-8db98eff6e6d",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "polish": "pytać",
+      "cefr": "A1",
+      "ipa": "[ˈpɨtatɕ]",
+      "context": "imperfective; perfective: zapytać",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bf31815-8b38-4dd2-b96f-530cca427b02",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "polish": "odpowiadać",
+      "cefr": "A1",
+      "ipa": "[ɔtpɔˈvʲadatɕ]",
+      "context": "imperfective; perfective: odpowiedzieć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09255aa7-3617-4062-9a40-c8b6fd216484",
+      "part-of-speech": "verb",
+      "english": "to be called",
+      "polish": "nazywać się",
+      "cefr": "A1",
+      "ipa": "[naˈzɨvatɕ ɕɛ]",
+      "context": "nazywam się …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d9bd71e-105d-46d5-8adb-ccd858f9a8d4",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "polish": "czytać",
+      "cefr": "A1",
+      "ipa": "[ˈtʂɨtatɕ]",
+      "context": "imperfective; perfective: przeczytać",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a0a5811-6dbc-44eb-8fe6-f3e3e417d900",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "polish": "pisać",
+      "cefr": "A1",
+      "ipa": "[ˈpʲisatɕ]",
+      "context": "imperfective; perfective: napisać",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d957b4ba-7254-4435-88b5-d89cab684a23",
+      "part-of-speech": "verb",
+      "english": "to learn, study",
+      "polish": "uczyć się",
+      "cefr": "A1",
+      "ipa": "[ˈutʂɨtɕ ɕɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e248ed93-3104-4367-9a5e-80e2af24c722",
+      "part-of-speech": "verb",
+      "english": "to teach",
+      "polish": "uczyć",
+      "cefr": "A2",
+      "ipa": "[ˈutʂɨtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb63b1a8-9fd9-4acb-ad09-84788aef3f3e",
+      "part-of-speech": "verb",
+      "english": "to study (at university)",
+      "polish": "studiować",
+      "cefr": "A1",
+      "ipa": "[stuˈdʲɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "312b2219-7aa3-4647-9956-8c097043add0",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "polish": "rozumieć",
+      "cefr": "A1",
+      "ipa": "[rɔˈzumʲɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8f2e9e3-ef9b-4e6c-8c0e-95d8f407d2f3",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "polish": "myśleć",
+      "cefr": "A1",
+      "ipa": "[ˈmɨɕlɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46d15c5d-a243-4ad8-a3e8-8e321ef8bd9b",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "polish": "szukać",
+      "cefr": "A1",
+      "ipa": "[ˈʂukatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "612264c0-d4e6-4eb9-a6cc-b5025d8a485b",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "polish": "znaleźć",
+      "cefr": "A1",
+      "ipa": "[ˈznalɛɕtɕ]",
+      "context": "perfective; imperfective: znajdować",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96620abf-2189-4255-b578-101406b9d4a9",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "polish": "pracować",
+      "cefr": "A1",
+      "ipa": "[praˈtsɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "080f9f09-6753-4e11-a7f8-28fa8c3630e2",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "polish": "mieszkać",
+      "cefr": "A1",
+      "ipa": "[ˈmʲɛʂkatɕ]",
+      "context": "mieszkam w Krakowie: I live in Kraków",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8a7d0e6-abd8-46a5-9583-de9adcb30692",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "polish": "żyć",
+      "cefr": "A2",
+      "ipa": "[ʐɨtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "784ecc09-58fe-466b-b048-850fb860ddbf",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "polish": "spać",
+      "cefr": "A1",
+      "ipa": "[spatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca896dc0-b559-4e6a-9b8a-0297d4bd5018",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "polish": "wstawać",
+      "cefr": "A1",
+      "ipa": "[ˈfstavatɕ]",
+      "context": "imperfective; perfective: wstać",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff44a369-a182-4a8b-827a-001cc3bfdafd",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "polish": "siedzieć",
+      "cefr": "A1",
+      "ipa": "[ˈɕɛdʑɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97eee6c0-d3ac-4ca3-a96b-3935ac4b9861",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "polish": "stać",
+      "cefr": "A1",
+      "ipa": "[statɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa2d48a9-3861-493d-8d72-7125faa5280c",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying)",
+      "polish": "leżeć",
+      "cefr": "A1",
+      "ipa": "[ˈlɛʐɛtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec0e335b-80f7-42e0-8e85-b1fc0f5a9a6d",
+      "part-of-speech": "verb",
+      "english": "to go for a walk",
+      "polish": "spacerować",
+      "cefr": "A1",
+      "ipa": "[spatsɛˈrɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3f53f22-d8fa-40c1-a6f0-9f49956be452",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "polish": "biegać",
+      "cefr": "A1",
+      "ipa": "[ˈbʲɛɡatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4e2e882-ab0b-4ebc-a063-8472012843a7",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "polish": "pływać",
+      "cefr": "A1",
+      "ipa": "[ˈpwɨvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "985124db-13ad-4653-9634-1e58b2d39b75",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "polish": "podróżować",
+      "cefr": "A2",
+      "ipa": "[pɔdruˈʐɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a67640b3-722d-4d0a-b12b-c9eacdab1420",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "polish": "kupować",
+      "cefr": "A1",
+      "ipa": "[kuˈpɔvatɕ]",
+      "context": "imperfective; perfective: kupić",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b383a074-a6f0-4f5a-88fa-530229f7b806",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "polish": "płacić",
+      "cefr": "A1",
+      "ipa": "[ˈpwatɕitɕ]",
+      "context": "imperfective; perfective: zapłacić",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc4838b6-118b-4a8b-91ae-a912eb8f9660",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "polish": "kosztować",
+      "cefr": "A1",
+      "ipa": "[kɔˈʂtɔvatɕ]",
+      "context": "ile kosztuje?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b98d672-96cd-4c00-8ad9-22cd03d92bfc",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "polish": "sprzedawać",
+      "cefr": "A2",
+      "ipa": "[spʂɛˈdavatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f60388c3-907a-4492-96a1-198ab7f599b2",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "polish": "otwierać",
+      "cefr": "A1",
+      "ipa": "[ɔˈtfʲɛratɕ]",
+      "context": "imperfective; perfective: otworzyć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a037fde-334f-4191-8121-bfe701418f2b",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "polish": "zamykać",
+      "cefr": "A1",
+      "ipa": "[zaˈmɨkatɕ]",
+      "context": "imperfective; perfective: zamknąć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4529f269-36ef-4df9-a295-b6751154f57a",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "polish": "czekać",
+      "cefr": "A1",
+      "ipa": "[ˈtʂɛkatɕ]",
+      "context": "czekać na: to wait for",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e0c8276-7d5f-4bb7-9b8d-c218f05bfc62",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "polish": "zaczynać",
+      "cefr": "A1",
+      "ipa": "[zaˈtʂɨnatɕ]",
+      "context": "imperfective; perfective: zacząć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e844b4ef-7ac2-4db3-bda2-e0bf9ecdf7c0",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "polish": "kończyć",
+      "cefr": "A1",
+      "ipa": "[ˈkɔɲtʂɨtɕ]",
+      "context": "imperfective; perfective: skończyć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ce814b8-e482-4795-96c5-a79b7920ec2b",
+      "part-of-speech": "verb",
+      "english": "to play (a game, an instrument)",
+      "polish": "grać",
+      "cefr": "A1",
+      "ipa": "[ɡratɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72a9232f-369a-4097-93ef-01a4d648c829",
+      "part-of-speech": "verb",
+      "english": "to play (of children); to have fun",
+      "polish": "bawić się",
+      "cefr": "A2",
+      "ipa": "[ˈbavʲitɕ ɕɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ec4f7ed-1ad6-4a93-b06a-c47ccf730c42",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "polish": "myć",
+      "cefr": "A1",
+      "ipa": "[mɨtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "396cfb56-94d8-4d1b-a669-72bc7f7e1eaa",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "polish": "pomagać",
+      "cefr": "A1",
+      "ipa": "[pɔˈmaɡatɕ]",
+      "context": "imperfective; perfective: pomóc",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2dbaa37-12cb-4c2c-8da4-4b34750706c6",
+      "part-of-speech": "verb",
+      "english": "to call, phone; to ring",
+      "polish": "dzwonić",
+      "cefr": "A1",
+      "ipa": "[ˈdzvɔɲitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5505e5fc-34eb-491e-8173-441b7627a4ee",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "polish": "śpiewać",
+      "cefr": "A1",
+      "ipa": "[ˈɕpʲɛvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46bc4261-60fe-4b6a-bba9-9cf7059c9d27",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "polish": "tańczyć",
+      "cefr": "A1",
+      "ipa": "[ˈtaɲtʂɨtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cb4b488-8964-4324-b099-78c74f60f708",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "polish": "używać",
+      "cefr": "A2",
+      "ipa": "[uˈʐɨvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60582bce-0abc-46e0-9374-e40587cc18e5",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "polish": "przynosić",
+      "cefr": "A1",
+      "ipa": "[pʂɨˈnɔɕitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bb05b78-68d8-46e7-818d-e49ae3ebc76a",
+      "part-of-speech": "verb",
+      "english": "to put (lying down)",
+      "polish": "kłaść",
+      "cefr": "A2",
+      "ipa": "[kwaɕtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d1f03ed-e8da-43be-b0a8-abce61d2276a",
+      "part-of-speech": "verb",
+      "english": "to put (standing up)",
+      "polish": "stawiać",
+      "cefr": "A2",
+      "ipa": "[ˈstavʲatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a63e8040-825e-41bf-af2c-bdc58da43413",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "polish": "zapominać",
+      "cefr": "A2",
+      "ipa": "[zapɔˈmʲinatɕ]",
+      "context": "imperfective; perfective: zapomnieć",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "425e764f-2c43-4032-ae3c-d5e781efa7be",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "polish": "pamiętać",
+      "cefr": "A2",
+      "ipa": "[paˈmʲɛntatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d81261c-5a23-4f26-b329-99568180e9d4",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "polish": "próbować",
+      "cefr": "A2",
+      "ipa": "[pruˈbɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a60d923-8962-4ab1-a2e7-aa85e749a205",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "polish": "zmieniać",
+      "cefr": "A2",
+      "ipa": "[ˈzmʲɛɲatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "694c0277-21d2-4dea-97e3-32fd4ed4649e",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "polish": "wysyłać",
+      "cefr": "A2",
+      "ipa": "[vɨˈsɨwatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6858e385-7bee-48d5-bf00-bd856c94cbed",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "polish": "gubić",
+      "cefr": "A2",
+      "ipa": "[ˈɡubʲitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c1b3960-f8c6-4f81-8e24-53c3de42f302",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "polish": "wygrywać",
+      "cefr": "A2",
+      "ipa": "[vɨˈɡrɨvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70da0049-cdf3-4ef6-b923-cf0ed7997b1d",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "polish": "spotykać",
+      "cefr": "A2",
+      "ipa": "[spɔˈtɨkatɕ]",
+      "context": "imperfective; perfective: spotkać",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81d8ac7f-8f19-488c-813b-13fdaff3882c",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "polish": "wyjaśniać",
+      "cefr": "A2",
+      "ipa": "[vɨˈjaɕɲatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab8f7328-8c5f-46a0-9fe7-e535484fb9d7",
+      "part-of-speech": "verb",
+      "english": "to translate; to explain",
+      "polish": "tłumaczyć",
+      "cefr": "A2",
+      "ipa": "[twuˈmatʂɨtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bd770ca-ca61-4bc4-9cf8-2b62a6ce82f2",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "polish": "wybierać",
+      "cefr": "A2",
+      "ipa": "[vɨˈbʲɛratɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8dfda22-9fe6-4d4e-8ed3-e377950ace5a",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "polish": "czuć",
+      "cefr": "A2",
+      "ipa": "[tʂutɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6e7d8fa-880c-497b-806f-1c80c42b4a0e",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "polish": "wierzyć",
+      "cefr": "A2",
+      "ipa": "[ˈvʲɛʐɨtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18ba55a8-25cf-4094-b247-c7b23ddfcf63",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "polish": "śmiać się",
+      "cefr": "A2",
+      "ipa": "[ɕmʲatɕ ɕɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49e0f928-1dcf-4af5-8fa2-2d6cbcd034b9",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "polish": "płakać",
+      "cefr": "A2",
+      "ipa": "[ˈpwakatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "606d7a1a-ba49-4b1a-85af-7bf60bef5add",
+      "part-of-speech": "verb",
+      "english": "to fall; to rain",
+      "polish": "padać",
+      "cefr": "A2",
+      "ipa": "[ˈpadatɕ]",
+      "context": "pada deszcz: it's raining",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bc90854-9bcf-4410-9c25-b55804a17bc4",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "polish": "latać",
+      "cefr": "A2",
+      "ipa": "[ˈlatatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef2fdc88-2598-4da4-82c5-93502c2c395b",
+      "part-of-speech": "verb",
+      "english": "to order, book",
+      "polish": "zamawiać",
+      "cefr": "A2",
+      "ipa": "[zaˈmavʲatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87622271-3b75-4d40-839a-41b4b4710843",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "polish": "pokazywać",
+      "cefr": "A2",
+      "ipa": "[pɔkaˈzɨvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d59de56-3434-4960-88de-fb946a46a9a3",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "polish": "odpoczywać",
+      "cefr": "A2",
+      "ipa": "[ɔtpɔˈtʂɨvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37925647-78dc-49fa-85da-99f5757700be",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "polish": "umierać",
+      "cefr": "A2",
+      "ipa": "[uˈmʲɛratɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c22ea79-918f-472b-9ce5-966f97586af9",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "polish": "potrzebować",
+      "cefr": "A1",
+      "ipa": "[pɔtʂɛˈbɔvatɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23e81616-2e0c-45fa-a8b5-0b5f76af29e2",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "polish": "duży",
+      "cefr": "A1",
+      "ipa": "[ˈduʐɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d65982ba-b925-4696-a9b3-9751bccf602d",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "polish": "mały",
+      "cefr": "A1",
+      "ipa": "[ˈmawɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e38c666-53dc-47c9-93f7-5b44cf961701",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "polish": "dobry",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44fc835d-ea3a-409a-adb1-bb3cedea386d",
+      "part-of-speech": "adjective",
+      "english": "bad; angry",
+      "polish": "zły",
+      "cefr": "A1",
+      "ipa": "[zwɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "153d36f4-ea8f-4a0b-bb40-042c3b0730a4",
+      "part-of-speech": "adjective",
+      "english": "pretty, nice",
+      "polish": "ładny",
+      "cefr": "A1",
+      "ipa": "[ˈwadnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce181475-a153-42d3-99a6-dc51a946919b",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "polish": "piękny",
+      "cefr": "A1",
+      "ipa": "[ˈpʲɛŋknɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "114ebbef-ba60-4c36-9998-3d89fe28ee1b",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "polish": "brzydki",
+      "cefr": "A2",
+      "ipa": "[ˈbʐɨtkʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "377cd5f4-49ba-49ce-a42f-a369751ca55d",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "polish": "nowy",
+      "cefr": "A1",
+      "ipa": "[ˈnɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c64fae5-fa2b-4b8f-b2a9-ff737d03d7ea",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "polish": "stary",
+      "cefr": "A1",
+      "ipa": "[ˈstarɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d2049c4-cb42-47dd-bb04-90ea53db8369",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "polish": "młody",
+      "cefr": "A1",
+      "ipa": "[ˈmwɔdɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5647494-72bb-4546-a8cd-8a1f43f9eb8d",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "polish": "wysoki",
+      "cefr": "A1",
+      "ipa": "[vɨˈsɔkʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ce0f432-28f1-4016-901e-d451d763746f",
+      "part-of-speech": "adjective",
+      "english": "short, low",
+      "polish": "niski",
+      "cefr": "A1",
+      "ipa": "[ˈɲiskʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67e64c52-051c-4055-bad7-3b0acbbae05e",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "polish": "długi",
+      "cefr": "A1",
+      "ipa": "[ˈdwuɡʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97686e54-b28c-44ef-8da3-23e004ea8f64",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "polish": "krótki",
+      "cefr": "A1",
+      "ipa": "[ˈkrutkʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9685b5a4-2a8b-4092-8c1a-dec264ad7ad9",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "polish": "gorący",
+      "cefr": "A1",
+      "ipa": "[ɡɔˈrɔntsɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4162765b-4737-4d61-bd4e-4016e3ae41ac",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "polish": "ciepły",
+      "cefr": "A1",
+      "ipa": "[ˈtɕɛpwɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58c24457-5b2f-48e6-9584-08a26b8c013a",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "polish": "zimny",
+      "cefr": "A1",
+      "ipa": "[ˈʑimnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aaf3b6c-e636-4e4b-9470-47875a544eaa",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "polish": "szybki",
+      "cefr": "A1",
+      "ipa": "[ˈʂɨpkʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a2b1b96-fb3a-4f71-91db-3a1e6476b53f",
+      "part-of-speech": "adjective",
+      "english": "free; slow",
+      "polish": "wolny",
+      "cefr": "A1",
+      "ipa": "[ˈvɔlnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "001b719c-5b93-4651-9e8c-7b21c945c3e9",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "polish": "łatwy",
+      "cefr": "A1",
+      "ipa": "[ˈwatfɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce6ad8a7-b3a7-4424-8f64-abdfb36f7dc1",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "polish": "trudny",
+      "cefr": "A1",
+      "ipa": "[ˈtrudnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05a3e55b-1537-4827-bfce-50b6297b4624",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "polish": "tani",
+      "cefr": "A1",
+      "ipa": "[ˈtaɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a262863-775a-4fe9-ab6b-5493f21f8ccb",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "polish": "drogi",
+      "cefr": "A1",
+      "ipa": "[ˈdrɔɡʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c0ce242-89ad-49a2-93c2-471c02ab449d",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "polish": "szczęśliwy",
+      "cefr": "A2",
+      "ipa": "[ʂtʂɛ̃ˈɕlivɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb8d032f-1b7d-4bdf-89a5-45849c27b60a",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "polish": "smutny",
+      "cefr": "A1",
+      "ipa": "[ˈsmutnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fd1953d-a52b-4cb0-b89c-3f60d5f8ef4a",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "polish": "zmęczony",
+      "cefr": "A1",
+      "ipa": "[zmɛnˈtʂɔnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbc1c239-f200-4a84-a6a3-05e9e4939bc3",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "polish": "chory",
+      "cefr": "A1",
+      "ipa": "[ˈxɔrɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7875c9fc-01aa-42c3-b873-26af8a28dafc",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "polish": "zdrowy",
+      "cefr": "A2",
+      "ipa": "[ˈzdrɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8947c42a-9046-438d-809e-3fcf78cd7c11",
+      "part-of-speech": "adjective",
+      "english": "tasty, delicious",
+      "polish": "smaczny",
+      "cefr": "A1",
+      "ipa": "[ˈsmatʂnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1f7e7ea-9db2-410b-a028-7092ac6dad1b",
+      "part-of-speech": "adjective",
+      "english": "nice, kind",
+      "polish": "miły",
+      "cefr": "A1",
+      "ipa": "[ˈmʲiwɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55eb547f-d642-43cd-92d8-7028ddf69ab7",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "polish": "ciekawy",
+      "cefr": "A1",
+      "ipa": "[tɕɛˈkavɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f50eacb-5506-42fe-b7a1-233f9d2b2910",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "polish": "nudny",
+      "cefr": "A2",
+      "ipa": "[ˈnudnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7628779-8e09-4d7d-8b61-ed7e902df0e7",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "polish": "ważny",
+      "cefr": "A2",
+      "ipa": "[ˈvaʐnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5521f1fa-e158-4c46-a673-78c709ae5761",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "polish": "otwarty",
+      "cefr": "A1",
+      "ipa": "[ɔˈtfartɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1398826-c8d5-402b-935f-6707e80def06",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "polish": "zamknięty",
+      "cefr": "A1",
+      "ipa": "[zamˈkɲɛntɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dad857d4-1cfb-4587-8527-bba1b48cae99",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "polish": "czysty",
+      "cefr": "A1",
+      "ipa": "[ˈtʂɨstɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9875bb82-df73-4f0e-8dec-d05d1faee786",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "polish": "brudny",
+      "cefr": "A1",
+      "ipa": "[ˈbrudnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "553f8f96-a496-4a3e-8109-6e25bd63f051",
+      "part-of-speech": "adjective",
+      "english": "busy; occupied",
+      "polish": "zajęty",
+      "cefr": "A1",
+      "ipa": "[zaˈjɛntɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49b34ed0-4f98-47df-821c-2d4addbc5b03",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "polish": "gotowy",
+      "cefr": "A1",
+      "ipa": "[ɡɔˈtɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96aa524f-2b42-429b-9982-893b9e14956a",
+      "part-of-speech": "adjective",
+      "english": "other, different",
+      "polish": "inny",
+      "cefr": "A1",
+      "ipa": "[ˈinnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "434d6e16-687f-474a-93cc-cb3c49337fdd",
+      "part-of-speech": "adjective",
+      "english": "real, true",
+      "polish": "prawdziwy",
+      "cefr": "A2",
+      "ipa": "[praˈvdʑivɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93a412e6-03cf-4973-bf45-bda64f8152b7",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "polish": "pełny",
+      "cefr": "A2",
+      "ipa": "[ˈpɛwnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cadf718-0709-422d-8493-51f234b898c5",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "polish": "pusty",
+      "cefr": "A2",
+      "ipa": "[ˈpustɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acefb267-e841-4e02-8375-23679eee5c9a",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "polish": "bogaty",
+      "cefr": "A2",
+      "ipa": "[bɔˈɡatɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db13878d-6ea6-4690-a0cf-36741a846888",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "polish": "biedny",
+      "cefr": "A2",
+      "ipa": "[ˈbʲɛdnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8a8d519-b978-4c3f-bd49-4df8c9bb96bd",
+      "part-of-speech": "adjective",
+      "english": "heavy; hard",
+      "polish": "ciężki",
+      "cefr": "A2",
+      "ipa": "[ˈtɕɛ̃ʂkʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1615ae3-4cb1-43ee-8ab1-fa494bb014f2",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "polish": "silny",
+      "cefr": "A2",
+      "ipa": "[ˈɕilnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42d14965-fe46-4175-bdba-3ab00b4042e4",
+      "part-of-speech": "adjective",
+      "english": "wise, clever",
+      "polish": "mądry",
+      "cefr": "A2",
+      "ipa": "[ˈmɔndrɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15cb8af9-5cb7-491c-bc75-735bf510734f",
+      "part-of-speech": "adjective",
+      "english": "cheerful, merry",
+      "polish": "wesoły",
+      "cefr": "A2",
+      "ipa": "[vɛˈsɔwɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fe2dac7-6c64-444c-aa7c-2ad292f168a1",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "polish": "czerwony",
+      "cefr": "A1",
+      "ipa": "[tʂɛrˈvɔnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a87bc093-cacf-455e-8d71-7c9abf5a45aa",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "polish": "niebieski",
+      "cefr": "A1",
+      "ipa": "[ɲɛˈbʲɛskʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "141a1771-7d89-4be8-b53b-3709e45839f8",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "polish": "zielony",
+      "cefr": "A1",
+      "ipa": "[ʑɛˈlɔnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f131cf6-348e-4be8-88ba-551ac6118392",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "polish": "żółty",
+      "cefr": "A1",
+      "ipa": "[ˈʐuwtɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6396b9af-afff-4eb7-8bb4-9370042039e1",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "polish": "czarny",
+      "cefr": "A1",
+      "ipa": "[ˈtʂarnɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86d0634d-1855-42ce-ad10-486d9e1a85e8",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "polish": "biały",
+      "cefr": "A1",
+      "ipa": "[ˈbʲawɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69179af4-792a-4cea-90ab-bee75626d279",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "polish": "brązowy",
+      "cefr": "A1",
+      "ipa": "[brɔ̃ˈzɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fb55ff6-dfa1-4f40-bb4a-6776e8b6df9c",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "polish": "szary",
+      "cefr": "A1",
+      "ipa": "[ˈʂarɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe4f81a3-04e7-4b2d-b123-7ba61213ad9a",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "polish": "pomarańczowy",
+      "cefr": "A1",
+      "ipa": "[pɔmaraɲˈtʂɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "125b2120-e4a1-4e26-94d7-9ddef80f0598",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "polish": "różowy",
+      "cefr": "A2",
+      "ipa": "[ruˈʐɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7b7dfd8-269f-4cb2-8984-de0f060adfbc",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "polish": "fioletowy",
+      "cefr": "A2",
+      "ipa": "[fʲɔlɛˈtɔvɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac1a701f-420d-4cdf-a5e6-426f82f05dc7",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "polish": "teraz",
+      "cefr": "A1",
+      "ipa": "[ˈtɛras]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af72840e-35ed-41f8-870d-040529a0f75a",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "polish": "dzisiaj",
+      "cefr": "A1",
+      "ipa": "[ˈdʑiɕaj]",
+      "context": "also dziś",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0de2dfac-3651-4d17-b73a-5a8b2c04bf28",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "polish": "jutro",
+      "cefr": "A1",
+      "ipa": "[ˈjutrɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62069b75-55c8-45ab-9242-349dae23015b",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "polish": "wczoraj",
+      "cefr": "A1",
+      "ipa": "[ˈftʂɔraj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a9f5aa9-8238-4a65-8dfe-8c32a31c82f5",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "polish": "tutaj",
+      "cefr": "A1",
+      "ipa": "[ˈtutaj]",
+      "context": "also tu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec24ec65-c5c0-4c9b-98ff-033ff3b84e12",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "polish": "tam",
+      "cefr": "A1",
+      "ipa": "[tam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "115dc2a2-4ca2-484a-9380-663fe3af3080",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "polish": "nie",
+      "cefr": "A1",
+      "ipa": "[ɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51e82e2e-19cb-4529-b73c-f59cfad03c47",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "polish": "też",
+      "cefr": "A1",
+      "ipa": "[tɛʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff461e1e-0b02-4e63-a24c-00653fdbc893",
+      "part-of-speech": "adverb",
+      "english": "very; very much",
+      "polish": "bardzo",
+      "cefr": "A1",
+      "ipa": "[ˈbardzɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8875ead2-dc16-4139-888d-4873aca31ac4",
+      "part-of-speech": "adverb",
+      "english": "a lot, much",
+      "polish": "dużo",
+      "cefr": "A1",
+      "ipa": "[ˈduʐɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8764142-045d-4ffb-9358-94047a4962d0",
+      "part-of-speech": "adverb",
+      "english": "little, few",
+      "polish": "mało",
+      "cefr": "A1",
+      "ipa": "[ˈmawɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c1b8f79-6f73-4b5c-a34d-dc933a06dfb9",
+      "part-of-speech": "adverb",
+      "english": "a little, a bit",
+      "polish": "trochę",
+      "cefr": "A1",
+      "ipa": "[ˈtrɔxɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1c93524-fdb8-4e2e-9777-994fcdbd7c31",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "polish": "więcej",
+      "cefr": "A1",
+      "ipa": "[ˈvʲɛntsɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0f9f3f8-bbc8-4c42-98b7-d9ba1667d0f8",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "polish": "mniej",
+      "cefr": "A2",
+      "ipa": "[mɲɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78f02c3d-e60a-40e2-b13e-1c5ba2a9f12e",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "polish": "zawsze",
+      "cefr": "A1",
+      "ipa": "[ˈzafʂɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9ea5e20-6f49-4b14-a990-f64056511b62",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "polish": "nigdy",
+      "cefr": "A1",
+      "ipa": "[ˈɲiɡdɨ]",
+      "context": "with nie on the verb: nigdy nie palę",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e2af8a7-19f9-45b8-9555-a9af58b13daa",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "polish": "czasami",
+      "cefr": "A1",
+      "ipa": "[tʂaˈsamʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51e2c897-6c08-46e0-9374-d92ef516cdea",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "polish": "często",
+      "cefr": "A1",
+      "ipa": "[ˈtʂɛ̃stɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5cc970d-781d-4aeb-8952-e8d5ec203d34",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "polish": "zwykle",
+      "cefr": "A2",
+      "ipa": "[ˈzvɨklɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20a85e21-c03a-4d9f-9498-e13a7867edb4",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "polish": "już",
+      "cefr": "A1",
+      "ipa": "[juʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "127ae9c1-9e44-44cb-8ecb-8a7e4702f37e",
+      "part-of-speech": "adverb",
+      "english": "still; yet; more",
+      "polish": "jeszcze",
+      "cefr": "A1",
+      "ipa": "[ˈjɛʂtʂɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2ab29a9-3903-4874-88f8-12b3241d70f8",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "polish": "znowu",
+      "cefr": "A1",
+      "ipa": "[ˈznɔvu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af865876-79a1-418b-90ad-46c2d9f8a299",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "polish": "razem",
+      "cefr": "A1",
+      "ipa": "[ˈrazɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7afbfd4b-62f5-4c3d-88a6-f05b4008810a",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "polish": "może",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʐɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a1acbc3-7168-4499-bd48-18683cf7f524",
+      "part-of-speech": "adverb",
+      "english": "then, later",
+      "polish": "potem",
+      "cefr": "A1",
+      "ipa": "[ˈpɔtɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f706178-7703-4d8d-8c62-77130a18fefd",
+      "part-of-speech": "adverb",
+      "english": "first",
+      "polish": "najpierw",
+      "cefr": "A1",
+      "ipa": "[ˈnajpʲɛrf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3817cab2-8446-434a-8059-5c106cad9d9b",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "polish": "wcześnie",
+      "cefr": "A1",
+      "ipa": "[ˈftʂɛɕɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00e01ea6-782a-4c3c-abc2-eb9da969726b",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "polish": "późno",
+      "cefr": "A1",
+      "ipa": "[ˈpuʑnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4884cb5a-bea9-4734-b6c8-e2ad73676451",
+      "part-of-speech": "adverb",
+      "english": "well; OK",
+      "polish": "dobrze",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbʐɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c38aa51-a428-4eb9-9736-34f3a402183d",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "polish": "źle",
+      "cefr": "A1",
+      "ipa": "[ʑlɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0253721-1540-4e48-b2e3-55248b80b8e3",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "polish": "tylko",
+      "cefr": "A1",
+      "ipa": "[ˈtɨlkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb5bd4d5-8c53-410d-bd97-5f930f3324d3",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "polish": "prawie",
+      "cefr": "A2",
+      "ipa": "[ˈpravʲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "848244ff-b039-4c99-9d8e-8266526b9d1c",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "polish": "oczywiście",
+      "cefr": "A2",
+      "ipa": "[ɔtʂɨˈvʲiɕtɕɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d47a18e-5a3f-48e6-ac08-74c4b7e2d31f",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "polish": "szybko",
+      "cefr": "A1",
+      "ipa": "[ˈʂɨpkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12d423f1-0026-423b-b10e-de24e384255b",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "polish": "wolno",
+      "cefr": "A1",
+      "ipa": "[ˈvɔlnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b915628-3d48-4bd8-8bb5-c57a7d380071",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "polish": "daleko",
+      "cefr": "A1",
+      "ipa": "[daˈlɛkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "565a7373-a286-403d-a9d0-2cafabe925f7",
+      "part-of-speech": "adverb",
+      "english": "near, close",
+      "polish": "blisko",
+      "cefr": "A1",
+      "ipa": "[ˈbliskɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6de3a2f-7f22-4888-a07a-0dfa39a301cc",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "polish": "w lewo",
+      "cefr": "A1",
+      "ipa": "[f ˈlɛvɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a19d4da6-f9fc-45a7-aa64-11539d9d920c",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "polish": "w prawo",
+      "cefr": "A1",
+      "ipa": "[f ˈpravɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d0fe052-1aea-4e14-b8ad-82c269a00524",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "polish": "prosto",
+      "cefr": "A1",
+      "ipa": "[ˈprɔstɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aba7d63a-400f-41d5-a496-a535ec92337f",
+      "part-of-speech": "adverb",
+      "english": "in the morning",
+      "polish": "rano",
+      "cefr": "A1",
+      "ipa": "[ˈranɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6b1e2a6-0550-4cb6-9088-c4a91d31dd9a",
+      "part-of-speech": "adverb",
+      "english": "in the evening",
+      "polish": "wieczorem",
+      "cefr": "A1",
+      "ipa": "[vʲɛˈtʂɔrɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cc76351-a780-4bc0-accf-c8e3e43c686d",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "polish": "gdzie",
+      "cefr": "A1",
+      "ipa": "[ɡdʑɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b4c34c0-2982-4180-aa33-4c8c502e0d8e",
+      "part-of-speech": "adverb",
+      "english": "where (to)",
+      "polish": "dokąd",
+      "cefr": "A2",
+      "ipa": "[ˈdɔkɔnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0733bff6-58da-4de1-98da-012b0b724adc",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "polish": "kiedy",
+      "cefr": "A1",
+      "ipa": "[ˈkʲɛdɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a541d6d9-9a98-45d2-9085-0ff793df7b30",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "polish": "jak",
+      "cefr": "A1",
+      "ipa": "[jak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79ff0619-f9b2-442e-9b8d-1b0d3b9a253b",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "polish": "dlaczego",
+      "cefr": "A1",
+      "ipa": "[dlaˈtʂɛɡɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6387790a-bf2f-461d-8ced-fb0f0cbd5eca",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "polish": "ile",
+      "cefr": "A1",
+      "ipa": "[ˈilɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0d1a7ec-7164-48b6-aa50-355d35b199cf",
+      "part-of-speech": "adverb",
+      "english": "it is necessary",
+      "polish": "trzeba",
+      "cefr": "A2",
+      "ipa": "[ˈtʂɛba]",
+      "context": "trzeba iść: we have to go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0dd8e29-2d1d-4cc5-be6c-0e8ffd2a8a07",
+      "part-of-speech": "adverb",
+      "english": "one can, it is allowed",
+      "polish": "można",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʐna]",
+      "context": "można?: may I?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9bc9a83-8ffc-4d2c-ad6a-6d40132260a8",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "polish": "ja",
+      "cefr": "A1",
+      "ipa": "[ja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c623226-3379-445b-a182-b091ec92c5ec",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "polish": "ty",
+      "cefr": "A1",
+      "ipa": "[tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d2e0281-01b5-4d32-9b0d-fbc25d0e04cc",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "polish": "on",
+      "cefr": "A1",
+      "ipa": "[ɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fc0e2ac-d6de-48fe-a3c2-048c6b06821e",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "polish": "ona",
+      "cefr": "A1",
+      "ipa": "[ˈɔna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18a4f62d-920d-4c3a-919e-334c986a1f9a",
+      "part-of-speech": "pronoun",
+      "english": "it",
+      "polish": "ono",
+      "cefr": "A1",
+      "ipa": "[ˈɔnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b06b798-04f7-4d54-ad6e-2daae9506a55",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "polish": "my",
+      "cefr": "A1",
+      "ipa": "[mɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd685b11-d041-4c5c-9cb8-5e55b990124b",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "polish": "wy",
+      "cefr": "A1",
+      "ipa": "[vɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d035bb6d-ede1-4412-b28a-f62554608b96",
+      "part-of-speech": "pronoun",
+      "english": "they (including men)",
+      "polish": "oni",
+      "cefr": "A1",
+      "ipa": "[ˈɔɲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78488d99-3a9f-4668-a888-598b237ca4b0",
+      "part-of-speech": "pronoun",
+      "english": "they (women, things, animals)",
+      "polish": "one",
+      "cefr": "A1",
+      "ipa": "[ˈɔnɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44848f91-6042-4a53-80be-968f2dd8043d",
+      "part-of-speech": "pronoun",
+      "english": "you (formal, to a man); sir",
+      "polish": "pan",
+      "cefr": "A1",
+      "ipa": "[pan]",
+      "context": "verbs use the third person: czy pan mówi po angielsku?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58130cab-c546-4507-ab03-6d6fa14c2809",
+      "part-of-speech": "pronoun",
+      "english": "you (formal, to a woman); madam",
+      "polish": "pani",
+      "cefr": "A1",
+      "ipa": "[ˈpaɲi]",
+      "context": "verbs use the third person",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd302bb5-3cb7-41f0-8136-b2fe3f0b0eda",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "polish": "mój",
+      "cefr": "A1",
+      "ipa": "[muj]",
+      "context": "moja (f), moje (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a1b8d18-770d-468a-88b0-42fa2ed339e9",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "polish": "twój",
+      "cefr": "A1",
+      "ipa": "[tfuj]",
+      "context": "twoja (f), twoje (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b0db269-67ec-47ec-b408-2a5a72356ed6",
+      "part-of-speech": "pronoun",
+      "english": "his",
+      "polish": "jego",
+      "cefr": "A1",
+      "ipa": "[ˈjɛɡɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36756407-d6c8-47ea-833e-9541b6a08d48",
+      "part-of-speech": "pronoun",
+      "english": "her, hers",
+      "polish": "jej",
+      "cefr": "A1",
+      "ipa": "[jɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d5ee2f5-fc4a-4efd-a2dc-d389b9e2b0a4",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "polish": "nasz",
+      "cefr": "A1",
+      "ipa": "[naʂ]",
+      "context": "nasza (f), nasze (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fce4394f-a68f-4fc7-828d-09cf66a5bf71",
+      "part-of-speech": "pronoun",
+      "english": "your (plural)",
+      "polish": "wasz",
+      "cefr": "A1",
+      "ipa": "[vaʂ]",
+      "context": "wasza (f), wasze (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caf31326-503f-4d9b-aa2e-9ff73d905eb7",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "polish": "ich",
+      "cefr": "A1",
+      "ipa": "[ix]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0528854-9270-412a-aa59-75b1d6c46bdc",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "polish": "ten",
+      "cefr": "A1",
+      "ipa": "[tɛn]",
+      "context": "ta (f), to (n); to also means \"this is\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adc5e77b-c0ca-4e40-9fd8-624758ad761e",
+      "part-of-speech": "pronoun",
+      "english": "that (over there)",
+      "polish": "tamten",
+      "cefr": "A1",
+      "ipa": "[ˈtamtɛn]",
+      "context": "tamta (f), tamto (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fa478ef-b83e-419f-9d5e-a78fcd6fbd40",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "polish": "co",
+      "cefr": "A1",
+      "ipa": "[tsɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48f02d8b-51aa-4a1a-a127-2d3ff4990067",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "polish": "kto",
+      "cefr": "A1",
+      "ipa": "[ktɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b5c945a-189c-47ae-a79c-923193126dc4",
+      "part-of-speech": "pronoun",
+      "english": "what kind of, what",
+      "polish": "jaki",
+      "cefr": "A1",
+      "ipa": "[ˈjakʲi]",
+      "context": "jaka (f), jakie (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88543e16-cf01-4efe-b0db-e03f03b53d63",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "polish": "który",
+      "cefr": "A2",
+      "ipa": "[ˈkturɨ]",
+      "context": "która (f), które (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1815a1f-a38d-4224-aa08-67b79cefa916",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "polish": "wszystko",
+      "cefr": "A1",
+      "ipa": "[ˈfʂɨstkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ab03fad-508a-4091-a368-b7204f9e5789",
+      "part-of-speech": "pronoun",
+      "english": "everyone, all",
+      "polish": "wszyscy",
+      "cefr": "A1",
+      "ipa": "[ˈfʂɨstsɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dcb2b05-49a8-4062-854b-febef88aefa6",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "polish": "coś",
+      "cefr": "A2",
+      "ipa": "[tsɔɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca12f35c-5afd-476b-8d32-cff253222f32",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "polish": "nic",
+      "cefr": "A2",
+      "ipa": "[ɲits]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6df381ad-ed4e-4f4a-a579-c8b1535d7a80",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "polish": "ktoś",
+      "cefr": "A2",
+      "ipa": "[ktɔɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f8f6e6e-fb85-47d7-a5c3-af33c734741f",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "polish": "nikt",
+      "cefr": "A2",
+      "ipa": "[ɲikt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "746535d8-b73e-4a44-a8e7-8be1e3d3706b",
+      "part-of-speech": "preposition",
+      "english": "in",
+      "polish": "w",
+      "cefr": "A1",
+      "ipa": "[f]",
+      "context": "+ locative (where?); we before some clusters: we wtorek",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a97cb352-35f5-46a2-800d-8eb3ab92a5ce",
+      "part-of-speech": "preposition",
+      "english": "on; at; to",
+      "polish": "na",
+      "cefr": "A1",
+      "ipa": "[na]",
+      "context": "+ locative (where?), + accusative (where to?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a70d4063-e120-4875-82bc-87d2cd8f5ba1",
+      "part-of-speech": "preposition",
+      "english": "with; from",
+      "polish": "z",
+      "cefr": "A1",
+      "ipa": "[s]",
+      "context": "+ instrumental (with), + genitive (from)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9120e44-2374-45ff-85e0-3bd50cf8aa9f",
+      "part-of-speech": "preposition",
+      "english": "to, into",
+      "polish": "do",
+      "cefr": "A1",
+      "ipa": "[dɔ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73043d3c-61db-43af-8f8e-950e8aa7e81e",
+      "part-of-speech": "preposition",
+      "english": "from (a person, time)",
+      "polish": "od",
+      "cefr": "A1",
+      "ipa": "[ɔt]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d080080-be84-4129-9ea0-3ba64dc1a6aa",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "polish": "dla",
+      "cefr": "A1",
+      "ipa": "[dla]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59bc36f8-9671-429a-ab3c-7bb27ccf14e7",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "polish": "bez",
+      "cefr": "A1",
+      "ipa": "[bɛs]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8212c7de-dd74-45c6-a4fc-b540b48f5869",
+      "part-of-speech": "preposition",
+      "english": "about; at (time)",
+      "polish": "o",
+      "cefr": "A1",
+      "ipa": "[ɔ]",
+      "context": "+ locative: o czym?; o piątej: at five",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a470db2-a2b5-4f33-91dc-c04d1adf7122",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place)",
+      "polish": "u",
+      "cefr": "A1",
+      "ipa": "[u]",
+      "context": "+ genitive: u lekarza",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35a9b3ef-a8d6-46c2-966e-d29c46081e49",
+      "part-of-speech": "preposition",
+      "english": "behind; for",
+      "polish": "za",
+      "cefr": "A2",
+      "ipa": "[za]",
+      "context": "+ instrumental (behind), + accusative (for)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24bf5213-2669-44eb-b964-81bed9dfe2a4",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "polish": "pod",
+      "cefr": "A1",
+      "ipa": "[pɔt]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68dc22e9-dd26-4903-9c38-079222e672dc",
+      "part-of-speech": "preposition",
+      "english": "above; by (a river, sea)",
+      "polish": "nad",
+      "cefr": "A2",
+      "ipa": "[nat]",
+      "context": "+ instrumental: nad morzem (at the seaside)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe3c8a07-0610-4226-a59a-1b399cfbf053",
+      "part-of-speech": "preposition",
+      "english": "in front of; before",
+      "polish": "przed",
+      "cefr": "A1",
+      "ipa": "[pʂɛt]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fe4f66d-e025-4876-bc91-12f65a0dc081",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "polish": "po",
+      "cefr": "A1",
+      "ipa": "[pɔ]",
+      "context": "+ locative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21be0bdf-87aa-4262-9b0e-13dca0847205",
+      "part-of-speech": "preposition",
+      "english": "through; across",
+      "polish": "przez",
+      "cefr": "A2",
+      "ipa": "[pʂɛs]",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c8f3f4a-101f-458f-9099-f6f14d8ca435",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "polish": "obok",
+      "cefr": "A1",
+      "ipa": "[ˈɔbɔk]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3651533d-0f60-446b-84b6-09ca5f30f4a8",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "polish": "między",
+      "cefr": "A2",
+      "ipa": "[ˈmʲɛndzɨ]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c62e3fe2-057e-4530-a0e5-838afe3c26e5",
+      "part-of-speech": "preposition",
+      "english": "opposite",
+      "polish": "naprzeciwko",
+      "cefr": "A2",
+      "ipa": "[napʂɛˈtɕifkɔ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e8ff1d2-0dca-418f-b74b-eecda285500f",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "polish": "i",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e55c311-908e-405f-9e00-0a56cae18b73",
+      "part-of-speech": "conjunction",
+      "english": "and, but (contrasting)",
+      "polish": "a",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "context": "ja jestem lekarzem, a on nauczycielem",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1e110ff-f70e-4315-b990-d6b80f1fad56",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "polish": "albo",
+      "cefr": "A1",
+      "ipa": "[ˈalbɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ae6ba1b-0613-4c08-bf44-e3a6d3becbab",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "polish": "ale",
+      "cefr": "A1",
+      "ipa": "[ˈalɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8840dd2-f1be-447c-adc4-e9e75ac17507",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "polish": "bo",
+      "cefr": "A1",
+      "ipa": "[bɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c2246fc-5f40-4473-b699-116e0ae3a4b7",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "polish": "ponieważ",
+      "cefr": "A2",
+      "ipa": "[pɔˈɲɛvaʂ]",
+      "context": "more formal than bo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "448d2f6e-b308-4e52-81b5-2ca6bac886d4",
+      "part-of-speech": "conjunction",
+      "english": "so",
+      "polish": "więc",
+      "cefr": "A1",
+      "ipa": "[vʲɛnts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "139612ca-633b-4b4e-9825-30e11d07a8b0",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "polish": "że",
+      "cefr": "A1",
+      "ipa": "[ʐɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96c784de-af2b-42c9-b858-17cc5431a14f",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "polish": "jeśli",
+      "cefr": "A1",
+      "ipa": "[ˈjɛɕli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3f4a99a-af6f-4fad-9fd0-cf4347bb2165",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "polish": "kiedy",
+      "cefr": "A1",
+      "ipa": "[ˈkʲɛdɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09b0a4a6-3290-4710-b34b-a660da488aa0",
+      "part-of-speech": "conjunction",
+      "english": "so that, in order to",
+      "polish": "żeby",
+      "cefr": "A2",
+      "ipa": "[ˈʐɛbɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69326705-7381-482d-98b0-38aa9e25252b",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "polish": "chociaż",
+      "cefr": "A2",
+      "ipa": "[ˈxɔtɕaʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72e52089-60bc-47e9-bcfa-9257f64791f2",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "polish": "tak",
+      "cefr": "A1",
+      "ipa": "[tak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8c145db-bdb6-458e-af09-d94d72f98d79",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "polish": "nie",
+      "cefr": "A1",
+      "ipa": "[ɲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14df8bc4-c5e9-44e4-ac5d-4cca5de0d845",
+      "part-of-speech": "interjection",
+      "english": "hi; bye",
+      "polish": "cześć",
+      "cefr": "A1",
+      "ipa": "[tʂɛɕtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22fa45d2-a0bf-4821-802f-8841a4c25550",
+      "part-of-speech": "interjection",
+      "english": "good morning, hello",
+      "polish": "dzień dobry",
+      "cefr": "A1",
+      "ipa": "[dʑɛɲ ˈdɔbrɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "053bee04-b3f0-46c1-ace8-b24a6f1b9db0",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "polish": "dobry wieczór",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɨ ˈvʲɛtʂur]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dc34c6d-9c9a-45f1-b448-acdf07c1d90f",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "polish": "dobranoc",
+      "cefr": "A1",
+      "ipa": "[dɔˈbranɔts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adf2724b-a67b-4567-b919-a3daa092792f",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "polish": "do widzenia",
+      "cefr": "A1",
+      "ipa": "[dɔ vʲiˈdzɛɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "521fb151-6077-4e9a-acf1-a650f2e9f10b",
+      "part-of-speech": "interjection",
+      "english": "see you, bye",
+      "polish": "na razie",
+      "cefr": "A1",
+      "ipa": "[na ˈraʑɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6627ca3-025c-41e9-beee-99b42a802039",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "polish": "dziękuję",
+      "cefr": "A1",
+      "ipa": "[dʑɛŋˈkujɛ]",
+      "context": "casual: dzięki",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97a2927f-1f58-4db3-8060-d6d2603b9c3f",
+      "part-of-speech": "interjection",
+      "english": "please; here you are; you're welcome",
+      "polish": "proszę",
+      "cefr": "A1",
+      "ipa": "[ˈprɔʂɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06e2a97c-b26c-45ef-813d-f88c47ba1526",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "polish": "przepraszam",
+      "cefr": "A1",
+      "ipa": "[pʂɛˈpraʂam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29c0f4e4-d145-4498-a8b3-5a698a999078",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "polish": "jak się masz",
+      "cefr": "A1",
+      "ipa": "[jak ɕɛ maʂ]",
+      "context": "formal: jak się pan/pani ma?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d63c9f3-c326-400e-b8c6-af69a20962e7",
+      "part-of-speech": "interjection",
+      "english": "nice to meet you",
+      "polish": "miło mi",
+      "cefr": "A1",
+      "ipa": "[ˈmʲiwɔ mʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29c5d4f8-39ae-45fd-a469-cbe31b457d45",
+      "part-of-speech": "interjection",
+      "english": "enjoy your meal",
+      "polish": "smacznego",
+      "cefr": "A2",
+      "ipa": "[smaˈtʂnɛɡɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e207bc2-09f2-44e3-9495-8d99ab21f94f",
+      "part-of-speech": "interjection",
+      "english": "cheers; bless you",
+      "polish": "na zdrowie",
+      "cefr": "A2",
+      "ipa": "[na ˈzdrɔvʲɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25b7f719-2235-4844-97e0-4938b604f156",
+      "part-of-speech": "interjection",
+      "english": "all the best; happy birthday",
+      "polish": "wszystkiego najlepszego",
+      "cefr": "A2",
+      "ipa": "[fʂɨˈstkʲɛɡɔ najlɛˈpʂɛɡɔ]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}
