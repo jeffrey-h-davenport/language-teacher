@@ -1,0 +1,255 @@
+{
+  "scriptName": "Danish Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Danish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Copenhagen Danish, written as exact (bracketed) IPA. ˀ marks the stød, a creaky catch in the voice that can tell words apart (hun \"she\" vs hund \"dog\"). b, d, g are pronounced as unaspirated p, t, k, which is how they appear in the IPA."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "æ",
+          "ipa": "[ɛ æ]",
+          "note": "e as in \"bed\", or a as in \"cat\""
+        },
+        {
+          "char": "ø",
+          "ipa": "[ø œ]",
+          "note": "e with rounded lips"
+        },
+        {
+          "char": "å",
+          "ipa": "[ɔ ʌ]",
+          "note": "o"
+        },
+        {
+          "char": "y",
+          "ipa": "[y]",
+          "note": "ee with rounded lips"
+        },
+        {
+          "char": "u",
+          "ipa": "[u]",
+          "note": "oo"
+        },
+        {
+          "char": "soft d (after a vowel)",
+          "ipa": "[ð]",
+          "note": "a very weak \"th\""
+        },
+        {
+          "char": "r after a vowel",
+          "ipa": "[ɐ̯]",
+          "note": "not an r at all — it colours the vowel"
+        },
+        {
+          "char": "r elsewhere",
+          "ipa": "[ʁ]",
+          "note": "in the throat"
+        },
+        {
+          "char": "g after a vowel",
+          "ipa": "[j w —]",
+          "note": "often y, w or silent: dag [dæˀ]"
+        },
+        {
+          "char": "v after a vowel",
+          "ipa": "[w]",
+          "note": "often w: syv [sywˀ]"
+        },
+        {
+          "char": "p t k",
+          "ipa": "[pʰ tˢ kʰ]",
+          "note": "with a puff of air; t almost ts"
+        },
+        {
+          "char": "hv / hj",
+          "ipa": "[v j]",
+          "note": "the h is silent"
+        },
+        {
+          "char": "-e at the end",
+          "ipa": "[ə]",
+          "note": "a weak \"uh\""
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "af [a]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "det [ˈde]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "i [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "mod [moð]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "nu [ˈnu]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "by [ˈbyˀ]",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "j",
+          "ipa": "ja [ˈjæ]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "w",
+          "ipa": "sjov [ˈɕʌw]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "æ",
+          "ipa": "ja [ˈjæ]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "fra [fʁɑ]",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ɐ",
+          "ipa": "alder [ˈalɐ]",
+          "note": "a short, central \"uh\""
+        },
+        {
+          "char": "ʌ",
+          "ipa": "og [ʌ]",
+          "note": "u, as in \"cup\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "end [ɛn]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "uge [ˈuːə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "på [pʰɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ɒ",
+          "ipa": "hvor [ˈvɒˀ]",
+          "note": "a rounded, open o, as in British \"lot\" said further back"
+        },
+        {
+          "char": "ø",
+          "ipa": "øl [ˈølˀ]",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "œ",
+          "ipa": "ryg [ˈʁœɡ]",
+          "note": "e as in \"bed\" with rounded lips"
+        },
+        {
+          "char": "ð",
+          "ipa": "med [með]",
+          "note": "th, as in \"this\""
+        },
+        {
+          "char": "ʁ",
+          "ipa": "fra [fʁɑ]",
+          "note": "r made at the back of the throat (French r)"
+        },
+        {
+          "char": "ʒ",
+          "ipa": "job [ˈdʒʌb]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɕ",
+          "ipa": "sjov [ˈɕʌw]",
+          "note": "a soft sh, with the tongue flat"
+        },
+        {
+          "char": "ŋ",
+          "ipa": "ung [ˈɔŋˀ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "ryg [ˈʁœɡ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "I [ˈi]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ˌ",
+          "ipa": "januar [ˈjanuˌɑˀ]",
+          "note": "the next syllable has a lighter, secondary stress"
+        },
+        {
+          "char": "ː",
+          "ipa": "far [ˈfɑː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "ˀ",
+          "ipa": "dag [ˈdæˀ]",
+          "note": "stød — a brief creaky catch in the voice"
+        },
+        {
+          "char": "ʰ",
+          "ipa": "på [pʰɔ]",
+          "note": "with a puff of air (aspirated)"
+        },
+        {
+          "char": "ˢ",
+          "ipa": "til [tˢe]",
+          "note": "released with a little s-sound"
+        },
+        {
+          "char": "◌̍",
+          "ipa": "køkken [ˈkʰøɡŋ̍]",
+          "note": "forms a syllable on its own, without a vowel"
+        },
+        {
+          "char": "◌̩",
+          "ipa": "gaffel [ˈɡafl̩]",
+          "note": "forms a syllable on its own, without a vowel"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "mor [ˈmoɐ̯]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
+        }
+      ]
+    }
+  ]
+}

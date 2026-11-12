@@ -1,0 +1,324 @@
+{
+  "scriptName": "Cyrillic",
+  "buttonLabel": "Cyrillic Guide",
+  "fontScale": 1.1,
+  "intro": "The Russian (Cyrillic) alphabet with the sound of every letter, the main reading rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "How Cyrillic works",
+      "text": [
+        "Russian is written in the Cyrillic alphabet: 33 letters, most of which stand for one sound each. Some look like Latin letters but sound different — Р is r, Н is n, В is v, С is s, У is u, Х is kh, and Е is ye.",
+        "Most consonants come in two versions, hard and soft. A soft consonant is said with the tongue raised toward a y-sound; it's shown in the IPA with a small ʲ (дядя [ˈdʲædʲə]). The vowel letters е, ё, и, ю, я and the soft sign ь make the consonant before them soft."
+      ]
+    },
+    {
+      "heading": "The alphabet",
+      "items": [
+        {
+          "char": "А а",
+          "ipa": "[a]",
+          "note": "a"
+        },
+        {
+          "char": "Б б",
+          "ipa": "[b]",
+          "note": "b"
+        },
+        {
+          "char": "В в",
+          "ipa": "[v]",
+          "note": "v"
+        },
+        {
+          "char": "Г г",
+          "ipa": "[ɡ]",
+          "note": "g"
+        },
+        {
+          "char": "Д д",
+          "ipa": "[d]",
+          "note": "d"
+        },
+        {
+          "char": "Е е",
+          "ipa": "[je ʲe]",
+          "note": "ye — softens the consonant before it"
+        },
+        {
+          "char": "Ё ё",
+          "ipa": "[jo ʲo]",
+          "note": "yo — always stressed"
+        },
+        {
+          "char": "Ж ж",
+          "ipa": "[ʐ]",
+          "note": "zh"
+        },
+        {
+          "char": "З з",
+          "ipa": "[z]",
+          "note": "z"
+        },
+        {
+          "char": "И и",
+          "ipa": "[i]",
+          "note": "i — softens the consonant before it"
+        },
+        {
+          "char": "Й й",
+          "ipa": "[j]",
+          "note": "short y"
+        },
+        {
+          "char": "К к",
+          "ipa": "[k]",
+          "note": "k"
+        },
+        {
+          "char": "Л л",
+          "ipa": "[ɫ lʲ]",
+          "note": "l — dark, or soft before е, и, ё, ю, я, ь"
+        },
+        {
+          "char": "М м",
+          "ipa": "[m]",
+          "note": "m"
+        },
+        {
+          "char": "Н н",
+          "ipa": "[n]",
+          "note": "n"
+        },
+        {
+          "char": "О о",
+          "ipa": "[o]",
+          "note": "o — only when stressed"
+        },
+        {
+          "char": "П п",
+          "ipa": "[p]",
+          "note": "p"
+        },
+        {
+          "char": "Р р",
+          "ipa": "[r]",
+          "note": "rolled r"
+        },
+        {
+          "char": "С с",
+          "ipa": "[s]",
+          "note": "s"
+        },
+        {
+          "char": "Т т",
+          "ipa": "[t]",
+          "note": "t"
+        },
+        {
+          "char": "У у",
+          "ipa": "[u]",
+          "note": "u"
+        },
+        {
+          "char": "Ф ф",
+          "ipa": "[f]",
+          "note": "f"
+        },
+        {
+          "char": "Х х",
+          "ipa": "[x]",
+          "note": "kh, as in \"loch\""
+        },
+        {
+          "char": "Ц ц",
+          "ipa": "[ts]",
+          "note": "ts"
+        },
+        {
+          "char": "Ч ч",
+          "ipa": "[tɕ]",
+          "note": "ch (always soft)"
+        },
+        {
+          "char": "Ш ш",
+          "ipa": "[ʂ]",
+          "note": "sh (always hard)"
+        },
+        {
+          "char": "Щ щ",
+          "ipa": "[ɕː]",
+          "note": "a long, soft sh"
+        },
+        {
+          "char": "Ъ ъ",
+          "ipa": "",
+          "note": "hard sign: a small break before е, ё, ю, я"
+        },
+        {
+          "char": "Ы ы",
+          "ipa": "[ɨ]",
+          "note": "a \"y\" sound with no English match: i with the tongue pulled back"
+        },
+        {
+          "char": "Ь ь",
+          "ipa": "[ʲ]",
+          "note": "soft sign: makes the consonant before it soft"
+        },
+        {
+          "char": "Э э",
+          "ipa": "[ɛ]",
+          "note": "e as in \"bed\""
+        },
+        {
+          "char": "Ю ю",
+          "ipa": "[ju ʲu]",
+          "note": "yu — softens the consonant before it"
+        },
+        {
+          "char": "Я я",
+          "ipa": "[ja ʲa]",
+          "note": "ya — softens the consonant before it"
+        }
+      ]
+    },
+    {
+      "heading": "Reading rules",
+      "text": [
+        "Stress: every Russian word has one stressed syllable, and it can fall anywhere. Ordinary Russian text doesn't mark it, so the IPA in this app always shows it with ˈ.",
+        "Unstressed vowels weaken: о is only [o] when stressed — elsewhere it sounds like a (молоко [məɫɐˈko]). Unstressed е and я sound like a short i (сестра [sʲɪˈstra]).",
+        "Voiced consonants at the end of a word lose their voice: хлеб sounds like [xlʲep], друг like [druk]."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "а [a]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "лес [lʲes]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "и [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "о [o]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "у [u]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "я [ja]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "сыр [sɨr]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "x",
+          "ipa": "их [ix]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "æ",
+          "ipa": "чай [tɕæj]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ɐ",
+          "ipa": "она [ɐˈna]",
+          "note": "a short, central \"uh\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "уже [ʊˈʐɛ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ə",
+          "ipa": "ухо [ˈuxə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɪ",
+          "ipa": "из [ɪs]",
+          "note": "i, as in \"bit\""
+        },
+        {
+          "char": "ɨ",
+          "ipa": "ты [tɨ]",
+          "note": "a short central i, like the vowel in \"roses\""
+        },
+        {
+          "char": "ʊ",
+          "ipa": "уже [ʊˈʐɛ]",
+          "note": "oo, as in \"book\""
+        },
+        {
+          "char": "ʉ",
+          "ipa": "ключ [klʲʉtɕ]",
+          "note": "oo said with the tongue pushed forward"
+        },
+        {
+          "char": "ɵ",
+          "ipa": "всё [fsʲɵ]",
+          "note": "a rounded vowel between ö and o"
+        },
+        {
+          "char": "ɕ",
+          "ipa": "дочь [dotɕ]",
+          "note": "a soft sh, with the tongue flat"
+        },
+        {
+          "char": "ʂ",
+          "ipa": "муж [muʂ]",
+          "note": "sh with the tongue tip curled back"
+        },
+        {
+          "char": "ʐ",
+          "ipa": "жить [ʐɨtʲ]",
+          "note": "zh with the tongue tip curled back"
+        },
+        {
+          "char": "ɫ",
+          "ipa": "стол [stoɫ]",
+          "note": "a dark l, as in \"full\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "год [ɡot]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "ухо [ˈuxə]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "вещь [vʲeɕː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "ʲ",
+          "ipa": "не [nʲɪ]",
+          "note": "soft — said with the middle of the tongue raised, as if starting a y"
+        }
+      ]
+    }
+  ]
+}

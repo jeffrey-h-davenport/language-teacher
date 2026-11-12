@@ -1,0 +1,6411 @@
+{
+  "meta": {
+    "language": "Russian",
+    "languageCode": "ru",
+    "nativeLanguage": "English",
+    "targetField": "russian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "8692cafc-6071-42d4-90a5-a50d94c625bf",
+      "part-of-speech": "noun",
+      "english": "person",
+      "russian": "человек",
+      "gender": "masculine",
+      "plural": "люди",
+      "cefr": "A1",
+      "ipa": "[tɕɪlɐˈvʲek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "239dff41-76d0-4ef4-a0a7-dc2ecf029c14",
+      "part-of-speech": "noun",
+      "english": "man",
+      "russian": "мужчина",
+      "gender": "masculine",
+      "plural": "мужчины",
+      "cefr": "A1",
+      "ipa": "[mʊˈɕːinə]",
+      "context": "masculine despite the -а",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff74be77-ed27-4224-ae7c-7e3babbac30d",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "russian": "женщина",
+      "gender": "feminine",
+      "plural": "женщины",
+      "cefr": "A1",
+      "ipa": "[ˈʐɛnʲɕːɪnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22f1ef14-3553-48f0-b11a-5b314a389200",
+      "part-of-speech": "noun",
+      "english": "child",
+      "russian": "ребёнок",
+      "gender": "masculine",
+      "plural": "дети",
+      "cefr": "A1",
+      "ipa": "[rʲɪˈbʲɵnək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "435fddbd-b865-4d9f-ab57-072b274bd103",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "russian": "мальчик",
+      "gender": "masculine",
+      "plural": "мальчики",
+      "cefr": "A1",
+      "ipa": "[ˈmalʲtɕɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6decf3e-6dcd-4153-913e-39b48f78ac3e",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "russian": "девочка",
+      "gender": "feminine",
+      "plural": "девочки",
+      "cefr": "A1",
+      "ipa": "[ˈdʲevətɕkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4274590c-fcf6-4d9a-a2c3-b1735fb71282",
+      "part-of-speech": "noun",
+      "english": "mum, mother",
+      "russian": "мама",
+      "gender": "feminine",
+      "plural": "мамы",
+      "cefr": "A1",
+      "ipa": "[ˈmamə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec4b174c-b00d-4476-afb6-961f2db1076a",
+      "part-of-speech": "noun",
+      "english": "dad, father",
+      "russian": "папа",
+      "gender": "masculine",
+      "plural": "папы",
+      "cefr": "A1",
+      "ipa": "[ˈpapə]",
+      "context": "masculine despite the -а",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f840e007-8e68-48ca-8606-00c81037c554",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "russian": "мать",
+      "gender": "feminine",
+      "plural": "матери",
+      "cefr": "A2",
+      "ipa": "[matʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84f55772-5d4e-467b-a9fa-57c6d9e6bb02",
+      "part-of-speech": "noun",
+      "english": "father",
+      "russian": "отец",
+      "gender": "masculine",
+      "plural": "отцы",
+      "cefr": "A1",
+      "ipa": "[ɐˈtʲets]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42229b62-20bb-4a92-8058-324324546b74",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "russian": "родители",
+      "gender": "masculine",
+      "plural": "родители",
+      "cefr": "A1",
+      "ipa": "[rɐˈdʲitʲɪlʲɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "806eb80f-91f5-4c97-8990-3667b77d1ba3",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "russian": "брат",
+      "gender": "masculine",
+      "plural": "братья",
+      "cefr": "A1",
+      "ipa": "[brat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "754581fe-6c3c-482c-8ea0-8b2277a2e833",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "russian": "сестра",
+      "gender": "feminine",
+      "plural": "сёстры",
+      "cefr": "A1",
+      "ipa": "[sʲɪˈstra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1db82b3e-c5a5-4614-b429-040dd3d81f17",
+      "part-of-speech": "noun",
+      "english": "son",
+      "russian": "сын",
+      "gender": "masculine",
+      "plural": "сыновья",
+      "cefr": "A1",
+      "ipa": "[sɨn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec330173-e0fe-415e-b4fc-9636e91349ab",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "russian": "дочь",
+      "gender": "feminine",
+      "plural": "дочери",
+      "cefr": "A1",
+      "ipa": "[dotɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "235b92e7-fd9c-483b-913a-6ae452daa4ba",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "russian": "дедушка",
+      "gender": "masculine",
+      "plural": "дедушки",
+      "cefr": "A1",
+      "ipa": "[ˈdʲedʊʂkə]",
+      "context": "masculine despite the -а",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09e01944-3d25-4369-8b72-27a14327b485",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "russian": "бабушка",
+      "gender": "feminine",
+      "plural": "бабушки",
+      "cefr": "A1",
+      "ipa": "[ˈbabʊʂkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed3df971-dffe-437b-860a-0d52ed415d55",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "russian": "дядя",
+      "gender": "masculine",
+      "plural": "дяди",
+      "cefr": "A2",
+      "ipa": "[ˈdʲædʲə]",
+      "context": "masculine despite the -я",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "761f9eef-e625-46ff-a8c1-a2d7119fb71f",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "russian": "тётя",
+      "gender": "feminine",
+      "plural": "тёти",
+      "cefr": "A2",
+      "ipa": "[ˈtʲɵtʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "442d9dd9-cd3e-432e-9795-025ebe558153",
+      "part-of-speech": "noun",
+      "english": "family",
+      "russian": "семья",
+      "gender": "feminine",
+      "plural": "семьи",
+      "cefr": "A1",
+      "ipa": "[sʲɪˈmʲja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70a798cb-e592-4244-9996-81e2a5537f2c",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "russian": "муж",
+      "gender": "masculine",
+      "plural": "мужья",
+      "cefr": "A1",
+      "ipa": "[muʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8660d5de-5ead-4edd-93ef-05c6a69e278b",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "russian": "жена",
+      "gender": "feminine",
+      "plural": "жёны",
+      "cefr": "A1",
+      "ipa": "[ʐɨˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "faae9d16-4a07-461a-b9be-e6701d7aa11a",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "russian": "друг",
+      "gender": "masculine",
+      "plural": "друзья",
+      "cefr": "A1",
+      "ipa": "[druk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56d0fd21-cb4b-472f-b515-cb8c2c61c6c0",
+      "part-of-speech": "noun",
+      "english": "friend (female); girlfriend",
+      "russian": "подруга",
+      "gender": "feminine",
+      "plural": "подруги",
+      "cefr": "A1",
+      "ipa": "[pɐˈdruɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "baa6ee61-c53f-46c1-9285-8b44839bbd3e",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "russian": "сосед",
+      "gender": "masculine",
+      "plural": "соседи",
+      "cefr": "A2",
+      "ipa": "[sɐˈsʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c4d0403-3763-4f54-a8c4-f7b5670dcd2f",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "russian": "коллега",
+      "gender": "masculine",
+      "plural": "коллеги",
+      "cefr": "A2",
+      "ipa": "[kɐˈlʲeɡə]",
+      "context": "used for both men and women",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f9109d4-1ea6-455a-b5cd-8294fa5bfe83",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "russian": "учитель",
+      "gender": "masculine",
+      "plural": "учителя",
+      "cefr": "A1",
+      "ipa": "[ʊˈtɕitʲɪlʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7a3f298-6b5a-423a-b90c-9c0dfa72ebeb",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "russian": "учительница",
+      "gender": "feminine",
+      "plural": "учительницы",
+      "cefr": "A1",
+      "ipa": "[ʊˈtɕitʲɪlʲnʲɪtsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19a57b7c-d406-49c8-8e15-925546175033",
+      "part-of-speech": "noun",
+      "english": "student",
+      "russian": "студент",
+      "gender": "masculine",
+      "plural": "студенты",
+      "cefr": "A1",
+      "ipa": "[stʊˈdʲent]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c36c29e4-2e52-4bec-a9ce-9763e03b0b61",
+      "part-of-speech": "noun",
+      "english": "student (female)",
+      "russian": "студентка",
+      "gender": "feminine",
+      "plural": "студентки",
+      "cefr": "A1",
+      "ipa": "[stʊˈdʲentkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb4d229b-3984-419c-9e03-10e42d41c434",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "russian": "врач",
+      "gender": "masculine",
+      "plural": "врачи",
+      "cefr": "A1",
+      "ipa": "[vratɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "508a602d-9edb-41ba-8e1a-8cf1ae0477be",
+      "part-of-speech": "noun",
+      "english": "(first) name",
+      "russian": "имя",
+      "gender": "neuter",
+      "plural": "имена",
+      "cefr": "A1",
+      "ipa": "[ˈimʲə]",
+      "context": "neuter despite the -я; меня зовут …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c31abf04-62a2-4c5f-9e66-066cd930d452",
+      "part-of-speech": "noun",
+      "english": "age",
+      "russian": "возраст",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈvozrəst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89b31784-85aa-48e3-8ad8-b3d065555a09",
+      "part-of-speech": "noun",
+      "english": "time",
+      "russian": "время",
+      "gender": "neuter",
+      "plural": "времена",
+      "cefr": "A1",
+      "ipa": "[ˈvrʲemʲə]",
+      "context": "neuter despite the -я",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dac736e1-1a45-4b23-a0a9-db5e1db361ca",
+      "part-of-speech": "noun",
+      "english": "day",
+      "russian": "день",
+      "gender": "masculine",
+      "plural": "дни",
+      "cefr": "A1",
+      "ipa": "[dʲenʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f14de3b5-9b94-49dc-8196-7f85f629723f",
+      "part-of-speech": "noun",
+      "english": "week",
+      "russian": "неделя",
+      "gender": "feminine",
+      "plural": "недели",
+      "cefr": "A1",
+      "ipa": "[nʲɪˈdʲelʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c0a26eb-fb1c-4243-ad1f-25d4c6329850",
+      "part-of-speech": "noun",
+      "english": "month",
+      "russian": "месяц",
+      "gender": "masculine",
+      "plural": "месяцы",
+      "cefr": "A1",
+      "ipa": "[ˈmʲesʲɪts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc232f34-bba3-4fcc-bc75-836da44f5e6a",
+      "part-of-speech": "noun",
+      "english": "year",
+      "russian": "год",
+      "gender": "masculine",
+      "plural": "годы",
+      "cefr": "A1",
+      "ipa": "[ɡot]",
+      "context": "after 5 and up: лет (пять лет: five years)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d964aeb-25e6-4280-9914-29d5acc81703",
+      "part-of-speech": "noun",
+      "english": "hour; o'clock",
+      "russian": "час",
+      "gender": "masculine",
+      "plural": "часы",
+      "cefr": "A1",
+      "ipa": "[tɕas]",
+      "context": "часы also means clock, watch",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2658041-7df5-4a02-9031-ea97c19ef539",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "russian": "минута",
+      "gender": "feminine",
+      "plural": "минуты",
+      "cefr": "A1",
+      "ipa": "[mʲɪˈnutə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dd7a9f7-2b74-4f3b-aa53-69f25916291e",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "russian": "утро",
+      "gender": "neuter",
+      "plural": "утра",
+      "cefr": "A1",
+      "ipa": "[ˈutrə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b51fd7d9-3011-43c1-b081-2a2708351ca0",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "russian": "вечер",
+      "gender": "masculine",
+      "plural": "вечера",
+      "cefr": "A1",
+      "ipa": "[ˈvʲetɕɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d858860e-822d-4c5e-ae2d-1306eeea1685",
+      "part-of-speech": "noun",
+      "english": "night",
+      "russian": "ночь",
+      "gender": "feminine",
+      "plural": "ночи",
+      "cefr": "A1",
+      "ipa": "[notɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95cd23bf-4689-46e3-8fd8-82862d34a812",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "russian": "выходные",
+      "gender": "masculine",
+      "plural": "выходные",
+      "cefr": "A1",
+      "ipa": "[vɨxɐdˈnɨjɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4eb5277f-d9b9-491a-b506-1b642842db65",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "russian": "понедельник",
+      "gender": "masculine",
+      "plural": "понедельники",
+      "cefr": "A1",
+      "ipa": "[pənʲɪˈdʲelʲnʲɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2be8b94-759a-4a44-8b59-2fb2c576ff14",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "russian": "вторник",
+      "gender": "masculine",
+      "plural": "вторники",
+      "cefr": "A1",
+      "ipa": "[ˈftornʲɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "682dca22-7713-4762-985a-bea349652764",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "russian": "среда",
+      "gender": "feminine",
+      "plural": "среды",
+      "cefr": "A1",
+      "ipa": "[srʲɪˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "405e6dae-0fb5-4443-a059-a1e55c403524",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "russian": "четверг",
+      "gender": "masculine",
+      "plural": "четверги",
+      "cefr": "A1",
+      "ipa": "[tɕɪtˈvʲerk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "faa52ab4-ab03-44fd-b236-015ab4e97e7b",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "russian": "пятница",
+      "gender": "feminine",
+      "plural": "пятницы",
+      "cefr": "A1",
+      "ipa": "[ˈpʲætnʲɪtsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d3fdcdc-6aca-46d9-ae47-9c1ed6383669",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "russian": "суббота",
+      "gender": "feminine",
+      "plural": "субботы",
+      "cefr": "A1",
+      "ipa": "[sʊˈbotə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "745be83b-a456-4f7b-a242-31bab1b1db66",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "russian": "воскресенье",
+      "gender": "neuter",
+      "plural": "воскресенья",
+      "cefr": "A1",
+      "ipa": "[vəskrʲɪˈsʲenʲjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ef0baad-d69a-4b72-b9eb-8b836013d7d8",
+      "part-of-speech": "noun",
+      "english": "January",
+      "russian": "январь",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jɪnˈvarʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04f9dbe2-31e9-4389-bd96-eaf519a542a2",
+      "part-of-speech": "noun",
+      "english": "February",
+      "russian": "февраль",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[fʲɪˈvralʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "033b0c53-249f-4fd5-834e-0e153c3537ce",
+      "part-of-speech": "noun",
+      "english": "March",
+      "russian": "март",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[mart]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "832e58bb-49a2-4f5b-b9aa-19990a2ef61f",
+      "part-of-speech": "noun",
+      "english": "April",
+      "russian": "апрель",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɐˈprʲelʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13558b02-b1b2-4674-9451-09f4147c869f",
+      "part-of-speech": "noun",
+      "english": "May",
+      "russian": "май",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[maj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26e5587e-9150-4a7e-8e37-3f228e6b5c2a",
+      "part-of-speech": "noun",
+      "english": "June",
+      "russian": "июнь",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɪˈjunʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d758051c-d8cf-470d-b16f-ce2c4b98641f",
+      "part-of-speech": "noun",
+      "english": "July",
+      "russian": "июль",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɪˈjulʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30bae27a-e211-4ef8-bc7c-51c647c22d44",
+      "part-of-speech": "noun",
+      "english": "August",
+      "russian": "август",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈavɡʊst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0caf10c1-f73c-4af3-b510-63a1b52d95c6",
+      "part-of-speech": "noun",
+      "english": "September",
+      "russian": "сентябрь",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sʲɪnˈtʲabrʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c314b76e-9086-4ea9-b9d3-2fd60ad205ea",
+      "part-of-speech": "noun",
+      "english": "October",
+      "russian": "октябрь",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɐkˈtʲabrʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48877fa6-140b-4789-9e7a-3b0716d2b365",
+      "part-of-speech": "noun",
+      "english": "November",
+      "russian": "ноябрь",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[nɐˈjabrʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31cc86e5-ce3a-481c-84c4-1758f63ac55e",
+      "part-of-speech": "noun",
+      "english": "December",
+      "russian": "декабрь",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[dʲɪˈkabrʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "637f1687-3d7f-46b6-84a1-4a2079fd212a",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "russian": "весна",
+      "gender": "feminine",
+      "plural": "вёсны",
+      "cefr": "A2",
+      "ipa": "[vʲɪˈsna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8a31bd5-cbb3-46f8-9d50-87ad35927870",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "russian": "лето",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈlʲetə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b08aa76c-3e66-406b-930f-55f7ad7fbc14",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "russian": "осень",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈosʲɪnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84d424ba-f0ed-4c4b-9e6f-50000bffb309",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "russian": "зима",
+      "gender": "feminine",
+      "plural": "зимы",
+      "cefr": "A2",
+      "ipa": "[zʲɪˈma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8541de3c-41ed-403c-bc31-27fd8705583a",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "russian": "день рождения",
+      "gender": "masculine",
+      "plural": "дни рождения",
+      "cefr": "A1",
+      "ipa": "[dʲenʲ rɐʐˈdʲenʲɪjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "404bb205-3dc8-475e-9c62-5836794f56e6",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation (from work)",
+      "russian": "отпуск",
+      "gender": "masculine",
+      "plural": "отпуска",
+      "cefr": "A1",
+      "ipa": "[ˈotpʊsk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85868af9-0148-47a9-a887-b2cb7b40aec8",
+      "part-of-speech": "noun",
+      "english": "holidays (school, university)",
+      "russian": "каникулы",
+      "gender": "feminine",
+      "plural": "каникулы",
+      "cefr": "A2",
+      "ipa": "[kɐˈnʲikʊɫɨ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07b58819-3417-41ac-adef-41c5c0753ada",
+      "part-of-speech": "noun",
+      "english": "holiday, celebration",
+      "russian": "праздник",
+      "gender": "masculine",
+      "plural": "праздники",
+      "cefr": "A1",
+      "ipa": "[ˈprazʲnʲɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50e16c63-7b9b-40e3-b473-8ae6b0c7e49e",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "russian": "подарок",
+      "gender": "masculine",
+      "plural": "подарки",
+      "cefr": "A2",
+      "ipa": "[pɐˈdarək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfdc8910-afce-4994-a73d-536d09fab817",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "russian": "дом",
+      "gender": "masculine",
+      "plural": "дома",
+      "cefr": "A1",
+      "ipa": "[dom]",
+      "context": "дома: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a89f3da0-9f2e-43df-803e-82091e5eb462",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "russian": "квартира",
+      "gender": "feminine",
+      "plural": "квартиры",
+      "cefr": "A1",
+      "ipa": "[kvɐrˈtʲirə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "976e1de2-9e8b-470e-8fb5-66cf7afd7171",
+      "part-of-speech": "noun",
+      "english": "room",
+      "russian": "комната",
+      "gender": "feminine",
+      "plural": "комнаты",
+      "cefr": "A1",
+      "ipa": "[ˈkomnətə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04bcc470-5d8e-4668-b655-5e9ab1d649ec",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "russian": "спальня",
+      "gender": "feminine",
+      "plural": "спальни",
+      "cefr": "A1",
+      "ipa": "[ˈspalʲnʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6b1122a-3392-4ab0-9f86-d15ddfb7b6fd",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "russian": "кухня",
+      "gender": "feminine",
+      "plural": "кухни",
+      "cefr": "A1",
+      "ipa": "[ˈkuxnʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fda15b7-df38-4d6e-8cff-9bb59b8509b7",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "russian": "ванная",
+      "gender": "feminine",
+      "plural": "ванные",
+      "cefr": "A1",
+      "ipa": "[ˈvanːəjə]",
+      "context": "declines like an adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a360cea4-95ff-49ce-96fb-63ed4f974efd",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "russian": "туалет",
+      "gender": "masculine",
+      "plural": "туалеты",
+      "cefr": "A1",
+      "ipa": "[tʊɐˈlʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10568e95-b41d-4b57-8769-cece3baccb9a",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "russian": "сад",
+      "gender": "masculine",
+      "plural": "сады",
+      "cefr": "A1",
+      "ipa": "[sat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1b16f6f-6fdc-4ecd-8268-51f606857ab6",
+      "part-of-speech": "noun",
+      "english": "door",
+      "russian": "дверь",
+      "gender": "feminine",
+      "plural": "двери",
+      "cefr": "A1",
+      "ipa": "[dvʲerʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06b03373-ed8c-41bf-a1f0-7c345c839fee",
+      "part-of-speech": "noun",
+      "english": "window",
+      "russian": "окно",
+      "gender": "neuter",
+      "plural": "окна",
+      "cefr": "A1",
+      "ipa": "[ɐˈkno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b503600-d64d-45c7-8ed5-f200c22c1f1c",
+      "part-of-speech": "noun",
+      "english": "table",
+      "russian": "стол",
+      "gender": "masculine",
+      "plural": "столы",
+      "cefr": "A1",
+      "ipa": "[stoɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c96b6358-863c-4273-9c7e-ad478221c55f",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "russian": "стул",
+      "gender": "masculine",
+      "plural": "стулья",
+      "cefr": "A1",
+      "ipa": "[stuɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d16a155a-d3d8-47d9-809c-26007688d959",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "russian": "кровать",
+      "gender": "feminine",
+      "plural": "кровати",
+      "cefr": "A1",
+      "ipa": "[krɐˈvatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3283ff6-7b03-498f-a4c6-66fe1af45f35",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "russian": "диван",
+      "gender": "masculine",
+      "plural": "диваны",
+      "cefr": "A1",
+      "ipa": "[dʲɪˈvan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8713f9c0-dd3e-4b81-a431-cabfabb82216",
+      "part-of-speech": "noun",
+      "english": "key",
+      "russian": "ключ",
+      "gender": "masculine",
+      "plural": "ключи",
+      "cefr": "A1",
+      "ipa": "[klʲʉtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5063bef-868a-4680-b6fc-6757706a6366",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "russian": "холодильник",
+      "gender": "masculine",
+      "plural": "холодильники",
+      "cefr": "A2",
+      "ipa": "[xəɫɐˈdʲilʲnʲɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51d8d034-fbad-4257-a78b-19a7d26d9afb",
+      "part-of-speech": "noun",
+      "english": "television",
+      "russian": "телевизор",
+      "gender": "masculine",
+      "plural": "телевизоры",
+      "cefr": "A1",
+      "ipa": "[tʲɪlʲɪˈvʲizər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f061b6a2-9e10-4afd-a2c5-304b7323f59f",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "russian": "телефон",
+      "gender": "masculine",
+      "plural": "телефоны",
+      "cefr": "A1",
+      "ipa": "[tʲɪlʲɪˈfon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00ec5f2b-a5bd-4a12-8068-9701ab94081e",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "russian": "компьютер",
+      "gender": "masculine",
+      "plural": "компьютеры",
+      "cefr": "A1",
+      "ipa": "[kɐmˈpʲjutɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c70fa0d5-4015-4fa9-acc7-b358791cbce8",
+      "part-of-speech": "noun",
+      "english": "food",
+      "russian": "еда",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[jɪˈda]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f8d4b24-747f-451c-bb4f-994a888bbd04",
+      "part-of-speech": "noun",
+      "english": "water",
+      "russian": "вода",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[vɐˈda]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "661b1b2a-df00-4571-9ced-d48e24b6bce1",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "russian": "хлеб",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[xlʲep]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d777c4b6-ca68-4b78-8c01-29e81fc2a18f",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "russian": "кофе",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkofʲɪ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cc1cc0a-23a3-4c4d-8628-f1efc7f47d1b",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "russian": "чай",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tɕæj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20901436-9e88-4b78-89a7-e2d65b170ff3",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "russian": "молоко",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[məɫɐˈko]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af0a8a43-2ce1-44e7-8c08-b89ab12cdb38",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "russian": "сок",
+      "gender": "masculine",
+      "plural": "соки",
+      "cefr": "A1",
+      "ipa": "[sok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0682c04f-fa4f-4948-9fa8-944b781859ae",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "russian": "пиво",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈpʲivə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef99cc7b-6285-4e92-b300-7b7e0570bb60",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "russian": "вино",
+      "gender": "neuter",
+      "plural": "вина",
+      "cefr": "A1",
+      "ipa": "[vʲɪˈno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6d4cc13-b6a8-4252-aeea-ac463389bca9",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "russian": "мясо",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmʲæsə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e30f9c61-2b86-4108-a09c-bae1f498529d",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "russian": "курица",
+      "gender": "feminine",
+      "plural": "куры",
+      "cefr": "A1",
+      "ipa": "[ˈkurʲɪtsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4cb198f-8e7c-41f0-bf2a-c45574ebff30",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "russian": "рыба",
+      "gender": "feminine",
+      "plural": "рыбы",
+      "cefr": "A1",
+      "ipa": "[ˈrɨbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3e10b14-bf42-4b96-9c09-2191f74588d4",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "russian": "сыр",
+      "gender": "masculine",
+      "plural": "сыры",
+      "cefr": "A1",
+      "ipa": "[sɨr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9af516e-e7d1-4f48-bf80-1fa4f68b6d22",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "russian": "яйцо",
+      "gender": "neuter",
+      "plural": "яйца",
+      "cefr": "A1",
+      "ipa": "[jɪjˈtso]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93be0147-b70b-487b-acbb-047e8f7035da",
+      "part-of-speech": "noun",
+      "english": "vegetables",
+      "russian": "овощи",
+      "gender": "masculine",
+      "plural": "овощи",
+      "cefr": "A1",
+      "ipa": "[ˈovəɕːɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f01873b-2cbe-43f6-8086-323d09dae16c",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "russian": "фрукты",
+      "gender": "masculine",
+      "plural": "фрукты",
+      "cefr": "A1",
+      "ipa": "[ˈfruktɨ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9cb10f8-d08d-4f5a-9d78-198b57ee54f9",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "russian": "яблоко",
+      "gender": "neuter",
+      "plural": "яблоки",
+      "cefr": "A1",
+      "ipa": "[ˈjabləkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4cd0736-8f1f-4fef-8dda-40066e563e79",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "russian": "банан",
+      "gender": "masculine",
+      "plural": "бананы",
+      "cefr": "A1",
+      "ipa": "[bɐˈnan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cfe7961-c47a-4d77-8a06-0e040bc96ff0",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "russian": "апельсин",
+      "gender": "masculine",
+      "plural": "апельсины",
+      "cefr": "A1",
+      "ipa": "[ɐpʲɪlʲˈsʲin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f86cd5a9-9697-45b1-841f-0a621c796a53",
+      "part-of-speech": "noun",
+      "english": "potatoes",
+      "russian": "картошка",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[kɐrˈtoʂkə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e61c359e-98cf-45b8-8b5d-ae51ce631573",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "russian": "рис",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[rʲis]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "163d3c3d-f07f-4e7c-9bec-565dd83806c1",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "russian": "суп",
+      "gender": "masculine",
+      "plural": "супы",
+      "cefr": "A1",
+      "ipa": "[sup]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16a25e0a-e84c-4b0b-ba2d-9e820636d8db",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "russian": "сахар",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsaxər]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d01b663-72f6-4946-9fed-784db0449ba9",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "russian": "соль",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[solʲ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c52cd25-f988-4617-b3fd-06279a1dd9c3",
+      "part-of-speech": "noun",
+      "english": "butter; oil",
+      "russian": "масло",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmasɫə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23c26c1b-797f-4b8a-a69a-1d7caf47e08f",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "russian": "торт",
+      "gender": "masculine",
+      "plural": "торты",
+      "cefr": "A2",
+      "ipa": "[tort]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc58da78-b67c-404d-a6f8-178c47643b94",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "russian": "завтрак",
+      "gender": "masculine",
+      "plural": "завтраки",
+      "cefr": "A1",
+      "ipa": "[ˈzaftrək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa173c50-3570-4ea3-bb58-5f606c7470fb",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "russian": "обед",
+      "gender": "masculine",
+      "plural": "обеды",
+      "cefr": "A1",
+      "ipa": "[ɐˈbʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc5f7233-f390-4cf5-89d5-3e641951f98b",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "russian": "ужин",
+      "gender": "masculine",
+      "plural": "ужины",
+      "cefr": "A1",
+      "ipa": "[ˈuʐɨn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70ea4d38-6cb4-48b3-867c-f62e9b27028e",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "russian": "ресторан",
+      "gender": "masculine",
+      "plural": "рестораны",
+      "cefr": "A1",
+      "ipa": "[rʲɪstɐˈran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9d15ff4-36a1-492d-96db-0e7bc56bb153",
+      "part-of-speech": "noun",
+      "english": "café",
+      "russian": "кафе",
+      "gender": "neuter",
+      "plural": "кафе",
+      "cefr": "A1",
+      "ipa": "[kɐˈfɛ]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74e7ae6a-2ce1-4d4e-a825-a83a847e245d",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "russian": "стакан",
+      "gender": "masculine",
+      "plural": "стаканы",
+      "cefr": "A1",
+      "ipa": "[stɐˈkan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9aa99298-6d67-42b7-ac2f-0bdaece8973d",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "russian": "чашка",
+      "gender": "feminine",
+      "plural": "чашки",
+      "cefr": "A1",
+      "ipa": "[ˈtɕaʂkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90cd8227-cf4c-45c6-a2bb-b163e280b150",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "russian": "бутылка",
+      "gender": "feminine",
+      "plural": "бутылки",
+      "cefr": "A1",
+      "ipa": "[bʊˈtɨɫkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e57e98a-9b0e-4391-8a11-726d38e34bd9",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "russian": "тарелка",
+      "gender": "feminine",
+      "plural": "тарелки",
+      "cefr": "A2",
+      "ipa": "[tɐˈrʲeɫkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "633132fd-79f4-49b4-a736-3e9b98c77b0a",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "russian": "нож",
+      "gender": "masculine",
+      "plural": "ножи",
+      "cefr": "A2",
+      "ipa": "[noʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d3b0567-8c0c-492b-a5aa-8dd91d5e7f55",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "russian": "вилка",
+      "gender": "feminine",
+      "plural": "вилки",
+      "cefr": "A2",
+      "ipa": "[ˈvʲiɫkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cad1307-80d1-493e-b0cf-d3e3f532a9b2",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "russian": "ложка",
+      "gender": "feminine",
+      "plural": "ложки",
+      "cefr": "A2",
+      "ipa": "[ˈɫoʂkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b40a476-3689-426d-8ad6-e7e2da5fa31b",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "russian": "город",
+      "gender": "masculine",
+      "plural": "города",
+      "cefr": "A1",
+      "ipa": "[ˈɡorət]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85bb0db8-8f85-4533-8fe9-c4c93e8b9d85",
+      "part-of-speech": "noun",
+      "english": "village",
+      "russian": "деревня",
+      "gender": "feminine",
+      "plural": "деревни",
+      "cefr": "A2",
+      "ipa": "[dʲɪˈrʲevnʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9084600b-edbc-4ee1-929a-88960a0f928c",
+      "part-of-speech": "noun",
+      "english": "country",
+      "russian": "страна",
+      "gender": "feminine",
+      "plural": "страны",
+      "cefr": "A1",
+      "ipa": "[strɐˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1db04eec-6f98-423b-adf0-b8acff41bb7d",
+      "part-of-speech": "noun",
+      "english": "street",
+      "russian": "улица",
+      "gender": "feminine",
+      "plural": "улицы",
+      "cefr": "A1",
+      "ipa": "[ˈulʲɪtsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a44fee47-b351-4c29-82de-b02f7c1db533",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "russian": "дорога",
+      "gender": "feminine",
+      "plural": "дороги",
+      "cefr": "A1",
+      "ipa": "[dɐˈroɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cbdbe63-85da-4ac8-a084-1bbc49d7872a",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "russian": "магазин",
+      "gender": "masculine",
+      "plural": "магазины",
+      "cefr": "A1",
+      "ipa": "[məɡɐˈzʲin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e973c87f-daa8-4f74-899a-91b9ccb3df92",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "russian": "супермаркет",
+      "gender": "masculine",
+      "plural": "супермаркеты",
+      "cefr": "A1",
+      "ipa": "[sʊpʲɪrˈmarkʲɪt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fe70a77-bfb9-48b5-875e-8210904b9ee3",
+      "part-of-speech": "noun",
+      "english": "market",
+      "russian": "рынок",
+      "gender": "masculine",
+      "plural": "рынки",
+      "cefr": "A1",
+      "ipa": "[ˈrɨnək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "516be0af-19d7-4619-9a4a-223d36497f80",
+      "part-of-speech": "noun",
+      "english": "school",
+      "russian": "школа",
+      "gender": "feminine",
+      "plural": "школы",
+      "cefr": "A1",
+      "ipa": "[ˈʂkoɫə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d74fa10-dec5-4fd0-9d89-4f6230f623d6",
+      "part-of-speech": "noun",
+      "english": "university",
+      "russian": "университет",
+      "gender": "masculine",
+      "plural": "университеты",
+      "cefr": "A1",
+      "ipa": "[ʊnʲɪvʲɪrsʲɪˈtʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46589af3-89b3-49a9-bc72-dcf72abb066b",
+      "part-of-speech": "noun",
+      "english": "office",
+      "russian": "офис",
+      "gender": "masculine",
+      "plural": "офисы",
+      "cefr": "A2",
+      "ipa": "[ˈofʲɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdb053c6-5115-4fc9-bd6c-4e5508b4685f",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "russian": "больница",
+      "gender": "feminine",
+      "plural": "больницы",
+      "cefr": "A1",
+      "ipa": "[bɐlʲˈnʲitsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "582a4f17-6af0-45f2-a6e3-de8350161550",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "russian": "аптека",
+      "gender": "feminine",
+      "plural": "аптеки",
+      "cefr": "A1",
+      "ipa": "[ɐpˈtʲekə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a682c27c-9223-4fee-bc8e-1275a54f69df",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "russian": "банк",
+      "gender": "masculine",
+      "plural": "банки",
+      "cefr": "A1",
+      "ipa": "[bank]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "090eac25-1417-4dc8-90d9-e8151416ed22",
+      "part-of-speech": "noun",
+      "english": "church",
+      "russian": "церковь",
+      "gender": "feminine",
+      "plural": "церкви",
+      "cefr": "A2",
+      "ipa": "[ˈtsɛrkəfʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ff74225-29f2-44c9-8adf-0e07963edae8",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "russian": "музей",
+      "gender": "masculine",
+      "plural": "музеи",
+      "cefr": "A2",
+      "ipa": "[mʊˈzʲej]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfc97b1a-2b86-4e4d-b9ec-3134ec1d1651",
+      "part-of-speech": "noun",
+      "english": "park",
+      "russian": "парк",
+      "gender": "masculine",
+      "plural": "парки",
+      "cefr": "A1",
+      "ipa": "[park]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f2abb13-915f-45e6-877b-e28bca485c4d",
+      "part-of-speech": "noun",
+      "english": "cinema; the movies",
+      "russian": "кино",
+      "gender": "neuter",
+      "plural": "кино",
+      "cefr": "A1",
+      "ipa": "[kʲɪˈno]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac9a8dc2-a6ef-4029-ae41-320845a105aa",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "russian": "гостиница",
+      "gender": "feminine",
+      "plural": "гостиницы",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈstʲinʲɪtsə]",
+      "context": "also отель (m)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c7fc087-ee3b-4836-8a01-58905c996fc2",
+      "part-of-speech": "noun",
+      "english": "library",
+      "russian": "библиотека",
+      "gender": "feminine",
+      "plural": "библиотеки",
+      "cefr": "A2",
+      "ipa": "[bʲɪblʲɪɐˈtʲekə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48ac5486-2e79-4402-945d-b40a704d98df",
+      "part-of-speech": "noun",
+      "english": "(railway) station",
+      "russian": "вокзал",
+      "gender": "masculine",
+      "plural": "вокзалы",
+      "cefr": "A1",
+      "ipa": "[vɐɡˈzaɫ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80445ea1-947d-4d61-b2dd-c5b07c6392e9",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "russian": "аэропорт",
+      "gender": "masculine",
+      "plural": "аэропорты",
+      "cefr": "A1",
+      "ipa": "[ɐɛrɐˈport]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "631d3d91-baf4-46eb-b3b0-63653ef8bd26",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "russian": "автобус",
+      "gender": "masculine",
+      "plural": "автобусы",
+      "cefr": "A1",
+      "ipa": "[ɐfˈtobʊs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cb888b5-4a17-49ac-b0fa-8d17a78cde18",
+      "part-of-speech": "noun",
+      "english": "train",
+      "russian": "поезд",
+      "gender": "masculine",
+      "plural": "поезда",
+      "cefr": "A1",
+      "ipa": "[ˈpojɪst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d557d2d-d6e1-4c90-a6df-dac25f44c692",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "russian": "метро",
+      "gender": "neuter",
+      "plural": "метро",
+      "cefr": "A1",
+      "ipa": "[mʲɪˈtro]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cb3673b-2f9a-414f-9345-ea3cadbb866e",
+      "part-of-speech": "noun",
+      "english": "car",
+      "russian": "машина",
+      "gender": "feminine",
+      "plural": "машины",
+      "cefr": "A1",
+      "ipa": "[mɐˈʂɨnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e7b9148-495c-4a98-bbee-3936be27dbba",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "russian": "велосипед",
+      "gender": "masculine",
+      "plural": "велосипеды",
+      "cefr": "A1",
+      "ipa": "[vʲɪɫəsʲɪˈpʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f31bf42d-2086-460c-846a-774cc72539b1",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "russian": "самолёт",
+      "gender": "masculine",
+      "plural": "самолёты",
+      "cefr": "A1",
+      "ipa": "[səmɐˈlʲɵt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dc1d1e8-f5c5-4b6a-9523-668bc688113d",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "russian": "билет",
+      "gender": "masculine",
+      "plural": "билеты",
+      "cefr": "A1",
+      "ipa": "[bʲɪˈlʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cec4cbe-7b7d-4aee-bd85-185ec9307aa1",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "russian": "путешествие",
+      "gender": "neuter",
+      "plural": "путешествия",
+      "cefr": "A2",
+      "ipa": "[pʊtʲɪˈʂɛstvʲɪjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc790420-158e-4a48-b8df-cb26e25bfc45",
+      "part-of-speech": "noun",
+      "english": "map; card",
+      "russian": "карта",
+      "gender": "feminine",
+      "plural": "карты",
+      "cefr": "A2",
+      "ipa": "[ˈkartə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a890bf19-8d69-4951-a86e-2692ace2158e",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "russian": "море",
+      "gender": "neuter",
+      "plural": "моря",
+      "cefr": "A1",
+      "ipa": "[ˈmorʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bda4d13-e46a-43e9-93e7-ee7de51ee4ee",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "russian": "пляж",
+      "gender": "masculine",
+      "plural": "пляжи",
+      "cefr": "A1",
+      "ipa": "[plʲæʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2aadbb16-486c-4568-a496-2d37d29388f6",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "russian": "гора",
+      "gender": "feminine",
+      "plural": "горы",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8c2c002-3080-423f-b769-dbf9e1a8f2bb",
+      "part-of-speech": "noun",
+      "english": "river",
+      "russian": "река",
+      "gender": "feminine",
+      "plural": "реки",
+      "cefr": "A1",
+      "ipa": "[rʲɪˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "208dc284-ea58-4376-bccc-c14e517be4dc",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "russian": "озеро",
+      "gender": "neuter",
+      "plural": "озёра",
+      "cefr": "A2",
+      "ipa": "[ˈozʲɪrə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd7b9610-f5a5-4866-be80-358d566911c4",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "russian": "лес",
+      "gender": "masculine",
+      "plural": "леса",
+      "cefr": "A1",
+      "ipa": "[lʲes]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f86ca3e-5c51-4e07-abbd-3420367ed565",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "russian": "дерево",
+      "gender": "neuter",
+      "plural": "деревья",
+      "cefr": "A1",
+      "ipa": "[ˈdʲerʲɪvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a6803cd-8d0c-44fa-b48f-d4bbbcaa6348",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "russian": "цветок",
+      "gender": "masculine",
+      "plural": "цветы",
+      "cefr": "A1",
+      "ipa": "[tsvʲɪˈtok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d681d3c-bebd-43d1-b97b-dfb5fd2acda1",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "russian": "животное",
+      "gender": "neuter",
+      "plural": "животные",
+      "cefr": "A1",
+      "ipa": "[ʐɨˈvotnəjə]",
+      "context": "declines like an adjective",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27908a1f-ac7d-4fb5-9b31-795aa9ff4a41",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "russian": "собака",
+      "gender": "feminine",
+      "plural": "собаки",
+      "cefr": "A1",
+      "ipa": "[sɐˈbakə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11c1a232-7a6a-438b-844a-d18abf654305",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "russian": "кошка",
+      "gender": "feminine",
+      "plural": "кошки",
+      "cefr": "A1",
+      "ipa": "[ˈkoʂkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db736199-5dff-4ff2-8d43-416c579f2515",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "russian": "птица",
+      "gender": "feminine",
+      "plural": "птицы",
+      "cefr": "A1",
+      "ipa": "[ˈptʲitsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73711c6f-84eb-4d76-aee5-cfa9d5146995",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "russian": "лошадь",
+      "gender": "feminine",
+      "plural": "лошади",
+      "cefr": "A2",
+      "ipa": "[ˈɫoʂətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "507dd49c-ed8d-4c7c-a255-13242cc28d11",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "russian": "погода",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[pɐˈɡodə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "267ba9de-7980-4852-8e2e-d4e624c78730",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "russian": "солнце",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsontsə]",
+      "context": "the л is silent",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fff1a43-0238-4a70-88d9-4f489c6f56ed",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "russian": "дождь",
+      "gender": "masculine",
+      "plural": "дожди",
+      "cefr": "A1",
+      "ipa": "[doʂtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12605ced-1614-41f3-802e-79b92f60c415",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "russian": "снег",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[snʲek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b64f7160-45b4-48ee-a445-644f108e38a7",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "russian": "ветер",
+      "gender": "masculine",
+      "plural": "ветры",
+      "cefr": "A2",
+      "ipa": "[ˈvʲetʲɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "308d205f-f4e5-4be9-8772-a0dc5f5955be",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "russian": "небо",
+      "gender": "neuter",
+      "plural": "небеса",
+      "cefr": "A2",
+      "ipa": "[ˈnʲebə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d40140dc-38ae-419e-aae1-1e80b725dd0a",
+      "part-of-speech": "noun",
+      "english": "world; peace",
+      "russian": "мир",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[mʲir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf1f46f1-6aac-44e2-b365-f9ae15bdeaa9",
+      "part-of-speech": "noun",
+      "english": "body",
+      "russian": "тело",
+      "gender": "neuter",
+      "plural": "тела",
+      "cefr": "A2",
+      "ipa": "[ˈtʲelə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9432f269-2463-46f6-a26c-435b3681b8af",
+      "part-of-speech": "noun",
+      "english": "head",
+      "russian": "голова",
+      "gender": "feminine",
+      "plural": "головы",
+      "cefr": "A1",
+      "ipa": "[ɡəɫɐˈva]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fefae4ef-f490-4342-947a-50132288f648",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "russian": "волосы",
+      "gender": "masculine",
+      "plural": "волосы",
+      "cefr": "A1",
+      "ipa": "[ˈvoɫəsɨ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd325a70-577b-47e0-b75e-7c8441c6baba",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "russian": "глаз",
+      "gender": "masculine",
+      "plural": "глаза",
+      "cefr": "A1",
+      "ipa": "[ɡɫas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d647251f-f7fb-4f7f-9f41-227441626b5d",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "russian": "ухо",
+      "gender": "neuter",
+      "plural": "уши",
+      "cefr": "A1",
+      "ipa": "[ˈuxə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9f75aac-832b-46de-8d0e-9fabd92f3d2d",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "russian": "нос",
+      "gender": "masculine",
+      "plural": "носы",
+      "cefr": "A1",
+      "ipa": "[nos]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b5e789a-3481-4d94-acb6-282bb18d4dd8",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "russian": "рот",
+      "gender": "masculine",
+      "plural": "рты",
+      "cefr": "A1",
+      "ipa": "[rot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "430fed1f-c2d9-4bc2-a962-8afa9caf9b85",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "russian": "зуб",
+      "gender": "masculine",
+      "plural": "зубы",
+      "cefr": "A2",
+      "ipa": "[zup]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67b1a3ad-6f37-4701-ba46-c9efb953dbf0",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "russian": "рука",
+      "gender": "feminine",
+      "plural": "руки",
+      "cefr": "A1",
+      "ipa": "[rʊˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bee3d4ec-7b17-4c31-b059-41cfca02e958",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "russian": "нога",
+      "gender": "feminine",
+      "plural": "ноги",
+      "cefr": "A1",
+      "ipa": "[nɐˈɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae6e8895-d1b0-49ef-9836-c3c082810c33",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "russian": "живот",
+      "gender": "masculine",
+      "plural": "животы",
+      "cefr": "A2",
+      "ipa": "[ʐɨˈvot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cea38535-0ae8-4eed-a2df-13cec8dd1f46",
+      "part-of-speech": "noun",
+      "english": "back",
+      "russian": "спина",
+      "gender": "feminine",
+      "plural": "спины",
+      "cefr": "A2",
+      "ipa": "[spʲɪˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d140a84c-beec-47dd-903e-e45b5ec64399",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "russian": "сердце",
+      "gender": "neuter",
+      "plural": "сердца",
+      "cefr": "A2",
+      "ipa": "[ˈsʲɛrtsə]",
+      "context": "the д is silent",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9af8502d-4f63-4dc9-8720-7d3fb181af4a",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "russian": "лекарство",
+      "gender": "neuter",
+      "plural": "лекарства",
+      "cefr": "A2",
+      "ipa": "[lʲɪˈkarstvə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f011419b-de07-4ce3-923b-5b917a5d72f4",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "russian": "одежда",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ɐˈdʲeʐdə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a6bad5b-1859-4f19-b68b-3b0ac7ce0b75",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "russian": "брюки",
+      "gender": "feminine",
+      "plural": "брюки",
+      "cefr": "A1",
+      "ipa": "[ˈbrʲukʲɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69aa4dc7-0fa1-4559-b6c2-a2c658be1dd2",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "russian": "рубашка",
+      "gender": "feminine",
+      "plural": "рубашки",
+      "cefr": "A1",
+      "ipa": "[rʊˈbaʂkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf7e16d5-e968-4654-8ca3-bf6f38c87ec2",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "russian": "свитер",
+      "gender": "masculine",
+      "plural": "свитеры",
+      "cefr": "A2",
+      "ipa": "[ˈsvʲitɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbc1834b-42a3-4622-a379-270ba8d7c86a",
+      "part-of-speech": "noun",
+      "english": "jacket",
+      "russian": "куртка",
+      "gender": "feminine",
+      "plural": "куртки",
+      "cefr": "A1",
+      "ipa": "[ˈkurtkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecc26502-ac85-4ba0-b744-7e697f175009",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "russian": "платье",
+      "gender": "neuter",
+      "plural": "платья",
+      "cefr": "A1",
+      "ipa": "[ˈpɫatʲjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1749d8c-652d-41d8-b5ed-69e302b18e09",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "russian": "юбка",
+      "gender": "feminine",
+      "plural": "юбки",
+      "cefr": "A2",
+      "ipa": "[ˈjupkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4be26cf0-f342-4ab0-8902-bee1cd89b325",
+      "part-of-speech": "noun",
+      "english": "shoes, footwear",
+      "russian": "обувь",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈobʊfʲ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08745b1e-e607-4d0e-8f7f-c0bde98a0447",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "russian": "сумка",
+      "gender": "feminine",
+      "plural": "сумки",
+      "cefr": "A1",
+      "ipa": "[ˈsumkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b389e228-305d-4635-b547-a2a0c8adfab1",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "russian": "шапка",
+      "gender": "feminine",
+      "plural": "шапки",
+      "cefr": "A2",
+      "ipa": "[ˈʂapkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc8c40dd-83be-4e03-a69f-9cd8e3fadafc",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "russian": "работа",
+      "gender": "feminine",
+      "plural": "работы",
+      "cefr": "A1",
+      "ipa": "[rɐˈbotə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "029349d7-f9a4-4e26-ac7f-af121307bafe",
+      "part-of-speech": "noun",
+      "english": "money",
+      "russian": "деньги",
+      "gender": "feminine",
+      "plural": "деньги",
+      "cefr": "A1",
+      "ipa": "[ˈdʲenʲɡʲɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e83a4a9e-bea9-4aa0-b1e3-483cf9a176d2",
+      "part-of-speech": "noun",
+      "english": "rouble",
+      "russian": "рубль",
+      "gender": "masculine",
+      "plural": "рубли",
+      "cefr": "A1",
+      "ipa": "[rublʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbacc530-9470-4fd3-8551-fd30af036ad8",
+      "part-of-speech": "noun",
+      "english": "price",
+      "russian": "цена",
+      "gender": "feminine",
+      "plural": "цены",
+      "cefr": "A1",
+      "ipa": "[tsɨˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "446852fe-5519-48f9-b378-50a9c64d96e9",
+      "part-of-speech": "noun",
+      "english": "book",
+      "russian": "книга",
+      "gender": "feminine",
+      "plural": "книги",
+      "cefr": "A1",
+      "ipa": "[ˈknʲiɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d0832b3-ed6c-4d90-9a8e-a357a31a504c",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "russian": "газета",
+      "gender": "feminine",
+      "plural": "газеты",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈzʲetə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "158743d2-395c-490a-9b31-c45ff545423f",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "russian": "письмо",
+      "gender": "neuter",
+      "plural": "письма",
+      "cefr": "A1",
+      "ipa": "[pʲɪsʲˈmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b6253a0-fd95-4179-b579-4466b1086af0",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "russian": "ручка",
+      "gender": "feminine",
+      "plural": "ручки",
+      "cefr": "A1",
+      "ipa": "[ˈrutɕkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1ed29f9-7007-40c5-b926-60dc9592aa74",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "russian": "бумага",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[bʊˈmaɡə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "585e6f1a-1942-40ad-a2d0-e7e8ff1f6381",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "russian": "фотография",
+      "gender": "feminine",
+      "plural": "фотографии",
+      "cefr": "A1",
+      "ipa": "[fətɐˈɡrafʲɪjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f2f8b38-f034-4a44-8c6a-52cd4f9f9673",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "russian": "фильм",
+      "gender": "masculine",
+      "plural": "фильмы",
+      "cefr": "A1",
+      "ipa": "[fʲilʲm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4ba5f9d-2394-4437-a64a-3b01aefdfd1c",
+      "part-of-speech": "noun",
+      "english": "music",
+      "russian": "музыка",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmuzɨkə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fd09a33-be64-4a2c-8c19-9505fd807a48",
+      "part-of-speech": "noun",
+      "english": "song",
+      "russian": "песня",
+      "gender": "feminine",
+      "plural": "песни",
+      "cefr": "A1",
+      "ipa": "[ˈpʲesʲnʲə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34986276-3ae4-48f8-9c81-909539fb6f87",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "russian": "спорт",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sport]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f70e439-cc39-4e2e-b534-ddf9c8d72709",
+      "part-of-speech": "noun",
+      "english": "game",
+      "russian": "игра",
+      "gender": "feminine",
+      "plural": "игры",
+      "cefr": "A2",
+      "ipa": "[ɪˈɡra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c2886b7-0a6e-4c26-98c7-5c4c5cf86588",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "russian": "язык",
+      "gender": "masculine",
+      "plural": "языки",
+      "cefr": "A1",
+      "ipa": "[jɪˈzɨk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "483b8a81-bb1f-45d9-b540-3ad67df71e7b",
+      "part-of-speech": "noun",
+      "english": "word",
+      "russian": "слово",
+      "gender": "neuter",
+      "plural": "слова",
+      "cefr": "A1",
+      "ipa": "[ˈsɫovə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5297814-3028-417c-aceb-040d52540cb9",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "russian": "предложение",
+      "gender": "neuter",
+      "plural": "предложения",
+      "cefr": "A2",
+      "ipa": "[prʲɪdɫɐˈʐɛnʲɪjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "686edede-f9c7-416b-807a-fb97665e6a21",
+      "part-of-speech": "noun",
+      "english": "question",
+      "russian": "вопрос",
+      "gender": "masculine",
+      "plural": "вопросы",
+      "cefr": "A1",
+      "ipa": "[vɐˈpros]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f22ff0c-d099-4b72-abeb-80fdf4dc1123",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "russian": "ответ",
+      "gender": "masculine",
+      "plural": "ответы",
+      "cefr": "A1",
+      "ipa": "[ɐtˈvʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ba5142f-fdea-47cd-926b-4baf90b36054",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "russian": "урок",
+      "gender": "masculine",
+      "plural": "уроки",
+      "cefr": "A1",
+      "ipa": "[ʊˈrok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09d94dfc-cde1-4f3e-bc11-ec2db6d232c0",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "russian": "цвет",
+      "gender": "masculine",
+      "plural": "цвета",
+      "cefr": "A1",
+      "ipa": "[tsvʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e03f3e95-678f-46d4-bec8-b3741ab5744b",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "russian": "проблема",
+      "gender": "feminine",
+      "plural": "проблемы",
+      "cefr": "A2",
+      "ipa": "[prɐˈblʲemə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03b2192e-451b-41e0-b660-f6e5f68f96a2",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "russian": "идея",
+      "gender": "feminine",
+      "plural": "идеи",
+      "cefr": "A2",
+      "ipa": "[ɪˈdʲejə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d370edbe-8290-420b-9983-56d743676383",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "russian": "вещь",
+      "gender": "feminine",
+      "plural": "вещи",
+      "cefr": "A1",
+      "ipa": "[vʲeɕː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9708189e-5bcc-40cd-9281-d0f360c279df",
+      "part-of-speech": "noun",
+      "english": "number; hotel room",
+      "russian": "номер",
+      "gender": "masculine",
+      "plural": "номера",
+      "cefr": "A1",
+      "ipa": "[ˈnomʲɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4608b121-35c1-4b8a-9d3c-cc8436e880da",
+      "part-of-speech": "noun",
+      "english": "address",
+      "russian": "адрес",
+      "gender": "masculine",
+      "plural": "адреса",
+      "cefr": "A1",
+      "ipa": "[ˈadrʲɪs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa37db7a-150a-45ac-b288-e0fc8ba4725e",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "russian": "ноль",
+      "cefr": "A1",
+      "ipa": "[nolʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "701c567e-0a54-436a-a744-c8ea8ec615fb",
+      "part-of-speech": "noun",
+      "english": "one",
+      "russian": "один",
+      "cefr": "A1",
+      "ipa": "[ɐˈdʲin]",
+      "context": "одна (f), одно (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09c5410f-2f38-4cfd-8cb5-59b0b25444a4",
+      "part-of-speech": "noun",
+      "english": "two",
+      "russian": "два",
+      "cefr": "A1",
+      "ipa": "[dva]",
+      "context": "две (f)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c9351cb-c79e-45dd-8a67-def26fc85e9f",
+      "part-of-speech": "noun",
+      "english": "three",
+      "russian": "три",
+      "cefr": "A1",
+      "ipa": "[trʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbca4f10-81a0-47e9-b230-b3a0f6784d0e",
+      "part-of-speech": "noun",
+      "english": "four",
+      "russian": "четыре",
+      "cefr": "A1",
+      "ipa": "[tɕɪˈtɨrʲɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "011aff2c-20a2-4807-8067-c7accd6dd842",
+      "part-of-speech": "noun",
+      "english": "five",
+      "russian": "пять",
+      "cefr": "A1",
+      "ipa": "[pʲætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f17eadae-21bf-4980-ab72-385a54d955a8",
+      "part-of-speech": "noun",
+      "english": "six",
+      "russian": "шесть",
+      "cefr": "A1",
+      "ipa": "[ʂɛsʲtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "181e1c7d-70a5-4cf2-90ff-37526f6312de",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "russian": "семь",
+      "cefr": "A1",
+      "ipa": "[sʲemʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28d0618e-bca7-4f39-a448-2f45ccf5ad8b",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "russian": "восемь",
+      "cefr": "A1",
+      "ipa": "[ˈvosʲɪmʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f876d653-60b5-4f84-a1f9-48aa5687d51b",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "russian": "девять",
+      "cefr": "A1",
+      "ipa": "[ˈdʲevʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "711574c0-9e07-4097-b828-e92829d67d2e",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "russian": "десять",
+      "cefr": "A1",
+      "ipa": "[ˈdʲesʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58cc334c-4a98-4f73-9dfa-676d8fd22fbf",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "russian": "одиннадцать",
+      "cefr": "A1",
+      "ipa": "[ɐˈdʲinːətsətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4f1cea8-9f05-439d-99e9-807ba2387b58",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "russian": "двадцать",
+      "cefr": "A1",
+      "ipa": "[ˈdvatsətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6655508-bb47-4177-bdb5-011279e365d5",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "russian": "тридцать",
+      "cefr": "A1",
+      "ipa": "[ˈtrʲitsətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c591fc44-e942-4d5c-a2a3-962134fde25f",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "russian": "сорок",
+      "cefr": "A1",
+      "ipa": "[ˈsorək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57427826-bd6f-4bc9-8309-fbcc73541ff6",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "russian": "пятьдесят",
+      "cefr": "A1",
+      "ipa": "[pʲɪdʲːɪˈsʲat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77afa8df-af9f-4d51-b10a-a4d7e372356a",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "russian": "сто",
+      "cefr": "A1",
+      "ipa": "[sto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01930b1c-13fe-424a-bb82-fd2b697761a3",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "russian": "тысяча",
+      "cefr": "A1",
+      "ipa": "[ˈtɨsʲɪtɕə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a177ebf9-6b26-4efb-9172-3df357b18cfc",
+      "part-of-speech": "noun",
+      "english": "million",
+      "russian": "миллион",
+      "gender": "masculine",
+      "plural": "миллионы",
+      "cefr": "A2",
+      "ipa": "[mʲɪlʲɪˈon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa37a32b-66bd-4fc9-9239-f0890aeebc2c",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "russian": "быть",
+      "cefr": "A1",
+      "ipa": "[bɨtʲ]",
+      "context": "usually left out in the present (я студент: I am a student); есть: there is, there are",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f71cb28-171f-4ed9-9ff8-e52c97f6e151",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "russian": "делать",
+      "cefr": "A1",
+      "ipa": "[ˈdʲeɫətʲ]",
+      "context": "imperfective; perfective: сделать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a02c6dc1-3a94-4dbd-aa63-fcaebca6bad1",
+      "part-of-speech": "verb",
+      "english": "to go (on foot, one way, now)",
+      "russian": "идти",
+      "cefr": "A1",
+      "ipa": "[ɪˈtʲtʲi]",
+      "context": "иду, идёшь …; going regularly or round trips: ходить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0f9a735-5e11-41d3-b23d-8cb6a247fcf3",
+      "part-of-speech": "verb",
+      "english": "to go (on foot, regularly)",
+      "russian": "ходить",
+      "cefr": "A1",
+      "ipa": "[xɐˈdʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "483f0757-99be-46d6-b8f9-f8ee514adaf6",
+      "part-of-speech": "verb",
+      "english": "to go (by transport, one way, now)",
+      "russian": "ехать",
+      "cefr": "A1",
+      "ipa": "[ˈjexətʲ]",
+      "context": "еду, едешь …; regularly: ездить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cbbcde9-a1c9-42a0-960a-738ba95ef23c",
+      "part-of-speech": "verb",
+      "english": "to go (by transport, regularly)",
+      "russian": "ездить",
+      "cefr": "A2",
+      "ipa": "[ˈjezʲdʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13420f26-21f6-4a4c-8e19-285848d0f333",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "russian": "давать",
+      "cefr": "A1",
+      "ipa": "[dɐˈvatʲ]",
+      "context": "imperfective; perfective: дать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ab209f1-5982-4acb-aeac-325c8afd70e9",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "russian": "брать",
+      "cefr": "A1",
+      "ipa": "[bratʲ]",
+      "context": "imperfective; perfective: взять",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58e42faf-fb1e-46f7-a630-8d68cf9a8466",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "russian": "видеть",
+      "cefr": "A1",
+      "ipa": "[ˈvʲidʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab04b51a-85f3-418e-9d01-87c8ba2cd7a4",
+      "part-of-speech": "verb",
+      "english": "to look, watch",
+      "russian": "смотреть",
+      "cefr": "A1",
+      "ipa": "[smɐˈtrʲetʲ]",
+      "context": "смотреть телевизор: to watch TV",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e18666fa-8ee0-4e81-aaf6-ea434208f02b",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "russian": "слышать",
+      "cefr": "A1",
+      "ipa": "[ˈsɫɨʂətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e797f001-58f0-4d40-946b-d68e5aca46c1",
+      "part-of-speech": "verb",
+      "english": "to listen (to)",
+      "russian": "слушать",
+      "cefr": "A1",
+      "ipa": "[ˈsɫuʂətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0cbc48d-37ef-4729-af2c-3010409fd3d0",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "russian": "знать",
+      "cefr": "A1",
+      "ipa": "[znatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc878298-a7da-4545-a539-1e19bc4626da",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "russian": "хотеть",
+      "cefr": "A1",
+      "ipa": "[xɐˈtʲetʲ]",
+      "context": "хочу, хочешь, хочет, хотим, хотите, хотят",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99824d33-44ca-42fd-ad8c-f64f77ae888b",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "russian": "мочь",
+      "cefr": "A1",
+      "ipa": "[motɕ]",
+      "context": "могу, можешь …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c7e0d16-e04b-4b78-8b31-e18a960fc4dc",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "russian": "любить",
+      "cefr": "A1",
+      "ipa": "[lʲʊˈbʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b252cb1c-9678-4ff1-a203-6db50552b1ee",
+      "part-of-speech": "verb",
+      "english": "to be pleasing (to like)",
+      "russian": "нравиться",
+      "cefr": "A1",
+      "ipa": "[ˈnravʲɪtsə]",
+      "context": "мне нравится чай: I like tea",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d819494d-1401-44bc-99dc-3426c800b4d1",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "russian": "есть",
+      "cefr": "A1",
+      "ipa": "[jestʲ]",
+      "context": "ем, ешь, ест, едим, едите, едят",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfa287df-61bf-4c79-bc25-24bf146d5ccf",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "russian": "пить",
+      "cefr": "A1",
+      "ipa": "[pʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "968af737-7db2-4167-94e6-55ffbe08a4a8",
+      "part-of-speech": "verb",
+      "english": "to cook; to prepare",
+      "russian": "готовить",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈtovʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a9a2408-da05-4996-b587-2ba0f042f588",
+      "part-of-speech": "verb",
+      "english": "to speak, talk; to say",
+      "russian": "говорить",
+      "cefr": "A1",
+      "ipa": "[ɡəvɐˈrʲitʲ]",
+      "context": "perfective (to say): сказать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0af161bd-864d-4666-8cf9-70e909a34d44",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "russian": "спрашивать",
+      "cefr": "A1",
+      "ipa": "[ˈspraʂɨvətʲ]",
+      "context": "imperfective; perfective: спросить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1aef62b1-903d-454c-89ec-ac5c1d3b5498",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "russian": "отвечать",
+      "cefr": "A1",
+      "ipa": "[ɐtvʲɪˈtɕætʲ]",
+      "context": "imperfective; perfective: ответить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cb0495c-ead0-4549-b3c9-366c9cce2d13",
+      "part-of-speech": "verb",
+      "english": "to call",
+      "russian": "звать",
+      "cefr": "A1",
+      "ipa": "[zvatʲ]",
+      "context": "меня зовут …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21669166-92dd-447f-a939-ad03d632b38b",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "russian": "читать",
+      "cefr": "A1",
+      "ipa": "[tɕɪˈtatʲ]",
+      "context": "imperfective; perfective: прочитать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a61a245-9166-4a68-bf78-6bcb1be2e278",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "russian": "писать",
+      "cefr": "A1",
+      "ipa": "[pʲɪˈsatʲ]",
+      "context": "imperfective; perfective: написать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a92e3802-f646-4d9b-b2a7-88fe0527d289",
+      "part-of-speech": "verb",
+      "english": "to learn; to teach",
+      "russian": "учить",
+      "cefr": "A1",
+      "ipa": "[ʊˈtɕitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a243da9f-897a-4dcf-9be8-5e12d183f01b",
+      "part-of-speech": "verb",
+      "english": "to study (at a school)",
+      "russian": "учиться",
+      "cefr": "A1",
+      "ipa": "[ʊˈtɕitsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2c5e15b-f59c-4585-8c30-909a9cd43a86",
+      "part-of-speech": "verb",
+      "english": "to study (a subject)",
+      "russian": "изучать",
+      "cefr": "A2",
+      "ipa": "[ɪzʊˈtɕætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3e6141c-ffac-4d6a-b95f-6e397ef4d0ee",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "russian": "понимать",
+      "cefr": "A1",
+      "ipa": "[pənʲɪˈmatʲ]",
+      "context": "imperfective; perfective: понять",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c647cf5-04eb-48a1-ae21-36619ea0f5fe",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "russian": "думать",
+      "cefr": "A1",
+      "ipa": "[ˈdumətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f522d58-5590-4e24-bc2e-c0c01b7163cf",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "russian": "искать",
+      "cefr": "A1",
+      "ipa": "[ɪˈskatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cac5b5b6-62a2-4946-9fc5-62f3e2a0b6a4",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "russian": "найти",
+      "cefr": "A1",
+      "ipa": "[nɐjˈtʲi]",
+      "context": "perfective; imperfective: находить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d9c772b-96cf-41c5-9e02-5bb911225af5",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "russian": "работать",
+      "cefr": "A1",
+      "ipa": "[rɐˈbotətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82fe9347-da33-473a-ad03-883b3ea8ca62",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "russian": "жить",
+      "cefr": "A1",
+      "ipa": "[ʐɨtʲ]",
+      "context": "я живу в Москве: I live in Moscow",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01a47c7d-9b6a-4a51-a983-1706969fc0e6",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "russian": "спать",
+      "cefr": "A1",
+      "ipa": "[spatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66fabde0-5260-4878-988b-d08a0914bf17",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "russian": "вставать",
+      "cefr": "A1",
+      "ipa": "[fstɐˈvatʲ]",
+      "context": "imperfective; perfective: встать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b47de44f-f32f-46af-ab65-3b2e1dbec7b7",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "russian": "сидеть",
+      "cefr": "A1",
+      "ipa": "[sʲɪˈdʲetʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7241c73c-e93c-492f-8ea2-7a4b99195472",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "russian": "стоять",
+      "cefr": "A1",
+      "ipa": "[stɐˈjatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bb34f6e-be7d-44a1-9caf-b971c64d6ec7",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying)",
+      "russian": "лежать",
+      "cefr": "A1",
+      "ipa": "[lʲɪˈʐatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9cf1dc6-2b09-492a-9680-6c04f4012b88",
+      "part-of-speech": "verb",
+      "english": "to go for a walk",
+      "russian": "гулять",
+      "cefr": "A1",
+      "ipa": "[ɡʊˈlʲætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c541b072-c5b3-42c1-b225-9d5115bb1672",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "russian": "бегать",
+      "cefr": "A1",
+      "ipa": "[ˈbʲeɡətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46d58249-7433-4fb6-acaf-2dff20663bcb",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "russian": "плавать",
+      "cefr": "A1",
+      "ipa": "[ˈpɫavətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54dc169d-9924-41d3-97ec-5b7c9d3b2267",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "russian": "путешествовать",
+      "cefr": "A2",
+      "ipa": "[pʊtʲɪˈʂɛstvəvətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84638bca-9d12-4d29-b4aa-41ed9e3153aa",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "russian": "покупать",
+      "cefr": "A1",
+      "ipa": "[pəkʊˈpatʲ]",
+      "context": "imperfective; perfective: купить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3dc3a4d-834b-4012-94ea-8d505fb859e5",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "russian": "платить",
+      "cefr": "A1",
+      "ipa": "[pɫɐˈtʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "354a5c6d-52e7-4da5-b582-18a5a01f01f3",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "russian": "стоить",
+      "cefr": "A1",
+      "ipa": "[ˈstoɪtʲ]",
+      "context": "сколько стоит?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e686ae0-954d-4df9-a2ca-faf10072df4f",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "russian": "продавать",
+      "cefr": "A2",
+      "ipa": "[prədɐˈvatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "361b70a7-a10b-4c30-b79c-9f9c0019bf86",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "russian": "открывать",
+      "cefr": "A1",
+      "ipa": "[ɐtkrɨˈvatʲ]",
+      "context": "imperfective; perfective: открыть",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7e7cabe-b7f1-4f5c-9cc3-23618a4b1486",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "russian": "закрывать",
+      "cefr": "A1",
+      "ipa": "[zəkrɨˈvatʲ]",
+      "context": "imperfective; perfective: закрыть",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7995bb48-fe66-477f-ab67-225781c94086",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "russian": "ждать",
+      "cefr": "A1",
+      "ipa": "[ʐdatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d3c27ed-fc34-40fb-83d3-16bec740a17e",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "russian": "начинать",
+      "cefr": "A1",
+      "ipa": "[nətɕɪˈnatʲ]",
+      "context": "imperfective; perfective: начать",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fff22f17-b58e-4604-a9f0-c313755070c7",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "russian": "заканчивать",
+      "cefr": "A1",
+      "ipa": "[zɐˈkantɕɪvətʲ]",
+      "context": "imperfective; perfective: закончить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2770784-453c-4303-8f2e-ef5aef431ee5",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "russian": "играть",
+      "cefr": "A1",
+      "ipa": "[ɪˈɡratʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5b1e2af-8a85-4a1b-a555-bae49445205f",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "russian": "мыть",
+      "cefr": "A1",
+      "ipa": "[mɨtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2512d6cc-f382-4769-9945-700234359377",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "russian": "помогать",
+      "cefr": "A1",
+      "ipa": "[pəmɐˈɡatʲ]",
+      "context": "imperfective; perfective: помочь",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "035bd2b4-845f-4c85-99af-2ddd496b4079",
+      "part-of-speech": "verb",
+      "english": "to call, phone; to ring",
+      "russian": "звонить",
+      "cefr": "A1",
+      "ipa": "[zvɐˈnʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e46b9d3c-2735-4f24-bfe7-7c724755900b",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "russian": "петь",
+      "cefr": "A1",
+      "ipa": "[pʲetʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "483dbbae-4d1d-45a6-ad30-f1c82b81924e",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "russian": "танцевать",
+      "cefr": "A1",
+      "ipa": "[təntsɨˈvatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30d1f4c5-0c53-4876-a61c-47358b62576a",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "russian": "использовать",
+      "cefr": "A2",
+      "ipa": "[ɪsˈpolʲzəvətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5e0be81-7959-4e18-885c-25562931bd76",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "russian": "приносить",
+      "cefr": "A1",
+      "ipa": "[prʲɪnɐˈsʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "516ad4b6-593e-49e3-9ecc-a66cf937dafd",
+      "part-of-speech": "verb",
+      "english": "to put (lying down)",
+      "russian": "класть",
+      "cefr": "A2",
+      "ipa": "[kɫastʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d80895de-9a37-4df6-b494-a4c0a90c54f8",
+      "part-of-speech": "verb",
+      "english": "to put (standing up)",
+      "russian": "ставить",
+      "cefr": "A2",
+      "ipa": "[ˈstavʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da86a4c9-9504-4c2a-804e-061e68408f2d",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "russian": "забывать",
+      "cefr": "A2",
+      "ipa": "[zəbɨˈvatʲ]",
+      "context": "imperfective; perfective: забыть",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39c97bf4-4f50-43b5-b091-3b3434a4adce",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "russian": "помнить",
+      "cefr": "A2",
+      "ipa": "[ˈpomnʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df478bd9-ea7f-4cbc-a50b-5540753d0990",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "russian": "пробовать",
+      "cefr": "A2",
+      "ipa": "[ˈprobəvətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f31c173f-e312-4e7b-894e-9b22b9d9280f",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "russian": "менять",
+      "cefr": "A2",
+      "ipa": "[mʲɪˈnʲætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ba9c563-1091-448e-be5c-a97044f63cd2",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "russian": "посылать",
+      "cefr": "A2",
+      "ipa": "[pəsɨˈɫatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "076ac3dc-78b1-4fdb-9ac0-34ea6450d03c",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "russian": "терять",
+      "cefr": "A2",
+      "ipa": "[tʲɪˈrʲætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "890ab35e-0659-42df-9427-4fe73cb051dc",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "russian": "выигрывать",
+      "cefr": "A2",
+      "ipa": "[vɨˈiɡrɨvətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51b3165a-4f2e-4438-ad87-b5d7a44f5d0a",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "russian": "встречать",
+      "cefr": "A2",
+      "ipa": "[fstrʲɪˈtɕætʲ]",
+      "context": "imperfective; perfective: встретить",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09ae298b-22e7-46c8-a153-ee6525e888c1",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "russian": "объяснять",
+      "cefr": "A2",
+      "ipa": "[ɐbjɪsˈnʲætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da969539-b3fa-4fc9-8e78-7b1fec159962",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "russian": "переводить",
+      "cefr": "A2",
+      "ipa": "[pʲɪrʲɪvɐˈdʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ab7d613-6fb7-40ca-b310-648f2495d7be",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "russian": "выбирать",
+      "cefr": "A2",
+      "ipa": "[vɨbʲɪˈratʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13068cf3-abee-4b67-b460-0d6c16bf53c2",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "russian": "чувствовать",
+      "cefr": "A2",
+      "ipa": "[ˈtɕustvəvətʲ]",
+      "context": "the first в is silent",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45f5b1f3-0782-4f5c-80b1-8abaf33bb42a",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "russian": "надеяться",
+      "cefr": "A2",
+      "ipa": "[nɐˈdʲejɪtsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ed094a5-0baf-4271-9a7f-a3fbb94c6d96",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "russian": "верить",
+      "cefr": "A2",
+      "ipa": "[ˈvʲerʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54960364-46ab-464f-acc7-000e63abd474",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "russian": "смеяться",
+      "cefr": "A2",
+      "ipa": "[smʲɪˈjatsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e399bca5-9691-452b-95f1-b9fe474d1913",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "russian": "плакать",
+      "cefr": "A2",
+      "ipa": "[ˈpɫakətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d42c9554-92a8-4ad9-8903-edc05c14dbf9",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "russian": "падать",
+      "cefr": "A2",
+      "ipa": "[ˈpadətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "245769e0-39ee-4df4-b7a1-57eae54611b9",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "russian": "летать",
+      "cefr": "A2",
+      "ipa": "[lʲɪˈtatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8329cb50-0c51-40e1-acf9-3c2792e42b40",
+      "part-of-speech": "verb",
+      "english": "to order, book",
+      "russian": "заказывать",
+      "cefr": "A2",
+      "ipa": "[zɐˈkazɨvətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e16fd54f-9083-4b7a-98d8-05e301db62c0",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "russian": "показывать",
+      "cefr": "A2",
+      "ipa": "[pɐˈkazɨvətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f43136fe-15ff-4a07-b445-ae3d3bef49d5",
+      "part-of-speech": "verb",
+      "english": "to rest; to be on holiday",
+      "russian": "отдыхать",
+      "cefr": "A2",
+      "ipa": "[ɐddɨˈxatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd15615e-2703-4085-a462-fbafb373dac7",
+      "part-of-speech": "verb",
+      "english": "to move (house)",
+      "russian": "переезжать",
+      "cefr": "A2",
+      "ipa": "[pʲɪrʲɪjɪˈʐːatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f3d5a09-31f5-4653-9ef6-e6f5c6c3fa13",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "russian": "умирать",
+      "cefr": "A2",
+      "ipa": "[ʊmʲɪˈratʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5554a9a2-18fc-49f7-9fd1-f4be09519871",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "russian": "большой",
+      "cefr": "A1",
+      "ipa": "[bɐlʲˈʂoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac03951c-1903-43aa-a249-54f231788940",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "russian": "маленький",
+      "cefr": "A1",
+      "ipa": "[ˈmalʲɪnʲkʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5d91e61-b580-438d-9b77-c5bfb725d6db",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "russian": "хороший",
+      "cefr": "A1",
+      "ipa": "[xɐˈroʂɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc26c58d-6d60-446b-936c-7a1b91c3cfeb",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "russian": "плохой",
+      "cefr": "A1",
+      "ipa": "[pɫɐˈxoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88caf524-a4ba-45db-80df-38285c444927",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "russian": "красивый",
+      "cefr": "A1",
+      "ipa": "[krɐˈsʲivɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75f148b3-47ca-4000-b02d-36617b3f2cdf",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "russian": "новый",
+      "cefr": "A1",
+      "ipa": "[ˈnovɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3059347-7b1e-4254-8fb2-4fb22f468200",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "russian": "старый",
+      "cefr": "A1",
+      "ipa": "[ˈstarɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "373a1cf3-85f0-4656-9479-dc75fb52ccb8",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "russian": "молодой",
+      "cefr": "A1",
+      "ipa": "[məɫɐˈdoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cde4f113-d493-4dc4-a7cc-36ed368985b9",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "russian": "высокий",
+      "cefr": "A1",
+      "ipa": "[vɨˈsokʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ba8700b-c7a6-411f-a33d-ea545cd8a11b",
+      "part-of-speech": "adjective",
+      "english": "low; short",
+      "russian": "низкий",
+      "cefr": "A2",
+      "ipa": "[ˈnʲiskʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3947e770-3d32-466e-82e7-550cd1bb6b0c",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "russian": "длинный",
+      "cefr": "A1",
+      "ipa": "[ˈdlʲinːɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40e06bce-ecf7-422d-b1ba-fdd77cd1f758",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "russian": "короткий",
+      "cefr": "A1",
+      "ipa": "[kɐˈrotkʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90c7b0cc-192a-40ce-b9bd-85933c2d0987",
+      "part-of-speech": "adjective",
+      "english": "hot (to the touch)",
+      "russian": "горячий",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈrʲatɕɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a0cc213-4460-4b10-aedc-a09c8b1852c6",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "russian": "тёплый",
+      "cefr": "A1",
+      "ipa": "[ˈtʲɵpɫɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a15f22ef-7581-469c-b763-6f47c98b3e56",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "russian": "холодный",
+      "cefr": "A1",
+      "ipa": "[xɐˈɫodnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4035e1fc-2645-489e-8089-a2c875e81fd6",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "russian": "быстрый",
+      "cefr": "A1",
+      "ipa": "[ˈbɨstrɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "900ae975-9c24-451c-b571-5887a9d5b3fb",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "russian": "медленный",
+      "cefr": "A1",
+      "ipa": "[ˈmʲedlʲɪnːɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f11915bb-c318-4a6e-b6b3-16b4a70fe870",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "russian": "лёгкий",
+      "cefr": "A1",
+      "ipa": "[ˈlʲɵxʲkʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f708351b-f824-46d5-b194-8c8c327b5af9",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "russian": "трудный",
+      "cefr": "A1",
+      "ipa": "[ˈtrudnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f864fb50-3bb7-42f0-b448-0962d31f69db",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "russian": "дешёвый",
+      "cefr": "A1",
+      "ipa": "[dʲɪˈʂɵvɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e0b21be-e5aa-4974-9b30-f325c64a13b9",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "russian": "дорогой",
+      "cefr": "A1",
+      "ipa": "[dərɐˈɡoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af30fd89-0cc1-4ab4-956b-1d54cae64c86",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "russian": "счастливый",
+      "cefr": "A2",
+      "ipa": "[ɕːɪsˈlʲivɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1075cf2-f22f-44d0-a9e8-a5e0379fd5ce",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "russian": "грустный",
+      "cefr": "A1",
+      "ipa": "[ˈɡrusnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cf07605-bf91-46f1-b5c0-7e89520ec3c3",
+      "part-of-speech": "adjective",
+      "english": "angry; wicked",
+      "russian": "злой",
+      "cefr": "A2",
+      "ipa": "[zɫoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65e7643c-12c0-4110-958a-96f8c43baaa6",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "russian": "уставший",
+      "cefr": "A1",
+      "ipa": "[ʊˈstafʂɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b1c3ddc-71af-4e3f-9799-4d51f7164ad8",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "russian": "больной",
+      "cefr": "A1",
+      "ipa": "[bɐlʲˈnoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c40b9b52-efd6-482b-a724-051e6e87e2d6",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "russian": "здоровый",
+      "cefr": "A2",
+      "ipa": "[zdɐˈrovɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "471437ac-a6ff-4137-903a-291910c3e32c",
+      "part-of-speech": "adjective",
+      "english": "tasty, delicious",
+      "russian": "вкусный",
+      "cefr": "A1",
+      "ipa": "[ˈfkusnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe7b6a9e-c220-4a3d-a7c0-41c438b336e6",
+      "part-of-speech": "adjective",
+      "english": "kind, good",
+      "russian": "добрый",
+      "cefr": "A1",
+      "ipa": "[ˈdobrɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d58a604-4418-4f25-9ac2-466a70647224",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "russian": "интересный",
+      "cefr": "A1",
+      "ipa": "[ɪntʲɪˈrʲesnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45655851-8ec6-4091-92dd-232e22651e7c",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "russian": "скучный",
+      "cefr": "A2",
+      "ipa": "[ˈskuʂnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b82f908d-6016-41f3-95b0-67747bb1734a",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "russian": "важный",
+      "cefr": "A2",
+      "ipa": "[ˈvaʐnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "834d949f-4f85-4b28-aa96-c96a444d4507",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "russian": "открытый",
+      "cefr": "A1",
+      "ipa": "[ɐtˈkrɨtɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "120a6fb0-7dcc-466f-ada3-adca12b34614",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "russian": "закрытый",
+      "cefr": "A1",
+      "ipa": "[zɐˈkrɨtɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e8e8da2-8824-46b6-82f5-c11cc1c2aaad",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "russian": "чистый",
+      "cefr": "A1",
+      "ipa": "[ˈtɕistɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc9e9102-4d12-4bd0-8bed-21e2cc541d3d",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "russian": "грязный",
+      "cefr": "A1",
+      "ipa": "[ˈɡrʲaznɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5465d29e-bd1d-429a-b161-68aeb1650fc8",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "russian": "свободный",
+      "cefr": "A1",
+      "ipa": "[svɐˈbodnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07e85427-7b3a-4bba-b679-d49668afb42c",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "russian": "занятый",
+      "cefr": "A1",
+      "ipa": "[ˈzanʲɪtɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53bdcce1-8e0f-468b-980c-aacf3869f943",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "russian": "готовый",
+      "cefr": "A1",
+      "ipa": "[ɡɐˈtovɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c19e481f-baf7-4a96-b1fd-edefcd8bbaab",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "russian": "другой",
+      "cefr": "A1",
+      "ipa": "[drʊˈɡoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db8f6dad-0315-48e2-982a-74154544cfc9",
+      "part-of-speech": "adjective",
+      "english": "different, various",
+      "russian": "разный",
+      "cefr": "A2",
+      "ipa": "[ˈraznɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a05407e-041a-44da-a3f6-329922abc4af",
+      "part-of-speech": "adjective",
+      "english": "right, correct",
+      "russian": "правильный",
+      "cefr": "A1",
+      "ipa": "[ˈpravʲɪlʲnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "055484e2-9120-4418-8c6e-5c4ca4dfefe6",
+      "part-of-speech": "adjective",
+      "english": "wrong, incorrect",
+      "russian": "неправильный",
+      "cefr": "A1",
+      "ipa": "[nʲɪˈpravʲɪlʲnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b3e76cb-5be1-4919-9465-da10074e4ba7",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "russian": "полный",
+      "cefr": "A2",
+      "ipa": "[ˈpoɫnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b2e3747-a345-4b38-a7a8-4d975bd6af14",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "russian": "пустой",
+      "cefr": "A2",
+      "ipa": "[pʊˈstoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffdc145e-f410-4473-bc7e-5385749c5226",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "russian": "богатый",
+      "cefr": "A2",
+      "ipa": "[bɐˈɡatɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "935eaac4-9171-480b-9219-55dda301e9f0",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "russian": "бедный",
+      "cefr": "A2",
+      "ipa": "[ˈbʲednɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be7f647e-321f-4ef2-ae58-e888845d2144",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "russian": "тяжёлый",
+      "cefr": "A2",
+      "ipa": "[tʲɪˈʐɵɫɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8871e019-f8ea-4088-9c7d-9e4fa1aa28f0",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "russian": "сильный",
+      "cefr": "A2",
+      "ipa": "[ˈsʲilʲnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d83a34a4-b569-4687-bd80-bbc70e0974d1",
+      "part-of-speech": "adjective",
+      "english": "clever, smart",
+      "russian": "умный",
+      "cefr": "A2",
+      "ipa": "[ˈumnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34fade78-89fc-449e-bf29-994a233ef940",
+      "part-of-speech": "adjective",
+      "english": "cheerful, fun",
+      "russian": "весёлый",
+      "cefr": "A2",
+      "ipa": "[vʲɪˈsʲɵɫɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7101d489-c882-4bda-9c21-2e5840365cf2",
+      "part-of-speech": "adjective",
+      "english": "close, near",
+      "russian": "близкий",
+      "cefr": "A2",
+      "ipa": "[ˈblʲiskʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f261ac4-1fd2-49ab-877e-6e626ecef338",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "russian": "красный",
+      "cefr": "A1",
+      "ipa": "[ˈkrasnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c28f8909-bf8c-4a83-a71c-c6c969110bfa",
+      "part-of-speech": "adjective",
+      "english": "blue (dark blue)",
+      "russian": "синий",
+      "cefr": "A1",
+      "ipa": "[ˈsʲinʲɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e54119be-c2d2-4589-9a2d-0e62cb2e3a0d",
+      "part-of-speech": "adjective",
+      "english": "light blue",
+      "russian": "голубой",
+      "cefr": "A1",
+      "ipa": "[ɡəɫʊˈboj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af1cc514-f945-4d79-a9db-f6f2d1f165ce",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "russian": "зелёный",
+      "cefr": "A1",
+      "ipa": "[zʲɪˈlʲɵnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28115969-228d-4cb6-8929-8b160bf85166",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "russian": "жёлтый",
+      "cefr": "A1",
+      "ipa": "[ˈʐoɫtɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "663ca02a-beb0-490c-9c88-1ce022e69031",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "russian": "чёрный",
+      "cefr": "A1",
+      "ipa": "[ˈtɕɵrnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1055793-379f-47df-ab85-6fa910686651",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "russian": "белый",
+      "cefr": "A1",
+      "ipa": "[ˈbʲeɫɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "083cede7-8fca-4f2c-917c-bda29dd3d9d2",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "russian": "коричневый",
+      "cefr": "A1",
+      "ipa": "[kɐˈrʲitɕnʲɪvɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09a571cb-3448-48fb-a4c8-1c19948d6652",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "russian": "серый",
+      "cefr": "A1",
+      "ipa": "[ˈsʲerɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df41a3ae-1da2-43a6-84f1-628a6bda3db3",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "russian": "оранжевый",
+      "cefr": "A1",
+      "ipa": "[ɐˈranʐɨvɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59a2fe92-d483-4df0-aa72-d735371bea75",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "russian": "розовый",
+      "cefr": "A2",
+      "ipa": "[ˈrozəvɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7782f5d3-544f-4094-bf1f-2f8d011de02f",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "russian": "фиолетовый",
+      "cefr": "A2",
+      "ipa": "[fʲɪɐˈlʲetəvɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3c9d0d4-d8ad-44d3-8e0e-99bd50596ff3",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "russian": "сейчас",
+      "cefr": "A1",
+      "ipa": "[sʲɪˈtɕas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bd3f9db-8e53-4b7a-a09d-e24684870fc0",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "russian": "сегодня",
+      "cefr": "A1",
+      "ipa": "[sʲɪˈvodʲnʲə]",
+      "context": "the г is said as в",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31249b75-22d0-47e9-a90b-2455bb1a4d86",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "russian": "завтра",
+      "cefr": "A1",
+      "ipa": "[ˈzaftrə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42e90a7b-e1b4-4418-b430-8a39c408ff32",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "russian": "вчера",
+      "cefr": "A1",
+      "ipa": "[ftɕɪˈra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee580020-3101-4e01-9489-e185453e2a3a",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "russian": "здесь",
+      "cefr": "A1",
+      "ipa": "[zʲdʲesʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1940808-de16-45ca-ba97-5c38f2993a3c",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "russian": "там",
+      "cefr": "A1",
+      "ipa": "[tam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d168e290-0542-432a-b91e-757889b182a1",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "russian": "не",
+      "cefr": "A1",
+      "ipa": "[nʲɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d17eaa7-cb9d-46fd-b3af-cc1863ae2a3e",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "russian": "тоже",
+      "cefr": "A1",
+      "ipa": "[ˈtoʐɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c967f95c-35f7-4fc4-a0f4-211b532e35a0",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "russian": "очень",
+      "cefr": "A1",
+      "ipa": "[ˈotɕɪnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22fdfd75-b237-4475-b3d4-7fc4a6478b78",
+      "part-of-speech": "adverb",
+      "english": "a lot, much, many",
+      "russian": "много",
+      "cefr": "A1",
+      "ipa": "[ˈmnoɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "123ea45d-6e26-4c99-8fa9-c1ae48fd9db0",
+      "part-of-speech": "adverb",
+      "english": "little, few",
+      "russian": "мало",
+      "cefr": "A1",
+      "ipa": "[ˈmaɫə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a267679-49d9-4021-943a-1007ab25b81d",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "russian": "немного",
+      "cefr": "A1",
+      "ipa": "[nʲɪˈmnoɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99ad20dd-ae69-4df7-ab46-c5d60283d0ec",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "russian": "больше",
+      "cefr": "A1",
+      "ipa": "[ˈbolʲʂɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8586206a-e710-4df7-862f-1b3081cc6207",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "russian": "меньше",
+      "cefr": "A2",
+      "ipa": "[ˈmʲenʲʂɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba1abd9c-f226-44f1-822d-289e1e4702f6",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "russian": "всегда",
+      "cefr": "A1",
+      "ipa": "[fsʲɪɡˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c70c4c5-3351-4142-bf12-b78828a33842",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "russian": "никогда",
+      "cefr": "A1",
+      "ipa": "[nʲɪkɐɡˈda]",
+      "context": "with не on the verb: я никогда не курю",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8888a958-a94a-4a69-9920-b4eff81d7d0d",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "russian": "иногда",
+      "cefr": "A1",
+      "ipa": "[ɪnɐɡˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7320bb2f-2344-4e7e-8bd9-9de1a99175aa",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "russian": "часто",
+      "cefr": "A1",
+      "ipa": "[ˈtɕastə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c195d79d-d684-4b4f-bc6f-29ce10eea6e3",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "russian": "обычно",
+      "cefr": "A2",
+      "ipa": "[ɐˈbɨtɕnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37b6a752-3f92-4a61-b5da-d1672ce2beac",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "russian": "уже",
+      "cefr": "A1",
+      "ipa": "[ʊˈʐɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e6a016b-dbce-4686-82af-2bb1c94a02b9",
+      "part-of-speech": "adverb",
+      "english": "still; more, another",
+      "russian": "ещё",
+      "cefr": "A1",
+      "ipa": "[jɪˈɕːɵ]",
+      "context": "ещё раз: once more",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4cf8001-88ef-490f-b739-09eb225401f9",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "russian": "снова",
+      "cefr": "A1",
+      "ipa": "[ˈsnovə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb81d4f2-fdd3-4115-ad88-1b93fc9abea5",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "russian": "вместе",
+      "cefr": "A1",
+      "ipa": "[ˈvmʲestʲɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a444e528-6e7f-4f53-9078-1bf558578475",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "russian": "может быть",
+      "cefr": "A1",
+      "ipa": "[ˈmoʐɨt bɨtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f463259-541a-4a7c-9334-df2154e98212",
+      "part-of-speech": "adverb",
+      "english": "then, later",
+      "russian": "потом",
+      "cefr": "A1",
+      "ipa": "[pɐˈtom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb4b9552-daf4-414e-8788-789a097bb9b4",
+      "part-of-speech": "adverb",
+      "english": "first, at first",
+      "russian": "сначала",
+      "cefr": "A1",
+      "ipa": "[snɐˈtɕaɫə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c86fead-ca75-4165-aca0-7b1d5048c0f6",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "russian": "рано",
+      "cefr": "A1",
+      "ipa": "[ˈranə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f3c0ce8-3ba4-4d92-93c3-e36add7d43e8",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "russian": "поздно",
+      "cefr": "A1",
+      "ipa": "[ˈpoznə]",
+      "context": "the д is silent",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b01e47af-eb1f-43e1-9559-de8b8b7cfa5f",
+      "part-of-speech": "adverb",
+      "english": "well; good, OK",
+      "russian": "хорошо",
+      "cefr": "A1",
+      "ipa": "[xərɐˈʂo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39cd3e9b-2ee5-425e-b4ee-5878113a8eea",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "russian": "плохо",
+      "cefr": "A1",
+      "ipa": "[ˈpɫoxə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "965c47c2-7154-4d13-8b43-e41caec266e1",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "russian": "только",
+      "cefr": "A1",
+      "ipa": "[ˈtolʲkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6932e8b-943e-4dea-bfb9-3c06f7e75c8f",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "russian": "почти",
+      "cefr": "A2",
+      "ipa": "[pɐtɕˈtʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c206b6bb-1db4-46b5-936a-b52b9e0da57e",
+      "part-of-speech": "adverb",
+      "english": "immediately",
+      "russian": "сразу",
+      "cefr": "A2",
+      "ipa": "[ˈsrazʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97c70423-b4fd-43f3-bc9b-6ac3080f21e8",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "russian": "конечно",
+      "cefr": "A2",
+      "ipa": "[kɐˈnʲeʂnə]",
+      "context": "чн said as шн",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83b4dc00-8872-4694-bdcb-fe40c49602d8",
+      "part-of-speech": "adverb",
+      "english": "quite, fairly",
+      "russian": "довольно",
+      "cefr": "A2",
+      "ipa": "[dɐˈvolʲnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6ed7591-e0a9-4ce5-9d20-671e367e3a2b",
+      "part-of-speech": "adverb",
+      "english": "too (much)",
+      "russian": "слишком",
+      "cefr": "A2",
+      "ipa": "[ˈslʲiʂkəm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d624bc0f-3359-4989-a8e5-27815c5fc954",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "russian": "медленно",
+      "cefr": "A1",
+      "ipa": "[ˈmʲedlʲɪnːə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f83fe15a-e766-45ed-a592-0d46601866c1",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "russian": "быстро",
+      "cefr": "A1",
+      "ipa": "[ˈbɨstrə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33e60585-25be-436d-a5ed-4d6d86b8b252",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "russian": "далеко",
+      "cefr": "A1",
+      "ipa": "[dəlʲɪˈko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3959a5cd-9970-4491-a38e-0e4ff3d4900a",
+      "part-of-speech": "adverb",
+      "english": "near, close",
+      "russian": "близко",
+      "cefr": "A1",
+      "ipa": "[ˈblʲiskə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab701387-a4f6-45d4-81af-c57db170fb87",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "russian": "налево",
+      "cefr": "A1",
+      "ipa": "[nɐˈlʲevə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1cad02d-b348-45de-a566-c3b2bf673956",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "russian": "направо",
+      "cefr": "A1",
+      "ipa": "[nɐˈpravə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2559ab23-ed1e-4236-9259-67cda06709e9",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "russian": "прямо",
+      "cefr": "A1",
+      "ipa": "[ˈprʲamə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76ca716d-2809-40df-81b3-f3d151e733ab",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "russian": "дома",
+      "cefr": "A1",
+      "ipa": "[ˈdomə]",
+      "context": "(to) home: домой",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70e08040-ce1c-4122-a326-bb43acd88d69",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "russian": "где",
+      "cefr": "A1",
+      "ipa": "[ɡdʲe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d8b8eb2-96a0-48d0-87aa-d6971310cd88",
+      "part-of-speech": "adverb",
+      "english": "where (to)",
+      "russian": "куда",
+      "cefr": "A1",
+      "ipa": "[kʊˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fae5dc76-32b6-4069-b8c3-2302cb307664",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "russian": "когда",
+      "cefr": "A1",
+      "ipa": "[kɐɡˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "031a330f-a955-40a9-9105-1769767035c9",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "russian": "как",
+      "cefr": "A1",
+      "ipa": "[kak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0f67c30-c655-419e-84c3-8216dd5d3c34",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "russian": "почему",
+      "cefr": "A1",
+      "ipa": "[pətɕɪˈmu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87d73310-0edc-46af-a176-84a2ff349e5c",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "russian": "сколько",
+      "cefr": "A1",
+      "ipa": "[ˈskolʲkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62898149-9586-4fb8-8201-af3926fb9e87",
+      "part-of-speech": "adverb",
+      "english": "it is necessary (to need to)",
+      "russian": "нужно",
+      "cefr": "A1",
+      "ipa": "[ˈnuʐnə]",
+      "context": "мне нужно идти: I need to go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "854aa599-fd30-47a6-add6-7ba8e956698c",
+      "part-of-speech": "adverb",
+      "english": "it is allowed; one can",
+      "russian": "можно",
+      "cefr": "A1",
+      "ipa": "[ˈmoʐnə]",
+      "context": "можно?: may I?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8197159-6393-4357-ba83-05a201ea830a",
+      "part-of-speech": "adverb",
+      "english": "it is not allowed",
+      "russian": "нельзя",
+      "cefr": "A1",
+      "ipa": "[nʲɪlʲˈzʲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ce996f7-b13d-4e36-bee3-ac42448a565a",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "russian": "я",
+      "cefr": "A1",
+      "ipa": "[ja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e77d70c-46ad-451e-8a8d-055ab5e474e0",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "russian": "ты",
+      "cefr": "A1",
+      "ipa": "[tɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff667a53-eff4-40db-8be9-fbf5d4a9e8d7",
+      "part-of-speech": "pronoun",
+      "english": "he; it (masculine)",
+      "russian": "он",
+      "cefr": "A1",
+      "ipa": "[on]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2a9f53e-feed-48e6-b13e-77fd3ba72754",
+      "part-of-speech": "pronoun",
+      "english": "she; it (feminine)",
+      "russian": "она",
+      "cefr": "A1",
+      "ipa": "[ɐˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0d31bfe-1af9-4672-9c51-12d97f0064cc",
+      "part-of-speech": "pronoun",
+      "english": "it (neuter)",
+      "russian": "оно",
+      "cefr": "A1",
+      "ipa": "[ɐˈno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f3cc94d-8968-4709-85b9-ac3a98d65f96",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "russian": "мы",
+      "cefr": "A1",
+      "ipa": "[mɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f5fe962-60b0-4001-96a9-1d2e2b09f654",
+      "part-of-speech": "pronoun",
+      "english": "you (plural or formal)",
+      "russian": "вы",
+      "cefr": "A1",
+      "ipa": "[vɨ]",
+      "context": "written Вы when addressing one person politely in letters",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e667816-b29b-41fc-a916-386f2f50a3bd",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "russian": "они",
+      "cefr": "A1",
+      "ipa": "[ɐˈnʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0f93ac3-8539-498c-baaf-b4d0dab930db",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "russian": "мой",
+      "cefr": "A1",
+      "ipa": "[moj]",
+      "context": "моя (f), моё (n), мои (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f7d7500-e1af-4506-a4fd-499f04ee129e",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "russian": "твой",
+      "cefr": "A1",
+      "ipa": "[tvoj]",
+      "context": "твоя (f), твоё (n), твои (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72dbd951-0195-4937-9926-79b23ee32192",
+      "part-of-speech": "pronoun",
+      "english": "his; him",
+      "russian": "его",
+      "cefr": "A1",
+      "ipa": "[jɪˈvo]",
+      "context": "the г is said as в",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e91210a-87c1-4ff5-b1f0-6f7ab0700f85",
+      "part-of-speech": "pronoun",
+      "english": "her, hers",
+      "russian": "её",
+      "cefr": "A1",
+      "ipa": "[jɪˈjɵ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c22a1199-914b-42a6-adb9-563682c925ec",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "russian": "наш",
+      "cefr": "A1",
+      "ipa": "[naʂ]",
+      "context": "наша (f), наше (n), наши (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4c8f56a-fbbd-4b2d-904f-ef7a3c829f01",
+      "part-of-speech": "pronoun",
+      "english": "your (plural or formal)",
+      "russian": "ваш",
+      "cefr": "A1",
+      "ipa": "[vaʂ]",
+      "context": "ваша (f), ваше (n), ваши (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17d3c364-e92e-4c41-80de-1ee16cfd2d7c",
+      "part-of-speech": "pronoun",
+      "english": "their; them",
+      "russian": "их",
+      "cefr": "A1",
+      "ipa": "[ix]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "894f5e80-2956-4b97-9378-010a37700c7f",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "russian": "этот",
+      "cefr": "A1",
+      "ipa": "[ˈɛtət]",
+      "context": "эта (f), это (n), эти (pl); это also means \"this is\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80a3b773-04da-4d4d-b2f6-39a53a5c5beb",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "russian": "тот",
+      "cefr": "A1",
+      "ipa": "[tot]",
+      "context": "та (f), то (n), те (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "343c98d8-a620-4941-a6cb-7f54f316d012",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "russian": "что",
+      "cefr": "A1",
+      "ipa": "[ʂto]",
+      "context": "the ч is said as ш",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae8b5f4a-0ad3-47cd-85de-6f90f0cc002a",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "russian": "кто",
+      "cefr": "A1",
+      "ipa": "[kto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71f784af-b319-4329-8aab-0f08cefd7163",
+      "part-of-speech": "pronoun",
+      "english": "which, what kind of",
+      "russian": "какой",
+      "cefr": "A1",
+      "ipa": "[kɐˈkoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90f6cfde-c1a1-4c67-ba5e-3340ade1fdfe",
+      "part-of-speech": "pronoun",
+      "english": "which, who (relative)",
+      "russian": "который",
+      "cefr": "A2",
+      "ipa": "[kɐˈtorɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d63f8881-5f0c-4f9c-8aa1-7d447f463d6d",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "russian": "всё",
+      "cefr": "A1",
+      "ipa": "[fsʲɵ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e52b5b64-6cc4-4b34-aadc-dd4ab360cf9a",
+      "part-of-speech": "pronoun",
+      "english": "everyone, all",
+      "russian": "все",
+      "cefr": "A1",
+      "ipa": "[fsʲe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a3c9486-902b-4a3f-96e5-a7c1244d8c13",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "russian": "что-то",
+      "cefr": "A2",
+      "ipa": "[ˈʂtotə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68504e05-0b5d-4a3e-9828-12ec46185f4c",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "russian": "ничего",
+      "cefr": "A2",
+      "ipa": "[nʲɪtɕɪˈvo]",
+      "context": "also \"never mind; not bad\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76293156-9ac8-4a20-8ff5-ef00a5e0ece2",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "russian": "кто-то",
+      "cefr": "A2",
+      "ipa": "[ˈktotə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97c99f6e-cde2-4357-a4cd-8e3d5276f83b",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "russian": "никто",
+      "cefr": "A2",
+      "ipa": "[nʲɪˈkto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a7b5c18-4844-4e39-9f9e-61d7506463ab",
+      "part-of-speech": "preposition",
+      "english": "in; to, into",
+      "russian": "в",
+      "cefr": "A1",
+      "ipa": "[v]",
+      "context": "+ prepositional (where?), + accusative (where to?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22269420-7400-4bd5-baa0-1123b828e194",
+      "part-of-speech": "preposition",
+      "english": "on; at; to",
+      "russian": "на",
+      "cefr": "A1",
+      "ipa": "[na]",
+      "context": "+ prepositional (where?), + accusative (where to?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e12199a0-3abf-4690-828c-ead9a9dda623",
+      "part-of-speech": "preposition",
+      "english": "with; from",
+      "russian": "с",
+      "cefr": "A1",
+      "ipa": "[s]",
+      "context": "+ instrumental (with), + genitive (from, off)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80ccda41-d0d2-41bf-963c-9cc21e778e61",
+      "part-of-speech": "preposition",
+      "english": "towards, to (a person)",
+      "russian": "к",
+      "cefr": "A1",
+      "ipa": "[k]",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cfea578-e612-444d-a6cf-8b3826b427b0",
+      "part-of-speech": "preposition",
+      "english": "from (a person)",
+      "russian": "от",
+      "cefr": "A1",
+      "ipa": "[ot]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fb28366-efab-4156-850a-10da166c6966",
+      "part-of-speech": "preposition",
+      "english": "from, out of",
+      "russian": "из",
+      "cefr": "A1",
+      "ipa": "[ɪs]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95f4f0de-b191-4ceb-b00a-a5cd0b4ef0b4",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "russian": "до",
+      "cefr": "A1",
+      "ipa": "[do]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "588b9cb0-5015-4fec-8c30-eb555c9d0e58",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "russian": "для",
+      "cefr": "A1",
+      "ipa": "[dlʲa]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1481dfcc-f699-4def-bd01-21077eff848e",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "russian": "без",
+      "cefr": "A1",
+      "ipa": "[bʲɪs]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15f97758-b920-4f61-b41e-42d052a2131e",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "russian": "о",
+      "cefr": "A1",
+      "ipa": "[o]",
+      "context": "+ prepositional; об before a vowel",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52bcc0c2-1391-498f-bb13-f3fd90a02ce9",
+      "part-of-speech": "preposition",
+      "english": "at, by; (to have)",
+      "russian": "у",
+      "cefr": "A1",
+      "ipa": "[u]",
+      "context": "+ genitive; у меня есть …: I have …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "860d03f1-e476-483d-ae74-e32fa26ef7bb",
+      "part-of-speech": "preposition",
+      "english": "behind; for",
+      "russian": "за",
+      "cefr": "A2",
+      "ipa": "[za]",
+      "context": "+ instrumental (behind), + accusative (for)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "334ece6c-1c8a-44d8-8e1f-92a5b539f5e2",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "russian": "под",
+      "cefr": "A1",
+      "ipa": "[pot]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "453f630f-4bdb-4eba-949e-086f73fe18c2",
+      "part-of-speech": "preposition",
+      "english": "above",
+      "russian": "над",
+      "cefr": "A2",
+      "ipa": "[nat]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d15b9cc-c792-431f-844f-69469a2495a0",
+      "part-of-speech": "preposition",
+      "english": "in front of; before",
+      "russian": "перед",
+      "cefr": "A1",
+      "ipa": "[ˈpʲerʲɪt]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2a066d4-7b0a-4901-b7e3-f1b8f0148802",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "russian": "после",
+      "cefr": "A1",
+      "ipa": "[ˈposlʲɪ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc3cc901-81cc-4112-ba93-c29349025e95",
+      "part-of-speech": "preposition",
+      "english": "through; in (time)",
+      "russian": "через",
+      "cefr": "A2",
+      "ipa": "[ˈtɕerʲɪs]",
+      "context": "+ accusative; через час: in an hour",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "401fe16e-d0f0-411a-aa82-0f60f64dcd78",
+      "part-of-speech": "preposition",
+      "english": "near; about",
+      "russian": "около",
+      "cefr": "A2",
+      "ipa": "[ˈokəɫə]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62c4de58-c1a2-4866-83ff-90437528f6c2",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "russian": "между",
+      "cefr": "A2",
+      "ipa": "[ˈmʲeʐdʊ]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dbc5c89-f1c1-4133-8f05-475b86d98681",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "russian": "рядом с",
+      "cefr": "A1",
+      "ipa": "[ˈrʲadəm s]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f58fc16-2537-4f19-a806-e94c130ca72e",
+      "part-of-speech": "preposition",
+      "english": "opposite",
+      "russian": "напротив",
+      "cefr": "A2",
+      "ipa": "[nɐˈprotʲɪf]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9776ce76-2aab-4bae-99cb-d0b0eacffff4",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "russian": "и",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b071ddb5-8992-4a1b-90c5-8b8365f87dbd",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "russian": "или",
+      "cefr": "A1",
+      "ipa": "[ˈilʲɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84274fc2-613d-4826-8557-eb0d5ebfdcdc",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "russian": "но",
+      "cefr": "A1",
+      "ipa": "[no]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "667c457c-98cf-498e-8c14-3aa284818c29",
+      "part-of-speech": "conjunction",
+      "english": "and, but (contrasting)",
+      "russian": "а",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "context": "я врач, а он учитель: I'm a doctor, and he's a teacher",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9198d22e-6f44-4eff-9b02-0095dba9c2dd",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "russian": "потому что",
+      "cefr": "A1",
+      "ipa": "[pətɐˈmu ʂtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80c9cd78-fc38-4805-b43c-0080722a15e1",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "russian": "поэтому",
+      "cefr": "A1",
+      "ipa": "[pɐˈɛtəmʊ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5b2a0f5-2d0c-4d9b-a5c7-dc02c701ad25",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "russian": "что",
+      "cefr": "A1",
+      "ipa": "[ʂto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9e38da5-32f0-4ddb-9a86-597c2605ca2c",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "russian": "если",
+      "cefr": "A1",
+      "ipa": "[ˈjesʲlʲɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d80692f-caf3-4e26-9fd4-961e4c3a54fe",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "russian": "когда",
+      "cefr": "A1",
+      "ipa": "[kɐɡˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ded93e89-1957-44c5-a577-008e6bb3a18a",
+      "part-of-speech": "conjunction",
+      "english": "so that, in order to",
+      "russian": "чтобы",
+      "cefr": "A2",
+      "ipa": "[ˈʂtobɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e6c2fe1-b3a6-4a58-9016-5c402778c1c1",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "russian": "хотя",
+      "cefr": "A2",
+      "ipa": "[xɐˈtʲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f42a041e-17da-4cf3-ac19-83ecb16dff23",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "russian": "пока",
+      "cefr": "A2",
+      "ipa": "[pɐˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "384c31f0-c2d0-4ce2-834a-ee1bfe6fab2a",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "russian": "да",
+      "cefr": "A1",
+      "ipa": "[da]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c9460b5-9e2a-4545-84f5-4ad3f3870b57",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "russian": "нет",
+      "cefr": "A1",
+      "ipa": "[nʲet]",
+      "context": "also \"there isn't\": нет времени (there's no time)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be201379-d6ee-4cb6-aa83-fd2b32a09468",
+      "part-of-speech": "interjection",
+      "english": "hi",
+      "russian": "привет",
+      "cefr": "A1",
+      "ipa": "[prʲɪˈvʲet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bab9ba77-cbfc-43da-a9cb-beeb321ff995",
+      "part-of-speech": "interjection",
+      "english": "hello (formal)",
+      "russian": "здравствуйте",
+      "cefr": "A1",
+      "ipa": "[ˈzdrastvʊjtʲɪ]",
+      "context": "the first в is silent; informal: здравствуй",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98615e49-0a46-46fb-bd15-9f2dae4ffc22",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "russian": "доброе утро",
+      "cefr": "A1",
+      "ipa": "[ˈdobrəjə ˈutrə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dad8254-4b30-43c1-a4d9-ada4dfdd9b5a",
+      "part-of-speech": "interjection",
+      "english": "good afternoon",
+      "russian": "добрый день",
+      "cefr": "A1",
+      "ipa": "[ˈdobrɨj dʲenʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3671950f-d25b-4f08-ae68-56a8caf67517",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "russian": "добрый вечер",
+      "cefr": "A1",
+      "ipa": "[ˈdobrɨj ˈvʲetɕɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a66a2b33-3ec6-4fdf-98d9-dbcbee6daf3f",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "russian": "спокойной ночи",
+      "cefr": "A1",
+      "ipa": "[spɐˈkojnəj ˈnotɕɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01b134ad-3970-4cbf-977b-33c0494bcdcf",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "russian": "до свидания",
+      "cefr": "A1",
+      "ipa": "[də svʲɪˈdanʲɪjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da4ef582-c8b0-4c1c-9698-aee5e52195f6",
+      "part-of-speech": "interjection",
+      "english": "bye",
+      "russian": "пока",
+      "cefr": "A1",
+      "ipa": "[pɐˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1de2c17-f178-4a37-b8c0-8052269e7c40",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "russian": "спасибо",
+      "cefr": "A1",
+      "ipa": "[spɐˈsʲibə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4759be07-382d-4a6a-9ac5-4062b5f257f3",
+      "part-of-speech": "interjection",
+      "english": "please; you're welcome",
+      "russian": "пожалуйста",
+      "cefr": "A1",
+      "ipa": "[pɐˈʐaɫstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5479b7e4-ee44-44bc-9c07-cadd0f6feab7",
+      "part-of-speech": "interjection",
+      "english": "excuse me; sorry",
+      "russian": "извините",
+      "cefr": "A1",
+      "ipa": "[ɪzvʲɪˈnʲitʲɪ]",
+      "context": "informal: извини",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad00b867-ef69-4ede-84fc-ef299aa9a628",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "russian": "как дела",
+      "cefr": "A1",
+      "ipa": "[kak dʲɪˈɫa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb0597d1-611d-45bd-91c9-f95f370e8c43",
+      "part-of-speech": "interjection",
+      "english": "nice to meet you",
+      "russian": "очень приятно",
+      "cefr": "A1",
+      "ipa": "[ˈotɕɪnʲ prʲɪˈjatnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "456002f8-a3c4-4492-84a1-73c7cc60cf8b",
+      "part-of-speech": "interjection",
+      "english": "okay, all right",
+      "russian": "ладно",
+      "cefr": "A2",
+      "ipa": "[ˈɫadnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e19056c9-18bc-46a2-aabb-cbb2c48dc214",
+      "part-of-speech": "interjection",
+      "english": "let's; come on",
+      "russian": "давай",
+      "cefr": "A2",
+      "ipa": "[dɐˈvaj]",
+      "context": "formal or plural: давайте",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28a34642-efdb-4be1-b43c-d87cbbf8eea9",
+      "part-of-speech": "interjection",
+      "english": "enjoy your meal",
+      "russian": "приятного аппетита",
+      "cefr": "A2",
+      "ipa": "[prʲɪˈjatnəvə ɐpʲɪˈtʲitə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5340f970-0b03-427f-bdd5-dfc9e840aebd",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "russian": "поздравляю",
+      "cefr": "A2",
+      "ipa": "[pəzdrɐˈvlʲæjʊ]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

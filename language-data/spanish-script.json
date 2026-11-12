@@ -2,12 +2,12 @@
   "scriptName": "Spanish Pronunciation",
   "buttonLabel": "Pronunciation Guide",
   "generated": "pronunciation",
-  "intro": "How Spanish is pronounced — the main spelling rules.",
+  "intro": "How Spanish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
   "sections": [
     {
       "heading": "About the pronunciations",
       "text": [
-        "This Spanish list doesn't have pronunciations yet; this chart covers the main spelling rules (Spain; Latin American differences noted)."
+        "Pronunciations follow standard Castilian (Spain) Spanish, written as exact (bracketed) IPA. In Latin America, z and c before e/i are said as s rather than [θ]. b, d and g soften to [β ð ɣ] between vowels."
       ]
     },
     {
@@ -72,6 +72,122 @@
           "char": "qu / gu(e,i)",
           "ipa": "[k ɡ]",
           "note": "the u is silent"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "a [a]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "he [e]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "i [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "o [o]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "u [u]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "hoy [oj]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "re [re]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "we [wi]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "x",
+          "ipa": "ji [xi]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "β",
+          "ipa": "bob [boβ]",
+          "note": "a soft b, with the lips not quite closed"
+        },
+        {
+          "char": "ð",
+          "ipa": "red [reð]",
+          "note": "th, as in \"this\""
+        },
+        {
+          "char": "θ",
+          "ipa": "haz [aθ]",
+          "note": "th, as in \"thin\""
+        },
+        {
+          "char": "ɣ",
+          "ipa": "bug [buɣ]",
+          "note": "a soft, buzzing version of the ch in \"loch\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "show [ʃow]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ɾ",
+          "ipa": "ir [iɾ]",
+          "note": "a quick tap of the tongue, like the tt in American \"butter\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "año [ˈaɲo]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "dong [doŋ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɱ",
+          "ipa": "enfoque [eɱˈfoke]",
+          "note": "m made with the lip against the teeth, before f or v"
+        },
+        {
+          "char": "ʝ",
+          "ipa": "yo [ʝo]",
+          "note": "a y-sound with a slight buzz, close to the j in \"jeans\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "go [ɡo]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "ahí [aˈi]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": ".",
+          "ipa": "zoo [ˈθo.o]",
+          "note": "a break between syllables"
         }
       ]
     }

@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.29.0 — 2026-11-12
+- Added Polish: 528 words covering levels A1 and A2 — everyday nouns (with their gender and plural), verbs (with key forms and perfective partners: robić / zrobić), adjectives, adverbs, pronouns (including the formal pan / pani), prepositions (with the case each one takes), conjunctions, numbers, greetings, days and months
+- Every word has bracketed IPA for standard Polish, showing the stress, the soft and hard sh/ch/zh sounds, nasal ą and ę, and the voicing changes in consonant clusters (twój [tfuj], chleb [xlɛp]); Polish also gets its own Pronunciation Guide
+
+## 1.28.0 — 2026-11-11
+- Spanish and Finnish words now have pronunciations — 8,532 Spanish and 6,782 Finnish words, as exact (bracketed) IPA
+- Spanish follows standard Castilian (Spain) pronunciation: stress on every word, [θ] for z and c before e/i, the soft b, d, g between vowels, and tapped vs. rolled r; borrowed English words (hockey, whisky, software…) are given as Spanish speakers actually say them
+- Finnish shows long vowels and consonants (tuuli [ˈtuːli], tulli [ˈtulːi]), diphthongs, and first-syllable stress
+- The Spanish and Finnish Pronunciation Guides now include a key to every symbol used
+
+## 1.27.0 — 2026-11-11
+- Added Russian: 532 words covering levels A1 and A2 — everyday nouns (with their gender and plural), verbs (with key forms and their perfective partners: делать / сделать), adjectives, adverbs, pronouns, prepositions (with the case each one takes), conjunctions, numbers, greetings, days and months
+- Words are written in plain Cyrillic, as in ordinary Russian text; every word has bracketed IPA for standard Moscow Russian showing its stress, the weakened unstressed vowels, and soft consonants
+- New Cyrillic Guide: the alphabet with the sound of every letter, hard and soft consonants, the main reading rules, and a key to the symbols in the pronunciations
+
+## 1.26.0 — 2026-11-11
+- Added Danish: 556 words covering levels A1 and A2 — everyday nouns (with en/et and their plurals), verbs, adjectives, adverbs, pronouns, prepositions, conjunctions, numbers (including the twenty-based halvtreds), greetings, days and months, plus a few very Danish words like hygge and velbekomme
+- Every word has bracketed IPA for standard Copenhagen Danish, including the stød — the creaky catch that can tell words apart (hun vs hund) — and the soft d; Danish also gets its own Pronunciation Guide
+- Danish, Norwegian and Swedish: uncountable nouns are now shown without "a/an" (kaffe, not "en kaffe")
+
 ## 1.25.0 — 2026-11-11
 - Every language now has a guide: Dutch, Finnish, French, German, Indonesian, Italian, Norwegian, Portuguese, Spanish, Swahili, Swedish and Turkish get a Pronunciation Guide (open it from the new-word cards or during the quiz)
 - Each one notes which accent the pronunciations follow, charts the spellings that don't sound the way an English speaker might expect (Dutch ij, French u, Spanish ñ, Portuguese lh…), and — where the words have pronunciations — explains every symbol they use, with an example word from the list

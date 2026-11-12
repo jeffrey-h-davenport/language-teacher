@@ -1,0 +1,200 @@
+{
+  "scriptName": "Polish Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Polish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Polish, written as exact (bracketed) IPA. Stress almost always falls on the next-to-last syllable."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ł",
+          "ipa": "[w]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "w",
+          "ipa": "[v]",
+          "note": "v"
+        },
+        {
+          "char": "y",
+          "ipa": "[ɨ]",
+          "note": "i with the tongue pulled back"
+        },
+        {
+          "char": "ó / u",
+          "ipa": "[u]",
+          "note": "oo"
+        },
+        {
+          "char": "ą / ę",
+          "ipa": "[ɔ̃ ɛ̃]",
+          "note": "nasal o and e; before b/p they become om/em, before t/d on/en"
+        },
+        {
+          "char": "cz / sz",
+          "ipa": "[tʂ ʂ]",
+          "note": "hard ch, sh"
+        },
+        {
+          "char": "rz / ż",
+          "ipa": "[ʐ]",
+          "note": "hard zh"
+        },
+        {
+          "char": "ć / ci",
+          "ipa": "[tɕ]",
+          "note": "soft ch"
+        },
+        {
+          "char": "ś / si",
+          "ipa": "[ɕ]",
+          "note": "soft sh"
+        },
+        {
+          "char": "ź / zi",
+          "ipa": "[ʑ]",
+          "note": "soft zh"
+        },
+        {
+          "char": "ń / ni",
+          "ipa": "[ɲ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "dż / dź / dz",
+          "ipa": "[dʐ dʑ dz]",
+          "note": "hard j, soft j, dz"
+        },
+        {
+          "char": "ch / h",
+          "ipa": "[x]",
+          "note": "kh, as in \"loch\""
+        },
+        {
+          "char": "c",
+          "ipa": "[ts]",
+          "note": "ts — never k"
+        },
+        {
+          "char": "final b d g w z",
+          "ipa": "[p t k f s]",
+          "note": "lose their voice at the end of a word"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "a [a]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "i",
+          "ipa": "i [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "u",
+          "ipa": "u [u]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "ja [ja]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "rok [rɔk]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "zły [zwɨ]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "x",
+          "ipa": "ich [ix]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "nie [ɲɛ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ɨ",
+          "ipa": "ty [tɨ]",
+          "note": "a short central i, like the vowel in \"roses\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "o [ɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ɕ",
+          "ipa": "wieś [vʲɛɕ]",
+          "note": "a soft sh, with the tongue flat"
+        },
+        {
+          "char": "ʂ",
+          "ipa": "ryż [rɨʂ]",
+          "note": "sh with the tongue tip curled back"
+        },
+        {
+          "char": "ʐ",
+          "ipa": "że [ʐɛ]",
+          "note": "zh with the tongue tip curled back"
+        },
+        {
+          "char": "ɲ",
+          "ipa": "nie [ɲɛ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "bank [baŋk]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʑ",
+          "ipa": "źle [ʑlɛ]",
+          "note": "a soft j"
+        },
+        {
+          "char": "ʲ",
+          "ipa": "wiek [vʲɛk]",
+          "note": "soft — said with the middle of the tongue raised, as if starting a y"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "gra [ɡra]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "oko [ˈɔkɔ]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "◌̃",
+          "ipa": "mąż [mɔ̃ʂ]",
+          "note": "nasal — air through the nose too"
+        }
+      ]
+    }
+  ]
+}
