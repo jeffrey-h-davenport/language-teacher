@@ -1,0 +1,6195 @@
+{
+  "meta": {
+    "language": "Ukrainian",
+    "languageCode": "uk",
+    "nativeLanguage": "English",
+    "targetField": "ukrainian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "c8f7c177-9b55-4256-bf03-02b7cce79957",
+      "part-of-speech": "noun",
+      "english": "person",
+      "ukrainian": "людина",
+      "gender": "feminine",
+      "plural": "люди",
+      "cefr": "A1",
+      "ipa": "[lʲuˈdɪnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa5417f7-b4b7-4f0d-9c40-4f03aabd4636",
+      "part-of-speech": "noun",
+      "english": "man; husband",
+      "ukrainian": "чоловік",
+      "gender": "masculine",
+      "plural": "чоловіки",
+      "cefr": "A1",
+      "ipa": "[tʃɔlɔˈʋik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b4526a1-d135-4965-a245-aa42dc588eac",
+      "part-of-speech": "noun",
+      "english": "woman; wife",
+      "ukrainian": "жінка",
+      "gender": "feminine",
+      "plural": "жінки",
+      "cefr": "A1",
+      "ipa": "[ˈʒinkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55711f57-2089-486f-80df-072b8ed2f431",
+      "part-of-speech": "noun",
+      "english": "child",
+      "ukrainian": "дитина",
+      "gender": "feminine",
+      "plural": "діти",
+      "cefr": "A1",
+      "ipa": "[dɪˈtɪnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0da10672-20a8-4cc1-b900-5ca50567a975",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "ukrainian": "хлопчик",
+      "gender": "masculine",
+      "plural": "хлопчики",
+      "cefr": "A1",
+      "ipa": "[ˈxlɔptʃɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8106a3f1-792c-4f2c-9cc1-aeade62bf741",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "ukrainian": "дівчинка",
+      "gender": "feminine",
+      "plural": "дівчинки",
+      "cefr": "A1",
+      "ipa": "[ˈdʲiwtʃɪnkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5f15ec2-919d-4251-b509-1fbf873bfaa3",
+      "part-of-speech": "noun",
+      "english": "mum, mother",
+      "ukrainian": "мама",
+      "gender": "feminine",
+      "plural": "мами",
+      "cefr": "A1",
+      "ipa": "[ˈmɑmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6b0cb61-7050-4121-beee-d89b8dbb160e",
+      "part-of-speech": "noun",
+      "english": "dad, father",
+      "ukrainian": "тато",
+      "gender": "masculine",
+      "plural": "тата",
+      "cefr": "A1",
+      "ipa": "[ˈtɑtɔ]",
+      "context": "masculine despite the -о",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8f96ab6-08c8-434b-a58b-f984a537773f",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "ukrainian": "мати",
+      "gender": "feminine",
+      "plural": "матері",
+      "cefr": "A2",
+      "ipa": "[ˈmɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24c3c607-f61b-40a0-a0e5-563dd48c1644",
+      "part-of-speech": "noun",
+      "english": "father",
+      "ukrainian": "батько",
+      "gender": "masculine",
+      "plural": "батьки",
+      "cefr": "A1",
+      "ipa": "[ˈbɑtʲkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7a64256-d1c7-4b7b-8ec8-027b35ee88ac",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "ukrainian": "батьки",
+      "gender": "masculine",
+      "plural": "батьки",
+      "cefr": "A1",
+      "ipa": "[bɑˈtʲkɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bca72e9-fe31-42c1-9bc8-c49b4157c50a",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "ukrainian": "брат",
+      "gender": "masculine",
+      "plural": "брати",
+      "cefr": "A1",
+      "ipa": "[brɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41d79305-8e72-4ced-9307-ab294dabc822",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "ukrainian": "сестра",
+      "gender": "feminine",
+      "plural": "сестри",
+      "cefr": "A1",
+      "ipa": "[sɛˈstrɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f13fcfbe-de7d-4633-b789-9fe909f1e402",
+      "part-of-speech": "noun",
+      "english": "son",
+      "ukrainian": "син",
+      "gender": "masculine",
+      "plural": "сини",
+      "cefr": "A1",
+      "ipa": "[sɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6432ba6e-0928-49f1-90b6-dbdfb1ad628e",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "ukrainian": "дочка",
+      "gender": "feminine",
+      "plural": "дочки",
+      "cefr": "A1",
+      "ipa": "[ˈdɔtʃkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a55a0bbb-5a94-4db1-9f2f-c15d38fbef9e",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "ukrainian": "дідусь",
+      "gender": "masculine",
+      "plural": "дідусі",
+      "cefr": "A1",
+      "ipa": "[ˈdʲidusʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "966a5487-be73-414d-863b-bb652ec228e5",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "ukrainian": "бабуся",
+      "gender": "feminine",
+      "plural": "бабусі",
+      "cefr": "A1",
+      "ipa": "[ˈbɑbusʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf887cdb-fed8-4d28-9576-4a11a69ff9be",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "ukrainian": "дядько",
+      "gender": "masculine",
+      "plural": "дядьки",
+      "cefr": "A2",
+      "ipa": "[ˈdʲɑdʲkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "624b8589-1b78-4537-82cd-9c1549073e4d",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "ukrainian": "тітка",
+      "gender": "feminine",
+      "plural": "тітки",
+      "cefr": "A2",
+      "ipa": "[ˈtʲitkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cf0660b-4baa-4544-8425-ff59c4479915",
+      "part-of-speech": "noun",
+      "english": "family",
+      "ukrainian": "сім'я",
+      "gender": "feminine",
+      "plural": "сім'ї",
+      "cefr": "A1",
+      "ipa": "[sʲimˈjɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de99293e-a86b-4bcc-befd-29e3c603d759",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "ukrainian": "друг",
+      "gender": "masculine",
+      "plural": "друзі",
+      "cefr": "A1",
+      "ipa": "[druɦ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c095283b-5192-4229-a9d1-cd3790ee7f7d",
+      "part-of-speech": "noun",
+      "english": "friend (female); girlfriend",
+      "ukrainian": "подруга",
+      "gender": "feminine",
+      "plural": "подруги",
+      "cefr": "A1",
+      "ipa": "[ˈpɔdruɦɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fd15031-1fd2-4c88-81fc-1390643d9f7f",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "ukrainian": "сусід",
+      "gender": "masculine",
+      "plural": "сусіди",
+      "cefr": "A2",
+      "ipa": "[suˈsʲid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1168b3e-e74b-4732-affb-4357c388f229",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "ukrainian": "колега",
+      "gender": "masculine",
+      "plural": "колеги",
+      "cefr": "A2",
+      "ipa": "[kɔˈlɛɦɑ]",
+      "context": "used for both men and women",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa26e3c5-f478-418a-87b6-f4be7faf7591",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "ukrainian": "вчитель",
+      "gender": "masculine",
+      "plural": "вчителі",
+      "cefr": "A1",
+      "ipa": "[ˈwtʃɪtɛlʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42305bbf-1830-4cb6-80c8-ff7087815ba9",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "ukrainian": "вчителька",
+      "gender": "feminine",
+      "plural": "вчительки",
+      "cefr": "A1",
+      "ipa": "[ˈwtʃɪtɛlʲkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6c361b8-6a96-4039-ace6-4aa9a7d71fd5",
+      "part-of-speech": "noun",
+      "english": "student",
+      "ukrainian": "студент",
+      "gender": "masculine",
+      "plural": "студенти",
+      "cefr": "A1",
+      "ipa": "[stuˈdɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "722b20c0-da03-4497-a0fa-a88f911a4c99",
+      "part-of-speech": "noun",
+      "english": "student (female)",
+      "ukrainian": "студентка",
+      "gender": "feminine",
+      "plural": "студентки",
+      "cefr": "A1",
+      "ipa": "[stuˈdɛntkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9760af08-1c9e-4dd4-a763-8c8db93363c9",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "ukrainian": "лікар",
+      "gender": "masculine",
+      "plural": "лікарі",
+      "cefr": "A1",
+      "ipa": "[ˈlʲikɑr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad7fb408-99de-4d53-8621-36d872ee4210",
+      "part-of-speech": "noun",
+      "english": "(first) name",
+      "ukrainian": "ім'я",
+      "gender": "neuter",
+      "plural": "імена",
+      "cefr": "A1",
+      "ipa": "[ˈimjɑ]",
+      "context": "мене звати …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c0e77e5-cee7-447c-95e1-fb6cbc1ae9f6",
+      "part-of-speech": "noun",
+      "english": "age; century",
+      "ukrainian": "вік",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ʋik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "356d4852-c670-4833-a867-a0e7b6d94a9a",
+      "part-of-speech": "noun",
+      "english": "time",
+      "ukrainian": "час",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tʃɑs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76743e5b-83ad-4895-b78e-9621138b0c4b",
+      "part-of-speech": "noun",
+      "english": "day",
+      "ukrainian": "день",
+      "gender": "masculine",
+      "plural": "дні",
+      "cefr": "A1",
+      "ipa": "[dɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ef09341-96ac-4b6d-8822-ff193f8e6428",
+      "part-of-speech": "noun",
+      "english": "week",
+      "ukrainian": "тиждень",
+      "gender": "masculine",
+      "plural": "тижні",
+      "cefr": "A1",
+      "ipa": "[ˈtɪʒdɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99940530-cefb-4a49-8dbc-4b85aaeb60eb",
+      "part-of-speech": "noun",
+      "english": "month",
+      "ukrainian": "місяць",
+      "gender": "masculine",
+      "plural": "місяці",
+      "cefr": "A1",
+      "ipa": "[ˈmisʲɑtsʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "897e277e-e7a9-4029-a477-7f9850803b02",
+      "part-of-speech": "noun",
+      "english": "year",
+      "ukrainian": "рік",
+      "gender": "masculine",
+      "plural": "роки",
+      "cefr": "A1",
+      "ipa": "[rʲik]",
+      "context": "after 5 and up: років",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d27ffa1-360e-4bbb-9763-c6a48fd53b74",
+      "part-of-speech": "noun",
+      "english": "hour; o'clock",
+      "ukrainian": "година",
+      "gender": "feminine",
+      "plural": "години",
+      "cefr": "A1",
+      "ipa": "[ɦɔˈdɪnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1bae80a-257b-4c1d-86c4-16196f945a31",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "ukrainian": "хвилина",
+      "gender": "feminine",
+      "plural": "хвилини",
+      "cefr": "A1",
+      "ipa": "[xʋɪˈlɪnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0d08433-1dff-4fc5-89d1-a51c0a7475fc",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "ukrainian": "ранок",
+      "gender": "masculine",
+      "plural": "ранки",
+      "cefr": "A1",
+      "ipa": "[ˈrɑnɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c5b3a48-f0cc-47fc-931c-2c909ff1ce86",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "ukrainian": "вечір",
+      "gender": "masculine",
+      "plural": "вечори",
+      "cefr": "A1",
+      "ipa": "[ˈʋɛtʃir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f906ba83-ea69-479c-9056-3a82be270bee",
+      "part-of-speech": "noun",
+      "english": "night",
+      "ukrainian": "ніч",
+      "gender": "feminine",
+      "plural": "ночі",
+      "cefr": "A1",
+      "ipa": "[nʲitʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "158fde12-15df-42af-a352-2d0768acab49",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "ukrainian": "вихідні",
+      "gender": "masculine",
+      "plural": "вихідні",
+      "cefr": "A1",
+      "ipa": "[ʋɪxiˈdnʲi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9df68c39-28cc-4640-8fa3-de4b6514cfd7",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "ukrainian": "понеділок",
+      "gender": "masculine",
+      "plural": "понеділки",
+      "cefr": "A1",
+      "ipa": "[pɔnɛˈdʲilɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03cf3efa-d4fc-4a35-aad1-e03b6bc5e172",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "ukrainian": "вівторок",
+      "gender": "masculine",
+      "plural": "вівторки",
+      "cefr": "A1",
+      "ipa": "[ʋiwˈtɔrɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de4be8a5-702e-4a8c-9d9e-a4a19923c8ec",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "ukrainian": "середа",
+      "gender": "feminine",
+      "plural": "середи",
+      "cefr": "A1",
+      "ipa": "[sɛrɛˈdɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0bff2fb-39be-4704-b2ef-dcc1d650a211",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "ukrainian": "четвер",
+      "gender": "masculine",
+      "plural": "четверги",
+      "cefr": "A1",
+      "ipa": "[tʃɛˈtʋɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "542074d1-b224-404f-b222-d0087d19a4a8",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "ukrainian": "п'ятниця",
+      "gender": "feminine",
+      "plural": "п'ятниці",
+      "cefr": "A1",
+      "ipa": "[ˈpjɑtnɪtsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6a7e88e-bafe-46fe-aef6-8e7f4820baf4",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "ukrainian": "субота",
+      "gender": "feminine",
+      "plural": "суботи",
+      "cefr": "A1",
+      "ipa": "[suˈbɔtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "569fdc6a-02de-4231-b06f-c562d18d083e",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "ukrainian": "неділя",
+      "gender": "feminine",
+      "plural": "неділі",
+      "cefr": "A1",
+      "ipa": "[nɛˈdʲilʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43b9478e-d79b-4780-872b-de4ab2f6ce72",
+      "part-of-speech": "noun",
+      "english": "January",
+      "ukrainian": "січень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsʲitʃɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67d03e53-8dba-49b2-a5da-ebef961b92dd",
+      "part-of-speech": "noun",
+      "english": "February",
+      "ukrainian": "лютий",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈlʲutɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "648ce1f7-6700-4095-b49a-1f6c85bf0ab3",
+      "part-of-speech": "noun",
+      "english": "March",
+      "ukrainian": "березень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈbɛrɛzɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c31d6e4e-1229-418a-8e69-6a022f50716f",
+      "part-of-speech": "noun",
+      "english": "April",
+      "ukrainian": "квітень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkʋitɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29e2c139-31da-464e-bec8-789062c6fb8f",
+      "part-of-speech": "noun",
+      "english": "May",
+      "ukrainian": "травень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtrɑʋɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d36bcf0-5b60-4218-bd59-58bbc61b7af2",
+      "part-of-speech": "noun",
+      "english": "June",
+      "ukrainian": "червень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɛrʋɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddf55538-6c14-4e7f-aec2-41bb095a7710",
+      "part-of-speech": "noun",
+      "english": "July",
+      "ukrainian": "липень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈlɪpɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c419e02b-2846-43c4-bda7-45fb57c4416f",
+      "part-of-speech": "noun",
+      "english": "August",
+      "ukrainian": "серпень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsɛrpɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57dd107b-77c9-4b3a-8ef3-34801ed79cb2",
+      "part-of-speech": "noun",
+      "english": "September",
+      "ukrainian": "вересень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʋɛrɛsɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b4c2823-3467-4d2e-b53b-ada7ee676c40",
+      "part-of-speech": "noun",
+      "english": "October",
+      "ukrainian": "жовтень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʒɔwtɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f65a5dd-66df-4020-b265-1e127338ea50",
+      "part-of-speech": "noun",
+      "english": "November",
+      "ukrainian": "листопад",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[lɪstɔˈpɑd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1b6880d-8f7f-4c2f-85d8-6852d488135c",
+      "part-of-speech": "noun",
+      "english": "December",
+      "ukrainian": "грудень",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɦrudɛnʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93ffcffb-9618-4bb8-b254-0131e19ea1e9",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "ukrainian": "весна",
+      "gender": "feminine",
+      "plural": "весни",
+      "cefr": "A2",
+      "ipa": "[ʋɛˈsnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "936ef1e1-29da-4c89-990c-c54f9b1b3ae9",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "ukrainian": "літо",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈlʲitɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a1af17b-7204-4acb-97cc-fd16e3e74022",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "ukrainian": "осінь",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈɔsʲinʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a806a9e-21d6-4084-b72d-e83de4840162",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "ukrainian": "зима",
+      "gender": "feminine",
+      "plural": "зими",
+      "cefr": "A2",
+      "ipa": "[zɪˈmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00ece426-59f9-4164-a658-873bb491ef5a",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "ukrainian": "день народження",
+      "gender": "masculine",
+      "plural": "дні народження",
+      "cefr": "A1",
+      "ipa": "[dɛnʲ nɑˈrɔdʒɛnʲːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a5c83e3-e0e0-4213-9f1b-ac5e16e0ad96",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation (from work)",
+      "ukrainian": "відпустка",
+      "gender": "feminine",
+      "plural": "відпустки",
+      "cefr": "A1",
+      "ipa": "[ʋiˈdpustkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d65935a8-34f3-4143-8eda-189cd8b324a6",
+      "part-of-speech": "noun",
+      "english": "holidays (school, university)",
+      "ukrainian": "канікули",
+      "gender": "feminine",
+      "plural": "канікули",
+      "cefr": "A2",
+      "ipa": "[kɑˈnʲikulɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20c67753-7519-43b7-a57b-91921aa7b509",
+      "part-of-speech": "noun",
+      "english": "holiday, celebration",
+      "ukrainian": "свято",
+      "gender": "neuter",
+      "plural": "свята",
+      "cefr": "A1",
+      "ipa": "[ˈsʋɑtɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7933f16-bab2-44cb-acc7-64ec080cc8dc",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "ukrainian": "подарунок",
+      "gender": "masculine",
+      "plural": "подарунки",
+      "cefr": "A2",
+      "ipa": "[pɔˈdɑrunɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78ef4182-5379-449c-8391-449648e192d9",
+      "part-of-speech": "noun",
+      "english": "house; building",
+      "ukrainian": "будинок",
+      "gender": "masculine",
+      "plural": "будинки",
+      "cefr": "A1",
+      "ipa": "[buˈdɪnɔk]",
+      "context": "at home: вдома",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c9793f2-37a8-460f-8345-db0843b9632a",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "ukrainian": "квартира",
+      "gender": "feminine",
+      "plural": "квартири",
+      "cefr": "A1",
+      "ipa": "[kʋɑrˈtɪrɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23ef59d8-b3b4-4b0b-9583-e86a70048cb6",
+      "part-of-speech": "noun",
+      "english": "room",
+      "ukrainian": "кімната",
+      "gender": "feminine",
+      "plural": "кімнати",
+      "cefr": "A1",
+      "ipa": "[ˈkimnɑtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a3aa843-8166-4b58-8bb6-6a0f25a5b44a",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "ukrainian": "спальня",
+      "gender": "feminine",
+      "plural": "спальні",
+      "cefr": "A1",
+      "ipa": "[ˈspɑlʲnʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "008048fb-e237-4321-91eb-f17d66203b9a",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "ukrainian": "кухня",
+      "gender": "feminine",
+      "plural": "кухні",
+      "cefr": "A1",
+      "ipa": "[ˈkuxnʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8530f57e-1331-428c-892e-c02bab91c90b",
+      "part-of-speech": "noun",
+      "english": "bathroom; bath",
+      "ukrainian": "ванна",
+      "gender": "feminine",
+      "plural": "ванни",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑnːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d26ef24-5a71-4e00-a51b-1e6483530fd1",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "ukrainian": "туалет",
+      "gender": "masculine",
+      "plural": "туалети",
+      "cefr": "A1",
+      "ipa": "[tuɑˈlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be83356c-959e-4f1d-a857-4ddd6bd06f13",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "ukrainian": "сад",
+      "gender": "masculine",
+      "plural": "сади",
+      "cefr": "A1",
+      "ipa": "[sɑd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4b498ad-7fc6-4cfe-a28a-e4d7d9f80735",
+      "part-of-speech": "noun",
+      "english": "door",
+      "ukrainian": "двері",
+      "gender": "feminine",
+      "plural": "двері",
+      "cefr": "A1",
+      "ipa": "[ˈdʋɛrʲi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5599bda0-e4e1-4244-888f-5ded2fe59146",
+      "part-of-speech": "noun",
+      "english": "window",
+      "ukrainian": "вікно",
+      "gender": "neuter",
+      "plural": "вікна",
+      "cefr": "A1",
+      "ipa": "[ʋiˈknɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8bc0d5d-e082-4cda-8e7c-4bca7f9cbf73",
+      "part-of-speech": "noun",
+      "english": "table",
+      "ukrainian": "стіл",
+      "gender": "masculine",
+      "plural": "столи",
+      "cefr": "A1",
+      "ipa": "[stʲil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2967536-bbdb-40ce-bc8e-df30db1d53f9",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "ukrainian": "стілець",
+      "gender": "masculine",
+      "plural": "стільці",
+      "cefr": "A1",
+      "ipa": "[ˈstʲilɛtsʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "827dac7a-ec0a-4ff3-8f39-6f6e7ad3775d",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "ukrainian": "ліжко",
+      "gender": "neuter",
+      "plural": "ліжка",
+      "cefr": "A1",
+      "ipa": "[ˈlʲiʒkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fcd0b4c-037f-413b-a2a4-5b64269bd65c",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "ukrainian": "диван",
+      "gender": "masculine",
+      "plural": "дивани",
+      "cefr": "A1",
+      "ipa": "[dɪˈʋɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d502412-63ab-483c-87a4-b1820134af22",
+      "part-of-speech": "noun",
+      "english": "key",
+      "ukrainian": "ключ",
+      "gender": "masculine",
+      "plural": "ключі",
+      "cefr": "A1",
+      "ipa": "[klʲutʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "433c49be-6486-4c38-8d63-a50b0fa8c4ca",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "ukrainian": "холодильник",
+      "gender": "masculine",
+      "plural": "холодильники",
+      "cefr": "A2",
+      "ipa": "[xɔlɔˈdɪlʲnɪk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8fb1614-8409-475f-a14c-cd12c680d650",
+      "part-of-speech": "noun",
+      "english": "television",
+      "ukrainian": "телевізор",
+      "gender": "masculine",
+      "plural": "телевізори",
+      "cefr": "A1",
+      "ipa": "[tɛlɛˈʋizɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1db975c4-edf7-4b7c-afa9-90f2877f1a7f",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "ukrainian": "телефон",
+      "gender": "masculine",
+      "plural": "телефони",
+      "cefr": "A1",
+      "ipa": "[tɛlɛˈfɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "546bc6ef-3c9d-4c84-823a-c76c48fb5220",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "ukrainian": "комп'ютер",
+      "gender": "masculine",
+      "plural": "комп'ютери",
+      "cefr": "A1",
+      "ipa": "[kɔmˈpjutɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d8937db-b223-422d-817f-edb9c9a426c7",
+      "part-of-speech": "noun",
+      "english": "food",
+      "ukrainian": "їжа",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈjiʒɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "454dd464-eaa4-453c-9934-2ce97860f48b",
+      "part-of-speech": "noun",
+      "english": "water",
+      "ukrainian": "вода",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ʋɔˈdɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4fe71d7-1b4f-472a-8348-fedbd100f323",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "ukrainian": "хліб",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[xlʲib]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f558d1bf-cb96-49d4-b475-cd4d4b2d7dc0",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "ukrainian": "кава",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈkɑʋɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52297e4d-7251-4c5b-ab22-993cbd711dc7",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "ukrainian": "чай",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tʃɑj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4aa32d64-a36f-427e-981c-d78322b5debe",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "ukrainian": "молоко",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[mɔlɔˈkɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7b7c722-2042-4491-b79f-f226738ff878",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "ukrainian": "сік",
+      "gender": "masculine",
+      "plural": "соки",
+      "cefr": "A1",
+      "ipa": "[sʲik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3ffb986-dca1-443e-b21e-c67b3bf9bf45",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "ukrainian": "пиво",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈpɪʋɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91f73b50-d79d-4844-ab59-9328d50294b2",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "ukrainian": "вино",
+      "gender": "neuter",
+      "plural": "вина",
+      "cefr": "A1",
+      "ipa": "[ʋɪˈnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a65daa64-c189-47e5-adad-89df2dd9b902",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "ukrainian": "м'ясо",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmjɑsɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ab841a4-6366-4694-a7c3-e2427414548c",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "ukrainian": "курка",
+      "gender": "feminine",
+      "plural": "кури",
+      "cefr": "A1",
+      "ipa": "[ˈkurkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "392a83ec-3b77-4fdb-a236-3d40d6fcbcd9",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "ukrainian": "риба",
+      "gender": "feminine",
+      "plural": "риби",
+      "cefr": "A1",
+      "ipa": "[ˈrɪbɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98e7a2e2-b619-4a56-9a4b-105b520f573c",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "ukrainian": "сир",
+      "gender": "masculine",
+      "plural": "сири",
+      "cefr": "A1",
+      "ipa": "[sɪr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "236dc385-1acf-45f4-839c-7c6336e20447",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "ukrainian": "яйце",
+      "gender": "neuter",
+      "plural": "яйця",
+      "cefr": "A1",
+      "ipa": "[jɑjˈtsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3fcd3608-da0b-4e34-9c22-a93e6ab0bfc0",
+      "part-of-speech": "noun",
+      "english": "vegetables",
+      "ukrainian": "овочі",
+      "gender": "masculine",
+      "plural": "овочі",
+      "cefr": "A1",
+      "ipa": "[ˈɔʋɔtʃi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e085da8-58df-45ba-9ae3-1a9153459aab",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "ukrainian": "фрукти",
+      "gender": "masculine",
+      "plural": "фрукти",
+      "cefr": "A1",
+      "ipa": "[ˈfruktɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0406a8c-f0e4-4167-aa73-4cc3fc53f0cd",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "ukrainian": "яблуко",
+      "gender": "neuter",
+      "plural": "яблука",
+      "cefr": "A1",
+      "ipa": "[ˈjɑblukɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e45ec3a4-fb8a-498a-93d2-c2ceec0ef8c8",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "ukrainian": "банан",
+      "gender": "masculine",
+      "plural": "банани",
+      "cefr": "A1",
+      "ipa": "[bɑˈnɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b42ed72-2ca2-483f-b290-486cbba16bec",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "ukrainian": "апельсин",
+      "gender": "masculine",
+      "plural": "апельсини",
+      "cefr": "A1",
+      "ipa": "[ɑpɛlʲˈsɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2bf5c56-f0fe-4229-86f8-f1911d031be0",
+      "part-of-speech": "noun",
+      "english": "potatoes",
+      "ukrainian": "картопля",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[kɑrˈtɔplʲɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d73aba88-812c-4f3a-a0d5-51e788f90db3",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "ukrainian": "рис",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[rɪs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfcb1f8b-bf75-4b38-b9a7-e21c20793eec",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "ukrainian": "суп",
+      "gender": "masculine",
+      "plural": "супи",
+      "cefr": "A1",
+      "ipa": "[sup]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "221ecd18-34fa-44d9-a9e7-00c398f6f754",
+      "part-of-speech": "noun",
+      "english": "borscht",
+      "ukrainian": "борщ",
+      "gender": "masculine",
+      "plural": "борщі",
+      "cefr": "A1",
+      "ipa": "[bɔrʃtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f8f80f2-9fa7-469d-8ec4-5d0e727e8494",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "ukrainian": "цукор",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtsukɔr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cea52e41-c176-4196-9f54-8f8c14f59827",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "ukrainian": "сіль",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[sʲilʲ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5748e66-b64e-4f5c-a7ec-df01de13497f",
+      "part-of-speech": "noun",
+      "english": "butter; oil",
+      "ukrainian": "масло",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmɑslɔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3dcf587-08bb-428d-b17e-914f7a94517d",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "ukrainian": "торт",
+      "gender": "masculine",
+      "plural": "торти",
+      "cefr": "A2",
+      "ipa": "[tɔrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37abb2a2-2914-4738-b604-be3a081d8481",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "ukrainian": "сніданок",
+      "gender": "masculine",
+      "plural": "сніданки",
+      "cefr": "A1",
+      "ipa": "[snʲiˈdɑnɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e8787c5-46f7-4ef1-b6f3-e9729cee2dc2",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "ukrainian": "обід",
+      "gender": "masculine",
+      "plural": "обіди",
+      "cefr": "A1",
+      "ipa": "[ɔˈbid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b931163c-7553-4972-817a-1801bb5cc095",
+      "part-of-speech": "noun",
+      "english": "dinner, supper",
+      "ukrainian": "вечеря",
+      "gender": "feminine",
+      "plural": "вечері",
+      "cefr": "A1",
+      "ipa": "[ˈʋɛtʃɛrʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3fb783f-b3ca-4faf-abe7-f0b5d646ff30",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "ukrainian": "ресторан",
+      "gender": "masculine",
+      "plural": "ресторани",
+      "cefr": "A1",
+      "ipa": "[rɛstɔˈrɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05afd63d-40c2-4657-a017-a043498f839e",
+      "part-of-speech": "noun",
+      "english": "café",
+      "ukrainian": "кафе",
+      "gender": "neuter",
+      "plural": "кафе",
+      "cefr": "A1",
+      "ipa": "[kɑˈfɛ]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31c75a5d-eb78-4064-88a0-bd879344a71b",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "ukrainian": "склянка",
+      "gender": "feminine",
+      "plural": "склянки",
+      "cefr": "A1",
+      "ipa": "[ˈsklʲɑnkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f92e88dd-6b4e-4b48-bc42-27a59fa8dc65",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "ukrainian": "чашка",
+      "gender": "feminine",
+      "plural": "чашки",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɑʃkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1fe486c-c531-4c95-9078-f9caa8157992",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "ukrainian": "пляшка",
+      "gender": "feminine",
+      "plural": "пляшки",
+      "cefr": "A1",
+      "ipa": "[ˈplʲɑʃkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ca1ee3d-45ce-44de-9146-95e6b3d0866f",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "ukrainian": "тарілка",
+      "gender": "feminine",
+      "plural": "тарілки",
+      "cefr": "A2",
+      "ipa": "[tɑˈrʲilkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92fdd0f2-fb20-4236-94aa-0c8f47c71bc9",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "ukrainian": "ніж",
+      "gender": "masculine",
+      "plural": "ножі",
+      "cefr": "A2",
+      "ipa": "[nʲiʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "995ef8db-523b-433c-9522-9c5fa36e910a",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "ukrainian": "виделка",
+      "gender": "feminine",
+      "plural": "виделки",
+      "cefr": "A2",
+      "ipa": "[ʋɪˈdɛlkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ab636c0-be18-4e5a-9597-7a486d29851c",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "ukrainian": "ложка",
+      "gender": "feminine",
+      "plural": "ложки",
+      "cefr": "A2",
+      "ipa": "[ˈlɔʒkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "402096ba-da4d-4b57-bc4a-8013850c44ad",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "ukrainian": "місто",
+      "gender": "neuter",
+      "plural": "міста",
+      "cefr": "A1",
+      "ipa": "[ˈmistɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7aac7bee-6fed-4543-b42c-187a2f2df2bc",
+      "part-of-speech": "noun",
+      "english": "village",
+      "ukrainian": "село",
+      "gender": "neuter",
+      "plural": "села",
+      "cefr": "A2",
+      "ipa": "[sɛˈlɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f783758-90b7-4bca-a24e-07e77dc49e35",
+      "part-of-speech": "noun",
+      "english": "country",
+      "ukrainian": "країна",
+      "gender": "feminine",
+      "plural": "країни",
+      "cefr": "A1",
+      "ipa": "[krɑˈjinɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6581e579-70a2-435e-89ef-773c0998ab5b",
+      "part-of-speech": "noun",
+      "english": "street",
+      "ukrainian": "вулиця",
+      "gender": "feminine",
+      "plural": "вулиці",
+      "cefr": "A1",
+      "ipa": "[ˈʋulɪtsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84224cfb-705e-469d-969c-509f8686c86a",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "ukrainian": "дорога",
+      "gender": "feminine",
+      "plural": "дороги",
+      "cefr": "A1",
+      "ipa": "[dɔˈrɔɦɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93e5f994-7317-4071-a597-86bb047b0f37",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "ukrainian": "магазин",
+      "gender": "masculine",
+      "plural": "магазини",
+      "cefr": "A1",
+      "ipa": "[mɑɦɑˈzɪn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dd41087-3dc5-442b-aa2b-a0508de0682a",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "ukrainian": "супермаркет",
+      "gender": "masculine",
+      "plural": "супермаркети",
+      "cefr": "A1",
+      "ipa": "[supɛrˈmɑrkɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "164b7ae1-563f-419d-8542-ad1bd85540ee",
+      "part-of-speech": "noun",
+      "english": "market",
+      "ukrainian": "ринок",
+      "gender": "masculine",
+      "plural": "ринки",
+      "cefr": "A1",
+      "ipa": "[ˈrɪnɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14901dde-e016-4975-aff6-0a348d9665bb",
+      "part-of-speech": "noun",
+      "english": "school",
+      "ukrainian": "школа",
+      "gender": "feminine",
+      "plural": "школи",
+      "cefr": "A1",
+      "ipa": "[ˈʃkɔlɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2b2c44e-c939-4d79-862c-c027b5f8ec34",
+      "part-of-speech": "noun",
+      "english": "university",
+      "ukrainian": "університет",
+      "gender": "masculine",
+      "plural": "університети",
+      "cefr": "A1",
+      "ipa": "[unʲiʋɛrsɪˈtɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bac2295c-a12c-491d-a84a-16d949a2921c",
+      "part-of-speech": "noun",
+      "english": "office",
+      "ukrainian": "офіс",
+      "gender": "masculine",
+      "plural": "офіси",
+      "cefr": "A2",
+      "ipa": "[ˈɔfis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec00fbaf-b529-468e-ad60-3cec172dba72",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "ukrainian": "лікарня",
+      "gender": "feminine",
+      "plural": "лікарні",
+      "cefr": "A1",
+      "ipa": "[lʲiˈkɑrnʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e5767ea-58fd-472e-89cd-2540b5fa8e78",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "ukrainian": "аптека",
+      "gender": "feminine",
+      "plural": "аптеки",
+      "cefr": "A1",
+      "ipa": "[ɑˈptɛkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fcd1cc2-a7c0-4179-b7c7-f02e79d069b6",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "ukrainian": "банк",
+      "gender": "masculine",
+      "plural": "банки",
+      "cefr": "A1",
+      "ipa": "[bɑnk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61d78de0-d539-4869-9822-b49aa72613e9",
+      "part-of-speech": "noun",
+      "english": "church",
+      "ukrainian": "церква",
+      "gender": "feminine",
+      "plural": "церкви",
+      "cefr": "A2",
+      "ipa": "[ˈtsɛrkʋɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5efc99c2-d578-4474-98ab-c8d8478acf35",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "ukrainian": "музей",
+      "gender": "masculine",
+      "plural": "музеї",
+      "cefr": "A2",
+      "ipa": "[muˈzɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4f70b24-0d48-489b-aefc-ee7856b49ae6",
+      "part-of-speech": "noun",
+      "english": "park",
+      "ukrainian": "парк",
+      "gender": "masculine",
+      "plural": "парки",
+      "cefr": "A1",
+      "ipa": "[pɑrk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a037cfc-9207-4d60-ba01-65d06c78aa6d",
+      "part-of-speech": "noun",
+      "english": "cinema; the movies",
+      "ukrainian": "кіно",
+      "gender": "neuter",
+      "plural": "кіно",
+      "cefr": "A1",
+      "ipa": "[kiˈnɔ]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c96a67f-b36b-4380-9b13-e14483371a99",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "ukrainian": "готель",
+      "gender": "masculine",
+      "plural": "готелі",
+      "cefr": "A1",
+      "ipa": "[ɦɔˈtɛlʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5adfabd-d293-483a-97cb-ea00163cb347",
+      "part-of-speech": "noun",
+      "english": "library",
+      "ukrainian": "бібліотека",
+      "gender": "feminine",
+      "plural": "бібліотеки",
+      "cefr": "A2",
+      "ipa": "[biblʲiɔˈtɛkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e81465c-0cd0-417d-8b75-af9bc41a991a",
+      "part-of-speech": "noun",
+      "english": "(railway) station",
+      "ukrainian": "вокзал",
+      "gender": "masculine",
+      "plural": "вокзали",
+      "cefr": "A1",
+      "ipa": "[ʋɔˈkzɑl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4137bfaa-ed7f-4266-a4fb-92e706d09407",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "ukrainian": "аеропорт",
+      "gender": "masculine",
+      "plural": "аеропорти",
+      "cefr": "A1",
+      "ipa": "[ɑɛrɔˈpɔrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "265646a3-1795-46bf-a585-f03f4c77ca4d",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "ukrainian": "автобус",
+      "gender": "masculine",
+      "plural": "автобуси",
+      "cefr": "A1",
+      "ipa": "[ɑwˈtɔbus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b1a746a-dbe7-48fa-840c-b7ada053a2ca",
+      "part-of-speech": "noun",
+      "english": "train",
+      "ukrainian": "поїзд",
+      "gender": "masculine",
+      "plural": "поїзди",
+      "cefr": "A1",
+      "ipa": "[ˈpɔjizd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ec2ecc0-ae8b-4bae-aeaf-0526642332a7",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "ukrainian": "метро",
+      "gender": "neuter",
+      "plural": "метро",
+      "cefr": "A1",
+      "ipa": "[mɛˈtrɔ]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdbc1f9a-393d-4a5e-a6be-278178f6f311",
+      "part-of-speech": "noun",
+      "english": "car",
+      "ukrainian": "машина",
+      "gender": "feminine",
+      "plural": "машини",
+      "cefr": "A1",
+      "ipa": "[mɑˈʃɪnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2116201-9e8b-45a2-b258-18974b675399",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "ukrainian": "велосипед",
+      "gender": "masculine",
+      "plural": "велосипеди",
+      "cefr": "A1",
+      "ipa": "[ʋɛlɔsɪˈpɛd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3fb8fe6-bec8-46c7-8509-1e26d522f098",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "ukrainian": "літак",
+      "gender": "masculine",
+      "plural": "літаки",
+      "cefr": "A1",
+      "ipa": "[lʲiˈtɑk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e87bd329-d832-461c-85cf-c24d2082799c",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "ukrainian": "квиток",
+      "gender": "masculine",
+      "plural": "квитки",
+      "cefr": "A1",
+      "ipa": "[kʋɪˈtɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef98bfed-ac16-42f6-a8e6-5797a2f1b925",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "ukrainian": "подорож",
+      "gender": "feminine",
+      "plural": "подорожі",
+      "cefr": "A2",
+      "ipa": "[ˈpɔdɔrɔʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67b9af3a-dea9-41fd-9af5-2913391edcf8",
+      "part-of-speech": "noun",
+      "english": "map; card",
+      "ukrainian": "карта",
+      "gender": "feminine",
+      "plural": "карти",
+      "cefr": "A2",
+      "ipa": "[ˈkɑrtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3de73715-e68f-4279-9684-548d179b7dd2",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "ukrainian": "море",
+      "gender": "neuter",
+      "plural": "моря",
+      "cefr": "A1",
+      "ipa": "[ˈmɔrɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a2e2749-e279-4e17-ae51-421bd04a6557",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "ukrainian": "пляж",
+      "gender": "masculine",
+      "plural": "пляжі",
+      "cefr": "A1",
+      "ipa": "[plʲɑʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "366976ec-17ec-4ec6-86a7-5ee84cc91590",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "ukrainian": "гора",
+      "gender": "feminine",
+      "plural": "гори",
+      "cefr": "A1",
+      "ipa": "[ɦɔˈrɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4b1caeb-888c-4279-a3d5-70099729e8bd",
+      "part-of-speech": "noun",
+      "english": "river",
+      "ukrainian": "річка",
+      "gender": "feminine",
+      "plural": "річки",
+      "cefr": "A1",
+      "ipa": "[ˈrʲitʃkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d1b8afb-1224-4e1f-99ba-e76f6f2977fd",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "ukrainian": "озеро",
+      "gender": "neuter",
+      "plural": "озера",
+      "cefr": "A2",
+      "ipa": "[ˈɔzɛrɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2138ce92-e955-4cc3-a39b-1f675d8dbb7a",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "ukrainian": "ліс",
+      "gender": "masculine",
+      "plural": "ліси",
+      "cefr": "A1",
+      "ipa": "[lʲis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad919358-0cf9-4f70-ab80-a34762974ae0",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "ukrainian": "дерево",
+      "gender": "neuter",
+      "plural": "дерева",
+      "cefr": "A1",
+      "ipa": "[ˈdɛrɛʋɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43015830-5c4c-42de-9f25-152121578540",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "ukrainian": "квітка",
+      "gender": "feminine",
+      "plural": "квіти",
+      "cefr": "A1",
+      "ipa": "[ˈkʋitkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa5fd2d-29b6-4a7d-97b4-9d684cc1d12b",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "ukrainian": "тварина",
+      "gender": "feminine",
+      "plural": "тварини",
+      "cefr": "A1",
+      "ipa": "[tʋɑˈrɪnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78cd3684-21cd-4c15-956e-c2279963de4a",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "ukrainian": "пес",
+      "gender": "masculine",
+      "plural": "пси",
+      "cefr": "A1",
+      "ipa": "[pɛs]",
+      "context": "also собака (m)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4e13d8c-d8ac-41a1-911c-c8362a7be198",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "ukrainian": "кіт",
+      "gender": "masculine",
+      "plural": "коти",
+      "cefr": "A1",
+      "ipa": "[kit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c72041f-1cb2-4542-a09c-118e1a339ddd",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "ukrainian": "птах",
+      "gender": "masculine",
+      "plural": "птахи",
+      "cefr": "A1",
+      "ipa": "[ptɑx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03810f87-a825-400c-a7a3-2437c32b72cd",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "ukrainian": "кінь",
+      "gender": "masculine",
+      "plural": "коні",
+      "cefr": "A2",
+      "ipa": "[kinʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38155656-20b5-4061-b1be-b0ad7938af36",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "ukrainian": "погода",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[pɔˈɦɔdɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1220ef3-d654-4d53-bdeb-88b618ae42b6",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "ukrainian": "сонце",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsɔntsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "516108c4-c89f-4081-b56e-568e8a446568",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "ukrainian": "дощ",
+      "gender": "masculine",
+      "plural": "дощі",
+      "cefr": "A1",
+      "ipa": "[dɔʃtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afed303f-02dd-4878-99f2-79ca1f8906fa",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "ukrainian": "сніг",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[snʲiɦ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86301495-cf69-4f67-9b98-6a9d01d3581b",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "ukrainian": "вітер",
+      "gender": "masculine",
+      "plural": "вітри",
+      "cefr": "A2",
+      "ipa": "[ˈʋitɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c83e35c-35cf-46a8-b63f-cc179b2c4b9e",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "ukrainian": "небо",
+      "gender": "neuter",
+      "plural": "небеса",
+      "cefr": "A2",
+      "ipa": "[ˈnɛbɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66dd7446-1bc9-42af-8c84-5c6102dd2ffd",
+      "part-of-speech": "noun",
+      "english": "world",
+      "ukrainian": "світ",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[sʋit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5a455a0-9c0a-4b62-9016-656594eedab6",
+      "part-of-speech": "noun",
+      "english": "body",
+      "ukrainian": "тіло",
+      "gender": "neuter",
+      "plural": "тіла",
+      "cefr": "A2",
+      "ipa": "[ˈtʲilɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b10d002e-6093-4407-baa0-5e0873d3450d",
+      "part-of-speech": "noun",
+      "english": "head",
+      "ukrainian": "голова",
+      "gender": "feminine",
+      "plural": "голови",
+      "cefr": "A1",
+      "ipa": "[ɦɔlɔˈʋɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e5da47e-bec1-4feb-b8f0-ccd41f24c830",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "ukrainian": "волосся",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ʋɔˈlɔsʲːɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ed1be61-183b-41a7-b56f-92438148fec8",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "ukrainian": "око",
+      "gender": "neuter",
+      "plural": "очі",
+      "cefr": "A1",
+      "ipa": "[ˈɔkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5a2c5cb-b038-4492-a0fd-0fa8607bc3b6",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "ukrainian": "вухо",
+      "gender": "neuter",
+      "plural": "вуха",
+      "cefr": "A1",
+      "ipa": "[ˈʋuxɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "870ea2da-695a-4749-a9ae-b0323500ac42",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "ukrainian": "ніс",
+      "gender": "masculine",
+      "plural": "носи",
+      "cefr": "A1",
+      "ipa": "[nʲis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c358548-632b-4595-b425-735f04ec6fea",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "ukrainian": "рот",
+      "gender": "masculine",
+      "plural": "роти",
+      "cefr": "A1",
+      "ipa": "[rɔt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9078c9e-0b37-4031-834c-8aa2de088ed7",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "ukrainian": "зуб",
+      "gender": "masculine",
+      "plural": "зуби",
+      "cefr": "A2",
+      "ipa": "[zub]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63a85b63-02f6-41da-b087-b6cef51bdc5d",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "ukrainian": "рука",
+      "gender": "feminine",
+      "plural": "руки",
+      "cefr": "A1",
+      "ipa": "[ruˈkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8c9ad7e-3756-4b19-9fd6-e21ab3bb25d7",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "ukrainian": "нога",
+      "gender": "feminine",
+      "plural": "ноги",
+      "cefr": "A1",
+      "ipa": "[nɔˈɦɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f097dba2-ec10-4033-9c1a-c1c835477ee3",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "ukrainian": "живіт",
+      "gender": "masculine",
+      "plural": "животи",
+      "cefr": "A2",
+      "ipa": "[ʒɪˈʋit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d818c7c3-5f73-4224-8129-19a6c128ac49",
+      "part-of-speech": "noun",
+      "english": "back",
+      "ukrainian": "спина",
+      "gender": "feminine",
+      "plural": "спини",
+      "cefr": "A2",
+      "ipa": "[spɪˈnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bcac540-6332-4e19-bfb0-c9334606e8b8",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "ukrainian": "серце",
+      "gender": "neuter",
+      "plural": "серця",
+      "cefr": "A2",
+      "ipa": "[ˈsɛrtsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a10f7dc8-cbae-4a69-af0c-4edba32b34c5",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "ukrainian": "ліки",
+      "gender": "masculine",
+      "plural": "ліки",
+      "cefr": "A2",
+      "ipa": "[ˈlʲikɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2def6c0-d7b6-422c-bbc9-737a62400fdb",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "ukrainian": "одяг",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɔdʲɑɦ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29e4636d-eb4f-48ab-a884-3f16a543e1a1",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "ukrainian": "штани",
+      "gender": "masculine",
+      "plural": "штани",
+      "cefr": "A1",
+      "ipa": "[ʃtɑˈnɪ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c601b92-bbc8-4ea3-a927-e4e490072c0a",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "ukrainian": "сорочка",
+      "gender": "feminine",
+      "plural": "сорочки",
+      "cefr": "A1",
+      "ipa": "[sɔˈrɔtʃkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f94f64ae-70b2-410b-8b3e-bc87d39bb1cb",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "ukrainian": "светр",
+      "gender": "masculine",
+      "plural": "светри",
+      "cefr": "A2",
+      "ipa": "[sʋɛtr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9bc94d2-c520-4226-bf54-8713b60585d4",
+      "part-of-speech": "noun",
+      "english": "jacket",
+      "ukrainian": "куртка",
+      "gender": "feminine",
+      "plural": "куртки",
+      "cefr": "A1",
+      "ipa": "[ˈkurtkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93bc8e5b-8bad-4d4b-a7de-f81667efaa72",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "ukrainian": "сукня",
+      "gender": "feminine",
+      "plural": "сукні",
+      "cefr": "A1",
+      "ipa": "[ˈsuknʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c18b8986-bb63-494b-af28-5998f8d48831",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "ukrainian": "спідниця",
+      "gender": "feminine",
+      "plural": "спідниці",
+      "cefr": "A2",
+      "ipa": "[spiˈdnɪtsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42fbab7f-88ee-44d2-ab6a-cdf9fad80b58",
+      "part-of-speech": "noun",
+      "english": "shoes, footwear",
+      "ukrainian": "взуття",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[wzuˈtʲːɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27ae1bf5-07a1-43be-9911-8d665d02f5f6",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "ukrainian": "сумка",
+      "gender": "feminine",
+      "plural": "сумки",
+      "cefr": "A1",
+      "ipa": "[ˈsumkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec39d4c0-260e-4225-8f79-c9041623f9fc",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "ukrainian": "шапка",
+      "gender": "feminine",
+      "plural": "шапки",
+      "cefr": "A2",
+      "ipa": "[ˈʃɑpkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7222230a-97c1-43a3-a903-0c8a15be5959",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "ukrainian": "робота",
+      "gender": "feminine",
+      "plural": "роботи",
+      "cefr": "A1",
+      "ipa": "[rɔˈbɔtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8cd851a-d314-47e0-830c-a3bdc82ac598",
+      "part-of-speech": "noun",
+      "english": "money",
+      "ukrainian": "гроші",
+      "gender": "masculine",
+      "plural": "гроші",
+      "cefr": "A1",
+      "ipa": "[ˈɦrɔʃi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38b0c603-d344-4adb-a5ca-30bb0c78d0c3",
+      "part-of-speech": "noun",
+      "english": "hryvnia (currency)",
+      "ukrainian": "гривня",
+      "gender": "feminine",
+      "plural": "гривні",
+      "cefr": "A1",
+      "ipa": "[ˈɦrɪwnʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "306f8c7d-048c-45a8-a765-6ddd0bc4ccd5",
+      "part-of-speech": "noun",
+      "english": "price",
+      "ukrainian": "ціна",
+      "gender": "feminine",
+      "plural": "ціни",
+      "cefr": "A1",
+      "ipa": "[tsʲiˈnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d994c3e-fc4b-4bc6-8a9f-68d0b049a271",
+      "part-of-speech": "noun",
+      "english": "book",
+      "ukrainian": "книжка",
+      "gender": "feminine",
+      "plural": "книжки",
+      "cefr": "A1",
+      "ipa": "[ˈknɪʒkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f553018-f23a-434d-870e-2434e6563cc4",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "ukrainian": "газета",
+      "gender": "feminine",
+      "plural": "газети",
+      "cefr": "A1",
+      "ipa": "[ɦɑˈzɛtɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a421eb5d-52a4-4780-9e98-40dda9ed73d9",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "ukrainian": "лист",
+      "gender": "masculine",
+      "plural": "листи",
+      "cefr": "A1",
+      "ipa": "[lɪst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e9e4622-b234-4702-80b2-3138a3ad88b3",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "ukrainian": "ручка",
+      "gender": "feminine",
+      "plural": "ручки",
+      "cefr": "A1",
+      "ipa": "[ˈrutʃkɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1739d69-6b37-4a21-89ef-755ccb43bab4",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "ukrainian": "папір",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[pɑˈpir]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94cfed98-fdeb-4623-962f-ed5afb01952c",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "ukrainian": "фото",
+      "gender": "neuter",
+      "plural": "фото",
+      "cefr": "A1",
+      "ipa": "[ˈfɔtɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8524357-b279-4dfa-9bdf-e199a4ca13c3",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "ukrainian": "фільм",
+      "gender": "masculine",
+      "plural": "фільми",
+      "cefr": "A1",
+      "ipa": "[filʲm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff3b4e23-7d02-49eb-a2df-d58286ed5c0f",
+      "part-of-speech": "noun",
+      "english": "music",
+      "ukrainian": "музика",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmuzɪkɑ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fa8bb71-791c-4165-beca-86240a45dc08",
+      "part-of-speech": "noun",
+      "english": "song",
+      "ukrainian": "пісня",
+      "gender": "feminine",
+      "plural": "пісні",
+      "cefr": "A1",
+      "ipa": "[ˈpisnʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "987f9e51-6eaf-43eb-a183-bb050fc657c9",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "ukrainian": "спорт",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[spɔrt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ec4f49c-def5-47e8-a4b7-10b63d6386ef",
+      "part-of-speech": "noun",
+      "english": "game",
+      "ukrainian": "гра",
+      "gender": "feminine",
+      "plural": "ігри",
+      "cefr": "A2",
+      "ipa": "[ɦrɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5abd4aa6-a5ff-4f4a-beb2-e5fd7c5eead5",
+      "part-of-speech": "noun",
+      "english": "language",
+      "ukrainian": "мова",
+      "gender": "feminine",
+      "plural": "мови",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʋɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34bb9fba-850b-4de5-8f97-eadbfce0bf17",
+      "part-of-speech": "noun",
+      "english": "word",
+      "ukrainian": "слово",
+      "gender": "neuter",
+      "plural": "слова",
+      "cefr": "A1",
+      "ipa": "[ˈslɔʋɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adfc1d19-3191-4c79-b723-bfb31d9dda3a",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "ukrainian": "речення",
+      "gender": "neuter",
+      "plural": "речення",
+      "cefr": "A2",
+      "ipa": "[ˈrɛtʃɛnʲːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6940e287-0895-48e5-a641-69939b59203c",
+      "part-of-speech": "noun",
+      "english": "question",
+      "ukrainian": "питання",
+      "gender": "neuter",
+      "plural": "питання",
+      "cefr": "A1",
+      "ipa": "[pɪˈtɑnʲːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f809474-2eda-40fc-8111-a840d016b98a",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "ukrainian": "відповідь",
+      "gender": "feminine",
+      "plural": "відповіді",
+      "cefr": "A1",
+      "ipa": "[ˈʋidpɔʋidʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4228370b-528b-4079-9511-354c74194c7c",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "ukrainian": "урок",
+      "gender": "masculine",
+      "plural": "уроки",
+      "cefr": "A1",
+      "ipa": "[uˈrɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2735de81-a18d-4c61-b3ca-8142c6585428",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "ukrainian": "колір",
+      "gender": "masculine",
+      "plural": "кольори",
+      "cefr": "A1",
+      "ipa": "[ˈkɔlʲir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2445cafe-e968-4e27-9134-8b3c04946f9f",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "ukrainian": "проблема",
+      "gender": "feminine",
+      "plural": "проблеми",
+      "cefr": "A2",
+      "ipa": "[prɔˈblɛmɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "220c1a53-67f2-4b49-8f11-594d4ed1feef",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "ukrainian": "ідея",
+      "gender": "feminine",
+      "plural": "ідеї",
+      "cefr": "A2",
+      "ipa": "[iˈdɛjɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd722f76-7cff-4c2f-9d20-cca1a27ebe01",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "ukrainian": "річ",
+      "gender": "feminine",
+      "plural": "речі",
+      "cefr": "A1",
+      "ipa": "[rʲitʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8601463c-0d7d-4ff2-8733-e7bc66652cb8",
+      "part-of-speech": "noun",
+      "english": "number",
+      "ukrainian": "номер",
+      "gender": "masculine",
+      "plural": "номери",
+      "cefr": "A1",
+      "ipa": "[ˈnɔmɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b29e2b90-9067-40bf-b0ee-5b7140890df1",
+      "part-of-speech": "noun",
+      "english": "address",
+      "ukrainian": "адреса",
+      "gender": "feminine",
+      "plural": "адреси",
+      "cefr": "A1",
+      "ipa": "[ˈɑdrɛsɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14e0ef28-5700-419a-ac41-33af89c5b4ca",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "ukrainian": "нуль",
+      "cefr": "A1",
+      "ipa": "[nulʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b8ad0a6-0b42-4a0d-8799-91fa3052f06a",
+      "part-of-speech": "noun",
+      "english": "one",
+      "ukrainian": "один",
+      "cefr": "A1",
+      "ipa": "[ɔˈdɪn]",
+      "context": "одна (f), одне (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2e250bd-00a4-4b46-b997-d5942be2c755",
+      "part-of-speech": "noun",
+      "english": "two",
+      "ukrainian": "два",
+      "cefr": "A1",
+      "ipa": "[dʋɑ]",
+      "context": "дві (f)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d637bbce-ad22-433b-8f76-0f1e5f64fa76",
+      "part-of-speech": "noun",
+      "english": "three",
+      "ukrainian": "три",
+      "cefr": "A1",
+      "ipa": "[trɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b9f577e-e437-478c-ae31-97b95f867bbf",
+      "part-of-speech": "noun",
+      "english": "four",
+      "ukrainian": "чотири",
+      "cefr": "A1",
+      "ipa": "[tʃɔˈtɪrɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8fc6d86-7526-4bc7-9751-26a69ff4eda3",
+      "part-of-speech": "noun",
+      "english": "five",
+      "ukrainian": "п'ять",
+      "cefr": "A1",
+      "ipa": "[pjɑtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5831453-0996-4266-a0c3-9201552c8ab8",
+      "part-of-speech": "noun",
+      "english": "six",
+      "ukrainian": "шість",
+      "cefr": "A1",
+      "ipa": "[ʃistʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56107dfe-004b-46ec-a18c-a1798342e4b8",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "ukrainian": "сім",
+      "cefr": "A1",
+      "ipa": "[sʲim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6012c43-4573-4ca2-988e-8661c71300ac",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "ukrainian": "вісім",
+      "cefr": "A1",
+      "ipa": "[ˈʋisʲim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6521fe7-3c6e-402e-bbb7-6e73d2886dfd",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "ukrainian": "дев'ять",
+      "cefr": "A1",
+      "ipa": "[ˈdɛwjɑtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d09f5958-3421-48ab-9194-93e14563fae2",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "ukrainian": "десять",
+      "cefr": "A1",
+      "ipa": "[ˈdɛsʲɑtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa6aecda-e08a-4a85-bd15-1eb57d58d9e5",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "ukrainian": "одинадцять",
+      "cefr": "A1",
+      "ipa": "[ɔdɪˈnɑdtsʲɑtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69654fb5-59b5-469f-a702-0394ba74fb16",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "ukrainian": "двадцять",
+      "cefr": "A1",
+      "ipa": "[ˈdʋɑdtsʲɑtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0247260-ce3e-4225-b5f5-6fa292dc6db8",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "ukrainian": "тридцять",
+      "cefr": "A1",
+      "ipa": "[ˈtrɪdtsʲɑtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3956e5c3-ba39-4caf-92e0-03f70c036abb",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "ukrainian": "сорок",
+      "cefr": "A1",
+      "ipa": "[ˈsɔrɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7e23737-e434-4434-8219-25948c2ae391",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "ukrainian": "п'ятдесят",
+      "cefr": "A1",
+      "ipa": "[pjɑtdɛˈsʲɑt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d44711e-0cde-4350-8f57-a4f15b323817",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "ukrainian": "сто",
+      "cefr": "A1",
+      "ipa": "[stɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6400507e-84e9-4636-970f-1f0aaff12ecb",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "ukrainian": "тисяча",
+      "cefr": "A1",
+      "ipa": "[ˈtɪsʲɑtʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f26b5dfc-394b-499a-a9b6-7c3ae5cf9fa8",
+      "part-of-speech": "noun",
+      "english": "million",
+      "ukrainian": "мільйон",
+      "gender": "masculine",
+      "plural": "мільйони",
+      "cefr": "A2",
+      "ipa": "[milʲˈjɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "def091c4-1c95-448d-b68b-161990b011ba",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "ukrainian": "бути",
+      "cefr": "A1",
+      "ipa": "[ˈbutɪ]",
+      "context": "usually left out in the present (я студент: I am a student); є: there is, there are",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7522498a-b12f-46d0-bdbb-f133e2944c35",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "ukrainian": "мати",
+      "cefr": "A1",
+      "ipa": "[ˈmɑtɪ]",
+      "context": "маю, маєш, має …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69c0a570-207f-47d5-b3ec-34ecbc83afa5",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "ukrainian": "робити",
+      "cefr": "A1",
+      "ipa": "[rɔˈbɪtɪ]",
+      "context": "imperfective; perfective: зробити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54d86020-3f62-4c37-a053-2d637e35aa54",
+      "part-of-speech": "verb",
+      "english": "to go (on foot, one way, now)",
+      "ukrainian": "іти",
+      "cefr": "A1",
+      "ipa": "[iˈtɪ]",
+      "context": "also йти; regularly: ходити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1414f34d-6228-473c-96dc-577122743629",
+      "part-of-speech": "verb",
+      "english": "to go (on foot, regularly)",
+      "ukrainian": "ходити",
+      "cefr": "A1",
+      "ipa": "[xɔˈdɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18284682-0496-46c7-af60-05c54854a018",
+      "part-of-speech": "verb",
+      "english": "to go (by transport, one way, now)",
+      "ukrainian": "їхати",
+      "cefr": "A1",
+      "ipa": "[ˈjixɑtɪ]",
+      "context": "regularly: їздити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6675892b-4626-4747-875e-551274ffa03b",
+      "part-of-speech": "verb",
+      "english": "to go (by transport, regularly)",
+      "ukrainian": "їздити",
+      "cefr": "A2",
+      "ipa": "[ˈjizdɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af02464d-6d0b-4dec-9966-7d2eb5c475ee",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "ukrainian": "давати",
+      "cefr": "A1",
+      "ipa": "[dɑˈʋɑtɪ]",
+      "context": "imperfective; perfective: дати",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f402ab8f-6186-41d1-833c-ef5d4553d39a",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "ukrainian": "брати",
+      "cefr": "A1",
+      "ipa": "[ˈbrɑtɪ]",
+      "context": "imperfective; perfective: взяти",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caa628b6-bb68-4739-bbfd-ec165a670363",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "ukrainian": "бачити",
+      "cefr": "A1",
+      "ipa": "[ˈbɑtʃɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c8018f4-dc55-46cd-a0da-946c9d2b0d9a",
+      "part-of-speech": "verb",
+      "english": "to look, watch",
+      "ukrainian": "дивитися",
+      "cefr": "A1",
+      "ipa": "[dɪˈʋɪtɪsʲɑ]",
+      "context": "дивитися телевізор: to watch TV",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49c03abd-9bea-4395-8ba8-8eb98cf5f041",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "ukrainian": "чути",
+      "cefr": "A1",
+      "ipa": "[ˈtʃutɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e6251f6-bde5-4ef5-8c0e-3b61761d9c76",
+      "part-of-speech": "verb",
+      "english": "to listen (to)",
+      "ukrainian": "слухати",
+      "cefr": "A1",
+      "ipa": "[ˈsluxɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "659f2d90-b84c-4fe2-8318-5b3029230eea",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "ukrainian": "знати",
+      "cefr": "A1",
+      "ipa": "[ˈznɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c12eb87-b375-4133-85bc-21d246fa5eac",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "ukrainian": "хотіти",
+      "cefr": "A1",
+      "ipa": "[xɔˈtʲitɪ]",
+      "context": "хочу, хочеш, хоче …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b594ec1-f9ac-4692-b28e-7f5ef9525fd0",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "ukrainian": "могти",
+      "cefr": "A1",
+      "ipa": "[mɔxˈtɪ]",
+      "context": "можу, можеш, може …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcec152c-ac2a-49ba-908e-d22bd51d35b8",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "ukrainian": "любити",
+      "cefr": "A1",
+      "ipa": "[lʲuˈbɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1bafcc6-f599-4e0a-b337-567c3f39a002",
+      "part-of-speech": "verb",
+      "english": "to be pleasing (to like)",
+      "ukrainian": "подобатися",
+      "cefr": "A1",
+      "ipa": "[pɔdɔˈbɑtɪsʲɑ]",
+      "context": "мені подобається кава: I like coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a65487c-117c-4c02-a159-8dd52e14708b",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "ukrainian": "їсти",
+      "cefr": "A1",
+      "ipa": "[ˈjistɪ]",
+      "context": "їм, їси, їсть, їмо, їсте, їдять",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfabb7fb-e3a4-4cfd-b004-7974d03eb023",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "ukrainian": "пити",
+      "cefr": "A1",
+      "ipa": "[ˈpɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "093c8cd2-a74b-420d-af83-c48a070a6e98",
+      "part-of-speech": "verb",
+      "english": "to cook; to prepare",
+      "ukrainian": "готувати",
+      "cefr": "A1",
+      "ipa": "[ɦɔtuˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32858e46-29ff-444e-882b-b63c5d2a113e",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "ukrainian": "говорити",
+      "cefr": "A1",
+      "ipa": "[ɦɔʋɔˈrɪtɪ]",
+      "context": "also розмовляти (to have a conversation)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b396923f-1ff7-47d7-8eba-d2c8a145677f",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "ukrainian": "питати",
+      "cefr": "A1",
+      "ipa": "[pɪˈtɑtɪ]",
+      "context": "imperfective; perfective: запитати",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a55cd131-2605-4bc1-aff5-c401270e5996",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "ukrainian": "відповідати",
+      "cefr": "A1",
+      "ipa": "[ʋidpɔʋiˈdɑtɪ]",
+      "context": "imperfective; perfective: відповісти",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b95ea60-8d47-426d-87a9-ba69a8df69fa",
+      "part-of-speech": "verb",
+      "english": "to call",
+      "ukrainian": "звати",
+      "cefr": "A1",
+      "ipa": "[ˈzʋɑtɪ]",
+      "context": "мене звати …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "014b354d-d095-474d-bf03-c5d81598a207",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "ukrainian": "читати",
+      "cefr": "A1",
+      "ipa": "[tʃɪˈtɑtɪ]",
+      "context": "imperfective; perfective: прочитати",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f151f21-90cf-4d0e-9aeb-704b366d145f",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "ukrainian": "писати",
+      "cefr": "A1",
+      "ipa": "[pɪˈsɑtɪ]",
+      "context": "imperfective; perfective: написати",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54cf95ac-d681-45a1-bbb7-b520a063efc3",
+      "part-of-speech": "verb",
+      "english": "to learn; to teach",
+      "ukrainian": "вчити",
+      "cefr": "A1",
+      "ipa": "[ˈwtʃɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86ec2fe6-ae56-45ea-9229-6f16bc8b1f0b",
+      "part-of-speech": "verb",
+      "english": "to study (at a school)",
+      "ukrainian": "вчитися",
+      "cefr": "A1",
+      "ipa": "[ˈwtʃɪtɪsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d57201d-c257-4a03-b6e5-23c664ebbdc1",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "ukrainian": "розуміти",
+      "cefr": "A1",
+      "ipa": "[rɔzuˈmitɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ca7f7f7-9466-450a-938e-841bc4aa5926",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "ukrainian": "думати",
+      "cefr": "A1",
+      "ipa": "[ˈdumɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "106fd14e-7cd1-4b84-86b7-1c3329a28a1b",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "ukrainian": "шукати",
+      "cefr": "A1",
+      "ipa": "[ʃuˈkɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc8177e1-0028-44ac-8143-6148534360c1",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "ukrainian": "знайти",
+      "cefr": "A1",
+      "ipa": "[znɑjˈtɪ]",
+      "context": "perfective; imperfective: знаходити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "492a57b9-0aa3-4461-aff2-617f2eff1ccc",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "ukrainian": "працювати",
+      "cefr": "A1",
+      "ipa": "[prɑtsʲuˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "069c373c-b6df-45e3-b209-ec9664384fe8",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "ukrainian": "жити",
+      "cefr": "A1",
+      "ipa": "[ˈʒɪtɪ]",
+      "context": "я живу в Києві: I live in Kyiv",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d189a79b-0ebb-4767-bf41-93de8106b6a0",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "ukrainian": "спати",
+      "cefr": "A1",
+      "ipa": "[ˈspɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5094c11-6002-4168-a613-6318ab285fc9",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "ukrainian": "вставати",
+      "cefr": "A1",
+      "ipa": "[wstɑˈʋɑtɪ]",
+      "context": "imperfective; perfective: встати",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a71c477c-bd69-4b4c-b989-08c5acc242f4",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "ukrainian": "сидіти",
+      "cefr": "A1",
+      "ipa": "[sɪˈdʲitɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8e5478b-1744-448a-bd1a-f19e3888322a",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "ukrainian": "стояти",
+      "cefr": "A1",
+      "ipa": "[stɔˈjɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5e7d5df-05e9-4580-8a3a-e9565784aded",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying)",
+      "ukrainian": "лежати",
+      "cefr": "A1",
+      "ipa": "[lɛˈʒɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ec42e2b-426b-4e23-ac6d-0c07b93c1e7e",
+      "part-of-speech": "verb",
+      "english": "to go for a walk",
+      "ukrainian": "гуляти",
+      "cefr": "A1",
+      "ipa": "[ɦuˈlʲɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40506ad7-b295-4272-b7a4-4a72c48ddcf6",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "ukrainian": "бігати",
+      "cefr": "A1",
+      "ipa": "[ˈbiɦɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75a83bd6-4cbc-4995-829c-91b430d614ba",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "ukrainian": "плавати",
+      "cefr": "A1",
+      "ipa": "[ˈplɑʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63406ebf-449e-45f5-b29a-b0b321542ca5",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "ukrainian": "подорожувати",
+      "cefr": "A2",
+      "ipa": "[pɔdɔrɔʒuˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d02f5da5-800d-4ad4-b93d-392e77e9b933",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "ukrainian": "купувати",
+      "cefr": "A1",
+      "ipa": "[kupuˈʋɑtɪ]",
+      "context": "imperfective; perfective: купити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67938426-a193-4ab9-a1a0-2a366a7c45ad",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "ukrainian": "платити",
+      "cefr": "A1",
+      "ipa": "[plɑˈtɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad56c618-b492-4ddd-8304-3f027f18a38c",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "ukrainian": "коштувати",
+      "cefr": "A1",
+      "ipa": "[ˈkɔʃtuʋɑtɪ]",
+      "context": "скільки коштує?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e56a979f-8a56-4ac0-b165-ab77fc7c176c",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "ukrainian": "продавати",
+      "cefr": "A2",
+      "ipa": "[prɔdɑˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdcd4d92-26ce-4ade-92f8-93fc29c1716a",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "ukrainian": "відчиняти",
+      "cefr": "A1",
+      "ipa": "[ʋidtʃɪˈnʲɑtɪ]",
+      "context": "imperfective; perfective: відчинити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d3a164c-04fb-4110-8f29-40e965d625d8",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "ukrainian": "зачиняти",
+      "cefr": "A1",
+      "ipa": "[zɑtʃɪˈnʲɑtɪ]",
+      "context": "imperfective; perfective: зачинити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd073a8f-e02c-4e7c-b9ff-771ce69a8fa6",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "ukrainian": "чекати",
+      "cefr": "A1",
+      "ipa": "[tʃɛˈkɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6a60c64-4c8b-446d-a419-1c99a1f48eae",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "ukrainian": "починати",
+      "cefr": "A1",
+      "ipa": "[pɔtʃɪˈnɑtɪ]",
+      "context": "imperfective; perfective: почати",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2ab25ed-5af3-47fe-98dd-cded41f489b5",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "ukrainian": "закінчувати",
+      "cefr": "A1",
+      "ipa": "[zɑˈkintʃuʋɑtɪ]",
+      "context": "imperfective; perfective: закінчити",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a0b9495-9862-436c-8e88-ee2bf761a9ac",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "ukrainian": "грати",
+      "cefr": "A1",
+      "ipa": "[ˈɦrɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60626143-017a-4ab4-bae7-7036301f5153",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "ukrainian": "мити",
+      "cefr": "A1",
+      "ipa": "[ˈmɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5654c58d-4190-488c-abdb-b0da2f23dc32",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "ukrainian": "допомагати",
+      "cefr": "A1",
+      "ipa": "[dɔpɔmɑˈɦɑtɪ]",
+      "context": "imperfective; perfective: допомогти",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15ce5c48-fb86-4308-9e14-51e4609407a1",
+      "part-of-speech": "verb",
+      "english": "to call, phone; to ring",
+      "ukrainian": "дзвонити",
+      "cefr": "A1",
+      "ipa": "[dzʋɔˈnɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef2ca283-694e-47cd-8166-b3ec62dec620",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "ukrainian": "співати",
+      "cefr": "A1",
+      "ipa": "[spiˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ed7e1c1-77a1-4340-b2d4-ce52ad83fd3d",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "ukrainian": "танцювати",
+      "cefr": "A1",
+      "ipa": "[tɑntsʲuˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73bfd33b-377f-4941-b7fb-30fa6cae19f6",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "ukrainian": "користуватися",
+      "cefr": "A2",
+      "ipa": "[kɔrɪstuˈʋɑtɪsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d13af0b4-d7cb-4e55-bac4-34d47648ceb8",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "ukrainian": "приносити",
+      "cefr": "A1",
+      "ipa": "[prɪˈnɔsɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f263737f-89c8-4987-a059-4456a569af2a",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "ukrainian": "забувати",
+      "cefr": "A2",
+      "ipa": "[zɑbuˈʋɑtɪ]",
+      "context": "imperfective; perfective: забути",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03f59307-54a3-43d9-9832-fd165092882b",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "ukrainian": "пам'ятати",
+      "cefr": "A2",
+      "ipa": "[pɑmjɑˈtɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa75e971-890d-4c19-be22-71069e4f07e0",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "ukrainian": "пробувати",
+      "cefr": "A2",
+      "ipa": "[prɔbuˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1197c4a7-6049-4340-b766-0be547e8c3c1",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "ukrainian": "змінювати",
+      "cefr": "A2",
+      "ipa": "[ˈzminʲuʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c69ac89-bbc7-4bdc-865e-9515a264be17",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "ukrainian": "надсилати",
+      "cefr": "A2",
+      "ipa": "[nɑdsɪˈlɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba1b1d6c-09dd-4ca5-aeaa-5b2a43d674fa",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "ukrainian": "губити",
+      "cefr": "A2",
+      "ipa": "[ɦuˈbɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5894d4e-ac60-45fd-a263-acd739a7cbf8",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "ukrainian": "вигравати",
+      "cefr": "A2",
+      "ipa": "[ʋɪɦrɑˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0264a4f0-ef83-4dfb-8275-9a414d25024c",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "ukrainian": "зустрічати",
+      "cefr": "A2",
+      "ipa": "[zustrʲiˈtʃɑtɪ]",
+      "context": "imperfective; perfective: зустріти",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa5681af-326b-4055-ad22-3721fcb91f23",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "ukrainian": "пояснювати",
+      "cefr": "A2",
+      "ipa": "[pɔˈjɑsnʲuʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4986f4c1-6d7a-4936-bdff-e7869acafc11",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "ukrainian": "перекладати",
+      "cefr": "A2",
+      "ipa": "[pɛrɛklɑˈdɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "388b307c-d045-410c-a3c7-ef8383c10f1d",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "ukrainian": "вибирати",
+      "cefr": "A2",
+      "ipa": "[ʋɪbɪˈrɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e42f229a-ce52-433b-8b48-6d7107e4e0d1",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "ukrainian": "відчувати",
+      "cefr": "A2",
+      "ipa": "[ʋidtʃuˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d613c43-1c9f-4907-b1b9-62d839333a97",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "ukrainian": "сподіватися",
+      "cefr": "A2",
+      "ipa": "[spɔdʲiˈʋɑtɪsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba9a2d4f-e29e-440c-8540-6e483cfee107",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "ukrainian": "вірити",
+      "cefr": "A2",
+      "ipa": "[ˈʋirɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6901b1ee-a3e0-4032-b82c-d05618d54a93",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "ukrainian": "сміятися",
+      "cefr": "A2",
+      "ipa": "[smiˈjɑtɪsʲɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36f69a9d-3a9a-4a4e-8e81-10bb60f3f2a3",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "ukrainian": "плакати",
+      "cefr": "A2",
+      "ipa": "[ˈplɑkɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df81975a-507a-41c9-a14c-8dc1b767e1e2",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "ukrainian": "падати",
+      "cefr": "A2",
+      "ipa": "[ˈpɑdɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0cf1996-3864-4c2a-9c85-2d7fcf5ce51d",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "ukrainian": "літати",
+      "cefr": "A2",
+      "ipa": "[lʲiˈtɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fa5dbd9-75cc-4284-8504-8295eaec368b",
+      "part-of-speech": "verb",
+      "english": "to order, book",
+      "ukrainian": "замовляти",
+      "cefr": "A2",
+      "ipa": "[zɑmɔwˈlʲɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d78cfaf3-05e8-4a8f-855c-adae2c47c8e8",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "ukrainian": "показувати",
+      "cefr": "A2",
+      "ipa": "[pɔˈkɑzuʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e06c45cc-99e9-48f6-bcf2-793bd4581a52",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "ukrainian": "відпочивати",
+      "cefr": "A2",
+      "ipa": "[ʋidpɔtʃɪˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50310867-e855-43c1-be0e-9fc196b0a750",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "ukrainian": "помирати",
+      "cefr": "A2",
+      "ipa": "[pɔmɪˈrɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ec67659-cdce-499a-9df1-019cf338b34a",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "ukrainian": "великий",
+      "cefr": "A1",
+      "ipa": "[ʋɛˈlɪkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30718634-904a-4420-ba78-ffd5b58a78b4",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "ukrainian": "маленький",
+      "cefr": "A1",
+      "ipa": "[mɑˈlɛnʲkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "387b2997-a764-4df5-b86c-e22e3062199f",
+      "part-of-speech": "adjective",
+      "english": "good; kind",
+      "ukrainian": "добрий",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd7492db-931c-45b6-b287-2646bfeec67c",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "ukrainian": "поганий",
+      "cefr": "A1",
+      "ipa": "[pɔˈɦɑnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "283b530c-5be1-451a-9a4d-3c85bc660e68",
+      "part-of-speech": "adjective",
+      "english": "beautiful, nice",
+      "ukrainian": "гарний",
+      "cefr": "A1",
+      "ipa": "[ˈɦɑrnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c930ee68-0e69-47b5-9628-89aa181f23cb",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "ukrainian": "красивий",
+      "cefr": "A1",
+      "ipa": "[krɑˈsɪʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2a67149-9871-49c5-b92c-097951199871",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "ukrainian": "новий",
+      "cefr": "A1",
+      "ipa": "[nɔˈʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a39773e-e839-4afa-9a7f-258447983e0f",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "ukrainian": "старий",
+      "cefr": "A1",
+      "ipa": "[stɑˈrɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57c3648f-ae12-4608-ba35-96486bc862de",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "ukrainian": "молодий",
+      "cefr": "A1",
+      "ipa": "[mɔlɔˈdɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a2e3234-2194-4fb9-a707-52210ae7c8cc",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "ukrainian": "високий",
+      "cefr": "A1",
+      "ipa": "[ʋɪˈsɔkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67399c1a-80f2-49b7-b6e6-28d6953e9f85",
+      "part-of-speech": "adjective",
+      "english": "low; short",
+      "ukrainian": "низький",
+      "cefr": "A2",
+      "ipa": "[nɪˈzʲkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abde4bc3-ddb3-43a9-bf3e-651ce4460c50",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "ukrainian": "довгий",
+      "cefr": "A1",
+      "ipa": "[ˈdɔwɦɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ded32e04-5265-44b6-aa1e-a46f89c71085",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "ukrainian": "короткий",
+      "cefr": "A1",
+      "ipa": "[kɔˈrɔtkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "255b5f70-5122-4df8-9748-7076605999ad",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "ukrainian": "гарячий",
+      "cefr": "A1",
+      "ipa": "[ɦɑˈrʲɑtʃɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61375cdc-0c17-44f3-9c36-3783919596f7",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "ukrainian": "теплий",
+      "cefr": "A1",
+      "ipa": "[ˈtɛplɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fd61908-c7b6-466d-a12d-3e2e611992d6",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "ukrainian": "холодний",
+      "cefr": "A1",
+      "ipa": "[xɔˈlɔdnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "187ceccd-dac8-4304-96ce-5899a731692f",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "ukrainian": "швидкий",
+      "cefr": "A1",
+      "ipa": "[ˈʃʋɪdkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb490d26-9d66-404f-a395-5ba5b91ba90b",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "ukrainian": "повільний",
+      "cefr": "A1",
+      "ipa": "[pɔˈʋilʲnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58b8f847-37d5-46e5-9223-d4eb8418d222",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "ukrainian": "легкий",
+      "cefr": "A1",
+      "ipa": "[lɛxˈkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0dd04d2-02a8-461d-85e5-1361dc294602",
+      "part-of-speech": "adjective",
+      "english": "difficult; heavy",
+      "ukrainian": "важкий",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑʒkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55f80b21-3360-4886-9a24-19d425355b45",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "ukrainian": "дешевий",
+      "cefr": "A1",
+      "ipa": "[dɛˈʃɛʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "392e8ea3-c17a-4314-88a4-5d08233bc1ec",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "ukrainian": "дорогий",
+      "cefr": "A1",
+      "ipa": "[dɔrɔˈɦɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd868f0b-c2a3-4169-841c-b5f06e89b1d5",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "ukrainian": "щасливий",
+      "cefr": "A2",
+      "ipa": "[ʃtʃɑˈslɪʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19260daa-e7eb-4ff2-bc91-dde91f678611",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "ukrainian": "сумний",
+      "cefr": "A1",
+      "ipa": "[sumˈnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19780421-a2c1-429b-ae7e-a71eb24b6c9e",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "ukrainian": "втомлений",
+      "cefr": "A1",
+      "ipa": "[ˈwtɔmlɛnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbc80556-a515-4f53-b837-9bed18626cbc",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "ukrainian": "хворий",
+      "cefr": "A1",
+      "ipa": "[ˈxʋɔrɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dc705f2-75fc-4d13-908d-b5168fa745dd",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "ukrainian": "здоровий",
+      "cefr": "A2",
+      "ipa": "[zdɔˈrɔʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39e3db9d-a4e7-4503-9edc-c3f2b367500a",
+      "part-of-speech": "adjective",
+      "english": "tasty, delicious",
+      "ukrainian": "смачний",
+      "cefr": "A1",
+      "ipa": "[smɑˈtʃnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6159daa-bba3-4ef6-a140-85c4952bf286",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "ukrainian": "цікавий",
+      "cefr": "A1",
+      "ipa": "[tsʲiˈkɑʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56740071-50a1-41d7-a767-493d30ed322b",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "ukrainian": "нудний",
+      "cefr": "A2",
+      "ipa": "[ˈnudnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "823c62cc-44e1-4bbf-ae49-20b972b9df9c",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "ukrainian": "важливий",
+      "cefr": "A2",
+      "ipa": "[ʋɑˈʒlɪʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c843db17-0a7e-4a6f-b9ca-4265976bb326",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "ukrainian": "відчинений",
+      "cefr": "A1",
+      "ipa": "[ʋiˈdtʃɪnɛnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a77a8b76-f103-4ecd-a8c4-be5e28da9e2f",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "ukrainian": "зачинений",
+      "cefr": "A1",
+      "ipa": "[zɑˈtʃɪnɛnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05ebdd1d-7987-434c-baa6-ef8ea58f370e",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "ukrainian": "чистий",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɪstɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40d0b493-e05f-422f-808b-10bc22871115",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "ukrainian": "брудний",
+      "cefr": "A1",
+      "ipa": "[ˈbrudnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a56307cb-17a4-413d-aaf3-da31abb5fe04",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "ukrainian": "зайнятий",
+      "cefr": "A1",
+      "ipa": "[zɑjˈnʲɑtɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa93d98f-f12e-4b3a-b114-c7612693d86d",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "ukrainian": "готовий",
+      "cefr": "A1",
+      "ipa": "[ɦɔˈtɔʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f73dcf77-b2a0-4155-b4c2-d58ec516fb4e",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "ukrainian": "інший",
+      "cefr": "A1",
+      "ipa": "[ˈinʃɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83b56552-dd01-483f-bb28-efa8098073aa",
+      "part-of-speech": "adjective",
+      "english": "different, various",
+      "ukrainian": "різний",
+      "cefr": "A2",
+      "ipa": "[ˈrʲiznɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62219a1e-9840-4da0-802f-3369a3634aa6",
+      "part-of-speech": "adjective",
+      "english": "right, correct",
+      "ukrainian": "правильний",
+      "cefr": "A1",
+      "ipa": "[ˈprɑʋɪlʲnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f14c1171-ab07-40a9-8a94-24eef3579554",
+      "part-of-speech": "adjective",
+      "english": "wrong, incorrect",
+      "ukrainian": "неправильний",
+      "cefr": "A1",
+      "ipa": "[nɛˈprɑʋɪlʲnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f24ed56-1ba4-4612-9c44-dab7f1de5c0d",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "ukrainian": "повний",
+      "cefr": "A2",
+      "ipa": "[ˈpɔwnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2eb30cc0-745f-43b9-bc13-8f7870fbb86f",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "ukrainian": "порожній",
+      "cefr": "A2",
+      "ipa": "[pɔˈrɔʒnʲij]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c446b6d-a057-4d36-88bf-e24cc6474bc5",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "ukrainian": "багатий",
+      "cefr": "A2",
+      "ipa": "[bɑˈɦɑtɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42b39fdd-a30c-4ece-b58f-cdbc6502a80b",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "ukrainian": "бідний",
+      "cefr": "A2",
+      "ipa": "[ˈbidnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d265702b-43f5-4e1f-a363-8758a6b23a24",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "ukrainian": "сильний",
+      "cefr": "A2",
+      "ipa": "[ˈsɪlʲnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebc30539-2d43-467e-986e-55c466e2c9bc",
+      "part-of-speech": "adjective",
+      "english": "clever, smart",
+      "ukrainian": "розумний",
+      "cefr": "A2",
+      "ipa": "[rɔˈzumnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "792d2430-668e-4d63-86e4-a47c9a3fe12e",
+      "part-of-speech": "adjective",
+      "english": "cheerful, fun",
+      "ukrainian": "веселий",
+      "cefr": "A2",
+      "ipa": "[ʋɛˈsɛlɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "687ca5b3-0c65-4ea1-bf14-58fec7d107c8",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "ukrainian": "червоний",
+      "cefr": "A1",
+      "ipa": "[tʃɛrˈʋɔnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5914e46-cac4-42a2-b581-1ad96a9b5d14",
+      "part-of-speech": "adjective",
+      "english": "blue (dark blue)",
+      "ukrainian": "синій",
+      "cefr": "A1",
+      "ipa": "[ˈsɪnʲij]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "932034de-4a58-4917-a045-dc2eb8b079c1",
+      "part-of-speech": "adjective",
+      "english": "light blue",
+      "ukrainian": "блакитний",
+      "cefr": "A1",
+      "ipa": "[blɑˈkɪtnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ab6e3bd-6e41-4bbe-aed3-0abce15a9a7a",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "ukrainian": "зелений",
+      "cefr": "A1",
+      "ipa": "[zɛˈlɛnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a692cf2e-d062-48d0-9f24-e7b4fb1f0820",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "ukrainian": "жовтий",
+      "cefr": "A1",
+      "ipa": "[ˈʒɔwtɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e92b468a-1116-4e43-b2e2-f5fe830ce807",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "ukrainian": "чорний",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɔrnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a57ba56e-afc6-4fbc-8971-86d829f5f6a5",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "ukrainian": "білий",
+      "cefr": "A1",
+      "ipa": "[ˈbilɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05731c21-3ab0-4d1e-bb22-a3e05d223dcc",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "ukrainian": "коричневий",
+      "cefr": "A1",
+      "ipa": "[kɔˈrɪtʃnɛʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93b3ede5-e183-44de-a1f7-ad26fd7b67a6",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "ukrainian": "сірий",
+      "cefr": "A1",
+      "ipa": "[ˈsʲirɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4b0d9e4-b4a3-4e41-8058-3a5b783bb510",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "ukrainian": "помаранчевий",
+      "cefr": "A1",
+      "ipa": "[pɔmɑˈrɑntʃɛʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2d0d616-afe5-4728-b29e-6378603ef800",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "ukrainian": "рожевий",
+      "cefr": "A2",
+      "ipa": "[rɔˈʒɛʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2f57499-f298-4fba-bca9-d22f0fecf41f",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "ukrainian": "фіолетовий",
+      "cefr": "A2",
+      "ipa": "[fiɔˈlɛtɔʋɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88ab067e-c554-45f0-8383-ea99467e1622",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "ukrainian": "зараз",
+      "cefr": "A1",
+      "ipa": "[ˈzɑrɑz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d2c15ab-dca7-478b-ab0c-252b4224880e",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "ukrainian": "сьогодні",
+      "cefr": "A1",
+      "ipa": "[sʲɔˈɦɔdnʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8789217a-6c43-4807-8ea2-16900bede5e2",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "ukrainian": "завтра",
+      "cefr": "A1",
+      "ipa": "[ˈzɑwtrɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f25f8d1d-60c1-4baf-9f83-eeb55bdd37c2",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "ukrainian": "вчора",
+      "cefr": "A1",
+      "ipa": "[ˈwtʃɔrɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e99aa511-c38e-4197-99ff-993628ae3ea3",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "ukrainian": "тут",
+      "cefr": "A1",
+      "ipa": "[tut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19f85993-6236-4f42-8e92-b05a61abe216",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "ukrainian": "там",
+      "cefr": "A1",
+      "ipa": "[tɑm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edb406d4-0ffa-4e33-87cc-a32d8b9fe4eb",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "ukrainian": "не",
+      "cefr": "A1",
+      "ipa": "[nɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf1dcaed-d14b-45b7-b00f-ce6bfa8b5005",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "ukrainian": "також",
+      "cefr": "A1",
+      "ipa": "[ˈtɑkɔʒ]",
+      "context": "also теж",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ac7afd2-0452-4ebe-be2b-29eb2e7d7b32",
+      "part-of-speech": "adverb",
+      "english": "very; very much",
+      "ukrainian": "дуже",
+      "cefr": "A1",
+      "ipa": "[ˈduʒɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34ed2ae4-98ac-4890-976d-def4b2da058a",
+      "part-of-speech": "adverb",
+      "english": "a lot, much, many",
+      "ukrainian": "багато",
+      "cefr": "A1",
+      "ipa": "[bɑˈɦɑtɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac89fbbf-d0a1-40c9-bfd7-3054578622ec",
+      "part-of-speech": "adverb",
+      "english": "little, few",
+      "ukrainian": "мало",
+      "cefr": "A1",
+      "ipa": "[ˈmɑlɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44b94716-a9bd-4103-9786-1b354699492c",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "ukrainian": "трохи",
+      "cefr": "A1",
+      "ipa": "[ˈtrɔxɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39292256-a60d-45df-9afe-aa6642353d2b",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "ukrainian": "більше",
+      "cefr": "A1",
+      "ipa": "[ˈbilʲʃɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22025fdf-a445-4350-96d7-47bf943a5272",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "ukrainian": "менше",
+      "cefr": "A2",
+      "ipa": "[ˈmɛnʃɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "137e9c17-f86e-41d6-8d1f-55bc31840835",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "ukrainian": "завжди",
+      "cefr": "A1",
+      "ipa": "[ˈzɑwʒdɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77fb51b9-4e5f-4e18-a812-d8a734864fe6",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "ukrainian": "ніколи",
+      "cefr": "A1",
+      "ipa": "[nʲiˈkɔlɪ]",
+      "context": "with не on the verb: я ніколи не курю",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e06c78f0-a171-4918-b667-6c01f2487202",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "ukrainian": "іноді",
+      "cefr": "A1",
+      "ipa": "[ˈinɔdʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfc62bb0-dc0c-455e-8c77-7c9af5be115a",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "ukrainian": "часто",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɑstɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0218978-d82c-46a9-9737-b4df7fff63dc",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "ukrainian": "зазвичай",
+      "cefr": "A2",
+      "ipa": "[zɑzʋɪˈtʃɑj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edf5459e-0532-4fbb-bdf0-81759eac51cb",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "ukrainian": "вже",
+      "cefr": "A1",
+      "ipa": "[wʒɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8252cb2c-0944-4116-b13b-fc2002ee38f7",
+      "part-of-speech": "adverb",
+      "english": "still; more, another",
+      "ukrainian": "ще",
+      "cefr": "A1",
+      "ipa": "[ʃtʃɛ]",
+      "context": "ще раз: once more",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8ce793e-8d63-4de0-933f-d8db0118c579",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "ukrainian": "знову",
+      "cefr": "A1",
+      "ipa": "[ˈznɔʋu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4e550ed-c356-40d0-85ac-1268fe4cb610",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "ukrainian": "разом",
+      "cefr": "A1",
+      "ipa": "[ˈrɑzɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "057736b5-16f0-416a-85b5-f9b750022c07",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "ukrainian": "можливо",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʒlɪʋɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f30fb06-f382-49ff-a695-7179d026e26b",
+      "part-of-speech": "adverb",
+      "english": "then, later",
+      "ukrainian": "потом",
+      "cefr": "A1",
+      "ipa": "[pɔˈtɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9da54de9-b8f5-4ae5-b654-8ada7ad997a5",
+      "part-of-speech": "adverb",
+      "english": "first, at first",
+      "ukrainian": "спочатку",
+      "cefr": "A1",
+      "ipa": "[ˈspɔtʃɑtku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1a0e4d2-73cb-4f72-906b-098ae85f3906",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "ukrainian": "рано",
+      "cefr": "A1",
+      "ipa": "[ˈrɑnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d324e07-d930-4971-a40d-25a5f5fd137b",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "ukrainian": "пізно",
+      "cefr": "A1",
+      "ipa": "[ˈpiznɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "004f7b9e-0d8e-435c-8d5a-72f79e7b2c46",
+      "part-of-speech": "adverb",
+      "english": "well; good, OK",
+      "ukrainian": "добре",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e489d42-7546-4d2a-a4db-fca459bd3e2a",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "ukrainian": "погано",
+      "cefr": "A1",
+      "ipa": "[pɔˈɦɑnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dbaae18-d312-4399-86d9-3588ea529f3f",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "ukrainian": "тільки",
+      "cefr": "A1",
+      "ipa": "[ˈtʲilʲkɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5113c62-5904-446c-bd62-c6c9d109d02c",
+      "part-of-speech": "adverb",
+      "english": "almost",
+      "ukrainian": "майже",
+      "cefr": "A2",
+      "ipa": "[ˈmɑjʒɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a26cc3cb-2e9c-45b7-b231-a24a8416c629",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "ukrainian": "звичайно",
+      "cefr": "A2",
+      "ipa": "[zʋɪˈtʃɑjnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "612e5970-e1a8-4061-af84-f548a745bb5e",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "ukrainian": "швидко",
+      "cefr": "A1",
+      "ipa": "[ˈʃʋɪdkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa838384-5b67-486e-980f-7a7150e36fc0",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "ukrainian": "повільно",
+      "cefr": "A1",
+      "ipa": "[pɔˈʋilʲnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e393d157-cfb2-45a4-b1a8-cc578022a2e2",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "ukrainian": "далеко",
+      "cefr": "A1",
+      "ipa": "[dɑˈlɛkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d3cabbc-2962-4e2e-ba64-11293539fabc",
+      "part-of-speech": "adverb",
+      "english": "near, close",
+      "ukrainian": "близько",
+      "cefr": "A1",
+      "ipa": "[ˈblɪzʲkɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1452a411-233a-4cd4-b9e3-847ede39dbfb",
+      "part-of-speech": "adverb",
+      "english": "on the left, to the left",
+      "ukrainian": "ліворуч",
+      "cefr": "A1",
+      "ipa": "[lʲiˈʋɔrutʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5209b2c0-1822-4669-b347-c5ffc88d0096",
+      "part-of-speech": "adverb",
+      "english": "on the right, to the right",
+      "ukrainian": "праворуч",
+      "cefr": "A1",
+      "ipa": "[prɑˈʋɔrutʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d26da1b0-d1e6-40c9-b859-66fe81b879eb",
+      "part-of-speech": "adverb",
+      "english": "straight ahead",
+      "ukrainian": "прямо",
+      "cefr": "A1",
+      "ipa": "[ˈprʲɑmɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60274edd-486d-4d72-8587-f494c8b534ca",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "ukrainian": "вдома",
+      "cefr": "A1",
+      "ipa": "[ˈwdɔmɑ]",
+      "context": "(to) home: додому",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "853852a1-8000-4738-8864-46a586f0d8ef",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "ukrainian": "де",
+      "cefr": "A1",
+      "ipa": "[dɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51d2a24e-fd65-49d6-a5f6-cfad01cc0a82",
+      "part-of-speech": "adverb",
+      "english": "where (to)",
+      "ukrainian": "куди",
+      "cefr": "A1",
+      "ipa": "[kuˈdɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cd00e70-c55c-49ef-a78f-04d12865033a",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "ukrainian": "коли",
+      "cefr": "A1",
+      "ipa": "[kɔˈlɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8056ebd2-b701-4ec9-bf54-77f5ffe59735",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "ukrainian": "як",
+      "cefr": "A1",
+      "ipa": "[jɑk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8dd387ea-6dc0-4515-ae50-5273e295660e",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "ukrainian": "чому",
+      "cefr": "A1",
+      "ipa": "[tʃɔˈmu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f006320c-891b-410c-a0c8-c8e75d279cde",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "ukrainian": "скільки",
+      "cefr": "A1",
+      "ipa": "[ˈskilʲkɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a30b91e-23d1-44cd-98d7-b5d112abc947",
+      "part-of-speech": "adverb",
+      "english": "it is necessary (to need to)",
+      "ukrainian": "треба",
+      "cefr": "A1",
+      "ipa": "[ˈtrɛbɑ]",
+      "context": "мені треба йти: I need to go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7769dbb5-d967-490a-ba86-4a31dc5688a6",
+      "part-of-speech": "adverb",
+      "english": "it is allowed; one can",
+      "ukrainian": "можна",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʒnɑ]",
+      "context": "можна?: may I?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5c40036-66cd-43b8-96ee-6ea61cb7b3cc",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "ukrainian": "я",
+      "cefr": "A1",
+      "ipa": "[jɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3da36d27-5267-4d7f-8ff7-0c9e1c16e955",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "ukrainian": "ти",
+      "cefr": "A1",
+      "ipa": "[tɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c3b68fa-fff4-4dfc-8f3f-007617652007",
+      "part-of-speech": "pronoun",
+      "english": "he; it (masculine)",
+      "ukrainian": "він",
+      "cefr": "A1",
+      "ipa": "[ʋin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3aee17bd-a05b-4b46-8c27-4b5921370a5e",
+      "part-of-speech": "pronoun",
+      "english": "she; it (feminine)",
+      "ukrainian": "вона",
+      "cefr": "A1",
+      "ipa": "[ʋɔˈnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fc6fe3a-cace-4182-9c38-255bae96b1f4",
+      "part-of-speech": "pronoun",
+      "english": "it (neuter)",
+      "ukrainian": "воно",
+      "cefr": "A1",
+      "ipa": "[ʋɔˈnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c37e0eeb-0712-4d6a-b95e-fc03d2125b4e",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "ukrainian": "ми",
+      "cefr": "A1",
+      "ipa": "[mɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8aedd6b-69f3-480d-b5f6-4c1759ad211a",
+      "part-of-speech": "pronoun",
+      "english": "you (plural or formal)",
+      "ukrainian": "ви",
+      "cefr": "A1",
+      "ipa": "[ʋɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0675c3a-623a-42d6-889a-0ba7ed47495a",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "ukrainian": "вони",
+      "cefr": "A1",
+      "ipa": "[ʋɔˈnɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d638769-c9f8-47c3-97ad-fe4429f23fdd",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "ukrainian": "мій",
+      "cefr": "A1",
+      "ipa": "[mij]",
+      "context": "моя (f), моє (n), мої (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7bfaf90-f019-4854-82de-22a315e628e0",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "ukrainian": "твій",
+      "cefr": "A1",
+      "ipa": "[tʋij]",
+      "context": "твоя (f), твоє (n), твої (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdb02509-12c9-4550-97af-49d38b6e7850",
+      "part-of-speech": "pronoun",
+      "english": "his; him",
+      "ukrainian": "його",
+      "cefr": "A1",
+      "ipa": "[jɔˈɦɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a362dd05-2e76-46ad-92f7-48db7fb5b7f0",
+      "part-of-speech": "pronoun",
+      "english": "her, hers",
+      "ukrainian": "її",
+      "cefr": "A1",
+      "ipa": "[jiˈji]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8aa894ee-8e5b-4897-b173-0366e611208e",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "ukrainian": "наш",
+      "cefr": "A1",
+      "ipa": "[nɑʃ]",
+      "context": "наша (f), наше (n), наші (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a925e938-0f34-4b94-8746-47e558f78c6e",
+      "part-of-speech": "pronoun",
+      "english": "your (plural or formal)",
+      "ukrainian": "ваш",
+      "cefr": "A1",
+      "ipa": "[ʋɑʃ]",
+      "context": "ваша (f), ваше (n), ваші (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "090611c7-6436-48b7-8e8f-b179f958f40a",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "ukrainian": "їхній",
+      "cefr": "A1",
+      "ipa": "[ˈjixnʲij]",
+      "context": "also їх",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f01a296-20ac-4e67-97f9-2f93c85041ef",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "ukrainian": "цей",
+      "cefr": "A1",
+      "ipa": "[tsɛj]",
+      "context": "ця (f), це (n), ці (pl); це also means \"this is\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f5bd5e1-7883-4a06-b7d3-8605ca74f063",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "ukrainian": "той",
+      "cefr": "A1",
+      "ipa": "[tɔj]",
+      "context": "та (f), те (n), ті (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "faf46dfa-8dc5-4525-a481-66836df940ac",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "ukrainian": "що",
+      "cefr": "A1",
+      "ipa": "[ʃtʃɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c28a7348-80d1-49bf-a016-f7b829a73f67",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "ukrainian": "хто",
+      "cefr": "A1",
+      "ipa": "[xtɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1d8fe2e-665c-4dca-b47b-ef8cf6a0d221",
+      "part-of-speech": "pronoun",
+      "english": "which, what kind of",
+      "ukrainian": "який",
+      "cefr": "A1",
+      "ipa": "[jɑˈkɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59408d5c-d275-4076-b049-81f144f8c332",
+      "part-of-speech": "pronoun",
+      "english": "everything",
+      "ukrainian": "усе",
+      "cefr": "A1",
+      "ipa": "[uˈsɛ]",
+      "context": "also все",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe212f84-64bf-4d6a-be14-5ab892b4ea30",
+      "part-of-speech": "pronoun",
+      "english": "everyone, all",
+      "ukrainian": "усі",
+      "cefr": "A1",
+      "ipa": "[uˈsʲi]",
+      "context": "also всі",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23085648-1e48-43a6-a91c-3ada8c37afc5",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "ukrainian": "щось",
+      "cefr": "A2",
+      "ipa": "[ʃtʃɔsʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a473321-e897-4ef5-8a3b-a9e2068c9ae2",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "ukrainian": "нічого",
+      "cefr": "A2",
+      "ipa": "[nʲiˈtʃɔɦɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88ec32b7-95b7-4f9b-9833-6960d4a5f339",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "ukrainian": "хтось",
+      "cefr": "A2",
+      "ipa": "[xtɔsʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92d4b258-1762-4ab8-989c-a11d91f93e74",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "ukrainian": "ніхто",
+      "cefr": "A2",
+      "ipa": "[nʲixˈtɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "535bf7fc-e6b1-4938-9eed-5692921012e9",
+      "part-of-speech": "preposition",
+      "english": "in; to, into",
+      "ukrainian": "в",
+      "cefr": "A1",
+      "ipa": "[w]",
+      "context": "also у; + locative (where?), + accusative (where to?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cf6a597-e696-4a9a-8362-16d8805ccd3b",
+      "part-of-speech": "preposition",
+      "english": "on; at; to",
+      "ukrainian": "на",
+      "cefr": "A1",
+      "ipa": "[nɑ]",
+      "context": "+ locative (where?), + accusative (where to?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9dbc00be-990c-44a7-86f3-c533c166117a",
+      "part-of-speech": "preposition",
+      "english": "with; from",
+      "ukrainian": "з",
+      "cefr": "A1",
+      "ipa": "[z]",
+      "context": "+ instrumental (with), + genitive (from)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b2853c7-8e26-4481-862c-4ee6061ffc62",
+      "part-of-speech": "preposition",
+      "english": "to; until",
+      "ukrainian": "до",
+      "cefr": "A1",
+      "ipa": "[dɔ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5894b996-49a0-4bc5-836c-e4930b2b0586",
+      "part-of-speech": "preposition",
+      "english": "from (a person)",
+      "ukrainian": "від",
+      "cefr": "A1",
+      "ipa": "[ʋid]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57fa2275-89d4-4f78-b90a-dece81393ee6",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "ukrainian": "для",
+      "cefr": "A1",
+      "ipa": "[dlʲɑ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39c1c9dc-d560-4296-a09f-b3bfb49e94dc",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "ukrainian": "без",
+      "cefr": "A1",
+      "ipa": "[bɛz]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1222ca0e-c39c-439e-9553-db2361f87f4e",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "ukrainian": "про",
+      "cefr": "A1",
+      "ipa": "[prɔ]",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28086510-5c2a-43d2-8be8-79602eca3e9f",
+      "part-of-speech": "preposition",
+      "english": "near, by",
+      "ukrainian": "біля",
+      "cefr": "A1",
+      "ipa": "[ˈbilʲɑ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b538dcb-4b43-4648-ba1f-e2bf834be9e3",
+      "part-of-speech": "preposition",
+      "english": "behind; for",
+      "ukrainian": "за",
+      "cefr": "A2",
+      "ipa": "[zɑ]",
+      "context": "+ instrumental (behind), + accusative (for)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "431968be-26c7-424c-8a68-267ae2a80453",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "ukrainian": "під",
+      "cefr": "A1",
+      "ipa": "[pid]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cac99bf9-4a06-4b35-ad33-9c1c0a5fa344",
+      "part-of-speech": "preposition",
+      "english": "above",
+      "ukrainian": "над",
+      "cefr": "A2",
+      "ipa": "[nɑd]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89eea64b-330e-4861-b51d-860a20ba5141",
+      "part-of-speech": "preposition",
+      "english": "in front of; before",
+      "ukrainian": "перед",
+      "cefr": "A1",
+      "ipa": "[ˈpɛrɛd]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7fa6947-d027-42aa-8546-c8408060336d",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "ukrainian": "після",
+      "cefr": "A1",
+      "ipa": "[ˈpislʲɑ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb24f8dc-7884-481c-895b-8987acaddd93",
+      "part-of-speech": "preposition",
+      "english": "through; in (time)",
+      "ukrainian": "через",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɛrɛz]",
+      "context": "+ accusative; через годину: in an hour",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21292cfa-3b8f-434e-a9b0-adc3dea7c9da",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "ukrainian": "між",
+      "cefr": "A2",
+      "ipa": "[miʒ]",
+      "context": "+ instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6a442b1-70ae-46fc-a673-e95733c34225",
+      "part-of-speech": "preposition",
+      "english": "opposite",
+      "ukrainian": "навпроти",
+      "cefr": "A2",
+      "ipa": "[nɑwˈprɔtɪ]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6301122f-4789-4cac-9b77-6766b7a44d39",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "ukrainian": "і",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "context": "й after a vowel; also та",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddb49aae-4c9d-4693-b832-e2cc455db59c",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "ukrainian": "або",
+      "cefr": "A1",
+      "ipa": "[ˈɑbɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14df56af-91c1-4cfd-8460-b888f2704096",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "ukrainian": "але",
+      "cefr": "A1",
+      "ipa": "[ɑˈlɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85309a32-b95f-4ead-b64a-b860883510f6",
+      "part-of-speech": "conjunction",
+      "english": "and, but (contrasting)",
+      "ukrainian": "а",
+      "cefr": "A1",
+      "ipa": "[ɑ]",
+      "context": "я лікар, а він учитель: I'm a doctor, and he's a teacher",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83ebb6c0-809a-4171-9e6b-d6ee480362fa",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "ukrainian": "бо",
+      "cefr": "A1",
+      "ipa": "[bɔ]",
+      "context": "also тому що",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "203e0d56-2ca7-4b6e-a865-902ced8a788d",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "ukrainian": "тому",
+      "cefr": "A1",
+      "ipa": "[tɔˈmu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "506a2df3-a538-401a-a627-296194582c06",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "ukrainian": "що",
+      "cefr": "A1",
+      "ipa": "[ʃtʃɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c05ff270-96cf-4fe6-a537-95869058407d",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "ukrainian": "якщо",
+      "cefr": "A1",
+      "ipa": "[ˈjɑkʃtʃɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06dab064-15f7-43ce-a4e8-c778218c83a6",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "ukrainian": "коли",
+      "cefr": "A1",
+      "ipa": "[kɔˈlɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f3e77e9-167b-48ba-9f98-291772487c22",
+      "part-of-speech": "conjunction",
+      "english": "so that, in order to",
+      "ukrainian": "щоб",
+      "cefr": "A2",
+      "ipa": "[ʃtʃɔb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a29ce430-3b74-4c10-8f7a-09dcb8631fd2",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "ukrainian": "хоча",
+      "cefr": "A2",
+      "ipa": "[xɔˈtʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61789dba-55eb-4b98-bf6f-4a2707ef8641",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "ukrainian": "поки",
+      "cefr": "A2",
+      "ipa": "[ˈpɔkɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f2191c2-dc5d-4093-918b-92e9eba15b6a",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "ukrainian": "так",
+      "cefr": "A1",
+      "ipa": "[tɑk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e436856c-8111-4143-8b19-e750f3b47c58",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "ukrainian": "ні",
+      "cefr": "A1",
+      "ipa": "[nʲi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "906d9951-24fa-4c91-9aaa-89e708f51473",
+      "part-of-speech": "interjection",
+      "english": "hi",
+      "ukrainian": "привіт",
+      "cefr": "A1",
+      "ipa": "[prɪˈʋit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e585d78d-3f8c-4133-8c44-aab994d1224d",
+      "part-of-speech": "interjection",
+      "english": "hello, good afternoon",
+      "ukrainian": "добрий день",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɪj dɛnʲ]",
+      "context": "the standard polite greeting at any time of day",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99996233-2067-4993-a48f-eda28ac7f10e",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "ukrainian": "доброго ранку",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɔɦɔ ˈrɑnku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d9c32f4-4d98-4f22-b834-34ddd2eafbc0",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "ukrainian": "добрий вечір",
+      "cefr": "A1",
+      "ipa": "[ˈdɔbrɪj ˈʋɛtʃir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efc92ccf-92bf-4e28-9e93-2e3241f7836b",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "ukrainian": "на добраніч",
+      "cefr": "A1",
+      "ipa": "[nɑ dɔˈbrɑnʲitʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fde50af-5d0d-44b8-b8d7-5eff8a27005c",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "ukrainian": "до побачення",
+      "cefr": "A1",
+      "ipa": "[dɔ pɔˈbɑtʃɛnʲːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "194f880d-9c50-4444-97bf-7d4e6e39d9ae",
+      "part-of-speech": "interjection",
+      "english": "bye",
+      "ukrainian": "бувай",
+      "cefr": "A1",
+      "ipa": "[buˈʋɑj]",
+      "context": "to several people or formally: бувайте",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d45211d-f792-4108-9830-e699467a0e83",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "ukrainian": "дякую",
+      "cefr": "A1",
+      "ipa": "[ˈdʲɑkuju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f281534b-d94b-48b5-90ff-90cbada0edc0",
+      "part-of-speech": "interjection",
+      "english": "please; you're welcome",
+      "ukrainian": "будь ласка",
+      "cefr": "A1",
+      "ipa": "[budʲ ˈlɑskɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b4d3f19-7bef-4951-a83c-1515c2328d8a",
+      "part-of-speech": "interjection",
+      "english": "excuse me; sorry",
+      "ukrainian": "вибачте",
+      "cefr": "A1",
+      "ipa": "[ˈʋɪbɑtʃtɛ]",
+      "context": "informal: вибач",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "213392d2-21ba-408a-88d7-00de6bdb944a",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "ukrainian": "як справи",
+      "cefr": "A1",
+      "ipa": "[jɑk ˈsprɑʋɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3150c971-c319-4abd-8966-2d35abdcbea9",
+      "part-of-speech": "interjection",
+      "english": "nice to meet you",
+      "ukrainian": "дуже приємно",
+      "cefr": "A1",
+      "ipa": "[ˈduʒɛ ˈprɪjɛmnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1deb324c-3085-4392-85fd-967e054fa6f1",
+      "part-of-speech": "interjection",
+      "english": "enjoy your meal",
+      "ukrainian": "смачного",
+      "cefr": "A2",
+      "ipa": "[smɑˈtʃnɔɦɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f4155c6-58df-4d2a-9e4b-4bd95fef4a5c",
+      "part-of-speech": "interjection",
+      "english": "cheers; bless you; you're welcome",
+      "ukrainian": "на здоров'я",
+      "cefr": "A2",
+      "ipa": "[nɑ zdɔˈrɔwjɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45a64339-ba12-44b7-b846-21566a0482f8",
+      "part-of-speech": "interjection",
+      "english": "happy birthday",
+      "ukrainian": "з днем народження",
+      "cefr": "A2",
+      "ipa": "[z dnɛm nɑˈrɔdʒɛnʲːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91bc3c72-75a8-4629-a5e3-752658e3ec56",
+      "part-of-speech": "interjection",
+      "english": "congratulations; greetings",
+      "ukrainian": "вітаю",
+      "cefr": "A2",
+      "ipa": "[ʋiˈtɑju]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

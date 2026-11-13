@@ -32,6 +32,7 @@ const LANGUAGE_INFO = {
   french:  { language: 'French',  languageCode: 'fr' },
   german:  { language: 'German',  languageCode: 'de' },
   hindi:   { language: 'Hindi',   languageCode: 'hi' },
+  hungarian: { language: 'Hungarian', languageCode: 'hu' },
   indonesian: { language: 'Indonesian', languageCode: 'id' },
   italian: { language: 'Italian', languageCode: 'it' },
   japanese: { language: 'Japanese', languageCode: 'ja' },
@@ -39,11 +40,14 @@ const LANGUAGE_INFO = {
   norwegian: { language: 'Norwegian', languageCode: 'no' },
   polish:  { language: 'Polish',  languageCode: 'pl' },
   portuguese: { language: 'Portuguese', languageCode: 'pt' },
+  romanian: { language: 'Romanian', languageCode: 'ro' },
   russian: { language: 'Russian', languageCode: 'ru' },
+  serbocroatian: { language: 'Serbo-Croatian', languageCode: 'sh' },
   spanish: { language: 'Spanish', languageCode: 'es' },
   swahili: { language: 'Swahili', languageCode: 'sw' },
   swedish: { language: 'Swedish', languageCode: 'sv' },
   turkish: { language: 'Turkish', languageCode: 'tr' },
+  ukrainian: { language: 'Ukrainian', languageCode: 'uk' },
 }
 
 function capitalize(s) { return s.charAt(0).toUpperCase() + s.slice(1) }

@@ -1,0 +1,170 @@
+{
+  "scriptName": "Romanian Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Romanian is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Romanian, written as exact (bracketed) IPA. Stress can fall on any syllable, so it is always marked."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "ă",
+          "ipa": "[ə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "â / î",
+          "ipa": "[ɨ]",
+          "note": "i with the tongue pulled back — no English match"
+        },
+        {
+          "char": "ș",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "ț",
+          "ipa": "[ts]",
+          "note": "ts"
+        },
+        {
+          "char": "c / g + e, i",
+          "ipa": "[tʃ dʒ]",
+          "note": "ch, j"
+        },
+        {
+          "char": "ch / gh + e, i",
+          "ipa": "[k ɡ]",
+          "note": "hard k, g"
+        },
+        {
+          "char": "ce / ci / ge / gi + a, o, u",
+          "ipa": "[tʃ dʒ]",
+          "note": "the e or i is silent: ceai [tʃaj]"
+        },
+        {
+          "char": "ea / oa",
+          "ipa": "[e̯a o̯a]",
+          "note": "one syllable, gliding into a"
+        },
+        {
+          "char": "final -i",
+          "ipa": "[ʲ]",
+          "note": "usually silent, just softens the consonant: pomi [pomʲ]"
+        },
+        {
+          "char": "j",
+          "ipa": "[ʒ]",
+          "note": "s in \"measure\""
+        },
+        {
+          "char": "h",
+          "ipa": "[h]",
+          "note": "always pronounced"
+        },
+        {
+          "char": "initial e- in el, ea, este",
+          "ipa": "[je]",
+          "note": "said with a y-sound first"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "an [an]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "pe [pe]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "fiu [fiw]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "om [om]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "nu [nu]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "ea [ja]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "mar [mar]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "ou [ow]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "ə",
+          "ipa": "că [kə]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɨ",
+          "ipa": "în [ɨn]",
+          "note": "a short central i, like the vowel in \"roses\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "și [ʃʲ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "joi [ʒoj]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ʲ",
+          "ipa": "zi [zʲ]",
+          "note": "soft — said with the middle of the tongue raised, as if starting a y"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "gol [ɡol]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "oră [ˈorə]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": ".",
+          "ipa": "scaun [ˈska.un]",
+          "note": "a break between syllables"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "bea [be̯a]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
+        }
+      ]
+    }
+  ]
+}

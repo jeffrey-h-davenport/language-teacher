@@ -1,0 +1,289 @@
+{
+  "scriptName": "Ukrainian Alphabet",
+  "buttonLabel": "Alphabet Guide",
+  "fontScale": 1.1,
+  "intro": "The Ukrainian alphabet with the sound of every letter, the main reading rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "How the Ukrainian alphabet works",
+      "text": [
+        "Ukrainian is written in its own version of the Cyrillic alphabet: 33 letters plus the apostrophe. If you know Russian, watch out — the letters overlap but don't all sound the same: Ukrainian г is a voiced h, и is like the i in \"bit\", е is a plain e, and і, ї, є and ґ are Ukrainian-only letters.",
+        "Ukrainian is read much as it's written. Unlike Russian, unstressed vowels keep their full sound, and consonants keep their voice at the end of a word (хліб [xlʲib]). The consonants д, т, з, с, ц, л, н are softened before і, є, ю, я and the soft sign ь."
+      ]
+    },
+    {
+      "heading": "The alphabet",
+      "items": [
+        {
+          "char": "А а",
+          "ipa": "[ɑ]",
+          "note": "a"
+        },
+        {
+          "char": "Б б",
+          "ipa": "[b]",
+          "note": "b"
+        },
+        {
+          "char": "В в",
+          "ipa": "[ʋ w]",
+          "note": "v before a vowel, w otherwise"
+        },
+        {
+          "char": "Г г",
+          "ipa": "[ɦ]",
+          "note": "a voiced h — not g"
+        },
+        {
+          "char": "Ґ ґ",
+          "ipa": "[ɡ]",
+          "note": "g (rare)"
+        },
+        {
+          "char": "Д д",
+          "ipa": "[d]",
+          "note": "d"
+        },
+        {
+          "char": "Е е",
+          "ipa": "[ɛ]",
+          "note": "e as in \"bed\" — not ye"
+        },
+        {
+          "char": "Є є",
+          "ipa": "[jɛ ʲɛ]",
+          "note": "ye"
+        },
+        {
+          "char": "Ж ж",
+          "ipa": "[ʒ]",
+          "note": "zh"
+        },
+        {
+          "char": "З з",
+          "ipa": "[z]",
+          "note": "z"
+        },
+        {
+          "char": "И и",
+          "ipa": "[ɪ]",
+          "note": "i as in \"bit\""
+        },
+        {
+          "char": "І і",
+          "ipa": "[i]",
+          "note": "ee"
+        },
+        {
+          "char": "Ї ї",
+          "ipa": "[ji]",
+          "note": "yee"
+        },
+        {
+          "char": "Й й",
+          "ipa": "[j]",
+          "note": "y"
+        },
+        {
+          "char": "К к",
+          "ipa": "[k]",
+          "note": "k"
+        },
+        {
+          "char": "Л л",
+          "ipa": "[l]",
+          "note": "l"
+        },
+        {
+          "char": "М м",
+          "ipa": "[m]",
+          "note": "m"
+        },
+        {
+          "char": "Н н",
+          "ipa": "[n]",
+          "note": "n"
+        },
+        {
+          "char": "О о",
+          "ipa": "[ɔ]",
+          "note": "o — said fully even when unstressed"
+        },
+        {
+          "char": "П п",
+          "ipa": "[p]",
+          "note": "p"
+        },
+        {
+          "char": "Р р",
+          "ipa": "[r]",
+          "note": "rolled r"
+        },
+        {
+          "char": "С с",
+          "ipa": "[s]",
+          "note": "s"
+        },
+        {
+          "char": "Т т",
+          "ipa": "[t]",
+          "note": "t"
+        },
+        {
+          "char": "У у",
+          "ipa": "[u]",
+          "note": "oo"
+        },
+        {
+          "char": "Ф ф",
+          "ipa": "[f]",
+          "note": "f"
+        },
+        {
+          "char": "Х х",
+          "ipa": "[x]",
+          "note": "kh, as in \"loch\""
+        },
+        {
+          "char": "Ц ц",
+          "ipa": "[ts]",
+          "note": "ts"
+        },
+        {
+          "char": "Ч ч",
+          "ipa": "[tʃ]",
+          "note": "ch (hard)"
+        },
+        {
+          "char": "Ш ш",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "Щ щ",
+          "ipa": "[ʃtʃ]",
+          "note": "shch"
+        },
+        {
+          "char": "Ь ь",
+          "ipa": "[ʲ]",
+          "note": "soft sign: softens the consonant before it"
+        },
+        {
+          "char": "Ю ю",
+          "ipa": "[ju ʲu]",
+          "note": "yu"
+        },
+        {
+          "char": "Я я",
+          "ipa": "[jɑ ʲɑ]",
+          "note": "ya"
+        },
+        {
+          "char": "'",
+          "ipa": "",
+          "note": "apostrophe: keeps the consonant hard before я, ю, є, ї (м'ясо)"
+        }
+      ]
+    },
+    {
+      "heading": "Reading rules",
+      "text": [
+        "Stress: each word has one stressed syllable, and it can fall anywhere; ordinary text doesn't mark it, so the IPA in this app always shows it with ˈ.",
+        "в is said as a short w at the end of a syllable (вчора [ˈwtʃɔrɑ], лев [lɛw]), and as a soft v-like [ʋ] before a vowel.",
+        "Doubled consonants are long: питання [pɪˈtɑnʲːɑ]."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "i",
+          "ipa": "і [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "u",
+          "ipa": "суп [sup]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "я [jɑ]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "сир [sɪr]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "в [w]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "x",
+          "ipa": "хто [xtɔ]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "а [ɑ]",
+          "note": "a far back in the mouth, as in \"father\""
+        },
+        {
+          "char": "ɛ",
+          "ipa": "не [nɛ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ɪ",
+          "ipa": "ти [tɪ]",
+          "note": "i, as in \"bit\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "до [dɔ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ɦ",
+          "ipa": "гра [ɦrɑ]",
+          "note": "a breathy, voiced h"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "наш [nɑʃ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "вже [wʒɛ]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ʋ",
+          "ipa": "ви [ʋɪ]",
+          "note": "between v and w (Ukrainian в before a vowel)"
+        },
+        {
+          "char": "ʲ",
+          "ipa": "ні [nʲi]",
+          "note": "soft — said with the middle of the tongue raised, as if starting a y"
+        },
+        {
+          "char": "ˈ",
+          "ipa": "око [ˈɔkɔ]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "ванна [ˈʋɑnːɑ]",
+          "note": "the sound before it is long"
+        }
+      ]
+    }
+  ]
+}

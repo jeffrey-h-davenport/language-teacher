@@ -1,0 +1,215 @@
+{
+  "scriptName": "Hungarian Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Hungarian is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard Budapest Hungarian, written as exact (bracketed) IPA. Spelling is almost perfectly phonetic, and the stress always falls on the first syllable (ˈ). An accent mark on a vowel makes it long, and a doubled consonant is held longer (kettő [ˈkɛtːøː]). Endings follow vowel harmony: back-vowel words take back-vowel endings (házak), front-vowel words front ones (kertek)."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "a / á",
+          "ipa": "[ɒ aː]",
+          "note": "short a is a rounded \"o\" as in British \"hot\"; long á is a bright \"ah\""
+        },
+        {
+          "char": "e / é",
+          "ipa": "[ɛ eː]",
+          "note": "e as in \"bed\"; é like \"ay\" in \"say\", without the glide"
+        },
+        {
+          "char": "i í, o ó, u ú",
+          "ipa": "[i iː o oː u uː]",
+          "note": "pure vowels, short and long"
+        },
+        {
+          "char": "ö / ő",
+          "ipa": "[ø øː]",
+          "note": "e said with rounded lips, short and long"
+        },
+        {
+          "char": "ü / ű",
+          "ipa": "[y yː]",
+          "note": "ee said with rounded lips, short and long"
+        },
+        {
+          "char": "s",
+          "ipa": "[ʃ]",
+          "note": "sh — never s"
+        },
+        {
+          "char": "sz",
+          "ipa": "[s]",
+          "note": "s"
+        },
+        {
+          "char": "zs",
+          "ipa": "[ʒ]",
+          "note": "s in \"measure\""
+        },
+        {
+          "char": "cs",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "c",
+          "ipa": "[ts]",
+          "note": "ts"
+        },
+        {
+          "char": "gy",
+          "ipa": "[ɟ]",
+          "note": "a soft d, like the d in \"dune\""
+        },
+        {
+          "char": "ty",
+          "ipa": "[c]",
+          "note": "a soft t, like the t in \"tune\""
+        },
+        {
+          "char": "ny",
+          "ipa": "[ɲ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ly / j",
+          "ipa": "[j]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "[r]",
+          "note": "rolled"
+        },
+        {
+          "char": "doubled letters",
+          "ipa": "[ː]",
+          "note": "held longer: hal \"fish\" vs hall \"hears\""
+        },
+        {
+          "char": "consonant clusters",
+          "ipa": "",
+          "note": "a consonant takes on the voicing of the next one: nagypapa [ˈnɒcpɒpɒ]"
+        },
+        {
+          "char": "t / d + s, sz",
+          "ipa": "[tʃː tsː]",
+          "note": "merge into one long ch or ts: barátság [ˈbɒraːtʃːaːɡ], játszani [ˈjaːtsːɒni]"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "ágy [aːɟ]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "év [eːv]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "mi [mi]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "ott [ot]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "ujj [ujː]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "y",
+          "ipa": "fül [fyl]",
+          "note": "ee said with rounded lips (French u, German ü)"
+        },
+        {
+          "char": "c",
+          "ipa": "báty [baːc]",
+          "note": "a k made further forward, against the roof of the mouth"
+        },
+        {
+          "char": "j",
+          "ipa": "fej [fɛj]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "orr [orː]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "ɛ",
+          "ipa": "egy [ɛɟ]",
+          "note": "e, as in \"bed\""
+        },
+        {
+          "char": "ɒ",
+          "ipa": "fa [fɒ]",
+          "note": "a rounded, open o, as in British \"lot\" said further back"
+        },
+        {
+          "char": "ø",
+          "ipa": "öt [øt]",
+          "note": "e said with rounded lips (German ö)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "is [iʃ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "rizs [riʒ]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "lány [laːɲ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "ing [iŋɡ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɟ",
+          "ipa": "egy [ɛɟ]",
+          "note": "a d made against the roof of the mouth, like the d in \"dune\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "fog [foɡ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "anya [ˈɒɲɒ]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "ő [øː]",
+          "note": "the sound before it is long"
+        }
+      ]
+    }
+  ]
+}

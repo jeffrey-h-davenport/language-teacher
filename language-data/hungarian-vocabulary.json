@@ -1,0 +1,6051 @@
+{
+  "meta": {
+    "language": "Hungarian",
+    "languageCode": "hu",
+    "nativeLanguage": "English",
+    "targetField": "hungarian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "f829c0ce-2992-49b5-b321-a65b896abe8d",
+      "part-of-speech": "noun",
+      "english": "person, human being",
+      "hungarian": "ember",
+      "plural": "emberek",
+      "cefr": "A1",
+      "ipa": "[ˈɛmbɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca212480-92b3-4e9c-aff0-86dab41fc631",
+      "part-of-speech": "noun",
+      "english": "man",
+      "hungarian": "férfi",
+      "plural": "férfiak",
+      "cefr": "A1",
+      "ipa": "[ˈfeːrfi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb5a4d8e-c9c7-4890-8cae-c38000219e71",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "hungarian": "nő",
+      "plural": "nők",
+      "cefr": "A1",
+      "ipa": "[nøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1686f969-8ee9-4e5c-be87-3c05c24c47a2",
+      "part-of-speech": "noun",
+      "english": "child",
+      "hungarian": "gyerek",
+      "plural": "gyerekek",
+      "cefr": "A1",
+      "ipa": "[ˈɟɛrɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7df31de-af74-425b-9e4c-04a131c343b5",
+      "part-of-speech": "noun",
+      "english": "boy; son",
+      "hungarian": "fiú",
+      "plural": "fiúk",
+      "cefr": "A1",
+      "ipa": "[ˈfiuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98a00bee-f724-495c-a97e-a5f4d580995b",
+      "part-of-speech": "noun",
+      "english": "girl; daughter",
+      "hungarian": "lány",
+      "plural": "lányok",
+      "cefr": "A1",
+      "ipa": "[laːɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2394111a-d104-4d9e-8ced-f9ad2bf0373e",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "hungarian": "anya",
+      "plural": "anyák",
+      "cefr": "A1",
+      "ipa": "[ˈɒɲɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80d661df-a37b-495a-9bc6-75857b75819c",
+      "part-of-speech": "noun",
+      "english": "father",
+      "hungarian": "apa",
+      "plural": "apák",
+      "cefr": "A1",
+      "ipa": "[ˈɒpɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "533d6029-2fce-426c-b3c6-8bc3764aef7f",
+      "part-of-speech": "noun",
+      "english": "parent",
+      "hungarian": "szülő",
+      "plural": "szülők",
+      "cefr": "A1",
+      "ipa": "[ˈsyløː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6208f2a7-dc58-4375-8c24-507aaf8513bb",
+      "part-of-speech": "noun",
+      "english": "brother or sister, sibling",
+      "hungarian": "testvér",
+      "plural": "testvérek",
+      "cefr": "A1",
+      "ipa": "[ˈtɛʃtveːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a7d70e7-eece-4a2f-bcba-3a39364ff261",
+      "part-of-speech": "noun",
+      "english": "older brother",
+      "hungarian": "báty",
+      "plural": "bátyák",
+      "cefr": "A1",
+      "ipa": "[baːc]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b9f94db-de08-408b-8ab1-ccda4dcd15b0",
+      "part-of-speech": "noun",
+      "english": "younger brother",
+      "hungarian": "öcs",
+      "plural": "öccsök",
+      "cefr": "A1",
+      "ipa": "[øtʃ]",
+      "context": "öcsém: my younger brother",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8b59944-bcee-414a-9a04-44dc10829bf5",
+      "part-of-speech": "noun",
+      "english": "older sister",
+      "hungarian": "nővér",
+      "plural": "nővérek",
+      "cefr": "A1",
+      "ipa": "[ˈnøːveːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca65e9cf-6218-47f7-bf0a-3ffa110447fa",
+      "part-of-speech": "noun",
+      "english": "younger sister",
+      "hungarian": "húg",
+      "plural": "húgok",
+      "cefr": "A1",
+      "ipa": "[huːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9e51e79-3814-4b82-b2b1-6ccdd21a12ce",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "hungarian": "nagymama",
+      "plural": "nagymamák",
+      "cefr": "A1",
+      "ipa": "[ˈnɒɟmɒmɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "477afb28-636d-46d9-8acb-29f162170c1c",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "hungarian": "nagypapa",
+      "plural": "nagypapák",
+      "cefr": "A1",
+      "ipa": "[ˈnɒcpɒpɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edf20fe3-798a-4cb3-99b7-199d30f2afef",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "hungarian": "nagybácsi",
+      "plural": "nagybácsik",
+      "cefr": "A2",
+      "ipa": "[ˈnɒɟbaːtʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7faeb7db-5e7f-4a29-abf1-5af0a0d23d8f",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "hungarian": "nagynéni",
+      "plural": "nagynénik",
+      "cefr": "A2",
+      "ipa": "[ˈnɒɟneːni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7b77d2a-3793-4781-b8f3-3614c396e3b6",
+      "part-of-speech": "noun",
+      "english": "family",
+      "hungarian": "család",
+      "plural": "családok",
+      "cefr": "A1",
+      "ipa": "[ˈtʃɒlaːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d584111-51a0-4bbd-ac7e-7752671d8834",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "hungarian": "férj",
+      "plural": "férjek",
+      "cefr": "A1",
+      "ipa": "[feːrj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02f6e6bf-8a1d-4f5b-a564-7e71bb7062e2",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "hungarian": "feleség",
+      "plural": "feleségek",
+      "cefr": "A1",
+      "ipa": "[ˈfɛlɛʃeːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7926d74-a0c0-49fd-85e9-92256f94dbd7",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "hungarian": "barát",
+      "plural": "barátok",
+      "cefr": "A1",
+      "ipa": "[ˈbɒraːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e82a79f-9fc8-4397-a57f-d7e547500bf7",
+      "part-of-speech": "noun",
+      "english": "friend (female); girlfriend",
+      "hungarian": "barátnő",
+      "plural": "barátnők",
+      "cefr": "A1",
+      "ipa": "[ˈbɒraːtnøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "248665b0-e9d7-4ced-9ae3-b0e2c04b8082",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "hungarian": "szomszéd",
+      "plural": "szomszédok",
+      "cefr": "A2",
+      "ipa": "[ˈsomseːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb72f0c1-75ae-4995-8082-7379a61b3b1d",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "hungarian": "kolléga",
+      "plural": "kollégák",
+      "cefr": "A2",
+      "ipa": "[ˈkolːeːɡɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ec1133d-dc96-4f36-88fa-4e5bc3c5e2ff",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "hungarian": "tanár",
+      "plural": "tanárok",
+      "cefr": "A1",
+      "ipa": "[ˈtɒnaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5caf7ffc-0bce-408b-908a-ba83c0cbc290",
+      "part-of-speech": "noun",
+      "english": "pupil, student",
+      "hungarian": "diák",
+      "plural": "diákok",
+      "cefr": "A1",
+      "ipa": "[ˈdiaːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a9c0027-7e35-434f-9b45-f7a8feb1d5d4",
+      "part-of-speech": "noun",
+      "english": "university student",
+      "hungarian": "egyetemista",
+      "plural": "egyetemisták",
+      "cefr": "A2",
+      "ipa": "[ˈɛɟɛtɛmiʃtɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e71ccc5-c053-4840-8b0a-8f59b678f183",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "hungarian": "orvos",
+      "plural": "orvosok",
+      "cefr": "A1",
+      "ipa": "[ˈorvoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd8e2212-5841-4758-8307-c57882a310a1",
+      "part-of-speech": "noun",
+      "english": "waiter",
+      "hungarian": "pincér",
+      "plural": "pincérek",
+      "cefr": "A2",
+      "ipa": "[ˈpintseːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7bad4c1-b638-40d3-9b6f-8ae5b83e207b",
+      "part-of-speech": "noun",
+      "english": "guest",
+      "hungarian": "vendég",
+      "plural": "vendégek",
+      "cefr": "A2",
+      "ipa": "[ˈvɛndeːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7553aa8-b811-4410-b057-82bd36f4f6b8",
+      "part-of-speech": "noun",
+      "english": "tourist",
+      "hungarian": "turista",
+      "plural": "turisták",
+      "cefr": "A2",
+      "ipa": "[ˈturiʃtɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "764c53d9-f445-4e78-8b15-2386d50dca2a",
+      "part-of-speech": "noun",
+      "english": "name",
+      "hungarian": "név",
+      "plural": "nevek",
+      "cefr": "A1",
+      "ipa": "[neːv]",
+      "context": "A nevem …: My name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c938c3cf-2fcf-439c-a871-7dd6129b476b",
+      "part-of-speech": "noun",
+      "english": "time; weather",
+      "hungarian": "idő",
+      "cefr": "A1",
+      "ipa": "[ˈidøː]",
+      "countability": "mass",
+      "context": "Milyen idő van?: What's the weather like?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4ee8d29-6d3d-4418-ac91-9d959ec3c4e9",
+      "part-of-speech": "noun",
+      "english": "year",
+      "hungarian": "év",
+      "plural": "évek",
+      "cefr": "A1",
+      "ipa": "[eːv]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f69289d8-1ff9-48bc-83b4-d356279ab8ba",
+      "part-of-speech": "noun",
+      "english": "month",
+      "hungarian": "hónap",
+      "plural": "hónapok",
+      "cefr": "A1",
+      "ipa": "[ˈhoːnɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4be8fb0-a565-4299-9d59-bd3b7382d90f",
+      "part-of-speech": "noun",
+      "english": "week",
+      "hungarian": "hét",
+      "plural": "hetek",
+      "cefr": "A1",
+      "ipa": "[heːt]",
+      "context": "also the number seven",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5dd0dd3-251c-4101-b3ff-86600a4aba6b",
+      "part-of-speech": "noun",
+      "english": "day; sun",
+      "hungarian": "nap",
+      "plural": "napok",
+      "cefr": "A1",
+      "ipa": "[nɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "604e88f2-28e6-40c0-8168-dbfb3f92aded",
+      "part-of-speech": "noun",
+      "english": "hour; clock, watch; lesson",
+      "hungarian": "óra",
+      "plural": "órák",
+      "cefr": "A1",
+      "ipa": "[ˈoːrɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb62e319-fb87-4506-b965-55e66faa250d",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "hungarian": "perc",
+      "plural": "percek",
+      "cefr": "A1",
+      "ipa": "[pɛrts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8e591b6-15ae-4df9-b6c5-4aa7017bb590",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "hungarian": "reggel",
+      "plural": "reggelek",
+      "cefr": "A1",
+      "ipa": "[ˈrɛɡːɛl]",
+      "context": "also an adverb: in the morning",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a4e8dea-222d-4981-94d5-b609672daf5e",
+      "part-of-speech": "noun",
+      "english": "late morning (before noon)",
+      "hungarian": "délelőtt",
+      "plural": "délelőttök",
+      "cefr": "A2",
+      "ipa": "[ˈdeːlɛløːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18223fec-8f04-480c-8ab3-41ff764fbea6",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "hungarian": "délután",
+      "plural": "délutánok",
+      "cefr": "A1",
+      "ipa": "[ˈdeːlutaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "121d93c1-0777-46c6-8e5d-dbe852cafe92",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "hungarian": "este",
+      "plural": "esték",
+      "cefr": "A1",
+      "ipa": "[ˈɛʃtɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d1defa0-3383-4b92-91c0-e79c478512d2",
+      "part-of-speech": "noun",
+      "english": "night",
+      "hungarian": "éjszaka",
+      "plural": "éjszakák",
+      "cefr": "A1",
+      "ipa": "[ˈeːjsɒkɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb5c08c6-4e28-4453-813a-df01442249d3",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "hungarian": "hétvége",
+      "plural": "hétvégék",
+      "cefr": "A1",
+      "ipa": "[ˈheːtveːɡɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea444e63-9313-466f-a526-77a5c4dcdd90",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "hungarian": "hétfő",
+      "cefr": "A1",
+      "ipa": "[ˈheːtføː]",
+      "context": "days and months are written with a small letter",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17b785fd-4fcf-4533-b142-af0a9f0e5f80",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "hungarian": "kedd",
+      "cefr": "A1",
+      "ipa": "[kɛd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab60873a-c0ff-4319-90d2-2474768f74a6",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "hungarian": "szerda",
+      "cefr": "A1",
+      "ipa": "[ˈsɛrdɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e135ea68-c739-4ca8-af02-9182d0bf7135",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "hungarian": "csütörtök",
+      "cefr": "A1",
+      "ipa": "[ˈtʃytørtøk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa4c39e-fdde-4e19-8511-798f856e4fec",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "hungarian": "péntek",
+      "cefr": "A1",
+      "ipa": "[ˈpeːntɛk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c541d2a9-0da1-471f-987e-2cb52a2981d7",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "hungarian": "szombat",
+      "cefr": "A1",
+      "ipa": "[ˈsombɒt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c97e585a-33a2-4e6f-902e-ea9a46b790b2",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "hungarian": "vasárnap",
+      "cefr": "A1",
+      "ipa": "[ˈvɒʃaːrnɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c85e3ba8-565b-434e-9427-d23e3c09c0b5",
+      "part-of-speech": "noun",
+      "english": "January",
+      "hungarian": "január",
+      "cefr": "A1",
+      "ipa": "[ˈjɒnuaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caa722db-38f8-444d-9b75-d76007cd42b9",
+      "part-of-speech": "noun",
+      "english": "February",
+      "hungarian": "február",
+      "cefr": "A1",
+      "ipa": "[ˈfɛbruaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8bc018e-8b8d-4158-a306-e9aa5e50ed0f",
+      "part-of-speech": "noun",
+      "english": "March",
+      "hungarian": "március",
+      "cefr": "A1",
+      "ipa": "[ˈmaːrtsiuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dd77301-3302-42d7-8c98-077df263b931",
+      "part-of-speech": "noun",
+      "english": "April",
+      "hungarian": "április",
+      "cefr": "A1",
+      "ipa": "[ˈaːpriliʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96fbb971-60af-433d-a8d3-38a9ed1526fc",
+      "part-of-speech": "noun",
+      "english": "May",
+      "hungarian": "május",
+      "cefr": "A1",
+      "ipa": "[ˈmaːjuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad0d5e53-d562-422f-96fb-30b4c8b75887",
+      "part-of-speech": "noun",
+      "english": "June",
+      "hungarian": "június",
+      "cefr": "A1",
+      "ipa": "[ˈjuːniuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c41552b9-c902-40c1-a6be-c1ae77b16285",
+      "part-of-speech": "noun",
+      "english": "July",
+      "hungarian": "július",
+      "cefr": "A1",
+      "ipa": "[ˈjuːliuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b246e58-4132-4436-a4f7-7310fcaf961c",
+      "part-of-speech": "noun",
+      "english": "August",
+      "hungarian": "augusztus",
+      "cefr": "A1",
+      "ipa": "[ˈɒuɡustuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ab241b0-ffb4-489d-b87c-68959616c95e",
+      "part-of-speech": "noun",
+      "english": "September",
+      "hungarian": "szeptember",
+      "cefr": "A1",
+      "ipa": "[ˈsɛptɛmbɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe83aa3d-d1d5-4d14-b059-a3bb486e09fc",
+      "part-of-speech": "noun",
+      "english": "October",
+      "hungarian": "október",
+      "cefr": "A1",
+      "ipa": "[ˈoktoːbɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5cd106f-47fb-4488-acb3-7ee532abb1ab",
+      "part-of-speech": "noun",
+      "english": "November",
+      "hungarian": "november",
+      "cefr": "A1",
+      "ipa": "[ˈnovɛmbɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e943381-d155-4bb2-b384-bb1864165cae",
+      "part-of-speech": "noun",
+      "english": "December",
+      "hungarian": "december",
+      "cefr": "A1",
+      "ipa": "[ˈdɛtsɛmbɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae533af8-c7f2-4226-9520-1dafebf7eaef",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "hungarian": "tavasz",
+      "cefr": "A1",
+      "ipa": "[ˈtɒvɒs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84f90fdf-a1f3-43c3-ad3a-8191eb6180da",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "hungarian": "nyár",
+      "plural": "nyarak",
+      "cefr": "A1",
+      "ipa": "[ɲaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28536faf-78a7-405f-9ebb-cd8c2bca2f13",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "hungarian": "ősz",
+      "cefr": "A1",
+      "ipa": "[øːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f5abafb-52a9-4ea5-be26-7ee74876c032",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "hungarian": "tél",
+      "plural": "telek",
+      "cefr": "A1",
+      "ipa": "[teːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5043a7f2-0929-494b-bd0c-480fe31a7a31",
+      "part-of-speech": "noun",
+      "english": "head",
+      "hungarian": "fej",
+      "plural": "fejek",
+      "cefr": "A1",
+      "ipa": "[fɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcdfd0ea-ba17-4b2b-bf69-569150e11790",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "hungarian": "szem",
+      "plural": "szemek",
+      "cefr": "A1",
+      "ipa": "[sɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7c45453-a88b-4496-b2c0-c099e9e6ba69",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "hungarian": "fül",
+      "plural": "fülek",
+      "cefr": "A1",
+      "ipa": "[fyl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44efcabb-13e0-42b4-bf14-e79fe5f61fd0",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "hungarian": "orr",
+      "plural": "orrok",
+      "cefr": "A1",
+      "ipa": "[orː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b23d2f50-aaee-4379-8cb1-6113491583a4",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "hungarian": "száj",
+      "plural": "szájak",
+      "cefr": "A1",
+      "ipa": "[saːj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48fdae4b-c59f-4b82-b002-e95f13046aae",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "hungarian": "fog",
+      "plural": "fogak",
+      "cefr": "A1",
+      "ipa": "[foɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d5fdd6a-9b33-4ece-9a9a-a4478d4323ec",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "hungarian": "kéz",
+      "plural": "kezek",
+      "cefr": "A1",
+      "ipa": "[keːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4f157d1-eaa1-4a96-9007-71aa578fb113",
+      "part-of-speech": "noun",
+      "english": "arm",
+      "hungarian": "kar",
+      "plural": "karok",
+      "cefr": "A1",
+      "ipa": "[kɒr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bb3c0ee-1172-4946-8734-82fa6a4f6714",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "hungarian": "láb",
+      "plural": "lábak",
+      "cefr": "A1",
+      "ipa": "[laːb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81b61c29-6667-49c7-aa1a-70ec26f3b947",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "hungarian": "szív",
+      "plural": "szívek",
+      "cefr": "A2",
+      "ipa": "[siːv]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd23053e-1b3a-49bc-ae71-da118df3c901",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "hungarian": "haj",
+      "cefr": "A1",
+      "ipa": "[hɒj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25649f8e-d86e-4a47-85c3-15946ab9fe76",
+      "part-of-speech": "noun",
+      "english": "face",
+      "hungarian": "arc",
+      "plural": "arcok",
+      "cefr": "A2",
+      "ipa": "[ɒrts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "049fcaa1-c1e7-45e8-af09-a983ba07016b",
+      "part-of-speech": "noun",
+      "english": "body",
+      "hungarian": "test",
+      "plural": "testek",
+      "cefr": "A2",
+      "ipa": "[tɛʃt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d385f316-d102-4dee-b7d5-930e5ce66e75",
+      "part-of-speech": "noun",
+      "english": "finger",
+      "hungarian": "ujj",
+      "plural": "ujjak",
+      "cefr": "A2",
+      "ipa": "[ujː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8021d63d-0613-45ff-b0b8-9e09efb2932b",
+      "part-of-speech": "noun",
+      "english": "back",
+      "hungarian": "hát",
+      "plural": "hátak",
+      "cefr": "A2",
+      "ipa": "[haːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85e9e434-1774-45ca-884c-298e45f3d6ab",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "hungarian": "kenyér",
+      "cefr": "A1",
+      "ipa": "[ˈkɛɲeːr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4184f8b-ce70-49bd-a16c-1576c413bc2a",
+      "part-of-speech": "noun",
+      "english": "water",
+      "hungarian": "víz",
+      "cefr": "A1",
+      "ipa": "[viːz]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99817ef1-00f1-46c4-9598-94119d2704cf",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "hungarian": "tej",
+      "cefr": "A1",
+      "ipa": "[tɛj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6322221b-7437-47bc-8ad2-71d9ea2ea4bf",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "hungarian": "kávé",
+      "cefr": "A1",
+      "ipa": "[ˈkaːveː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d4148ad-564c-42bf-9f09-1c9fe483e5d5",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "hungarian": "tea",
+      "cefr": "A1",
+      "ipa": "[ˈtɛɒ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cec979b-b72e-44ed-b58f-5d7b53a130be",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "hungarian": "sör",
+      "cefr": "A1",
+      "ipa": "[ʃør]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d45c837d-b233-4c5d-be4d-af8363681191",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "hungarian": "bor",
+      "cefr": "A1",
+      "ipa": "[bor]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aa048b8-4bf8-4a22-942c-b24dd6c943b5",
+      "part-of-speech": "noun",
+      "english": "fruit juice",
+      "hungarian": "gyümölcslé",
+      "cefr": "A2",
+      "ipa": "[ˈɟymøltʃleː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c25ddc02-5adc-4394-b3ea-2e779fcb7cd1",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "hungarian": "hús",
+      "cefr": "A1",
+      "ipa": "[huːʃ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fa1b19f-93ba-47cc-a852-53d099d2d378",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "hungarian": "hal",
+      "plural": "halak",
+      "cefr": "A1",
+      "ipa": "[hɒl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "838f6dc4-95f1-4341-a554-64d9ceb674f5",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "hungarian": "csirke",
+      "plural": "csirkék",
+      "cefr": "A1",
+      "ipa": "[ˈtʃirkɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c5bcf2c-3b39-432b-ac21-21f0202f5b24",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "hungarian": "sajt",
+      "cefr": "A1",
+      "ipa": "[ʃɒjt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1bbf55d-73bc-49b9-a063-6213024bd0b4",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "hungarian": "tojás",
+      "plural": "tojások",
+      "cefr": "A1",
+      "ipa": "[ˈtojaːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a63285f-1a74-4af8-886a-5f1fb17fe5b0",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "hungarian": "alma",
+      "plural": "almák",
+      "cefr": "A1",
+      "ipa": "[ˈɒlmɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12caa008-e8e9-4b70-bc6b-4cbf2fc243e4",
+      "part-of-speech": "noun",
+      "english": "orange",
+      "hungarian": "narancs",
+      "plural": "narancsok",
+      "cefr": "A1",
+      "ipa": "[ˈnɒrɒntʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3187327-ec2f-4cd5-bd76-c5b22c8bc3fc",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "hungarian": "paradicsom",
+      "plural": "paradicsomok",
+      "cefr": "A1",
+      "ipa": "[ˈpɒrɒditʃom]",
+      "context": "also: paradise",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82d76fc7-b69d-42e1-be8c-c25b919bfe52",
+      "part-of-speech": "noun",
+      "english": "pepper (vegetable); paprika",
+      "hungarian": "paprika",
+      "plural": "paprikák",
+      "cefr": "A1",
+      "ipa": "[ˈpɒprikɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4d3c8b2-dba4-4f60-a2cf-037972512a70",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "hungarian": "gyümölcs",
+      "plural": "gyümölcsök",
+      "cefr": "A1",
+      "ipa": "[ˈɟymøltʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63d81c25-b47a-4389-8f14-9c20f6901802",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "hungarian": "zöldség",
+      "plural": "zöldségek",
+      "cefr": "A1",
+      "ipa": "[ˈzøltʃeːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57d01834-1c31-4ee0-92cd-bc9be7991ce6",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "hungarian": "krumpli",
+      "plural": "krumplik",
+      "cefr": "A1",
+      "ipa": "[ˈkrumpli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bd9cd9c-d685-4324-8ce6-0ab0a8987b02",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "hungarian": "rizs",
+      "cefr": "A1",
+      "ipa": "[riʒ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "966f4036-4f62-4556-a022-a8f591523792",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "hungarian": "leves",
+      "plural": "levesek",
+      "cefr": "A1",
+      "ipa": "[ˈlɛvɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06751a84-b9c5-492a-96d5-31f2d15a07f4",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "hungarian": "cukor",
+      "cefr": "A1",
+      "ipa": "[ˈtsukor]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c392ae8-4629-4e22-a680-19ad4342e3f2",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "hungarian": "só",
+      "cefr": "A1",
+      "ipa": "[ʃoː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c621d21f-fdb7-40b3-99ef-b3ca5ab8a956",
+      "part-of-speech": "noun",
+      "english": "oil",
+      "hungarian": "olaj",
+      "cefr": "A2",
+      "ipa": "[ˈolɒj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a96ccb9-ecd6-40c3-a576-396ec73f5fa2",
+      "part-of-speech": "noun",
+      "english": "salad; lettuce",
+      "hungarian": "saláta",
+      "plural": "saláták",
+      "cefr": "A1",
+      "ipa": "[ˈʃɒlaːtɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "114b073b-3de5-44aa-8240-6e3f193b9b55",
+      "part-of-speech": "noun",
+      "english": "cake, pastry",
+      "hungarian": "sütemény",
+      "plural": "sütemények",
+      "cefr": "A1",
+      "ipa": "[ˈʃytɛmeːɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6279ba8c-f6e7-4bd2-82e8-df9d97934f1d",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "hungarian": "reggeli",
+      "plural": "reggelik",
+      "cefr": "A1",
+      "ipa": "[ˈrɛɡːɛli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "731c391e-a613-4700-980c-f3f01c4988a7",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "hungarian": "ebéd",
+      "plural": "ebédek",
+      "cefr": "A1",
+      "ipa": "[ˈɛbeːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86ed4ccf-0b96-4c4e-a671-ec22af80a68d",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "hungarian": "vacsora",
+      "plural": "vacsorák",
+      "cefr": "A1",
+      "ipa": "[ˈvɒtʃorɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "218be7d4-5e2a-4412-8ef9-d91e04d70952",
+      "part-of-speech": "noun",
+      "english": "food, dish",
+      "hungarian": "étel",
+      "plural": "ételek",
+      "cefr": "A1",
+      "ipa": "[ˈeːtɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3514f6a4-3211-41e0-bd04-d4979c037781",
+      "part-of-speech": "noun",
+      "english": "menu",
+      "hungarian": "étlap",
+      "plural": "étlapok",
+      "cefr": "A2",
+      "ipa": "[ˈeːtlɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eb03384-4baa-470f-9e8f-de06c5de9206",
+      "part-of-speech": "noun",
+      "english": "bill; invoice",
+      "hungarian": "számla",
+      "plural": "számlák",
+      "cefr": "A2",
+      "ipa": "[ˈsaːmlɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98960cc5-32bc-4ead-906b-d87203f174d5",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "hungarian": "pohár",
+      "plural": "poharak",
+      "cefr": "A1",
+      "ipa": "[ˈpohaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7af3ac77-bda7-4031-9535-356b497ce8af",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "hungarian": "tányér",
+      "plural": "tányérok",
+      "cefr": "A2",
+      "ipa": "[ˈtaːɲeːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "595765c0-41f7-4ac6-bb14-c64cf1ce23d7",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "hungarian": "kés",
+      "plural": "kések",
+      "cefr": "A2",
+      "ipa": "[keːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6de83eb2-560a-4df8-8bff-9e5cea55a1c0",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "hungarian": "villa",
+      "plural": "villák",
+      "cefr": "A2",
+      "ipa": "[ˈvilːɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbde7535-c45d-4156-9e4b-0687150fae79",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "hungarian": "kanál",
+      "plural": "kanalak",
+      "cefr": "A2",
+      "ipa": "[ˈkɒnaːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecfe4a6b-4f33-40e6-a3ce-b554c7ffa585",
+      "part-of-speech": "noun",
+      "english": "bottle; glass (the material)",
+      "hungarian": "üveg",
+      "plural": "üvegek",
+      "cefr": "A2",
+      "ipa": "[ˈyvɛɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18ec9aee-9e91-4bf1-ad24-6313c656cafb",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "hungarian": "csésze",
+      "plural": "csészék",
+      "cefr": "A2",
+      "ipa": "[ˈtʃeːsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "756ef532-db9d-4bb2-a6e3-3ed9505fc13e",
+      "part-of-speech": "noun",
+      "english": "goulash (beef soup)",
+      "hungarian": "gulyás",
+      "plural": "gulyások",
+      "cefr": "A1",
+      "ipa": "[ˈɡujaːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69eadcfd-c023-42d2-b856-7a5696f1030f",
+      "part-of-speech": "noun",
+      "english": "fruit brandy",
+      "hungarian": "pálinka",
+      "cefr": "A2",
+      "ipa": "[ˈpaːliŋkɒ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d90a1d1a-26e2-4e81-908d-b14efd76ded7",
+      "part-of-speech": "noun",
+      "english": "house",
+      "hungarian": "ház",
+      "plural": "házak",
+      "cefr": "A1",
+      "ipa": "[haːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fef1d30f-6988-4289-b80a-55f08e95b47b",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "hungarian": "lakás",
+      "plural": "lakások",
+      "cefr": "A1",
+      "ipa": "[ˈlɒkaːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95e97b93-97de-4278-adad-3104bcc70854",
+      "part-of-speech": "noun",
+      "english": "room",
+      "hungarian": "szoba",
+      "plural": "szobák",
+      "cefr": "A1",
+      "ipa": "[ˈsobɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ac73869-0b4a-4a5b-914b-623dafa53c8b",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "hungarian": "konyha",
+      "plural": "konyhák",
+      "cefr": "A1",
+      "ipa": "[ˈkoɲhɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72e208ca-5cc9-4f21-8795-7a20f49cc8ea",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "hungarian": "fürdőszoba",
+      "plural": "fürdőszobák",
+      "cefr": "A1",
+      "ipa": "[ˈfyrdøːsobɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "126be986-b671-48ea-b43a-5e4aa212f461",
+      "part-of-speech": "noun",
+      "english": "door",
+      "hungarian": "ajtó",
+      "plural": "ajtók",
+      "cefr": "A1",
+      "ipa": "[ˈɒjtoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1787d53b-de50-433a-a24e-db3ad1ee1601",
+      "part-of-speech": "noun",
+      "english": "window",
+      "hungarian": "ablak",
+      "plural": "ablakok",
+      "cefr": "A1",
+      "ipa": "[ˈɒblɒk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39740267-0324-4a65-a1c9-588280d6ca48",
+      "part-of-speech": "noun",
+      "english": "table",
+      "hungarian": "asztal",
+      "plural": "asztalok",
+      "cefr": "A1",
+      "ipa": "[ˈɒstɒl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30a9ad1c-e993-417c-b313-dc2833d89bda",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "hungarian": "szék",
+      "plural": "székek",
+      "cefr": "A1",
+      "ipa": "[seːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "270173ae-4fb2-4a89-999e-c99a4dc4a13b",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "hungarian": "ágy",
+      "plural": "ágyak",
+      "cefr": "A1",
+      "ipa": "[aːɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca4e424b-930c-42d4-b783-1834a04e807a",
+      "part-of-speech": "noun",
+      "english": "key",
+      "hungarian": "kulcs",
+      "plural": "kulcsok",
+      "cefr": "A1",
+      "ipa": "[kultʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ae07dab-3164-4ee3-89cb-608e1a96eb3e",
+      "part-of-speech": "noun",
+      "english": "wall",
+      "hungarian": "fal",
+      "plural": "falak",
+      "cefr": "A2",
+      "ipa": "[fɒl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "133e9e10-d60b-43ef-abc8-d5c40bb40029",
+      "part-of-speech": "noun",
+      "english": "floor",
+      "hungarian": "padló",
+      "plural": "padlók",
+      "cefr": "A2",
+      "ipa": "[ˈpɒdloː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbebcb3a-912c-48a3-8a62-7605a7dcfdab",
+      "part-of-speech": "noun",
+      "english": "floor, storey",
+      "hungarian": "emelet",
+      "plural": "emeletek",
+      "cefr": "A2",
+      "ipa": "[ˈɛmɛlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee40e114-d7f5-4a89-8852-97b3536d1636",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "hungarian": "kert",
+      "plural": "kertek",
+      "cefr": "A1",
+      "ipa": "[kɛrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79956a15-7f8a-48dd-9ed4-e9cc5e7e6542",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "hungarian": "város",
+      "plural": "városok",
+      "cefr": "A1",
+      "ipa": "[ˈvaːroʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d13ec51-ce21-46c5-8c00-eedc8940e882",
+      "part-of-speech": "noun",
+      "english": "village",
+      "hungarian": "falu",
+      "plural": "falvak",
+      "cefr": "A1",
+      "ipa": "[ˈfɒlu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "047a34f9-3c9f-40fb-862a-be685a7cf2c7",
+      "part-of-speech": "noun",
+      "english": "place; seat",
+      "hungarian": "hely",
+      "plural": "helyek",
+      "cefr": "A1",
+      "ipa": "[hɛj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91c8e23f-4207-4e39-aaec-7548341ad15a",
+      "part-of-speech": "noun",
+      "english": "street",
+      "hungarian": "utca",
+      "plural": "utcák",
+      "cefr": "A1",
+      "ipa": "[ˈutsːɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca2b9310-6bdc-4cf4-a062-13dbc84441c2",
+      "part-of-speech": "noun",
+      "english": "country",
+      "hungarian": "ország",
+      "plural": "országok",
+      "cefr": "A1",
+      "ipa": "[ˈorsaːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8594bfd3-d092-4185-bb14-438d06181ae5",
+      "part-of-speech": "noun",
+      "english": "earth; ground, land",
+      "hungarian": "föld",
+      "plural": "földek",
+      "cefr": "A2",
+      "ipa": "[føld]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13b9989d-23ac-4b91-a767-baf6f3bbf897",
+      "part-of-speech": "noun",
+      "english": "world",
+      "hungarian": "világ",
+      "plural": "világok",
+      "cefr": "A2",
+      "ipa": "[ˈvilaːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f845c6ab-025b-450f-8c94-45eb7430d6f4",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "hungarian": "tenger",
+      "plural": "tengerek",
+      "cefr": "A1",
+      "ipa": "[ˈtɛŋɡɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00634dca-2a0a-4918-810d-d01db6d22e6f",
+      "part-of-speech": "noun",
+      "english": "river",
+      "hungarian": "folyó",
+      "plural": "folyók",
+      "cefr": "A1",
+      "ipa": "[ˈfojoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7b3fa0d-c846-485c-aebc-b6aea009a8d3",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "hungarian": "hegy",
+      "plural": "hegyek",
+      "cefr": "A1",
+      "ipa": "[hɛɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9fe84f2-7c16-42cd-8d76-e48fabaacc9e",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "hungarian": "tó",
+      "plural": "tavak",
+      "cefr": "A1",
+      "ipa": "[toː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e0efaa0-0902-4b3f-a9e4-52e5b5bc2208",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "hungarian": "erdő",
+      "plural": "erdők",
+      "cefr": "A1",
+      "ipa": "[ˈɛrdøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f36d31e-21c5-45ba-8b60-405a6b97813f",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "hungarian": "ég",
+      "plural": "egek",
+      "cefr": "A2",
+      "ipa": "[eːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b81fe2d8-4a03-482f-b904-af34d56bd6f7",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "hungarian": "eső",
+      "plural": "esők",
+      "cefr": "A1",
+      "ipa": "[ˈɛʃøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59157643-6514-4dbe-8302-39fd80bf12b7",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "hungarian": "hó",
+      "cefr": "A1",
+      "ipa": "[hoː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3a33577-3d94-4f4d-86cb-9316b2e97c91",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "hungarian": "szél",
+      "plural": "szelek",
+      "cefr": "A2",
+      "ipa": "[seːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2461d88e-1039-4105-a666-984b75917404",
+      "part-of-speech": "noun",
+      "english": "air",
+      "hungarian": "levegő",
+      "cefr": "A2",
+      "ipa": "[ˈlɛvɛɡøː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56f19ff0-00c0-479d-b5af-71a62bc37b18",
+      "part-of-speech": "noun",
+      "english": "tree; wood",
+      "hungarian": "fa",
+      "plural": "fák",
+      "cefr": "A1",
+      "ipa": "[fɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "069f66eb-c9ab-4fa0-b7c4-36db5af2b8fa",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "hungarian": "virág",
+      "plural": "virágok",
+      "cefr": "A1",
+      "ipa": "[ˈviraːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4e8dcea-bff8-4ee4-a732-de2ed22a9515",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "hungarian": "kutya",
+      "plural": "kutyák",
+      "cefr": "A1",
+      "ipa": "[ˈkucɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eed8316-97e0-4463-b4be-051c051f0ad1",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "hungarian": "macska",
+      "plural": "macskák",
+      "cefr": "A1",
+      "ipa": "[ˈmɒtʃkɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0799c665-aa92-4689-a2aa-86d0230cccd3",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "hungarian": "ló",
+      "plural": "lovak",
+      "cefr": "A2",
+      "ipa": "[loː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53c4cd7a-af46-47b9-9b12-0ef5b8a05086",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "hungarian": "madár",
+      "plural": "madarak",
+      "cefr": "A2",
+      "ipa": "[ˈmɒdaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "990b5104-fc8f-463b-ae85-d3f1dea62773",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "hungarian": "tehén",
+      "plural": "tehenek",
+      "cefr": "A2",
+      "ipa": "[ˈtɛheːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22ade78e-a120-477d-9e70-19b2569bd7c5",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "hungarian": "bolt",
+      "plural": "boltok",
+      "cefr": "A1",
+      "ipa": "[bolt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "311c6158-d567-4a33-8c3a-be0cbcf28821",
+      "part-of-speech": "noun",
+      "english": "market",
+      "hungarian": "piac",
+      "plural": "piacok",
+      "cefr": "A2",
+      "ipa": "[ˈpiɒts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02b227c7-96f6-48f3-bb59-6834b883e028",
+      "part-of-speech": "noun",
+      "english": "school",
+      "hungarian": "iskola",
+      "plural": "iskolák",
+      "cefr": "A1",
+      "ipa": "[ˈiʃkolɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b8af4e3-fc8d-4056-89c8-d0e99c39578f",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "hungarian": "kórház",
+      "plural": "kórházak",
+      "cefr": "A1",
+      "ipa": "[ˈkoːrhaːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31694a69-46c7-4e48-a189-3671d0188ea0",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "hungarian": "bank",
+      "plural": "bankok",
+      "cefr": "A1",
+      "ipa": "[bɒŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "789809cf-031a-46ac-8f86-a08a5b1268b0",
+      "part-of-speech": "noun",
+      "english": "post office; post",
+      "hungarian": "posta",
+      "plural": "posták",
+      "cefr": "A1",
+      "ipa": "[ˈpoʃtɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86209785-5b22-4f76-8223-5c8457f650fc",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "hungarian": "étterem",
+      "plural": "éttermek",
+      "cefr": "A1",
+      "ipa": "[ˈeːtːɛrɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da94757e-128f-4bc0-ab29-683414c1e37b",
+      "part-of-speech": "noun",
+      "english": "café",
+      "hungarian": "kávézó",
+      "plural": "kávézók",
+      "cefr": "A1",
+      "ipa": "[ˈkaːveːzoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad88d80b-2f77-45ff-aae2-e48713bbbdea",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "hungarian": "szálloda",
+      "plural": "szállodák",
+      "cefr": "A1",
+      "ipa": "[ˈsaːlːodɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5feaf0e1-ae98-40de-b8d2-2447dbb29f7c",
+      "part-of-speech": "noun",
+      "english": "church",
+      "hungarian": "templom",
+      "plural": "templomok",
+      "cefr": "A2",
+      "ipa": "[ˈtɛmplom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c8ae3ae-b379-407e-9936-0ffb444ce5a3",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "hungarian": "mozi",
+      "plural": "mozik",
+      "cefr": "A1",
+      "ipa": "[ˈmozi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc48cccb-5168-4a45-ab6b-33cb5bfc34e3",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "hungarian": "múzeum",
+      "plural": "múzeumok",
+      "cefr": "A2",
+      "ipa": "[ˈmuːzɛum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef850a18-83fc-4554-9640-baed672cd8fa",
+      "part-of-speech": "noun",
+      "english": "park",
+      "hungarian": "park",
+      "plural": "parkok",
+      "cefr": "A1",
+      "ipa": "[pɒrk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0324d090-bd14-4e1c-aeb3-fca2b190e573",
+      "part-of-speech": "noun",
+      "english": "office",
+      "hungarian": "iroda",
+      "plural": "irodák",
+      "cefr": "A1",
+      "ipa": "[ˈirodɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c16de938-5703-4eaa-b163-47a12629a168",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "hungarian": "munka",
+      "plural": "munkák",
+      "cefr": "A1",
+      "ipa": "[ˈmuŋkɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed845ef0-e8ec-47ae-a88b-0b172bf6a361",
+      "part-of-speech": "noun",
+      "english": "money",
+      "hungarian": "pénz",
+      "cefr": "A1",
+      "ipa": "[peːnz]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cb4398a-78be-43a4-aa1c-4f4075b156e7",
+      "part-of-speech": "noun",
+      "english": "price",
+      "hungarian": "ár",
+      "plural": "árak",
+      "cefr": "A2",
+      "ipa": "[aːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97ee9539-7185-4e70-be3e-ffacc8ffe881",
+      "part-of-speech": "noun",
+      "english": "station",
+      "hungarian": "állomás",
+      "plural": "állomások",
+      "cefr": "A1",
+      "ipa": "[ˈaːlːomaːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf092cb3-9ce3-4033-950e-788202d03983",
+      "part-of-speech": "noun",
+      "english": "stop (bus, tram)",
+      "hungarian": "megálló",
+      "plural": "megállók",
+      "cefr": "A2",
+      "ipa": "[ˈmɛɡaːlːoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cae6554-c464-487e-b857-80fa16059d12",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "hungarian": "repülőtér",
+      "plural": "repülőterek",
+      "cefr": "A2",
+      "ipa": "[ˈrɛpyløːteːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ca1cff8-3a78-4f84-9a04-7027ae51d25b",
+      "part-of-speech": "noun",
+      "english": "train",
+      "hungarian": "vonat",
+      "plural": "vonatok",
+      "cefr": "A1",
+      "ipa": "[ˈvonɒt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60d927bd-2fd7-4bbf-a1a1-2c68b2aaf55c",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "hungarian": "busz",
+      "plural": "buszok",
+      "cefr": "A1",
+      "ipa": "[bus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b60393e-2323-4686-be6e-70dfbb931d21",
+      "part-of-speech": "noun",
+      "english": "car",
+      "hungarian": "autó",
+      "plural": "autók",
+      "cefr": "A1",
+      "ipa": "[ˈɒutoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6857c53-7af6-403e-bd2c-89be48df0add",
+      "part-of-speech": "noun",
+      "english": "tram",
+      "hungarian": "villamos",
+      "plural": "villamosok",
+      "cefr": "A1",
+      "ipa": "[ˈvilːɒmoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d9deb27-18d0-4a1b-a3d1-36008664e440",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "hungarian": "repülőgép",
+      "plural": "repülőgépek",
+      "cefr": "A1",
+      "ipa": "[ˈrɛpyløːɡeːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d8d26a9-19c8-4b3a-9d03-c846a03e7292",
+      "part-of-speech": "noun",
+      "english": "ship, boat",
+      "hungarian": "hajó",
+      "plural": "hajók",
+      "cefr": "A2",
+      "ipa": "[ˈhɒjoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "187d7ab3-7b15-4a46-bd23-b250123356b4",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "hungarian": "bicikli",
+      "plural": "biciklik",
+      "cefr": "A1",
+      "ipa": "[ˈbitsikli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "767caad9-1912-4380-85ff-f1bf96252031",
+      "part-of-speech": "noun",
+      "english": "ticket; mark, grade",
+      "hungarian": "jegy",
+      "plural": "jegyek",
+      "cefr": "A1",
+      "ipa": "[jɛɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "758cbce6-d9e3-4b9f-8af4-3330ba528d88",
+      "part-of-speech": "noun",
+      "english": "map",
+      "hungarian": "térkép",
+      "plural": "térképek",
+      "cefr": "A2",
+      "ipa": "[ˈteːrkeːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de5e1b64-8c07-469e-83dc-6f2376341e10",
+      "part-of-speech": "noun",
+      "english": "road, way; journey",
+      "hungarian": "út",
+      "plural": "utak",
+      "cefr": "A1",
+      "ipa": "[uːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d50e6d2-496c-4ab8-9aae-0ce8982bdebc",
+      "part-of-speech": "noun",
+      "english": "dress; (plural) clothes",
+      "hungarian": "ruha",
+      "plural": "ruhák",
+      "cefr": "A1",
+      "ipa": "[ˈruhɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "693cc936-a551-42a5-acf7-68ff4fa99086",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "hungarian": "ing",
+      "plural": "ingek",
+      "cefr": "A1",
+      "ipa": "[iŋɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7610d072-2661-448f-8a39-07b325b9eb0a",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "hungarian": "nadrág",
+      "plural": "nadrágok",
+      "cefr": "A1",
+      "ipa": "[ˈnɒdraːɡ]",
+      "context": "singular in Hungarian: egy nadrág",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77be7c5f-5b27-4b05-8b13-99957debf414",
+      "part-of-speech": "noun",
+      "english": "shoe; shoes",
+      "hungarian": "cipő",
+      "plural": "cipők",
+      "cefr": "A1",
+      "ipa": "[ˈtsipøː]",
+      "context": "a pair of shoes is usually just cipő",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac6ff79c-1c6f-4262-837e-59bcde11a26b",
+      "part-of-speech": "noun",
+      "english": "coat",
+      "hungarian": "kabát",
+      "plural": "kabátok",
+      "cefr": "A2",
+      "ipa": "[ˈkɒbaːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9497a42a-aebd-425f-a009-a85904b2c46d",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "hungarian": "kalap",
+      "plural": "kalapok",
+      "cefr": "A2",
+      "ipa": "[ˈkɒlɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a11837ab-92a7-4144-9075-37e18e61e18c",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "hungarian": "táska",
+      "plural": "táskák",
+      "cefr": "A1",
+      "ipa": "[ˈtaːʃkɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b12ef2b2-c4c2-418e-b568-90856d5c3a7f",
+      "part-of-speech": "noun",
+      "english": "book",
+      "hungarian": "könyv",
+      "plural": "könyvek",
+      "cefr": "A1",
+      "ipa": "[køɲv]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8af012e-3e2f-4d96-aed3-8465110eb2cf",
+      "part-of-speech": "noun",
+      "english": "pen; feather",
+      "hungarian": "toll",
+      "plural": "tollak",
+      "cefr": "A1",
+      "ipa": "[tolː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0a22551-82fb-42b4-996d-138a3cda36da",
+      "part-of-speech": "noun",
+      "english": "pencil",
+      "hungarian": "ceruza",
+      "plural": "ceruzák",
+      "cefr": "A1",
+      "ipa": "[ˈtsɛruzɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c5ee1b2-2129-4fed-bec2-a9663112dc37",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "hungarian": "papír",
+      "cefr": "A1",
+      "ipa": "[ˈpɒpiːr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4519cdf-ec27-4ff2-9891-5b761e69a758",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "hungarian": "telefon",
+      "plural": "telefonok",
+      "cefr": "A1",
+      "ipa": "[ˈtɛlɛfon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cee9752d-060f-41b4-b785-4218d7842ca6",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "hungarian": "számítógép",
+      "plural": "számítógépek",
+      "cefr": "A1",
+      "ipa": "[ˈsaːmiːtoːɡeːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab4d3d17-45f6-469e-ab13-281d59d99d40",
+      "part-of-speech": "noun",
+      "english": "letter; leaf",
+      "hungarian": "levél",
+      "plural": "levelek",
+      "cefr": "A2",
+      "ipa": "[ˈlɛveːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98cdeeb6-7cea-499e-b032-3ed061a2697b",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "hungarian": "újság",
+      "plural": "újságok",
+      "cefr": "A2",
+      "ipa": "[ˈuːjʃaːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29034d2d-97bc-4c14-a855-e3175a4a407e",
+      "part-of-speech": "noun",
+      "english": "question",
+      "hungarian": "kérdés",
+      "plural": "kérdések",
+      "cefr": "A1",
+      "ipa": "[ˈkeːrdeːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c62ba601-55b2-4333-9ba4-5a7f6979a0d9",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "hungarian": "válasz",
+      "plural": "válaszok",
+      "cefr": "A1",
+      "ipa": "[ˈvaːlɒs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90dd2b2e-cd50-4857-9d7c-f7b14c082789",
+      "part-of-speech": "noun",
+      "english": "word",
+      "hungarian": "szó",
+      "plural": "szavak",
+      "cefr": "A1",
+      "ipa": "[soː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46f8d51c-b2a7-4c82-aa35-4e1165f055a0",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "hungarian": "nyelv",
+      "plural": "nyelvek",
+      "cefr": "A1",
+      "ipa": "[ɲɛlv]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1118e8c1-36eb-4337-ad6a-1bd53435c82f",
+      "part-of-speech": "noun",
+      "english": "music",
+      "hungarian": "zene",
+      "cefr": "A1",
+      "ipa": "[ˈzɛnɛ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00bdf53e-ab80-4bc7-ad7b-fa89047a4d17",
+      "part-of-speech": "noun",
+      "english": "film",
+      "hungarian": "film",
+      "plural": "filmek",
+      "cefr": "A1",
+      "ipa": "[film]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee48be8a-e137-4e48-888a-d23597127b20",
+      "part-of-speech": "noun",
+      "english": "game; toy",
+      "hungarian": "játék",
+      "plural": "játékok",
+      "cefr": "A2",
+      "ipa": "[ˈjaːteːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb72fe58-699d-45b1-95d7-fc69946db084",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "hungarian": "sport",
+      "plural": "sportok",
+      "cefr": "A1",
+      "ipa": "[ʃport]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c64cb756-1623-4d18-8ce7-f6d810402f0b",
+      "part-of-speech": "noun",
+      "english": "ball",
+      "hungarian": "labda",
+      "plural": "labdák",
+      "cefr": "A2",
+      "ipa": "[ˈlɒbdɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9ccdae8-f4e7-41fb-a7aa-72ce6c7843f2",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "hungarian": "szín",
+      "plural": "színek",
+      "cefr": "A1",
+      "ipa": "[siːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11632b9b-8f8d-4723-9665-e2d70d8c0ea2",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "hungarian": "dolog",
+      "plural": "dolgok",
+      "cefr": "A1",
+      "ipa": "[ˈdoloɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56b76bb7-90c0-4d66-be85-307107cb110b",
+      "part-of-speech": "noun",
+      "english": "gift, present",
+      "hungarian": "ajándék",
+      "plural": "ajándékok",
+      "cefr": "A2",
+      "ipa": "[ˈɒjaːndeːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bfa2966-e912-4b9c-9fa0-2b57455d8001",
+      "part-of-speech": "noun",
+      "english": "holiday, time off; freedom",
+      "hungarian": "szabadság",
+      "plural": "szabadságok",
+      "cefr": "A2",
+      "ipa": "[ˈsɒbɒtʃːaːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c75230eb-20cc-4be3-a058-f662e984b2bb",
+      "part-of-speech": "noun",
+      "english": "holiday, festival",
+      "hungarian": "ünnep",
+      "plural": "ünnepek",
+      "cefr": "A2",
+      "ipa": "[ˈynːɛp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96002973-a5ba-4690-8797-52896bc5e121",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "hungarian": "születésnap",
+      "plural": "születésnapok",
+      "cefr": "A1",
+      "ipa": "[ˈsylɛteːʃnɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82d9b22a-08de-4005-bcde-cff22aa89df6",
+      "part-of-speech": "noun",
+      "english": "party",
+      "hungarian": "buli",
+      "plural": "bulik",
+      "cefr": "A2",
+      "ipa": "[ˈbuli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3a923cd-c5d3-40f1-8a92-1eb8be737829",
+      "part-of-speech": "noun",
+      "english": "match, game",
+      "hungarian": "meccs",
+      "plural": "meccsek",
+      "cefr": "A2",
+      "ipa": "[mɛtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d99f4b33-5184-4a86-94fe-7960ab33c662",
+      "part-of-speech": "noun",
+      "english": "news item",
+      "hungarian": "hír",
+      "plural": "hírek",
+      "cefr": "A2",
+      "ipa": "[hiːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d585509c-17df-48ae-aab7-df67d3ce3a0a",
+      "part-of-speech": "noun",
+      "english": "story",
+      "hungarian": "történet",
+      "plural": "történetek",
+      "cefr": "A2",
+      "ipa": "[ˈtørteːnɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7c03fa9-3fc1-443b-9307-35d9fc9fe1d9",
+      "part-of-speech": "noun",
+      "english": "song",
+      "hungarian": "dal",
+      "plural": "dalok",
+      "cefr": "A2",
+      "ipa": "[dɒl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8d4b2bc-2c6d-4b67-91a9-5da72b795b1a",
+      "part-of-speech": "noun",
+      "english": "picture",
+      "hungarian": "kép",
+      "plural": "képek",
+      "cefr": "A1",
+      "ipa": "[keːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c01b4a81-0ac5-4413-b8d6-f24c4b3a0b69",
+      "part-of-speech": "noun",
+      "english": "photograph",
+      "hungarian": "fénykép",
+      "plural": "fényképek",
+      "cefr": "A2",
+      "ipa": "[ˈfeːɲkeːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddbe9123-44b3-4e90-b892-0b0d0c1f74ac",
+      "part-of-speech": "noun",
+      "english": "class; department",
+      "hungarian": "osztály",
+      "plural": "osztályok",
+      "cefr": "A2",
+      "ipa": "[ˈostaːj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b4168c9-6cdf-4c2c-b6b6-acceff99fcc1",
+      "part-of-speech": "noun",
+      "english": "exam",
+      "hungarian": "vizsga",
+      "plural": "vizsgák",
+      "cefr": "A2",
+      "ipa": "[ˈviʒɡɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92f61488-1228-49c7-932a-86e6459f556b",
+      "part-of-speech": "noun",
+      "english": "university",
+      "hungarian": "egyetem",
+      "plural": "egyetemek",
+      "cefr": "A2",
+      "ipa": "[ˈɛɟɛtɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de9f2341-2a2e-4b67-beb2-890ed71f2ffd",
+      "part-of-speech": "noun",
+      "english": "light",
+      "hungarian": "fény",
+      "plural": "fények",
+      "cefr": "A2",
+      "ipa": "[feːɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50e663a2-3f91-4e5c-a5d8-2b000c5e2363",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "hungarian": "tűz",
+      "plural": "tüzek",
+      "cefr": "A2",
+      "ipa": "[tyːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4812687a-d6c7-4f71-9404-9400d3d4282d",
+      "part-of-speech": "noun",
+      "english": "end",
+      "hungarian": "vég",
+      "plural": "végek",
+      "cefr": "A2",
+      "ipa": "[veːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adf5fe72-f931-413e-ac4e-afeff5ea5da4",
+      "part-of-speech": "noun",
+      "english": "side; page",
+      "hungarian": "oldal",
+      "plural": "oldalak",
+      "cefr": "A2",
+      "ipa": "[ˈoldɒl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eab02e0b-0948-42be-9c68-e42bdae8d5c4",
+      "part-of-speech": "noun",
+      "english": "number",
+      "hungarian": "szám",
+      "plural": "számok",
+      "cefr": "A1",
+      "ipa": "[saːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aab0672d-fbe0-4229-9eea-e11a7d3ba8fd",
+      "part-of-speech": "noun",
+      "english": "part",
+      "hungarian": "rész",
+      "plural": "részek",
+      "cefr": "A2",
+      "ipa": "[reːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03a4a999-9fc8-462e-8ef2-33fdb50680d9",
+      "part-of-speech": "noun",
+      "english": "life",
+      "hungarian": "élet",
+      "plural": "életek",
+      "cefr": "A1",
+      "ipa": "[ˈeːlɛt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50b25f0f-74a9-4af4-aa84-839f3f4dfa5a",
+      "part-of-speech": "noun",
+      "english": "love (romantic)",
+      "hungarian": "szerelem",
+      "cefr": "A2",
+      "ipa": "[ˈsɛrɛlɛm]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2b92aaa-a1d3-4a12-818a-553c598a017d",
+      "part-of-speech": "noun",
+      "english": "health",
+      "hungarian": "egészség",
+      "cefr": "A2",
+      "ipa": "[ˈɛɡeːʃːeːɡ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f48eb1d8-899c-43ca-adb2-fdd409d2bb25",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "hungarian": "fájdalom",
+      "plural": "fájdalmak",
+      "cefr": "A2",
+      "ipa": "[ˈfaːjdɒlom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4349ad91-9c9a-4ead-af69-c7c0427a8acc",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "hungarian": "gyógyszer",
+      "plural": "gyógyszerek",
+      "cefr": "A2",
+      "ipa": "[ˈɟoːcsɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89d2ebab-7d5f-4162-ac4d-2aa849d6acf5",
+      "part-of-speech": "noun",
+      "english": "one",
+      "hungarian": "egy",
+      "cefr": "A1",
+      "ipa": "[ɛɟ]",
+      "context": "also the indefinite article: egy ház, a house",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffcc396f-99b5-4e01-a0fc-18d4e8f8065a",
+      "part-of-speech": "noun",
+      "english": "two",
+      "hungarian": "kettő",
+      "cefr": "A1",
+      "ipa": "[ˈkɛtːøː]",
+      "context": "két before a noun: két ház",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2b813cb-f7c7-43dd-9dbe-241531a2fbcc",
+      "part-of-speech": "noun",
+      "english": "three",
+      "hungarian": "három",
+      "cefr": "A1",
+      "ipa": "[ˈhaːrom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d9c364f-620e-46b4-b871-f8eaf4b514f8",
+      "part-of-speech": "noun",
+      "english": "four",
+      "hungarian": "négy",
+      "cefr": "A1",
+      "ipa": "[neːɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d60c714-a91e-43c5-a852-3b214ccbcb4d",
+      "part-of-speech": "noun",
+      "english": "five",
+      "hungarian": "öt",
+      "cefr": "A1",
+      "ipa": "[øt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "badfce1a-f59c-46ab-ad58-0503b39860b5",
+      "part-of-speech": "noun",
+      "english": "six",
+      "hungarian": "hat",
+      "cefr": "A1",
+      "ipa": "[hɒt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b652ec2-ac0d-4909-8f49-e5ded1c96e82",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "hungarian": "hét",
+      "cefr": "A1",
+      "ipa": "[heːt]",
+      "context": "also: week",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13a8255f-c8d3-4f15-87f4-c06adf75a4df",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "hungarian": "nyolc",
+      "cefr": "A1",
+      "ipa": "[ɲolts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9c67bf0-a170-41d7-951e-b6741c677928",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "hungarian": "kilenc",
+      "cefr": "A1",
+      "ipa": "[ˈkilɛnts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "916ac6aa-203d-4584-b3cc-83b431430ed7",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "hungarian": "tíz",
+      "cefr": "A1",
+      "ipa": "[tiːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d70775b-a294-478a-9407-f611db3fcb65",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "hungarian": "tizenegy",
+      "cefr": "A1",
+      "ipa": "[ˈtizɛnɛɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7032888-035e-4d9b-9a71-42c59d47b355",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "hungarian": "tizenkettő",
+      "cefr": "A1",
+      "ipa": "[ˈtizɛŋkɛtːøː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3476f6f-4611-4da7-a7e4-4c01ddfc3f50",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "hungarian": "húsz",
+      "cefr": "A1",
+      "ipa": "[huːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51aef3a9-349b-46f9-b9b6-13e315259445",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "hungarian": "harminc",
+      "cefr": "A1",
+      "ipa": "[ˈhɒrmints]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc24eba0-5867-4de3-8ecc-c2c2026d15ac",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "hungarian": "száz",
+      "cefr": "A1",
+      "ipa": "[saːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43437dea-4761-465a-8d3c-bf59ffe63bfb",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "hungarian": "ezer",
+      "cefr": "A2",
+      "ipa": "[ˈɛzɛr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07041f40-cb3e-406f-9198-a24de229195b",
+      "part-of-speech": "noun",
+      "english": "half",
+      "hungarian": "fél",
+      "cefr": "A1",
+      "ipa": "[feːl]",
+      "context": "fél kettő: half past one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99548134-edab-455a-84a5-a10474e17909",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "hungarian": "én",
+      "cefr": "A1",
+      "ipa": "[eːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62419b2d-0cd1-4241-b5d8-ad37a45f3d5f",
+      "part-of-speech": "pronoun",
+      "english": "you (informal singular)",
+      "hungarian": "te",
+      "cefr": "A1",
+      "ipa": "[tɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "730a213a-9266-4b77-a02d-97a3955d593f",
+      "part-of-speech": "pronoun",
+      "english": "he, she",
+      "hungarian": "ő",
+      "cefr": "A1",
+      "ipa": "[øː]",
+      "context": "one word for both",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "623a9f47-c0a9-400f-be8c-8664ae71a04e",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "hungarian": "mi",
+      "cefr": "A1",
+      "ipa": "[mi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4695d9ee-ca8d-4095-abc9-8ccbe55e4bca",
+      "part-of-speech": "pronoun",
+      "english": "you (informal plural)",
+      "hungarian": "ti",
+      "cefr": "A1",
+      "ipa": "[ti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f8e30bc-0464-455a-a3fa-b1286d985531",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "hungarian": "ők",
+      "cefr": "A1",
+      "ipa": "[øːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80a1fe0f-cbd5-4791-8314-a1bde1198334",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "hungarian": "ön",
+      "cefr": "A1",
+      "ipa": "[øn]",
+      "context": "takes the third-person verb, like ő",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20c81a76-0da0-43ad-af76-f2227f050603",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "hungarian": "ez",
+      "cefr": "A1",
+      "ipa": "[ɛz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "893c9ec6-94a0-468c-938a-19a55c9d1aa4",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "hungarian": "az",
+      "cefr": "A1",
+      "ipa": "[ɒz]",
+      "context": "also the definite article before a vowel: az alma",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d50c717-fc11-4bc5-bc80-a930d25244b5",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "hungarian": "mi",
+      "cefr": "A1",
+      "ipa": "[mi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c2af1df-c346-4506-881a-6d59dec7bfab",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "hungarian": "ki",
+      "cefr": "A1",
+      "ipa": "[ki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc6d89b4-6cb8-4459-9317-a56526ca182c",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "hungarian": "melyik",
+      "cefr": "A1",
+      "ipa": "[ˈmɛjik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd909eb8-0d9b-4557-a27b-42ca13b231a0",
+      "part-of-speech": "pronoun",
+      "english": "every; everything",
+      "hungarian": "minden",
+      "cefr": "A1",
+      "ipa": "[ˈmindɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f55a92d7-9c83-448e-b8d4-b9b16a990c0b",
+      "part-of-speech": "pronoun",
+      "english": "everyone",
+      "hungarian": "mindenki",
+      "cefr": "A1",
+      "ipa": "[ˈmindɛŋki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed5da9d9-ba16-460b-901d-9da35008b6e4",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "hungarian": "valami",
+      "cefr": "A2",
+      "ipa": "[ˈvɒlɒmi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f2dc9c5-4179-4cb4-b24e-496c5fe0b7d0",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "hungarian": "valaki",
+      "cefr": "A2",
+      "ipa": "[ˈvɒlɒki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54a94a01-2397-4865-8039-f89e2cc0eb06",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "hungarian": "semmi",
+      "cefr": "A2",
+      "ipa": "[ˈʃɛmːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24c675d1-31f5-4648-aebb-3f2c7cddd565",
+      "part-of-speech": "pronoun",
+      "english": "nobody",
+      "hungarian": "senki",
+      "cefr": "A2",
+      "ipa": "[ˈʃɛŋki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0840be5-2033-4e25-afdf-428e08ddfbee",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "hungarian": "lenni",
+      "cefr": "A1",
+      "ipa": "[ˈlɛnːi]",
+      "context": "vagyok, vagy, van, vagyunk, vagytok, vannak; to have: Van egy kutyám: I have a dog",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f6b4933-7b32-4a5f-aac6-070e86bf49ef",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "hungarian": "akarni",
+      "cefr": "A1",
+      "ipa": "[ˈɒkɒrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45e1bc5a-b750-4351-b711-01775ad3fe5e",
+      "part-of-speech": "verb",
+      "english": "to know; can, be able",
+      "hungarian": "tudni",
+      "cefr": "A1",
+      "ipa": "[ˈtudni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45265af4-239b-4749-bace-44a08b57e5d3",
+      "part-of-speech": "verb",
+      "english": "must, have to; to be needed",
+      "hungarian": "kell",
+      "cefr": "A1",
+      "ipa": "[kɛlː]",
+      "context": "impersonal: Mennem kell: I must go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48b012e2-25ed-4beb-b161-27bd2cbd29f0",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "hungarian": "dolgozni",
+      "cefr": "A1",
+      "ipa": "[ˈdolɡozni]",
+      "context": "dolgozik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99c68e5d-3f7d-4d54-84d4-24039432f7a3",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "hungarian": "csinálni",
+      "cefr": "A1",
+      "ipa": "[ˈtʃinaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "538a8fbf-a0f1-429a-9588-e635b838eded",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "hungarian": "menni",
+      "cefr": "A1",
+      "ipa": "[ˈmɛnːi]",
+      "context": "megyek, mész, megy",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d8cce7e-8ed5-4393-9eff-ffd0fc476a2d",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "hungarian": "jönni",
+      "cefr": "A1",
+      "ipa": "[ˈjønːi]",
+      "context": "jövök, jössz, jön",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "768fc393-137a-465a-9abf-77962881afc4",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "hungarian": "látni",
+      "cefr": "A1",
+      "ipa": "[ˈlaːtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "407a34e1-7995-4652-b87c-ce9ffc9789e5",
+      "part-of-speech": "verb",
+      "english": "to watch, look at",
+      "hungarian": "nézni",
+      "cefr": "A1",
+      "ipa": "[ˈneːzni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b1f94e3-24ae-4edd-ac9e-1e2ef1a850a1",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "hungarian": "hallani",
+      "cefr": "A1",
+      "ipa": "[ˈhɒlːɒni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8a294a3-e86a-4870-944a-fb9983b21b34",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "hungarian": "hallgatni",
+      "cefr": "A1",
+      "ipa": "[ˈhɒlɡɒtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "daa3995c-122e-4e47-879f-153b2341ba60",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "hungarian": "beszélni",
+      "cefr": "A1",
+      "ipa": "[ˈbɛseːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25766627-445d-480f-912e-3ede9371afc9",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "hungarian": "mondani",
+      "cefr": "A1",
+      "ipa": "[ˈmondɒni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaad0f72-d51d-4e2d-916c-840462a7d9fb",
+      "part-of-speech": "verb",
+      "english": "to ask (a question)",
+      "hungarian": "kérdezni",
+      "cefr": "A1",
+      "ipa": "[ˈkeːrdɛzni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fef85071-6031-45ba-b510-479b835ed600",
+      "part-of-speech": "verb",
+      "english": "to ask for, request",
+      "hungarian": "kérni",
+      "cefr": "A1",
+      "ipa": "[ˈkeːrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a8a7534-c1b2-4222-a651-05089035ae1d",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "hungarian": "válaszolni",
+      "cefr": "A1",
+      "ipa": "[ˈvaːlɒsolni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afc2e7c9-dccd-481a-806b-eee5a2cd17d8",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "hungarian": "enni",
+      "cefr": "A1",
+      "ipa": "[ˈɛnːi]",
+      "context": "eszem, eszel, eszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ceae7a13-819b-44d2-bf98-5a27cfd32fef",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "hungarian": "inni",
+      "cefr": "A1",
+      "ipa": "[ˈinːi]",
+      "context": "iszom, iszol, iszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9394e230-3928-4f6b-8b78-ec8b99b10f26",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "hungarian": "aludni",
+      "cefr": "A1",
+      "ipa": "[ˈɒludni]",
+      "context": "alszom, alszol, alszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21a72cbc-50b0-4dd3-9887-654733dc60ca",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "hungarian": "lakni",
+      "cefr": "A1",
+      "ipa": "[ˈlɒkni]",
+      "context": "lakik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34eb5c06-e121-461a-8eaa-3fc408b6dce6",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "hungarian": "élni",
+      "cefr": "A1",
+      "ipa": "[ˈeːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd6aa593-537c-4d79-928f-888f861708e4",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "hungarian": "szeretni",
+      "cefr": "A1",
+      "ipa": "[ˈsɛrɛtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "542cd939-8f2e-4cf6-8c8e-114f6cd5b2ce",
+      "part-of-speech": "verb",
+      "english": "to learn, study",
+      "hungarian": "tanulni",
+      "cefr": "A1",
+      "ipa": "[ˈtɒnulni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ae68172-dac9-4dc6-a948-41d8021b3118",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "hungarian": "olvasni",
+      "cefr": "A1",
+      "ipa": "[ˈolvɒʃni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd5ac550-09da-4da6-acc9-274f561a8586",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "hungarian": "írni",
+      "cefr": "A1",
+      "ipa": "[ˈiːrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bce3974e-9828-4291-9233-fca5dc092e0b",
+      "part-of-speech": "verb",
+      "english": "to buy; to take",
+      "hungarian": "venni",
+      "cefr": "A1",
+      "ipa": "[ˈvɛnːi]",
+      "context": "veszek, veszel, vesz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1536601b-ff96-4b18-a6e7-0a3a00cf7551",
+      "part-of-speech": "verb",
+      "english": "to shop",
+      "hungarian": "vásárolni",
+      "cefr": "A1",
+      "ipa": "[ˈvaːʃaːrolni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "784a72e5-f59f-4ac4-81d1-6586f21775d1",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "hungarian": "fizetni",
+      "cefr": "A1",
+      "ipa": "[ˈfizɛtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bd4ea06-01ea-4b4b-a19c-c482234201e9",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "hungarian": "eladni",
+      "cefr": "A2",
+      "ipa": "[ˈɛlɒdni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b05f731f-f335-44a4-9a78-b58bc6382f5b",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "hungarian": "adni",
+      "cefr": "A1",
+      "ipa": "[ˈɒdni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6898b4ec-d4b1-499a-8601-43e71b3b9e08",
+      "part-of-speech": "verb",
+      "english": "to get, receive",
+      "hungarian": "kapni",
+      "cefr": "A1",
+      "ipa": "[ˈkɒpni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbcbd09b-8d45-45b0-9eae-fd9e6ca70e3f",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "hungarian": "kinyitni",
+      "cefr": "A1",
+      "ipa": "[ˈkiɲitni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13885aa4-444c-43aa-be5c-88b26ea1603e",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "hungarian": "becsukni",
+      "cefr": "A1",
+      "ipa": "[ˈbɛtʃukni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b079399-a51e-4e10-a8cb-232ce65df790",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "hungarian": "főzni",
+      "cefr": "A1",
+      "ipa": "[ˈføːzni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6884776a-f041-49cf-bbcd-e077259103e2",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "hungarian": "utazni",
+      "cefr": "A1",
+      "ipa": "[ˈutɒzni]",
+      "context": "utazik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e68a7b28-636e-4a70-89b8-0426839c57bd",
+      "part-of-speech": "verb",
+      "english": "to drive; to lead",
+      "hungarian": "vezetni",
+      "cefr": "A1",
+      "ipa": "[ˈvɛzɛtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e5ca190-b655-458b-ae46-3231d8f91249",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "hungarian": "érteni",
+      "cefr": "A1",
+      "ipa": "[ˈeːrtɛni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d90785d-9384-44da-97e3-a792b4b7c3db",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "hungarian": "gondolni",
+      "cefr": "A1",
+      "ipa": "[ˈɡondolni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3ed8632-4506-4740-8afb-5e32ef404f8c",
+      "part-of-speech": "verb",
+      "english": "to begin",
+      "hungarian": "kezdeni",
+      "cefr": "A2",
+      "ipa": "[ˈkɛzdɛni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "711b5707-dd73-4f36-afc7-ba5cbb794d85",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "hungarian": "befejezni",
+      "cefr": "A2",
+      "ipa": "[ˈbɛfɛjɛzni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff140cf4-c754-4cca-b42d-867341e8e10d",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "hungarian": "játszani",
+      "cefr": "A1",
+      "ipa": "[ˈjaːtsːɒni]",
+      "context": "játszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09aaebfb-1df4-4904-a758-b5469fa2cbb2",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "hungarian": "úszni",
+      "cefr": "A1",
+      "ipa": "[ˈuːsni]",
+      "context": "úszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01c06c2b-8516-496b-b6dc-34a659b11af7",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "hungarian": "futni",
+      "cefr": "A1",
+      "ipa": "[ˈfutni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec830470-e928-49ea-b628-4005c9d5cd15",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "hungarian": "ülni",
+      "cefr": "A1",
+      "ipa": "[ˈylni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "780df12c-a25c-4475-b203-b5c55e7fb881",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "hungarian": "állni",
+      "cefr": "A2",
+      "ipa": "[ˈaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bafc04ca-17da-4fe4-a469-00a55a360ee8",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "hungarian": "várni",
+      "cefr": "A1",
+      "ipa": "[ˈvaːrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03a86374-d3f1-4dde-94b0-4cae5325cab8",
+      "part-of-speech": "verb",
+      "english": "to look for; to earn",
+      "hungarian": "keresni",
+      "cefr": "A1",
+      "ipa": "[ˈkɛrɛʃni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fb37b56-9a4c-4754-be36-b63cd6a8d406",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "hungarian": "találni",
+      "cefr": "A1",
+      "ipa": "[ˈtɒlaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cc7eb4a-0f31-4a2c-879c-23afba32799c",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "hungarian": "elveszíteni",
+      "cefr": "A2",
+      "ipa": "[ˈɛlvɛsiːtɛni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56a65d25-c205-4f95-b469-f074a34a5bb4",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "hungarian": "segíteni",
+      "cefr": "A1",
+      "ipa": "[ˈʃɛɡiːtɛni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "301dc780-3b51-4293-88bb-02df10c2d517",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "hungarian": "hozni",
+      "cefr": "A2",
+      "ipa": "[ˈhozni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec78eb30-6d67-4f49-a0e9-ebe3f891886c",
+      "part-of-speech": "verb",
+      "english": "to carry, take (away)",
+      "hungarian": "vinni",
+      "cefr": "A2",
+      "ipa": "[ˈvinːi]",
+      "context": "viszek, viszel, visz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49a62b22-5097-4dd5-a50c-6dc66ae97820",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "hungarian": "tenni",
+      "cefr": "A2",
+      "ipa": "[ˈtɛnːi]",
+      "context": "teszek, teszel, tesz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78fef071-ca23-4eec-86ff-5e60e1d81bf3",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "hungarian": "mosni",
+      "cefr": "A2",
+      "ipa": "[ˈmoʃni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b4dc462-dd95-4a67-8a6f-6e7f46abe471",
+      "part-of-speech": "verb",
+      "english": "to call",
+      "hungarian": "hívni",
+      "cefr": "A1",
+      "ipa": "[ˈhiːvni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0833b5c8-94ec-4328-8699-2159f5b68e0b",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "hungarian": "kerülni",
+      "cefr": "A1",
+      "ipa": "[ˈkɛrylni]",
+      "context": "Mennyibe kerül?: How much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78264f7e-26c5-4929-80fd-c27315481d67",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "hungarian": "táncolni",
+      "cefr": "A1",
+      "ipa": "[ˈtaːntsolni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "449a75cf-2601-4f53-b89f-b18b066b85cc",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "hungarian": "énekelni",
+      "cefr": "A1",
+      "ipa": "[ˈeːnɛkɛlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9496d3e-66eb-4724-8d12-6e43c4082835",
+      "part-of-speech": "verb",
+      "english": "to come back",
+      "hungarian": "visszajönni",
+      "cefr": "A2",
+      "ipa": "[ˈvisːɒjønːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7989dd4a-841a-4c6c-bfab-16206efac80a",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "hungarian": "elfelejteni",
+      "cefr": "A2",
+      "ipa": "[ˈɛlfɛlɛjtɛni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f1e9c44-8094-4616-8fca-d0446d2ecbcc",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "hungarian": "mutatni",
+      "cefr": "A2",
+      "ipa": "[ˈmutɒtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "538b56b7-e159-40f1-ae70-d2b742d551ae",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "hungarian": "használni",
+      "cefr": "A2",
+      "ipa": "[ˈhɒsnaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e2236fa-c318-4311-bfbe-a087a7b79dc9",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "hungarian": "próbálni",
+      "cefr": "A2",
+      "ipa": "[ˈproːbaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f559cd8d-9a8e-4e63-8c22-4ab5d8abda02",
+      "part-of-speech": "verb",
+      "english": "to stay",
+      "hungarian": "maradni",
+      "cefr": "A2",
+      "ipa": "[ˈmɒrɒdni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73674ddb-dfca-4039-ba46-8f41843c6ac0",
+      "part-of-speech": "verb",
+      "english": "to hate",
+      "hungarian": "utálni",
+      "cefr": "A2",
+      "ipa": "[ˈutaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c67d430a-cb4c-4c02-8763-4c7abce67640",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "hungarian": "remélni",
+      "cefr": "A2",
+      "ipa": "[ˈrɛmeːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb404d94-aecd-490e-baf9-415ce6519880",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "hungarian": "érezni",
+      "cefr": "A2",
+      "ipa": "[ˈeːrɛzni]",
+      "context": "Jól érzem magam: I feel good",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d678acd-1309-4033-af17-e030a3c9bcb8",
+      "part-of-speech": "verb",
+      "english": "to walk, stroll",
+      "hungarian": "sétálni",
+      "cefr": "A2",
+      "ipa": "[ˈʃeːtaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7967f67f-a711-4919-aaeb-f2b125bf12fb",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "hungarian": "takarítani",
+      "cefr": "A2",
+      "ipa": "[ˈtɒkɒriːtɒni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ee0feb9-72a9-4c29-905e-d5108b71de0e",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "hungarian": "meglátogatni",
+      "cefr": "A2",
+      "ipa": "[ˈmɛɡlaːtoɡɒtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a6054f1-afc5-473b-98b1-8a9228a2753a",
+      "part-of-speech": "verb",
+      "english": "to know (someone)",
+      "hungarian": "ismerni",
+      "cefr": "A2",
+      "ipa": "[ˈiʃmɛrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b315fddb-2406-41b8-94b5-a1bac2c90e87",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "hungarian": "emlékezni",
+      "cefr": "A2",
+      "ipa": "[ˈɛmleːkɛzni]",
+      "context": "emlékszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65709861-8e32-4993-8ed0-5efd7cf3229b",
+      "part-of-speech": "verb",
+      "english": "to repeat",
+      "hungarian": "ismételni",
+      "cefr": "A2",
+      "ipa": "[ˈiʃmeːtɛlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffe44a98-1be1-438e-932a-49408c651ab9",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "hungarian": "magyarázni",
+      "cefr": "A2",
+      "ipa": "[ˈmɒɟɒraːzni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9405da35-4651-4176-8fa6-e6792fd11566",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "hungarian": "találkozni",
+      "cefr": "A2",
+      "ipa": "[ˈtɒlaːlkozni]",
+      "context": "találkozik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "504758cb-cfe3-4015-9e95-4921072e6bda",
+      "part-of-speech": "verb",
+      "english": "to be late",
+      "hungarian": "késni",
+      "cefr": "A2",
+      "ipa": "[ˈkeːʃni]",
+      "context": "késik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5de0266-2705-4d79-8f2e-c622858ad1c3",
+      "part-of-speech": "verb",
+      "english": "to hurry",
+      "hungarian": "sietni",
+      "cefr": "A2",
+      "ipa": "[ˈʃiɛtni]",
+      "context": "siet",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae1529c1-6dcc-42c2-986c-e088604ad292",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "hungarian": "pihenni",
+      "cefr": "A2",
+      "ipa": "[ˈpihɛnːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be4aa6d5-9e10-4344-8aaf-04ea0393119e",
+      "part-of-speech": "verb",
+      "english": "to hurt",
+      "hungarian": "fájni",
+      "cefr": "A2",
+      "ipa": "[ˈfaːjni]",
+      "context": "Fáj a fejem: I have a headache",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8406b7a5-3db8-410b-9437-1afb4e0fc2e2",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "hungarian": "hinni",
+      "cefr": "A2",
+      "ipa": "[ˈhinːi]",
+      "context": "hiszek, hiszel, hisz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57969ebf-e8ee-4c2d-a2eb-6cce3ebfd940",
+      "part-of-speech": "verb",
+      "english": "to smoke",
+      "hungarian": "dohányozni",
+      "cefr": "A2",
+      "ipa": "[ˈdohaːɲozni]",
+      "context": "dohányzik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03150ce4-ada3-41ae-a7ca-96d74641990c",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "hungarian": "nyerni",
+      "cefr": "A2",
+      "ipa": "[ˈɲɛrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "495ae510-677c-41eb-b439-ae179722a8b9",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "hungarian": "felkelni",
+      "cefr": "A2",
+      "ipa": "[ˈfɛlkɛlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69621b24-933b-4c9d-8e84-e48a92970dfd",
+      "part-of-speech": "verb",
+      "english": "to go to bed",
+      "hungarian": "lefeküdni",
+      "cefr": "A2",
+      "ipa": "[ˈlɛfɛkydni]",
+      "context": "lefekszik",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ba2a094-e421-4849-acca-4dad3992f49f",
+      "part-of-speech": "verb",
+      "english": "to phone",
+      "hungarian": "telefonálni",
+      "cefr": "A2",
+      "ipa": "[ˈtɛlɛfonaːlni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2d645f0-5761-4d6d-ad41-04e0c2d997fb",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "hungarian": "nevetni",
+      "cefr": "A2",
+      "ipa": "[ˈnɛvɛtni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9aef2af0-8bc1-48cf-b055-0ef860c2790a",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "hungarian": "sírni",
+      "cefr": "A2",
+      "ipa": "[ˈʃiːrni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c66249a4-e721-4078-a156-35c78dac2835",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "hungarian": "jó",
+      "cefr": "A1",
+      "ipa": "[joː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3796d0c9-39ee-4c76-8fbd-851a530a559c",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "hungarian": "rossz",
+      "cefr": "A1",
+      "ipa": "[rosː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa125791-789b-4288-844b-b0eae927c440",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "hungarian": "nagy",
+      "cefr": "A1",
+      "ipa": "[nɒɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "052a56f5-f31e-4fd9-92f0-36b9f5b98c2a",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "hungarian": "kicsi",
+      "cefr": "A1",
+      "ipa": "[ˈkitʃi]",
+      "context": "kis before a noun: kis ház",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e29dfcb7-6ab5-4da2-9b3a-1ee66c46284d",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "hungarian": "új",
+      "cefr": "A1",
+      "ipa": "[uːj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "838ac7a7-ec4c-4e1d-9aa9-4294372b76d1",
+      "part-of-speech": "adjective",
+      "english": "old (not new)",
+      "hungarian": "régi",
+      "cefr": "A1",
+      "ipa": "[ˈreːɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e85c21c6-1a0c-41cb-a240-2a0997a53134",
+      "part-of-speech": "adjective",
+      "english": "old (not young)",
+      "hungarian": "öreg",
+      "cefr": "A1",
+      "ipa": "[ˈørɛɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d99b55f4-25c4-4c39-a717-6696b8171aa0",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "hungarian": "fiatal",
+      "cefr": "A1",
+      "ipa": "[ˈfiɒtɒl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4909f6f5-fa01-4938-8a44-4027e226c185",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty; nice",
+      "hungarian": "szép",
+      "cefr": "A1",
+      "ipa": "[seːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a64550b0-fd36-4106-88cd-f5f4027bc721",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "hungarian": "csúnya",
+      "cefr": "A1",
+      "ipa": "[ˈtʃuːɲɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4bf3883-cebc-40b1-88b8-16a7472a1a57",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "hungarian": "hosszú",
+      "cefr": "A1",
+      "ipa": "[ˈhosːuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a5b93c4-d2a1-4dd6-9125-9732138ab360",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "hungarian": "rövid",
+      "cefr": "A1",
+      "ipa": "[ˈrøvid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "300859cc-428a-4316-8103-7a8fc62aef79",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "hungarian": "magas",
+      "cefr": "A1",
+      "ipa": "[ˈmɒɡɒʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b5938b7-9f28-413f-9678-f8e667a4cbee",
+      "part-of-speech": "adjective",
+      "english": "short, low",
+      "hungarian": "alacsony",
+      "cefr": "A1",
+      "ipa": "[ˈɒlɒtʃoɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51631bb6-683c-486e-af15-dfd8571a2344",
+      "part-of-speech": "adjective",
+      "english": "fat",
+      "hungarian": "kövér",
+      "cefr": "A2",
+      "ipa": "[ˈkøveːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f94d792-4b43-46ea-acfd-8f07a42a9c9d",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "hungarian": "vékony",
+      "cefr": "A2",
+      "ipa": "[ˈveːkoɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ebb6f0b-50c7-439d-90e9-94b3dc7dd3b1",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "hungarian": "drága",
+      "cefr": "A1",
+      "ipa": "[ˈdraːɡɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec592437-f078-4be0-9fc0-aa10cc577759",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "hungarian": "olcsó",
+      "cefr": "A1",
+      "ipa": "[ˈoltʃoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de1caeb6-99ed-42fc-ad76-98c119ee32ef",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "hungarian": "meleg",
+      "cefr": "A1",
+      "ipa": "[ˈmɛlɛɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52e67e75-1a47-4af8-92a2-64532d2dc8c4",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "hungarian": "hideg",
+      "cefr": "A1",
+      "ipa": "[ˈhidɛɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44c4c099-bc88-494e-8bad-964a5c224076",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "hungarian": "forró",
+      "cefr": "A1",
+      "ipa": "[ˈforːoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf4f1ae6-3917-4332-9216-14e52eaac0f7",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "hungarian": "gyors",
+      "cefr": "A1",
+      "ipa": "[ɟorʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4868766e-7197-4c6b-8efc-dc2848dd0ce6",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "hungarian": "lassú",
+      "cefr": "A1",
+      "ipa": "[ˈlɒʃːuː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "679e7af8-0734-4fcc-9778-5151ad21a9df",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "hungarian": "boldog",
+      "cefr": "A1",
+      "ipa": "[ˈboldoɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd98c189-95fc-4325-b81b-5f1e0cd45f35",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "hungarian": "szomorú",
+      "cefr": "A1",
+      "ipa": "[ˈsomoruː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12fde6e9-45dc-4777-b088-37f38bc45c77",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "hungarian": "fáradt",
+      "cefr": "A1",
+      "ipa": "[ˈfaːrɒt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9577e393-51b3-42ca-8cb4-92d47113a587",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "hungarian": "éhes",
+      "cefr": "A1",
+      "ipa": "[ˈeːhɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e7eccb1-174a-4ef9-8423-b6652b6a9a52",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "hungarian": "szomjas",
+      "cefr": "A1",
+      "ipa": "[ˈsomjɒʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2388b11b-e582-4d1d-9842-892be506cf53",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "hungarian": "beteg",
+      "cefr": "A1",
+      "ipa": "[ˈbɛtɛɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55f11ddd-cbea-4a95-b307-49783e70b361",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "hungarian": "egészséges",
+      "cefr": "A2",
+      "ipa": "[ˈɛɡeːʃːeːɡɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cf9b4ac-bcba-4fd7-a7e4-0e95b10e4bb8",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "hungarian": "könnyű",
+      "cefr": "A1",
+      "ipa": "[ˈkøɲːyː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bae4615e-5ddd-42b9-8248-760f74f369a6",
+      "part-of-speech": "adjective",
+      "english": "difficult; heavy",
+      "hungarian": "nehéz",
+      "cefr": "A1",
+      "ipa": "[ˈnɛheːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73575494-c6bc-4b46-837d-dd459091e911",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "hungarian": "fontos",
+      "cefr": "A2",
+      "ipa": "[ˈfontoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb7dcf80-5aa0-47c6-be99-9ec6ff03dd53",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "hungarian": "érdekes",
+      "cefr": "A1",
+      "ipa": "[ˈeːrdɛkɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "367092b2-f779-4287-b6dd-655e0a14c407",
+      "part-of-speech": "adjective",
+      "english": "clean; clear",
+      "hungarian": "tiszta",
+      "cefr": "A2",
+      "ipa": "[ˈtistɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d2409fe-d06a-4a5d-877b-89be09eefd30",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "hungarian": "piszkos",
+      "cefr": "A2",
+      "ipa": "[ˈpiskoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "173220e2-6711-4cb3-8031-adf6d575ce31",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "hungarian": "tele",
+      "cefr": "A2",
+      "ipa": "[ˈtɛlɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50ca8c0-5adf-470f-bc5a-59f3645900f6",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "hungarian": "üres",
+      "cefr": "A2",
+      "ipa": "[ˈyrɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7abdb41c-9081-431f-ba8e-0cb10410ff75",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "hungarian": "nyitott",
+      "cefr": "A2",
+      "ipa": "[ˈɲitot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a61d278-3130-455f-bded-ac9792d22b8e",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "hungarian": "piros",
+      "cefr": "A1",
+      "ipa": "[ˈpiroʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac01ce2a-1582-42ed-8f11-b301ea130140",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "hungarian": "kék",
+      "cefr": "A1",
+      "ipa": "[keːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e63d26e8-85d1-47a0-88e4-64293f54b7d3",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "hungarian": "zöld",
+      "cefr": "A1",
+      "ipa": "[zøld]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3cd75d9-ea6f-4ce1-ad90-739549d592b5",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "hungarian": "sárga",
+      "cefr": "A1",
+      "ipa": "[ˈʃaːrɡɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "affbdf45-3adc-4c4b-a19a-d9eeace41ac9",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "hungarian": "fekete",
+      "cefr": "A1",
+      "ipa": "[ˈfɛkɛtɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3dc70ee-e5cf-4538-ac45-e98463cf6df8",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "hungarian": "fehér",
+      "cefr": "A1",
+      "ipa": "[ˈfɛheːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "626def0b-a720-4574-80d7-ca49560e600d",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "hungarian": "szürke",
+      "cefr": "A1",
+      "ipa": "[ˈsyrkɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9de372c0-b452-430a-a772-165af13448ea",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "hungarian": "barna",
+      "cefr": "A1",
+      "ipa": "[ˈbɒrnɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bee720ff-1920-48cc-851f-3dfae06c85c7",
+      "part-of-speech": "adjective",
+      "english": "kind; dear",
+      "hungarian": "kedves",
+      "cefr": "A2",
+      "ipa": "[ˈkɛdvɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f77845d0-5c97-40d4-b82e-759db2dcb4ac",
+      "part-of-speech": "adjective",
+      "english": "exact; punctual",
+      "hungarian": "pontos",
+      "cefr": "A2",
+      "ipa": "[ˈpontoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0927af53-2ee9-49ae-9b3a-69fe56e0624e",
+      "part-of-speech": "adjective",
+      "english": "simple",
+      "hungarian": "egyszerű",
+      "cefr": "A2",
+      "ipa": "[ˈɛcsɛryː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "433c8f5a-0398-4b17-996f-9dc108ac0e9c",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "hungarian": "szabad",
+      "cefr": "A2",
+      "ipa": "[ˈsɒbɒd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5d85144-4c18-457d-9f9a-cdfd1f8a1db8",
+      "part-of-speech": "adjective",
+      "english": "busy, taken, occupied",
+      "hungarian": "foglalt",
+      "cefr": "A2",
+      "ipa": "[ˈfoɡlɒlt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "343ad1c2-5286-4c5d-b760-df8fea43c058",
+      "part-of-speech": "adjective",
+      "english": "sure, certain",
+      "hungarian": "biztos",
+      "cefr": "A2",
+      "ipa": "[ˈbistoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89704d03-8886-490a-9fb9-c3ea8a707703",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "hungarian": "édes",
+      "cefr": "A2",
+      "ipa": "[ˈeːdɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "691a9b25-d621-448b-86b2-5cf1df4caf4b",
+      "part-of-speech": "adjective",
+      "english": "delicious; fine",
+      "hungarian": "finom",
+      "cefr": "A1",
+      "ipa": "[ˈfinom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2931c50a-759b-42cb-aa2b-47d756f0c192",
+      "part-of-speech": "adjective",
+      "english": "fresh",
+      "hungarian": "friss",
+      "cefr": "A2",
+      "ipa": "[friʃː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeec41d4-8ec0-46b3-af2e-64d8e4978c09",
+      "part-of-speech": "adjective",
+      "english": "hard",
+      "hungarian": "kemény",
+      "cefr": "A2",
+      "ipa": "[ˈkɛmeːɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a82f9c45-5d10-4307-9ee5-84a11cdeee1f",
+      "part-of-speech": "adjective",
+      "english": "soft",
+      "hungarian": "puha",
+      "cefr": "A2",
+      "ipa": "[ˈpuhɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59b053b6-e4a2-41f9-8682-913e50cdfbe3",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "hungarian": "gazdag",
+      "cefr": "A2",
+      "ipa": "[ˈɡɒzdɒɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e922fb5-0ec4-434e-b712-dd1ddcd56333",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "hungarian": "szegény",
+      "cefr": "A2",
+      "ipa": "[ˈsɛɡeːɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1531dfdd-ec03-493c-bc2c-3e6c05e73401",
+      "part-of-speech": "adjective",
+      "english": "clever",
+      "hungarian": "okos",
+      "cefr": "A2",
+      "ipa": "[ˈokoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e0b25a6-4eb2-489c-9157-d7886eec862c",
+      "part-of-speech": "adjective",
+      "english": "stupid",
+      "hungarian": "buta",
+      "cefr": "A2",
+      "ipa": "[ˈbutɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b7fd649-521c-4186-aff6-73704199093f",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "hungarian": "mérges",
+      "cefr": "A2",
+      "ipa": "[ˈmeːrɡɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ed24a3f-a705-44e1-a3ed-192af20c9218",
+      "part-of-speech": "adjective",
+      "english": "spicy",
+      "hungarian": "csípős",
+      "cefr": "A2",
+      "ipa": "[ˈtʃiːpøːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce5d1318-dea5-405f-9f36-728d2a883ef6",
+      "part-of-speech": "adjective",
+      "english": "wet",
+      "hungarian": "nedves",
+      "cefr": "A2",
+      "ipa": "[ˈnɛdvɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98eb96e5-3c64-4a9e-83af-fa01f757c5db",
+      "part-of-speech": "adjective",
+      "english": "dry",
+      "hungarian": "száraz",
+      "cefr": "A2",
+      "ipa": "[ˈsaːrɒz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca96cce9-7930-40a9-a5c5-9f083c961151",
+      "part-of-speech": "adjective",
+      "english": "quiet",
+      "hungarian": "csendes",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɛndɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b57941e8-b729-4f54-bbfa-e6eee195ba95",
+      "part-of-speech": "adjective",
+      "english": "loud",
+      "hungarian": "hangos",
+      "cefr": "A2",
+      "ipa": "[ˈhɒŋɡoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "091ef2ad-d4ee-424b-8a11-8da82b1d21af",
+      "part-of-speech": "adjective",
+      "english": "famous",
+      "hungarian": "híres",
+      "cefr": "A2",
+      "ipa": "[ˈhiːrɛʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44bb713a-52e6-48ef-ac0d-ac03ac03a36f",
+      "part-of-speech": "adjective",
+      "english": "foreign",
+      "hungarian": "külföldi",
+      "cefr": "A2",
+      "ipa": "[ˈkylføldi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c50614b-3620-42ec-924f-e7530b20cde5",
+      "part-of-speech": "adjective",
+      "english": "Hungarian",
+      "hungarian": "magyar",
+      "cefr": "A1",
+      "ipa": "[ˈmɒɟɒr]",
+      "context": "Hungarians call themselves magyar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad3a06f0-6d3d-49cb-899e-deb1003cb4a4",
+      "part-of-speech": "adjective",
+      "english": "English",
+      "hungarian": "angol",
+      "cefr": "A1",
+      "ipa": "[ˈɒŋɡol]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "861495cb-87cf-4e1e-a8c3-0c795ca84c27",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "hungarian": "kész",
+      "cefr": "A1",
+      "ipa": "[keːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c2acd47-50ee-41f0-9b57-9579af92d45a",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "hungarian": "ma",
+      "cefr": "A1",
+      "ipa": "[mɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4de91b5-d61c-4e7c-a9fb-69187d93f43c",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "hungarian": "holnap",
+      "cefr": "A1",
+      "ipa": "[ˈholnɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2990c9f-f66c-420c-93fe-3bd1d2863ed6",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "hungarian": "tegnap",
+      "cefr": "A1",
+      "ipa": "[ˈtɛɡnɒp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa39cf9-5631-45e4-b753-0453988da04a",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "hungarian": "most",
+      "cefr": "A1",
+      "ipa": "[moʃt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7105191e-4a2b-4f77-bf3f-74bbfdb52c60",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "hungarian": "mindig",
+      "cefr": "A1",
+      "ipa": "[ˈmindiɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4eac711-41ea-4293-9722-e4a4d0e9442d",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "hungarian": "soha",
+      "cefr": "A1",
+      "ipa": "[ˈʃohɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9295d894-0aa9-45ae-97a0-9d09850d9247",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "hungarian": "gyakran",
+      "cefr": "A1",
+      "ipa": "[ˈɟɒkrɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38455c98-b871-4da0-9034-85505daf24c3",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "hungarian": "néha",
+      "cefr": "A1",
+      "ipa": "[ˈneːhɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc9d37e1-cb8f-4380-ae17-583655375722",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "hungarian": "itt",
+      "cefr": "A1",
+      "ipa": "[it]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77f4ad26-69c4-4e57-96de-55fd0ac9dbb4",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "hungarian": "ott",
+      "cefr": "A1",
+      "ipa": "[ot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11e94dbe-889c-40f1-a62e-0c5ab0e58a11",
+      "part-of-speech": "adverb",
+      "english": "up, upstairs",
+      "hungarian": "fent",
+      "cefr": "A2",
+      "ipa": "[fɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a941c09-f3cf-4cfc-96ff-7927a19cd9e3",
+      "part-of-speech": "adverb",
+      "english": "down, downstairs",
+      "hungarian": "lent",
+      "cefr": "A2",
+      "ipa": "[lɛnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3dbceab-b39c-46ba-849d-b99159751a75",
+      "part-of-speech": "adverb",
+      "english": "near",
+      "hungarian": "közel",
+      "cefr": "A1",
+      "ipa": "[ˈkøzɛl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7868388a-7583-49e3-a851-0a1f9c7243ed",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "hungarian": "messze",
+      "cefr": "A1",
+      "ipa": "[ˈmɛsːɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01ecf92c-76e8-4d6f-8b31-286f440c47b4",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "hungarian": "jobbra",
+      "cefr": "A1",
+      "ipa": "[ˈjobrɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d5dff8f-d8c7-4a1e-8de7-733d96d9597e",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "hungarian": "balra",
+      "cefr": "A1",
+      "ipa": "[ˈbɒlrɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5102c407-49ef-47d7-9a0c-b29653885c32",
+      "part-of-speech": "adverb",
+      "english": "straight on",
+      "hungarian": "egyenesen",
+      "cefr": "A2",
+      "ipa": "[ˈɛɟɛnɛʃɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33df4fa2-844a-4e53-a42c-886ca799150e",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "hungarian": "nagyon",
+      "cefr": "A1",
+      "ipa": "[ˈnɒɟon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f9131e0-84b1-4cbd-9615-77ae518bf36e",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "hungarian": "kicsit",
+      "cefr": "A1",
+      "ipa": "[ˈkitʃit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6e66b87-2fb9-4161-8191-e2a314d050f5",
+      "part-of-speech": "adverb",
+      "english": "much, many, a lot",
+      "hungarian": "sok",
+      "cefr": "A1",
+      "ipa": "[ʃok]",
+      "context": "also an adjective: sok ember, many people",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80f3283f-d557-4441-8a59-5859ab43672b",
+      "part-of-speech": "adverb",
+      "english": "little, few",
+      "hungarian": "kevés",
+      "cefr": "A2",
+      "ipa": "[ˈkɛveːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5914acc2-264b-4865-b1f7-32ee8dfd7cc2",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "hungarian": "jól",
+      "cefr": "A1",
+      "ipa": "[joːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d2e2ccb-09b1-4a76-8b8c-964e4941c266",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "hungarian": "rosszul",
+      "cefr": "A1",
+      "ipa": "[ˈrosːul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce43abb0-85ca-4100-bb47-317c1d0feed7",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "hungarian": "gyorsan",
+      "cefr": "A1",
+      "ipa": "[ˈɟorʃɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37d2f392-3bab-4c5f-801d-59c5fc598933",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "hungarian": "lassan",
+      "cefr": "A1",
+      "ipa": "[ˈlɒʃːɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e85a5f16-e8f5-4388-a822-abfa09c86e6f",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "hungarian": "már",
+      "cefr": "A2",
+      "ipa": "[maːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad285fa7-8c31-44cf-95d3-b31ae9784b11",
+      "part-of-speech": "adverb",
+      "english": "still; yet; more",
+      "hungarian": "még",
+      "cefr": "A1",
+      "ipa": "[meːɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec0f71c3-eafd-416c-aef6-682c4e174828",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "hungarian": "csak",
+      "cefr": "A1",
+      "ipa": "[tʃɒk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b0be9b4-2b91-46cb-b8d2-71550da00303",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "hungarian": "is",
+      "cefr": "A1",
+      "ipa": "[iʃ]",
+      "context": "follows the word it refers to: én is, me too",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1ad3421-9f5d-425d-b465-ca89fc879727",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "hungarian": "együtt",
+      "cefr": "A1",
+      "ipa": "[ˈɛɟyt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "557dce1a-57f4-490f-be3c-aee94b66a27b",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "hungarian": "korán",
+      "cefr": "A1",
+      "ipa": "[ˈkoraːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c68b51b-7263-4e4f-b9bf-bdc5d91a9cb5",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "hungarian": "későn",
+      "cefr": "A1",
+      "ipa": "[ˈkeːʃøːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a070189-1130-493c-8350-515309ab1ed3",
+      "part-of-speech": "adverb",
+      "english": "maybe",
+      "hungarian": "talán",
+      "cefr": "A1",
+      "ipa": "[ˈtɒlaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2edf907f-b2f6-44fa-8ffd-08b26aa09e18",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "hungarian": "persze",
+      "cefr": "A1",
+      "ipa": "[ˈpɛrsɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccf9a970-6e6e-4819-8d79-ceb2547bd3ab",
+      "part-of-speech": "adverb",
+      "english": "then, afterwards",
+      "hungarian": "aztán",
+      "cefr": "A1",
+      "ipa": "[ˈɒstaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cc5769c-7e8c-40cc-9ed7-2f4d1d16e863",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "hungarian": "otthon",
+      "cefr": "A1",
+      "ipa": "[ˈothon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c645bae-e04c-4fdb-9a3a-c532ca2cd32a",
+      "part-of-speech": "adverb",
+      "english": "home (homewards)",
+      "hungarian": "haza",
+      "cefr": "A2",
+      "ipa": "[ˈhɒzɒ]",
+      "context": "Megyek haza: I'm going home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e76062b6-4bb1-4c9e-adb7-7a40f4fee53a",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "hungarian": "hol",
+      "cefr": "A1",
+      "ipa": "[hol]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0db747b7-860d-41b6-a7e6-665b8aac13e2",
+      "part-of-speech": "adverb",
+      "english": "where to",
+      "hungarian": "hová",
+      "cefr": "A1",
+      "ipa": "[ˈhovaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c73d0ec9-75ba-415c-b508-5d67d343709d",
+      "part-of-speech": "adverb",
+      "english": "where from",
+      "hungarian": "honnan",
+      "cefr": "A2",
+      "ipa": "[ˈhonːɒn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb9370f7-bbfb-44fc-9f1a-9a2b40595ed1",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "hungarian": "mikor",
+      "cefr": "A1",
+      "ipa": "[ˈmikor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b0ae5e1-9824-4466-a524-9f3178814508",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "hungarian": "hogyan",
+      "cefr": "A1",
+      "ipa": "[ˈhoɟɒn]",
+      "context": "also hogy",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8266cc7-0d5a-4fc6-87c7-5f3a25e3a3e1",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "hungarian": "miért",
+      "cefr": "A1",
+      "ipa": "[ˈmieːrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e1d3025-b8e0-4b34-b218-cba768386943",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "hungarian": "mennyi",
+      "cefr": "A1",
+      "ipa": "[ˈmɛɲːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35712cc6-c894-4a2f-89d5-895a6cf52a77",
+      "part-of-speech": "adverb",
+      "english": "how many",
+      "hungarian": "hány",
+      "cefr": "A1",
+      "ipa": "[haːɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1cc5da7-33d2-4bbe-bb38-84fc5bc6659a",
+      "part-of-speech": "postposition",
+      "english": "under; during",
+      "hungarian": "alatt",
+      "cefr": "A2",
+      "ipa": "[ˈɒlɒt]",
+      "context": "after the noun: az asztal alatt, under the table",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46efc3e0-3c15-495e-98ad-22a71d7f6369",
+      "part-of-speech": "postposition",
+      "english": "above, over",
+      "hungarian": "fölött",
+      "cefr": "A2",
+      "ipa": "[ˈføløt]",
+      "context": "az asztal fölött",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb1cb2f7-aeae-4f87-b1f9-6498b14af786",
+      "part-of-speech": "postposition",
+      "english": "beside, next to",
+      "hungarian": "mellett",
+      "cefr": "A2",
+      "ipa": "[ˈmɛlːɛt]",
+      "context": "a ház mellett",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d12ad8c-1f70-43e5-a16d-853989491c60",
+      "part-of-speech": "postposition",
+      "english": "in front of; before",
+      "hungarian": "előtt",
+      "cefr": "A2",
+      "ipa": "[ˈɛløːt]",
+      "context": "a ház előtt; óra előtt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f7ce9ac-5baa-4085-8f24-7b1c56e3ec2c",
+      "part-of-speech": "postposition",
+      "english": "behind",
+      "hungarian": "mögött",
+      "cefr": "A2",
+      "ipa": "[ˈmøɡøt]",
+      "context": "a ház mögött",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "445ab9e1-9b30-4545-aacf-dc2c09cad0c6",
+      "part-of-speech": "postposition",
+      "english": "between, among",
+      "hungarian": "között",
+      "cefr": "A2",
+      "ipa": "[ˈkøzøt]",
+      "context": "a ház és a kert között",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36e29c19-ba5b-487a-8840-85c550e5d0eb",
+      "part-of-speech": "postposition",
+      "english": "after",
+      "hungarian": "után",
+      "cefr": "A2",
+      "ipa": "[ˈutaːn]",
+      "context": "ebéd után: after lunch",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcda9a9f-be57-4735-8f2e-d5bb42a26435",
+      "part-of-speech": "postposition",
+      "english": "without",
+      "hungarian": "nélkül",
+      "cefr": "A2",
+      "ipa": "[ˈneːlkyl]",
+      "context": "cukor nélkül: without sugar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1067128f-a6c3-4a11-b379-958d79bef733",
+      "part-of-speech": "postposition",
+      "english": "towards",
+      "hungarian": "felé",
+      "cefr": "A2",
+      "ipa": "[ˈfɛleː]",
+      "context": "a város felé",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ef75b4c-9fd0-4877-9e8d-7af3f29f07f9",
+      "part-of-speech": "postposition",
+      "english": "since; for (time)",
+      "hungarian": "óta",
+      "cefr": "A2",
+      "ipa": "[ˈoːtɒ]",
+      "context": "2010 óta: since 2010",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "980d2ebc-d7e5-45ed-8565-53bb12cb89f3",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "hungarian": "és",
+      "cefr": "A1",
+      "ipa": "[eːʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8875dc26-cd4f-4d42-9d75-85753928f787",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "hungarian": "de",
+      "cefr": "A1",
+      "ipa": "[dɛ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "473e09a5-3cbf-47fa-9e37-faa636b30afa",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "hungarian": "vagy",
+      "cefr": "A1",
+      "ipa": "[vɒɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51c8b312-108c-4217-beb3-283621ec3bd1",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "hungarian": "mert",
+      "cefr": "A1",
+      "ipa": "[mɛrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc6068c2-ad5c-42be-a2ab-1cbae38bb8ad",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "hungarian": "hogy",
+      "cefr": "A1",
+      "ipa": "[hoɟ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3aaec89-f389-4130-9897-dcc8eb904fb2",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "hungarian": "ha",
+      "cefr": "A1",
+      "ipa": "[hɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4926a553-14e8-4803-9ef6-0a2c40a19e58",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "hungarian": "amikor",
+      "cefr": "A1",
+      "ipa": "[ˈɒmikor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "527884dd-03bb-4eb9-971f-b540b028974c",
+      "part-of-speech": "conjunction",
+      "english": "than; like, as",
+      "hungarian": "mint",
+      "cefr": "A2",
+      "ipa": "[mint]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9098dd20-6dd6-40de-b682-40fc86fdc1ad",
+      "part-of-speech": "conjunction",
+      "english": "but, whereas; and",
+      "hungarian": "pedig",
+      "cefr": "A2",
+      "ipa": "[ˈpɛdiɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ced9c287-0972-469f-ba7e-3c8652e95126",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "hungarian": "tehát",
+      "cefr": "A2",
+      "ipa": "[ˈtɛhaːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ebe2ae4-f444-442f-8c69-47412bcfb6b4",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "hungarian": "igen",
+      "cefr": "A1",
+      "ipa": "[ˈiɡɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b0a832e-c97e-41d5-af2f-3e6bed622ec8",
+      "part-of-speech": "interjection",
+      "english": "no; not",
+      "hungarian": "nem",
+      "cefr": "A1",
+      "ipa": "[nɛm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7f1e156-6c11-485a-9656-d17deea2d649",
+      "part-of-speech": "interjection",
+      "english": "hi; bye (to one person)",
+      "hungarian": "szia",
+      "cefr": "A1",
+      "ipa": "[ˈsiɒ]",
+      "context": "to several people: sziasztok",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47343953-20c3-4567-ac3a-471803e85338",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "hungarian": "helló",
+      "cefr": "A1",
+      "ipa": "[ˈhɛlːoː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33ae9446-4503-4245-a606-15049a38551e",
+      "part-of-speech": "interjection",
+      "english": "good day, hello",
+      "hungarian": "jó napot",
+      "cefr": "A1",
+      "ipa": "[joː ˈnɒpot]",
+      "context": "in full: jó napot kívánok",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca6f9ead-7876-4526-8d9a-d7930ce6d6c8",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "hungarian": "jó reggelt",
+      "cefr": "A1",
+      "ipa": "[joː ˈrɛɡːɛlt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c53d2f3f-f727-42fc-bf0d-034e0d8b9f50",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "hungarian": "jó estét",
+      "cefr": "A1",
+      "ipa": "[joː ˈɛʃteːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e0d991a-e966-44c0-a035-ba0fa085c536",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "hungarian": "jó éjszakát",
+      "cefr": "A1",
+      "ipa": "[joː ˈeːjsɒkaːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05022c90-bf4e-4b92-b703-a69477381a99",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "hungarian": "viszontlátásra",
+      "cefr": "A1",
+      "ipa": "[ˈvisontlaːtaːʃrɒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc594d27-a442-4d4d-8889-0a8d44430c8d",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "hungarian": "köszönöm",
+      "cefr": "A1",
+      "ipa": "[ˈkøsønøm]",
+      "context": "köszi: thanks (informal)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70e299d7-268d-4340-8fee-144f35b2ade4",
+      "part-of-speech": "interjection",
+      "english": "please (formal)",
+      "hungarian": "kérem",
+      "cefr": "A1",
+      "ipa": "[ˈkeːrɛm]",
+      "context": "informal: kérlek",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d9d1820-a6b1-4d66-bbcd-3af4bc9bc4a6",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "hungarian": "szívesen",
+      "cefr": "A1",
+      "ipa": "[ˈsiːvɛʃɛn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c9e0638-7d36-4cc8-a1f6-b1daaa64da9d",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "hungarian": "bocsánat",
+      "cefr": "A1",
+      "ipa": "[ˈbotʃaːnɒt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ec78e47-be0a-4aa3-9c09-3102301bcf1e",
+      "part-of-speech": "interjection",
+      "english": "excuse me",
+      "hungarian": "elnézést",
+      "cefr": "A1",
+      "ipa": "[ˈɛlneːzeːʃt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de5dedbe-6b34-4f59-aad4-0c9ec432d6a2",
+      "part-of-speech": "interjection",
+      "english": "cheers!; bless you!",
+      "hungarian": "egészségedre",
+      "cefr": "A1",
+      "ipa": "[ˈɛɡeːʃːeːɡɛdrɛ]",
+      "context": "formal: egészségére",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92dce1f5-c6d8-4b99-ac0f-1ed6dcf1f835",
+      "part-of-speech": "interjection",
+      "english": "here you are; pardon?; yes? (answering)",
+      "hungarian": "tessék",
+      "cefr": "A1",
+      "ipa": "[ˈtɛʃːeːk]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}
