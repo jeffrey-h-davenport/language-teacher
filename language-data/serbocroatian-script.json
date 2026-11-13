@@ -1,0 +1,225 @@
+{
+  "scriptName": "Serbo-Croatian Pronunciation",
+  "buttonLabel": "Pronunciation Guide",
+  "generated": "pronunciation",
+  "intro": "How Serbo-Croatian is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "About the pronunciations",
+      "text": [
+        "Pronunciations follow standard ijekavian Serbo-Croatian (as used in Croatia, Bosnia and Montenegro), written as exact (bracketed) IPA. Spelling is phonetic: every letter is pronounced, always the same way. ˈ marks the stressed syllable (one-syllable words are always stressed, so they are not marked), and its vowel carries one of four pitch accents: a circumflex (â) for a falling pitch and a caron (ǎ) for a rising one, each short or long (ː). Long vowels after the stress are marked ː too. Falling accents only occur on the first syllable; rising ones never on the last."
+      ]
+    },
+    {
+      "heading": "Letters and sounds",
+      "items": [
+        {
+          "char": "a e i o u",
+          "ipa": "[a e i o u]",
+          "note": "short, pure vowels"
+        },
+        {
+          "char": "č",
+          "ipa": "[tʃ]",
+          "note": "ch, as in \"church\""
+        },
+        {
+          "char": "ć",
+          "ipa": "[tɕ]",
+          "note": "a softer ch, with the tongue flat"
+        },
+        {
+          "char": "dž",
+          "ipa": "[dʒ]",
+          "note": "j, as in \"jam\""
+        },
+        {
+          "char": "đ",
+          "ipa": "[dʑ]",
+          "note": "a softer j, with the tongue flat"
+        },
+        {
+          "char": "š / ž",
+          "ipa": "[ʃ ʒ]",
+          "note": "sh, and s in \"measure\""
+        },
+        {
+          "char": "c",
+          "ipa": "[ts]",
+          "note": "ts — never k or s"
+        },
+        {
+          "char": "j",
+          "ipa": "[j]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "lj / nj",
+          "ipa": "[ʎ ɲ]",
+          "note": "ly as in \"million\", ny as in \"canyon\""
+        },
+        {
+          "char": "h",
+          "ipa": "[x]",
+          "note": "kh, as in \"loch\""
+        },
+        {
+          "char": "v",
+          "ipa": "[ʋ]",
+          "note": "a soft v"
+        },
+        {
+          "char": "r between consonants",
+          "ipa": "[r̩]",
+          "note": "a rolled r that is a syllable of its own: prst, crkva"
+        },
+        {
+          "char": "ije / je",
+          "ipa": "[ije je]",
+          "note": "ijekavian: where Serbian ekavian has e (mlijeko / mleko, djeca / deca)"
+        },
+        {
+          "char": "ȁ in dictionaries",
+          "ipa": "[â]",
+          "note": "short falling: kruh [krûx]"
+        },
+        {
+          "char": "ȃ",
+          "ipa": "[âː]",
+          "note": "long falling: dan [dâːn]"
+        },
+        {
+          "char": "à",
+          "ipa": "[ǎ]",
+          "note": "short rising: žena [ˈʒěna]"
+        },
+        {
+          "char": "á",
+          "ipa": "[ǎː]",
+          "note": "long rising: ruka [ˈrǔːka]"
+        },
+        {
+          "char": "ā",
+          "ipa": "[aː]",
+          "note": "long, but not stressed"
+        }
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "a [a]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "bez [bez]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "i [i]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "o [o]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "u [u]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "ja [jâ]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "jer [jêr]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "x",
+          "ipa": "tih [tîx]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "naš [nâʃ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "muž [mûːʒ]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɕ",
+          "ipa": "već [ʋêtɕ]",
+          "note": "a soft sh, with the tongue flat"
+        },
+        {
+          "char": "ʎ",
+          "ipa": "ulje [ˈûʎe]",
+          "note": "ly — l with the tongue flat, as in \"million\""
+        },
+        {
+          "char": "ɲ",
+          "ipa": "konj [kôɲ]",
+          "note": "ny, as in \"canyon\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "banka [ˈbâŋka]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʋ",
+          "ipa": "vi [ʋîː]",
+          "note": "between v and w, with the lips barely touching"
+        },
+        {
+          "char": "ʑ",
+          "ipa": "leđa [ˈlêdʑa]",
+          "note": "a soft j"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "dug [dûɡ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "ime [ˈîme]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "mi [mîː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "◌̩",
+          "ipa": "prst [pr̩̂st]",
+          "note": "forms a syllable on its own, without a vowel"
+        },
+        {
+          "char": "◌̌",
+          "ipa": "žena [ˈʒěna]",
+          "note": "with a rising pitch"
+        },
+        {
+          "char": "◌̂",
+          "ipa": "ja [jâ]",
+          "note": "with a falling pitch"
+        }
+      ]
+    }
+  ]
+}

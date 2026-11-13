@@ -103,6 +103,10 @@ html, body {
 }
 
 .flag { font-size: 72px; filter: drop-shadow(0 4px 16px rgba(0,0,0,0.4)); }
+/* Image flags (languages with no single national flag): sized to sit in a
+   line of text like an emoji, and to fill the big welcome/lobby flag. */
+.flag-icon { height: 1.1em; width: auto; vertical-align: -0.2em; }
+.flag .flag-icon { height: 0.9em; vertical-align: middle; }
 
 .welcome-hero h1 {
   font-size: 2.4rem;

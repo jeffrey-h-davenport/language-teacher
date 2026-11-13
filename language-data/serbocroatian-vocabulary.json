@@ -1,0 +1,6407 @@
+{
+  "meta": {
+    "language": "Serbo-Croatian",
+    "languageCode": "sh",
+    "nativeLanguage": "English",
+    "targetField": "serbocroatian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "8cc6c11d-5721-4fe5-b15e-18818222970c",
+      "part-of-speech": "noun",
+      "english": "person, man",
+      "serbocroatian": "čovjek",
+      "gender": "masculine",
+      "plural": "ljudi",
+      "cefr": "A1",
+      "ipa": "[ˈtʃǒʋjek]",
+      "context": "plural: ljudi; ekavian: čovek",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6b656c5-46e4-433a-a56e-6eb560e880bc",
+      "part-of-speech": "noun",
+      "english": "man",
+      "serbocroatian": "muškarac",
+      "gender": "masculine",
+      "plural": "muškarci",
+      "cefr": "A1",
+      "ipa": "[ˈmûʃkarats]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7e7a8c9-7ceb-4406-9ed5-ba4310456e5b",
+      "part-of-speech": "noun",
+      "english": "woman; wife",
+      "serbocroatian": "žena",
+      "gender": "feminine",
+      "plural": "žene",
+      "cefr": "A1",
+      "ipa": "[ˈʒěna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42305d7d-1598-4028-9508-f5b0102f6b5b",
+      "part-of-speech": "noun",
+      "english": "child",
+      "serbocroatian": "dijete",
+      "gender": "neuter",
+      "plural": "djeca",
+      "cefr": "A1",
+      "ipa": "[ˈdijěːte]",
+      "context": "plural djeca; ekavian: dete (deca)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ec3053c-2ec5-457f-aefe-cc66b5b4e8f2",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "serbocroatian": "dječak",
+      "gender": "masculine",
+      "plural": "dječaci",
+      "cefr": "A1",
+      "ipa": "[ˈdjětʃak]",
+      "context": "ekavian: dečak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b41583be-2de0-4d06-ba4d-a689867be95c",
+      "part-of-speech": "noun",
+      "english": "girl; girlfriend",
+      "serbocroatian": "djevojka",
+      "gender": "feminine",
+      "plural": "djevojke",
+      "cefr": "A1",
+      "ipa": "[ˈdjěʋoːjka]",
+      "context": "ekavian: devojka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0b8d370-429d-4be4-a0b4-836c3809543f",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "serbocroatian": "majka",
+      "gender": "feminine",
+      "plural": "majke",
+      "cefr": "A1",
+      "ipa": "[ˈmâːjka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e58a649-bc59-4481-89a6-2d0668727328",
+      "part-of-speech": "noun",
+      "english": "father",
+      "serbocroatian": "otac",
+      "gender": "masculine",
+      "plural": "očevi",
+      "cefr": "A1",
+      "ipa": "[ˈǒtats]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47f9fe12-2e1d-4ab3-aebc-29acdd098d44",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "serbocroatian": "roditelji",
+      "gender": "masculine",
+      "plural": "roditelji",
+      "cefr": "A1",
+      "ipa": "[ˈrǒditeʎi]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5017e56a-7013-456a-80ee-ae8e34d0b9de",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "serbocroatian": "brat",
+      "gender": "masculine",
+      "plural": "braća",
+      "cefr": "A1",
+      "ipa": "[brât]",
+      "context": "plural braća takes feminine singular agreement",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b0772b1-f19a-4e5f-86d1-6a23b59a30d8",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "serbocroatian": "sestra",
+      "gender": "feminine",
+      "plural": "sestre",
+      "cefr": "A1",
+      "ipa": "[ˈsěstra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "275a4fb2-cad0-43bb-b3c6-fbf188b8e48a",
+      "part-of-speech": "noun",
+      "english": "son",
+      "serbocroatian": "sin",
+      "gender": "masculine",
+      "plural": "sinovi",
+      "cefr": "A1",
+      "ipa": "[sîːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "745051d4-97c4-4d9d-bb1c-8cfe2e4e1c9e",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "serbocroatian": "kći",
+      "gender": "feminine",
+      "plural": "kćeri",
+      "cefr": "A1",
+      "ipa": "[ktɕîː]",
+      "context": "Serbian: ćerka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87b7d302-37ad-47b9-b857-bfbe421e66bb",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "serbocroatian": "djed",
+      "gender": "masculine",
+      "plural": "djedovi",
+      "cefr": "A1",
+      "ipa": "[djêd]",
+      "context": "Serbian: deda",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2baa5344-6a6d-4af2-a44d-33117731919a",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "serbocroatian": "baka",
+      "gender": "feminine",
+      "plural": "bake",
+      "cefr": "A1",
+      "ipa": "[ˈbǎka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30d01314-1987-4036-86ff-4bc1aa326083",
+      "part-of-speech": "noun",
+      "english": "uncle (mother's brother)",
+      "serbocroatian": "ujak",
+      "gender": "masculine",
+      "plural": "ujaci",
+      "cefr": "A2",
+      "ipa": "[ˈǔjak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f95bad7-701c-4672-8c29-8ee58bb8d81d",
+      "part-of-speech": "noun",
+      "english": "uncle (father's brother)",
+      "serbocroatian": "stric",
+      "gender": "masculine",
+      "plural": "stričevi",
+      "cefr": "A2",
+      "ipa": "[strîːts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0581f56-356c-4091-813e-06f228a47f62",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "serbocroatian": "tetka",
+      "gender": "feminine",
+      "plural": "tetke",
+      "cefr": "A2",
+      "ipa": "[ˈtětka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e9b18cc-77a7-40bb-a051-523bf8aa502b",
+      "part-of-speech": "noun",
+      "english": "family",
+      "serbocroatian": "obitelj",
+      "gender": "feminine",
+      "plural": "obitelji",
+      "cefr": "A1",
+      "ipa": "[oˈbǐteʎ]",
+      "context": "Serbian and Bosnian: porodica",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f7aa921-f622-441b-815d-0bbb713bb00e",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "serbocroatian": "muž",
+      "gender": "masculine",
+      "plural": "muževi",
+      "cefr": "A1",
+      "ipa": "[mûːʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43d40777-7e5a-4e3c-9a38-7eb55276ba07",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "serbocroatian": "prijatelj",
+      "gender": "masculine",
+      "plural": "prijatelji",
+      "cefr": "A1",
+      "ipa": "[ˈprǐjateʎ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54e65fe0-1b88-4f8c-92de-69dddc9d7f93",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "serbocroatian": "prijateljica",
+      "gender": "feminine",
+      "plural": "prijateljice",
+      "cefr": "A1",
+      "ipa": "[ˈprǐjateʎitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb390024-d797-4bf9-b30c-95c749dadbe5",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "serbocroatian": "susjed",
+      "gender": "masculine",
+      "plural": "susjedi",
+      "cefr": "A2",
+      "ipa": "[ˈsǔsjed]",
+      "context": "ekavian: sused",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c669519-8843-4672-902d-c747da016b07",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "serbocroatian": "kolega",
+      "gender": "masculine",
+      "plural": "kolege",
+      "cefr": "A2",
+      "ipa": "[ˈkǒleɡa]",
+      "context": "masculine despite the -a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9493151-b5fb-4806-aba9-8b080738ef70",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "serbocroatian": "učitelj",
+      "gender": "masculine",
+      "plural": "učitelji",
+      "cefr": "A1",
+      "ipa": "[ˈǔtʃiteʎ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40090093-80b8-463a-ae39-f63a5ff3f06e",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "serbocroatian": "učiteljica",
+      "gender": "feminine",
+      "plural": "učiteljice",
+      "cefr": "A1",
+      "ipa": "[ˈǔtʃiteʎitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0cc02e6-799e-44e3-a4bc-694dcf77c03d",
+      "part-of-speech": "noun",
+      "english": "student",
+      "serbocroatian": "student",
+      "gender": "masculine",
+      "plural": "studenti",
+      "cefr": "A1",
+      "ipa": "[ˈstǔdent]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e39ff4c0-e51a-455f-8838-cd1704f0abdb",
+      "part-of-speech": "noun",
+      "english": "student (female)",
+      "serbocroatian": "studentica",
+      "gender": "feminine",
+      "plural": "studentice",
+      "cefr": "A1",
+      "ipa": "[ˈstǔdentitsa]",
+      "context": "Serbian: studentkinja",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2210935d-0c52-47ab-9050-97e5f14b9dac",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "serbocroatian": "doktor",
+      "gender": "masculine",
+      "plural": "doktori",
+      "cefr": "A1",
+      "ipa": "[ˈdǒktor]",
+      "context": "Croatian also liječnik; Serbian also lekar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b81cf17-4db0-4cf7-8f6c-9ef22f1b61ca",
+      "part-of-speech": "noun",
+      "english": "guest",
+      "serbocroatian": "gost",
+      "gender": "masculine",
+      "plural": "gosti",
+      "cefr": "A2",
+      "ipa": "[ɡôst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0ffd758-eac6-4631-892d-c1c86c7a683a",
+      "part-of-speech": "noun",
+      "english": "tourist",
+      "serbocroatian": "turist",
+      "gender": "masculine",
+      "plural": "turisti",
+      "cefr": "A2",
+      "ipa": "[ˈtǔrist]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12c2e2b2-70f9-450d-85f3-c509d9bb89da",
+      "part-of-speech": "noun",
+      "english": "waiter",
+      "serbocroatian": "konobar",
+      "gender": "masculine",
+      "plural": "konobari",
+      "cefr": "A2",
+      "ipa": "[ˈkǒnobar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd02fcc3-52fd-46b3-a837-1b5ecf53f01a",
+      "part-of-speech": "noun",
+      "english": "name",
+      "serbocroatian": "ime",
+      "gender": "neuter",
+      "plural": "imena",
+      "cefr": "A1",
+      "ipa": "[ˈîme]",
+      "context": "Zovem se …: My name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48a5a174-041f-456c-b501-a7bcd5855938",
+      "part-of-speech": "noun",
+      "english": "year",
+      "serbocroatian": "godina",
+      "gender": "feminine",
+      "plural": "godine",
+      "cefr": "A1",
+      "ipa": "[ˈɡǒdina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec0940dc-6dd7-4b52-9032-00b32522a840",
+      "part-of-speech": "noun",
+      "english": "time; weather",
+      "serbocroatian": "vrijeme",
+      "gender": "neuter",
+      "plural": "vremena",
+      "cefr": "A1",
+      "ipa": "[ˈʋrijêːme]",
+      "context": "ekavian: vreme",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f6378a1-f410-49bc-912f-97526831c6ac",
+      "part-of-speech": "noun",
+      "english": "day",
+      "serbocroatian": "dan",
+      "gender": "masculine",
+      "plural": "dani",
+      "cefr": "A1",
+      "ipa": "[dâːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0859e973-f44b-4136-8796-9d15b3a298c0",
+      "part-of-speech": "noun",
+      "english": "week",
+      "serbocroatian": "tjedan",
+      "gender": "masculine",
+      "plural": "tjedni",
+      "cefr": "A1",
+      "ipa": "[ˈtjêdan]",
+      "context": "Serbian: nedelja; Bosnian: sedmica",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3064e3b-aab2-4f37-8692-a20551339aba",
+      "part-of-speech": "noun",
+      "english": "month; moon",
+      "serbocroatian": "mjesec",
+      "gender": "masculine",
+      "plural": "mjeseci",
+      "cefr": "A1",
+      "ipa": "[ˈmjêsets]",
+      "context": "ekavian: mesec",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e4e1ac6-d181-42b1-97e5-60a6e7774ec4",
+      "part-of-speech": "noun",
+      "english": "hour; clock, watch",
+      "serbocroatian": "sat",
+      "gender": "masculine",
+      "plural": "sati",
+      "cefr": "A1",
+      "ipa": "[sâːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a3967a3-8346-4872-b082-4dbbb11bb059",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "serbocroatian": "minuta",
+      "gender": "feminine",
+      "plural": "minute",
+      "cefr": "A1",
+      "ipa": "[miˈnǔːta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cb15a30-f87d-47a6-b61b-dddfb2c05f47",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "serbocroatian": "jutro",
+      "gender": "neuter",
+      "plural": "jutra",
+      "cefr": "A1",
+      "ipa": "[ˈjǔtro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98d0f6b6-b1ec-4958-8c82-8978e6dcd9cd",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "serbocroatian": "popodne",
+      "gender": "neuter",
+      "plural": "popodneva",
+      "cefr": "A1",
+      "ipa": "[ˈpǒpodne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70fbae74-03b4-421b-87ab-fc92d3f76a4d",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "serbocroatian": "večer",
+      "gender": "feminine",
+      "plural": "večeri",
+      "cefr": "A1",
+      "ipa": "[ˈʋêtʃer]",
+      "context": "feminine in Croatian, masculine (veče) in Serbian",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f3870ea-93f2-447c-b4e0-5f7efa3b1c25",
+      "part-of-speech": "noun",
+      "english": "night",
+      "serbocroatian": "noć",
+      "gender": "feminine",
+      "plural": "noći",
+      "cefr": "A1",
+      "ipa": "[nôːtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e3054be-ac6d-46aa-8328-11b00c1b4cbe",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "serbocroatian": "vikend",
+      "gender": "masculine",
+      "plural": "vikendi",
+      "cefr": "A2",
+      "ipa": "[ˈʋǐkend]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9722f68f-3137-40c1-8c49-0c0c448525bd",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "serbocroatian": "ponedjeljak",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[poˈnědjeʎak]",
+      "context": "ekavian: ponedeljak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5e72a2d-de03-4f75-91f2-0395c3e55d85",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "serbocroatian": "utorak",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈûtorak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61e13273-6482-481e-9b38-75aaa1ef0e56",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "serbocroatian": "srijeda",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsrijêːda]",
+      "context": "ekavian: sreda",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "765b31b3-14d4-46cb-84e7-2325449bf9bb",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "serbocroatian": "četvrtak",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtʃětʋr̩tak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7143e4df-d260-43f2-a3ab-1d4ff9264cb4",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "serbocroatian": "petak",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpêtak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74cf78c9-dec2-41f9-8c46-c20b53638026",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "serbocroatian": "subota",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsǔbota]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18f3c1b9-20d0-47e8-93fb-4b76bd370c8d",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "serbocroatian": "nedjelja",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈnědjeʎa]",
+      "context": "ekavian: nedelja (in Serbian also 'week')",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25cec1b1-377d-416d-9ffb-cd7de4a28902",
+      "part-of-speech": "noun",
+      "english": "January",
+      "serbocroatian": "januar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjânuaːr]",
+      "context": "used in Serbia, Bosnia and Montenegro; Croatian: siječanj",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1fce985c-6dd2-4178-b5a9-f6aef7c7709b",
+      "part-of-speech": "noun",
+      "english": "February",
+      "serbocroatian": "februar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈfêbruaːr]",
+      "context": "Croatian: veljača",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "149505f0-3c7b-4eb0-9deb-b02f6f897eb3",
+      "part-of-speech": "noun",
+      "english": "March",
+      "serbocroatian": "mart",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[mârt]",
+      "context": "Croatian: ožujak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f87e715-3a87-40a2-a781-efae1cec7316",
+      "part-of-speech": "noun",
+      "english": "April",
+      "serbocroatian": "april",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈâpril]",
+      "context": "Croatian: travanj",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79bf620a-4d4b-4903-b906-d5cd0dd9bc36",
+      "part-of-speech": "noun",
+      "english": "May",
+      "serbocroatian": "maj",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[mâj]",
+      "context": "Croatian: svibanj",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3ba69bb-6aff-48e8-b36c-21014e819092",
+      "part-of-speech": "noun",
+      "english": "June",
+      "serbocroatian": "jun",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jûn]",
+      "context": "Croatian: lipanj",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e57c8e1-071b-4ac7-9342-bcb3bce3a9cc",
+      "part-of-speech": "noun",
+      "english": "July",
+      "serbocroatian": "jul",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jûl]",
+      "context": "Croatian: srpanj",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25a79836-48be-4bc5-b029-0d873d57f984",
+      "part-of-speech": "noun",
+      "english": "August",
+      "serbocroatian": "august",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈâuɡust]",
+      "context": "Croatian: kolovoz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a12e23e0-00b7-49cc-a7de-fd9fff73f3ad",
+      "part-of-speech": "noun",
+      "english": "September",
+      "serbocroatian": "septembar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsěptembar]",
+      "context": "Croatian: rujan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f425caa-e01f-4008-b63d-07e8087e2e81",
+      "part-of-speech": "noun",
+      "english": "October",
+      "serbocroatian": "oktobar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈǒktoːbar]",
+      "context": "Croatian: listopad",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32c8d961-3ddb-43b7-a5a5-ad746b26aead",
+      "part-of-speech": "noun",
+      "english": "November",
+      "serbocroatian": "novembar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈnǒʋembar]",
+      "context": "Croatian: studeni",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5c791c4-dafa-4545-b447-3e0168117678",
+      "part-of-speech": "noun",
+      "english": "December",
+      "serbocroatian": "decembar",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈdětsembar]",
+      "context": "Croatian: prosinac",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0068c20-eb39-4566-8e81-6a479497b858",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "serbocroatian": "proljeće",
+      "gender": "neuter",
+      "plural": "proljeća",
+      "cefr": "A1",
+      "ipa": "[ˈprǒʎetɕe]",
+      "context": "ekavian: proleće",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fca5882a-0b0e-442b-b0b9-41e9d66eeeda",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "serbocroatian": "ljeto",
+      "gender": "neuter",
+      "plural": "ljeta",
+      "cefr": "A1",
+      "ipa": "[ˈʎêto]",
+      "context": "ekavian: leto",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33a158a8-f16d-41c4-8a72-25452f6992e8",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "serbocroatian": "jesen",
+      "gender": "feminine",
+      "plural": "jeseni",
+      "cefr": "A1",
+      "ipa": "[ˈjêsen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d1e64a2-5d19-4d9c-b70f-945e1eea90b3",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "serbocroatian": "zima",
+      "gender": "feminine",
+      "plural": "zime",
+      "cefr": "A1",
+      "ipa": "[ˈzǐːma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c73abc63-46cb-41cd-9609-76204aa35f22",
+      "part-of-speech": "noun",
+      "english": "head",
+      "serbocroatian": "glava",
+      "gender": "feminine",
+      "plural": "glave",
+      "cefr": "A1",
+      "ipa": "[ˈɡlǎʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7563849-ecbd-43ac-84a0-e5c2e5305187",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "serbocroatian": "oko",
+      "gender": "neuter",
+      "plural": "oči",
+      "cefr": "A1",
+      "ipa": "[ˈôko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e301967-7fd5-4d43-b615-a0d3d47715ae",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "serbocroatian": "uho",
+      "gender": "neuter",
+      "plural": "uši",
+      "cefr": "A1",
+      "ipa": "[ˈûxo]",
+      "context": "Serbian: uvo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b94a61cf-a3df-49f5-9a06-97ef197f05ac",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "serbocroatian": "nos",
+      "gender": "masculine",
+      "plural": "nosovi",
+      "cefr": "A1",
+      "ipa": "[nôːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b9b5a42-e71b-4ed3-a9dd-9cdacfe85777",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "serbocroatian": "usta",
+      "gender": "neuter",
+      "plural": "usta",
+      "cefr": "A1",
+      "ipa": "[ˈûːsta]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ab5a980-e97f-436c-8c23-7813d4235d74",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "serbocroatian": "zub",
+      "gender": "masculine",
+      "plural": "zubi",
+      "cefr": "A1",
+      "ipa": "[zûːb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a9d8da6-0739-4a88-8e1b-79d396b81bd1",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "serbocroatian": "ruka",
+      "gender": "feminine",
+      "plural": "ruke",
+      "cefr": "A1",
+      "ipa": "[ˈrǔːka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7235c252-e78d-41c6-9958-078a3b28b375",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "serbocroatian": "noga",
+      "gender": "feminine",
+      "plural": "noge",
+      "cefr": "A1",
+      "ipa": "[ˈnǒɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "115a45ff-a4a7-47d9-8a10-6680324fdc1b",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "serbocroatian": "srce",
+      "gender": "neuter",
+      "plural": "srca",
+      "cefr": "A2",
+      "ipa": "[ˈsr̩̂tse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "390b1a66-4b75-4441-92a3-d54dc62e7518",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "serbocroatian": "kosa",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈkǒsa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbc9a5ff-abe0-4cdc-8f7b-45401f469d29",
+      "part-of-speech": "noun",
+      "english": "face",
+      "serbocroatian": "lice",
+      "gender": "neuter",
+      "plural": "lica",
+      "cefr": "A2",
+      "ipa": "[ˈlîtse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c62e1a11-e2c2-4fe7-a347-ce09885eb000",
+      "part-of-speech": "noun",
+      "english": "body",
+      "serbocroatian": "tijelo",
+      "gender": "neuter",
+      "plural": "tijela",
+      "cefr": "A2",
+      "ipa": "[ˈtijêːlo]",
+      "context": "ekavian: telo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3c3cc08-6314-4686-9801-c443d000c215",
+      "part-of-speech": "noun",
+      "english": "finger",
+      "serbocroatian": "prst",
+      "gender": "masculine",
+      "plural": "prsti",
+      "cefr": "A2",
+      "ipa": "[pr̩̂st]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f8fcff7-e64b-4eb6-b27e-444de6f83550",
+      "part-of-speech": "noun",
+      "english": "back",
+      "serbocroatian": "leđa",
+      "gender": "neuter",
+      "plural": "leđa",
+      "cefr": "A2",
+      "ipa": "[ˈlêdʑa]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a380c86-ed04-4181-9b52-299d08db8cc7",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "serbocroatian": "kruh",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[krûx]",
+      "countability": "mass",
+      "context": "Serbian: hleb; Bosnian: hljeb",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed0c9012-5d4b-4583-8cdf-151395d0b97f",
+      "part-of-speech": "noun",
+      "english": "water",
+      "serbocroatian": "voda",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈʋǒda]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1218b42-86ee-41ff-972e-87b7983244dc",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "serbocroatian": "mlijeko",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈmlijěːko]",
+      "countability": "mass",
+      "context": "ekavian: mleko",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3423c364-349b-49fb-8f0c-490ed34fe25d",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "serbocroatian": "kava",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈkâʋa]",
+      "countability": "mass",
+      "context": "Serbian and Bosnian: kafa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "459c227f-46f6-4e9a-819a-0f0d212e3160",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "serbocroatian": "čaj",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tʃâːj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcdf1e01-3ad8-4a5a-90d3-90afe72f1b25",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "serbocroatian": "pivo",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈpîʋo]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d1340cb-44ff-4313-b2ff-5fb0d6e51189",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "serbocroatian": "vino",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈʋîːno]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b988fd3-654a-4381-9230-16c9f8204cb2",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "serbocroatian": "sok",
+      "gender": "masculine",
+      "plural": "sokovi",
+      "cefr": "A1",
+      "ipa": "[sôːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "904cac9f-4303-4678-b6a7-7067055d3887",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "serbocroatian": "meso",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈměso]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5f2ef63-c85d-4fe8-b3b8-44822796bb9b",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "serbocroatian": "riba",
+      "gender": "feminine",
+      "plural": "ribe",
+      "cefr": "A1",
+      "ipa": "[ˈrîba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c163c94-5296-45e5-964c-113ae8a10510",
+      "part-of-speech": "noun",
+      "english": "chicken (meat)",
+      "serbocroatian": "piletina",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈpǐletina]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dc286a8-f96b-4725-b4c9-02e40c50b243",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "serbocroatian": "sir",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sîːr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24883130-0d7b-4ad8-ac1b-b7ee550c422e",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "serbocroatian": "jaje",
+      "gender": "neuter",
+      "plural": "jaja",
+      "cefr": "A1",
+      "ipa": "[ˈjǎːje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cfc0724-ce0b-4eea-826b-5c044a542e4a",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "serbocroatian": "jabuka",
+      "gender": "feminine",
+      "plural": "jabuke",
+      "cefr": "A1",
+      "ipa": "[ˈjǎbuka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4edb8ec3-4301-4286-b8f2-f8e737e20d44",
+      "part-of-speech": "noun",
+      "english": "orange",
+      "serbocroatian": "naranča",
+      "gender": "feminine",
+      "plural": "naranče",
+      "cefr": "A1",
+      "ipa": "[ˈnǎrantʃa]",
+      "context": "Serbian: pomorandža",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ca578ea-3234-46cd-a4e6-11a3a8b6a514",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "serbocroatian": "rajčica",
+      "gender": "feminine",
+      "plural": "rajčice",
+      "cefr": "A2",
+      "ipa": "[ˈrâjtʃitsa]",
+      "context": "Serbian: paradajz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66f421db-1562-40de-993e-0c370751c207",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "serbocroatian": "voće",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈʋǒːtɕe]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f180da62-e55d-449c-b4d4-1398abfc0df6",
+      "part-of-speech": "noun",
+      "english": "vegetables",
+      "serbocroatian": "povrće",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈpǒʋr̩tɕe]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4068205d-4257-476e-98e1-422533b6d04f",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "serbocroatian": "krumpir",
+      "gender": "masculine",
+      "plural": "krumpiri",
+      "cefr": "A1",
+      "ipa": "[ˈkrǔmpiːr]",
+      "context": "Serbian: krompir",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc342dee-4e6e-4294-b078-933bc1f3b6bb",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "serbocroatian": "riža",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈrîʒa]",
+      "countability": "mass",
+      "context": "Serbian: pirinač",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74144f20-97cc-4bce-9929-598fee8e9eba",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "serbocroatian": "juha",
+      "gender": "feminine",
+      "plural": "juhe",
+      "cefr": "A1",
+      "ipa": "[ˈjûxa]",
+      "context": "Serbian: supa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4aac09fd-55a2-41b9-af53-f218dd7d38a3",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "serbocroatian": "šećer",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʃětɕer]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51564170-ccac-43de-b8a3-f6b4514abe43",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "serbocroatian": "sol",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[sôːl]",
+      "countability": "mass",
+      "context": "Serbian: so",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "429bcdca-bafd-4cad-a29d-87a373df236f",
+      "part-of-speech": "noun",
+      "english": "oil",
+      "serbocroatian": "ulje",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈûʎe]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9004d46f-a51c-454e-8cae-5f40c09d7e40",
+      "part-of-speech": "noun",
+      "english": "salad; lettuce",
+      "serbocroatian": "salata",
+      "gender": "feminine",
+      "plural": "salate",
+      "cefr": "A1",
+      "ipa": "[saˈlǎta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c50001c-8454-45fc-ac16-33184e1b57f8",
+      "part-of-speech": "noun",
+      "english": "cake; pastry",
+      "serbocroatian": "kolač",
+      "gender": "masculine",
+      "plural": "kolači",
+      "cefr": "A1",
+      "ipa": "[ˈkǒlaːtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1da5884f-50ad-402c-a2c8-567d70ed4e5f",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "serbocroatian": "doručak",
+      "gender": "masculine",
+      "plural": "doručci",
+      "cefr": "A1",
+      "ipa": "[ˈdôrutʃak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "818eefbb-4d44-448d-9cad-3d0ac0ce1734",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "serbocroatian": "ručak",
+      "gender": "masculine",
+      "plural": "ručkovi",
+      "cefr": "A1",
+      "ipa": "[ˈrûtʃak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6abe4ff4-5e92-45f4-846a-0a3b94bdc0de",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "serbocroatian": "večera",
+      "gender": "feminine",
+      "plural": "večere",
+      "cefr": "A1",
+      "ipa": "[ˈʋětʃera]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5306a3c-dcf0-458b-8472-368380e7fa8f",
+      "part-of-speech": "noun",
+      "english": "food",
+      "serbocroatian": "hrana",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈxrǎːna]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8ed702d-862e-4f62-b9f8-e1b79308fd8a",
+      "part-of-speech": "noun",
+      "english": "dish, meal",
+      "serbocroatian": "jelo",
+      "gender": "neuter",
+      "plural": "jela",
+      "cefr": "A2",
+      "ipa": "[ˈjêlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b66821a4-8021-4ba3-9a48-fda3cf6e6c3f",
+      "part-of-speech": "noun",
+      "english": "menu",
+      "serbocroatian": "jelovnik",
+      "gender": "masculine",
+      "plural": "jelovnici",
+      "cefr": "A2",
+      "ipa": "[ˈjěloʋniːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4242a63a-ab7b-4f7f-9ec6-1f4ba4a0f258",
+      "part-of-speech": "noun",
+      "english": "bill; account",
+      "serbocroatian": "račun",
+      "gender": "masculine",
+      "plural": "računi",
+      "cefr": "A2",
+      "ipa": "[ˈrǎtʃun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5657874c-e112-46fd-a9db-97bf5281dd8f",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "serbocroatian": "čaša",
+      "gender": "feminine",
+      "plural": "čaše",
+      "cefr": "A1",
+      "ipa": "[ˈtʃâʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d713d78a-4895-4ba0-be8d-f0573f1431e8",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "serbocroatian": "tanjur",
+      "gender": "masculine",
+      "plural": "tanjuri",
+      "cefr": "A2",
+      "ipa": "[ˈtǎɲuːr]",
+      "context": "Serbian: tanjir",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42451c44-53d9-4d5b-bd27-02f91cbb8ff7",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "serbocroatian": "nož",
+      "gender": "masculine",
+      "plural": "noževi",
+      "cefr": "A2",
+      "ipa": "[nôːʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "536997ae-4cf1-40a1-a341-5610a6dae74f",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "serbocroatian": "vilica",
+      "gender": "feminine",
+      "plural": "vilice",
+      "cefr": "A2",
+      "ipa": "[ˈʋîlitsa]",
+      "context": "Serbian: viljuška",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96dfb8b1-c8a3-40ae-9dac-e39edc3d047b",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "serbocroatian": "žlica",
+      "gender": "feminine",
+      "plural": "žlice",
+      "cefr": "A2",
+      "ipa": "[ˈʒlǐtsa]",
+      "context": "Serbian: kašika",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1d90810-99f1-43bf-a5f4-d827fdfc845d",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "serbocroatian": "boca",
+      "gender": "feminine",
+      "plural": "boce",
+      "cefr": "A2",
+      "ipa": "[ˈbôtsa]",
+      "context": "Serbian: flaša",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1a3d0f0-44ad-4a0e-abea-fe3a3eac1c3e",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "serbocroatian": "šalica",
+      "gender": "feminine",
+      "plural": "šalice",
+      "cefr": "A2",
+      "ipa": "[ˈʃâlitsa]",
+      "context": "Serbian: šolja",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3514b864-cd70-4548-acee-45855048f37c",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "serbocroatian": "kuća",
+      "gender": "feminine",
+      "plural": "kuće",
+      "cefr": "A1",
+      "ipa": "[ˈkǔːtɕa]",
+      "context": "kod kuće: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b25ae0b6-055e-4af0-bc61-8a3f028647c0",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "serbocroatian": "stan",
+      "gender": "masculine",
+      "plural": "stanovi",
+      "cefr": "A1",
+      "ipa": "[stâːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "766ad77f-3b3b-4287-9c21-55fb376b2105",
+      "part-of-speech": "noun",
+      "english": "room",
+      "serbocroatian": "soba",
+      "gender": "feminine",
+      "plural": "sobe",
+      "cefr": "A1",
+      "ipa": "[ˈsǒba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d06889d-d0e0-43e9-a3ae-fe5dafe6fb1b",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "serbocroatian": "kuhinja",
+      "gender": "feminine",
+      "plural": "kuhinje",
+      "cefr": "A1",
+      "ipa": "[ˈkǔxiɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6edb58a9-7d3d-4b0e-98a3-4fe1cb2230fa",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "serbocroatian": "kupaonica",
+      "gender": "feminine",
+      "plural": "kupaonice",
+      "cefr": "A1",
+      "ipa": "[kuˈpǎonitsa]",
+      "context": "Serbian: kupatilo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47d6853b-d698-48d3-b878-0385faf81dcf",
+      "part-of-speech": "noun",
+      "english": "door",
+      "serbocroatian": "vrata",
+      "gender": "neuter",
+      "plural": "vrata",
+      "cefr": "A1",
+      "ipa": "[ˈʋrǎːta]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "074a833c-8cdf-48ca-af98-134abac6bf44",
+      "part-of-speech": "noun",
+      "english": "window",
+      "serbocroatian": "prozor",
+      "gender": "masculine",
+      "plural": "prozori",
+      "cefr": "A1",
+      "ipa": "[ˈprôzor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b542817-d2e3-492d-90ed-b55187eadc84",
+      "part-of-speech": "noun",
+      "english": "table",
+      "serbocroatian": "stol",
+      "gender": "masculine",
+      "plural": "stolovi",
+      "cefr": "A1",
+      "ipa": "[stôːl]",
+      "context": "Serbian: sto",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d47da2a6-d348-4f09-ba6d-bfd3803526b3",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "serbocroatian": "stolica",
+      "gender": "feminine",
+      "plural": "stolice",
+      "cefr": "A1",
+      "ipa": "[ˈstǒlitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf4775df-9958-4a38-a56f-5f37cf207fe8",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "serbocroatian": "krevet",
+      "gender": "masculine",
+      "plural": "kreveti",
+      "cefr": "A1",
+      "ipa": "[ˈkrêʋet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35c23adb-dcfc-41d4-9ff0-38d0375f0da8",
+      "part-of-speech": "noun",
+      "english": "key",
+      "serbocroatian": "ključ",
+      "gender": "masculine",
+      "plural": "ključevi",
+      "cefr": "A1",
+      "ipa": "[kʎûtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69f40fc8-5837-4469-b223-ce0930d8d0ad",
+      "part-of-speech": "noun",
+      "english": "wall",
+      "serbocroatian": "zid",
+      "gender": "masculine",
+      "plural": "zidovi",
+      "cefr": "A2",
+      "ipa": "[zîːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e29186b8-a6f4-4804-a47c-a42e714881b7",
+      "part-of-speech": "noun",
+      "english": "floor",
+      "serbocroatian": "pod",
+      "gender": "masculine",
+      "plural": "podovi",
+      "cefr": "A2",
+      "ipa": "[pôːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98ee3961-9090-4b3e-8b63-6ec1bc6e5358",
+      "part-of-speech": "noun",
+      "english": "floor, storey",
+      "serbocroatian": "kat",
+      "gender": "masculine",
+      "plural": "katovi",
+      "cefr": "A2",
+      "ipa": "[kâːt]",
+      "context": "Serbian: sprat",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1352dd96-cea4-4423-a32c-a2ed1edb6f76",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "serbocroatian": "vrt",
+      "gender": "masculine",
+      "plural": "vrtovi",
+      "cefr": "A2",
+      "ipa": "[ʋr̩̂ːt]",
+      "context": "Serbian: bašta",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d04a741-a4aa-4d83-bc13-1a520361364e",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "serbocroatian": "grad",
+      "gender": "masculine",
+      "plural": "gradovi",
+      "cefr": "A1",
+      "ipa": "[ɡrâːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b564985-0236-4f4e-8a17-7d7d7a21a838",
+      "part-of-speech": "noun",
+      "english": "village",
+      "serbocroatian": "selo",
+      "gender": "neuter",
+      "plural": "sela",
+      "cefr": "A1",
+      "ipa": "[ˈsělo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e81be987-9807-481e-8fa6-ec7e752a3f50",
+      "part-of-speech": "noun",
+      "english": "place; small town",
+      "serbocroatian": "mjesto",
+      "gender": "neuter",
+      "plural": "mjesta",
+      "cefr": "A1",
+      "ipa": "[ˈmjêsto]",
+      "context": "ekavian: mesto",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0a3a98b-af33-4aa6-9656-b01728bfa48d",
+      "part-of-speech": "noun",
+      "english": "street",
+      "serbocroatian": "ulica",
+      "gender": "feminine",
+      "plural": "ulice",
+      "cefr": "A1",
+      "ipa": "[ˈǔlitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d684823b-538f-45ce-8603-ea1255ec95a4",
+      "part-of-speech": "noun",
+      "english": "country; earth, soil",
+      "serbocroatian": "zemlja",
+      "gender": "feminine",
+      "plural": "zemlje",
+      "cefr": "A1",
+      "ipa": "[ˈzěmʎa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78d8cf5c-e75b-4d58-96c5-fbd62f5a373a",
+      "part-of-speech": "noun",
+      "english": "state, country",
+      "serbocroatian": "država",
+      "gender": "feminine",
+      "plural": "države",
+      "cefr": "A2",
+      "ipa": "[ˈdr̩̂ʒaʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40b524a3-68a9-42de-abcf-f9f284ce446f",
+      "part-of-speech": "noun",
+      "english": "world",
+      "serbocroatian": "svijet",
+      "gender": "masculine",
+      "plural": "svjetovi",
+      "cefr": "A2",
+      "ipa": "[ˈsʋîjet]",
+      "context": "ekavian: svet",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecbe386a-e65e-419f-9edd-c36856a63f9f",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "serbocroatian": "more",
+      "gender": "neuter",
+      "plural": "mora",
+      "cefr": "A1",
+      "ipa": "[ˈmôre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "958248ce-bd2b-4169-a909-6f57c86a98de",
+      "part-of-speech": "noun",
+      "english": "river",
+      "serbocroatian": "rijeka",
+      "gender": "feminine",
+      "plural": "rijeke",
+      "cefr": "A1",
+      "ipa": "[ˈrijěːka]",
+      "context": "ekavian: reka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cb67a16-2162-46bd-85f0-d5d4de39d936",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "serbocroatian": "planina",
+      "gender": "feminine",
+      "plural": "planine",
+      "cefr": "A1",
+      "ipa": "[ˈplǎnina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6cc271e-b9a2-4aa1-9c06-cea91a27821e",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "serbocroatian": "jezero",
+      "gender": "neuter",
+      "plural": "jezera",
+      "cefr": "A2",
+      "ipa": "[ˈjêzero]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43802f73-ae03-4520-92f7-13dd9b21e1c1",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "serbocroatian": "šuma",
+      "gender": "feminine",
+      "plural": "šume",
+      "cefr": "A1",
+      "ipa": "[ˈʃǔːma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d77917f-9f98-47d3-9c10-f07d83abf3ac",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "serbocroatian": "nebo",
+      "gender": "neuter",
+      "plural": "nebesa",
+      "cefr": "A2",
+      "ipa": "[ˈnêbo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83055b6c-d0e8-4954-a469-df5f5afa093c",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "serbocroatian": "sunce",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsûntse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bf8d7b8-4bff-46b3-8621-ada69d369940",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "serbocroatian": "kiša",
+      "gender": "feminine",
+      "plural": "kiše",
+      "cefr": "A1",
+      "ipa": "[ˈkîʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c2b8c2f-82c4-4b31-8396-315590a21876",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "serbocroatian": "snijeg",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[snijêːɡ]",
+      "countability": "mass",
+      "context": "ekavian: sneg",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a782912-336b-4427-b268-ea7ffc2ca592",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "serbocroatian": "vjetar",
+      "gender": "masculine",
+      "plural": "vjetrovi",
+      "cefr": "A2",
+      "ipa": "[ˈʋjêtar]",
+      "context": "ekavian: vetar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a0784c2-a311-4acc-9a3f-8962284fdf83",
+      "part-of-speech": "noun",
+      "english": "air",
+      "serbocroatian": "zrak",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[zrâːk]",
+      "countability": "mass",
+      "context": "Serbian: vazduh",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b4d0d7b-9831-4595-aaae-ced745001c9f",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "serbocroatian": "stablo",
+      "gender": "neuter",
+      "plural": "stabla",
+      "cefr": "A1",
+      "ipa": "[ˈstâblo]",
+      "context": "Serbian: drvo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57894849-01b3-4671-a0ae-24b7f878aea2",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "serbocroatian": "cvijet",
+      "gender": "masculine",
+      "plural": "cvjetovi",
+      "cefr": "A1",
+      "ipa": "[ˈtsʋîjet]",
+      "context": "ekavian: cvet",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a17108e-1aff-4179-8f7d-8634082b9274",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "serbocroatian": "pas",
+      "gender": "masculine",
+      "plural": "psi",
+      "cefr": "A1",
+      "ipa": "[pâs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10b53aad-e326-4cfc-9292-808537c00394",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "serbocroatian": "mačka",
+      "gender": "feminine",
+      "plural": "mačke",
+      "cefr": "A1",
+      "ipa": "[ˈmâtʃka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1afdd87d-60e1-4ee2-8240-e918179ada29",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "serbocroatian": "konj",
+      "gender": "masculine",
+      "plural": "konji",
+      "cefr": "A2",
+      "ipa": "[kôɲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06eee31a-662a-406b-a4a2-f581497cf192",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "serbocroatian": "ptica",
+      "gender": "feminine",
+      "plural": "ptice",
+      "cefr": "A2",
+      "ipa": "[ˈptîtsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a63dafd-b434-4fe5-bb47-17cfa88fa57d",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "serbocroatian": "krava",
+      "gender": "feminine",
+      "plural": "krave",
+      "cefr": "A2",
+      "ipa": "[ˈkrǎːʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f0800af-15be-47d8-bd4a-8028ae28c604",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "serbocroatian": "trgovina",
+      "gender": "feminine",
+      "plural": "trgovine",
+      "cefr": "A1",
+      "ipa": "[tr̩ˈɡǒʋina]",
+      "context": "Serbian: prodavnica",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1afa2364-07ce-42da-b4ff-635ad245fcb0",
+      "part-of-speech": "noun",
+      "english": "market",
+      "serbocroatian": "tržnica",
+      "gender": "feminine",
+      "plural": "tržnice",
+      "cefr": "A2",
+      "ipa": "[ˈtr̩̂ʒnitsa]",
+      "context": "Serbian: pijaca",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a847d498-75a2-4429-bd98-2e2850020df7",
+      "part-of-speech": "noun",
+      "english": "school",
+      "serbocroatian": "škola",
+      "gender": "feminine",
+      "plural": "škole",
+      "cefr": "A1",
+      "ipa": "[ˈʃkôla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cdceadf-3eb0-470f-95c1-59ef94799051",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "serbocroatian": "bolnica",
+      "gender": "feminine",
+      "plural": "bolnice",
+      "cefr": "A1",
+      "ipa": "[ˈbôlnitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40641f32-c699-4fc2-a3c0-cd9ac66ee089",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "serbocroatian": "banka",
+      "gender": "feminine",
+      "plural": "banke",
+      "cefr": "A1",
+      "ipa": "[ˈbâŋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c22970c8-dd60-4272-aeb1-27ee7b46ca0b",
+      "part-of-speech": "noun",
+      "english": "post office; post",
+      "serbocroatian": "pošta",
+      "gender": "feminine",
+      "plural": "pošte",
+      "cefr": "A1",
+      "ipa": "[ˈpôʃta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55bcaf59-ca6e-4e0a-8979-19260e39a01b",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "serbocroatian": "restoran",
+      "gender": "masculine",
+      "plural": "restorani",
+      "cefr": "A1",
+      "ipa": "[reˈstǒran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc807465-c939-4af2-9e08-45fffd398c55",
+      "part-of-speech": "noun",
+      "english": "café",
+      "serbocroatian": "kafić",
+      "gender": "masculine",
+      "plural": "kafići",
+      "cefr": "A1",
+      "ipa": "[ˈkǎfitɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa0f8f06-db9d-42c3-a7f2-41ba3255d02b",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "serbocroatian": "hotel",
+      "gender": "masculine",
+      "plural": "hoteli",
+      "cefr": "A1",
+      "ipa": "[ˈxǒtel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1275376f-adca-4ab2-aa7c-09228ee6ec67",
+      "part-of-speech": "noun",
+      "english": "church",
+      "serbocroatian": "crkva",
+      "gender": "feminine",
+      "plural": "crkve",
+      "cefr": "A2",
+      "ipa": "[ˈtsr̩̂ːkʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69f58cad-b1c0-408e-b528-685f36af10d3",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "serbocroatian": "kino",
+      "gender": "neuter",
+      "plural": "kina",
+      "cefr": "A1",
+      "ipa": "[ˈkîno]",
+      "context": "Serbian: bioskop",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83611b0a-56f5-4d40-9ecb-d670b5c23c30",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "serbocroatian": "muzej",
+      "gender": "masculine",
+      "plural": "muzeji",
+      "cefr": "A2",
+      "ipa": "[ˈmǔzej]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d03adf49-50e8-4ecf-ad02-9a4b4f35adda",
+      "part-of-speech": "noun",
+      "english": "park",
+      "serbocroatian": "park",
+      "gender": "masculine",
+      "plural": "parkovi",
+      "cefr": "A1",
+      "ipa": "[pâːrk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22bc02ac-6f7c-4092-bec9-4c385f6cdcb1",
+      "part-of-speech": "noun",
+      "english": "office",
+      "serbocroatian": "ured",
+      "gender": "masculine",
+      "plural": "uredi",
+      "cefr": "A1",
+      "ipa": "[ˈûred]",
+      "context": "Serbian: kancelarija",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97063660-aaeb-4052-bea1-396358dc70e0",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "serbocroatian": "posao",
+      "gender": "masculine",
+      "plural": "poslovi",
+      "cefr": "A1",
+      "ipa": "[ˈpôsao]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6909a72b-6432-4abe-816d-b68a6824ce1c",
+      "part-of-speech": "noun",
+      "english": "money",
+      "serbocroatian": "novac",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈnǒʋats]",
+      "countability": "mass",
+      "context": "Serbian also pare",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83664b12-0751-4522-be45-ce3123d6afe3",
+      "part-of-speech": "noun",
+      "english": "price",
+      "serbocroatian": "cijena",
+      "gender": "feminine",
+      "plural": "cijene",
+      "cefr": "A2",
+      "ipa": "[ˈtsijěːna]",
+      "context": "ekavian: cena",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc9a843d-2e41-4628-a18d-427a700302e1",
+      "part-of-speech": "noun",
+      "english": "station; stop",
+      "serbocroatian": "stanica",
+      "gender": "feminine",
+      "plural": "stanice",
+      "cefr": "A1",
+      "ipa": "[ˈstânitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a73e6bdf-c9f7-4c49-9639-d22fcd553356",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "serbocroatian": "aerodrom",
+      "gender": "masculine",
+      "plural": "aerodromi",
+      "cefr": "A2",
+      "ipa": "[aeˈrǒdrom]",
+      "context": "Croatian also zračna luka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47a9ae77-9bfc-4a4b-a546-74b46c61314f",
+      "part-of-speech": "noun",
+      "english": "train",
+      "serbocroatian": "vlak",
+      "gender": "masculine",
+      "plural": "vlakovi",
+      "cefr": "A1",
+      "ipa": "[ʋlâːk]",
+      "context": "Serbian: voz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7203c4a-7b5b-4b54-83da-85a8109c8db4",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "serbocroatian": "autobus",
+      "gender": "masculine",
+      "plural": "autobusi",
+      "cefr": "A1",
+      "ipa": "[ˈǎutobus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b5d8a57-28e9-4f0c-8433-110ff7b61471",
+      "part-of-speech": "noun",
+      "english": "car",
+      "serbocroatian": "auto",
+      "gender": "masculine",
+      "plural": "auti",
+      "cefr": "A1",
+      "ipa": "[ˈǎuto]",
+      "context": "Croatian also automobil; Serbian also kola",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9570666e-1af9-4e3a-9dce-bb963f5ed513",
+      "part-of-speech": "noun",
+      "english": "tram",
+      "serbocroatian": "tramvaj",
+      "gender": "masculine",
+      "plural": "tramvaji",
+      "cefr": "A2",
+      "ipa": "[ˈtrâmʋaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2704e14f-cde0-4fb8-92e9-955d2f16b4bd",
+      "part-of-speech": "noun",
+      "english": "plane",
+      "serbocroatian": "avion",
+      "gender": "masculine",
+      "plural": "avioni",
+      "cefr": "A1",
+      "ipa": "[ˈǎʋion]",
+      "context": "Croatian also zrakoplov",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dc33a94-a9cf-463d-bb12-4398a69adbf0",
+      "part-of-speech": "noun",
+      "english": "ship, boat",
+      "serbocroatian": "brod",
+      "gender": "masculine",
+      "plural": "brodovi",
+      "cefr": "A2",
+      "ipa": "[brôːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7af9c78b-4f66-46ef-9e48-0e16a3490f17",
+      "part-of-speech": "noun",
+      "english": "ticket; map; card",
+      "serbocroatian": "karta",
+      "gender": "feminine",
+      "plural": "karte",
+      "cefr": "A1",
+      "ipa": "[ˈkǎːrta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30252d5e-f57e-4086-aa18-4483cf155d5d",
+      "part-of-speech": "noun",
+      "english": "road, way; journey; time (occasion)",
+      "serbocroatian": "put",
+      "gender": "masculine",
+      "plural": "putovi",
+      "cefr": "A1",
+      "ipa": "[pûːt]",
+      "context": "prvi put: the first time; Serbian plural: putevi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cec5e6c-bc1c-42cb-bee9-736d5f21298b",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "serbocroatian": "odjeća",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈôdjetɕa]",
+      "countability": "mass",
+      "context": "ekavian: odeća",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d52eb5df-1657-460f-9a96-d42bb398779a",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "serbocroatian": "košulja",
+      "gender": "feminine",
+      "plural": "košulje",
+      "cefr": "A1",
+      "ipa": "[ˈkǒʃuʎa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66a6d589-3e16-437a-8626-5f57a68927a6",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "serbocroatian": "hlače",
+      "gender": "feminine",
+      "plural": "hlače",
+      "cefr": "A1",
+      "ipa": "[ˈxlâtʃe]",
+      "countability": "plural-only",
+      "context": "Serbian: pantalone",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3e61ea8-15b2-4b4c-949e-3e52f84c8e29",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "serbocroatian": "haljina",
+      "gender": "feminine",
+      "plural": "haljine",
+      "cefr": "A1",
+      "ipa": "[ˈxǎʎina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "951e41d0-3a32-48a7-b024-21c1d5320a82",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "serbocroatian": "cipela",
+      "gender": "feminine",
+      "plural": "cipele",
+      "cefr": "A1",
+      "ipa": "[tsiˈpěːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "659ab4a1-f927-4c1c-bee2-f75f6f3eb2b2",
+      "part-of-speech": "noun",
+      "english": "coat",
+      "serbocroatian": "kaput",
+      "gender": "masculine",
+      "plural": "kaputi",
+      "cefr": "A2",
+      "ipa": "[ˈkǎpuːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76ba238d-d281-4072-9ce2-871f56c8a97b",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "serbocroatian": "šešir",
+      "gender": "masculine",
+      "plural": "šeširi",
+      "cefr": "A2",
+      "ipa": "[ˈʃěʃiːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a53df2c1-1848-4197-9323-0d818b9b6fdf",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "serbocroatian": "torba",
+      "gender": "feminine",
+      "plural": "torbe",
+      "cefr": "A1",
+      "ipa": "[ˈtôrba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53e393b0-0b8c-4025-aaf8-5f8331c12520",
+      "part-of-speech": "noun",
+      "english": "book",
+      "serbocroatian": "knjiga",
+      "gender": "feminine",
+      "plural": "knjige",
+      "cefr": "A1",
+      "ipa": "[ˈkɲǐːɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49e09400-10bd-4e60-9a30-24ed301c9e85",
+      "part-of-speech": "noun",
+      "english": "pencil; pen",
+      "serbocroatian": "olovka",
+      "gender": "feminine",
+      "plural": "olovke",
+      "cefr": "A1",
+      "ipa": "[ˈôloːʋka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "559e33f7-4916-47c9-9780-5d71021dcd3b",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "serbocroatian": "papir",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpǎpiːr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d21d4ff-cefa-4afe-8a71-88755458b689",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "serbocroatian": "telefon",
+      "gender": "masculine",
+      "plural": "telefoni",
+      "cefr": "A1",
+      "ipa": "[teˈlěfon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86ba2577-ba49-4dab-8fd7-af01086b2c4a",
+      "part-of-speech": "noun",
+      "english": "mobile phone",
+      "serbocroatian": "mobitel",
+      "gender": "masculine",
+      "plural": "mobiteli",
+      "cefr": "A1",
+      "ipa": "[moˈbǐtel]",
+      "context": "Serbian: mobilni",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c65bdf3f-44c6-4b82-936c-e47e7e5b919f",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "serbocroatian": "računalo",
+      "gender": "neuter",
+      "plural": "računala",
+      "cefr": "A1",
+      "ipa": "[raˈtʃǔnalo]",
+      "context": "Serbian: računar, kompjuter",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70303818-9a7b-4365-99ac-13d9c539ed99",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "serbocroatian": "pismo",
+      "gender": "neuter",
+      "plural": "pisma",
+      "cefr": "A2",
+      "ipa": "[ˈpîsmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c496e991-f647-47e8-8c6f-ef304a9877b9",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "serbocroatian": "novine",
+      "gender": "feminine",
+      "plural": "novine",
+      "cefr": "A2",
+      "ipa": "[ˈnǒʋine]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bf12fd5-6ff8-4ae5-aafe-eed6e9219e3d",
+      "part-of-speech": "noun",
+      "english": "question",
+      "serbocroatian": "pitanje",
+      "gender": "neuter",
+      "plural": "pitanja",
+      "cefr": "A1",
+      "ipa": "[ˈpǐtaːɲe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca7ae35a-f57b-4c36-aa90-e1da393dc3ee",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "serbocroatian": "odgovor",
+      "gender": "masculine",
+      "plural": "odgovori",
+      "cefr": "A1",
+      "ipa": "[ˈôdɡoʋor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b88b67b8-477d-49c7-b9f4-22e8a9618ece",
+      "part-of-speech": "noun",
+      "english": "word",
+      "serbocroatian": "riječ",
+      "gender": "feminine",
+      "plural": "riječi",
+      "cefr": "A1",
+      "ipa": "[ˈrîjetʃ]",
+      "context": "ekavian: reč",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3116447-0527-4aa2-8f2a-ca31d811c9aa",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "serbocroatian": "jezik",
+      "gender": "masculine",
+      "plural": "jezici",
+      "cefr": "A1",
+      "ipa": "[ˈjězik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fc57c2d-1e03-4603-8083-1cdbabda00c0",
+      "part-of-speech": "noun",
+      "english": "music",
+      "serbocroatian": "glazba",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈɡlâzba]",
+      "countability": "mass",
+      "context": "Serbian: muzika",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8ef6a75-791f-4b05-91e0-c55df43d0f09",
+      "part-of-speech": "noun",
+      "english": "film",
+      "serbocroatian": "film",
+      "gender": "masculine",
+      "plural": "filmovi",
+      "cefr": "A1",
+      "ipa": "[fîlm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8446a3c4-07c2-4fa3-ae24-a9c6afd0c7d6",
+      "part-of-speech": "noun",
+      "english": "game; play",
+      "serbocroatian": "igra",
+      "gender": "feminine",
+      "plural": "igre",
+      "cefr": "A2",
+      "ipa": "[ˈǐɡra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "603c6b34-ca0d-482e-b3b6-fd152af56499",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "serbocroatian": "sport",
+      "gender": "masculine",
+      "plural": "sportovi",
+      "cefr": "A1",
+      "ipa": "[spôːrt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26aefbde-fb16-46b7-a1e1-934201476940",
+      "part-of-speech": "noun",
+      "english": "ball",
+      "serbocroatian": "lopta",
+      "gender": "feminine",
+      "plural": "lopte",
+      "cefr": "A2",
+      "ipa": "[ˈlǒpta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c3f8192-d55d-4806-ac2c-c8e5e8fe6a0b",
+      "part-of-speech": "noun",
+      "english": "colour; paint",
+      "serbocroatian": "boja",
+      "gender": "feminine",
+      "plural": "boje",
+      "cefr": "A1",
+      "ipa": "[ˈbǒja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81b12076-de30-4050-86e1-0b4d06bd2651",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "serbocroatian": "stvar",
+      "gender": "feminine",
+      "plural": "stvari",
+      "cefr": "A1",
+      "ipa": "[stʋâːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b711e611-fe62-48e9-bdc2-58db85c6b4e7",
+      "part-of-speech": "noun",
+      "english": "gift, present",
+      "serbocroatian": "poklon",
+      "gender": "masculine",
+      "plural": "pokloni",
+      "cefr": "A2",
+      "ipa": "[ˈpǒklon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2fdaa88-8f39-4e73-8315-1ced9f15bf63",
+      "part-of-speech": "noun",
+      "english": "rest; holiday",
+      "serbocroatian": "odmor",
+      "gender": "masculine",
+      "plural": "odmori",
+      "cefr": "A2",
+      "ipa": "[ˈôdmor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4023c47b-c247-4a82-bea5-f9041f0c2f12",
+      "part-of-speech": "noun",
+      "english": "public holiday",
+      "serbocroatian": "praznik",
+      "gender": "masculine",
+      "plural": "praznici",
+      "cefr": "A2",
+      "ipa": "[ˈprâzniːk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5e33827-edc1-4e28-982d-49c1af7aca48",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "serbocroatian": "rođendan",
+      "gender": "masculine",
+      "plural": "rođendani",
+      "cefr": "A1",
+      "ipa": "[ˈrǒdʑendaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32984814-9d44-401b-943c-b015fce9265e",
+      "part-of-speech": "noun",
+      "english": "party; fun",
+      "serbocroatian": "zabava",
+      "gender": "feminine",
+      "plural": "zabave",
+      "cefr": "A2",
+      "ipa": "[ˈzǎbaʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0ad58ef-41fe-4089-a448-8f5408c0b7ee",
+      "part-of-speech": "noun",
+      "english": "match, game",
+      "serbocroatian": "utakmica",
+      "gender": "feminine",
+      "plural": "utakmice",
+      "cefr": "A2",
+      "ipa": "[ˈǔtakmitsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96f6bed9-082d-471b-907f-fb0d2e69afa2",
+      "part-of-speech": "noun",
+      "english": "news item",
+      "serbocroatian": "vijest",
+      "gender": "feminine",
+      "plural": "vijesti",
+      "cefr": "A2",
+      "ipa": "[ʋijêːst]",
+      "context": "ekavian: vest",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d40612fa-067f-484e-9ff0-892d3a710ddd",
+      "part-of-speech": "noun",
+      "english": "story",
+      "serbocroatian": "priča",
+      "gender": "feminine",
+      "plural": "priče",
+      "cefr": "A2",
+      "ipa": "[ˈprîtʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0b0bec5-26d0-4d02-ab25-393ef55503a5",
+      "part-of-speech": "noun",
+      "english": "song; poem",
+      "serbocroatian": "pjesma",
+      "gender": "feminine",
+      "plural": "pjesme",
+      "cefr": "A1",
+      "ipa": "[ˈpjêsma]",
+      "context": "ekavian: pesma",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e64795e-ada6-4b8e-9842-e6b96bd4f732",
+      "part-of-speech": "noun",
+      "english": "picture, painting",
+      "serbocroatian": "slika",
+      "gender": "feminine",
+      "plural": "slike",
+      "cefr": "A1",
+      "ipa": "[ˈslîka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ddd517e-381d-42ab-b327-6f95a00ae5f6",
+      "part-of-speech": "noun",
+      "english": "photograph",
+      "serbocroatian": "fotografija",
+      "gender": "feminine",
+      "plural": "fotografije",
+      "cefr": "A2",
+      "ipa": "[fotoˈɡrǎfija]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8eaab02e-70da-4a4d-b966-4b4da5e39715",
+      "part-of-speech": "noun",
+      "english": "class, grade",
+      "serbocroatian": "razred",
+      "gender": "masculine",
+      "plural": "razredi",
+      "cefr": "A2",
+      "ipa": "[ˈrâzred]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "935fa895-0dd9-482d-8405-3b63692e3d15",
+      "part-of-speech": "noun",
+      "english": "exam",
+      "serbocroatian": "ispit",
+      "gender": "masculine",
+      "plural": "ispiti",
+      "cefr": "A2",
+      "ipa": "[ˈîspit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeca6703-464f-462a-a5c8-5b667036d17c",
+      "part-of-speech": "noun",
+      "english": "faculty, university",
+      "serbocroatian": "fakultet",
+      "gender": "masculine",
+      "plural": "fakulteti",
+      "cefr": "A2",
+      "ipa": "[faˈkǔltet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e26bd38-fb4a-48e5-9757-9d22efdeaa51",
+      "part-of-speech": "noun",
+      "english": "light",
+      "serbocroatian": "svjetlo",
+      "gender": "neuter",
+      "plural": "svjetla",
+      "cefr": "A2",
+      "ipa": "[ˈsʋjêtlo]",
+      "context": "ekavian: svetlo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c29cef4-a480-4a67-b675-37162d5dd2a8",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "serbocroatian": "vatra",
+      "gender": "feminine",
+      "plural": "vatre",
+      "cefr": "A2",
+      "ipa": "[ˈʋâtra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52e6e82a-696c-4648-acf7-f7a35e76a635",
+      "part-of-speech": "noun",
+      "english": "end; region",
+      "serbocroatian": "kraj",
+      "gender": "masculine",
+      "plural": "krajevi",
+      "cefr": "A2",
+      "ipa": "[krâːj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86d8a117-ab32-4064-a17c-02ed1dd8023f",
+      "part-of-speech": "noun",
+      "english": "beginning",
+      "serbocroatian": "početak",
+      "gender": "masculine",
+      "plural": "počeci",
+      "cefr": "A2",
+      "ipa": "[ˈpǒtʃetak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f6f0fe1-b1a2-4b07-aec5-99ef2fdfce63",
+      "part-of-speech": "noun",
+      "english": "side; page",
+      "serbocroatian": "strana",
+      "gender": "feminine",
+      "plural": "strane",
+      "cefr": "A2",
+      "ipa": "[ˈstrǎːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87d59220-9cc2-4708-867f-67333c3d8cd6",
+      "part-of-speech": "noun",
+      "english": "number",
+      "serbocroatian": "broj",
+      "gender": "masculine",
+      "plural": "brojevi",
+      "cefr": "A1",
+      "ipa": "[brôj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b0f7b58-c9ce-49bf-9673-e3c5960311ff",
+      "part-of-speech": "noun",
+      "english": "part",
+      "serbocroatian": "dio",
+      "gender": "masculine",
+      "plural": "dijelovi",
+      "cefr": "A2",
+      "ipa": "[ˈdîo]",
+      "context": "ekavian: deo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32434842-776c-4413-b2b8-a51894a92e0b",
+      "part-of-speech": "noun",
+      "english": "life",
+      "serbocroatian": "život",
+      "gender": "masculine",
+      "plural": "životi",
+      "cefr": "A1",
+      "ipa": "[ˈʒǐʋot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8fb134a-52b8-4b70-b688-f36dd75f54dc",
+      "part-of-speech": "noun",
+      "english": "love",
+      "serbocroatian": "ljubav",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈʎûːbaʋ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d280137-4667-449d-a814-c0c907a72863",
+      "part-of-speech": "noun",
+      "english": "health",
+      "serbocroatian": "zdravlje",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈzdrâːʋʎe]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22f8140d-ff89-4fdd-b195-bbbc0295cc6e",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "serbocroatian": "bol",
+      "gender": "masculine",
+      "plural": "bolovi",
+      "cefr": "A2",
+      "ipa": "[bôːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da0feed4-c2b9-4bf0-bfe8-3b21c1c48e80",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "serbocroatian": "lijek",
+      "gender": "masculine",
+      "plural": "lijekovi",
+      "cefr": "A2",
+      "ipa": "[lijêːk]",
+      "context": "ekavian: lek",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1b34774-5c5d-46df-a67b-778ebea54aa1",
+      "part-of-speech": "noun",
+      "english": "one",
+      "serbocroatian": "jedan",
+      "cefr": "A1",
+      "ipa": "[ˈjêdan]",
+      "context": "jedna (f), jedno (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c5bb4a3-fa7c-43d1-9613-b694f968a5e9",
+      "part-of-speech": "noun",
+      "english": "two",
+      "serbocroatian": "dva",
+      "cefr": "A1",
+      "ipa": "[dʋâː]",
+      "context": "dvije (f); ekavian: dve",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a157d455-42a9-4948-a186-14e216902d42",
+      "part-of-speech": "noun",
+      "english": "three",
+      "serbocroatian": "tri",
+      "cefr": "A1",
+      "ipa": "[trîː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b497af82-2eaf-4345-9afb-2160dbb04f98",
+      "part-of-speech": "noun",
+      "english": "four",
+      "serbocroatian": "četiri",
+      "cefr": "A1",
+      "ipa": "[ˈtʃêtiri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f9f2035-b6ef-4ae2-80f1-287a6c367fa3",
+      "part-of-speech": "noun",
+      "english": "five",
+      "serbocroatian": "pet",
+      "cefr": "A1",
+      "ipa": "[pêːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7774fe9-6461-4aa0-a8b9-7cd575a156eb",
+      "part-of-speech": "noun",
+      "english": "six",
+      "serbocroatian": "šest",
+      "cefr": "A1",
+      "ipa": "[ʃêːst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3580462e-6cd0-497a-99d3-e7e987e449b4",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "serbocroatian": "sedam",
+      "cefr": "A1",
+      "ipa": "[ˈsêdam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "163b06c9-4da8-4a24-a075-651811ed07fe",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "serbocroatian": "osam",
+      "cefr": "A1",
+      "ipa": "[ˈôsam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86289801-3c63-4c60-8c70-984428bc65c4",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "serbocroatian": "devet",
+      "cefr": "A1",
+      "ipa": "[ˈdêʋet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "594fe191-0d05-4dcd-a40d-ac1ada2705f8",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "serbocroatian": "deset",
+      "cefr": "A1",
+      "ipa": "[ˈdêset]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f170e59-970c-4122-851c-185ac688b180",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "serbocroatian": "jedanaest",
+      "cefr": "A1",
+      "ipa": "[jeˈdǎnaest]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17546d93-61e8-4ca2-b366-d947464c0be6",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "serbocroatian": "dvanaest",
+      "cefr": "A1",
+      "ipa": "[ˈdʋǎːnaest]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cffa455b-fe2e-45af-b93c-27a271701250",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "serbocroatian": "dvadeset",
+      "cefr": "A1",
+      "ipa": "[ˈdʋâdeset]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50172f07-a10e-4bbe-853d-2440929b45f0",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "serbocroatian": "trideset",
+      "cefr": "A1",
+      "ipa": "[ˈtrîdeset]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c6dc463-1fad-4a17-8dfd-212735f7cb77",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "serbocroatian": "sto",
+      "cefr": "A1",
+      "ipa": "[stôː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd14721e-594b-4b2f-b664-6a03b9037f5f",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "serbocroatian": "tisuća",
+      "gender": "feminine",
+      "plural": "tisuće",
+      "cefr": "A2",
+      "ipa": "[ˈtǐsutɕa]",
+      "context": "Serbian: hiljada",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ba209f0-0a99-4397-a606-a42a4870acd0",
+      "part-of-speech": "noun",
+      "english": "half",
+      "serbocroatian": "pola",
+      "cefr": "A1",
+      "ipa": "[ˈpôla]",
+      "context": "pola dva: half past one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3173cee6-afd6-49d5-b450-8bd2030c9358",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "serbocroatian": "ja",
+      "cefr": "A1",
+      "ipa": "[jâ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58bf2fa9-0b0c-46e8-a019-2f13ab74307d",
+      "part-of-speech": "pronoun",
+      "english": "you (informal singular)",
+      "serbocroatian": "ti",
+      "cefr": "A1",
+      "ipa": "[tî]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c842c37-57f4-48d4-8498-4ba5e4d056f6",
+      "part-of-speech": "pronoun",
+      "english": "he",
+      "serbocroatian": "on",
+      "cefr": "A1",
+      "ipa": "[ôn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a710f73-eb5c-45c2-91f6-7289fe127dd9",
+      "part-of-speech": "pronoun",
+      "english": "she",
+      "serbocroatian": "ona",
+      "cefr": "A1",
+      "ipa": "[ˈôna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efd2ebe8-1fb2-49c5-9f91-10b3a7d8a196",
+      "part-of-speech": "pronoun",
+      "english": "it",
+      "serbocroatian": "ono",
+      "cefr": "A1",
+      "ipa": "[ˈôno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c26da8af-9bdd-4d4e-a539-2219b7015b7b",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "serbocroatian": "mi",
+      "cefr": "A1",
+      "ipa": "[mîː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9373f655-ff34-4dfa-a697-e562849983d6",
+      "part-of-speech": "pronoun",
+      "english": "you (plural; formal)",
+      "serbocroatian": "vi",
+      "cefr": "A1",
+      "ipa": "[ʋîː]",
+      "context": "capitalised Vi in polite letters",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66533bf6-b31e-4e1d-891b-8342c2b05ee7",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "serbocroatian": "oni",
+      "cefr": "A1",
+      "ipa": "[ˈôni]",
+      "context": "oni (m), one (f), ona (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2f6154f-d990-4cc0-a506-219abc88241c",
+      "part-of-speech": "pronoun",
+      "english": "my",
+      "serbocroatian": "moj",
+      "cefr": "A1",
+      "ipa": "[môːj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8429c72-bc6d-4caa-bd24-e6dfc834fcc0",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "serbocroatian": "tvoj",
+      "cefr": "A1",
+      "ipa": "[tʋôj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4144439b-7136-4a43-a56a-908f8efad8b3",
+      "part-of-speech": "pronoun",
+      "english": "his",
+      "serbocroatian": "njegov",
+      "cefr": "A1",
+      "ipa": "[ˈɲěɡoʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46c9446e-bd3f-4898-b30f-3d27d5a532f7",
+      "part-of-speech": "pronoun",
+      "english": "her (possessive)",
+      "serbocroatian": "njezin",
+      "cefr": "A1",
+      "ipa": "[ˈɲězin]",
+      "context": "Serbian: njen",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38e3bce9-ec44-4d68-91e6-debe96650e97",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "serbocroatian": "naš",
+      "cefr": "A1",
+      "ipa": "[nâʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc7513a5-b71f-4761-a701-c2199d4a0b99",
+      "part-of-speech": "pronoun",
+      "english": "your (plural; formal)",
+      "serbocroatian": "vaš",
+      "cefr": "A1",
+      "ipa": "[ʋâʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1accb7ea-240e-452c-badd-9d5406e9cde5",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "serbocroatian": "ovaj",
+      "cefr": "A1",
+      "ipa": "[ˈǒʋaːj]",
+      "context": "ova (f), ovo (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3b55231-dd11-4fab-8e55-4c4cd43e999d",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "serbocroatian": "taj",
+      "cefr": "A1",
+      "ipa": "[tâj]",
+      "context": "ta (f), to (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35f60f06-dc88-48bb-81f0-22e09678492a",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "serbocroatian": "koji",
+      "cefr": "A1",
+      "ipa": "[ˈkǒjiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6899988-cf63-4a44-95b6-921a7a45f8b9",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "serbocroatian": "što",
+      "cefr": "A1",
+      "ipa": "[ʃtô]",
+      "context": "Serbian and Bosnian: šta",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffc2aaa2-859a-41d1-b8e0-5fcf9414b071",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "serbocroatian": "tko",
+      "cefr": "A1",
+      "ipa": "[tkô]",
+      "context": "Serbian and Bosnian: ko",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c56ffde4-7740-4cd6-ac46-0296ffb83feb",
+      "part-of-speech": "pronoun",
+      "english": "all, everyone",
+      "serbocroatian": "svi",
+      "cefr": "A1",
+      "ipa": "[sʋîː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9caf53f-a825-4331-9027-055328c0e333",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "serbocroatian": "nešto",
+      "cefr": "A2",
+      "ipa": "[ˈnêʃto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d06b13e4-3cee-4e77-8810-883a78e9c82f",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "serbocroatian": "ništa",
+      "cefr": "A2",
+      "ipa": "[ˈnǐʃta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3832da4d-0810-45fb-a9c5-5088716f5503",
+      "part-of-speech": "pronoun",
+      "english": "nobody",
+      "serbocroatian": "nitko",
+      "cefr": "A2",
+      "ipa": "[ˈnǐtko]",
+      "context": "Serbian and Bosnian: niko",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fac0973b-9195-4360-9c17-45f71fb642f0",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "serbocroatian": "biti",
+      "cefr": "A1",
+      "ipa": "[ˈbîti]",
+      "context": "sam, si, je, smo, ste, su",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2916abf-e76c-41ca-bbee-8f5aeeae2819",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "serbocroatian": "imati",
+      "cefr": "A1",
+      "ipa": "[ˈǐmati]",
+      "context": "imam, imaš, ima; nemam: I don't have",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3789a44-b140-4106-ae3c-a27a180d8fde",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "serbocroatian": "htjeti",
+      "cefr": "A1",
+      "ipa": "[ˈxtjêti]",
+      "context": "hoću, hoćeš, hoće; ekavian: hteti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a551b176-08f1-422f-a720-65212e399c5e",
+      "part-of-speech": "verb",
+      "english": "can, to be able",
+      "serbocroatian": "moći",
+      "cefr": "A1",
+      "ipa": "[ˈmǒtɕi]",
+      "context": "mogu, možeš, može",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3012eade-261a-45a6-9ea7-007d16518c27",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "serbocroatian": "morati",
+      "cefr": "A1",
+      "ipa": "[ˈmǒrati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e29d479-da96-496c-9064-2761266bffa7",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "serbocroatian": "znati",
+      "cefr": "A1",
+      "ipa": "[ˈznâti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca47da1a-4445-4f3d-b9ae-78248216dd7f",
+      "part-of-speech": "verb",
+      "english": "to work; to do",
+      "serbocroatian": "raditi",
+      "cefr": "A1",
+      "ipa": "[ˈrǎditi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8158086e-55c7-4590-9cba-145f326e0ee8",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "serbocroatian": "ići",
+      "cefr": "A1",
+      "ipa": "[ˈîtɕi]",
+      "context": "idem, ideš, ide",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7ae3cbe-db33-41d8-8b9d-871f64f6e184",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "serbocroatian": "doći",
+      "cefr": "A1",
+      "ipa": "[ˈdǒːtɕi]",
+      "context": "dođem, dođeš, dođe",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90b1316f-139b-4895-8b1c-7a521b6f6206",
+      "part-of-speech": "verb",
+      "english": "to leave, go away",
+      "serbocroatian": "otići",
+      "cefr": "A1",
+      "ipa": "[ˈǒtitɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51c8616c-7724-4c51-9444-37f169135f55",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "serbocroatian": "vidjeti",
+      "cefr": "A1",
+      "ipa": "[ˈʋîdjeti]",
+      "context": "ekavian: videti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13bd0357-469d-4031-b5e6-98df44df025a",
+      "part-of-speech": "verb",
+      "english": "to watch, look at",
+      "serbocroatian": "gledati",
+      "cefr": "A1",
+      "ipa": "[ˈɡlědati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63983bd4-ba23-4393-baf7-0b2d42b01eed",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "serbocroatian": "čuti",
+      "cefr": "A1",
+      "ipa": "[ˈtʃûti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4863a517-f526-42fd-93da-b77619e9b765",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "serbocroatian": "slušati",
+      "cefr": "A1",
+      "ipa": "[ˈslûʃati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa6b2402-b855-465b-aa6b-5e4f22a52742",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "serbocroatian": "govoriti",
+      "cefr": "A1",
+      "ipa": "[ɡoˈʋǒriti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "785cd00a-d951-4fea-bdbf-13877eaf8ce1",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "serbocroatian": "reći",
+      "cefr": "A1",
+      "ipa": "[ˈrêːtɕi]",
+      "context": "kažem, kažeš, kaže",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17b4412b-68d5-4dac-8853-6d979e98ba49",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "serbocroatian": "pitati",
+      "cefr": "A1",
+      "ipa": "[ˈpîtati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10248b5c-33f6-48ff-82ef-1a5031ebab49",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "serbocroatian": "odgovoriti",
+      "cefr": "A1",
+      "ipa": "[odɡoˈʋǒriti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc396a32-abc6-49fb-a51f-a36d8305d4e6",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "serbocroatian": "jesti",
+      "cefr": "A1",
+      "ipa": "[ˈjêsti]",
+      "context": "jedem, jedeš, jede",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4640fd8f-8e85-467f-b5b3-3e46108e2094",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "serbocroatian": "piti",
+      "cefr": "A1",
+      "ipa": "[ˈpîti]",
+      "context": "pijem, piješ, pije",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebfdb55a-99c2-4a72-ae14-87629fbc6748",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "serbocroatian": "spavati",
+      "cefr": "A1",
+      "ipa": "[ˈspǎːʋati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9a1bbbe-63b2-4397-b31e-89587e01947c",
+      "part-of-speech": "verb",
+      "english": "to live",
+      "serbocroatian": "živjeti",
+      "cefr": "A1",
+      "ipa": "[ˈʒǐːʋjeti]",
+      "context": "ekavian: živeti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "069caccb-4f43-41a5-b453-c197ccffe569",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "serbocroatian": "voljeti",
+      "cefr": "A1",
+      "ipa": "[ˈʋǒʎeti]",
+      "context": "ekavian: voleti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72233be1-0ce8-417f-bf0e-7c0ca187bdfb",
+      "part-of-speech": "verb",
+      "english": "to like (be pleasing)",
+      "serbocroatian": "sviđati se",
+      "cefr": "A1",
+      "ipa": "[ˈsʋǐːdʑati se]",
+      "context": "Sviđa mi se: I like it",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93f081f3-0468-4b26-8446-7dbcedd95881",
+      "part-of-speech": "verb",
+      "english": "to learn, study",
+      "serbocroatian": "učiti",
+      "cefr": "A1",
+      "ipa": "[ˈǔtʃiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45862396-dbe7-4138-87f0-795da7079fac",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "serbocroatian": "čitati",
+      "cefr": "A1",
+      "ipa": "[ˈtʃǐtati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf1f5230-65ba-48b6-a445-20e28693a403",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "serbocroatian": "pisati",
+      "cefr": "A1",
+      "ipa": "[ˈpǐːsati]",
+      "context": "pišem, pišeš, piše",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93273135-cc52-4dc5-b163-7fef1975edc1",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "serbocroatian": "kupiti",
+      "cefr": "A1",
+      "ipa": "[ˈkǔːpiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36c61d04-ec7a-43c7-b350-78a583fbae1f",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "serbocroatian": "platiti",
+      "cefr": "A1",
+      "ipa": "[ˈplǎːtiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d601b8cb-ff64-498b-b388-b340df7ad932",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "serbocroatian": "prodati",
+      "cefr": "A2",
+      "ipa": "[ˈprǒdati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7b6425d-6249-422c-8ed5-e6abdcaac080",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "serbocroatian": "dati",
+      "cefr": "A1",
+      "ipa": "[ˈdâti]",
+      "context": "dam, daš, da",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1a053ec-5790-451f-bcb6-25238229c746",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "serbocroatian": "uzeti",
+      "cefr": "A1",
+      "ipa": "[ˈǔzeti]",
+      "context": "uzmem, uzmeš, uzme",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea0e13ea-3b5f-4f50-ba99-995231fab727",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "serbocroatian": "otvoriti",
+      "cefr": "A1",
+      "ipa": "[oˈtʋǒriti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc25b516-9a64-455e-88f2-1f50b0254607",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "serbocroatian": "zatvoriti",
+      "cefr": "A1",
+      "ipa": "[zaˈtʋǒriti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d9757fd-bc96-43bc-a9a9-bf79a64bfa60",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "serbocroatian": "kuhati",
+      "cefr": "A1",
+      "ipa": "[ˈkǔxati]",
+      "context": "Serbian: kuvati",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "037a5ea0-e58d-4a78-8881-b6cc1a4928d0",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "serbocroatian": "putovati",
+      "cefr": "A1",
+      "ipa": "[puˈtǒʋati]",
+      "context": "putujem, putuješ, putuje",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88fb02d2-acac-49c5-b6d6-a2c440aea5bb",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "serbocroatian": "voziti",
+      "cefr": "A1",
+      "ipa": "[ˈʋǒziti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e92366a0-e5d0-40b8-a506-e07d87f2ef50",
+      "part-of-speech": "verb",
+      "english": "to live, reside",
+      "serbocroatian": "stanovati",
+      "cefr": "A2",
+      "ipa": "[staˈnǒʋati]",
+      "context": "stanujem, stanuješ, stanuje",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acbdc750-2aff-4f96-9372-4ce5b8daa22f",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "serbocroatian": "razumjeti",
+      "cefr": "A1",
+      "ipa": "[raˈzǔmjeti]",
+      "context": "razumijem, razumiješ, razumije; ekavian: razumeti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed3fc340-d70c-4d67-8367-d468baa399d8",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "serbocroatian": "misliti",
+      "cefr": "A1",
+      "ipa": "[ˈmǐsliti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "604ab380-0a71-4d7b-8dfa-d8a751413787",
+      "part-of-speech": "verb",
+      "english": "to need; should",
+      "serbocroatian": "trebati",
+      "cefr": "A1",
+      "ipa": "[ˈtrêbati]",
+      "context": "Treba mi …: I need …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a7dbda7-3d2f-4c74-bb48-2ea99df557f2",
+      "part-of-speech": "verb",
+      "english": "to begin",
+      "serbocroatian": "početi",
+      "cefr": "A2",
+      "ipa": "[ˈpǒtʃeti]",
+      "context": "počnem, počneš, počne",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0c2a4fc-63f1-4d79-8703-3c65db067d4b",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "serbocroatian": "završiti",
+      "cefr": "A2",
+      "ipa": "[zaˈʋř̩ʃiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d773ae91-204c-4a47-878a-84af40106da5",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "serbocroatian": "igrati",
+      "cefr": "A1",
+      "ipa": "[ˈǐɡrati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b767e51b-ac20-4431-8cdc-632d451a43d3",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "serbocroatian": "plivati",
+      "cefr": "A1",
+      "ipa": "[ˈplǐːʋati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d962f3a8-21da-4437-941e-b54ff3b3231c",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "serbocroatian": "trčati",
+      "cefr": "A1",
+      "ipa": "[ˈtř̩tʃati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca7a59d4-7b4f-407a-b0bd-b651f9c56be6",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "serbocroatian": "sjediti",
+      "cefr": "A1",
+      "ipa": "[ˈsjêditi]",
+      "context": "ekavian: sedeti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f372e1b2-f13a-4372-8be4-f045ab2bd18f",
+      "part-of-speech": "verb",
+      "english": "to sit down",
+      "serbocroatian": "sjesti",
+      "cefr": "A2",
+      "ipa": "[ˈsjêsti]",
+      "context": "sjednem, sjedneš, sjedne; ekavian: sesti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32850215-b357-47ad-b29d-c7136306cfa1",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "serbocroatian": "stajati",
+      "cefr": "A2",
+      "ipa": "[ˈstǎjati]",
+      "context": "stojim, stojiš, stoji",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfc82fd4-ceae-4b80-9076-3d84b5e9ac8b",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "serbocroatian": "ustati",
+      "cefr": "A2",
+      "ipa": "[ˈǔstati]",
+      "context": "ustanem, ustaneš, ustane",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "311cf44a-1c32-4e89-a01d-b005f57f70e2",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "serbocroatian": "čekati",
+      "cefr": "A1",
+      "ipa": "[ˈtʃěkati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6586837e-62d5-4e7c-b7c3-03236e49dad5",
+      "part-of-speech": "verb",
+      "english": "to look for; to ask for",
+      "serbocroatian": "tražiti",
+      "cefr": "A1",
+      "ipa": "[ˈtrǎːʒiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32169f97-1b0a-42bc-b32f-c6a5ebe7166f",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "serbocroatian": "naći",
+      "cefr": "A1",
+      "ipa": "[ˈnâtɕi]",
+      "context": "nađem, nađeš, nađe",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8404d3a-2328-4318-a902-0ac0f0ffed2a",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "serbocroatian": "izgubiti",
+      "cefr": "A2",
+      "ipa": "[izˈɡǔbiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73372178-24ae-48a7-9db0-cba500e7db82",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "serbocroatian": "pomoći",
+      "cefr": "A1",
+      "ipa": "[poˈmǒtɕi]",
+      "context": "pomognem, pomogneš, pomogne",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dc3fff7-49d9-4983-bac9-946a4fcaca0f",
+      "part-of-speech": "verb",
+      "english": "to carry; to wear",
+      "serbocroatian": "nositi",
+      "cefr": "A2",
+      "ipa": "[ˈnǒsiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef3fde2d-961d-4897-94a0-c5035de7595f",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "serbocroatian": "donijeti",
+      "cefr": "A2",
+      "ipa": "[ˈdǒnijeti]",
+      "context": "donesem, doneseš, donese; ekavian: doneti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "248ca225-aacd-4587-a3ea-dbc4d35097eb",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "serbocroatian": "prati",
+      "cefr": "A2",
+      "ipa": "[ˈprâti]",
+      "context": "perem, pereš, pere",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0124360a-2e60-40eb-aa55-70948ca6cd56",
+      "part-of-speech": "verb",
+      "english": "to call",
+      "serbocroatian": "zvati",
+      "cefr": "A1",
+      "ipa": "[ˈzʋâti]",
+      "context": "zovem, zoveš, zove; Zovem se …: My name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eebc2d4a-a670-418b-bcb4-9180eb26e2ad",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "serbocroatian": "koštati",
+      "cefr": "A1",
+      "ipa": "[ˈkôʃtati]",
+      "context": "Koliko košta?: How much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "873415b7-d988-4dc7-a604-eccd6b21e964",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "serbocroatian": "plesati",
+      "cefr": "A1",
+      "ipa": "[ˈplěsati]",
+      "context": "plešem, plešeš, pleše",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8df00256-3738-45d6-a59c-b801867f7038",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "serbocroatian": "pjevati",
+      "cefr": "A1",
+      "ipa": "[ˈpjêʋati]",
+      "context": "ekavian: pevati",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47f3b976-be94-4a03-bb04-651c16bff818",
+      "part-of-speech": "verb",
+      "english": "to return, come back",
+      "serbocroatian": "vratiti se",
+      "cefr": "A2",
+      "ipa": "[ˈʋrǎːtiti se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18a3a2fb-6eae-4579-a460-618b2e699c97",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "serbocroatian": "zaboraviti",
+      "cefr": "A2",
+      "ipa": "[zaˈbǒraʋiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e9ee2f4-3fd4-4cbd-8f9c-ba2622997ff1",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "serbocroatian": "pokazati",
+      "cefr": "A2",
+      "ipa": "[poˈkǎːzati]",
+      "context": "pokažem, pokažeš, pokaže",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ee35543-d176-4e49-856e-ce3677e80ebc",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "serbocroatian": "koristiti",
+      "cefr": "A2",
+      "ipa": "[ˈkǒristiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2ef1792-0a7c-45a2-b4f9-fd1d69180d80",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "serbocroatian": "probati",
+      "cefr": "A2",
+      "ipa": "[ˈprǒbati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5f092ea-ce07-4910-a71d-ee5a56a3cef3",
+      "part-of-speech": "verb",
+      "english": "to stay",
+      "serbocroatian": "ostati",
+      "cefr": "A2",
+      "ipa": "[ˈǒstati]",
+      "context": "ostanem, ostaneš, ostane",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed18e87c-2023-44ff-b509-0e92b78885ff",
+      "part-of-speech": "verb",
+      "english": "to hate",
+      "serbocroatian": "mrziti",
+      "cefr": "A2",
+      "ipa": "[ˈmr̩̂ziti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e536578-3671-4ac3-862f-13e58be9618e",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "serbocroatian": "nadati se",
+      "cefr": "A2",
+      "ipa": "[ˈnâdati se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5951e397-c909-404c-90ea-50d851566c8b",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "serbocroatian": "osjećati se",
+      "cefr": "A2",
+      "ipa": "[ˈǒsjetɕati se]",
+      "context": "ekavian: osećati se",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "388b1a24-de66-4a84-b681-3b0571f5beea",
+      "part-of-speech": "verb",
+      "english": "to walk, stroll",
+      "serbocroatian": "šetati",
+      "cefr": "A2",
+      "ipa": "[ˈʃětati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd943f07-85cc-4b5a-8cd6-b9e1d24cf308",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "serbocroatian": "čistiti",
+      "cefr": "A2",
+      "ipa": "[ˈtʃǐstiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2637683-9825-480b-9c9f-7ccd748021d0",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "serbocroatian": "posjetiti",
+      "cefr": "A2",
+      "ipa": "[poˈsjětiti]",
+      "context": "ekavian: posetiti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f7269e5-722f-40ca-8e95-2861a4fa3a6a",
+      "part-of-speech": "verb",
+      "english": "to know (someone)",
+      "serbocroatian": "poznavati",
+      "cefr": "A2",
+      "ipa": "[poˈznǎːʋati]",
+      "context": "poznajem, poznaješ, poznaje",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa4dbac1-c787-495d-9ea7-549811a35758",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "serbocroatian": "sjećati se",
+      "cefr": "A2",
+      "ipa": "[ˈsjêtɕati se]",
+      "context": "ekavian: sećati se",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36c2600d-8c12-4acf-8a58-e4ae13893e98",
+      "part-of-speech": "verb",
+      "english": "to get, receive",
+      "serbocroatian": "dobiti",
+      "cefr": "A2",
+      "ipa": "[ˈdǒbiti]",
+      "context": "dobijem, dobiješ, dobije",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffe8d651-c86e-4e1b-b4e3-13349f25b7e6",
+      "part-of-speech": "verb",
+      "english": "to repeat",
+      "serbocroatian": "ponoviti",
+      "cefr": "A2",
+      "ipa": "[poˈnǒʋiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21f748cc-18bb-41ca-b978-662edf910aa6",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "serbocroatian": "objasniti",
+      "cefr": "A2",
+      "ipa": "[obˈjǎsniti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e8ffd54-34a5-452d-b51d-8e8f6012275d",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "serbocroatian": "sresti",
+      "cefr": "A2",
+      "ipa": "[ˈsrêsti]",
+      "context": "sretnem, sretneš, sretne",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c1ad2b9-c5fc-4aac-87d0-25ca244d62b2",
+      "part-of-speech": "verb",
+      "english": "to be late",
+      "serbocroatian": "kasniti",
+      "cefr": "A2",
+      "ipa": "[ˈkâsniti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1181641-b9a5-4922-b358-a9d945fe3389",
+      "part-of-speech": "verb",
+      "english": "to hurry",
+      "serbocroatian": "žuriti",
+      "cefr": "A2",
+      "ipa": "[ˈʒǔːriti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a88021d-b107-43e6-b317-ee65d0e10829",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "serbocroatian": "odmarati se",
+      "cefr": "A2",
+      "ipa": "[odˈmǎːrati se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beb5b392-a243-4ee6-8551-4f988ccad955",
+      "part-of-speech": "verb",
+      "english": "to hurt",
+      "serbocroatian": "boljeti",
+      "cefr": "A2",
+      "ipa": "[ˈbǒʎeti]",
+      "context": "Boli me glava: I have a headache; ekavian: boleti",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e53fc3e3-3099-4666-a9ae-73fb49fff24a",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "serbocroatian": "vjerovati",
+      "cefr": "A2",
+      "ipa": "[ˈʋjêroʋati]",
+      "context": "vjerujem, vjeruješ, vjeruje; ekavian: verovati",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "117236a0-b9f0-4d3b-b9c0-88d2f1837fea",
+      "part-of-speech": "verb",
+      "english": "to smoke",
+      "serbocroatian": "pušiti",
+      "cefr": "A2",
+      "ipa": "[ˈpûʃiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fc53237-f144-4517-9346-e3a7c758eaa0",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "serbocroatian": "dobar",
+      "cefr": "A1",
+      "ipa": "[ˈdôbar]",
+      "context": "dobra (f), dobro (n)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24ac9faf-32b6-4406-bb55-020684c09128",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "serbocroatian": "loš",
+      "cefr": "A1",
+      "ipa": "[lôʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02e597a8-06cf-4871-9056-d27ea4157afc",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "serbocroatian": "velik",
+      "cefr": "A1",
+      "ipa": "[ˈʋělik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c03ca6ac-47f4-49aa-ac6c-9b1274dcc7b7",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "serbocroatian": "mali",
+      "cefr": "A1",
+      "ipa": "[ˈmâliː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba34c22d-3a5d-4cce-a366-24bfa2edc46f",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "serbocroatian": "nov",
+      "cefr": "A1",
+      "ipa": "[nôːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d08fa40b-fccb-4967-a5ac-0263fcd20b20",
+      "part-of-speech": "adjective",
+      "english": "old",
+      "serbocroatian": "star",
+      "cefr": "A1",
+      "ipa": "[stâr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6db1b62f-144e-45ba-a5e5-85e6a934e76a",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "serbocroatian": "mlad",
+      "cefr": "A1",
+      "ipa": "[mlâːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f73beba-bbcf-45ed-9c88-f9ea29d7ee85",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty; nice",
+      "serbocroatian": "lijep",
+      "cefr": "A1",
+      "ipa": "[lijêːp]",
+      "context": "ekavian: lep",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c09944ba-f693-4245-a3b3-2e7d5fbd11dc",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "serbocroatian": "ružan",
+      "cefr": "A1",
+      "ipa": "[ˈrǔːʒan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c6a58ee-c817-47c3-b57f-f3a3a51abf17",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "serbocroatian": "dug",
+      "cefr": "A1",
+      "ipa": "[dûɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7027620c-31c3-4a2f-b6ff-3e03b43315a3",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "serbocroatian": "kratak",
+      "cefr": "A1",
+      "ipa": "[ˈkrâtak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "517bf3c5-10c5-4ed8-a0be-972ce99d0dcf",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "serbocroatian": "visok",
+      "cefr": "A1",
+      "ipa": "[ˈʋǐsok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "683c4c48-96e7-4e69-a0a8-6b28a29db2e7",
+      "part-of-speech": "adjective",
+      "english": "short, low",
+      "serbocroatian": "nizak",
+      "cefr": "A1",
+      "ipa": "[ˈnǐzak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8726dbb-d3c2-4cc3-8256-8cef24c9d678",
+      "part-of-speech": "adjective",
+      "english": "fat; thick",
+      "serbocroatian": "debeo",
+      "cefr": "A2",
+      "ipa": "[ˈděbeo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a01574d5-050a-4e89-8258-94448c0f259a",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "serbocroatian": "tanak",
+      "cefr": "A2",
+      "ipa": "[ˈtânak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46dc7f94-248f-4819-a938-d13f35da94b7",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "serbocroatian": "skup",
+      "cefr": "A1",
+      "ipa": "[skûːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3ca178d-44c2-4873-9b57-0eac912bed76",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "serbocroatian": "jeftin",
+      "cefr": "A1",
+      "ipa": "[ˈjêftin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed905882-4b5a-463a-9ea5-21f0b4f1ca26",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "serbocroatian": "topao",
+      "cefr": "A1",
+      "ipa": "[ˈtôpao]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2896bee-e80f-47bd-92eb-ad70aa2fb9b7",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "serbocroatian": "hladan",
+      "cefr": "A1",
+      "ipa": "[ˈxlâdan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8848fa21-e4de-4f78-ab61-422b4c5bd883",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "serbocroatian": "vruć",
+      "cefr": "A1",
+      "ipa": "[ʋrûtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4401eadd-e7aa-4913-89ae-63daaaffd4d4",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "serbocroatian": "brz",
+      "cefr": "A1",
+      "ipa": "[br̩̂ːz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d102ac30-39e9-4d6b-bb94-129e044368bf",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "serbocroatian": "spor",
+      "cefr": "A2",
+      "ipa": "[spôːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c3500a5-4a79-42f6-9937-266bf4f5d5a0",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "serbocroatian": "sretan",
+      "cefr": "A1",
+      "ipa": "[ˈsrêtan]",
+      "context": "Serbian: srećan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89e71dc5-52eb-49cc-8f55-affcec3ac3d2",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "serbocroatian": "tužan",
+      "cefr": "A1",
+      "ipa": "[ˈtûʒan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af0b4c55-9dc3-483e-a931-5e3172805ee7",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "serbocroatian": "umoran",
+      "cefr": "A1",
+      "ipa": "[ˈǔmoran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef036696-17d3-4e3c-8672-508399a4275d",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "serbocroatian": "gladan",
+      "cefr": "A1",
+      "ipa": "[ˈɡlâdan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9008b238-c24c-4898-8101-56824f31b694",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "serbocroatian": "žedan",
+      "cefr": "A1",
+      "ipa": "[ˈʒêdan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c24bfad0-28bf-4f7f-b569-16c1a7521485",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "serbocroatian": "bolestan",
+      "cefr": "A1",
+      "ipa": "[ˈbôlestan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e172a034-9593-41aa-9d30-b00344886195",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "serbocroatian": "zdrav",
+      "cefr": "A2",
+      "ipa": "[zdrâːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f24d47f0-ccff-47d3-a288-5e03b49b2805",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "serbocroatian": "lak",
+      "cefr": "A1",
+      "ipa": "[lâk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "209f0ad0-0a5b-4c38-878f-9508275121ba",
+      "part-of-speech": "adjective",
+      "english": "difficult; heavy",
+      "serbocroatian": "težak",
+      "cefr": "A1",
+      "ipa": "[ˈtêʒak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21f5de14-fd9e-4d52-98ce-017bcfa6cc6e",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "serbocroatian": "važan",
+      "cefr": "A2",
+      "ipa": "[ˈʋâʒan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ef23c02-3cd8-4d79-a0da-7ad9a9cb9ebb",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "serbocroatian": "zanimljiv",
+      "cefr": "A1",
+      "ipa": "[zaˈnǐmʎiʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8da67ccc-2592-418b-9cf6-6012775ba96c",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "serbocroatian": "čist",
+      "cefr": "A2",
+      "ipa": "[tʃîst]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6533a0ab-f8fb-44ff-94ae-f8fb8cdeb568",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "serbocroatian": "prljav",
+      "cefr": "A2",
+      "ipa": "[ˈpř̩ʎaʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48d2c61f-59e4-4db5-9d34-8f3f6c62a264",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "serbocroatian": "pun",
+      "cefr": "A2",
+      "ipa": "[pûn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aba902a0-eab0-4706-a878-22659af8a5ed",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "serbocroatian": "prazan",
+      "cefr": "A2",
+      "ipa": "[ˈprâzan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "773e3f28-4a31-41ea-8f41-ebf563af0073",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "serbocroatian": "otvoren",
+      "cefr": "A2",
+      "ipa": "[ˈǒtʋoren]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c9b922b-4305-4c22-b66c-6a1f1942d108",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "serbocroatian": "crven",
+      "cefr": "A1",
+      "ipa": "[ˈtsr̩̂ʋen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df7b1fc8-c3e5-4898-a3a3-2fe0163bb4e2",
+      "part-of-speech": "adjective",
+      "english": "blue; blond",
+      "serbocroatian": "plav",
+      "cefr": "A1",
+      "ipa": "[plâːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad5d1d22-3e63-4d0d-9562-2b0b0e5670a0",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "serbocroatian": "zelen",
+      "cefr": "A1",
+      "ipa": "[ˈzělen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fced2e3a-c194-432e-bd9d-e5170143c52c",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "serbocroatian": "žut",
+      "cefr": "A1",
+      "ipa": "[ʒûːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "274518a2-8fc2-487e-953c-45663c9ffd17",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "serbocroatian": "crn",
+      "cefr": "A1",
+      "ipa": "[tsr̩̂ːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53b8a540-9f67-408a-b286-09cd38d49a79",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "serbocroatian": "bijel",
+      "cefr": "A1",
+      "ipa": "[ˈbîjel]",
+      "context": "ekavian: beo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a680ccc4-2dbe-4dfd-9dab-2719c72aede7",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "serbocroatian": "siv",
+      "cefr": "A1",
+      "ipa": "[sîːʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd6763c3-239a-48a2-a788-d3f992e6764b",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "serbocroatian": "smeđ",
+      "cefr": "A1",
+      "ipa": "[smêːdʑ]",
+      "context": "Serbian: braon",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbaa9f9c-b78c-46a0-9168-38c83dd2e0a1",
+      "part-of-speech": "adjective",
+      "english": "kind, friendly",
+      "serbocroatian": "ljubazan",
+      "cefr": "A2",
+      "ipa": "[ˈʎǔbazan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e716fce-bc9c-4e56-9aca-eb0d064b5646",
+      "part-of-speech": "adjective",
+      "english": "correct, exact",
+      "serbocroatian": "točan",
+      "cefr": "A2",
+      "ipa": "[ˈtôtʃan]",
+      "context": "Serbian: tačan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d98ef23-f489-4324-8d0f-20a164077df8",
+      "part-of-speech": "adjective",
+      "english": "simple",
+      "serbocroatian": "jednostavan",
+      "cefr": "A2",
+      "ipa": "[jedˈnǒstaʋan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc1f24ab-b9ab-466b-890d-c0b9054885bc",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "serbocroatian": "slobodan",
+      "cefr": "A2",
+      "ipa": "[ˈslǒbodan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7f2b3ce-cdba-4fe0-b045-d9131194588e",
+      "part-of-speech": "adjective",
+      "english": "busy, occupied",
+      "serbocroatian": "zauzet",
+      "cefr": "A2",
+      "ipa": "[ˈzǎuzet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4006a2a-6dbb-4444-a91c-8afd78853153",
+      "part-of-speech": "adjective",
+      "english": "sure, safe",
+      "serbocroatian": "siguran",
+      "cefr": "A2",
+      "ipa": "[ˈsǐɡuran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7378e4b8-b510-474a-8486-b33fedd60e23",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "serbocroatian": "sladak",
+      "cefr": "A2",
+      "ipa": "[ˈslâdak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75d20c4b-cc81-4847-9d86-3176eb42060c",
+      "part-of-speech": "adjective",
+      "english": "tasty",
+      "serbocroatian": "ukusan",
+      "cefr": "A2",
+      "ipa": "[ˈǔkusan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0cd9e88-4ddd-4381-a5ed-e2403b89cdd1",
+      "part-of-speech": "adjective",
+      "english": "fresh",
+      "serbocroatian": "svjež",
+      "cefr": "A2",
+      "ipa": "[sʋjêːʒ]",
+      "context": "ekavian: svež",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a63f1abb-7686-454a-8dae-83177e6efc69",
+      "part-of-speech": "adjective",
+      "english": "hard",
+      "serbocroatian": "tvrd",
+      "cefr": "A2",
+      "ipa": "[tʋr̩̂ːd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42a5c019-ea08-4872-9e27-6ca4415b4140",
+      "part-of-speech": "adjective",
+      "english": "soft",
+      "serbocroatian": "mekan",
+      "cefr": "A2",
+      "ipa": "[ˈmêkan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "663d352f-ebe6-40f7-8e19-bc86f563819b",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "serbocroatian": "bogat",
+      "cefr": "A2",
+      "ipa": "[ˈbǒɡat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23b27008-682c-49ce-8b8a-9695f16b9516",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "serbocroatian": "siromašan",
+      "cefr": "A2",
+      "ipa": "[siˈrǒmaʃan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac652af9-e8d2-4f41-ad49-b445b3db068b",
+      "part-of-speech": "adjective",
+      "english": "clever",
+      "serbocroatian": "pametan",
+      "cefr": "A2",
+      "ipa": "[ˈpǎmetan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21546740-81b7-4718-9bec-d3d3eca3d926",
+      "part-of-speech": "adjective",
+      "english": "stupid",
+      "serbocroatian": "glup",
+      "cefr": "A2",
+      "ipa": "[ɡlûːp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6aa49e32-8de4-4a89-8783-07771825f7a9",
+      "part-of-speech": "adjective",
+      "english": "dear",
+      "serbocroatian": "drag",
+      "cefr": "A2",
+      "ipa": "[drâːɡ]",
+      "context": "Drago mi je: Pleased to meet you",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21cf1d8d-1b63-4ba5-a95a-152059bbfef8",
+      "part-of-speech": "adjective",
+      "english": "angry; spicy",
+      "serbocroatian": "ljut",
+      "cefr": "A2",
+      "ipa": "[ʎûːt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8d5d691-31fc-476c-ba72-b6931f66fc14",
+      "part-of-speech": "adjective",
+      "english": "wet",
+      "serbocroatian": "mokar",
+      "cefr": "A2",
+      "ipa": "[ˈmôkar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11b86fde-0c25-4ea3-a15c-567d7bc5e117",
+      "part-of-speech": "adjective",
+      "english": "dry",
+      "serbocroatian": "suh",
+      "cefr": "A2",
+      "ipa": "[sûːx]",
+      "context": "Serbian: suv",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0211ba73-ed29-4902-9719-bf174b541cc1",
+      "part-of-speech": "adjective",
+      "english": "quiet",
+      "serbocroatian": "tih",
+      "cefr": "A2",
+      "ipa": "[tîx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b558624e-329c-40f3-910b-cca9d8f3f1a4",
+      "part-of-speech": "adjective",
+      "english": "loud",
+      "serbocroatian": "glasan",
+      "cefr": "A2",
+      "ipa": "[ˈɡlâsan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc79d3d1-2267-46b1-acd7-b15cf717a120",
+      "part-of-speech": "adjective",
+      "english": "famous, well-known",
+      "serbocroatian": "poznat",
+      "cefr": "A2",
+      "ipa": "[ˈpǒznat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec8d8f46-87d7-4437-95e3-1e20e08f1eba",
+      "part-of-speech": "adjective",
+      "english": "foreign",
+      "serbocroatian": "strani",
+      "cefr": "A2",
+      "ipa": "[ˈstrâːniː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "259be25c-93a3-4bdc-a91e-3d207d6aa67c",
+      "part-of-speech": "adjective",
+      "english": "homemade, local",
+      "serbocroatian": "domaći",
+      "cefr": "A2",
+      "ipa": "[ˈdômaːtɕiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "799b399b-1707-4a53-a7dc-5970b197faf8",
+      "part-of-speech": "adjective",
+      "english": "English",
+      "serbocroatian": "engleski",
+      "cefr": "A1",
+      "ipa": "[ˈêŋɡleskiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08d2832a-8c96-4e12-b8f8-2601c2cc2a79",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "serbocroatian": "danas",
+      "cefr": "A1",
+      "ipa": "[ˈdânas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf9bc1f6-5393-4e87-91ac-429a0b9ee521",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "serbocroatian": "sutra",
+      "cefr": "A1",
+      "ipa": "[ˈsûtra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50254749-3cfb-4240-b8c0-e7c4de5b254a",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "serbocroatian": "jučer",
+      "cefr": "A1",
+      "ipa": "[ˈjûtʃer]",
+      "context": "Serbian: juče",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d333b822-9722-4961-9069-983acdd3b3dd",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "serbocroatian": "sada",
+      "cefr": "A1",
+      "ipa": "[ˈsâda]",
+      "context": "also sad",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd59bee3-4171-462b-8974-f0c7066147c2",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "serbocroatian": "uvijek",
+      "cefr": "A1",
+      "ipa": "[ˈûʋijek]",
+      "context": "ekavian: uvek",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d4d9fb7-2c33-474c-9f97-46f52487a8c5",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "serbocroatian": "nikad",
+      "cefr": "A1",
+      "ipa": "[ˈnîkad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c09e25f-e94a-48bb-80f6-05bc5326a3a6",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "serbocroatian": "često",
+      "cefr": "A1",
+      "ipa": "[ˈtʃêsto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3bb23a9-9a7c-4225-807b-3ec9c7600a96",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "serbocroatian": "ponekad",
+      "cefr": "A1",
+      "ipa": "[ˈpǒnekad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01cebdd6-cac3-4f02-8a4e-aa7dd4b08b9c",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "serbocroatian": "ovdje",
+      "cefr": "A1",
+      "ipa": "[ˈôʋdje]",
+      "context": "ekavian: ovde",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b38fdc2-b867-410c-b90a-d14cc2e8591d",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "serbocroatian": "tamo",
+      "cefr": "A1",
+      "ipa": "[ˈtâmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e666933-b8d9-442b-8bb7-228e11856045",
+      "part-of-speech": "adverb",
+      "english": "up, upstairs",
+      "serbocroatian": "gore",
+      "cefr": "A2",
+      "ipa": "[ˈɡôre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c321df3-7a6e-4494-b05e-4617067a7eb8",
+      "part-of-speech": "adverb",
+      "english": "down, downstairs",
+      "serbocroatian": "dolje",
+      "cefr": "A2",
+      "ipa": "[ˈdôʎe]",
+      "context": "ekavian: dole",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aef985ef-c9d3-47a3-a3f9-0cf2e66d0cd8",
+      "part-of-speech": "adverb",
+      "english": "near",
+      "serbocroatian": "blizu",
+      "cefr": "A1",
+      "ipa": "[ˈblǐzu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f88b86e4-54c8-4174-9153-e51d62377943",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "serbocroatian": "daleko",
+      "cefr": "A1",
+      "ipa": "[daˈlěko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aec1c3dc-3e73-40ad-97a8-4fda9e1f2283",
+      "part-of-speech": "adverb",
+      "english": "right, to the right",
+      "serbocroatian": "desno",
+      "cefr": "A1",
+      "ipa": "[ˈdêsno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b42a3d3-f694-4b12-9afb-bea5af90862e",
+      "part-of-speech": "adverb",
+      "english": "left, to the left",
+      "serbocroatian": "lijevo",
+      "cefr": "A1",
+      "ipa": "[ˈlijêːʋo]",
+      "context": "ekavian: levo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6148c3eb-3496-4b2e-90e4-5fb3aae017db",
+      "part-of-speech": "adverb",
+      "english": "straight on",
+      "serbocroatian": "ravno",
+      "cefr": "A2",
+      "ipa": "[ˈrâʋno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e54386a-ad4a-4d49-a1af-061133eb391e",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "serbocroatian": "vrlo",
+      "cefr": "A1",
+      "ipa": "[ˈʋr̩̂ːlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "461d978b-5f96-4c76-bc36-67f79705457d",
+      "part-of-speech": "adverb",
+      "english": "very; strongly",
+      "serbocroatian": "jako",
+      "cefr": "A1",
+      "ipa": "[ˈjâko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d50c41e6-b854-40cd-ac83-bef6856f528c",
+      "part-of-speech": "adverb",
+      "english": "a little, few",
+      "serbocroatian": "malo",
+      "cefr": "A1",
+      "ipa": "[ˈmâlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65d27a53-59d2-4f57-8602-4543062e4a68",
+      "part-of-speech": "adverb",
+      "english": "a lot, much",
+      "serbocroatian": "puno",
+      "cefr": "A1",
+      "ipa": "[ˈpûno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0b927cd-5edf-4625-a7d4-e0f555a82885",
+      "part-of-speech": "adverb",
+      "english": "well, fine",
+      "serbocroatian": "dobro",
+      "cefr": "A1",
+      "ipa": "[ˈdôbro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25a95cf6-56d9-41a2-9181-fd6461a28755",
+      "part-of-speech": "adverb",
+      "english": "badly",
+      "serbocroatian": "loše",
+      "cefr": "A1",
+      "ipa": "[ˈlôʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de2e7f50-0421-4721-8601-7c453f41fc67",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "serbocroatian": "brzo",
+      "cefr": "A1",
+      "ipa": "[ˈbr̩̂ːzo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd991677-c202-4f5c-90d1-8d70b429cd8f",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "serbocroatian": "polako",
+      "cefr": "A1",
+      "ipa": "[ˈpǒlako]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df26358f-52cc-46ad-b581-428772667a03",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "serbocroatian": "već",
+      "cefr": "A2",
+      "ipa": "[ʋêtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "316fb1e4-d332-4753-98cf-a3a1b00066a2",
+      "part-of-speech": "adverb",
+      "english": "still; more",
+      "serbocroatian": "još",
+      "cefr": "A1",
+      "ipa": "[jôʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "247b4453-53f5-405e-86f9-18cf1a006041",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "serbocroatian": "samo",
+      "cefr": "A1",
+      "ipa": "[ˈsâmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6412572-7db8-47e7-a559-ee051318159e",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "serbocroatian": "također",
+      "cefr": "A1",
+      "ipa": "[ˈtǎkodʑer]",
+      "context": "Serbian: takođe",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e4b596d-7f39-4336-8d42-ae5edb716c9f",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "serbocroatian": "zajedno",
+      "cefr": "A1",
+      "ipa": "[ˈzâjedno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2abbda31-80ab-4208-aaa1-40cb7b947812",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "serbocroatian": "rano",
+      "cefr": "A1",
+      "ipa": "[ˈrâno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e6bec88-efe2-4f74-873d-3a6f83c13bc7",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "serbocroatian": "kasno",
+      "cefr": "A1",
+      "ipa": "[ˈkâsno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a25f3c5-807c-46fa-a96d-74dd73f66d05",
+      "part-of-speech": "adverb",
+      "english": "maybe",
+      "serbocroatian": "možda",
+      "cefr": "A1",
+      "ipa": "[ˈmôʒda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0283882-1522-4fa2-b151-8006aa951585",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "serbocroatian": "naravno",
+      "cefr": "A1",
+      "ipa": "[ˈnâraʋno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47f84d72-6d93-4c8c-bb49-c98c7a313296",
+      "part-of-speech": "adverb",
+      "english": "then",
+      "serbocroatian": "onda",
+      "cefr": "A1",
+      "ipa": "[ˈônda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaf7e6eb-74a9-404e-90bd-d77ffcae6fa5",
+      "part-of-speech": "adverb",
+      "english": "after, afterwards",
+      "serbocroatian": "poslije",
+      "cefr": "A1",
+      "ipa": "[ˈpôslije]",
+      "context": "ekavian: posle",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06d997b1-c370-4509-a66c-70ae8a8a58c1",
+      "part-of-speech": "adverb",
+      "english": "before",
+      "serbocroatian": "prije",
+      "cefr": "A1",
+      "ipa": "[ˈprîje]",
+      "context": "ekavian: pre",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a413d8cd-a35e-4f96-bf71-b034a29b3289",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "serbocroatian": "gdje",
+      "cefr": "A1",
+      "ipa": "[ɡdjê]",
+      "context": "ekavian: gde",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3d3ae80-61a0-4134-acfe-2a806019d8f5",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "serbocroatian": "kada",
+      "cefr": "A1",
+      "ipa": "[ˈkǎda]",
+      "context": "also kad",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f29a928-53a5-4a45-98bf-f95ccedb0f54",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "serbocroatian": "kako",
+      "cefr": "A1",
+      "ipa": "[ˈkǎko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41bdc5a2-488d-4663-9315-947242af46f9",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "serbocroatian": "zašto",
+      "cefr": "A1",
+      "ipa": "[ˈzǎʃto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d40f9ac-6f39-4fc4-a785-f23913c6cb12",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "serbocroatian": "koliko",
+      "cefr": "A1",
+      "ipa": "[ˈkǒliko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f757effc-cb86-4467-a003-afe4a65c9ac9",
+      "part-of-speech": "preposition",
+      "english": "in, into",
+      "serbocroatian": "u",
+      "cefr": "A1",
+      "ipa": "[u]",
+      "context": "+ locative (where); + accusative (where to)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3acfe513-b521-495c-ae28-af2d1eeaf68d",
+      "part-of-speech": "preposition",
+      "english": "on, onto; at",
+      "serbocroatian": "na",
+      "cefr": "A1",
+      "ipa": "[na]",
+      "context": "+ locative (where); + accusative (where to)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8572d44-ecc7-4e07-858d-471c56b79147",
+      "part-of-speech": "preposition",
+      "english": "with; off, from",
+      "serbocroatian": "s",
+      "cefr": "A1",
+      "ipa": "[s]",
+      "context": "sa before s, z, š, ž; + instrumental (with), + genitive (from)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e33ac90e-a433-4037-8855-08757a946c47",
+      "part-of-speech": "preposition",
+      "english": "from, out of",
+      "serbocroatian": "iz",
+      "cefr": "A1",
+      "ipa": "[iz]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "517a6302-5258-415a-b1e1-d20f498a847a",
+      "part-of-speech": "preposition",
+      "english": "from; of",
+      "serbocroatian": "od",
+      "cefr": "A1",
+      "ipa": "[od]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa32fe0c-0505-40b8-be30-83133b611ca8",
+      "part-of-speech": "preposition",
+      "english": "to, as far as; next to",
+      "serbocroatian": "do",
+      "cefr": "A1",
+      "ipa": "[do]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7e0aea3-aa15-4c07-9838-f1a5b9080b33",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "serbocroatian": "za",
+      "cefr": "A1",
+      "ipa": "[za]",
+      "context": "+ accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2609024d-dd45-4889-a6d7-dd2c34258777",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "serbocroatian": "bez",
+      "cefr": "A1",
+      "ipa": "[bez]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc3bbb3c-61ac-4243-a1f9-47f551594d27",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place)",
+      "serbocroatian": "kod",
+      "cefr": "A1",
+      "ipa": "[kod]",
+      "context": "+ genitive; kod kuće: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eded6878-5129-42d9-9153-89cd2d322613",
+      "part-of-speech": "preposition",
+      "english": "along, around; for (fetching)",
+      "serbocroatian": "po",
+      "cefr": "A2",
+      "ipa": "[po]",
+      "context": "+ locative or accusative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8e671f3-aa5f-4360-b1bd-8dbd5afb2431",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "serbocroatian": "o",
+      "cefr": "A2",
+      "ipa": "[o]",
+      "context": "+ locative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "324c5668-d7dd-4d82-9d63-5a8613c85305",
+      "part-of-speech": "preposition",
+      "english": "towards",
+      "serbocroatian": "prema",
+      "cefr": "A2",
+      "ipa": "[ˈprêma]",
+      "context": "+ dative",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "658bd1cf-88ad-4526-80be-d65495981ad2",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "serbocroatian": "ispod",
+      "cefr": "A2",
+      "ipa": "[ˈǐspod]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "432564f5-45e8-4007-9bb9-f7cd3bf10dba",
+      "part-of-speech": "preposition",
+      "english": "above",
+      "serbocroatian": "iznad",
+      "cefr": "A2",
+      "ipa": "[ˈǐznad]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9349083-5da3-45c7-85d8-aeaf0c29485f",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "serbocroatian": "između",
+      "cefr": "A2",
+      "ipa": "[ˈǐzmedʑu]",
+      "context": "+ genitive or instrumental",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0b1a0d2-f036-4b92-b5d2-edc87fe9ebe0",
+      "part-of-speech": "preposition",
+      "english": "beside, next to",
+      "serbocroatian": "pored",
+      "cefr": "A2",
+      "ipa": "[ˈpôred]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaf14ba5-8369-4c97-80c7-7ebba0e93b43",
+      "part-of-speech": "preposition",
+      "english": "across, over",
+      "serbocroatian": "preko",
+      "cefr": "A2",
+      "ipa": "[ˈprêko]",
+      "context": "+ genitive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b80eb95-b8ff-4313-baad-c338066627cc",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "serbocroatian": "i",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05a6dfaf-46c3-43f2-ba47-72cbaea1bf5b",
+      "part-of-speech": "conjunction",
+      "english": "and, but (contrast)",
+      "serbocroatian": "a",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "276ba4a2-e625-468b-81a4-3d9a74f554e4",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "serbocroatian": "ali",
+      "cefr": "A1",
+      "ipa": "[ˈâli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c09a8f3-196b-4734-9742-7561ac7c9ce0",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "serbocroatian": "ili",
+      "cefr": "A1",
+      "ipa": "[ˈîli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0915cefc-93ff-4a6c-95fa-3044a3e8c27b",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "serbocroatian": "jer",
+      "cefr": "A1",
+      "ipa": "[jêr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6186627-bd8e-4846-8d2d-bda946382430",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "serbocroatian": "da",
+      "cefr": "A1",
+      "ipa": "[da]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39d26a79-87b1-4dbd-b83e-720c9af2fec6",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "serbocroatian": "ako",
+      "cefr": "A1",
+      "ipa": "[ˈâko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da111e53-e33d-4314-a5c4-3af4a09a674a",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "serbocroatian": "kad",
+      "cefr": "A1",
+      "ipa": "[kâd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d3330d6-c93d-4439-9adf-c8e5a33672cb",
+      "part-of-speech": "conjunction",
+      "english": "while",
+      "serbocroatian": "dok",
+      "cefr": "A2",
+      "ipa": "[dôk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "631d1daa-b3d1-41c1-bd4e-dc10c3de31e2",
+      "part-of-speech": "conjunction",
+      "english": "than; but rather",
+      "serbocroatian": "nego",
+      "cefr": "A2",
+      "ipa": "[ˈnêɡo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bc1305e-2cb8-4a48-92b9-892ee6ce05ae",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "serbocroatian": "da",
+      "cefr": "A1",
+      "ipa": "[dâ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4267f6cd-3cd5-4347-b929-3fea5701c555",
+      "part-of-speech": "interjection",
+      "english": "no; not",
+      "serbocroatian": "ne",
+      "cefr": "A1",
+      "ipa": "[nê]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c42529b7-97e5-4247-bc06-0ef4fb22ed66",
+      "part-of-speech": "interjection",
+      "english": "hi; bye",
+      "serbocroatian": "bok",
+      "cefr": "A1",
+      "ipa": "[bôːk]",
+      "context": "Croatian; Serbian and Bosnian: zdravo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bfc6b16-dda7-4f89-ba17-040213df8c05",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "serbocroatian": "zdravo",
+      "cefr": "A1",
+      "ipa": "[ˈzdrâʋo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8c6ed2b-4c37-447b-b874-c396d0da243a",
+      "part-of-speech": "interjection",
+      "english": "good day, hello",
+      "serbocroatian": "dobar dan",
+      "cefr": "A1",
+      "ipa": "[ˈdôbar dâːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e25c15ea-5207-4b06-8c42-3cd73a04dc9d",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "serbocroatian": "dobro jutro",
+      "cefr": "A1",
+      "ipa": "[ˈdôbro ˈjǔtro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35596e9b-9b26-43e7-82f9-9962474c08d8",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "serbocroatian": "dobra večer",
+      "cefr": "A1",
+      "ipa": "[ˈdôbraː ˈʋêtʃer]",
+      "context": "Serbian: dobro veče",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6ff0f6a-d9d2-4012-9293-1dcbf2f678f3",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "serbocroatian": "laku noć",
+      "cefr": "A1",
+      "ipa": "[ˈlâku nôːtɕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccf06eca-090a-4793-a9d0-4bb581014cc2",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "serbocroatian": "doviđenja",
+      "cefr": "A1",
+      "ipa": "[ˈdǒʋidʑeːɲa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e67431d-3164-4569-9588-eb2e4ecbc5c2",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "serbocroatian": "hvala",
+      "cefr": "A1",
+      "ipa": "[ˈxʋâla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bfe9352-39d6-424f-8a5d-b99bfcc6acb1",
+      "part-of-speech": "interjection",
+      "english": "please; you're welcome; pardon?",
+      "serbocroatian": "molim",
+      "cefr": "A1",
+      "ipa": "[ˈmôliːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1754590-e524-4e33-94f5-69b86af86456",
+      "part-of-speech": "interjection",
+      "english": "excuse me, sorry",
+      "serbocroatian": "oprostite",
+      "cefr": "A1",
+      "ipa": "[ˈǒprostite]",
+      "context": "Serbian also izvinite",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5de70023-80e6-4665-8169-4d9e40fc2944",
+      "part-of-speech": "interjection",
+      "english": "here you are; may I help you?",
+      "serbocroatian": "izvolite",
+      "cefr": "A1",
+      "ipa": "[ˈǐzʋolite]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d88a664-9fbd-47d8-9b2b-74929418891a",
+      "part-of-speech": "interjection",
+      "english": "cheers!",
+      "serbocroatian": "živjeli",
+      "cefr": "A1",
+      "ipa": "[ˈʒǐːʋjeli]",
+      "context": "ekavian: živeli",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

@@ -200,7 +200,7 @@ let rdAutoAdvTimer     = null
 let readingSelectedLevel = null   // cefr level chosen in the lobby, or null (no levels / all)
 const READING_SESSION_SIZE = 10
 let readingHoverIndex = null      // Map<lowercased surface form, {english, isBase}> for word-hover hints
-const BASE_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'conjunction', 'interjection'])
+const BASE_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'postposition', 'conjunction', 'interjection'])
 
 // ── Language Data ─────────────────────────────────────
 const FLAGS = {
@@ -216,7 +216,7 @@ const FLAGS = {
 
 // French vowel-initial words that trigger elision (le/la → l')
 // Languages whose ARTICLES entry holds the indefinite article (a/an).
-const INDEFINITE_ARTICLE_LANGS = new Set(['sv', 'no', 'da'])
+const INDEFINITE_ARTICLE_LANGS = new Set(['sv', 'no', 'da', 'ro'])
 const ELISION_STARTERS = new Set('aeiouàâéèêëîïôùûüœ')
 
 // Definite articles by language code and grammatical gender
@@ -230,6 +230,7 @@ const ARTICLES = {
   'sv': { common: 'en',     neuter: 'ett' },
   'no': { masculine: 'en',  feminine: 'ei',  neuter: 'et' },
   'da': { common: 'en',     neuter: 'et' },
+  'ro': { masculine: 'un',  feminine: 'o',   neuter: 'un' },
 }
 
 // Register (formality level) choices by language code, highest to lowest.
@@ -289,6 +290,29 @@ function shuffle(arr) {
 function flagFor(code) {
   if (!code) return '🌍'
   return FLAGS[code.toLowerCase()] || '🌍'
+}
+
+// Languages with no single national flag get a small image instead — e.g.
+// Serbo-Croatian shows an outline of the region where it's spoken.
+const LANGUAGE_ICONS = {
+  'sh': 'icons/serbo-croatian.svg',
+}
+
+// A node for a language's flag: an <img> when it has an icon, otherwise the
+// emoji as text.
+function flagNode(code) {
+  const icon = code && LANGUAGE_ICONS[code.toLowerCase()]
+  if (!icon) return document.createTextNode(flagFor(code))
+  const img = document.createElement('img')
+  img.src = icon
+  img.className = 'flag-icon'
+  img.alt = ''
+  return img
+}
+
+// Fill el with the flag followed by text (text should start with a space).
+function setFlagAndText(el, code, text = '') {
+  el.replaceChildren(flagNode(code), document.createTextNode(text))
 }
 
 function targetFieldName() {
@@ -385,8 +409,8 @@ function articleFor(word) {
     return map.plural ?? ''
   }
   if (!word.gender) return ''
-  // Scandinavian articles mean "a/an", which uncountable nouns don't take
-  // (Danish mad, not "en mad").
+  // Indefinite articles ("a/an") don't go with uncountable nouns
+  // (Danish mad, not "en mad"; Romanian apă, not "o apă").
   if (word.countability === 'mass' && INDEFINITE_ARTICLE_LANGS.has(code)) return ''
 
   // French elision: le/la → l' before vowel-initial words or h muet
@@ -474,8 +498,7 @@ function persistProgress() {
 
 // ── Welcome Screen ────────────────────────────────────
 function updateWelcomeScreen() {
-  const flag = flagFor(currentMeta?.languageCode)
-  $('welcome-flag').textContent     = flag
+  setFlagAndText($('welcome-flag'), currentMeta?.languageCode)
   // The tagline itself is fixed (set in index.html) — it doesn't name the
   // language last studied.
   $('browse-btn-welcome').style.display = allWords.length > 0 ? '' : 'none'
@@ -649,11 +672,9 @@ function displayQuestion(q) {
 
   const nativeLang = currentMeta?.nativeLanguage || 'English'
   const targetLang = currentMeta?.language       || 'Target'
-  const flag       = flagFor(currentMeta?.languageCode)
-
-  $('direction-badge').textContent = showNative
-    ? `${flag}  ${nativeLang} → ${targetLang}`
-    : `${flag}  ${targetLang} → ${nativeLang}`
+  setFlagAndText($('direction-badge'), currentMeta?.languageCode, showNative
+    ? `\u00a0 ${nativeLang} → ${targetLang}`
+    : `\u00a0 ${targetLang} → ${nativeLang}`)
 
   const level = currentCefrLevel()
   $('cefr-level-chip').textContent = level ? `Level ${level}` : '✓ All'
@@ -1196,7 +1217,7 @@ function renderLanguageButtons() {
   entries.forEach(entry => {
     const btn = document.createElement('button')
     btn.className   = 'level-btn'
-    btn.textContent = `${flagFor(entry.languageCode)} ${entry.language}`
+    setFlagAndText(btn, entry.languageCode, ` ${entry.language}`)
     btn.title       = entry.language   // full name if the button truncates it
     // The editor only edits vocabulary, so it skips the mode picker
     // (quiz vs. reading) and goes straight to browsing the words.
@@ -1516,7 +1537,8 @@ function renderPreferencesLanguageList() {
     checkbox.checked = favorites.includes(entry.slug)
     checkbox.addEventListener('change', () => toggleFavoriteLanguage(entry.slug, checkbox.checked))
     label.appendChild(checkbox)
-    label.appendChild(document.createTextNode(`${flagFor(entry.languageCode)} ${entry.language}`))
+    label.appendChild(flagNode(entry.languageCode))
+    label.appendChild(document.createTextNode(` ${entry.language}`))
     container.appendChild(label)
   })
 }
@@ -2124,10 +2146,9 @@ document.addEventListener('DOMContentLoaded', () => {
 // ── Reading Comprehension ─────────────────────────────
 
 function showReadingLobby() {
-  const flag = flagFor(readingMeta?.languageCode)
   const lang = readingMeta?.language || 'Reading'
   const n    = readingPassages.length
-  $('reading-lobby-flag').textContent     = flag
+  setFlagAndText($('reading-lobby-flag'), readingMeta?.languageCode)
   $('reading-lobby-title').textContent    = `${lang} — Reading`
   $('reading-lobby-subtitle').textContent = `${n} passage${n !== 1 ? 's' : ''} available`
 

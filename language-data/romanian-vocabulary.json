@@ -1,0 +1,6042 @@
+{
+  "meta": {
+    "language": "Romanian",
+    "languageCode": "ro",
+    "nativeLanguage": "English",
+    "targetField": "romanian",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "a0a856da-9c76-4f9c-b76f-0ffc6c9b1166",
+      "part-of-speech": "noun",
+      "english": "person, man",
+      "romanian": "om",
+      "gender": "masculine",
+      "plural": "oameni",
+      "cefr": "A1",
+      "ipa": "[om]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4b86f15-5949-47c3-b30b-4b9c08c8ac16",
+      "part-of-speech": "noun",
+      "english": "man",
+      "romanian": "bărbat",
+      "gender": "masculine",
+      "plural": "bărbați",
+      "cefr": "A1",
+      "ipa": "[bərˈbat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d879d4e3-d1a3-4eed-aa03-6b7ef50f3361",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "romanian": "femeie",
+      "gender": "feminine",
+      "plural": "femei",
+      "cefr": "A1",
+      "ipa": "[feˈmeje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d0791e9-4a67-488a-b842-f9ca2b8c90e3",
+      "part-of-speech": "noun",
+      "english": "child",
+      "romanian": "copil",
+      "gender": "masculine",
+      "plural": "copii",
+      "cefr": "A1",
+      "ipa": "[koˈpil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8ef9bef-82ad-4d94-8d65-e702368446e0",
+      "part-of-speech": "noun",
+      "english": "boy",
+      "romanian": "băiat",
+      "gender": "masculine",
+      "plural": "băieți",
+      "cefr": "A1",
+      "ipa": "[bəˈjat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "112b54ee-f0fc-4b45-a622-8a4504a60033",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "romanian": "fată",
+      "gender": "feminine",
+      "plural": "fete",
+      "cefr": "A1",
+      "ipa": "[ˈfatə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35515422-3998-4653-9dbf-50274c982ce4",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "romanian": "mamă",
+      "gender": "feminine",
+      "plural": "mame",
+      "cefr": "A1",
+      "ipa": "[ˈmamə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c14bf03a-d1d9-4109-8418-64528980b05b",
+      "part-of-speech": "noun",
+      "english": "father",
+      "romanian": "tată",
+      "gender": "masculine",
+      "plural": "tați",
+      "cefr": "A1",
+      "ipa": "[ˈtatə]",
+      "context": "masculine despite the -ă",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5327e81d-47b8-437d-ad48-d45120ab6d69",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "romanian": "părinți",
+      "gender": "masculine",
+      "plural": "părinți",
+      "cefr": "A1",
+      "ipa": "[pəˈrintsʲ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8350f86a-23bf-4f4b-9d14-34f653bfd52b",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "romanian": "frate",
+      "gender": "masculine",
+      "plural": "frați",
+      "cefr": "A1",
+      "ipa": "[ˈfrate]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f7fc742-dcea-4fef-be82-ec8f550bc6b6",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "romanian": "soră",
+      "gender": "feminine",
+      "plural": "surori",
+      "cefr": "A1",
+      "ipa": "[ˈsorə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a90abd5b-b643-4306-9e16-4b5cc18e4bb7",
+      "part-of-speech": "noun",
+      "english": "son",
+      "romanian": "fiu",
+      "gender": "masculine",
+      "plural": "fii",
+      "cefr": "A1",
+      "ipa": "[fiw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c1fbde1-95ca-41d1-98b2-f0d311ab8066",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "romanian": "fiică",
+      "gender": "feminine",
+      "plural": "fiice",
+      "cefr": "A1",
+      "ipa": "[ˈfijkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d0ff3b5-5b88-4ad6-8947-6c96d6fa8942",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "romanian": "bunic",
+      "gender": "masculine",
+      "plural": "bunici",
+      "cefr": "A1",
+      "ipa": "[buˈnik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37c78ee0-faf0-4690-a172-e6dbcbef2ec7",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "romanian": "bunică",
+      "gender": "feminine",
+      "plural": "bunici",
+      "cefr": "A1",
+      "ipa": "[buˈnikə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4543fd60-d013-4fa4-a042-0520506084b6",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "romanian": "unchi",
+      "gender": "masculine",
+      "plural": "unchi",
+      "cefr": "A2",
+      "ipa": "[unkʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd284ec5-7123-40a4-bc9c-2af3955f31e2",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "romanian": "mătușă",
+      "gender": "feminine",
+      "plural": "mătuși",
+      "cefr": "A2",
+      "ipa": "[məˈtuʃə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8072aa6-37cc-4a9f-a40e-14c8e963873c",
+      "part-of-speech": "noun",
+      "english": "family",
+      "romanian": "familie",
+      "gender": "feminine",
+      "plural": "familii",
+      "cefr": "A1",
+      "ipa": "[faˈmilie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d40facb-fc87-43ab-9e29-06ef056e4ea9",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "romanian": "soț",
+      "gender": "masculine",
+      "plural": "soți",
+      "cefr": "A1",
+      "ipa": "[sots]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d466248-97b4-46d0-82b7-9394e15c42fc",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "romanian": "soție",
+      "gender": "feminine",
+      "plural": "soții",
+      "cefr": "A1",
+      "ipa": "[soˈtsie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2b2f48c-edc7-45ef-809a-d65390e17f74",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "romanian": "prieten",
+      "gender": "masculine",
+      "plural": "prieteni",
+      "cefr": "A1",
+      "ipa": "[priˈeten]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec41c212-240a-452e-b586-8d898e28f8a2",
+      "part-of-speech": "noun",
+      "english": "friend (female); girlfriend",
+      "romanian": "prietenă",
+      "gender": "feminine",
+      "plural": "prietene",
+      "cefr": "A1",
+      "ipa": "[priˈetenə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6f6653e-379e-4b2d-a7b8-346ab30f079f",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "romanian": "vecin",
+      "gender": "masculine",
+      "plural": "vecini",
+      "cefr": "A2",
+      "ipa": "[veˈtʃin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a7cc784-359b-4aab-9d16-7fa2d3cdd247",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "romanian": "coleg",
+      "gender": "masculine",
+      "plural": "colegi",
+      "cefr": "A2",
+      "ipa": "[koˈleɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64e32d30-12fc-4c77-8c58-9e222933840e",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "romanian": "profesor",
+      "gender": "masculine",
+      "plural": "profesori",
+      "cefr": "A1",
+      "ipa": "[profeˈsor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82e1c123-e128-40fc-a109-858d8acf5a6d",
+      "part-of-speech": "noun",
+      "english": "teacher (female)",
+      "romanian": "profesoară",
+      "gender": "feminine",
+      "plural": "profesoare",
+      "cefr": "A1",
+      "ipa": "[profeˈso̯arə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d1f44f7-c4ec-446a-b617-4a1d8354ab1d",
+      "part-of-speech": "noun",
+      "english": "student",
+      "romanian": "student",
+      "gender": "masculine",
+      "plural": "studenți",
+      "cefr": "A1",
+      "ipa": "[stuˈdent]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70233a53-397c-41a6-bfff-3abedac9edbf",
+      "part-of-speech": "noun",
+      "english": "student (female)",
+      "romanian": "studentă",
+      "gender": "feminine",
+      "plural": "studente",
+      "cefr": "A1",
+      "ipa": "[stuˈdentə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c51efd0-a455-46a3-83c9-c1dfd0c85389",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "romanian": "medic",
+      "gender": "masculine",
+      "plural": "medici",
+      "cefr": "A1",
+      "ipa": "[ˈmedik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef091ca4-b076-4a3d-9f83-011153c80fc2",
+      "part-of-speech": "noun",
+      "english": "name",
+      "romanian": "nume",
+      "gender": "neuter",
+      "plural": "nume",
+      "cefr": "A1",
+      "ipa": "[ˈnume]",
+      "context": "mă numesc …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8af7fc4-7d40-4c6a-9a72-a855c310cca6",
+      "part-of-speech": "noun",
+      "english": "age",
+      "romanian": "vârstă",
+      "gender": "feminine",
+      "plural": "vârste",
+      "cefr": "A2",
+      "ipa": "[ˈvɨrstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88b41be2-717b-48fd-ac8e-5d1133c9cca9",
+      "part-of-speech": "noun",
+      "english": "time",
+      "romanian": "timp",
+      "gender": "neuter",
+      "plural": "timpuri",
+      "cefr": "A1",
+      "ipa": "[timp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef0f438b-2963-4dec-b803-a780915266de",
+      "part-of-speech": "noun",
+      "english": "day",
+      "romanian": "zi",
+      "gender": "feminine",
+      "plural": "zile",
+      "cefr": "A1",
+      "ipa": "[zʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d10e83e2-5768-493e-8f81-81ce7dcbd98f",
+      "part-of-speech": "noun",
+      "english": "week",
+      "romanian": "săptămână",
+      "gender": "feminine",
+      "plural": "săptămâni",
+      "cefr": "A1",
+      "ipa": "[səptəˈmɨnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74652222-64cd-45a3-b3ad-ddd513184317",
+      "part-of-speech": "noun",
+      "english": "month; moon",
+      "romanian": "lună",
+      "gender": "feminine",
+      "plural": "luni",
+      "cefr": "A1",
+      "ipa": "[ˈlunə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad4c1a9f-f00d-4015-9310-69c25d868bc8",
+      "part-of-speech": "noun",
+      "english": "year",
+      "romanian": "an",
+      "gender": "masculine",
+      "plural": "ani",
+      "cefr": "A1",
+      "ipa": "[an]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62e385a4-a031-49b8-b71d-a87fbd4b05e5",
+      "part-of-speech": "noun",
+      "english": "hour",
+      "romanian": "oră",
+      "gender": "feminine",
+      "plural": "ore",
+      "cefr": "A1",
+      "ipa": "[ˈorə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a41bc03-10e5-4438-99c1-b9720c6106a6",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "romanian": "minut",
+      "gender": "neuter",
+      "plural": "minute",
+      "cefr": "A1",
+      "ipa": "[miˈnut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b008e33a-d594-42f5-a938-8241f5db04f8",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "romanian": "dimineață",
+      "gender": "feminine",
+      "plural": "dimineți",
+      "cefr": "A1",
+      "ipa": "[dimiˈne̯atsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a58a61b1-e348-4dc7-a363-c9408b4bed63",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "romanian": "după-amiază",
+      "gender": "feminine",
+      "plural": "după-amiezi",
+      "cefr": "A1",
+      "ipa": "[dupə aˈmjazə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "462c81ba-1669-4d06-9190-6d6d48098218",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "romanian": "seară",
+      "gender": "feminine",
+      "plural": "seri",
+      "cefr": "A1",
+      "ipa": "[ˈse̯arə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc9b48ca-88bd-40eb-b584-094c4d06f829",
+      "part-of-speech": "noun",
+      "english": "night",
+      "romanian": "noapte",
+      "gender": "feminine",
+      "plural": "nopți",
+      "cefr": "A1",
+      "ipa": "[ˈno̯apte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4aecb3a5-3ca3-4158-837c-ddcba3677d57",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "romanian": "weekend",
+      "gender": "neuter",
+      "plural": "weekenduri",
+      "cefr": "A1",
+      "ipa": "[weeˈkend]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d75c5eeb-e75e-48c3-ab4f-5bfec2256a94",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "romanian": "luni",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[lunʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20b4ddfb-5d04-4f34-9048-35e6d3824a4e",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "romanian": "marți",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[martsʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8644d9de-ba41-4fd3-a5c6-199c471b2da6",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "romanian": "miercuri",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmjerkurʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67ef9ab4-660e-4d3f-845a-8328efc8e9f3",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "romanian": "joi",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ʒoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53202f75-e12c-43f3-a301-823db7238369",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "romanian": "vineri",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈvinerʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3ce7c1f-17c8-45c3-9dee-d72aacd7757e",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "romanian": "sâmbătă",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsɨmbətə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "047a834e-08d4-4f15-9f30-9168d0d3e960",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "romanian": "duminică",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[duˈminikə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5b13137-eaea-474c-beb1-35fcea982177",
+      "part-of-speech": "noun",
+      "english": "January",
+      "romanian": "ianuarie",
+      "cefr": "A1",
+      "ipa": "[januˈarie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54238753-af2c-42c7-a460-c97e596b7ad7",
+      "part-of-speech": "noun",
+      "english": "February",
+      "romanian": "februarie",
+      "cefr": "A1",
+      "ipa": "[februˈarie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbc48565-2d24-4736-8c6d-2ac7fe753779",
+      "part-of-speech": "noun",
+      "english": "March",
+      "romanian": "martie",
+      "cefr": "A1",
+      "ipa": "[ˈmartie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "790ee19d-16f0-4782-aa1a-362d5c372896",
+      "part-of-speech": "noun",
+      "english": "April",
+      "romanian": "aprilie",
+      "cefr": "A1",
+      "ipa": "[aˈprilie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7400f7f-9086-4c04-a5f2-97502cc252e9",
+      "part-of-speech": "noun",
+      "english": "May",
+      "romanian": "mai",
+      "cefr": "A1",
+      "ipa": "[maj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e780ed3a-2a87-44c0-8122-0cd73e43f008",
+      "part-of-speech": "noun",
+      "english": "June",
+      "romanian": "iunie",
+      "cefr": "A1",
+      "ipa": "[ˈjunie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce79ac7f-1eb5-4870-b878-1ff3cf445d2b",
+      "part-of-speech": "noun",
+      "english": "July",
+      "romanian": "iulie",
+      "cefr": "A1",
+      "ipa": "[ˈjulie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9d64bb1-f17d-46bd-b20a-9d90fee3c844",
+      "part-of-speech": "noun",
+      "english": "August",
+      "romanian": "august",
+      "cefr": "A1",
+      "ipa": "[aˈwɡust]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6e1c9ec-8430-48d4-9947-b84fed30685d",
+      "part-of-speech": "noun",
+      "english": "September",
+      "romanian": "septembrie",
+      "cefr": "A1",
+      "ipa": "[sepˈtembrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2123318-dc8f-41c6-8217-806a59b6c57a",
+      "part-of-speech": "noun",
+      "english": "October",
+      "romanian": "octombrie",
+      "cefr": "A1",
+      "ipa": "[okˈtombrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ebe2f5a-5716-4f27-9e5f-e7d299f7b948",
+      "part-of-speech": "noun",
+      "english": "November",
+      "romanian": "noiembrie",
+      "cefr": "A1",
+      "ipa": "[noˈjembrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bb887f2-b1ed-4399-956c-59c4077baedd",
+      "part-of-speech": "noun",
+      "english": "December",
+      "romanian": "decembrie",
+      "cefr": "A1",
+      "ipa": "[deˈtʃembrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8565319d-dd94-4086-9c0a-518ea5c105c1",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "romanian": "primăvară",
+      "gender": "feminine",
+      "plural": "primăveri",
+      "cefr": "A2",
+      "ipa": "[priməˈvarə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4008fea-581e-4201-a1ab-db3ded8a0b28",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "romanian": "vară",
+      "gender": "feminine",
+      "plural": "veri",
+      "cefr": "A2",
+      "ipa": "[ˈvarə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a2fc59f-b73f-40ef-bfc2-220796740677",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "romanian": "toamnă",
+      "gender": "feminine",
+      "plural": "toamne",
+      "cefr": "A2",
+      "ipa": "[ˈto̯amnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d32b38e-ba7d-4593-9bf1-a438ae3951e4",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "romanian": "iarnă",
+      "gender": "feminine",
+      "plural": "ierni",
+      "cefr": "A2",
+      "ipa": "[ˈjarnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a2e963a-3cb9-4010-b0bc-571d517994e2",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "romanian": "zi de naștere",
+      "gender": "feminine",
+      "plural": "zile de naștere",
+      "cefr": "A1",
+      "ipa": "[zʲ de ˈnaʃtere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfd9fda1-54b0-43a5-905d-28c5e3c81a05",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "romanian": "vacanță",
+      "gender": "feminine",
+      "plural": "vacanțe",
+      "cefr": "A1",
+      "ipa": "[vaˈkantsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3353d2a-a272-4ae6-9019-f48c9654d27c",
+      "part-of-speech": "noun",
+      "english": "holiday, festival",
+      "romanian": "sărbătoare",
+      "gender": "feminine",
+      "plural": "sărbători",
+      "cefr": "A2",
+      "ipa": "[sərbəˈto̯are]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43c71658-7ac6-44d6-8c71-1dab534e81c6",
+      "part-of-speech": "noun",
+      "english": "present, gift",
+      "romanian": "cadou",
+      "gender": "neuter",
+      "plural": "cadouri",
+      "cefr": "A2",
+      "ipa": "[kaˈdow]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c42b7d2d-b102-4ecf-be93-aa7ec768e908",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "romanian": "casă",
+      "gender": "feminine",
+      "plural": "case",
+      "cefr": "A1",
+      "ipa": "[ˈkasə]",
+      "context": "at home: acasă",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e47624d-e00e-4fdb-bdcd-fe36142653e4",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "romanian": "apartament",
+      "gender": "neuter",
+      "plural": "apartamente",
+      "cefr": "A1",
+      "ipa": "[apartaˈment]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "048c0003-507a-45a1-8054-1d150e6808e4",
+      "part-of-speech": "noun",
+      "english": "room",
+      "romanian": "cameră",
+      "gender": "feminine",
+      "plural": "camere",
+      "cefr": "A1",
+      "ipa": "[ˈkamerə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9529861-1234-49d6-868a-ac024d37df9f",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "romanian": "dormitor",
+      "gender": "neuter",
+      "plural": "dormitoare",
+      "cefr": "A1",
+      "ipa": "[dormiˈtor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "288fc3cb-9398-4f46-9519-6805ee07b031",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "romanian": "bucătărie",
+      "gender": "feminine",
+      "plural": "bucătării",
+      "cefr": "A1",
+      "ipa": "[bukətəˈrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e562c4fd-e240-469c-9972-83c2ead01823",
+      "part-of-speech": "noun",
+      "english": "bathroom; bath",
+      "romanian": "baie",
+      "gender": "feminine",
+      "plural": "băi",
+      "cefr": "A1",
+      "ipa": "[ˈbaje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e1a410c-c962-4ea5-92e1-a5747486076c",
+      "part-of-speech": "noun",
+      "english": "toilet",
+      "romanian": "toaletă",
+      "gender": "feminine",
+      "plural": "toalete",
+      "cefr": "A1",
+      "ipa": "[to̯aˈletə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4f2ef33-b070-41d1-8774-d3091ac7bdbd",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "romanian": "grădină",
+      "gender": "feminine",
+      "plural": "grădini",
+      "cefr": "A1",
+      "ipa": "[ˈɡrədinə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edd3216e-5099-48ef-9293-9d20b4dd53be",
+      "part-of-speech": "noun",
+      "english": "door",
+      "romanian": "ușă",
+      "gender": "feminine",
+      "plural": "uși",
+      "cefr": "A1",
+      "ipa": "[ˈuʃə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33464000-eee0-41ba-9669-75c3fe30e4b1",
+      "part-of-speech": "noun",
+      "english": "window",
+      "romanian": "fereastră",
+      "gender": "feminine",
+      "plural": "ferestre",
+      "cefr": "A1",
+      "ipa": "[feˈre̯astrə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c1ca384-ca0d-4ede-a9a5-51df334cb8c0",
+      "part-of-speech": "noun",
+      "english": "table",
+      "romanian": "masă",
+      "gender": "feminine",
+      "plural": "mese",
+      "cefr": "A1",
+      "ipa": "[ˈmasə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec558a94-6afd-46bb-968a-a4e91f11137d",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "romanian": "scaun",
+      "gender": "neuter",
+      "plural": "scaune",
+      "cefr": "A1",
+      "ipa": "[ˈska.un]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55646eb1-f036-4c6a-b70f-3bf7d4eda02d",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "romanian": "pat",
+      "gender": "neuter",
+      "plural": "paturi",
+      "cefr": "A1",
+      "ipa": "[pat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d77ecf07-eb0e-446d-a6d0-f1786e4dfebd",
+      "part-of-speech": "noun",
+      "english": "sofa",
+      "romanian": "canapea",
+      "gender": "feminine",
+      "plural": "canapele",
+      "cefr": "A1",
+      "ipa": "[kanaˈpe̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b19d81e4-2e2c-4227-87f8-d84acb04b737",
+      "part-of-speech": "noun",
+      "english": "key",
+      "romanian": "cheie",
+      "gender": "feminine",
+      "plural": "chei",
+      "cefr": "A1",
+      "ipa": "[ˈkeje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48f89706-9cab-45fc-b15f-a4aadc5d3210",
+      "part-of-speech": "noun",
+      "english": "fridge",
+      "romanian": "frigider",
+      "gender": "neuter",
+      "plural": "frigidere",
+      "cefr": "A2",
+      "ipa": "[fridʒiˈder]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3296b59f-a152-44eb-b0f1-d4a20fcdd669",
+      "part-of-speech": "noun",
+      "english": "television",
+      "romanian": "televizor",
+      "gender": "neuter",
+      "plural": "televizoare",
+      "cefr": "A1",
+      "ipa": "[televiˈzor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5786d4aa-e7f4-4949-8490-ae034656c45e",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "romanian": "telefon",
+      "gender": "neuter",
+      "plural": "telefoane",
+      "cefr": "A1",
+      "ipa": "[teleˈfon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3bf3459-ce21-44c3-8759-4e480b926f5b",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "romanian": "calculator",
+      "gender": "neuter",
+      "plural": "calculatoare",
+      "cefr": "A1",
+      "ipa": "[kalkulaˈtor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d106e919-6820-408b-95a6-c23de7b8316e",
+      "part-of-speech": "noun",
+      "english": "food",
+      "romanian": "mâncare",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[mɨnˈkare]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b1d1e02-2655-4a3d-92ae-90952d8c30c6",
+      "part-of-speech": "noun",
+      "english": "water",
+      "romanian": "apă",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈapə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bf8c5e9-19a9-40f2-ba97-7e0973ada584",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "romanian": "pâine",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈpɨjne]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2471e208-4043-4934-92f7-b8d94b219bd1",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "romanian": "cafea",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[kaˈfe̯a]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12bcd140-8f64-4013-88bf-73a7cf022e07",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "romanian": "ceai",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[tʃaj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3a3b650-cd49-471f-9b0d-73c401a94e75",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "romanian": "lapte",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈlapte]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64e0b2e6-c05c-4d62-87bc-5f4a6ff6737c",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "romanian": "suc",
+      "gender": "neuter",
+      "plural": "sucuri",
+      "cefr": "A1",
+      "ipa": "[suk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d7455f4-85f6-4473-ad0e-ec8f4ff1a928",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "romanian": "bere",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈbere]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe154a76-ed41-487b-af28-d6694657b688",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "romanian": "vin",
+      "gender": "neuter",
+      "plural": "vinuri",
+      "cefr": "A1",
+      "ipa": "[vin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e39956f-0f47-48a1-b244-65bd053d5a9e",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "romanian": "carne",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈkarne]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94a5432e-0bd1-479b-a137-5a69c5adac75",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "romanian": "pui",
+      "gender": "masculine",
+      "plural": "pui",
+      "cefr": "A1",
+      "ipa": "[puj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3f0948e-0eb7-4766-b4c3-9f3b84cee263",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "romanian": "pește",
+      "gender": "masculine",
+      "plural": "pești",
+      "cefr": "A1",
+      "ipa": "[ˈpeʃte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92a5232c-3239-453b-9af6-f2830edee615",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "romanian": "brânză",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈbrɨnzə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fc71d96-eca6-4dbe-9fd7-d7ee870eebb6",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "romanian": "ou",
+      "gender": "neuter",
+      "plural": "ouă",
+      "cefr": "A1",
+      "ipa": "[ow]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1381a523-a6c3-4c4d-b5b6-7e55a7f0abeb",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "romanian": "legumă",
+      "gender": "feminine",
+      "plural": "legume",
+      "cefr": "A1",
+      "ipa": "[leˈɡumə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5616137-041b-470f-a63c-5c54954e8946",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "romanian": "fruct",
+      "gender": "neuter",
+      "plural": "fructe",
+      "cefr": "A1",
+      "ipa": "[frukt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "316f7f22-e14c-4f6f-a9fd-94c4378cd903",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "romanian": "mar",
+      "gender": "neuter",
+      "plural": "mere",
+      "cefr": "A1",
+      "ipa": "[mar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ac46d43-3fe2-41db-be1e-894375a0f50c",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "romanian": "banană",
+      "gender": "feminine",
+      "plural": "banane",
+      "cefr": "A1",
+      "ipa": "[baˈnanə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c39a174-c01a-4f04-b06d-1d5895602337",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "romanian": "portocală",
+      "gender": "feminine",
+      "plural": "portocale",
+      "cefr": "A1",
+      "ipa": "[portoˈkalə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40bca9fc-f713-4d52-9cc7-79a24ed97bdb",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "romanian": "cartof",
+      "gender": "masculine",
+      "plural": "cartofi",
+      "cefr": "A1",
+      "ipa": "[karˈtof]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c07483b-bd4c-4cf3-84b9-39497bb8aba6",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "romanian": "orez",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[oˈrez]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e5c1ca7-c65e-4caa-b513-4c2aaadae1b2",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "romanian": "supă",
+      "gender": "feminine",
+      "plural": "supe",
+      "cefr": "A1",
+      "ipa": "[ˈsupə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b9b6f04-2dcb-4a14-a4cb-33b216e9e659",
+      "part-of-speech": "noun",
+      "english": "sour soup (ciorbă)",
+      "romanian": "ciorbă",
+      "gender": "feminine",
+      "plural": "ciorbe",
+      "cefr": "A1",
+      "ipa": "[ˈtʃorbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b1fb156-cbc9-4bf5-8e73-a2bab9ae06f7",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "romanian": "zahăr",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈzahər]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3281952-909c-4b6c-8ba0-2cb6bc2b812c",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "romanian": "sare",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈsare]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "792f031a-4c18-446b-82e5-bfd9915eaa22",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "romanian": "unt",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[unt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "123e3c48-0957-4966-92fb-3147f9df5b3e",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "romanian": "prăjitură",
+      "gender": "feminine",
+      "plural": "prăjituri",
+      "cefr": "A2",
+      "ipa": "[prəˈʒiturə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c4a0839-c81d-4737-a169-1a21fb018dbd",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "romanian": "mic dejun",
+      "gender": "neuter",
+      "plural": "micuri dejunuri",
+      "cefr": "A1",
+      "ipa": "[mik deˈʒun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec0a0a00-0fea-4edf-b3c8-df577797c7f7",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "romanian": "prânz",
+      "gender": "neuter",
+      "plural": "prânzuri",
+      "cefr": "A1",
+      "ipa": "[prɨnz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bde5ef3-c62f-4847-bceb-2f61453e969c",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "romanian": "cină",
+      "gender": "feminine",
+      "plural": "cine",
+      "cefr": "A1",
+      "ipa": "[ˈtʃinə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7570058-9ed6-4582-9432-05de636574df",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "romanian": "restaurant",
+      "gender": "neuter",
+      "plural": "restaurante",
+      "cefr": "A1",
+      "ipa": "[restaˈwrant]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2091c248-9b86-4693-afff-8970c809a029",
+      "part-of-speech": "noun",
+      "english": "café",
+      "romanian": "cafenea",
+      "gender": "feminine",
+      "plural": "cafenele",
+      "cefr": "A1",
+      "ipa": "[kafeˈne̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a72a0d11-089b-447d-b16e-3325d016e0be",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "romanian": "pahar",
+      "gender": "neuter",
+      "plural": "pahare",
+      "cefr": "A1",
+      "ipa": "[paˈhar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be457967-76cf-47f1-9923-0cae46e9fa7a",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "romanian": "ceașcă",
+      "gender": "feminine",
+      "plural": "cești",
+      "cefr": "A1",
+      "ipa": "[ˈtʃaʃkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d7e26e0-9dbf-4160-baac-d4f5c70ae139",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "romanian": "sticlă",
+      "gender": "feminine",
+      "plural": "sticle",
+      "cefr": "A1",
+      "ipa": "[ˈstiklə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ad27336-f2ad-4208-b48f-d05a588f3888",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "romanian": "farfurie",
+      "gender": "feminine",
+      "plural": "farfurii",
+      "cefr": "A2",
+      "ipa": "[farˈfurie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f02af6f-2be6-45d2-bfb0-e6c32da92010",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "romanian": "cuțit",
+      "gender": "neuter",
+      "plural": "cuțite",
+      "cefr": "A2",
+      "ipa": "[kuˈtsit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63498213-7871-48bc-b71e-b7da17e6b643",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "romanian": "furculiță",
+      "gender": "feminine",
+      "plural": "furculițe",
+      "cefr": "A2",
+      "ipa": "[furkuˈlitsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e88a601e-8000-438c-a693-f2f2e0362ae3",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "romanian": "lingură",
+      "gender": "feminine",
+      "plural": "linguri",
+      "cefr": "A2",
+      "ipa": "[linˈɡurə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80e7425f-08ec-4864-aa25-acdb6386f33d",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "romanian": "oraș",
+      "gender": "neuter",
+      "plural": "orașe",
+      "cefr": "A1",
+      "ipa": "[oˈraʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ded17fda-7d79-496d-bf0f-03f15760f270",
+      "part-of-speech": "noun",
+      "english": "village",
+      "romanian": "sat",
+      "gender": "neuter",
+      "plural": "sate",
+      "cefr": "A2",
+      "ipa": "[sat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12a39536-2c64-470f-9ba6-a8e4b6871dc6",
+      "part-of-speech": "noun",
+      "english": "country",
+      "romanian": "țară",
+      "gender": "feminine",
+      "plural": "țări",
+      "cefr": "A1",
+      "ipa": "[ˈtsarə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb3f6674-8e27-477e-843b-45075f8a4a14",
+      "part-of-speech": "noun",
+      "english": "street",
+      "romanian": "stradă",
+      "gender": "feminine",
+      "plural": "străzi",
+      "cefr": "A1",
+      "ipa": "[ˈstradə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47b6d1b3-aa58-4b30-8eb6-9b0db1bf3311",
+      "part-of-speech": "noun",
+      "english": "road; way",
+      "romanian": "drum",
+      "gender": "neuter",
+      "plural": "drumuri",
+      "cefr": "A1",
+      "ipa": "[drum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5eca3ed9-d42a-497f-9620-3a4b6d61ef53",
+      "part-of-speech": "noun",
+      "english": "shop, store",
+      "romanian": "magazin",
+      "gender": "neuter",
+      "plural": "magazine",
+      "cefr": "A1",
+      "ipa": "[maɡaˈzin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eb9aeb0-80ea-4b33-bebb-f697d6868bec",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "romanian": "supermarket",
+      "gender": "neuter",
+      "plural": "supermarketuri",
+      "cefr": "A1",
+      "ipa": "[supermarˈket]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c017362-148b-4bd4-8feb-4690ab5d2e26",
+      "part-of-speech": "noun",
+      "english": "market; square",
+      "romanian": "piață",
+      "gender": "feminine",
+      "plural": "piețe",
+      "cefr": "A1",
+      "ipa": "[ˈpjatsə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "add15db3-8635-42cb-9743-5fd5facb874b",
+      "part-of-speech": "noun",
+      "english": "school",
+      "romanian": "școală",
+      "gender": "feminine",
+      "plural": "școli",
+      "cefr": "A1",
+      "ipa": "[ˈʃko̯alə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e86331d7-d37a-462b-923a-c985f6c1d383",
+      "part-of-speech": "noun",
+      "english": "university",
+      "romanian": "universitate",
+      "gender": "feminine",
+      "plural": "universități",
+      "cefr": "A1",
+      "ipa": "[universiˈtate]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0ac6b58-9d65-4672-9380-61d5fe079fa8",
+      "part-of-speech": "noun",
+      "english": "office; desk",
+      "romanian": "birou",
+      "gender": "neuter",
+      "plural": "birouri",
+      "cefr": "A2",
+      "ipa": "[biˈrow]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff4895aa-d7cf-4cc0-8b70-8048d8f1ea1b",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "romanian": "spital",
+      "gender": "neuter",
+      "plural": "spitale",
+      "cefr": "A1",
+      "ipa": "[spiˈtal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaa5ee39-d956-48e3-8b99-7885f5e1f245",
+      "part-of-speech": "noun",
+      "english": "pharmacy",
+      "romanian": "farmacie",
+      "gender": "feminine",
+      "plural": "farmacii",
+      "cefr": "A1",
+      "ipa": "[farˈmatʃie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ca6329b-454d-4323-8c5a-b76331ee8f61",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "romanian": "bancă",
+      "gender": "feminine",
+      "plural": "bănci",
+      "cefr": "A1",
+      "ipa": "[ˈbankə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f965cf0a-d968-463b-b554-19276c261ff4",
+      "part-of-speech": "noun",
+      "english": "church",
+      "romanian": "biserică",
+      "gender": "feminine",
+      "plural": "biserici",
+      "cefr": "A2",
+      "ipa": "[biseˈrikə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a33f215c-5df9-4617-af19-e4e00e8f36e0",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "romanian": "muzeu",
+      "gender": "neuter",
+      "plural": "muzee",
+      "cefr": "A2",
+      "ipa": "[muˈzew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60b34508-1f3f-4493-aca0-37cc4999e94f",
+      "part-of-speech": "noun",
+      "english": "park",
+      "romanian": "parc",
+      "gender": "neuter",
+      "plural": "parcuri",
+      "cefr": "A1",
+      "ipa": "[park]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eff8e2b4-36f1-470b-91cc-a5d1d502a698",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "romanian": "cinema",
+      "gender": "neuter",
+      "plural": "cinematografe",
+      "cefr": "A1",
+      "ipa": "[tʃineˈma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5e349cb-d6d9-427e-a13c-8fd5fdc21106",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "romanian": "hotel",
+      "gender": "neuter",
+      "plural": "hoteluri",
+      "cefr": "A1",
+      "ipa": "[hoˈtel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "337975cf-f259-453f-92c6-d15073c138e7",
+      "part-of-speech": "noun",
+      "english": "library",
+      "romanian": "bibliotecă",
+      "gender": "feminine",
+      "plural": "biblioteci",
+      "cefr": "A2",
+      "ipa": "[bibljoˈtekə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfd7bfdb-80b9-4a74-8412-03439b2a6710",
+      "part-of-speech": "noun",
+      "english": "(railway) station",
+      "romanian": "gară",
+      "gender": "feminine",
+      "plural": "gări",
+      "cefr": "A1",
+      "ipa": "[ˈɡarə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3131e5b7-2cd7-4fe8-9365-9f722f46fa23",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "romanian": "aeroport",
+      "gender": "neuter",
+      "plural": "aeroporturi",
+      "cefr": "A1",
+      "ipa": "[aeroˈport]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c564420-18ea-4041-94ab-2c9fb7446c9d",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "romanian": "autobuz",
+      "gender": "neuter",
+      "plural": "autobuze",
+      "cefr": "A1",
+      "ipa": "[awtoˈbuz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "27671c5a-966c-47e7-8bac-b9979074f4eb",
+      "part-of-speech": "noun",
+      "english": "train",
+      "romanian": "tren",
+      "gender": "neuter",
+      "plural": "trenuri",
+      "cefr": "A1",
+      "ipa": "[tren]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95de0dc7-6bd2-4f15-b2de-f37c18202630",
+      "part-of-speech": "noun",
+      "english": "underground, metro",
+      "romanian": "metrou",
+      "gender": "neuter",
+      "plural": "metrouri",
+      "cefr": "A1",
+      "ipa": "[meˈtrow]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9785fad-4f3e-424e-bdb1-b32abf289134",
+      "part-of-speech": "noun",
+      "english": "car",
+      "romanian": "mașină",
+      "gender": "feminine",
+      "plural": "mașini",
+      "cefr": "A1",
+      "ipa": "[maˈʃinə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "312f9685-2e47-47a0-b82b-0f319f3d6bc0",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "romanian": "bicicletă",
+      "gender": "feminine",
+      "plural": "biciclete",
+      "cefr": "A1",
+      "ipa": "[bitʃiˈkletə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e19b6f5-fefa-4fa7-a2ba-d5c70f1921e3",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "romanian": "avion",
+      "gender": "neuter",
+      "plural": "avioane",
+      "cefr": "A1",
+      "ipa": "[aˈvjon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40b1bf5b-3a6e-44cd-a1af-3de19b2c251e",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "romanian": "bilet",
+      "gender": "neuter",
+      "plural": "bilete",
+      "cefr": "A1",
+      "ipa": "[biˈlet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5971f64-2ff9-4f74-8ca5-08e04c57697d",
+      "part-of-speech": "noun",
+      "english": "journey, trip",
+      "romanian": "călătorie",
+      "gender": "feminine",
+      "plural": "călătorii",
+      "cefr": "A2",
+      "ipa": "[kələtoˈrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89b1ca04-b4fa-4198-bd77-706828c33d41",
+      "part-of-speech": "noun",
+      "english": "map",
+      "romanian": "hartă",
+      "gender": "feminine",
+      "plural": "hărți",
+      "cefr": "A2",
+      "ipa": "[ˈhartə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf032e0b-67f8-4841-8fad-8565f2484b7d",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "romanian": "mare",
+      "gender": "feminine",
+      "plural": "mări",
+      "cefr": "A1",
+      "ipa": "[ˈmare]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dba07f61-35c6-4c69-9e56-aa371272047b",
+      "part-of-speech": "noun",
+      "english": "beach",
+      "romanian": "plajă",
+      "gender": "feminine",
+      "plural": "plaje",
+      "cefr": "A1",
+      "ipa": "[ˈplaʒə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4850bb1a-084f-49e6-b657-3a90d1eddbe4",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "romanian": "munte",
+      "gender": "masculine",
+      "plural": "munți",
+      "cefr": "A1",
+      "ipa": "[ˈmunte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "459b2c8c-49d4-4735-951f-b96bb06829b6",
+      "part-of-speech": "noun",
+      "english": "river",
+      "romanian": "râu",
+      "gender": "neuter",
+      "plural": "râuri",
+      "cefr": "A1",
+      "ipa": "[rɨw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48ab09ef-7928-4029-9ca3-8c8d24efa4ff",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "romanian": "lac",
+      "gender": "neuter",
+      "plural": "lacuri",
+      "cefr": "A2",
+      "ipa": "[lak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a9bb843-1b64-4647-8b1d-a77f1d4cdf19",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "romanian": "pădure",
+      "gender": "feminine",
+      "plural": "păduri",
+      "cefr": "A1",
+      "ipa": "[pəˈdure]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d9c67b3-c35d-4262-9b63-067e0ed4b6cd",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "romanian": "copac",
+      "gender": "masculine",
+      "plural": "copaci",
+      "cefr": "A1",
+      "ipa": "[koˈpak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a19cd272-dbb9-4870-838f-2984fab978f1",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "romanian": "floare",
+      "gender": "feminine",
+      "plural": "flori",
+      "cefr": "A1",
+      "ipa": "[ˈflo̯are]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd2f6ef3-a9f5-4246-ba89-702ef3c2565a",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "romanian": "animal",
+      "gender": "neuter",
+      "plural": "animale",
+      "cefr": "A1",
+      "ipa": "[aniˈmal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de699f61-1db7-40da-bdef-8d1089acd6a8",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "romanian": "câine",
+      "gender": "masculine",
+      "plural": "câini",
+      "cefr": "A1",
+      "ipa": "[ˈkɨjne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df8e3dd8-e284-40e7-a57d-18da3d38cafd",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "romanian": "pisică",
+      "gender": "feminine",
+      "plural": "pisici",
+      "cefr": "A1",
+      "ipa": "[piˈsikə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83fff000-7cb1-452d-9ebf-5f1018cbec0d",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "romanian": "pasăre",
+      "gender": "feminine",
+      "plural": "păsări",
+      "cefr": "A1",
+      "ipa": "[ˈpasəre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "569cf210-344e-492e-b15a-a0c3bde9d7ea",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "romanian": "cal",
+      "gender": "masculine",
+      "plural": "cai",
+      "cefr": "A2",
+      "ipa": "[kal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00ca9fa8-82ce-4ab1-81f8-53cea0c14bc8",
+      "part-of-speech": "noun",
+      "english": "weather; time",
+      "romanian": "vreme",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈvreme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20b0ceff-3547-436d-9bdb-4aaca3969c82",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "romanian": "soare",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈso̯are]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "552bcbf9-1347-4289-b0f9-37432d6eb5a9",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "romanian": "ploaie",
+      "gender": "feminine",
+      "plural": "ploi",
+      "cefr": "A1",
+      "ipa": "[ˈplo̯aje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "746034a9-ddd6-4ccc-ba79-9e7e3a8b8df7",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "romanian": "zăpadă",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈzəpadə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebe24b3d-18c1-4b91-a74e-35d984d183a3",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "romanian": "vânt",
+      "gender": "neuter",
+      "plural": "vânturi",
+      "cefr": "A2",
+      "ipa": "[vɨnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8973bf68-d8dc-474a-b7e9-5554ba3d8c09",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "romanian": "cer",
+      "gender": "neuter",
+      "plural": "ceruri",
+      "cefr": "A2",
+      "ipa": "[tʃer]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "062044e8-df33-45af-b1dd-2ed885262d75",
+      "part-of-speech": "noun",
+      "english": "world; people",
+      "romanian": "lume",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈlume]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "691cc61a-5636-43f3-ba49-0bce707bb8c3",
+      "part-of-speech": "noun",
+      "english": "body",
+      "romanian": "corp",
+      "gender": "neuter",
+      "plural": "corpuri",
+      "cefr": "A2",
+      "ipa": "[korp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f55a0fd-4c27-4225-a4bc-6c94ca4f3fb5",
+      "part-of-speech": "noun",
+      "english": "head",
+      "romanian": "cap",
+      "gender": "neuter",
+      "plural": "capete",
+      "cefr": "A1",
+      "ipa": "[kap]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6a2b134-5599-4c88-956e-0cc37e8d16ba",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "romanian": "păr",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[pər]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c22293d2-9905-4fac-b984-8b56e4db0ff8",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "romanian": "ochi",
+      "gender": "masculine",
+      "plural": "ochi",
+      "cefr": "A1",
+      "ipa": "[okʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ec715a5-9969-4f38-b359-e9721cbb6276",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "romanian": "ureche",
+      "gender": "feminine",
+      "plural": "urechi",
+      "cefr": "A1",
+      "ipa": "[uˈreke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2d014ac-23eb-4401-a1b5-2533ec44c272",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "romanian": "nas",
+      "gender": "neuter",
+      "plural": "nasuri",
+      "cefr": "A1",
+      "ipa": "[nas]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd836bd7-4cc9-4d16-86a6-4f9ad5c6b971",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "romanian": "gură",
+      "gender": "feminine",
+      "plural": "guri",
+      "cefr": "A1",
+      "ipa": "[ˈɡurə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6454388a-de33-4d04-8911-11c0345ce48c",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "romanian": "dinte",
+      "gender": "masculine",
+      "plural": "dinți",
+      "cefr": "A2",
+      "ipa": "[ˈdinte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ca02eb8-afa7-473a-abcd-3a1ff64e1ebe",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "romanian": "mână",
+      "gender": "feminine",
+      "plural": "mâini",
+      "cefr": "A1",
+      "ipa": "[ˈmɨnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2e96abf-f733-409d-a56b-06744e5f7491",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "romanian": "picior",
+      "gender": "neuter",
+      "plural": "picioare",
+      "cefr": "A1",
+      "ipa": "[piˈtʃor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f04c146f-645b-4645-adce-794b7b82e0d6",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "romanian": "burtă",
+      "gender": "feminine",
+      "plural": "burți",
+      "cefr": "A2",
+      "ipa": "[ˈburtə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8dcc662e-ce49-467d-af96-5b53001d5b69",
+      "part-of-speech": "noun",
+      "english": "back",
+      "romanian": "spate",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈspate]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e2613af-d8b9-4c7b-89be-fcb5b91a0ef3",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "romanian": "inimă",
+      "gender": "feminine",
+      "plural": "inimi",
+      "cefr": "A2",
+      "ipa": "[ˈinimə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2cda72b-0e08-4926-8cce-a460fe1a6929",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "romanian": "medicament",
+      "gender": "neuter",
+      "plural": "medicamente",
+      "cefr": "A2",
+      "ipa": "[medikaˈment]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55a6aa6f-6060-44a8-88b4-10d2fd50b68b",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "romanian": "haine",
+      "gender": "feminine",
+      "plural": "haine",
+      "cefr": "A1",
+      "ipa": "[ˈhajne]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "336e5d8a-d3ec-47b8-88f5-96df2419c5e8",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "romanian": "pantaloni",
+      "gender": "masculine",
+      "plural": "pantaloni",
+      "cefr": "A1",
+      "ipa": "[pantaˈlonʲ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89c6c1f0-6687-4bbf-8d96-900660cc3621",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "romanian": "cămașă",
+      "gender": "feminine",
+      "plural": "cămăși",
+      "cefr": "A1",
+      "ipa": "[kəˈmaʃə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a940cf8c-d95d-4050-b72b-f55a25b4cb0f",
+      "part-of-speech": "noun",
+      "english": "sweater, jumper",
+      "romanian": "pulover",
+      "gender": "neuter",
+      "plural": "pulovere",
+      "cefr": "A2",
+      "ipa": "[puˈlover]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8682b9df-dc98-477b-9af8-adcb75b8fb6d",
+      "part-of-speech": "noun",
+      "english": "jacket",
+      "romanian": "geacă",
+      "gender": "feminine",
+      "plural": "geci",
+      "cefr": "A1",
+      "ipa": "[ˈdʒakə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7c84c76-225e-44fc-a2f8-ce8bc0e5d2a6",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "romanian": "rochie",
+      "gender": "feminine",
+      "plural": "rochii",
+      "cefr": "A1",
+      "ipa": "[ˈrokje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db3eca35-a827-4cea-81c7-92580aef14cc",
+      "part-of-speech": "noun",
+      "english": "skirt",
+      "romanian": "fustă",
+      "gender": "feminine",
+      "plural": "fuste",
+      "cefr": "A2",
+      "ipa": "[ˈfustə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "931b36d7-fae7-4296-8966-c05e6bf82805",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "romanian": "pantof",
+      "gender": "masculine",
+      "plural": "pantofi",
+      "cefr": "A1",
+      "ipa": "[panˈtof]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fda1b6ad-54ff-4c9f-bf8a-50e26fe3ecf8",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "romanian": "geantă",
+      "gender": "feminine",
+      "plural": "genți",
+      "cefr": "A1",
+      "ipa": "[ˈdʒantə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1143226f-19b1-4454-b81e-0703a451c7d2",
+      "part-of-speech": "noun",
+      "english": "hat (warm)",
+      "romanian": "căciulă",
+      "gender": "feminine",
+      "plural": "căciuli",
+      "cefr": "A2",
+      "ipa": "[kəˈtʃulə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "382916c4-d2db-4637-96b9-45dd4380a3f8",
+      "part-of-speech": "noun",
+      "english": "work",
+      "romanian": "muncă",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmunkə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cea5fcd-dc03-4eab-ae84-541a258f90d1",
+      "part-of-speech": "noun",
+      "english": "job",
+      "romanian": "serviciu",
+      "gender": "neuter",
+      "plural": "servicii",
+      "cefr": "A1",
+      "ipa": "[serˈvitʃu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c42a3be-ebb0-4278-9764-925e59e5a697",
+      "part-of-speech": "noun",
+      "english": "money",
+      "romanian": "bani",
+      "gender": "masculine",
+      "plural": "bani",
+      "cefr": "A1",
+      "ipa": "[banʲ]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88cc729f-84d0-4e94-9fd5-82e077236c37",
+      "part-of-speech": "noun",
+      "english": "leu (currency)",
+      "romanian": "leu",
+      "gender": "masculine",
+      "plural": "lei",
+      "cefr": "A1",
+      "ipa": "[lew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "618b673b-230e-4ffb-abcf-1781edabbb4e",
+      "part-of-speech": "noun",
+      "english": "price",
+      "romanian": "preț",
+      "gender": "neuter",
+      "plural": "prețuri",
+      "cefr": "A1",
+      "ipa": "[prets]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91045c70-0244-40e2-a6d5-82bb3380b625",
+      "part-of-speech": "noun",
+      "english": "book",
+      "romanian": "carte",
+      "gender": "feminine",
+      "plural": "cărți",
+      "cefr": "A1",
+      "ipa": "[ˈkarte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "594b8ef1-f908-498e-b9ab-cb48de6e87ff",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "romanian": "ziar",
+      "gender": "neuter",
+      "plural": "ziare",
+      "cefr": "A1",
+      "ipa": "[zjar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c81b4866-d635-4883-b5b2-1a92e1144bf3",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "romanian": "scrisoare",
+      "gender": "feminine",
+      "plural": "scrisori",
+      "cefr": "A1",
+      "ipa": "[skriˈso̯are]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15db2b42-46e8-4c0d-b2ee-31be7f947e2e",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "romanian": "pix",
+      "gender": "neuter",
+      "plural": "pixuri",
+      "cefr": "A1",
+      "ipa": "[piks]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b4baa36-04e9-4f6c-88fe-d8740a11428a",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "romanian": "hârtie",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[hɨrˈtie]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84c65e15-5002-4fa0-abe6-5547ecbe64f0",
+      "part-of-speech": "noun",
+      "english": "photo",
+      "romanian": "fotografie",
+      "gender": "feminine",
+      "plural": "fotografii",
+      "cefr": "A1",
+      "ipa": "[fotoɡraˈfie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4415f459-78fc-4bf7-9f3c-f0de00751288",
+      "part-of-speech": "noun",
+      "english": "film, movie",
+      "romanian": "film",
+      "gender": "neuter",
+      "plural": "filme",
+      "cefr": "A1",
+      "ipa": "[film]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e4aef8c-6a24-46ef-b2f1-45e64d7f794e",
+      "part-of-speech": "noun",
+      "english": "music",
+      "romanian": "muzică",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmuzikə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce3d7187-3eb1-4fd8-a00c-c7d7adcaad19",
+      "part-of-speech": "noun",
+      "english": "song",
+      "romanian": "cântec",
+      "gender": "neuter",
+      "plural": "cântece",
+      "cefr": "A1",
+      "ipa": "[ˈkɨntek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6e91815-e115-4002-a5fb-cd1dcac3110e",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "romanian": "sport",
+      "gender": "neuter",
+      "plural": "sporturi",
+      "cefr": "A1",
+      "ipa": "[sport]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85eb8777-cbc3-4082-ad70-0b04b7a773d4",
+      "part-of-speech": "noun",
+      "english": "game",
+      "romanian": "joc",
+      "gender": "neuter",
+      "plural": "jocuri",
+      "cefr": "A2",
+      "ipa": "[ʒok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ec5b59a-d525-4ef2-800b-9d1e1f7b1a95",
+      "part-of-speech": "noun",
+      "english": "language; tongue",
+      "romanian": "limbă",
+      "gender": "feminine",
+      "plural": "limbi",
+      "cefr": "A1",
+      "ipa": "[ˈlimbə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53b10de2-9d9f-41fb-a87d-7fc6815ef929",
+      "part-of-speech": "noun",
+      "english": "word",
+      "romanian": "cuvânt",
+      "gender": "neuter",
+      "plural": "cuvinte",
+      "cefr": "A1",
+      "ipa": "[kuˈvɨnt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dc9c0bd-63cf-48a4-9072-5e9d96c3e3b3",
+      "part-of-speech": "noun",
+      "english": "sentence",
+      "romanian": "propoziție",
+      "gender": "feminine",
+      "plural": "propoziții",
+      "cefr": "A2",
+      "ipa": "[propoˈzitsie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "687b769e-56b5-4505-aed9-2fedcd0901df",
+      "part-of-speech": "noun",
+      "english": "question",
+      "romanian": "întrebare",
+      "gender": "feminine",
+      "plural": "întrebări",
+      "cefr": "A1",
+      "ipa": "[ɨntreˈbare]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16550e41-323a-4df4-bcb5-6f5ca3050221",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "romanian": "răspuns",
+      "gender": "neuter",
+      "plural": "răspunsuri",
+      "cefr": "A1",
+      "ipa": "[rəsˈpuns]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f376e951-4ce4-4d94-86e8-a3627d7d1582",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "romanian": "lecție",
+      "gender": "feminine",
+      "plural": "lecții",
+      "cefr": "A1",
+      "ipa": "[ˈlektsie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dc89d68-7076-453c-94c2-6e80affdd292",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "romanian": "culoare",
+      "gender": "feminine",
+      "plural": "culori",
+      "cefr": "A1",
+      "ipa": "[kuˈlo̯are]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01fb2f80-ccdf-4420-8226-caf32b6f7aeb",
+      "part-of-speech": "noun",
+      "english": "problem",
+      "romanian": "problemă",
+      "gender": "feminine",
+      "plural": "probleme",
+      "cefr": "A2",
+      "ipa": "[proˈblemə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdb6abfb-25e2-4a81-9e3f-607d9bf93f4a",
+      "part-of-speech": "noun",
+      "english": "idea",
+      "romanian": "idee",
+      "gender": "feminine",
+      "plural": "idei",
+      "cefr": "A2",
+      "ipa": "[iˈdee]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e719ed6f-88a1-4dcc-8539-7c6841e2b328",
+      "part-of-speech": "noun",
+      "english": "thing; work",
+      "romanian": "lucru",
+      "gender": "neuter",
+      "plural": "lucruri",
+      "cefr": "A1",
+      "ipa": "[ˈlukru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32378605-591c-4c57-a55c-c890bc6e8c8f",
+      "part-of-speech": "noun",
+      "english": "number",
+      "romanian": "număr",
+      "gender": "neuter",
+      "plural": "numere",
+      "cefr": "A1",
+      "ipa": "[ˈnumər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35e66c97-dbd9-4c91-9cb3-a30ed209c2de",
+      "part-of-speech": "noun",
+      "english": "address",
+      "romanian": "adresă",
+      "gender": "feminine",
+      "plural": "adrese",
+      "cefr": "A1",
+      "ipa": "[aˈdresə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9be35664-04ad-4c87-b029-6e8a41d36523",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "romanian": "zero",
+      "cefr": "A1",
+      "ipa": "[ˈzero]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57d33415-eae8-46d8-a73b-517168ac813c",
+      "part-of-speech": "noun",
+      "english": "one",
+      "romanian": "unu",
+      "cefr": "A1",
+      "ipa": "[ˈunu]",
+      "context": "as an article: un (m, n), o (f)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41590a55-9219-4d44-a860-41375de3a7ee",
+      "part-of-speech": "noun",
+      "english": "two",
+      "romanian": "doi",
+      "cefr": "A1",
+      "ipa": "[doj]",
+      "context": "două with feminine nouns",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfd7f964-6287-49b8-85bf-3d301daa504f",
+      "part-of-speech": "noun",
+      "english": "three",
+      "romanian": "trei",
+      "cefr": "A1",
+      "ipa": "[trej]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1525fa41-d199-4761-aef5-b66f431879dc",
+      "part-of-speech": "noun",
+      "english": "four",
+      "romanian": "patru",
+      "cefr": "A1",
+      "ipa": "[ˈpatru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ab338fa-bb41-4c67-a841-164d42697f9f",
+      "part-of-speech": "noun",
+      "english": "five",
+      "romanian": "cinci",
+      "cefr": "A1",
+      "ipa": "[tʃintʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be3019ac-052b-4472-9180-13e4307b7a89",
+      "part-of-speech": "noun",
+      "english": "six",
+      "romanian": "șase",
+      "cefr": "A1",
+      "ipa": "[ˈʃase]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d407dfc8-a3e2-40c5-b799-65ce89a26a74",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "romanian": "șapte",
+      "cefr": "A1",
+      "ipa": "[ˈʃapte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae858e49-1a35-43d1-9187-67be7aa8a3e9",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "romanian": "opt",
+      "cefr": "A1",
+      "ipa": "[opt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0518871a-3b44-4d0a-b3a6-f093fc7d1ee9",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "romanian": "nouă",
+      "cefr": "A1",
+      "ipa": "[ˈnowə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94d750a1-2389-4272-9453-a6e350dff9b6",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "romanian": "zece",
+      "cefr": "A1",
+      "ipa": "[ˈzetʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a7dc8d5-2e74-4acd-9176-fece756a5518",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "romanian": "unsprezece",
+      "cefr": "A1",
+      "ipa": "[unsˈprezetʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd811ecb-2e24-4762-a084-ecc553261d8d",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "romanian": "douăzeci",
+      "cefr": "A1",
+      "ipa": "[dowəˈzetʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31781b82-782e-4e89-8c06-702cb0eef36b",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "romanian": "treizeci",
+      "cefr": "A1",
+      "ipa": "[treˈjzetʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "953a85cd-1adf-4a4a-8b14-f5335587f25e",
+      "part-of-speech": "noun",
+      "english": "forty",
+      "romanian": "patruzeci",
+      "cefr": "A1",
+      "ipa": "[patruˈzetʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1623f994-5b79-4992-b349-054ec08b9b0e",
+      "part-of-speech": "noun",
+      "english": "fifty",
+      "romanian": "cincizeci",
+      "cefr": "A1",
+      "ipa": "[tʃintʃiˈzetʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7eaeaa8-2ce0-4a42-a8ca-fd9bf1daf8dd",
+      "part-of-speech": "noun",
+      "english": "one hundred",
+      "romanian": "o sută",
+      "cefr": "A1",
+      "ipa": "[o ˈsutə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f183521-f356-4e06-9fcb-84ef4785f384",
+      "part-of-speech": "noun",
+      "english": "one thousand",
+      "romanian": "o mie",
+      "cefr": "A1",
+      "ipa": "[o ˈmie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d1faef8-e680-462a-bb44-f708b419acae",
+      "part-of-speech": "noun",
+      "english": "million",
+      "romanian": "milion",
+      "gender": "neuter",
+      "plural": "milioane",
+      "cefr": "A2",
+      "ipa": "[miˈljon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb85490f-445b-4b8a-ae1d-5bba6883cbf9",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "romanian": "fi",
+      "cefr": "A1",
+      "ipa": "[fʲ]",
+      "context": "sunt, ești, este (e), suntem, sunteți, sunt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "043dafdf-3bdf-4bf6-b3a6-844dac29c3ad",
+      "part-of-speech": "verb",
+      "english": "to have",
+      "romanian": "avea",
+      "cefr": "A1",
+      "ipa": "[aˈve̯a]",
+      "context": "am, ai, are, avem, aveți, au",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae990cf3-023f-415d-bf60-b79e25e10e2f",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "romanian": "face",
+      "cefr": "A1",
+      "ipa": "[ˈfatʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a82b5d68-de16-4d1f-b824-84e84300666b",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "romanian": "merge",
+      "cefr": "A1",
+      "ipa": "[ˈmerdʒe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2ebe345-0c85-4160-b87e-1601a1d89f3c",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "romanian": "veni",
+      "cefr": "A1",
+      "ipa": "[veˈni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a0ad9d0-be58-491e-a599-b6a3ee376f06",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "romanian": "da",
+      "cefr": "A1",
+      "ipa": "[da]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d22e0206-f76f-48dd-b1ff-dd21c762af61",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "romanian": "lua",
+      "cefr": "A1",
+      "ipa": "[luˈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85c9f954-ce48-4de7-8b94-54d194f74048",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "romanian": "vedea",
+      "cefr": "A1",
+      "ipa": "[veˈde̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62ffd2b2-a21b-4719-95b5-3b8ff44f14fe",
+      "part-of-speech": "verb",
+      "english": "to look at, watch",
+      "romanian": "privi",
+      "cefr": "A1",
+      "ipa": "[priˈvi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e424e1dc-368c-4eb2-9ab8-b4190127a4e4",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "romanian": "auzi",
+      "cefr": "A1",
+      "ipa": "[aˈwzi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f0c1821-2a72-4be9-9e57-ce947db3a697",
+      "part-of-speech": "verb",
+      "english": "to listen (to)",
+      "romanian": "asculta",
+      "cefr": "A1",
+      "ipa": "[askulˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "657a808f-e9f7-4e9c-8399-b7e744996276",
+      "part-of-speech": "verb",
+      "english": "to know (a fact)",
+      "romanian": "ști",
+      "cefr": "A1",
+      "ipa": "[ʃtʲ]",
+      "context": "știu, știi, știe …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4841ea73-459f-4698-aa6a-868cfa3f4c4f",
+      "part-of-speech": "verb",
+      "english": "to know (a person, place)",
+      "romanian": "cunoaște",
+      "cefr": "A1",
+      "ipa": "[kuˈno̯aʃte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b38d27e8-67ab-4e14-aa5f-b4e11ca6d35c",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "romanian": "vrea",
+      "cefr": "A1",
+      "ipa": "[vre̯a]",
+      "context": "vreau, vrei, vrea …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9cff071-9fca-49ce-93f9-1b34fc267dc8",
+      "part-of-speech": "verb",
+      "english": "can, to be able to",
+      "romanian": "putea",
+      "cefr": "A1",
+      "ipa": "[puˈte̯a]",
+      "context": "pot, poți, poate …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "408c578e-7d47-417a-80a1-cc1cb32b8a12",
+      "part-of-speech": "verb",
+      "english": "to be pleasing (to like)",
+      "romanian": "plăcea",
+      "cefr": "A1",
+      "ipa": "[pləˈtʃa]",
+      "context": "îmi place cafeaua: I like coffee",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26bf3fda-37e1-4d47-8d73-cef9ceb7a8f4",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "romanian": "iubi",
+      "cefr": "A1",
+      "ipa": "[juˈbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "746ddbf5-f312-49fc-9f9b-2ba3b11ca9d3",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "romanian": "mânca",
+      "cefr": "A1",
+      "ipa": "[mɨnˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0b6c8a3-6c9a-49e9-8f9b-449a75790960",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "romanian": "bea",
+      "cefr": "A1",
+      "ipa": "[be̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5cf6cbe-5e38-42c2-b388-12730b09fe78",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "romanian": "găti",
+      "cefr": "A1",
+      "ipa": "[ɡəˈti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06d5abfb-156b-4d87-8c4b-cefb65838a59",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "romanian": "vorbi",
+      "cefr": "A1",
+      "ipa": "[vorˈbi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3022df89-6405-4cff-b18c-ee939a330fef",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "romanian": "spune",
+      "cefr": "A1",
+      "ipa": "[ˈspune]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab1dd673-12db-41a1-ada3-9f67b0c1bc0e",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "romanian": "întreba",
+      "cefr": "A1",
+      "ipa": "[ɨntreˈba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f41ae0d-128c-4bfe-b2c5-5f3aa712ef4d",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "romanian": "răspunde",
+      "cefr": "A1",
+      "ipa": "[rəsˈpunde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c904de53-e76c-425f-a894-d9468591c994",
+      "part-of-speech": "verb",
+      "english": "to name, call",
+      "romanian": "numi",
+      "cefr": "A1",
+      "ipa": "[nuˈmi]",
+      "context": "a se numi: to be called — mă numesc …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae1b519d-b6f8-4c89-9424-1896d8949de3",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "romanian": "citi",
+      "cefr": "A1",
+      "ipa": "[tʃiˈti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ca375b9-5dd6-4b31-bd6c-762af4efe068",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "romanian": "scrie",
+      "cefr": "A1",
+      "ipa": "[ˈskrie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "305ad69b-95df-4a9e-b8ae-36b943d4d34a",
+      "part-of-speech": "verb",
+      "english": "to learn; to teach",
+      "romanian": "învăța",
+      "cefr": "A1",
+      "ipa": "[ɨnvəˈtsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80d85916-5ff5-4d8e-aa84-0ab8c1b1cf06",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "romanian": "studia",
+      "cefr": "A1",
+      "ipa": "[stuˈdja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35fd09a5-fb0d-426a-9852-5fa311caa765",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "romanian": "înțelege",
+      "cefr": "A1",
+      "ipa": "[ɨntseˈledʒe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c3ce12c-947e-42a3-9e6d-79fda303bbb6",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "romanian": "gândi",
+      "cefr": "A1",
+      "ipa": "[ɡɨnˈdi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb8bfa13-4813-4d21-8fc8-a06c8085f2d6",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "romanian": "căuta",
+      "cefr": "A1",
+      "ipa": "[kəˈwta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "066eb394-a247-473f-a7cf-df1df6a468ed",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "romanian": "găsi",
+      "cefr": "A1",
+      "ipa": "[ɡəˈsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67c051ce-a98b-4175-85a6-db6059390832",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "romanian": "lucra",
+      "cefr": "A1",
+      "ipa": "[luˈkra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90727e55-a27e-40cc-9abd-e9f94499954c",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "romanian": "locui",
+      "cefr": "A1",
+      "ipa": "[lokuˈi]",
+      "context": "locuiesc în București: I live in Bucharest",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a0eb37c-3b2b-47b9-8d52-32f19e968631",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "romanian": "trăi",
+      "cefr": "A2",
+      "ipa": "[trəˈi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "061a82a1-e896-4d0f-a892-9511cb64e2a6",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "romanian": "dormi",
+      "cefr": "A1",
+      "ipa": "[dorˈmi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a85c7db6-5690-425f-a5a8-c246b35e9384",
+      "part-of-speech": "verb",
+      "english": "to wake (someone)",
+      "romanian": "trezi",
+      "cefr": "A1",
+      "ipa": "[treˈzi]",
+      "context": "a se trezi: to wake up",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "015a8293-c329-4edb-8cc8-ba2393382510",
+      "part-of-speech": "verb",
+      "english": "to stay; to sit; to stand",
+      "romanian": "sta",
+      "cefr": "A1",
+      "ipa": "[sta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38b35355-a610-4f6e-8df6-1d925868b0d9",
+      "part-of-speech": "verb",
+      "english": "to walk (a dog)",
+      "romanian": "plimba",
+      "cefr": "A1",
+      "ipa": "[plimˈba]",
+      "context": "a se plimba: to go for a walk",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa317694-6729-48a5-b04b-a893947bf0b8",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "romanian": "alerga",
+      "cefr": "A1",
+      "ipa": "[alerˈɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62ba5d4d-0541-45b3-94b9-c5019da88a6e",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "romanian": "înota",
+      "cefr": "A1",
+      "ipa": "[ɨnoˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5726001-7d6a-4035-babe-ddf9de6f62ae",
+      "part-of-speech": "verb",
+      "english": "to drive; to lead",
+      "romanian": "conduce",
+      "cefr": "A2",
+      "ipa": "[konˈdutʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bbf92da-29cd-4d8e-8e9c-0e86c6390d74",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "romanian": "călători",
+      "cefr": "A2",
+      "ipa": "[kələtoˈri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d12ee78-a00b-43d7-b85f-05516362f1eb",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "romanian": "cumpăra",
+      "cefr": "A1",
+      "ipa": "[kumpəˈra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abca7c43-ea48-46b2-8d5a-054bf4197b2e",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "romanian": "plăti",
+      "cefr": "A1",
+      "ipa": "[pləˈti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a484162-349b-47ef-84bb-fd1426c426d9",
+      "part-of-speech": "verb",
+      "english": "to cost",
+      "romanian": "costa",
+      "cefr": "A1",
+      "ipa": "[kosˈta]",
+      "context": "cât costă?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41c7cca9-bed6-4912-92bb-d4a0d6bea98e",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "romanian": "vinde",
+      "cefr": "A2",
+      "ipa": "[ˈvinde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7c6d4ab-fd8f-43f1-8d89-0a4d9b158f89",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "romanian": "deschide",
+      "cefr": "A1",
+      "ipa": "[desˈkide]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12e70031-3dd6-46b0-a0db-2e9a2863f6d1",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "romanian": "închide",
+      "cefr": "A1",
+      "ipa": "[ɨnˈkide]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33e14e3b-0c92-4afb-8c31-08852c26184d",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "romanian": "aștepta",
+      "cefr": "A1",
+      "ipa": "[aʃtepˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10f87922-6f9f-407e-a1e6-d5df4b2c221e",
+      "part-of-speech": "verb",
+      "english": "to begin, start",
+      "romanian": "începe",
+      "cefr": "A1",
+      "ipa": "[ɨnˈtʃepe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c0fe9de-35ae-4717-85e6-7797b2480d2a",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "romanian": "termina",
+      "cefr": "A1",
+      "ipa": "[termiˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f67c4605-7f48-4e5c-9169-a2303e92e713",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "romanian": "juca",
+      "cefr": "A1",
+      "ipa": "[ʒuˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ded10e8-972c-4f58-b240-e4e7bf573898",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "romanian": "spăla",
+      "cefr": "A1",
+      "ipa": "[spəˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9aa5126-ced7-4321-b8fa-d55bf5d0ea2b",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "romanian": "ajuta",
+      "cefr": "A1",
+      "ipa": "[aʒuˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54365d7b-f882-4238-8d1d-079dba8228a1",
+      "part-of-speech": "verb",
+      "english": "to call, phone; to ring",
+      "romanian": "suna",
+      "cefr": "A1",
+      "ipa": "[suˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cb2b715-7b0b-48bf-8cd6-e8f4ab4ae3de",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "romanian": "cânta",
+      "cefr": "A1",
+      "ipa": "[kɨnˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21aecfd1-d5ab-4111-8636-93f2f8da9bd9",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "romanian": "dansa",
+      "cefr": "A1",
+      "ipa": "[danˈsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "731da19b-b4be-4fb6-b47b-07b7539f79c6",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "romanian": "folosi",
+      "cefr": "A2",
+      "ipa": "[foloˈsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9dbc580-b5ff-4665-99b1-846325cd0eee",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "romanian": "aduce",
+      "cefr": "A1",
+      "ipa": "[aˈdutʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87b11ddc-fa05-4f8a-b50e-523721aaa01c",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "romanian": "pune",
+      "cefr": "A2",
+      "ipa": "[ˈpune]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dfbb2b1-bdb3-43ea-9726-5a5ec35e14d0",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "romanian": "uita",
+      "cefr": "A2",
+      "ipa": "[uˈjta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ff05eff-6c3c-4361-b4f7-0ab4a84287e1",
+      "part-of-speech": "verb",
+      "english": "to remind",
+      "romanian": "aminti",
+      "cefr": "A2",
+      "ipa": "[aminˈti]",
+      "context": "a-și aminti: to remember",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dbe9bfe-88e7-4758-a6c5-4a70f78c223a",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "romanian": "încerca",
+      "cefr": "A2",
+      "ipa": "[ɨntʃerˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31d02813-b6f8-498a-b1bf-bfe57adcc993",
+      "part-of-speech": "verb",
+      "english": "to change",
+      "romanian": "schimba",
+      "cefr": "A2",
+      "ipa": "[skimˈba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4015dbf-f93d-44d8-b6f4-b079e2232224",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "romanian": "trimite",
+      "cefr": "A2",
+      "ipa": "[triˈmite]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e32bb06-3b31-418a-b8b6-17b47c6b49b9",
+      "part-of-speech": "verb",
+      "english": "to lose",
+      "romanian": "pierde",
+      "cefr": "A2",
+      "ipa": "[ˈpjerde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4da450c5-e979-4ff6-aec7-9000201f7705",
+      "part-of-speech": "verb",
+      "english": "to win; to earn",
+      "romanian": "câștiga",
+      "cefr": "A2",
+      "ipa": "[kɨʃtiˈɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b235d699-f723-4408-ac73-4fb778af6057",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "romanian": "întâlni",
+      "cefr": "A2",
+      "ipa": "[ɨntɨlˈni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "771abc31-854e-402d-ae74-f492fe08a748",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "romanian": "explica",
+      "cefr": "A2",
+      "ipa": "[ekspliˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aefbf9a2-5025-48db-b797-5619b24b2742",
+      "part-of-speech": "verb",
+      "english": "to translate",
+      "romanian": "traduce",
+      "cefr": "A2",
+      "ipa": "[traˈdutʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d47bc1d2-2c7b-4973-a506-e80be6e791d3",
+      "part-of-speech": "verb",
+      "english": "to choose",
+      "romanian": "alege",
+      "cefr": "A2",
+      "ipa": "[aˈledʒe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cfa5a72-63dd-47d0-878b-a8ecbe3cc647",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "romanian": "simți",
+      "cefr": "A2",
+      "ipa": "[simˈtsi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43d47ae6-d17e-4e50-9b84-5a177bb6810e",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "romanian": "spera",
+      "cefr": "A2",
+      "ipa": "[speˈra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d79b939a-a495-4b2b-a95b-16eaeac2cd97",
+      "part-of-speech": "verb",
+      "english": "to believe, think",
+      "romanian": "crede",
+      "cefr": "A2",
+      "ipa": "[ˈkrede]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96e7b69b-d5bb-4e96-9e14-f9b497df1fad",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "romanian": "râde",
+      "cefr": "A2",
+      "ipa": "[ˈrɨde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97241cca-1d3e-4d7e-ae37-46aabc7d3730",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "romanian": "plânge",
+      "cefr": "A2",
+      "ipa": "[ˈplɨndʒe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1313763f-25a8-4100-a509-a220e264751e",
+      "part-of-speech": "verb",
+      "english": "to fall",
+      "romanian": "cădea",
+      "cefr": "A2",
+      "ipa": "[kəˈde̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99b35949-f509-4dcb-843f-e5d0e6aaf535",
+      "part-of-speech": "verb",
+      "english": "to fly",
+      "romanian": "zbura",
+      "cefr": "A2",
+      "ipa": "[zbuˈra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e5adb07-e1af-4242-b546-67b67103e411",
+      "part-of-speech": "verb",
+      "english": "to order",
+      "romanian": "comanda",
+      "cefr": "A2",
+      "ipa": "[komanˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10aac3a6-2cf4-4b53-bb7a-4492947d7167",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "romanian": "arăta",
+      "cefr": "A2",
+      "ipa": "[arəˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b9d9c22-e80d-42b7-9004-7df2e7e8a06d",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "romanian": "odihni",
+      "cefr": "A2",
+      "ipa": "[odihˈni]",
+      "context": "usually a se odihni",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08e47367-5b12-4425-be46-26fd21729c7d",
+      "part-of-speech": "verb",
+      "english": "to die",
+      "romanian": "muri",
+      "cefr": "A2",
+      "ipa": "[muˈri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25783490-d681-4c7d-8fa8-12105ca641f0",
+      "part-of-speech": "verb",
+      "english": "must, to have to",
+      "romanian": "trebui",
+      "cefr": "A1",
+      "ipa": "[trebuˈi]",
+      "context": "trebuie să plec: I have to go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ffb0261-6f53-4a95-bc7a-96c5a03e1a66",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "romanian": "mare",
+      "cefr": "A1",
+      "ipa": "[ˈmare]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ffd90e2-5997-406a-a955-52a615944ea1",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "romanian": "mic",
+      "cefr": "A1",
+      "ipa": "[mik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2dbb46af-63f9-45ec-8ef3-403da204c7aa",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "romanian": "bun",
+      "cefr": "A1",
+      "ipa": "[bun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6582cc82-389c-4a24-a638-6b576c824513",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "romanian": "rău",
+      "cefr": "A1",
+      "ipa": "[rəw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df054fa6-b0b0-46a5-bec8-d17ea7b27f24",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "romanian": "frumos",
+      "cefr": "A1",
+      "ipa": "[fruˈmos]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bea675b1-f7ab-4f4a-9a69-f3a1f6ec7a6b",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "romanian": "urât",
+      "cefr": "A2",
+      "ipa": "[uˈrɨt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb328c76-2afb-4c3d-b085-4926681faece",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "romanian": "nou",
+      "cefr": "A1",
+      "ipa": "[now]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "491f81e2-8312-447e-a09e-be930f0530dc",
+      "part-of-speech": "adjective",
+      "english": "old (of things)",
+      "romanian": "vechi",
+      "cefr": "A1",
+      "ipa": "[vekʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cbecbc6-40d7-415e-9cca-88fd6a83a2fe",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "romanian": "tânăr",
+      "cefr": "A1",
+      "ipa": "[ˈtɨnər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29ebed69-e443-453a-b6a8-9601970b112e",
+      "part-of-speech": "adjective",
+      "english": "old (of people)",
+      "romanian": "bătrân",
+      "cefr": "A1",
+      "ipa": "[bəˈtrɨn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ea4570f-4dd9-411c-8ba9-eeb5d0c7236b",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "romanian": "înalt",
+      "cefr": "A1",
+      "ipa": "[ɨˈnalt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67d05584-a8ff-4f16-ac56-7d536e580122",
+      "part-of-speech": "adjective",
+      "english": "short (height)",
+      "romanian": "scund",
+      "cefr": "A2",
+      "ipa": "[skund]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa6f8c1f-80c8-458a-ae70-f2c326cde8fb",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "romanian": "lung",
+      "cefr": "A1",
+      "ipa": "[lunɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be71f479-6dec-4715-9c2b-1504d68ae3ac",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "romanian": "scurt",
+      "cefr": "A1",
+      "ipa": "[skurt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbef4943-9117-4dfa-ba42-8837b6f382a0",
+      "part-of-speech": "adjective",
+      "english": "warm, hot",
+      "romanian": "cald",
+      "cefr": "A1",
+      "ipa": "[kald]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d75d7e0-e3ba-43b6-9f00-3fdd44297a63",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "romanian": "rece",
+      "cefr": "A1",
+      "ipa": "[ˈretʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45fa5858-44e4-4686-92f5-b3866346d7a2",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "romanian": "rapid",
+      "cefr": "A1",
+      "ipa": "[raˈpid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8dab432-0644-4185-bd8a-9cadb0adb838",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "romanian": "încet",
+      "cefr": "A1",
+      "ipa": "[ɨnˈtʃet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef89ccbb-e392-4797-8fa5-9a0e7f045a57",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "romanian": "ușor",
+      "cefr": "A1",
+      "ipa": "[uˈʃor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d8559b1-0f14-430e-9626-c52ab7b92a25",
+      "part-of-speech": "adjective",
+      "english": "difficult; heavy",
+      "romanian": "greu",
+      "cefr": "A1",
+      "ipa": "[ɡrew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "803d63c9-0d57-4825-a07d-822b55b9f3d9",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "romanian": "ieftin",
+      "cefr": "A1",
+      "ipa": "[ˈjeftin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd1670ee-61fd-4543-8f79-18a264cf9e56",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "romanian": "scump",
+      "cefr": "A1",
+      "ipa": "[skump]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "333e335a-7d36-4b37-a94a-bca8a942d034",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "romanian": "fericit",
+      "cefr": "A1",
+      "ipa": "[feriˈtʃit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bce6945e-53ca-4b30-8779-12a2f211bd49",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "romanian": "trist",
+      "cefr": "A1",
+      "ipa": "[trist]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de490070-3443-48a8-b311-d92de5ce585c",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "romanian": "obosit",
+      "cefr": "A1",
+      "ipa": "[oboˈsit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efef5fe2-34b3-473b-84db-2a9fe2bcabe9",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "romanian": "bolnav",
+      "cefr": "A1",
+      "ipa": "[bolˈnav]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1755a3b-8582-4385-b055-1ab5e8e0e441",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "romanian": "sănătos",
+      "cefr": "A2",
+      "ipa": "[sənəˈtos]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d10c0e0-68eb-4ee0-a46a-e7f476652d29",
+      "part-of-speech": "adjective",
+      "english": "tasty, delicious",
+      "romanian": "gustos",
+      "cefr": "A1",
+      "ipa": "[ɡusˈtos]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41e711c4-6276-4156-b5fa-86878e3a6213",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "romanian": "interesant",
+      "cefr": "A1",
+      "ipa": "[intereˈsant]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f275a7a6-02be-4268-9ae5-860f6e17ff04",
+      "part-of-speech": "adjective",
+      "english": "boring",
+      "romanian": "plictisitor",
+      "cefr": "A2",
+      "ipa": "[pliktisiˈtor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59a6d238-72ab-40e0-9988-fbde6cbce5f7",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "romanian": "important",
+      "cefr": "A2",
+      "ipa": "[imporˈtant]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ae61c16-bf9d-4ac9-b514-36c6c419020a",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "romanian": "deschis",
+      "cefr": "A1",
+      "ipa": "[desˈkis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3a70bb9-645a-4da7-bd98-5afeca760122",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "romanian": "închis",
+      "cefr": "A1",
+      "ipa": "[ɨnˈkis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89b62594-cd04-48cd-8afe-2be28ec75009",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "romanian": "curat",
+      "cefr": "A1",
+      "ipa": "[kuˈrat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fdf32abb-5bbe-457a-aead-a96dc0e008a5",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "romanian": "murdar",
+      "cefr": "A1",
+      "ipa": "[murˈdar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "041544b7-5d22-4ae0-912a-b4390021adfe",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "romanian": "ocupat",
+      "cefr": "A1",
+      "ipa": "[okuˈpat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29d8ec43-1a9a-4269-8e7e-9701467f32de",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "romanian": "liber",
+      "cefr": "A1",
+      "ipa": "[ˈliber]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a0f7210-0577-4310-8424-c1100a84fa14",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "romanian": "gata",
+      "cefr": "A1",
+      "ipa": "[ˈɡata]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdb53bac-99d7-428b-bcdb-2527e95821ee",
+      "part-of-speech": "adjective",
+      "english": "other, another",
+      "romanian": "alt",
+      "cefr": "A1",
+      "ipa": "[alt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7025e3a4-090d-48dc-9fe5-be2bc5ca29bd",
+      "part-of-speech": "adjective",
+      "english": "different",
+      "romanian": "diferit",
+      "cefr": "A2",
+      "ipa": "[difeˈrit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59b926df-e147-417f-9e73-20c371657b15",
+      "part-of-speech": "adjective",
+      "english": "correct, right",
+      "romanian": "corect",
+      "cefr": "A1",
+      "ipa": "[koˈrekt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9412701-ee61-4a0c-9fea-675473866d34",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "romanian": "greșit",
+      "cefr": "A1",
+      "ipa": "[ɡreˈʃit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbe749b4-dba5-4ffe-8390-13b697d8ea57",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "romanian": "plin",
+      "cefr": "A2",
+      "ipa": "[plin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f0230c7-166f-46c9-b639-d7e208dff6f0",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "romanian": "gol",
+      "cefr": "A2",
+      "ipa": "[ɡol]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1abb1ac3-1f20-4660-b4a8-632dc2080029",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "romanian": "bogat",
+      "cefr": "A2",
+      "ipa": "[boˈɡat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8540553b-83f1-4884-a707-065736b1b216",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "romanian": "sărac",
+      "cefr": "A2",
+      "ipa": "[səˈrak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33786f7d-b234-4fad-90fe-6c3c2229fb12",
+      "part-of-speech": "adjective",
+      "english": "strong",
+      "romanian": "puternic",
+      "cefr": "A2",
+      "ipa": "[puˈternik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2da3d9f2-6b55-47ba-a4d9-6631a4243f92",
+      "part-of-speech": "adjective",
+      "english": "clever, smart",
+      "romanian": "deștept",
+      "cefr": "A2",
+      "ipa": "[deʃˈtept]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9039a446-ead8-45b8-bf34-6130c156ac69",
+      "part-of-speech": "adjective",
+      "english": "cheerful",
+      "romanian": "vesel",
+      "cefr": "A2",
+      "ipa": "[ˈvesel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a12d6817-daaf-4fd4-99cc-a0efc58bc3d3",
+      "part-of-speech": "adjective",
+      "english": "nice, cute",
+      "romanian": "drăguț",
+      "cefr": "A1",
+      "ipa": "[drəˈɡuts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "232949c3-da12-4f74-899f-a473cb1ea9a2",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "romanian": "roșu",
+      "cefr": "A1",
+      "ipa": "[ˈroʃu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60f552be-e6bf-4705-ad6a-8020caaee809",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "romanian": "albastru",
+      "cefr": "A1",
+      "ipa": "[alˈbastru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa677acd-c92f-46c1-b42f-c39b7b463aab",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "romanian": "verde",
+      "cefr": "A1",
+      "ipa": "[ˈverde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b54b2ec9-f286-4643-a6a0-5a8f6406045c",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "romanian": "galben",
+      "cefr": "A1",
+      "ipa": "[ˈɡalben]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "898c2427-25cc-47b0-ab1f-1d8079b35c69",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "romanian": "negru",
+      "cefr": "A1",
+      "ipa": "[ˈneɡru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbd1e645-7f31-4f59-8f37-c8acb686cf42",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "romanian": "alb",
+      "cefr": "A1",
+      "ipa": "[alb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0885db4-fa0a-44da-8947-6a997e56b1d3",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "romanian": "maro",
+      "cefr": "A1",
+      "ipa": "[maˈro]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2beed07-18e0-407d-bc55-eafd2d756f3f",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "romanian": "gri",
+      "cefr": "A1",
+      "ipa": "[ɡrʲ]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "178f5555-90f2-4412-81db-435fc6f219fa",
+      "part-of-speech": "adjective",
+      "english": "orange",
+      "romanian": "portocaliu",
+      "cefr": "A1",
+      "ipa": "[portokaˈliw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44dbd387-5173-4550-aa92-2cd536c5edba",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "romanian": "roz",
+      "cefr": "A2",
+      "ipa": "[roz]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94d9792e-942b-4d0f-8aef-e2daad9f3569",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "romanian": "mov",
+      "cefr": "A2",
+      "ipa": "[mov]",
+      "context": "never changes its ending",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "033f6d12-63f4-4b4f-9904-56a5baf2e7dd",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "romanian": "acum",
+      "cefr": "A1",
+      "ipa": "[aˈkum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70abe335-3e07-4453-84a8-8943188098bb",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "romanian": "azi",
+      "cefr": "A1",
+      "ipa": "[azʲ]",
+      "context": "also astăzi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07262f8f-a457-4f62-805e-de3a63c18f56",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "romanian": "mâine",
+      "cefr": "A1",
+      "ipa": "[ˈmɨjne]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9032b4dd-8b41-4f48-8864-9a1ec2ce7ead",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "romanian": "ieri",
+      "cefr": "A1",
+      "ipa": "[jerʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b6f9b7a-833c-49e9-86a7-5199beb3ce48",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "romanian": "aici",
+      "cefr": "A1",
+      "ipa": "[aˈitʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c34be041-925c-4451-a8f7-42ae05ac1e9d",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "romanian": "acolo",
+      "cefr": "A1",
+      "ipa": "[aˈkolo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "538a85a6-fb8f-475a-beb5-f06d54357fd3",
+      "part-of-speech": "adverb",
+      "english": "not",
+      "romanian": "nu",
+      "cefr": "A1",
+      "ipa": "[nu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d79f11a7-7add-4a3a-b43f-bf2f97846106",
+      "part-of-speech": "adverb",
+      "english": "also, too; even",
+      "romanian": "și",
+      "cefr": "A1",
+      "ipa": "[ʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25bc0767-0f8b-4f34-abef-b39fcb541322",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "romanian": "foarte",
+      "cefr": "A1",
+      "ipa": "[ˈfo̯arte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "608a5c04-67d2-4faf-9f32-50c85a795842",
+      "part-of-speech": "adverb",
+      "english": "a lot, much",
+      "romanian": "mult",
+      "cefr": "A1",
+      "ipa": "[mult]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "290f118c-2295-40ee-9df9-1e2e918a6995",
+      "part-of-speech": "adverb",
+      "english": "a little, not much",
+      "romanian": "puțin",
+      "cefr": "A1",
+      "ipa": "[puˈtsin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad276d7f-d915-477e-a283-0b1bbc4e80f1",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "romanian": "întotdeauna",
+      "cefr": "A1",
+      "ipa": "[ɨntotˈde̯awna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1de4aa7-c3bc-47f5-830d-002c7e80e976",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "romanian": "niciodată",
+      "cefr": "A1",
+      "ipa": "[nitʃoˈdatə]",
+      "context": "with nu on the verb: nu fumez niciodată",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b0b8be7-c70f-40bf-b3ef-9f0d8f358f68",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "romanian": "uneori",
+      "cefr": "A1",
+      "ipa": "[ˈuneorʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bd125f1-a7bc-4e87-9582-a866fc606add",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "romanian": "des",
+      "cefr": "A1",
+      "ipa": "[des]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41b54643-fb7d-4c88-a5d4-95e46706d734",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "romanian": "de obicei",
+      "cefr": "A2",
+      "ipa": "[de oˈbitʃej]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c56ae347-91c0-4323-afdc-279998c285c3",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "romanian": "deja",
+      "cefr": "A1",
+      "ipa": "[deˈʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d105e072-1c0a-4824-b19e-f65344b7d9c6",
+      "part-of-speech": "adverb",
+      "english": "still; yet",
+      "romanian": "încă",
+      "cefr": "A1",
+      "ipa": "[ˈɨnkə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20f97969-d621-40f3-85a3-231d5ee0a48f",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "romanian": "din nou",
+      "cefr": "A1",
+      "ipa": "[din now]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71688e06-c845-4b1b-aafc-5282882fac74",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "romanian": "împreună",
+      "cefr": "A1",
+      "ipa": "[ɨmpreˈunə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e56113b-7814-4095-bfd5-8b57bb2d7328",
+      "part-of-speech": "adverb",
+      "english": "maybe, perhaps",
+      "romanian": "poate",
+      "cefr": "A1",
+      "ipa": "[ˈpo̯ate]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cbe1c7c-f418-4572-8e0c-cb79590ff6eb",
+      "part-of-speech": "adverb",
+      "english": "then, afterwards",
+      "romanian": "apoi",
+      "cefr": "A1",
+      "ipa": "[aˈpoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "193f9e0f-a6d7-495c-87e4-8b31e32b0621",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "romanian": "devreme",
+      "cefr": "A1",
+      "ipa": "[deˈvreme]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a12c9c89-770f-4861-9c08-c7c0ab562f1d",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "romanian": "târziu",
+      "cefr": "A1",
+      "ipa": "[tɨrˈziw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e49ff40-ecda-45c5-b7a6-909757ca2714",
+      "part-of-speech": "adverb",
+      "english": "well; OK",
+      "romanian": "bine",
+      "cefr": "A1",
+      "ipa": "[ˈbine]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4a388ed-5729-47ea-b992-83ef93f06c99",
+      "part-of-speech": "adverb",
+      "english": "only, just",
+      "romanian": "doar",
+      "cefr": "A1",
+      "ipa": "[do̯ar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3536c875-9204-4837-bec9-0eada839cb86",
+      "part-of-speech": "adverb",
+      "english": "near; almost",
+      "romanian": "aproape",
+      "cefr": "A1",
+      "ipa": "[aˈpro̯ape]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a12d5ccb-ceda-4d22-a71e-aa361f285dbe",
+      "part-of-speech": "adverb",
+      "english": "immediately",
+      "romanian": "imediat",
+      "cefr": "A2",
+      "ipa": "[imeˈdjat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72753eac-4aaa-414e-9b07-325a873315fc",
+      "part-of-speech": "adverb",
+      "english": "of course, surely",
+      "romanian": "sigur",
+      "cefr": "A2",
+      "ipa": "[ˈsiɡur]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab817dc5-ec15-402b-a067-176be73e5438",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "romanian": "repede",
+      "cefr": "A1",
+      "ipa": "[ˈrepede]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c77dba8-becc-4f38-9ee1-241ed82a44ac",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "romanian": "departe",
+      "cefr": "A1",
+      "ipa": "[deˈparte]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89677809-879b-4951-8785-ac7cdeff2ce7",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "romanian": "la stânga",
+      "cefr": "A1",
+      "ipa": "[la ˈstɨnɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8dde170c-6fed-467b-ac34-626cb9422ce0",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "romanian": "la dreapta",
+      "cefr": "A1",
+      "ipa": "[la ˈdre̯apta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92e716cb-f491-4b72-9c31-188a7e5383f0",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "romanian": "acasă",
+      "cefr": "A1",
+      "ipa": "[aˈkasə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "725e73ff-34a6-419b-97a8-347ba57874ef",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "romanian": "unde",
+      "cefr": "A1",
+      "ipa": "[ˈunde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c438af3-a9b9-419f-9e70-190c4ba23302",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "romanian": "când",
+      "cefr": "A1",
+      "ipa": "[kɨnd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fea248fc-60e1-4ec6-a73b-b5b2c7192406",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "romanian": "cum",
+      "cefr": "A1",
+      "ipa": "[kum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a32ebc77-86f0-445a-ac23-86cacc213219",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "romanian": "de ce",
+      "cefr": "A1",
+      "ipa": "[de tʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e872f53c-bebb-4294-a1c4-667a8c1241bb",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "romanian": "cât",
+      "cefr": "A1",
+      "ipa": "[kɨt]",
+      "context": "câți / câte: how many",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0636a2ef-e95a-440d-b06c-8be36f0ca5fd",
+      "part-of-speech": "adverb",
+      "english": "it is necessary",
+      "romanian": "trebuie",
+      "cefr": "A2",
+      "ipa": "[ˈtrebuje]",
+      "context": "trebuie să …: one must …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40801a61-00f5-45ba-9b7a-50fd7bb3b7a5",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "romanian": "eu",
+      "cefr": "A1",
+      "ipa": "[jew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc1de6a4-14d1-4e0e-9663-00998d4ae708",
+      "part-of-speech": "pronoun",
+      "english": "you (informal)",
+      "romanian": "tu",
+      "cefr": "A1",
+      "ipa": "[tu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba63831f-2c5a-41ab-9d38-bada653d7b75",
+      "part-of-speech": "pronoun",
+      "english": "he; it",
+      "romanian": "el",
+      "cefr": "A1",
+      "ipa": "[jel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89ece110-0429-489b-af39-407a1ef6f42c",
+      "part-of-speech": "pronoun",
+      "english": "she; it",
+      "romanian": "ea",
+      "cefr": "A1",
+      "ipa": "[ja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad64e0de-d1a6-4d69-bbdf-62c56ee3f5d1",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "romanian": "noi",
+      "cefr": "A1",
+      "ipa": "[noj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b10d318-a605-483c-96b2-240fa5e9b121",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "romanian": "voi",
+      "cefr": "A1",
+      "ipa": "[voj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa192e5e-5bf5-4853-86c1-6f1b064f7b1d",
+      "part-of-speech": "pronoun",
+      "english": "they (men or mixed); her (possessive)",
+      "romanian": "ei",
+      "cefr": "A1",
+      "ipa": "[jej]",
+      "context": "ele: they (women only)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d889819-90f5-4f05-b47f-ab1cd74b00af",
+      "part-of-speech": "pronoun",
+      "english": "you (formal)",
+      "romanian": "dumneavoastră",
+      "cefr": "A1",
+      "ipa": "[dumne̯aˈvo̯astrə]",
+      "context": "the polite form for one or more people",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a3c3460-6627-4232-8a7a-bb427386a681",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "romanian": "meu",
+      "cefr": "A1",
+      "ipa": "[mew]",
+      "context": "forms: mea (f), mei, mele (pl); after the noun: prietenul meu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65378f11-7392-45b4-9a14-1073f7631197",
+      "part-of-speech": "pronoun",
+      "english": "your (informal)",
+      "romanian": "tău",
+      "cefr": "A1",
+      "ipa": "[təw]",
+      "context": "forms: ta (f), tăi, tale (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebea3c58-6979-4528-a22b-a3c9aea79109",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "romanian": "nostru",
+      "cefr": "A1",
+      "ipa": "[ˈnostru]",
+      "context": "forms: noastră (f), noștri, noastre (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4964447a-cbd0-4d35-9181-d01da33560c8",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "romanian": "lor",
+      "cefr": "A1",
+      "ipa": "[lor]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "218315e4-d0c1-4bc4-99ba-548263fffb72",
+      "part-of-speech": "pronoun",
+      "english": "this (one)",
+      "romanian": "acesta",
+      "cefr": "A1",
+      "ipa": "[aˈtʃesta]",
+      "context": "forms: aceasta (f), acești, aceste (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59f7b3c5-9cad-4c40-9576-51afed83d262",
+      "part-of-speech": "pronoun",
+      "english": "that (one)",
+      "romanian": "acela",
+      "cefr": "A1",
+      "ipa": "[aˈtʃela]",
+      "context": "forms: aceea (f), acei, acele (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23a2baf7-441d-4714-907d-d1514b089ab5",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "romanian": "ce",
+      "cefr": "A1",
+      "ipa": "[tʃe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6812235c-c1ba-47e6-804c-9b307cf464b9",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "romanian": "cine",
+      "cefr": "A1",
+      "ipa": "[ˈtʃine]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab49be15-74d3-42d7-b9a3-0d8943932d44",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "romanian": "care",
+      "cefr": "A1",
+      "ipa": "[ˈkare]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "447f65c7-db26-4547-bc4f-6d0beedd5925",
+      "part-of-speech": "pronoun",
+      "english": "everything; all",
+      "romanian": "tot",
+      "cefr": "A1",
+      "ipa": "[tot]",
+      "context": "forms: toată (f), toți, toate (pl)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2d5df83-cd25-4dd9-834e-e584b0c4aa6f",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "romanian": "ceva",
+      "cefr": "A2",
+      "ipa": "[tʃeˈva]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87ea32c1-0a85-456e-b808-542e4bb43d84",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "romanian": "nimic",
+      "cefr": "A2",
+      "ipa": "[niˈmik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f7106b2-d21f-424f-b3e8-897982062b8c",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "romanian": "cineva",
+      "cefr": "A2",
+      "ipa": "[tʃineˈva]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46d2faeb-2c28-4556-b9ab-dc4772901537",
+      "part-of-speech": "pronoun",
+      "english": "no one",
+      "romanian": "nimeni",
+      "cefr": "A2",
+      "ipa": "[ˈnimenʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db106e48-6346-4d3d-885a-28b3c24ba91b",
+      "part-of-speech": "preposition",
+      "english": "in, into",
+      "romanian": "în",
+      "cefr": "A1",
+      "ipa": "[ɨn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4abc78e-4e35-4852-bbdb-f3be8d4afb52",
+      "part-of-speech": "preposition",
+      "english": "on; also marks a person as the object",
+      "romanian": "pe",
+      "cefr": "A1",
+      "ipa": "[pe]",
+      "context": "îl văd pe Ion: I see Ion",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23038096-0f4b-4ed8-a87c-b05940b63f99",
+      "part-of-speech": "preposition",
+      "english": "at; to",
+      "romanian": "la",
+      "cefr": "A1",
+      "ipa": "[la]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93c6f9ec-f846-4a85-a49d-b1916374d00a",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "romanian": "cu",
+      "cefr": "A1",
+      "ipa": "[ku]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a79fe1f1-1fe6-443c-8766-2448e3f7633a",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "romanian": "de la",
+      "cefr": "A1",
+      "ipa": "[de la]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4333249d-ddeb-42fc-9037-1d7960f81af8",
+      "part-of-speech": "preposition",
+      "english": "from, out of",
+      "romanian": "din",
+      "cefr": "A1",
+      "ipa": "[din]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9aaa25d6-c1ec-4326-9d66-f74d8dc6a9fa",
+      "part-of-speech": "preposition",
+      "english": "for",
+      "romanian": "pentru",
+      "cefr": "A1",
+      "ipa": "[ˈpentru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59893203-7b6c-4202-9010-211b26bea3f4",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "romanian": "fără",
+      "cefr": "A1",
+      "ipa": "[ˈfərə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02b23d7f-eeb1-4f54-aae1-f3d8a0346561",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "romanian": "despre",
+      "cefr": "A1",
+      "ipa": "[ˈdespre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24f060a4-bcd1-4373-92d3-bcc75082b76a",
+      "part-of-speech": "preposition",
+      "english": "next to, near",
+      "romanian": "lângă",
+      "cefr": "A1",
+      "ipa": "[ˈlɨnɡə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fae5c536-1b8c-4cd7-9e0d-1d585b9d8570",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "romanian": "sub",
+      "cefr": "A1",
+      "ipa": "[sub]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "945f7d13-8b40-498a-a246-eee3358b7627",
+      "part-of-speech": "preposition",
+      "english": "over; in (time)",
+      "romanian": "peste",
+      "cefr": "A2",
+      "ipa": "[ˈpeste]",
+      "context": "peste o oră: in an hour",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "063956c4-db0e-4805-af8d-a405a61b33ad",
+      "part-of-speech": "preposition",
+      "english": "after; behind",
+      "romanian": "după",
+      "cefr": "A1",
+      "ipa": "[ˈdupə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8574dab5-a7f6-4e5a-9db1-9a41ec62f58e",
+      "part-of-speech": "preposition",
+      "english": "before",
+      "romanian": "înainte de",
+      "cefr": "A1",
+      "ipa": "[ɨnaˈinte de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e749e62-94bd-46a6-aa2c-92ff0fdaa4bb",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "romanian": "între",
+      "cefr": "A2",
+      "ipa": "[ˈɨntre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cc39cd2-4a80-4332-bb7d-3774944cca1a",
+      "part-of-speech": "preposition",
+      "english": "through",
+      "romanian": "prin",
+      "cefr": "A2",
+      "ipa": "[prin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd10b17a-517d-4da4-a645-8dcfb0d4d028",
+      "part-of-speech": "preposition",
+      "english": "until; as far as",
+      "romanian": "până la",
+      "cefr": "A2",
+      "ipa": "[ˈpɨnə la]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76406ea0-01d8-4ca5-9763-84ec205f4de2",
+      "part-of-speech": "preposition",
+      "english": "in front of",
+      "romanian": "în fața",
+      "cefr": "A1",
+      "ipa": "[ɨn ˈfatsa]",
+      "context": "+ genitive: în fața casei",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbe0d50d-3523-42ca-8aee-3ea926892c73",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "romanian": "și",
+      "cefr": "A1",
+      "ipa": "[ʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be985a77-e9ae-43fb-98e7-d8216efe78d1",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "romanian": "sau",
+      "cefr": "A1",
+      "ipa": "[saw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e825ca63-2abd-44c2-8f37-014e9fed964d",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "romanian": "dar",
+      "cefr": "A1",
+      "ipa": "[dar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0329b0c5-3a10-4243-82a9-d41f59d1fe76",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "romanian": "pentru că",
+      "cefr": "A1",
+      "ipa": "[ˈpentru kə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4c1b036-f80d-4ad2-a6c2-96dc4786d781",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "romanian": "deci",
+      "cefr": "A1",
+      "ipa": "[detʃʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40f5916f-9797-40d1-942a-3ddcc67340a5",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "romanian": "că",
+      "cefr": "A1",
+      "ipa": "[kə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a223bee-1f50-49fa-b2c5-2d06e49ad5c6",
+      "part-of-speech": "conjunction",
+      "english": "if; whether",
+      "romanian": "dacă",
+      "cefr": "A1",
+      "ipa": "[ˈdakə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3a2585d-05f7-43ff-9425-e3e65ec473d9",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "romanian": "când",
+      "cefr": "A1",
+      "ipa": "[kɨnd]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4505675c-1891-4705-92a2-dfc6397ccc2f",
+      "part-of-speech": "conjunction",
+      "english": "so that, in order to",
+      "romanian": "ca să",
+      "cefr": "A2",
+      "ipa": "[ka sə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dea97545-c367-4d23-a20d-58d45a3f19d1",
+      "part-of-speech": "conjunction",
+      "english": "although",
+      "romanian": "deși",
+      "cefr": "A2",
+      "ipa": "[deˈʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31857e16-f4e0-4fe8-a269-a10ff0531354",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "romanian": "da",
+      "cefr": "A1",
+      "ipa": "[da]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85a38981-e82e-4aa0-ae84-6ca303a84879",
+      "part-of-speech": "interjection",
+      "english": "no",
+      "romanian": "nu",
+      "cefr": "A1",
+      "ipa": "[nu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a381c5cf-fc21-43fd-b1f9-e669d74dca4a",
+      "part-of-speech": "interjection",
+      "english": "hi",
+      "romanian": "bună",
+      "cefr": "A1",
+      "ipa": "[ˈbunə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18406701-e9c9-4dbd-8955-b996b069a97f",
+      "part-of-speech": "interjection",
+      "english": "good day, hello",
+      "romanian": "bună ziua",
+      "cefr": "A1",
+      "ipa": "[ˈbunə ˈziwa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dff9c90-3e99-441f-923c-9c2d138d427f",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "romanian": "bună dimineața",
+      "cefr": "A1",
+      "ipa": "[ˈbunə dimiˈne̯atsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec7253a2-3014-4bbf-94d8-00269939059a",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "romanian": "bună seara",
+      "cefr": "A1",
+      "ipa": "[ˈbunə ˈse̯ara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bedbfaf5-961c-4256-83e9-98c708003f5f",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "romanian": "noapte bună",
+      "cefr": "A1",
+      "ipa": "[ˈno̯apte ˈbunə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92a1d6f1-9894-415b-9c08-5a78a3e6a871",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "romanian": "la revedere",
+      "cefr": "A1",
+      "ipa": "[la reveˈdere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee7bf6c3-b16f-4712-a498-50103519d173",
+      "part-of-speech": "interjection",
+      "english": "bye",
+      "romanian": "pa",
+      "cefr": "A1",
+      "ipa": "[pa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c0aec9a-2d81-44f7-9d37-8351e61083d6",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "romanian": "mulțumesc",
+      "cefr": "A1",
+      "ipa": "[multsuˈmesk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ddf1f3b-12e0-4a19-8e6a-cf814db680c3",
+      "part-of-speech": "interjection",
+      "english": "please (informal)",
+      "romanian": "te rog",
+      "cefr": "A1",
+      "ipa": "[te roɡ]",
+      "context": "formal: vă rog",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a2579ab-9288-4906-b9b0-e0d3996ff887",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "romanian": "cu plăcere",
+      "cefr": "A1",
+      "ipa": "[ku pləˈtʃere]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "545fa58c-38e8-499d-84c7-4cfa1c6eb748",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "romanian": "scuze",
+      "cefr": "A1",
+      "ipa": "[ˈskuze]",
+      "context": "also îmi pare rău (I'm sorry)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a72288a-6d09-4e36-944d-a60c4b1e8446",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "romanian": "ce mai faci",
+      "cefr": "A1",
+      "ipa": "[tʃe maj fatʃʲ]",
+      "context": "formal: ce mai faceți?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38ea0b16-b7a1-4f2c-a45b-d5e786754719",
+      "part-of-speech": "interjection",
+      "english": "nice to meet you",
+      "romanian": "încântat",
+      "cefr": "A1",
+      "ipa": "[ɨnkɨnˈtat]",
+      "context": "said by a woman: încântată",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5949178b-3635-415f-8032-ef47a9514b0d",
+      "part-of-speech": "interjection",
+      "english": "enjoy your meal",
+      "romanian": "poftă bună",
+      "cefr": "A2",
+      "ipa": "[ˈpoftə ˈbunə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1612752-1fa1-46c2-a4b9-a4da89419186",
+      "part-of-speech": "interjection",
+      "english": "cheers; good luck",
+      "romanian": "noroc",
+      "cefr": "A2",
+      "ipa": "[noˈrok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0e7eaea-85a0-4e55-8639-763f2c387896",
+      "part-of-speech": "interjection",
+      "english": "happy birthday; happy new year",
+      "romanian": "la mulți ani",
+      "cefr": "A2",
+      "ipa": "[la multsʲ anʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "200fec3d-618b-4941-bd35-18b02bf25200",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "romanian": "felicitări",
+      "cefr": "A2",
+      "ipa": "[felitʃiˈtərʲ]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

@@ -1,5 +1,29 @@
 # Changelog
 
+## 1.33.0 — 2026-11-12
+- Added Hungarian: 523 words covering levels A1 and A2 — everyday nouns (with their plurals), verbs (in the infinitive, with the irregular present forms: megyek, mész, megy), adjectives, adverbs, pronouns (including the formal ön), postpositions, conjunctions, numbers, greetings, days, months and seasons
+- Every word has bracketed IPA for standard Budapest Hungarian, showing first-syllable stress, long vowels and consonants (kettő [ˈkɛtːøː]), and the sound changes in consonant clusters (nagypapa [ˈnɒcpɒpɒ], barátság [ˈbɒraːtʃːaːɡ]); Hungarian also gets its own Pronunciation Guide, including vowel harmony
+- New part of speech, "postposition", for words that come after their noun (az asztal alatt, "under the table")
+
+## 1.32.1 — 2026-11-12
+- Serbo-Croatian pronunciations now mark the stressed syllable with ˈ, like every other language (žena [ˈʒěna], ponedjeljak [poˈnědjeʎak]), alongside the pitch-accent marks; the Pronunciation Guide explains both
+
+## 1.32.0 — 2026-11-12
+- Added Serbo-Croatian: 522 words covering levels A1 and A2 — everyday nouns (with their gender and plural), verbs (with key forms), adjectives, adverbs, pronouns, prepositions (with the case each one takes), conjunctions, numbers, greetings, days, months and seasons
+- Words are in Latin script, in the ijekavian form with Croatian/Bosnian word choice; where Serbian uses a different word or the ekavian form differs, the note says so (mlijeko — ekavian: mleko; kruh — Serbian: hleb)
+- Every word has bracketed IPA showing its pitch accent — falling (â) or rising (ǎ), short or long — plus long unstressed vowels and syllabic r (prst [pr̩̂st]); Serbo-Croatian also gets its own Pronunciation Guide explaining the four accents
+- Languages without a single national flag can now show a small picture instead: Serbo-Croatian shows an outline map of the region where it's spoken
+
+## 1.31.0 — 2026-11-12
+- Added Romanian: 505 words covering levels A1 and A2 — everyday nouns (shown with un / o and their plurals), verbs, adjectives, adverbs, pronouns (including the formal dumneavoastră), prepositions, conjunctions, numbers, greetings, days and months
+- Every word has bracketed IPA for standard Romanian, showing its stress, ă [ə] and â/î [ɨ], the ea/oa diphthongs, and the silent final -i that softens the consonant before it (pomi [pomʲ]); Romanian also gets its own Pronunciation Guide
+- Romanian uncountable nouns are shown without "a/an" (apă, not "o apă")
+
+## 1.30.0 — 2026-11-12
+- Added Ukrainian: 514 words covering levels A1 and A2 — everyday nouns (with their gender and plural), verbs (with key forms and perfective partners), adjectives, adverbs, pronouns, prepositions (with the case each one takes), conjunctions, numbers, greetings, days and months — plus борщ
+- Words are written in plain Cyrillic; every word has bracketed IPA for standard Ukrainian showing its stress, soft consonants, г as a voiced h, в as w at the end of a syllable, and long double consonants (питання [pɪˈtɑnʲːɑ])
+- New Ukrainian Alphabet Guide: all 33 letters plus the apostrophe, how they differ from Russian, the main reading rules, and a key to the symbols in the pronunciations
+
 ## 1.29.0 — 2026-11-12
 - Added Polish: 528 words covering levels A1 and A2 — everyday nouns (with their gender and plural), verbs (with key forms and perfective partners: robić / zrobić), adjectives, adverbs, pronouns (including the formal pan / pani), prepositions (with the case each one takes), conjunctions, numbers, greetings, days and months
 - Every word has bracketed IPA for standard Polish, showing the stress, the soft and hard sh/ch/zh sounds, nasal ą and ę, and the voicing changes in consonant clusters (twój [tfuj], chleb [xlɛp]); Polish also gets its own Pronunciation Guide
