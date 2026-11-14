@@ -1,0 +1,595 @@
+{
+  "scriptName": "Bengali Alphabet",
+  "buttonLabel": "Alphabet Guide",
+  "fontScale": 1.3,
+  "intro": "The Bengali script: vowels and vowel signs, the consonants, special signs and conjuncts, numerals, the main reading rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "How the Bengali script works",
+      "text": [
+        "Bengali is written from left to right in its own script, a cousin of the Devanagari used for Hindi. Letters hang from a line along the top.",
+        "Each consonant carries a built-in vowel, অ: ক on its own is kɔ or ko. Other vowels after a consonant are shown with a vowel sign attached to it; a vowel at the start of a word uses its full letter. Some signs are written before the consonant even though they are said after it.",
+        "Two consonants with no vowel between them are usually joined into one conjunct letter: ক + ষ = ক্ষ, ন + দ = ন্দ."
+      ]
+    },
+    {
+      "heading": "Vowels",
+      "items": [
+        {
+          "char": "অ",
+          "ipa": "[ɔ o]",
+          "note": "the inherent vowel — also hidden in every consonant"
+        },
+        {
+          "char": "আ",
+          "ipa": "[a]",
+          "note": ""
+        },
+        {
+          "char": "ই",
+          "ipa": "[i]",
+          "note": ""
+        },
+        {
+          "char": "ঈ",
+          "ipa": "[i]",
+          "note": "sounds the same as ই"
+        },
+        {
+          "char": "উ",
+          "ipa": "[u]",
+          "note": ""
+        },
+        {
+          "char": "ঊ",
+          "ipa": "[u]",
+          "note": "sounds the same as উ"
+        },
+        {
+          "char": "ঋ",
+          "ipa": "[ri]",
+          "note": ""
+        },
+        {
+          "char": "এ",
+          "ipa": "[e æ]",
+          "note": "e, or a as in \"cat\""
+        },
+        {
+          "char": "ঐ",
+          "ipa": "[oi̯]",
+          "note": ""
+        },
+        {
+          "char": "ও",
+          "ipa": "[o]",
+          "note": ""
+        },
+        {
+          "char": "ঔ",
+          "ipa": "[ou̯]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "heading": "Vowel signs (shown on ক)",
+      "items": [
+        {
+          "char": "কা",
+          "ipa": "[ka]",
+          "note": "া"
+        },
+        {
+          "char": "কি",
+          "ipa": "[ki]",
+          "note": "ি — written before the consonant, said after it"
+        },
+        {
+          "char": "কী",
+          "ipa": "[ki]",
+          "note": "ী"
+        },
+        {
+          "char": "কু",
+          "ipa": "[ku]",
+          "note": "ু"
+        },
+        {
+          "char": "কূ",
+          "ipa": "[ku]",
+          "note": "ূ"
+        },
+        {
+          "char": "কৃ",
+          "ipa": "[kri]",
+          "note": "ৃ"
+        },
+        {
+          "char": "কে",
+          "ipa": "[ke kæ]",
+          "note": "ে — written before"
+        },
+        {
+          "char": "কৈ",
+          "ipa": "[koi̯]",
+          "note": "ৈ — written before"
+        },
+        {
+          "char": "কো",
+          "ipa": "[ko]",
+          "note": "ো — wraps around"
+        },
+        {
+          "char": "কৌ",
+          "ipa": "[kou̯]",
+          "note": "ৌ — wraps around"
+        }
+      ]
+    },
+    {
+      "heading": "Velar consonants",
+      "items": [
+        {
+          "char": "ক",
+          "ipa": "[k]",
+          "note": ""
+        },
+        {
+          "char": "খ",
+          "ipa": "[kʰ]",
+          "note": "with a puff of air"
+        },
+        {
+          "char": "গ",
+          "ipa": "[ɡ]",
+          "note": ""
+        },
+        {
+          "char": "ঘ",
+          "ipa": "[ɡʱ]",
+          "note": "breathy"
+        },
+        {
+          "char": "ঙ",
+          "ipa": "[ŋ]",
+          "note": "ng, as in \"sing\""
+        }
+      ]
+    },
+    {
+      "heading": "Palatal consonants",
+      "items": [
+        {
+          "char": "চ",
+          "ipa": "[tʃ]",
+          "note": "ch"
+        },
+        {
+          "char": "ছ",
+          "ipa": "[tʃʰ]",
+          "note": "ch with a puff of air"
+        },
+        {
+          "char": "জ",
+          "ipa": "[dʒ]",
+          "note": "j"
+        },
+        {
+          "char": "ঝ",
+          "ipa": "[dʒʱ]",
+          "note": "breathy j"
+        },
+        {
+          "char": "ঞ",
+          "ipa": "[n]",
+          "note": "rare; usually in জ্ঞ or ঞ্চ"
+        }
+      ]
+    },
+    {
+      "heading": "Retroflex consonants",
+      "items": [
+        {
+          "char": "ট",
+          "ipa": "[ʈ]",
+          "note": "t with the tongue tip curled back"
+        },
+        {
+          "char": "ঠ",
+          "ipa": "[ʈʰ]",
+          "note": ""
+        },
+        {
+          "char": "ড",
+          "ipa": "[ɖ]",
+          "note": ""
+        },
+        {
+          "char": "ঢ",
+          "ipa": "[ɖʱ]",
+          "note": ""
+        },
+        {
+          "char": "ণ",
+          "ipa": "[n]",
+          "note": "same as ন"
+        }
+      ]
+    },
+    {
+      "heading": "Dental consonants",
+      "items": [
+        {
+          "char": "ত",
+          "ipa": "[t̪]",
+          "note": "t with the tongue against the teeth"
+        },
+        {
+          "char": "থ",
+          "ipa": "[t̪ʰ]",
+          "note": ""
+        },
+        {
+          "char": "দ",
+          "ipa": "[d̪]",
+          "note": ""
+        },
+        {
+          "char": "ধ",
+          "ipa": "[d̪ʱ]",
+          "note": ""
+        },
+        {
+          "char": "ন",
+          "ipa": "[n]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "heading": "Labial consonants",
+      "items": [
+        {
+          "char": "প",
+          "ipa": "[p]",
+          "note": ""
+        },
+        {
+          "char": "ফ",
+          "ipa": "[pʰ]",
+          "note": "often f in everyday speech"
+        },
+        {
+          "char": "ব",
+          "ipa": "[b]",
+          "note": ""
+        },
+        {
+          "char": "ভ",
+          "ipa": "[bʱ]",
+          "note": "often close to v"
+        },
+        {
+          "char": "ম",
+          "ipa": "[m]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "heading": "Other consonants",
+      "items": [
+        {
+          "char": "য",
+          "ipa": "[dʒ]",
+          "note": "same as জ"
+        },
+        {
+          "char": "র",
+          "ipa": "[r]",
+          "note": "a tap or light trill"
+        },
+        {
+          "char": "ল",
+          "ipa": "[l]",
+          "note": ""
+        },
+        {
+          "char": "শ",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "ষ",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "স",
+          "ipa": "[ʃ s]",
+          "note": "usually sh; s before t, th, n, r, l"
+        },
+        {
+          "char": "হ",
+          "ipa": "[ɦ]",
+          "note": "a breathy h"
+        },
+        {
+          "char": "ড়",
+          "ipa": "[ɽ]",
+          "note": "a flapped r"
+        },
+        {
+          "char": "ঢ়",
+          "ipa": "[ɽ]",
+          "note": "rare"
+        },
+        {
+          "char": "য়",
+          "ipa": "[j]",
+          "note": "y, or just a glide between vowels"
+        }
+      ]
+    },
+    {
+      "heading": "Special signs",
+      "items": [
+        {
+          "char": "ং",
+          "ipa": "[ŋ]",
+          "note": "anusvara: ng"
+        },
+        {
+          "char": "ঃ",
+          "ipa": "",
+          "note": "visarga: usually doubles the next consonant (দুঃখ dukkhO)"
+        },
+        {
+          "char": "ঁ",
+          "ipa": "[̃]",
+          "note": "chandrabindu: nasalises the vowel (চাঁদ [tʃãd̪])"
+        },
+        {
+          "char": "্",
+          "ipa": "",
+          "note": "hasanta: removes the inherent vowel; normally letters join instead"
+        },
+        {
+          "char": "ৎ",
+          "ipa": "[t̪]",
+          "note": "khanda ta: t with no vowel after it (শরৎ)"
+        }
+      ]
+    },
+    {
+      "heading": "Common conjuncts and joined forms",
+      "items": [
+        {
+          "char": "ক্ষ",
+          "ipa": "[kkʰ]",
+          "note": "kh; doubled in the middle of a word (শিক্ষক)"
+        },
+        {
+          "char": "জ্ঞ",
+          "ipa": "[ɡɡ]",
+          "note": "g; doubled in the middle of a word (জিজ্ঞেস)"
+        },
+        {
+          "char": "্য",
+          "ipa": "",
+          "note": "ya-phala: doubles the consonant before it (বিদ্যা), or makes আ/এ sound like \"a\" in \"cat\" (ব্যাগ)"
+        },
+        {
+          "char": "্ব",
+          "ipa": "",
+          "note": "ba-phala: doubles the consonant, or is silent at the start of a word (স্বামী shami)"
+        },
+        {
+          "char": "্র",
+          "ipa": "[r]",
+          "note": "ra-phala: r after a consonant (প্রশ্ন)"
+        },
+        {
+          "char": "র্",
+          "ipa": "[r]",
+          "note": "reph: r before a consonant, written on top (বর্ষা)"
+        }
+      ]
+    },
+    {
+      "heading": "Numerals",
+      "items": [
+        {
+          "char": "০",
+          "ipa": "",
+          "note": "0 শূন্য"
+        },
+        {
+          "char": "১",
+          "ipa": "",
+          "note": "1 এক"
+        },
+        {
+          "char": "২",
+          "ipa": "",
+          "note": "2 দুই"
+        },
+        {
+          "char": "৩",
+          "ipa": "",
+          "note": "3 তিন"
+        },
+        {
+          "char": "৪",
+          "ipa": "",
+          "note": "4 চার"
+        },
+        {
+          "char": "৫",
+          "ipa": "",
+          "note": "5 পাঁচ"
+        },
+        {
+          "char": "৬",
+          "ipa": "",
+          "note": "6 ছয়"
+        },
+        {
+          "char": "৭",
+          "ipa": "",
+          "note": "7 সাত"
+        },
+        {
+          "char": "৮",
+          "ipa": "",
+          "note": "8 আট"
+        },
+        {
+          "char": "৯",
+          "ipa": "",
+          "note": "9 নয়"
+        }
+      ]
+    },
+    {
+      "heading": "Reading rules",
+      "text": [
+        "The built-in vowel অ is said ɔ in most places (কর kɔr), o when the next syllable has i or u (নদী nodi, but মন্দির mɔndir with its closed syllable), and is often dropped at the end of a word (নাম nam, not namɔ) and in the middle of longer words. The pronunciation under each word shows which.",
+        "ই/ঈ and উ/ঊ are spelling distinctions only: they sound the same.",
+        "Stress is light and falls on the first syllable; the IPA marks it with ˈ."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "মা [ma]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "মে [me]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "কী [ki]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "কোন [kon]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "জুন [dʒun]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "নয় [nɔj]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "আর [ar]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "হওয়া [ˈɦowa]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "æ",
+          "ipa": "এক [æk]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "লোক [lɔk]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ɦ",
+          "ipa": "হ্যাঁ [ɦæ̃]",
+          "note": "a breathy, voiced h (Bengali হ)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "সে [ʃe]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "আজ [adʒ]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ʈ",
+          "ipa": "আট [aʈ]",
+          "note": "t with the tongue tip curled back"
+        },
+        {
+          "char": "ɖ",
+          "ipa": "ডিম [ɖim]",
+          "note": "d with the tongue tip curled back"
+        },
+        {
+          "char": "ŋ",
+          "ipa": "রং [rɔŋ]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "ব্যাগ [bæɡ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "আলু [ˈalu]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "বাচ্চা [ˈbatʃːa]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "ʰ",
+          "ipa": "মুখ [mukʰ]",
+          "note": "with a puff of air (aspirated)"
+        },
+        {
+          "char": "◌̃",
+          "ipa": "হ্যাঁ [ɦæ̃]",
+          "note": "nasal — air through the nose too"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "বই [bɔi̯]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
+        },
+        {
+          "char": "◌̪",
+          "ipa": "ঈদ [id̪]",
+          "note": "with the tongue against the teeth"
+        },
+        {
+          "char": "ʱ",
+          "ipa": "ঘর [ɡʱɔr]",
+          "note": "with a breathy, murmured release (Bengali ঘ ঝ ঢ ধ ভ)"
+        },
+        {
+          "char": "ɽ",
+          "ipa": "বাড়ি [ˈbaɽi]",
+          "note": "a flapped r with the tongue tip curled back (Bengali ড়)"
+        }
+      ]
+    }
+  ]
+}

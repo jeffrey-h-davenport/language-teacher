@@ -204,6 +204,7 @@ const BASE_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'pre
 
 // ── Language Data ─────────────────────────────────────
 const FLAGS = {
+  'bn': '🇧🇩',
   'af': '🇿🇦', 'ar': '🇸🇦', 'cs': '🇨🇿', 'da': '🇩🇰',
   'de': '🇩🇪', 'el': '🇬🇷', 'es': '🇪🇸', 'fi': '🇫🇮',
   'fr': '🇫🇷', 'he': '🇮🇱', 'hi': '🇮🇳', 'hr': '🇭🇷',
@@ -255,7 +256,12 @@ function $(id) { return document.getElementById(id) }
 // base-letter-plus-combining-mark cluster a bit larger so the mark is
 // actually visible, leaving the underlying text (and transcription)
 // untouched.
+// Only marks on Latin or Greek letters (which is where every IPA symbol
+// lives) are enlarged. Scripts such as Bengali and Devanagari use the same
+// kind of combining mark for ordinary vowel signs and conjuncts; enlarging
+// those blows up random syllables and can break how the letters join.
 const COMBINING_MARK = /\p{Mn}/u
+const IPA_BASE = /[\p{Script=Latin}\p{Script=Greek}]/u
 
 // English text that quotes Hebrew or Arabic ("feminine: טובה (tova)") needs
 // each right-to-left run isolated, or the bidi algorithm drags neighbouring
@@ -270,6 +276,9 @@ function setEmphasizedText(el, text) {
   // Each word picks its own direction from its first letter, so Hebrew and
   // Arabic read right to left while English stays left to right.
   el.dir = 'auto'
+  // Plain runs are kept as one text node so letters that join (Bengali
+  // conjuncts, Arabic) are shaped together.
+  let plain = ''
   let i = 0
   while (i < text.length) {
     let cluster = text[i]
@@ -278,16 +287,18 @@ function setEmphasizedText(el, text) {
       cluster += text[j]
       j++
     }
-    if (cluster.length > 1) {
+    if (cluster.length > 1 && IPA_BASE.test(cluster[0])) {
+      if (plain) { el.appendChild(document.createTextNode(plain)); plain = '' }
       const mark = document.createElement('span')
       mark.className = 'ipa-mark-cluster'
       mark.textContent = cluster
       el.appendChild(mark)
     } else {
-      el.appendChild(document.createTextNode(cluster))
+      plain += cluster
     }
     i = j
   }
+  if (plain) el.appendChild(document.createTextNode(plain))
 }
 
 function shuffle(arr) {
@@ -308,6 +319,7 @@ function flagFor(code) {
 // Serbo-Croatian shows an outline of the region where it's spoken.
 const LANGUAGE_ICONS = {
   'sh': 'icons/serbo-croatian.svg',
+  'ar': 'icons/arabic.svg',
 }
 
 // A node for a language's flag: an <img> when it has an icon, otherwise the
@@ -1527,6 +1539,9 @@ function buildGuideTable(table) {
     row.forEach((cell, i) => {
       const td = document.createElement(i === 0 ? 'th' : 'td')
       td.textContent = isolateRTL(cell)
+      // scriptColumns (optional): columns of letters in the guide's script,
+      // shown larger — Arabic letter shapes are unreadable at table size
+      if (table.scriptColumns?.includes(i)) td.classList.add('guide-script-cell')
       tr.appendChild(td)
     })
     tbody.appendChild(tr)

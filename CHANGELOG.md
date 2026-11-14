@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.37.1 — 2026-11-14
+- Fixed: in Bengali and Hindi words, syllables with certain vowel signs (ু, ৃ, ঁ, ি, the ্ that joins letters; their Devanagari equivalents) were drawn in a much larger font, and joined letters could come apart. The enlargement meant to make small IPA marks visible (Korean /p͈/) now only applies to pronunciation symbols
+
+## 1.37.0 — 2026-11-14
+- Added Bengali: 450 words covering levels A1 and A2 — everyday nouns, verbs (in the dictionary form: করা kora, "to do"), adjectives, adverbs, pronouns (with the three levels of "you": তুই, তুমি, আপনি), postpositions, conjunctions, numbers, greetings, days, months and Bengal's six seasons
+- Word choice follows Bangladesh (পানি for water, লবণ for salt, চাচা, খালা, নানা for relatives); where West Bengal says it differently, the note gives the Kolkata word — including দাদা, which is "grandfather" in Bangladesh but "older brother" in Kolkata
+- Every word has bracketed IPA for standard colloquial Bengali, with first-syllable stress, the breathy and dental consonants, nasal vowels (চাঁদ [tʃãd̪]), and the inherent vowel as it is actually said — ɔ, o, or dropped (নাম [nam], নদী [ˈnod̪i])
+- New Bengali Alphabet Guide: vowels and vowel signs, the consonants by where they are made, special signs, common conjuncts, Bengali numerals, the reading rules for the inherent vowel, and a key to the symbols in the pronunciations
+- Shown with the flag of Bangladesh
+
+## 1.36.0 — 2026-11-14
+- Added Arabic (Modern Standard Arabic): 496 words covering levels A1 and A2 — everyday nouns (with their gender and plurals, most of them irregular), verbs (in the past "he" form with the present in the note: كتب kataba / يكتب yaktubu), adjectives (with the feminine), adverbs, pronouns, prepositions, conjunctions, numbers, greetings, days, months and seasons
+- Words are written the way everyday Arabic is, without vowel marks; every word has bracketed IPA for MSA as said on its own (no case endings), with its stress and the darker a next to emphatic consonants. Words that share a spelling are told apart by their pronunciation (رجل rajul "man" / rijl "leg"; من man "who" / min "from")
+- Where everyday speech uses a different word, the note gives it (ماء, spoken mayya); months use the Egyptian/Gulf names, with the Levantine names in the note
+- New Arabic Alphabet Guide: all 28 letters with their sounds, a table of each letter's shapes at the start, middle and end of a word, the extra signs (ء ة ى لا), how to read without vowel marks, and a key to the symbols in the pronunciations
+- Arabic is shown with an outline map of the Arabic-speaking world rather than a single country's flag
+
 ## 1.35.2 — 2026-11-14
 - French: added plus as an adverb ("more", with when its s is said), ne … plus ("not anymore"), and the pairs whose meaning flips with the pronunciation of plus — plus de "no more" /ply də/ vs "more" /plys də/, and j'en veux plus "I don't want any more" /ply/ vs "I want more" /plys/ — plus ne … plus que ("only … left"), plus jamais, non plus and de plus en plus
 - The French Pronunciation Guide explains the … in ne … plus

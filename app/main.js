@@ -24,6 +24,8 @@ const EDITOR_MODE = !app.isPackaged && process.env.LT_EDITOR === '1'
 const PREFERENCES_PATH = path.join(app.getPath('userData'), 'preferences.json')
 
 const LANGUAGE_INFO = {
+  arabic: { language: 'Arabic', languageCode: 'ar' },
+  bengali: { language: 'Bengali', languageCode: 'bn' },
   chinese: { language: 'Chinese', languageCode: 'zh' },
   czech:   { language: 'Czech',   languageCode: 'cs' },
   danish:  { language: 'Danish',  languageCode: 'da' },
