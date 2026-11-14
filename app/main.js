@@ -31,6 +31,7 @@ const LANGUAGE_INFO = {
   finnish: { language: 'Finnish', languageCode: 'fi' },
   french:  { language: 'French',  languageCode: 'fr' },
   german:  { language: 'German',  languageCode: 'de' },
+  hebrew: { language: 'Hebrew', languageCode: 'he' },
   hindi:   { language: 'Hindi',   languageCode: 'hi' },
   hungarian: { language: 'Hungarian', languageCode: 'hu' },
   indonesian: { language: 'Indonesian', languageCode: 'id' },

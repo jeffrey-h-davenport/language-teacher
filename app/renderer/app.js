@@ -173,7 +173,7 @@ let searchPageIds      = []     // ids of the rows on the currently-rendered pag
 // default, matching the table's original fixed layout; the rest are opt-in.
 // learnerOnly columns show progress, so they're left out in editor mode.
 const AVAILABLE_COLUMNS = [
-  { id: 'target',       label: 'Word',          default: true,  render: w => escHtml(formatTarget(w)) },
+  { id: 'target',       label: 'Word',          default: true,  render: w => `<bdi>${escHtml(formatTarget(w))}</bdi>` },
   { id: 'english',      label: 'English',       default: true,  render: w => escHtml(w.english || '') },
   { id: 'pos',          label: 'Part of Speech', default: true, render: w => `<span class="pos-badge">${escHtml((w['part-of-speech'] || '').slice(0, 8))}</span>` },
   { id: 'cefr',         label: 'CEFR Level',    default: true,  render: w => `<span class="cefr-badge cefr-${escHtml(w.cefr || '')}">${escHtml(w.cefr || '—')}</span>` },
@@ -182,7 +182,7 @@ const AVAILABLE_COLUMNS = [
   { id: 'register',     label: 'Register',      default: false, render: w => escHtml((w.register && w.register.length ? w.register : ['All']).join(', ')) },
   { id: 'ipa',          label: 'IPA',           default: false, render: w => escHtml(formatPronunciation(w) || '—') },
   { id: 'grammar',      label: 'Grammar',       default: false, render: w => escHtml(w.grammar || '—') },
-  { id: 'context',      label: 'Context',       default: false, render: w => escHtml(w.context || '—') },
+  { id: 'context',      label: 'Context',       default: false, render: w => escHtml(isolateRTL(w.context) || '—') },
   { id: 'plural',       label: 'Plural',        default: false, render: w => escHtml(w.plural || '—') },
   { id: 'countability', label: 'Countability',  default: false, render: w => escHtml(w.countability || 'countable') },
 ]
@@ -256,8 +256,20 @@ function $(id) { return document.getElementById(id) }
 // actually visible, leaving the underlying text (and transcription)
 // untouched.
 const COMBINING_MARK = /\p{Mn}/u
+
+// English text that quotes Hebrew or Arabic ("feminine: טובה (tova)") needs
+// each right-to-left run isolated, or the bidi algorithm drags neighbouring
+// brackets and punctuation into it and scrambles the line. Wraps every RTL
+// run (words joined by spaces or punctuation) in RLI … PDI marks.
+const RTL_RUN = /[\u0590-\u08FF\uFB1D-\uFDFF\uFE70-\uFEFF]+(?:[\s'"\-]+[\u0590-\u08FF\uFB1D-\uFDFF\uFE70-\uFEFF]+)*/g
+function isolateRTL(text) {
+  return text ? String(text).replace(RTL_RUN, run => '\u2067' + run + '\u2069') : text
+}
 function setEmphasizedText(el, text) {
   el.textContent = ''
+  // Each word picks its own direction from its first letter, so Hebrew and
+  // Arabic read right to left while English stays left to right.
+  el.dir = 'auto'
   let i = 0
   while (i < text.length) {
     let cluster = text[i]
@@ -630,9 +642,64 @@ function pickSessionWords() {
 }
 
 // ── Question Generation ───────────────────────────────
+// ── Word families ─────────────────────────────────────
+// Declension and conjugation entries point at their dictionary word through
+// baseId (stored in the vocabulary file). The reverse index — dictionary word
+// → its forms — is built once per load, and rebuilt lazily after the editor
+// adds words.
+let wordFamilies = null
+function familyIndex() {
+  if (!wordFamilies) {
+    wordFamilies = new Map()
+    for (const w of allWords) {
+      if (!w.baseId) continue
+      if (!wordFamilies.has(w.baseId)) wordFamilies.set(w.baseId, [])
+      wordFamilies.get(w.baseId).push(w)
+    }
+  }
+  return wordFamilies
+}
+
+// The other members of a form's family: its sibling forms plus the
+// dictionary word itself (the nominative or infinitive). Empty for words
+// that aren't forms of anything.
+function familyOf(word) {
+  if (!word.baseId) return []
+  const base = allWords.find(w => w.id === word.baseId)
+  const members = [...(familyIndex().get(word.baseId) || [])]
+  if (base) members.push(base)
+  return members.filter(w => w.id !== word.id)
+}
+
 function makeQuestion(word) {
   const showNative = Math.random() < 0.5
-  const label = w => showNative ? formatTarget(w) : w.english
+  const label  = w => showNative ? formatTarget(w) : w.english
+  const prompt = w => showNative ? w.english : formatTarget(w)
+
+  // A declined or conjugated form is quizzed against the other forms of the
+  // same word, so the question tests the ending, not the vocabulary. There
+  // may be fewer than CHOICES_COUNT of them; then fewer buttons are shown.
+  // A sibling that reads the same as the question (Czech hradu is both
+  // genitive and dative) would also be a right answer, so it's left out.
+  // Forms can list alternatives ("hradě / hradu"), so two forms clash if they
+  // share any alternative, not only when the whole strings match.
+  const family = familyOf(word)
+  if (family.length > 0) {
+    const alts    = text => String(text).split(' / ').map(t => t.trim())
+    const overlap = (a, b) => alts(a).some(x => alts(b).includes(x))
+    const taken = [label(word)]
+    const distractors = []
+    for (const w of shuffle(family)) {
+      if (distractors.length >= CHOICES_COUNT - 1) break
+      const lbl = label(w)
+      if (taken.some(t => overlap(t, lbl)) || overlap(prompt(w), prompt(word))) continue
+      taken.push(lbl)
+      distractors.push(w)
+    }
+    if (distractors.length > 0) {
+      return { word, showNative, choices: shuffle([word, ...distractors]) }
+    }
+  }
 
   const samePOS = allWords.filter(
     w => w['part-of-speech'] === word['part-of-speech'] && w.id !== word.id
@@ -706,7 +773,7 @@ function displayQuestion(q) {
     $('context-area').classList.remove('hidden')
     $('context-reveal-btn').classList.remove('hidden')
     $('context-text').classList.add('hidden')
-    $('context-text').textContent = word.context
+    $('context-text').textContent = isolateRTL(word.context)
   } else {
     $('context-area').classList.add('hidden')
   }
@@ -839,7 +906,10 @@ function handleChoice(btn, chosen) {
     const answer = currentQ.showNative
       ? formatTarget(currentQ.word)
       : currentQ.word.english
-    $('feedback-text').textContent = `The answer was: ${answer}`
+    // <bdi> keeps a right-to-left answer from reordering the English around it
+    const bdi = document.createElement('bdi')
+    bdi.textContent = answer
+    $('feedback-text').replaceChildren('The answer was: ', bdi)
   }
 
   $('session-score').textContent = `${sessionScore >= 0 ? '+' : ''}${sessionScore} pts`
@@ -1093,7 +1163,7 @@ function showSummary() {
       <div class="result-words">
         <span class="result-native">${r.word.english}</span>
         <span class="result-sep">→</span>
-        <span class="result-target">${formatTarget(r.word)}</span>
+        <bdi class="result-target">${formatTarget(r.word)}</bdi>
       </div>
       ${badgeHtml}
     `
@@ -1164,11 +1234,11 @@ function displayIntroCard() {
 
   const grammar = word.grammar?.trim() || ''
   $('intro-grammar').classList.toggle('hidden', !grammar)
-  $('intro-grammar').textContent = grammar
+  $('intro-grammar').textContent = isolateRTL(grammar)
 
   const context = word.context?.trim() || ''
   $('intro-context').classList.toggle('hidden', !context)
-  $('intro-context').textContent = context
+  $('intro-context').textContent = isolateRTL(context)
 
   $('intro-back-btn').disabled = introIndex === 0
   $('intro-next-btn').textContent = isLast ? 'Start Quiz →' : 'Next Word →'
@@ -1327,6 +1397,7 @@ async function loadVocabulary(slug) {
   const progressById = result.progress?.progress || {}
   allWords = (result.vocab.words || [])
     .map(word => ensureDefaults(Object.assign({}, word, progressById[word.id])))
+  wordFamilies = null
 
   currentScript = result.script || null
   updateScriptGuideButton()
@@ -1386,7 +1457,7 @@ function renderScriptGuide() {
     for (const t of texts) {
       const p = document.createElement('p')
       p.className = 'script-guide-text'
-      p.textContent = t
+      p.textContent = isolateRTL(t)
       body.appendChild(p)
     }
     if (section.table) body.appendChild(buildGuideTable(section.table))
@@ -1408,6 +1479,7 @@ function renderScriptGuide() {
         if (item.charSuffix) char.appendChild(document.createTextNode(' ' + item.charSuffix))
       } else {
         char.textContent = item.char
+        char.dir = 'auto'
       }
       const ipa = document.createElement('div')
       ipa.className = 'script-char-ipa'
@@ -1415,14 +1487,14 @@ function renderScriptGuide() {
         ipa.appendChild(buildToneBracket(item.ipaGlyph))
         if (item.ipaSuffix) ipa.appendChild(document.createTextNode(' ' + item.ipaSuffix))
       } else {
-        ipa.textContent = item.ipa
+        ipa.textContent = isolateRTL(item.ipa)
       }
       cell.appendChild(char)
       cell.appendChild(ipa)
       if (item.note) {
         const note = document.createElement('div')
         note.className = 'script-char-note'
-        note.textContent = item.note
+        note.textContent = isolateRTL(item.note)
         cell.appendChild(note)
       }
       grid.appendChild(cell)
@@ -1442,7 +1514,7 @@ function buildGuideTable(table) {
     const tr = document.createElement('tr')
     for (const c of table.columns) {
       const th = document.createElement('th')
-      th.textContent = c
+      th.textContent = isolateRTL(c)
       tr.appendChild(th)
     }
     const thead = document.createElement('thead')
@@ -1454,7 +1526,7 @@ function buildGuideTable(table) {
     const tr = document.createElement('tr')
     row.forEach((cell, i) => {
       const td = document.createElement(i === 0 ? 'th' : 'td')
-      td.textContent = cell
+      td.textContent = isolateRTL(cell)
       tr.appendChild(td)
     })
     tbody.appendChild(tr)
@@ -1464,7 +1536,7 @@ function buildGuideTable(table) {
   if (table.note) {
     const note = document.createElement('p')
     note.className = 'guide-table-note'
-    note.textContent = table.note
+    note.textContent = isolateRTL(table.note)
     wrap.appendChild(note)
   }
   return wrap
@@ -1876,6 +1948,7 @@ function massDuplicateSelected() {
     })
     const sourceIdx = allWords.indexOf(source)
     allWords.splice(sourceIdx + 1, 0, newWord)
+    wordFamilies = null
   }
   selectedWordIds.clear()
   persistVocabulary()
@@ -1911,6 +1984,7 @@ function duplicateFromSearch(wordId) {
 
   const sourceIdx = allWords.indexOf(source)
   allWords.splice(sourceIdx + 1, 0, newWord)
+  wordFamilies = null
 
   lastDuplicatePair = { sourceId: wordId, newId: newWord.id }
   persistVocabulary()
@@ -2101,6 +2175,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   $('load-file-btn').addEventListener('click', () => {
     allWords    = []
+    wordFamilies = null
     currentMeta = null
     updateWelcomeScreen()
     resetWelcomePicker()

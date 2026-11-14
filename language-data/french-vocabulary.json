@@ -187,7 +187,127 @@
       "french": "plus",
       "gender": "masculine",
       "cefr": "B2",
-      "ipa": "/ply/",
+      "ipa": "/plys/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1855eb26-561c-448a-b829-2ddd1e0723db",
+      "part-of-speech": "adverb",
+      "english": "more (in comparisons: plus grand, bigger)",
+      "french": "plus",
+      "cefr": "A1",
+      "ipa": "/ply | plys/",
+      "context": "no s before a consonant: plus grand /ply ɡʁɑ̃/; linked with a z before a vowel: plus âgé /ply.z‿a.ʒe/; s said when it means 'more' on its own: j'en veux plus /plys/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "629f4121-6edd-4eaf-b9f9-b98c4220c73c",
+      "part-of-speech": "adverb",
+      "english": "not anymore, no longer",
+      "french": "ne … plus",
+      "cefr": "A1",
+      "ipa": "/nə … ply/",
+      "context": "goes around the verb: je ne fume plus (I don't smoke anymore); in speech the ne is often dropped, leaving only the [ply]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6181ab90-e39f-4010-ab8f-9773c247a186",
+      "part-of-speech": "adverb",
+      "english": "no more (of)",
+      "french": "plus de",
+      "cefr": "A2",
+      "ipa": "/ply də/",
+      "context": "plus said [ply]: Plus de pain ! (no more bread!), short for il n'y a plus de pain",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e2d9432-faa7-4b91-8e91-256420814991",
+      "part-of-speech": "adverb",
+      "english": "more (of)",
+      "french": "plus de",
+      "cefr": "A2",
+      "ipa": "/plys də/",
+      "context": "plus said [plys]: Plus de pain ! (more bread!)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3ecd1e7-12c2-4158-af23-05359577e824",
+      "part-of-speech": "interjection",
+      "english": "I don't want any more",
+      "french": "j'en veux plus",
+      "cefr": "A2",
+      "ipa": "/ʒɑ̃ vø ply/",
+      "context": "plus said [ply]; casual for je n'en veux plus",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a821e6a6-b4d5-4019-b3ed-3050a8e750e5",
+      "part-of-speech": "interjection",
+      "english": "I want more",
+      "french": "j'en veux plus",
+      "cefr": "A2",
+      "ipa": "/ʒɑ̃ vø plys/",
+      "context": "plus said [plys]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "901ead8f-079f-4458-ade2-b4c19c55ed30",
+      "part-of-speech": "adverb",
+      "english": "only … left, nothing but … anymore",
+      "french": "ne … plus que",
+      "cefr": "B1",
+      "ipa": "/nə … ply kə/",
+      "context": "Il n'y a plus que deux places (there are only two seats left); without the ne in speech, compare plus que /plys kə/, more than",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "196e3e61-91e7-4b1c-a227-054985167225",
+      "part-of-speech": "adverb",
+      "english": "never again",
+      "french": "plus jamais",
+      "cefr": "A2",
+      "ipa": "/ply ʒa.mɛ/",
+      "context": "Plus jamais ça ! (never again!); in a sentence: je ne le ferai plus jamais",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "826f2411-d48d-465a-8ad6-26920e090f5d",
+      "part-of-speech": "adverb",
+      "english": "neither, either (after a negative)",
+      "french": "non plus",
+      "cefr": "A2",
+      "ipa": "/nɔ̃ ply/",
+      "context": "Moi non plus (me neither)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "659ab0e4-f9da-4fe1-ab26-ec14358c07a4",
+      "part-of-speech": "adverb",
+      "english": "more and more",
+      "french": "de plus en plus",
+      "cefr": "A2",
+      "ipa": "/də ply.z‿ɑ̃ ply | də ply.z‿ɑ̃ plys/",
+      "context": "last plus is [ply] before an adjective (de plus en plus grand) and [plys] on its own (il mange de plus en plus)",
       "register": [
         "All"
       ]
@@ -20191,9 +20311,23 @@
     {
       "id": "d2232d14-7477-48a0-a618-6de9429067ec",
       "part-of-speech": "adjective",
-      "english": "anymore",
+      "english": "not anymore",
       "french": "même plus de",
       "cefr": "B1",
+      "ipa": "/mɛm ply də/",
+      "context": "plus said [ply]: Il n'y a même plus de pain (there isn't even any bread left)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1db51b46-8676-4ed5-86a4-5b2d454a8acd",
+      "part-of-speech": "adjective",
+      "english": "even more",
+      "french": "même plus de",
+      "cefr": "B1",
+      "ipa": "/mɛm plys də/",
+      "context": "plus said [plys]: Il faut même plus de temps (it takes even more time)",
       "register": [
         "All"
       ]

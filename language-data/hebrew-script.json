@@ -1,0 +1,219 @@
+{
+  "scriptName": "Hebrew Alphabet",
+  "buttonLabel": "Alphabet Guide",
+  "fontScale": 1.3,
+  "intro": "The Hebrew alphabet with the sound of every letter, how to find the vowels in unpointed text, the main reading rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "How the Hebrew alphabet works",
+      "text": [
+        "Hebrew is written from right to left in an alphabet of 22 letters, all consonants. There are no capital letters, but five letters take a different shape at the end of a word: ך ם ן ף ץ.",
+        "Vowels can be shown with dots and dashes (niqqud), but everyday Hebrew leaves them out — on signs, in books, on phones. This app writes words the way you will see them, and the pronunciation under each word gives the vowels."
+      ]
+    },
+    {
+      "heading": "The alphabet",
+      "items": [
+        {
+          "char": "א",
+          "ipa": "[ʔ]",
+          "note": "alef: a light catch in the throat, or silent; often just carries a vowel"
+        },
+        {
+          "char": "ב",
+          "ipa": "[b v]",
+          "note": "bet / vet: b at the start of a word, often v in the middle or at the end"
+        },
+        {
+          "char": "ג",
+          "ipa": "[ɡ]",
+          "note": "gimel: hard g; ג׳ with a geresh is j, as in \"jam\""
+        },
+        {
+          "char": "ד",
+          "ipa": "[d]",
+          "note": "dalet"
+        },
+        {
+          "char": "ה",
+          "ipa": "[h]",
+          "note": "he: h; silent at the end of a word (שנה [ʃaˈna])"
+        },
+        {
+          "char": "ו",
+          "ipa": "[v o u]",
+          "note": "vav: v, or the vowel o or u; doubled וו is v in the middle of a word"
+        },
+        {
+          "char": "ז",
+          "ipa": "[z]",
+          "note": "zayin; ז׳ is the s in \"measure\""
+        },
+        {
+          "char": "ח",
+          "ipa": "[χ]",
+          "note": "chet: kh, as in \"loch\""
+        },
+        {
+          "char": "ט",
+          "ipa": "[t]",
+          "note": "tet"
+        },
+        {
+          "char": "י",
+          "ipa": "[j i]",
+          "note": "yod: y, or the vowel i; doubled יי is y in the middle of a word"
+        },
+        {
+          "char": "כ ך",
+          "ipa": "[k χ]",
+          "note": "kaf / khaf: k at the start of a word, often kh elsewhere; ך at the end of a word is always kh"
+        },
+        {
+          "char": "ל",
+          "ipa": "[l]",
+          "note": "lamed"
+        },
+        {
+          "char": "מ ם",
+          "ipa": "[m]",
+          "note": "mem; ם at the end of a word"
+        },
+        {
+          "char": "נ ן",
+          "ipa": "[n]",
+          "note": "nun; ן at the end of a word"
+        },
+        {
+          "char": "ס",
+          "ipa": "[s]",
+          "note": "samekh"
+        },
+        {
+          "char": "ע",
+          "ipa": "[ʔ]",
+          "note": "ayin: in standard Israeli speech the same as alef"
+        },
+        {
+          "char": "פ ף",
+          "ipa": "[p f]",
+          "note": "pe / fe: p at the start of a word, often f elsewhere; ף at the end of a word is f"
+        },
+        {
+          "char": "צ ץ",
+          "ipa": "[ts]",
+          "note": "tsadi: ts; ץ at the end of a word; צ׳ is ch, as in \"chips\""
+        },
+        {
+          "char": "ק",
+          "ipa": "[k]",
+          "note": "qof: the same as כ said as k"
+        },
+        {
+          "char": "ר",
+          "ipa": "[ʁ]",
+          "note": "resh: r at the back of the throat, as in French"
+        },
+        {
+          "char": "ש",
+          "ipa": "[ʃ s]",
+          "note": "shin / sin: usually sh, sometimes s"
+        },
+        {
+          "char": "ת",
+          "ipa": "[t]",
+          "note": "tav: the same as ט"
+        }
+      ]
+    },
+    {
+      "heading": "Full spelling: finding the vowels",
+      "text": [
+        "Without niqqud, Hebrew uses \"full spelling\" (ktiv male), the official rules for unpointed text. Some vowels are shown by adding a letter:",
+        "ו stands for o or u: שולחן [ʃulˈχan] table, אוכל [ˈoχel] food. י stands for i (and sometimes e): תיק [tik] bag, עיפרון [ipaˈʁon] pencil.",
+        "Because ו and י can be vowels, a consonant v or y in the middle of a word is written double: אוויר [aˈviʁ] air, עגבנייה [aɡvaniˈja] tomato.",
+        "a and e are usually not written at all: ספר [ˈsefeʁ] book. At the end of a word they are often shown with ה or א: שנה [ʃaˈna] year, אמא [ˈima] mum.",
+        "Some words still have to be learned whole — the same letters can spell different words, and context tells you which."
+      ]
+    },
+    {
+      "heading": "Reading rules",
+      "text": [
+        "Stress usually falls on the last syllable, but many common words stress the one before it (ספר [ˈsefeʁ], בית [ˈbajit]). The IPA in this app always marks it with ˈ.",
+        "Several short words are written joined to the word after them: ו \"and\", ה \"the\", ב \"in\", ל \"to\", מ \"from\", ש \"that\", כש \"when\". So בבית is \"in the house\" and ושלום is \"and hello\".",
+        "In standard Israeli speech ח and כ sound the same (kh), as do ט and ת, כ and ק, and א and ע. The distinctions survive only in spelling."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "אח [aχ]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "פה [pe]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "איש [iʃ]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "או [o]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "הוא [hu]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "יום [jom]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "ʁ",
+          "ipa": "עיר [iʁ]",
+          "note": "r made at the back of the throat (French r)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "איש [iʃ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "חשבון [χeʒˈbon]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ʔ",
+          "ipa": "שעה [ʃaˈʔa]",
+          "note": "a catch in the throat, as in \"uh-oh\""
+        },
+        {
+          "char": "ɡ",
+          "ipa": "גוף [ɡuf]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "אישה [iˈʃa]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "χ",
+          "ipa": "אח [aχ]",
+          "note": "kh, as in Scottish \"loch\" (Hebrew ח and כ)"
+        }
+      ]
+    }
+  ]
+}

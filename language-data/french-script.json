@@ -245,8 +245,13 @@
           "note": "a sound in brackets ( ) is optional — often dropped"
         },
         {
+          "char": "…",
+          "ipa": "ne … plus /nə … ply/",
+          "note": "where the verb goes (ne … plus: ne fume plus)"
+        },
+        {
           "char": "|",
-          "ipa": "cheeseburger /tʃiz.bœʁ.ɡœʁ | tʃiz.byʁ.ɡœʁ/",
+          "ipa": "plus /ply | plys/",
           "note": "separates two accepted pronunciations"
         },
         {
