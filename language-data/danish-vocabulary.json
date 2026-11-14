@@ -312,7 +312,7 @@
     {
       "id": "cc8eccc4-f974-4365-b44f-8f4d19bec8b7",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "danish": "nabo",
       "gender": "common",
       "plural": "naboer",
@@ -821,7 +821,7 @@
     {
       "id": "28084a31-be00-4af6-aed2-f52a007c5778",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "danish": "efterår",
       "gender": "neuter",
       "plural": "efterår",
@@ -860,7 +860,7 @@
     {
       "id": "e13fc966-b8cb-4ce9-a5c6-121daadef42d",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "danish": "ferie",
       "gender": "common",
       "plural": "ferier",
@@ -925,7 +925,7 @@
     {
       "id": "edcc5b64-008d-4b44-b369-1eb4adbbc696",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "danish": "lejlighed",
       "gender": "common",
       "plural": "lejligheder",
@@ -1159,7 +1159,7 @@
     {
       "id": "f9838cd9-78db-4367-ab47-3943c0558945",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "danish": "mobil",
       "gender": "common",
       "plural": "mobiler",
@@ -1731,7 +1731,7 @@
     {
       "id": "89758b80-3b17-44ea-b3e3-2377aaa6e37f",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "danish": "butik",
       "gender": "common",
       "plural": "butikker",
@@ -1874,7 +1874,7 @@
     {
       "id": "3c237511-334c-440a-b2fa-5a4dca90b75b",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "danish": "biograf",
       "gender": "common",
       "plural": "biografer",
@@ -2004,7 +2004,7 @@
     {
       "id": "c12c7996-ec67-48cb-a215-0056a68bb9d8",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "danish": "fly",
       "gender": "neuter",
       "plural": "fly",
@@ -2537,7 +2537,7 @@
     {
       "id": "1b7cbfed-0de8-4c99-9de4-0f502ad64c60",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "danish": "bukser",
       "gender": "common",
       "plural": "bukser",
@@ -2799,7 +2799,7 @@
     {
       "id": "de0f96be-6030-4b9e-80ef-b765f6ba6992",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "danish": "film",
       "gender": "common",
       "plural": "film",
@@ -2929,7 +2929,7 @@
     {
       "id": "91105ff3-f561-4603-aef9-8353c0d56a26",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "danish": "farve",
       "gender": "common",
       "plural": "farver",
@@ -4703,7 +4703,7 @@
     {
       "id": "90ee40a8-8a32-433b-ade3-8d6b8501bae5",
       "part-of-speech": "adjective",
-      "english": "cosy, pleasant",
+      "english": "cozy, pleasant",
       "danish": "hyggelig",
       "cefr": "A1",
       "ipa": "[ˈhyɡəli]",
@@ -5078,7 +5078,7 @@
     {
       "id": "7e6e5410-619c-4be4-9c41-8a177629b0ea",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "danish": "grå",
       "cefr": "A1",
       "ipa": "[ˈɡʁɔˀ]",

@@ -153,7 +153,7 @@
     {
       "id": "8519ab0c-e755-4522-8610-4d38bfa8c264",
       "part-of-speech": "noun",
-      "english": "mum, mom",
+      "english": "mom",
       "italian": "mamma",
       "gender": "feminine",
       "plural": "mamme",
@@ -349,7 +349,7 @@
     {
       "id": "acbfaec5-f82f-4e57-a8b5-ec6c463ebe8c",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "italian": "vicino",
       "gender": "masculine",
       "plural": "vicini",
@@ -887,7 +887,7 @@
     {
       "id": "5cadd6ac-c04d-4b84-b6e5-80fac7f19827",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "italian": "autunno",
       "gender": "masculine",
       "plural": "autunni",
@@ -926,7 +926,7 @@
     {
       "id": "5328f32c-58f7-4f05-a19d-c58458d1f355",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "italian": "vacanza",
       "gender": "feminine",
       "plural": "vacanze",
@@ -980,7 +980,7 @@
     {
       "id": "df517696-bbe7-42ef-b10b-285d3361d28c",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "italian": "appartamento",
       "gender": "masculine",
       "plural": "appartamenti",
@@ -1190,7 +1190,7 @@
     {
       "id": "2af637c6-d269-4861-9dc4-e16d17b30e35",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "italian": "cellulare",
       "gender": "masculine",
       "plural": "cellulari",
@@ -1842,7 +1842,7 @@
     {
       "id": "edea25f3-ac5a-4f33-8572-01890d2a7af1",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "italian": "negozio",
       "gender": "masculine",
       "plural": "negozi",
@@ -1985,7 +1985,7 @@
     {
       "id": "ddfce85f-5925-4a90-a1c5-47a42f27c4ce",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "italian": "cinema",
       "gender": "masculine",
       "plural": "cinema",
@@ -2117,7 +2117,7 @@
     {
       "id": "65049744-8c96-4d47-8099-373371a27b70",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "italian": "aereo",
       "gender": "masculine",
       "plural": "aerei",
@@ -2669,7 +2669,7 @@
     {
       "id": "cc9a2ae0-9791-451c-ad01-6a2d3938b623",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "italian": "pantaloni",
       "gender": "masculine",
       "plural": "pantaloni",
@@ -2931,7 +2931,7 @@
     {
       "id": "c95026e9-d5bf-40dc-b46e-ae234e7bc172",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "italian": "film",
       "gender": "masculine",
       "plural": "film",
@@ -3074,7 +3074,7 @@
     {
       "id": "65eb1da3-9dd8-4c48-96a6-48821ad05c78",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "italian": "colore",
       "gender": "masculine",
       "plural": "colori",
@@ -5270,7 +5270,7 @@
     {
       "id": "64c8044b-b18d-45b9-b4ff-f96e52dab048",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "italian": "grigio",
       "cefr": "A1",
       "ipa": "[ˈɡriːdʒo]",

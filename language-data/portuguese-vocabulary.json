@@ -324,7 +324,7 @@
     {
       "id": "f2960000-584d-4860-819c-46f3eb91a43a",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "portuguese": "vizinho",
       "gender": "masculine",
       "plural": "vizinhos",
@@ -848,7 +848,7 @@
     {
       "id": "eb6779b5-1f7f-46ca-a1ef-2ffb17465a74",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "portuguese": "outono",
       "gender": "masculine",
       "plural": "outonos",
@@ -887,7 +887,7 @@
     {
       "id": "a0ed389a-1467-4f63-b553-1089290d5c6b",
       "part-of-speech": "noun",
-      "english": "holidays, vacation",
+      "english": "vacation",
       "portuguese": "férias",
       "gender": "feminine",
       "plural": "férias",
@@ -941,7 +941,7 @@
     {
       "id": "e38214dd-6b16-4490-81f9-ad7b11852396",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "portuguese": "apartamento",
       "gender": "masculine",
       "plural": "apartamentos",
@@ -1151,7 +1151,7 @@
     {
       "id": "0ff09a8f-56ee-4724-87a0-d08462435b5e",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "portuguese": "telemóvel",
       "gender": "masculine",
       "plural": "telemóveis",
@@ -1766,7 +1766,7 @@
     {
       "id": "41b5b678-0a29-4574-9d00-e3ee99929d29",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "portuguese": "loja",
       "gender": "feminine",
       "plural": "lojas",
@@ -1909,7 +1909,7 @@
     {
       "id": "1f4f3fc2-0aac-4820-b9e7-5882eaa4679c",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "portuguese": "cinema",
       "gender": "masculine",
       "plural": "cinemas",
@@ -2054,7 +2054,7 @@
     {
       "id": "b77785dd-a1d5-40fc-909e-ef989e3cf53e",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "portuguese": "avião",
       "gender": "masculine",
       "plural": "aviões",
@@ -2576,7 +2576,7 @@
     {
       "id": "aa851bd6-b652-407e-9f38-5aa942f9c4f5",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "portuguese": "calças",
       "gender": "feminine",
       "plural": "calças",
@@ -2839,7 +2839,7 @@
     {
       "id": "4891b70b-efff-4f1e-92ee-ffaf28ed353b",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "portuguese": "filme",
       "gender": "masculine",
       "plural": "filmes",
@@ -2983,7 +2983,7 @@
     {
       "id": "39314d59-6a32-4619-992f-fd4a4e5af119",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "portuguese": "cor",
       "gender": "feminine",
       "plural": "cores",
@@ -5266,7 +5266,7 @@
     {
       "id": "67a03744-0680-4cd3-b3a4-bce1ba01bfcd",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "portuguese": "cinzento",
       "cefr": "A1",
       "ipa": "[sĩˈzẽtu]",

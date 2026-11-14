@@ -89,7 +89,7 @@
     {
       "id": "4274590c-fcf6-4d9a-a2c3-b1735fb71282",
       "part-of-speech": "noun",
-      "english": "mum, mother",
+      "english": "mom, mother",
       "russian": "мама",
       "gender": "feminine",
       "plural": "мамы",
@@ -327,7 +327,7 @@
     {
       "id": "baa6ee61-c53f-46c1-9285-8b44839bbd3e",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "russian": "сосед",
       "gender": "masculine",
       "plural": "соседи",
@@ -852,7 +852,7 @@
     {
       "id": "b08aa76c-3e66-406b-930f-55f7ad7fbc14",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "russian": "осень",
       "gender": "feminine",
       "cefr": "A2",
@@ -890,7 +890,7 @@
     {
       "id": "404bb205-3dc8-475e-9c62-5836794f56e6",
       "part-of-speech": "noun",
-      "english": "holiday, vacation (from work)",
+      "english": "vacation (from work)",
       "russian": "отпуск",
       "gender": "masculine",
       "plural": "отпуска",
@@ -903,7 +903,7 @@
     {
       "id": "85868af9-0148-47a9-a887-b2cb7b40aec8",
       "part-of-speech": "noun",
-      "english": "holidays (school, university)",
+      "english": "vacation (school, university)",
       "russian": "каникулы",
       "gender": "feminine",
       "plural": "каникулы",
@@ -957,7 +957,7 @@
     {
       "id": "a89f3da0-9f2e-43df-803e-82091e5eb462",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "russian": "квартира",
       "gender": "feminine",
       "plural": "квартиры",
@@ -1754,7 +1754,7 @@
     {
       "id": "1cbdbe63-85da-4ac8-a084-1bbc49d7872a",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "russian": "магазин",
       "gender": "masculine",
       "plural": "магазины",
@@ -1910,7 +1910,7 @@
     {
       "id": "3f2abb13-915f-45e6-877b-e28bca485c4d",
       "part-of-speech": "noun",
-      "english": "cinema; the movies",
+      "english": "movie theater; the movies",
       "russian": "кино",
       "gender": "neuter",
       "plural": "кино",
@@ -2043,7 +2043,7 @@
     {
       "id": "f31bf42d-2086-460c-846a-774cc72539b1",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "russian": "самолёт",
       "gender": "masculine",
       "plural": "самолёты",
@@ -2550,7 +2550,7 @@
     {
       "id": "7a6bad5b-1859-4f19-b68b-3b0ac7ce0b75",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "russian": "брюки",
       "gender": "feminine",
       "plural": "брюки",
@@ -2799,7 +2799,7 @@
     {
       "id": "3f2f8b38-f034-4a44-8c6a-52cd4f9f9673",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "russian": "фильм",
       "gender": "masculine",
       "plural": "фильмы",
@@ -2942,7 +2942,7 @@
     {
       "id": "09d94dfc-cde1-4f3e-bc11-ec2db6d232c0",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "russian": "цвет",
       "gender": "masculine",
       "plural": "цвета",
@@ -4177,7 +4177,7 @@
     {
       "id": "f43136fe-15ff-4a07-b445-ae3d3bef49d5",
       "part-of-speech": "verb",
-      "english": "to rest; to be on holiday",
+      "english": "to rest; to be on vacation",
       "russian": "отдыхать",
       "cefr": "A2",
       "ipa": "[ɐddɨˈxatʲ]",
@@ -4870,7 +4870,7 @@
     {
       "id": "09a571cb-3448-48fb-a4c8-1c19948d6652",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "russian": "серый",
       "cefr": "A1",
       "ipa": "[ˈsʲerɨj]",

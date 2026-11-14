@@ -298,7 +298,7 @@
     {
       "id": "e6f6653e-379e-4b2d-a7b8-346ab30f079f",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "romanian": "vecin",
       "gender": "masculine",
       "plural": "vecini",
@@ -814,7 +814,7 @@
     {
       "id": "4a2fc59f-b73f-40ef-bfc2-220796740677",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "romanian": "toamnă",
       "gender": "feminine",
       "plural": "toamne",
@@ -853,7 +853,7 @@
     {
       "id": "cfd9fda1-54b0-43a5-905d-28c5e3c81a05",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "romanian": "vacanță",
       "gender": "feminine",
       "plural": "vacanțe",
@@ -906,7 +906,7 @@
     {
       "id": "2e47624d-e00e-4fdb-bdcd-fe36142653e4",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "romanian": "apartament",
       "gender": "neuter",
       "plural": "apartamente",
@@ -1712,7 +1712,7 @@
     {
       "id": "5eca3ed9-d42a-497f-9620-3a4b6d61ef53",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "romanian": "magazin",
       "gender": "neuter",
       "plural": "magazine",
@@ -1868,7 +1868,7 @@
     {
       "id": "eff8e2b4-36f1-470b-91cc-a5d1d502a698",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "romanian": "cinema",
       "gender": "neuter",
       "plural": "cinematografe",
@@ -1998,7 +1998,7 @@
     {
       "id": "6e19b6f5-fefa-4fa7-a2ba-d5c70f1921e3",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "romanian": "avion",
       "gender": "neuter",
       "plural": "avioane",
@@ -2502,7 +2502,7 @@
     {
       "id": "336e5d8a-d3ec-47b8-88f5-96df2419c5e8",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "romanian": "pantaloni",
       "gender": "masculine",
       "plural": "pantaloni",
@@ -2764,7 +2764,7 @@
     {
       "id": "4415f459-78fc-4bf7-9f3c-f0de00751288",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "romanian": "film",
       "gender": "neuter",
       "plural": "filme",
@@ -2907,7 +2907,7 @@
     {
       "id": "6dc89d68-7076-453c-94c2-6e80affdd292",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "romanian": "culoare",
       "gender": "feminine",
       "plural": "culori",
@@ -4776,7 +4776,7 @@
     {
       "id": "c2beed07-18e0-407d-bc55-eafd2d756f3f",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "romanian": "gri",
       "cefr": "A1",
       "ipa": "[ɡrʲ]",

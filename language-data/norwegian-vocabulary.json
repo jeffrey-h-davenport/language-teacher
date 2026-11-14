@@ -310,7 +310,7 @@
     {
       "id": "68f0beab-9136-4c80-b49f-956abd1fc01f",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "norwegian": "nabo",
       "gender": "masculine",
       "plural": "naboer",
@@ -819,7 +819,7 @@
     {
       "id": "a31869a6-ec94-4d3c-8135-e31b04304cb1",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "norwegian": "høst",
       "gender": "masculine",
       "plural": "høster",
@@ -858,7 +858,7 @@
     {
       "id": "f0d60c07-304b-4f6a-add0-4cc3f21a71be",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "norwegian": "ferie",
       "gender": "masculine",
       "plural": "ferier",
@@ -910,7 +910,7 @@
     {
       "id": "15a88928-a2ae-477f-982c-2819306cc8ea",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "norwegian": "leilighet",
       "gender": "masculine",
       "plural": "leiligheter",
@@ -1144,7 +1144,7 @@
     {
       "id": "43b490a3-432a-4d4b-aa2c-27b266600f74",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "norwegian": "mobil",
       "gender": "masculine",
       "plural": "mobiler",
@@ -1717,7 +1717,7 @@
     {
       "id": "b1e1399a-86ad-48b6-9f02-b78a76580d2a",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "norwegian": "butikk",
       "gender": "masculine",
       "plural": "butikker",
@@ -1847,7 +1847,7 @@
     {
       "id": "731abe23-1a4d-4050-8e7e-41cd3315aa57",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "norwegian": "kino",
       "gender": "masculine",
       "plural": "kinoer",
@@ -1990,7 +1990,7 @@
     {
       "id": "c85ebaef-a725-4035-b313-9ec30d3b0d34",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "norwegian": "fly",
       "gender": "neuter",
       "plural": "fly",
@@ -2577,7 +2577,7 @@
     {
       "id": "9c33626a-2bb0-4e76-b94f-434168462fb5",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "norwegian": "bukse",
       "gender": "feminine",
       "plural": "bukser",
@@ -2838,7 +2838,7 @@
     {
       "id": "4dd7c01f-8095-44bd-bbe1-47d35f628ae5",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "norwegian": "film",
       "gender": "masculine",
       "plural": "filmer",
@@ -2968,7 +2968,7 @@
     {
       "id": "f0a14453-ae0e-4695-bf6c-7246ee892f39",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "norwegian": "farge",
       "gender": "masculine",
       "plural": "farger",
@@ -5095,7 +5095,7 @@
     {
       "id": "f1425b47-5788-4cf9-80ee-125ed855f35a",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "norwegian": "grå",
       "cefr": "A1",
       "ipa": "[ɡɾoː]",

@@ -499,7 +499,7 @@
     {
       "id": "d4078a1f-4079-4679-98cd-458c6a422a64",
       "part-of-speech": "noun",
-      "english": "holiday; day off; break",
+      "english": "vacation; day off; break",
       "japanese": "休み",
       "cefr": "A1",
       "ipa": "[jasɯ̥miꜜ]",
@@ -686,7 +686,7 @@
     {
       "id": "61f0d993-2bd0-4dbb-8c71-931791deaf55",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "japanese": "携帯",
       "cefr": "A1",
       "ipa": "[keːtai]",
@@ -1173,7 +1173,7 @@
     {
       "id": "8519ecc5-13d7-4259-b00c-7f1e17b30f64",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "japanese": "店",
       "cefr": "A1",
       "ipa": "[miseꜜ]",
@@ -1305,7 +1305,7 @@
     {
       "id": "50048237-ac45-4db8-a81b-787156e376ba",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "japanese": "映画館",
       "cefr": "A2",
       "ipa": "[eːɡaꜜkaɴ]",
@@ -1415,7 +1415,7 @@
     {
       "id": "6223fedc-75c7-4f90-bfef-6a76d7a6d66e",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "japanese": "飛行機",
       "cefr": "A1",
       "ipa": "[çikoꜜːki]",
@@ -1814,7 +1814,7 @@
     {
       "id": "f03393ad-bdb2-4d0c-8534-2bc9380d1ccb",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "japanese": "ズボン",
       "cefr": "A1",
       "ipa": "[zɯboꜜɴ]",
@@ -1968,7 +1968,7 @@
     {
       "id": "31d0686c-4385-447b-9eb4-9555337faa10",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "japanese": "映画",
       "cefr": "A1",
       "ipa": "[eːɡa]",
@@ -2089,7 +2089,7 @@
     {
       "id": "0b9e4d28-0b5e-40b8-8619-065504e3a2a2",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "japanese": "色",
       "cefr": "A1",
       "ipa": "[iɾoꜜ]",
@@ -2967,7 +2967,7 @@
       "japanese": "着る",
       "cefr": "A1",
       "ipa": "[kiɾɯ]",
-      "context": "ru-verb; polite: 着ます; shoes and trousers use 履く (はく)",
+      "context": "ru-verb; polite: 着ます; shoes and pants use 履く (はく)",
       "register": [
         "All"
       ]
@@ -4891,7 +4891,7 @@
     {
       "id": "9a8c10de-23b0-42a9-8225-3aec542814f5",
       "part-of-speech": "interjection",
-      "english": "welcome (in shops, restaurants)",
+      "english": "welcome (in stores, restaurants)",
       "japanese": "いらっしゃいませ",
       "cefr": "A2",
       "ipa": "[iɾaɕɕaimaꜜse]",

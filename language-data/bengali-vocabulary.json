@@ -309,7 +309,7 @@
     {
       "id": "9a39c052-0a06-4053-a561-381d0f033211",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "bengali": "প্রতিবেশী",
       "cefr": "A2",
       "ipa": "[ˈprot̪ibeʃi]",
@@ -756,7 +756,7 @@
     {
       "id": "b1fe4be2-3742-43d4-8c53-b56656becf32",
       "part-of-speech": "noun",
-      "english": "early autumn",
+      "english": "early fall",
       "bengali": "শরৎ",
       "cefr": "A2",
       "ipa": "[ˈʃɔrɔt̪]",
@@ -767,7 +767,7 @@
     {
       "id": "6957bccf-1cc4-4472-bd7c-f918965c5ec8",
       "part-of-speech": "noun",
-      "english": "late autumn",
+      "english": "late fall",
       "bengali": "হেমন্ত",
       "cefr": "A2",
       "ipa": "[ˈɦemɔnt̪ɔ]",
@@ -1360,7 +1360,7 @@
     {
       "id": "ca72a9b7-0adf-4f33-8f3d-d745c899a950",
       "part-of-speech": "noun",
-      "english": "home, flat (where you live)",
+      "english": "home, apartment (where you live)",
       "bengali": "বাসা",
       "cefr": "A1",
       "ipa": "[ˈbaʃa]",
@@ -1736,7 +1736,7 @@
     {
       "id": "b800e6de-c50a-49e6-aeee-79931e1ddb9c",
       "part-of-speech": "noun",
-      "english": "shop",
+      "english": "store",
       "bengali": "দোকান",
       "cefr": "A1",
       "ipa": "[ˈd̪okan]",
@@ -1969,7 +1969,7 @@
     {
       "id": "b35eaffb-7cd1-45db-8e48-b5431c80663d",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "bengali": "বিমান",
       "cefr": "A1",
       "ipa": "[ˈbiman]",
@@ -2057,7 +2057,7 @@
     {
       "id": "1d3014c9-9e23-4c9b-be7f-2755f6b108b7",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "bengali": "প্যান্ট",
       "cefr": "A1",
       "ipa": "[pænʈ]",
@@ -2259,7 +2259,7 @@
     {
       "id": "e4b5053d-814a-43ff-90d8-704e246ea026",
       "part-of-speech": "noun",
-      "english": "picture; film",
+      "english": "picture; movie",
       "bengali": "ছবি",
       "cefr": "A1",
       "ipa": "[ˈtʃʰobi]",
@@ -2281,7 +2281,7 @@
     {
       "id": "6bf6d765-30b5-4389-8ee0-d868667a9696",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "bengali": "রং",
       "cefr": "A1",
       "ipa": "[rɔŋ]",
@@ -2314,7 +2314,7 @@
     {
       "id": "702d10c0-923f-48ee-ab74-dcfea21b4144",
       "part-of-speech": "noun",
-      "english": "holiday, day off",
+      "english": "vacation, day off",
       "bengali": "ছুটি",
       "cefr": "A2",
       "ipa": "[ˈtʃʰuʈi]",
@@ -4100,7 +4100,7 @@
     {
       "id": "a9837377-918a-40de-9f49-ff0b4306354d",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "bengali": "ধূসর",
       "cefr": "A2",
       "ipa": "[ˈd̪ʱuʃɔr]",

@@ -103,7 +103,7 @@
     {
       "id": "664e4645-9067-4330-95cd-379bfc066a41",
       "part-of-speech": "noun",
-      "english": "mother, mum",
+      "english": "mother, mom",
       "hebrew": "אמא",
       "gender": "feminine",
       "plural": "אמהות",
@@ -299,7 +299,7 @@
     {
       "id": "a93a11d0-64fe-48b5-8bf7-bbc8a8e93d36",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "hebrew": "שכן",
       "gender": "masculine",
       "plural": "שכנים",
@@ -845,7 +845,7 @@
     {
       "id": "70e86dcb-6413-45ed-a9a6-a5734561f3b6",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "hebrew": "סתיו",
       "gender": "masculine",
       "cefr": "A1",
@@ -1596,7 +1596,7 @@
     {
       "id": "9653cf53-2c80-4530-a14e-9f1329de0c68",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "hebrew": "דירה",
       "gender": "feminine",
       "plural": "דירות",
@@ -1752,7 +1752,7 @@
     {
       "id": "e0dbd625-eadf-448b-8faf-7d1b59fafe3e",
       "part-of-speech": "noun",
-      "english": "floor, storey",
+      "english": "floor, story",
       "hebrew": "קומה",
       "gender": "feminine",
       "plural": "קומות",
@@ -2115,7 +2115,7 @@
     {
       "id": "e9647b8b-9c6f-451d-bccb-2764b3c49b08",
       "part-of-speech": "noun",
-      "english": "shop",
+      "english": "store",
       "hebrew": "חנות",
       "gender": "feminine",
       "plural": "חנויות",
@@ -2181,7 +2181,7 @@
     {
       "id": "37eff0db-6266-4ec0-8fcb-c767318bbb65",
       "part-of-speech": "noun",
-      "english": "post office; post",
+      "english": "post office; mail",
       "hebrew": "דואר",
       "gender": "masculine",
       "cefr": "A1",
@@ -2246,7 +2246,7 @@
     {
       "id": "0c71d021-cebd-48e0-a2d6-17495cfded58",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "hebrew": "קולנוע",
       "gender": "masculine",
       "cefr": "A1",
@@ -2414,7 +2414,7 @@
     {
       "id": "f4a9e38e-fd25-48bb-adf0-9e8342e9d29d",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "hebrew": "מטוס",
       "gender": "masculine",
       "plural": "מטוסים",
@@ -2518,7 +2518,7 @@
     {
       "id": "445055f0-064e-47aa-851e-911a2e7a34e4",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "hebrew": "מכנסיים",
       "gender": "masculine",
       "cefr": "A1",
@@ -2791,7 +2791,7 @@
     {
       "id": "88125746-4294-4bb1-bce1-8bc18df83bc8",
       "part-of-speech": "noun",
-      "english": "film",
+      "english": "movie",
       "hebrew": "סרט",
       "gender": "masculine",
       "plural": "סרטים",
@@ -2843,7 +2843,7 @@
     {
       "id": "5fc8c347-34da-4e17-b37c-41a667694b07",
       "part-of-speech": "noun",
-      "english": "colour; paint",
+      "english": "color; paint",
       "hebrew": "צבע",
       "gender": "masculine",
       "plural": "צבעים",
@@ -2882,7 +2882,7 @@
     {
       "id": "3a79254c-b4f0-423a-ad72-ed9a6c86d456",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "hebrew": "חופשה",
       "gender": "feminine",
       "plural": "חופשות",
@@ -5174,7 +5174,7 @@
     {
       "id": "38f01436-8d35-48da-8045-46a75e56805d",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "hebrew": "אפור",
       "cefr": "A1",
       "ipa": "[aˈfoʁ]",
@@ -6012,7 +6012,7 @@
       "hebrew": "אצל",
       "cefr": "A2",
       "ipa": "[ˈetsel]",
-      "context": "אצל אמא: at Mum's",
+      "context": "אצל אמא: at Mom's",
       "register": [
         "All"
       ]
