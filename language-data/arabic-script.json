@@ -1,0 +1,531 @@
+{
+  "scriptName": "Arabic Alphabet",
+  "buttonLabel": "Alphabet Guide",
+  "fontScale": 1.4,
+  "intro": "The Arabic alphabet with the sound of every letter, its shapes, how to read without vowel marks, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "How the Arabic alphabet works",
+      "text": [
+        "Arabic is written from right to left in an alphabet of 28 letters, all consonants. ا, و and ي also stand for the long vowels aa, uu and ii.",
+        "The script is joined, like handwriting: most letters connect to the next one and change shape depending on where they fall in a word. Six letters — ا د ذ ر ز و — never join to the letter after them, which leaves a small gap."
+      ]
+    },
+    {
+      "heading": "The alphabet",
+      "items": [
+        {
+          "char": "ا",
+          "ipa": "[aː ʔ]",
+          "note": "alif: long a, or a seat for the glottal stop (أ إ)"
+        },
+        {
+          "char": "ب",
+          "ipa": "[b]",
+          "note": "bāʾ"
+        },
+        {
+          "char": "ت",
+          "ipa": "[t]",
+          "note": "tāʾ"
+        },
+        {
+          "char": "ث",
+          "ipa": "[θ]",
+          "note": "thāʾ: th, as in \"thin\""
+        },
+        {
+          "char": "ج",
+          "ipa": "[dʒ]",
+          "note": "jīm: j, as in \"jam\" (g in Egypt)"
+        },
+        {
+          "char": "ح",
+          "ipa": "[ħ]",
+          "note": "ḥāʾ: a strong, breathy h from deep in the throat"
+        },
+        {
+          "char": "خ",
+          "ipa": "[x]",
+          "note": "khāʾ: kh, as in \"loch\""
+        },
+        {
+          "char": "د",
+          "ipa": "[d]",
+          "note": "dāl"
+        },
+        {
+          "char": "ذ",
+          "ipa": "[ð]",
+          "note": "dhāl: th, as in \"this\""
+        },
+        {
+          "char": "ر",
+          "ipa": "[r]",
+          "note": "rāʾ: rolled"
+        },
+        {
+          "char": "ز",
+          "ipa": "[z]",
+          "note": "zāy"
+        },
+        {
+          "char": "س",
+          "ipa": "[s]",
+          "note": "sīn"
+        },
+        {
+          "char": "ش",
+          "ipa": "[ʃ]",
+          "note": "shīn: sh"
+        },
+        {
+          "char": "ص",
+          "ipa": "[sˤ]",
+          "note": "ṣād: emphatic s"
+        },
+        {
+          "char": "ض",
+          "ipa": "[dˤ]",
+          "note": "ḍād: emphatic d"
+        },
+        {
+          "char": "ط",
+          "ipa": "[tˤ]",
+          "note": "ṭāʾ: emphatic t"
+        },
+        {
+          "char": "ظ",
+          "ipa": "[ðˤ]",
+          "note": "ẓāʾ: emphatic th, as in \"this\""
+        },
+        {
+          "char": "ع",
+          "ipa": "[ʕ]",
+          "note": "ʿayn: a voiced squeeze deep in the throat"
+        },
+        {
+          "char": "غ",
+          "ipa": "[ɣ]",
+          "note": "ghayn: a gargled g, like a French r"
+        },
+        {
+          "char": "ف",
+          "ipa": "[f]",
+          "note": "fāʾ"
+        },
+        {
+          "char": "ق",
+          "ipa": "[q]",
+          "note": "qāf: a k from far back in the throat"
+        },
+        {
+          "char": "ك",
+          "ipa": "[k]",
+          "note": "kāf"
+        },
+        {
+          "char": "ل",
+          "ipa": "[l]",
+          "note": "lām"
+        },
+        {
+          "char": "م",
+          "ipa": "[m]",
+          "note": "mīm"
+        },
+        {
+          "char": "ن",
+          "ipa": "[n]",
+          "note": "nūn"
+        },
+        {
+          "char": "ه",
+          "ipa": "[h]",
+          "note": "hāʾ: always pronounced"
+        },
+        {
+          "char": "و",
+          "ipa": "[w uː]",
+          "note": "wāw: w, or long u"
+        },
+        {
+          "char": "ي",
+          "ipa": "[j iː]",
+          "note": "yāʾ: y, or long i"
+        }
+      ]
+    },
+    {
+      "heading": "Letter shapes",
+      "text": "Each letter alone, then at the start, middle and end of a word. Read the shapes from right to left.",
+      "table": {
+        "columns": [
+          "Letter",
+          "Alone",
+          "Start",
+          "Middle",
+          "End"
+        ],
+        "scriptColumns": [
+          1,
+          2,
+          3,
+          4
+        ],
+        "rows": [
+          [
+            "alif",
+            "ا",
+            "ا",
+            "ـا",
+            "ـا"
+          ],
+          [
+            "bāʾ",
+            "ب",
+            "بـ",
+            "ـبـ",
+            "ـب"
+          ],
+          [
+            "tāʾ",
+            "ت",
+            "تـ",
+            "ـتـ",
+            "ـت"
+          ],
+          [
+            "thāʾ",
+            "ث",
+            "ثـ",
+            "ـثـ",
+            "ـث"
+          ],
+          [
+            "jīm",
+            "ج",
+            "جـ",
+            "ـجـ",
+            "ـج"
+          ],
+          [
+            "ḥāʾ",
+            "ح",
+            "حـ",
+            "ـحـ",
+            "ـح"
+          ],
+          [
+            "khāʾ",
+            "خ",
+            "خـ",
+            "ـخـ",
+            "ـخ"
+          ],
+          [
+            "dāl",
+            "د",
+            "د",
+            "ـد",
+            "ـد"
+          ],
+          [
+            "dhāl",
+            "ذ",
+            "ذ",
+            "ـذ",
+            "ـذ"
+          ],
+          [
+            "rāʾ",
+            "ر",
+            "ر",
+            "ـر",
+            "ـر"
+          ],
+          [
+            "zāy",
+            "ز",
+            "ز",
+            "ـز",
+            "ـز"
+          ],
+          [
+            "sīn",
+            "س",
+            "سـ",
+            "ـسـ",
+            "ـس"
+          ],
+          [
+            "shīn",
+            "ش",
+            "شـ",
+            "ـشـ",
+            "ـش"
+          ],
+          [
+            "ṣād",
+            "ص",
+            "صـ",
+            "ـصـ",
+            "ـص"
+          ],
+          [
+            "ḍād",
+            "ض",
+            "ضـ",
+            "ـضـ",
+            "ـض"
+          ],
+          [
+            "ṭāʾ",
+            "ط",
+            "طـ",
+            "ـطـ",
+            "ـط"
+          ],
+          [
+            "ẓāʾ",
+            "ظ",
+            "ظـ",
+            "ـظـ",
+            "ـظ"
+          ],
+          [
+            "ʿayn",
+            "ع",
+            "عـ",
+            "ـعـ",
+            "ـع"
+          ],
+          [
+            "ghayn",
+            "غ",
+            "غـ",
+            "ـغـ",
+            "ـغ"
+          ],
+          [
+            "fāʾ",
+            "ف",
+            "فـ",
+            "ـفـ",
+            "ـف"
+          ],
+          [
+            "qāf",
+            "ق",
+            "قـ",
+            "ـقـ",
+            "ـق"
+          ],
+          [
+            "kāf",
+            "ك",
+            "كـ",
+            "ـكـ",
+            "ـك"
+          ],
+          [
+            "lām",
+            "ل",
+            "لـ",
+            "ـلـ",
+            "ـل"
+          ],
+          [
+            "mīm",
+            "م",
+            "مـ",
+            "ـمـ",
+            "ـم"
+          ],
+          [
+            "nūn",
+            "ن",
+            "نـ",
+            "ـنـ",
+            "ـن"
+          ],
+          [
+            "hāʾ",
+            "ه",
+            "هـ",
+            "ـهـ",
+            "ـه"
+          ],
+          [
+            "wāw",
+            "و",
+            "و",
+            "ـو",
+            "ـو"
+          ],
+          [
+            "yāʾ",
+            "ي",
+            "يـ",
+            "ـيـ",
+            "ـي"
+          ]
+        ],
+        "note": "ا د ذ ر ز و have no joined start shape: the letter after them starts fresh."
+      }
+    },
+    {
+      "heading": "Extra signs",
+      "items": [
+        {
+          "char": "ء",
+          "ipa": "[ʔ]",
+          "note": "hamza: a glottal stop; often sits on a seat: أ إ ؤ ئ"
+        },
+        {
+          "char": "ة",
+          "ipa": "[a]",
+          "note": "tāʾ marbūṭa: marks most feminine words; said a at the end of a phrase (مدرسة madrasa)"
+        },
+        {
+          "char": "ى",
+          "ipa": "[aː]",
+          "note": "alif maqṣūra: long a at the end of a word, written like ي without dots (مستشفى)"
+        },
+        {
+          "char": "لا",
+          "ipa": "[laː]",
+          "note": "lām-alif: l followed by alif is always joined into this one shape"
+        }
+      ]
+    },
+    {
+      "heading": "Reading without vowel marks",
+      "text": [
+        "Short vowels (a, i, u) can be shown with small marks above and below the letters, but everyday Arabic — books, newspapers, signs, phones — leaves them out, and so does this app. The pronunciation under each word gives them.",
+        "Doubled consonants are not shown either: سكر is sukkar, sugar.",
+        "Without vowels, different words can share a spelling, and context tells them apart: رجل is rajul (man) or rijl (leg); من is man (who) or min (from); أنت is anta or anti (you, to a man or a woman).",
+        "ال is \"the\", written joined to its word. Before t, th, d, dh, r, z, s, sh, ṣ, ḍ, ṭ, ẓ, l and n (the \"sun letters\") the l is not said and the next consonant doubles: السبت as-sabt, Saturday."
+      ]
+    },
+    {
+      "heading": "Reading rules",
+      "text": [
+        "The pronunciations show each word as said on its own, without the grammatical endings of formal reading: كتاب [kiˈtaːb], not kitaabun.",
+        "Stress falls on the last syllable if it ends in a long vowel plus a consonant (كتاب [kiˈtaːb]); otherwise on the second-to-last if that syllable is long, otherwise on the one before (مدرسة [ˈmadrasa]).",
+        "The emphatic letters ص ض ط ظ (and ق) darken a neighbouring a toward the a in \"father\": طاولة [ˈtˤɑːwila]."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "و [wa]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "i",
+          "ipa": "ل [li]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "u",
+          "ipa": "حب [ħub]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "يد [jad]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "r",
+          "ipa": "شهر [ʃahr]",
+          "note": "rolled or trilled r"
+        },
+        {
+          "char": "w",
+          "ipa": "و [wa]",
+          "note": "w, as in \"we\""
+        },
+        {
+          "char": "x",
+          "ipa": "أخ [ʔax]",
+          "note": "ch, as in Scottish \"loch\""
+        },
+        {
+          "char": "ɑ",
+          "ipa": "وقت [wɑqt]",
+          "note": "a dark a, as in \"father\", next to an emphatic consonant"
+        },
+        {
+          "char": "ð",
+          "ipa": "ظهر [ðˤuhr]",
+          "note": "th, as in \"this\""
+        },
+        {
+          "char": "θ",
+          "ipa": "ثلج [θaldʒ]",
+          "note": "th, as in \"thin\""
+        },
+        {
+          "char": "ɣ",
+          "ipa": "لغة [ˈluɣa]",
+          "note": "a soft, buzzing version of the ch in \"loch\""
+        },
+        {
+          "char": "ʃ",
+          "ipa": "شهر [ʃahr]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "جد [dʒad]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ɫ",
+          "ipa": "إن شاء الله [ʔin ʃaːʔɑɫˈɫɑːh]",
+          "note": "a dark l, as in \"full\""
+        },
+        {
+          "char": "ʔ",
+          "ipa": "أب [ʔab]",
+          "note": "a catch in the throat, as in \"uh-oh\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "سنة [ˈsana]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "في [fiː]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "ħ",
+          "ipa": "حب [ħub]",
+          "note": "a strong, breathy h from deep in the throat (Arabic ح)"
+        },
+        {
+          "char": "ʕ",
+          "ipa": "عن [ʕan]",
+          "note": "a voiced squeeze deep in the throat (Arabic ع) — no English match"
+        },
+        {
+          "char": "ˤ",
+          "ipa": "طفل [tˤifl]",
+          "note": "emphatic: said with the back of the tongue pulled back, which darkens nearby vowels"
+        },
+        {
+          "char": "q",
+          "ipa": "وقت [wɑqt]",
+          "note": "a k made far back, against the soft palate (Arabic ق)"
+        }
+      ]
+    }
+  ]
+}

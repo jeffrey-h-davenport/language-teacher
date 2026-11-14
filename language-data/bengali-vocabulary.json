@@ -1,0 +1,5052 @@
+{
+  "meta": {
+    "language": "Bengali",
+    "languageCode": "bn",
+    "nativeLanguage": "English",
+    "targetField": "bengali",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "843d05ce-d4db-4c95-ad66-ada71f0c3192",
+      "part-of-speech": "noun",
+      "english": "person, human being",
+      "bengali": "মানুষ",
+      "cefr": "A1",
+      "ipa": "[ˈmanuʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c3efa20-2494-4fcf-94a6-e04c089c96b6",
+      "part-of-speech": "noun",
+      "english": "person; people",
+      "bengali": "লোক",
+      "cefr": "A1",
+      "ipa": "[lɔk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "327afb50-7f23-440b-964b-1a17b9b7efcd",
+      "part-of-speech": "noun",
+      "english": "man",
+      "bengali": "পুরুষ",
+      "cefr": "A1",
+      "ipa": "[ˈpuruʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2041633e-314c-472e-86b5-adab2f220bad",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "bengali": "মহিলা",
+      "cefr": "A1",
+      "ipa": "[ˈmoɦila]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e01c156f-03c5-46c8-ace4-d886049c95fa",
+      "part-of-speech": "noun",
+      "english": "boy; son",
+      "bengali": "ছেলে",
+      "cefr": "A1",
+      "ipa": "[ˈtʃʰele]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2557cf4f-4c93-4578-b18b-bc43abc769d8",
+      "part-of-speech": "noun",
+      "english": "girl; daughter",
+      "bengali": "মেয়ে",
+      "cefr": "A1",
+      "ipa": "[ˈmeje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c109550e-e54c-492a-b0b4-c7f8982b0ff2",
+      "part-of-speech": "noun",
+      "english": "child, kid",
+      "bengali": "বাচ্চা",
+      "cefr": "A1",
+      "ipa": "[ˈbatʃːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a420387-83d5-4865-bf99-8620d395070b",
+      "part-of-speech": "noun",
+      "english": "small child, baby",
+      "bengali": "শিশু",
+      "cefr": "A2",
+      "ipa": "[ˈʃiʃu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e964123e-c177-41b7-900a-6c2aae8c017e",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "bengali": "মা",
+      "cefr": "A1",
+      "ipa": "[ma]",
+      "context": "also আম্মা, আম্মু (common in Bangladesh)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf000475-626f-40f5-903f-aec351135245",
+      "part-of-speech": "noun",
+      "english": "father",
+      "bengali": "বাবা",
+      "cefr": "A1",
+      "ipa": "[ˈbaba]",
+      "context": "also আব্বা, আব্বু (common in Bangladesh)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb51e7f3-d131-4758-917a-7f88db7120a7",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "bengali": "বাবা-মা",
+      "cefr": "A1",
+      "ipa": "[ˈbaba ma]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a7fa16b-0ee3-4220-b616-124c6547882c",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "bengali": "ভাই",
+      "cefr": "A1",
+      "ipa": "[bʱai̯]",
+      "context": "older brother: বড় ভাই, or ভাইয়া; West Bengal: দাদা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "268e7a06-8dbe-4dd3-a336-a67be7c18ee2",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "bengali": "বোন",
+      "cefr": "A1",
+      "ipa": "[bɔn]",
+      "context": "older sister: বড় বোন, or আপু; West Bengal: দিদি",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2ed12c5-a169-4770-b3e4-a973558944ba",
+      "part-of-speech": "noun",
+      "english": "grandfather (father's father)",
+      "bengali": "দাদা",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ad̪a]",
+      "context": "in West Bengal দাদা means older brother; grandfather there is ঠাকুরদা or দাদু",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec78379a-c406-4a67-b3dc-1807319c51b9",
+      "part-of-speech": "noun",
+      "english": "grandmother (father's mother)",
+      "bengali": "দাদি",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ad̪i]",
+      "context": "West Bengal: ঠাকুমা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c33993e-c0ac-4869-8d4a-56e3148a9821",
+      "part-of-speech": "noun",
+      "english": "grandfather (mother's father)",
+      "bengali": "নানা",
+      "cefr": "A1",
+      "ipa": "[ˈnana]",
+      "context": "West Bengal: দাদু",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59fe471f-b6fe-4be6-9423-e5b1013a3dd7",
+      "part-of-speech": "noun",
+      "english": "grandmother (mother's mother)",
+      "bengali": "নানি",
+      "cefr": "A1",
+      "ipa": "[ˈnani]",
+      "context": "West Bengal: দিদিমা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee99c253-e2b7-4e73-b257-60406e734593",
+      "part-of-speech": "noun",
+      "english": "uncle (father's brother)",
+      "bengali": "চাচা",
+      "cefr": "A2",
+      "ipa": "[ˈtʃatʃa]",
+      "context": "West Bengal: কাকা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c496cdc-54d9-4e72-930b-ce82cd48a20a",
+      "part-of-speech": "noun",
+      "english": "uncle (mother's brother)",
+      "bengali": "মামা",
+      "cefr": "A2",
+      "ipa": "[ˈmama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e960c485-8371-4041-8481-0ef72322fa86",
+      "part-of-speech": "noun",
+      "english": "aunt (mother's sister)",
+      "bengali": "খালা",
+      "cefr": "A2",
+      "ipa": "[ˈkʰala]",
+      "context": "West Bengal: মাসি",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "925aab9a-3563-483d-9952-78b3933697be",
+      "part-of-speech": "noun",
+      "english": "aunt (father's sister)",
+      "bengali": "ফুফু",
+      "cefr": "A2",
+      "ipa": "[ˈpʰupʰu]",
+      "context": "West Bengal: পিসি",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dce6fd0-9f05-4af5-83da-3267a1b2dc42",
+      "part-of-speech": "noun",
+      "english": "family",
+      "bengali": "পরিবার",
+      "cefr": "A1",
+      "ipa": "[ˈporibar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "395a4714-531a-4991-bca4-506bed297991",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "bengali": "স্বামী",
+      "cefr": "A1",
+      "ipa": "[ˈʃami]",
+      "context": "the ব is silent",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3cf8554-8687-41f6-a2f5-380726ba3e50",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "bengali": "স্ত্রী",
+      "cefr": "A1",
+      "ipa": "[st̪ri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4219360-4c5e-4d8a-9a18-daeb1372ebed",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "bengali": "বন্ধু",
+      "cefr": "A1",
+      "ipa": "[ˈbɔnd̪ʱu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02c0d3f0-de62-4029-883a-8135e1f1b887",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "bengali": "বান্ধবী",
+      "cefr": "A1",
+      "ipa": "[ˈband̪ʱobi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a39c052-0a06-4053-a561-381d0f033211",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "bengali": "প্রতিবেশী",
+      "cefr": "A2",
+      "ipa": "[ˈprot̪ibeʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fb2de0f-6fcf-4f36-b30d-d5f44bb87400",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "bengali": "সহকর্মী",
+      "cefr": "A2",
+      "ipa": "[ˈʃɔɦɔkɔrmi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c8f55c2-4d8d-4d75-9d2f-9147b51bf4a4",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "bengali": "শিক্ষক",
+      "cefr": "A1",
+      "ipa": "[ˈʃikkʰɔk]",
+      "context": "female: শিক্ষিকা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fcf9b79-8c53-470f-a878-efb755b6f439",
+      "part-of-speech": "noun",
+      "english": "student",
+      "bengali": "ছাত্র",
+      "cefr": "A1",
+      "ipa": "[ˈtʃʰat̪rɔ]",
+      "context": "female: ছাত্রী",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc7c22da-8df3-488a-96a5-cce7b90b2b22",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "bengali": "ডাক্তার",
+      "cefr": "A1",
+      "ipa": "[ˈɖakt̪ar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39a60c64-b180-4c0a-af7f-68df5191e7c4",
+      "part-of-speech": "noun",
+      "english": "guest",
+      "bengali": "অতিথি",
+      "cefr": "A2",
+      "ipa": "[ˈot̪it̪ʰi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8eb848a1-ce5c-4f2e-ae04-fff4ea365f70",
+      "part-of-speech": "noun",
+      "english": "name",
+      "bengali": "নাম",
+      "cefr": "A1",
+      "ipa": "[nam]",
+      "context": "আমার নাম …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e5eda8b-3614-44c1-8fe2-51a42cd8fdff",
+      "part-of-speech": "noun",
+      "english": "time",
+      "bengali": "সময়",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔmɔj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a67db8be-d785-4477-855d-9a4326dc38c4",
+      "part-of-speech": "noun",
+      "english": "year",
+      "bengali": "বছর",
+      "cefr": "A1",
+      "ipa": "[ˈbɔtʃʰɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63d6324f-389a-48b6-9cb8-e9bab501696b",
+      "part-of-speech": "noun",
+      "english": "month",
+      "bengali": "মাস",
+      "cefr": "A1",
+      "ipa": "[maʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "863cc825-db1d-40c6-bcdd-df21f2be7d05",
+      "part-of-speech": "noun",
+      "english": "week",
+      "bengali": "সপ্তাহ",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔpt̪aɦo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22325130-25fb-4ac0-b0c5-75628a9b3ece",
+      "part-of-speech": "noun",
+      "english": "day",
+      "bengali": "দিন",
+      "cefr": "A1",
+      "ipa": "[d̪in]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f601cee7-1645-411c-8524-04813f926552",
+      "part-of-speech": "noun",
+      "english": "hour",
+      "bengali": "ঘণ্টা",
+      "cefr": "A1",
+      "ipa": "[ˈɡʱɔnʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cf3e940-98af-4577-af57-5c850aa08492",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "bengali": "মিনিট",
+      "cefr": "A1",
+      "ipa": "[ˈminiʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec53018b-5bf9-41bb-b9ed-efce47551731",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "bengali": "সকাল",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔkal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3214aa05-04db-46ba-98ec-15b0683c2a4e",
+      "part-of-speech": "noun",
+      "english": "midday, early afternoon",
+      "bengali": "দুপুর",
+      "cefr": "A1",
+      "ipa": "[ˈd̪upur]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9ed84e3-0d42-4747-9f35-f00e85f660ea",
+      "part-of-speech": "noun",
+      "english": "late afternoon",
+      "bengali": "বিকেল",
+      "cefr": "A1",
+      "ipa": "[ˈbikel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "733d8450-4884-4807-ae26-d9fc3b336dbf",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "bengali": "সন্ধ্যা",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔnd̪ʱa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0fa1894-f734-4a1b-a5a3-973d5f78f5f3",
+      "part-of-speech": "noun",
+      "english": "night",
+      "bengali": "রাত",
+      "cefr": "A1",
+      "ipa": "[rat̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cd9d3f9-49dd-48cb-a9b1-b429397d0eff",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "bengali": "সোমবার",
+      "cefr": "A1",
+      "ipa": "[ˈʃombar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "067c82c3-10ce-4bee-93d2-f47a3f654c98",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "bengali": "মঙ্গলবার",
+      "cefr": "A1",
+      "ipa": "[ˈmoŋɔlbar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e7aea02-437c-4b1e-8b02-c9004febe236",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "bengali": "বুধবার",
+      "cefr": "A1",
+      "ipa": "[ˈbud̪ʱbar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8b2dd95-85e7-431b-a834-79f64c01d52a",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "bengali": "বৃহস্পতিবার",
+      "cefr": "A1",
+      "ipa": "[ˈbriɦɔʃpot̪ibar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0dcfbd5b-ea09-4382-bf3b-7eee6c0814f3",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "bengali": "শুক্রবার",
+      "cefr": "A1",
+      "ipa": "[ˈʃukrɔbar]",
+      "context": "the weekend in Bangladesh is Friday and Saturday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2658839e-b95f-4947-a493-f2a9ff9906d7",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "bengali": "শনিবার",
+      "cefr": "A1",
+      "ipa": "[ˈʃonibar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59b45f44-8c5e-4de4-b5da-596599bd9a78",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "bengali": "রবিবার",
+      "cefr": "A1",
+      "ipa": "[ˈrobibar]",
+      "context": "also রোববার",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fb7f557-0069-45f9-ae8a-03859a8e3638",
+      "part-of-speech": "noun",
+      "english": "January",
+      "bengali": "জানুয়ারি",
+      "cefr": "A1",
+      "ipa": "[ˈdʒanuari]",
+      "context": "everyday dates use these months; the Bengali calendar starts with বৈশাখ in mid-April",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a397b13d-a050-4fb5-928a-596957b42c8f",
+      "part-of-speech": "noun",
+      "english": "February",
+      "bengali": "ফেব্রুয়ারি",
+      "cefr": "A1",
+      "ipa": "[ˈpʰebruari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef81bc4e-44bb-4558-8109-1896a3c6a8bb",
+      "part-of-speech": "noun",
+      "english": "March",
+      "bengali": "মার্চ",
+      "cefr": "A1",
+      "ipa": "[martʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be159644-2f61-4d8b-b2a9-7137ca0af59c",
+      "part-of-speech": "noun",
+      "english": "April",
+      "bengali": "এপ্রিল",
+      "cefr": "A1",
+      "ipa": "[ˈepril]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "808541e4-60aa-4e6e-b9a5-ec640be72978",
+      "part-of-speech": "noun",
+      "english": "May",
+      "bengali": "মে",
+      "cefr": "A1",
+      "ipa": "[me]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f4d050f-3795-4047-ab9d-f460ad4bd753",
+      "part-of-speech": "noun",
+      "english": "June",
+      "bengali": "জুন",
+      "cefr": "A1",
+      "ipa": "[dʒun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e0d7264-dbbf-46bd-8da4-042ca612a00c",
+      "part-of-speech": "noun",
+      "english": "July",
+      "bengali": "জুলাই",
+      "cefr": "A1",
+      "ipa": "[ˈdʒulai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "980943b9-f062-4ab1-a22a-fec922a4224d",
+      "part-of-speech": "noun",
+      "english": "August",
+      "bengali": "আগস্ট",
+      "cefr": "A1",
+      "ipa": "[ˈaɡɔsʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "813f5946-2fc1-483d-847c-43aaaa664baf",
+      "part-of-speech": "noun",
+      "english": "September",
+      "bengali": "সেপ্টেম্বর",
+      "cefr": "A1",
+      "ipa": "[ˈsepʈembɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e4aa7e0-75d9-45f4-a6f6-d742979fbb81",
+      "part-of-speech": "noun",
+      "english": "October",
+      "bengali": "অক্টোবর",
+      "cefr": "A1",
+      "ipa": "[ˈɔkʈɔbɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb9dd5bd-ceef-4633-a002-68d9ac0be7f5",
+      "part-of-speech": "noun",
+      "english": "November",
+      "bengali": "নভেম্বর",
+      "cefr": "A1",
+      "ipa": "[ˈnɔbʱembɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d84b1f9a-6406-43fd-987b-6010f23a159b",
+      "part-of-speech": "noun",
+      "english": "December",
+      "bengali": "ডিসেম্বর",
+      "cefr": "A1",
+      "ipa": "[ˈɖisembɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f44efb77-9f17-41b7-97f2-173d3747ff3c",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "bengali": "গ্রীষ্ম",
+      "cefr": "A1",
+      "ipa": "[ˈɡriʃːo]",
+      "context": "the first of Bengal's six seasons",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "226f4cdf-1fa3-4cac-a6b1-15d692a98f16",
+      "part-of-speech": "noun",
+      "english": "monsoon, rainy season",
+      "bengali": "বর্ষা",
+      "cefr": "A1",
+      "ipa": "[ˈbɔrʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1fe4be2-3742-43d4-8c53-b56656becf32",
+      "part-of-speech": "noun",
+      "english": "early autumn",
+      "bengali": "শরৎ",
+      "cefr": "A2",
+      "ipa": "[ˈʃɔrɔt̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6957bccf-1cc4-4472-bd7c-f918965c5ec8",
+      "part-of-speech": "noun",
+      "english": "late autumn",
+      "bengali": "হেমন্ত",
+      "cefr": "A2",
+      "ipa": "[ˈɦemɔnt̪ɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f90a8637-ef72-45b4-8f0a-d6fe077e6cfc",
+      "part-of-speech": "noun",
+      "english": "winter; cold",
+      "bengali": "শীত",
+      "cefr": "A1",
+      "ipa": "[ʃit̪]",
+      "context": "শীত লাগছে: I feel cold",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62f564e1-b052-474e-a1df-ca68f7f30db4",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "bengali": "বসন্ত",
+      "cefr": "A1",
+      "ipa": "[ˈbɔʃɔnt̪ɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80e734a2-9a64-4b52-b870-fac55dc52604",
+      "part-of-speech": "noun",
+      "english": "head",
+      "bengali": "মাথা",
+      "cefr": "A1",
+      "ipa": "[ˈmat̪ʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94148adc-f234-4835-809a-d01789fb0bfd",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "bengali": "চোখ",
+      "cefr": "A1",
+      "ipa": "[tʃokʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f3a9e92-5eb1-4441-8c7b-33003e34c6ab",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "bengali": "কান",
+      "cefr": "A1",
+      "ipa": "[kan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "664d85ea-e010-443f-854e-a51760ff74fb",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "bengali": "নাক",
+      "cefr": "A1",
+      "ipa": "[nak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c388c3a1-09b2-4b13-a90a-6ea2e39c5d18",
+      "part-of-speech": "noun",
+      "english": "mouth; face",
+      "bengali": "মুখ",
+      "cefr": "A1",
+      "ipa": "[mukʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4044f63b-e0b9-4b10-b17b-6cf92f0eed19",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "bengali": "দাঁত",
+      "cefr": "A1",
+      "ipa": "[d̪ãt̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b63fd79-82fd-434a-88ac-030be3acbcc4",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "bengali": "হাত",
+      "cefr": "A1",
+      "ipa": "[ɦat̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17087de5-ebb0-410c-8e93-fd0aa8a0aaf4",
+      "part-of-speech": "noun",
+      "english": "foot; leg",
+      "bengali": "পা",
+      "cefr": "A1",
+      "ipa": "[pa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64c0cbe5-c717-4b4a-bc70-169865cc3304",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "bengali": "হৃদয়",
+      "cefr": "A2",
+      "ipa": "[ˈɦrid̪ɔj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "520bd3a1-79dd-4d36-9538-ec5b59ce65de",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "bengali": "চুল",
+      "cefr": "A1",
+      "ipa": "[tʃul]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a532095-5b4c-4d6c-aa6e-ada57c4ae2bd",
+      "part-of-speech": "noun",
+      "english": "body",
+      "bengali": "শরীর",
+      "cefr": "A2",
+      "ipa": "[ˈʃorir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32f120e2-7177-44f3-bf4f-8a144d29edee",
+      "part-of-speech": "noun",
+      "english": "finger",
+      "bengali": "আঙুল",
+      "cefr": "A2",
+      "ipa": "[ˈaŋul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80ab242e-030c-4e06-a05c-5589298ba30d",
+      "part-of-speech": "noun",
+      "english": "back",
+      "bengali": "পিঠ",
+      "cefr": "A2",
+      "ipa": "[piʈʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63cd8e66-0788-4c31-8b86-72cf0b6495d2",
+      "part-of-speech": "noun",
+      "english": "cooked rice; a meal",
+      "bengali": "ভাত",
+      "cefr": "A1",
+      "ipa": "[bʱat̪]",
+      "countability": "mass",
+      "context": "ভাত খাওয়া: to have a meal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9618d4ca-95c7-49c6-96f6-0f067b9d71fe",
+      "part-of-speech": "noun",
+      "english": "rice (uncooked)",
+      "bengali": "চাল",
+      "cefr": "A2",
+      "ipa": "[tʃal]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c300a1d-3f9c-4372-a08a-354dfae7aebc",
+      "part-of-speech": "noun",
+      "english": "bread; flatbread",
+      "bengali": "রুটি",
+      "cefr": "A1",
+      "ipa": "[ˈruʈi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71045a0c-147d-41e0-9e19-ea047fe62f22",
+      "part-of-speech": "noun",
+      "english": "water",
+      "bengali": "পানি",
+      "cefr": "A1",
+      "ipa": "[ˈpani]",
+      "countability": "mass",
+      "context": "West Bengal: জল jol",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7aad7d2-d71c-42fe-9183-278fba4a4158",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "bengali": "দুধ",
+      "cefr": "A1",
+      "ipa": "[d̪ud̪ʱ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ea7270d-7e52-4b10-a79c-3a28e44774db",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "bengali": "চা",
+      "cefr": "A1",
+      "ipa": "[tʃa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8902d898-d433-4b7c-a34d-233b9495e648",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "bengali": "কফি",
+      "cefr": "A1",
+      "ipa": "[ˈkopʰi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f86e3d5b-fe6b-4d8c-9b1a-ccc3cdc97d42",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "bengali": "জুস",
+      "cefr": "A1",
+      "ipa": "[dʒus]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61a5422a-0c65-4585-a8e1-3b6e2f631f43",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "bengali": "মাংস",
+      "cefr": "A1",
+      "ipa": "[ˈmaŋʃo]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "401f4c24-d4dc-415f-a392-e8295a2237bf",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "bengali": "মাছ",
+      "cefr": "A1",
+      "ipa": "[matʃʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e034d7be-293b-495c-a658-776f445b28b8",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "bengali": "মুরগি",
+      "cefr": "A1",
+      "ipa": "[ˈmurɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5a296bb-2db3-4d21-8e31-825f35c2c131",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "bengali": "ডিম",
+      "cefr": "A1",
+      "ipa": "[ɖim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ca62c7d-3598-458e-a4eb-5af81fb5099e",
+      "part-of-speech": "noun",
+      "english": "lentils, dal",
+      "bengali": "ডাল",
+      "cefr": "A1",
+      "ipa": "[ɖal]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a31dc833-2ef2-410a-b62b-66f62ca851c0",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "bengali": "আলু",
+      "cefr": "A1",
+      "ipa": "[ˈalu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57d2ff29-1527-467d-ac24-56e466548111",
+      "part-of-speech": "noun",
+      "english": "onion",
+      "bengali": "পেঁয়াজ",
+      "cefr": "A1",
+      "ipa": "[ˈpẽadʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c28eec5-ad29-458f-9895-8353acb7b755",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "bengali": "টমেটো",
+      "cefr": "A1",
+      "ipa": "[ˈʈomeʈo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d79771b4-dd1b-4b62-830d-a56131975bd7",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "bengali": "ফল",
+      "cefr": "A1",
+      "ipa": "[pʰɔl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6c0e53e-ed65-4a32-b8b5-e3ce63d0fe9c",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "bengali": "সবজি",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔbdʒi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f25aca42-4e7b-4676-a140-395e52084997",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "bengali": "লবণ",
+      "cefr": "A1",
+      "ipa": "[ˈlɔbɔn]",
+      "countability": "mass",
+      "context": "West Bengal: নুন nun",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70ab8b7f-413c-4621-97cd-5cac8911193b",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "bengali": "চিনি",
+      "cefr": "A1",
+      "ipa": "[ˈtʃini]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d9e8421-1f70-41ae-844c-54a6e64c05e3",
+      "part-of-speech": "noun",
+      "english": "oil",
+      "bengali": "তেল",
+      "cefr": "A2",
+      "ipa": "[t̪el]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88a96e14-9ba4-4a64-8af5-32b9cc5a99f1",
+      "part-of-speech": "noun",
+      "english": "chilli",
+      "bengali": "মরিচ",
+      "cefr": "A1",
+      "ipa": "[ˈmoritʃ]",
+      "context": "West Bengal: লঙ্কা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a8564ea-1f4b-470e-8ffb-0976dabb0b50",
+      "part-of-speech": "noun",
+      "english": "sweets, dessert",
+      "bengali": "মিষ্টি",
+      "cefr": "A1",
+      "ipa": "[ˈmiʃʈi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b2fc13e-ae34-405c-b606-e1a712bc5c74",
+      "part-of-speech": "noun",
+      "english": "mango",
+      "bengali": "আম",
+      "cefr": "A1",
+      "ipa": "[am]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f31ea0fa-973c-427e-811e-14c3aa057c27",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "bengali": "কলা",
+      "cefr": "A1",
+      "ipa": "[ˈkɔla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad91367b-6099-47d4-b27a-119111a81c9a",
+      "part-of-speech": "noun",
+      "english": "breakfast; snack",
+      "bengali": "নাস্তা",
+      "cefr": "A1",
+      "ipa": "[ˈnast̪a]",
+      "context": "West Bengal: জলখাবার",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e919830e-139d-44ad-9cb8-0bbfcb797243",
+      "part-of-speech": "noun",
+      "english": "food",
+      "bengali": "খাবার",
+      "cefr": "A1",
+      "ipa": "[ˈkʰabar]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2d13f7e-bb2e-4c6a-b7d5-ea50f3afc6b1",
+      "part-of-speech": "noun",
+      "english": "biryani",
+      "bengali": "বিরিয়ানি",
+      "cefr": "A1",
+      "ipa": "[ˈbiriani]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "851f7705-a479-458e-a21e-e9fb1806e5b7",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "bengali": "চামচ",
+      "cefr": "A2",
+      "ipa": "[ˈtʃamɔtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53eb3d3a-6ecc-4ada-8620-d06bcd84a9e2",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "bengali": "প্লেট",
+      "cefr": "A2",
+      "ipa": "[pleʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d25e896-b9ca-42ee-b615-1ff7b6019afd",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "bengali": "গ্লাস",
+      "cefr": "A1",
+      "ipa": "[ɡlaʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8679b806-c5d6-4bae-ac03-c8ef4d7afa2b",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "bengali": "কাপ",
+      "cefr": "A1",
+      "ipa": "[kap]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfc0953d-0646-46ed-8f48-dc24813e612e",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "bengali": "ছুরি",
+      "cefr": "A2",
+      "ipa": "[ˈtʃʰuri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a7b300a-d5fb-4542-822b-28a7098fc7c0",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "bengali": "বোতল",
+      "cefr": "A2",
+      "ipa": "[ˈbot̪ɔl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7b8ec05-3dd8-4dbe-88c8-3890e6887acd",
+      "part-of-speech": "noun",
+      "english": "bill",
+      "bengali": "বিল",
+      "cefr": "A2",
+      "ipa": "[bil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "247d2ab0-48e9-4d96-8632-9fe8920d7efc",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "bengali": "বাড়ি",
+      "cefr": "A1",
+      "ipa": "[ˈbaɽi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca72a9b7-0adf-4f33-8f3d-d745c899a950",
+      "part-of-speech": "noun",
+      "english": "home, flat (where you live)",
+      "bengali": "বাসা",
+      "cefr": "A1",
+      "ipa": "[ˈbaʃa]",
+      "context": "mostly Bangladesh",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6d81974-6db8-4765-aeab-863b845b1ded",
+      "part-of-speech": "noun",
+      "english": "room; house",
+      "bengali": "ঘর",
+      "cefr": "A1",
+      "ipa": "[ɡʱɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61958183-cf71-41c4-9a8b-77f6f81742e3",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "bengali": "রান্নাঘর",
+      "cefr": "A1",
+      "ipa": "[ˈranːaɡʱɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b67f754b-e15a-4185-8569-424b5b3acb5d",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "bengali": "বাথরুম",
+      "cefr": "A1",
+      "ipa": "[ˈbat̪ʰrum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1dc1bf44-6f95-4c8e-88ca-4f4eb4f1f40e",
+      "part-of-speech": "noun",
+      "english": "door",
+      "bengali": "দরজা",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ɔrdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa15ef94-f2d8-451b-8382-ddd55eade2e3",
+      "part-of-speech": "noun",
+      "english": "window",
+      "bengali": "জানালা",
+      "cefr": "A1",
+      "ipa": "[ˈdʒanala]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b0cc3bc-80d9-4c23-ad7e-b2a27335c3c0",
+      "part-of-speech": "noun",
+      "english": "table",
+      "bengali": "টেবিল",
+      "cefr": "A1",
+      "ipa": "[ˈʈebil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0be9e857-c3c5-403f-9e4f-c06645f4e5f2",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "bengali": "চেয়ার",
+      "cefr": "A1",
+      "ipa": "[ˈtʃejar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad848b13-2e32-443f-8c8f-65112c636356",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "bengali": "বিছানা",
+      "cefr": "A1",
+      "ipa": "[ˈbitʃʰana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e23b036-c02c-4792-9db5-7a1fbd634e72",
+      "part-of-speech": "noun",
+      "english": "key",
+      "bengali": "চাবি",
+      "cefr": "A1",
+      "ipa": "[ˈtʃabi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16d2130f-ef2e-4938-9714-444e01edb4ec",
+      "part-of-speech": "noun",
+      "english": "wall",
+      "bengali": "দেয়াল",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ejal]",
+      "context": "West Bengal: দেওয়াল",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f889c14-2b9b-42d0-ae96-034413dc748c",
+      "part-of-speech": "noun",
+      "english": "floor",
+      "bengali": "মেঝে",
+      "cefr": "A2",
+      "ipa": "[ˈmedʒʱe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81b7e732-9c58-411f-95d6-2f8d3e9c9f6a",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "bengali": "বাগান",
+      "cefr": "A1",
+      "ipa": "[ˈbaɡan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa107527-8bf3-48b2-acf5-bc336b0f4801",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "bengali": "শহর",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔɦɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d685a29-0974-4b9d-bf63-be2dea9e5b4c",
+      "part-of-speech": "noun",
+      "english": "village",
+      "bengali": "গ্রাম",
+      "cefr": "A1",
+      "ipa": "[ɡram]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d23992b7-1182-416d-80d2-60ff9d3afc9b",
+      "part-of-speech": "noun",
+      "english": "place",
+      "bengali": "জায়গা",
+      "cefr": "A1",
+      "ipa": "[ˈdʒajɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90c0b6c4-359f-4b31-a5fe-dd2b18cb23c2",
+      "part-of-speech": "noun",
+      "english": "road, street",
+      "bengali": "রাস্তা",
+      "cefr": "A1",
+      "ipa": "[ˈrast̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b2ecbc0-5ec6-49a1-abcf-9b085ca5adbe",
+      "part-of-speech": "noun",
+      "english": "country",
+      "bengali": "দেশ",
+      "cefr": "A1",
+      "ipa": "[d̪eʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81fb43d5-bed5-4f41-a4c7-eb72d4b27143",
+      "part-of-speech": "noun",
+      "english": "world; the earth",
+      "bengali": "পৃথিবী",
+      "cefr": "A2",
+      "ipa": "[ˈprit̪ʰibi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "246b4810-9158-4097-bfb5-7b644ab3903e",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "bengali": "সমুদ্র",
+      "cefr": "A1",
+      "ipa": "[ˈʃomud̪ro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62ee92c3-4902-4823-ad28-abce31f46aaf",
+      "part-of-speech": "noun",
+      "english": "river",
+      "bengali": "নদী",
+      "cefr": "A1",
+      "ipa": "[ˈnod̪i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0068609b-f93d-46a2-905a-a8e945d0ca61",
+      "part-of-speech": "noun",
+      "english": "hill, mountain",
+      "bengali": "পাহাড়",
+      "cefr": "A1",
+      "ipa": "[ˈpaɦaɽ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a2ef267-b182-4450-8d88-c9ffd9115456",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "bengali": "বন",
+      "cefr": "A2",
+      "ipa": "[bɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77b1bc67-75cb-4120-87c7-c6dd6069a097",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "bengali": "আকাশ",
+      "cefr": "A2",
+      "ipa": "[ˈakaʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16004ded-01b2-4824-938d-709ac3e9607e",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "bengali": "সূর্য",
+      "cefr": "A1",
+      "ipa": "[ˈʃurdʒo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8b4e2aa-d7b3-4eaa-a2ee-505741b82f8e",
+      "part-of-speech": "noun",
+      "english": "moon",
+      "bengali": "চাঁদ",
+      "cefr": "A2",
+      "ipa": "[tʃãd̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "280cd6a4-8e10-40e9-a8da-72d5e602b928",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "bengali": "বৃষ্টি",
+      "cefr": "A1",
+      "ipa": "[ˈbriʃʈi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "193f1dfc-c6dc-4ec4-bd94-a199af177d8a",
+      "part-of-speech": "noun",
+      "english": "wind; air",
+      "bengali": "বাতাস",
+      "cefr": "A2",
+      "ipa": "[ˈbat̪aʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ad7d0c0-33fe-404b-9c24-a4288474a77d",
+      "part-of-speech": "noun",
+      "english": "tree; plant",
+      "bengali": "গাছ",
+      "cefr": "A1",
+      "ipa": "[ɡatʃʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "154b9965-0648-4ed7-a3a9-92283a25298a",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "bengali": "ফুল",
+      "cefr": "A1",
+      "ipa": "[pʰul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8372159d-d7ba-4971-8d34-d4b900a9e131",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "bengali": "কুকুর",
+      "cefr": "A1",
+      "ipa": "[ˈkukur]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37326210-2b52-49d0-bb05-099091317682",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "bengali": "বিড়াল",
+      "cefr": "A1",
+      "ipa": "[ˈbiɽal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb74e63b-4a93-4d0e-ad07-5e2cf58915d4",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "bengali": "গরু",
+      "cefr": "A2",
+      "ipa": "[ˈɡoru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25329ddc-9409-4089-abe5-433cd1752cbf",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "bengali": "পাখি",
+      "cefr": "A2",
+      "ipa": "[ˈpakʰi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b800e6de-c50a-49e6-aeee-79931e1ddb9c",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "bengali": "দোকান",
+      "cefr": "A1",
+      "ipa": "[ˈd̪okan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39ad2890-756a-400b-8abe-2b127b38f726",
+      "part-of-speech": "noun",
+      "english": "market",
+      "bengali": "বাজার",
+      "cefr": "A1",
+      "ipa": "[ˈbadʒar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf1b7c8a-f6e8-45a2-bc1e-72b9e141f92d",
+      "part-of-speech": "noun",
+      "english": "school",
+      "bengali": "স্কুল",
+      "cefr": "A1",
+      "ipa": "[skul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45f70b0c-34d9-467d-a98a-ac094fa924f4",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "bengali": "হাসপাতাল",
+      "cefr": "A1",
+      "ipa": "[ˈɦaspat̪al]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe369cef-7ed3-43b4-a4a7-f6f05da6bb4d",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "bengali": "ব্যাংক",
+      "cefr": "A1",
+      "ipa": "[bæŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fae7887-d472-4163-98e3-a19ae4325da9",
+      "part-of-speech": "noun",
+      "english": "post office",
+      "bengali": "ডাকঘর",
+      "cefr": "A2",
+      "ipa": "[ˈɖakɡʱɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ce08d1a-bf07-4418-b43b-8972aedf000f",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "bengali": "রেস্তোরাঁ",
+      "cefr": "A1",
+      "ipa": "[ˈrest̪ɔrã]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee2daee9-3c17-4b38-95a0-75de24c5b794",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "bengali": "হোটেল",
+      "cefr": "A1",
+      "ipa": "[ˈɦoʈel]",
+      "context": "also means an eatery in Bangladesh",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbfefe27-1242-44c6-990d-8ce7c4f879e9",
+      "part-of-speech": "noun",
+      "english": "mosque",
+      "bengali": "মসজিদ",
+      "cefr": "A1",
+      "ipa": "[ˈmɔʃdʒid̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92b04beb-2b02-47ee-bfb1-9a9f4854ebec",
+      "part-of-speech": "noun",
+      "english": "temple",
+      "bengali": "মন্দির",
+      "cefr": "A2",
+      "ipa": "[ˈmɔnd̪ir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4869500f-d518-4ef5-8a48-4e9318ed4f6b",
+      "part-of-speech": "noun",
+      "english": "office",
+      "bengali": "অফিস",
+      "cefr": "A1",
+      "ipa": "[ˈopʰiʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c79c7f1e-5018-4a4c-adae-2513ee870234",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "bengali": "কাজ",
+      "cefr": "A1",
+      "ipa": "[kadʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1acb08c3-1005-474e-8228-5fa3c7ab9448",
+      "part-of-speech": "noun",
+      "english": "money; taka (currency)",
+      "bengali": "টাকা",
+      "cefr": "A1",
+      "ipa": "[ˈʈaka]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "909939cc-de07-4997-ba71-79edb9df78d0",
+      "part-of-speech": "noun",
+      "english": "price",
+      "bengali": "দাম",
+      "cefr": "A2",
+      "ipa": "[d̪am]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a73faa1c-50c5-4749-9df4-5eda11d31f3d",
+      "part-of-speech": "noun",
+      "english": "station",
+      "bengali": "স্টেশন",
+      "cefr": "A1",
+      "ipa": "[ˈsʈeʃɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2990fd8-6537-4e4b-835a-84d9a1f66961",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "bengali": "বিমানবন্দর",
+      "cefr": "A2",
+      "ipa": "[ˈbimanbɔnd̪ɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5b1badc-e652-4fde-989e-d0553f010b48",
+      "part-of-speech": "noun",
+      "english": "university",
+      "bengali": "বিশ্ববিদ্যালয়",
+      "cefr": "A2",
+      "ipa": "[ˈbiʃːobid̪ːalɔj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ef87246-a31c-4135-81fc-d41fac793623",
+      "part-of-speech": "noun",
+      "english": "train",
+      "bengali": "ট্রেন",
+      "cefr": "A1",
+      "ipa": "[ʈren]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa3866cd-9c89-4aee-b104-1adfca2d0133",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "bengali": "বাস",
+      "cefr": "A1",
+      "ipa": "[baʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1775e26-1755-4562-aae1-0222e1c34189",
+      "part-of-speech": "noun",
+      "english": "car",
+      "bengali": "গাড়ি",
+      "cefr": "A1",
+      "ipa": "[ˈɡaɽi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17d39ef5-6c74-4ed9-a32b-458fd2cc306f",
+      "part-of-speech": "noun",
+      "english": "rickshaw",
+      "bengali": "রিকশা",
+      "cefr": "A1",
+      "ipa": "[ˈrikʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b35eaffb-7cd1-45db-8e48-b5431c80663d",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "bengali": "বিমান",
+      "cefr": "A1",
+      "ipa": "[ˈbiman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af230c19-2ea5-46c1-9f91-a4920be5cd1c",
+      "part-of-speech": "noun",
+      "english": "boat",
+      "bengali": "নৌকা",
+      "cefr": "A1",
+      "ipa": "[ˈnou̯ka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6c5047f-f500-4e04-a141-bbee1db2b4fc",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "bengali": "সাইকেল",
+      "cefr": "A1",
+      "ipa": "[ˈʃai̯kel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9514341f-7f1d-40ea-8784-6ed7c2a5951a",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "bengali": "টিকিট",
+      "cefr": "A1",
+      "ipa": "[ˈʈikiʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1feda082-3071-402a-8faf-e68ffc772b82",
+      "part-of-speech": "noun",
+      "english": "map",
+      "bengali": "মানচিত্র",
+      "cefr": "A2",
+      "ipa": "[ˈmantʃit̪ro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb64077b-1dd6-485f-9b18-4d248778506c",
+      "part-of-speech": "noun",
+      "english": "way, path",
+      "bengali": "পথ",
+      "cefr": "A2",
+      "ipa": "[pɔt̪ʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffeb18c9-c642-4884-9992-82a502786992",
+      "part-of-speech": "noun",
+      "english": "clothes; cloth",
+      "bengali": "কাপড়",
+      "cefr": "A1",
+      "ipa": "[ˈkapɔɽ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6724d798-ff8f-43d6-b32e-bbc391a2e39c",
+      "part-of-speech": "noun",
+      "english": "shirt, top",
+      "bengali": "জামা",
+      "cefr": "A1",
+      "ipa": "[ˈdʒama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d3014c9-9e23-4c9b-be7f-2755f6b108b7",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "bengali": "প্যান্ট",
+      "cefr": "A1",
+      "ipa": "[pænʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5da6c653-05a8-4b4b-87fb-908c16715381",
+      "part-of-speech": "noun",
+      "english": "sari",
+      "bengali": "শাড়ি",
+      "cefr": "A1",
+      "ipa": "[ˈʃaɽi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "087b5a62-700c-4ee8-9308-143fdb770acd",
+      "part-of-speech": "noun",
+      "english": "lungi (men's wrap)",
+      "bengali": "লুঙ্গি",
+      "cefr": "A2",
+      "ipa": "[ˈluŋi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29c69a40-229f-40d9-80b9-b896d9655a14",
+      "part-of-speech": "noun",
+      "english": "shoe; shoes",
+      "bengali": "জুতা",
+      "cefr": "A1",
+      "ipa": "[ˈdʒut̪a]",
+      "context": "West Bengal: জুতো",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "143b8fc8-4a20-42cf-bd65-6e0239149c1e",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "bengali": "ব্যাগ",
+      "cefr": "A1",
+      "ipa": "[bæɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b1d9ce5-8867-4e56-bc92-4cf99f866a63",
+      "part-of-speech": "noun",
+      "english": "book",
+      "bengali": "বই",
+      "cefr": "A1",
+      "ipa": "[bɔi̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0c623d1-5c55-4787-961f-028e3f33f04f",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "bengali": "কলম",
+      "cefr": "A1",
+      "ipa": "[ˈkɔlɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86b63830-a9d8-46c3-8220-cbe393466120",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "bengali": "কাগজ",
+      "cefr": "A1",
+      "ipa": "[ˈkaɡɔdʒ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "401ae436-a2db-4766-8ffd-cc55ce9aea67",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "bengali": "ফোন",
+      "cefr": "A1",
+      "ipa": "[pʰon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1daae93c-7b46-4d34-90be-322735c76b54",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "bengali": "কম্পিউটার",
+      "cefr": "A1",
+      "ipa": "[ˈkɔmpiu̯ʈar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a9ffc63-7ef4-4e68-9b78-2958887d57d9",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "bengali": "চিঠি",
+      "cefr": "A2",
+      "ipa": "[ˈtʃiʈʰi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b54ae0c-9427-4d9e-bb9c-680867597069",
+      "part-of-speech": "noun",
+      "english": "question",
+      "bengali": "প্রশ্ন",
+      "cefr": "A1",
+      "ipa": "[ˈprɔʃno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0f924a2-a43b-4cef-9c62-236f4aab7959",
+      "part-of-speech": "noun",
+      "english": "answer; north",
+      "bengali": "উত্তর",
+      "cefr": "A1",
+      "ipa": "[ˈut̪ːɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92832d23-46f5-4293-847b-d0e350760229",
+      "part-of-speech": "noun",
+      "english": "word; sound",
+      "bengali": "শব্দ",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔbd̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed4b4ec6-a9ec-4069-87f3-b387a15c5467",
+      "part-of-speech": "noun",
+      "english": "language",
+      "bengali": "ভাষা",
+      "cefr": "A1",
+      "ipa": "[ˈbʱaʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63448d2e-9e6e-400b-9651-99385287b514",
+      "part-of-speech": "noun",
+      "english": "Bengali (language)",
+      "bengali": "বাংলা",
+      "cefr": "A1",
+      "ipa": "[ˈbaŋla]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4e20f30-68e9-4df7-9ddd-2e3894dfc60f",
+      "part-of-speech": "noun",
+      "english": "English (language)",
+      "bengali": "ইংরেজি",
+      "cefr": "A1",
+      "ipa": "[ˈiŋredʒi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61763774-54f6-4188-a2b9-bf09a78ef79c",
+      "part-of-speech": "noun",
+      "english": "song; music",
+      "bengali": "গান",
+      "cefr": "A1",
+      "ipa": "[ɡan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4b5053d-814a-43ff-90d8-704e246ea026",
+      "part-of-speech": "noun",
+      "english": "picture; film",
+      "bengali": "ছবি",
+      "cefr": "A1",
+      "ipa": "[ˈtʃʰobi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abd5cc8a-5a72-4027-92fb-0ec48119f03d",
+      "part-of-speech": "noun",
+      "english": "game, match",
+      "bengali": "খেলা",
+      "cefr": "A1",
+      "ipa": "[ˈkʰæla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bf6d765-30b5-4389-8ee0-d868667a9696",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "bengali": "রং",
+      "cefr": "A1",
+      "ipa": "[rɔŋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d42d5dc-b35c-436d-a89b-40824971aa46",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "bengali": "জিনিস",
+      "cefr": "A1",
+      "ipa": "[ˈdʒiniʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bde6cbc-0e2e-45f7-af06-13676cb5fe51",
+      "part-of-speech": "noun",
+      "english": "gift, present",
+      "bengali": "উপহার",
+      "cefr": "A2",
+      "ipa": "[ˈupɔɦar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "702d10c0-923f-48ee-ab74-dcfea21b4144",
+      "part-of-speech": "noun",
+      "english": "holiday, day off",
+      "bengali": "ছুটি",
+      "cefr": "A2",
+      "ipa": "[ˈtʃʰuʈi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f203146-31f1-41f2-9f9a-ed328f202636",
+      "part-of-speech": "noun",
+      "english": "festival",
+      "bengali": "উৎসব",
+      "cefr": "A2",
+      "ipa": "[ˈut̪ʃɔb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b204373-57a9-4617-bb0f-63a901be8ee3",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "bengali": "জন্মদিন",
+      "cefr": "A1",
+      "ipa": "[ˈdʒɔnmod̪in]",
+      "context": "শুভ জন্মদিন: happy birthday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31ad7346-34a4-44a8-9778-6d50f5b7e066",
+      "part-of-speech": "noun",
+      "english": "Eid",
+      "bengali": "ঈদ",
+      "cefr": "A1",
+      "ipa": "[id̪]",
+      "context": "ঈদ মোবারক: happy Eid",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e2ffd25-32f4-4da0-9883-30d2bfdc408e",
+      "part-of-speech": "noun",
+      "english": "story; chat",
+      "bengali": "গল্প",
+      "cefr": "A2",
+      "ipa": "[ˈɡɔlpo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8329908a-6e5e-4853-b25f-e0732048fdf6",
+      "part-of-speech": "noun",
+      "english": "news",
+      "bengali": "খবর",
+      "cefr": "A2",
+      "ipa": "[ˈkʰɔbɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce15e4fe-a24c-4afc-8266-7e04cd05c937",
+      "part-of-speech": "noun",
+      "english": "exam, test",
+      "bengali": "পরীক্ষা",
+      "cefr": "A2",
+      "ipa": "[ˈporikkʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fb8fe75-905a-4f7c-9745-c888a7584d93",
+      "part-of-speech": "noun",
+      "english": "light",
+      "bengali": "আলো",
+      "cefr": "A2",
+      "ipa": "[ˈalo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b17ca3ab-8afc-43fd-b116-6704e5655758",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "bengali": "আগুন",
+      "cefr": "A2",
+      "ipa": "[ˈaɡun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6962f32b-49a7-415f-9799-bb9984d750a2",
+      "part-of-speech": "noun",
+      "english": "end",
+      "bengali": "শেষ",
+      "cefr": "A2",
+      "ipa": "[ʃeʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "825d877d-1a14-49d7-8cb6-ceb713b9a3e5",
+      "part-of-speech": "noun",
+      "english": "beginning",
+      "bengali": "শুরু",
+      "cefr": "A2",
+      "ipa": "[ˈʃuru]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23be00b6-e48d-47b1-8195-8dc2edc0555a",
+      "part-of-speech": "noun",
+      "english": "number",
+      "bengali": "সংখ্যা",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔŋkʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8a26813-1bc4-43b6-9bd9-b2dfb3088c8c",
+      "part-of-speech": "noun",
+      "english": "life",
+      "bengali": "জীবন",
+      "cefr": "A1",
+      "ipa": "[ˈdʒibɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69cafe46-36c6-433a-9bc0-eb1c16a69d6e",
+      "part-of-speech": "noun",
+      "english": "love",
+      "bengali": "ভালোবাসা",
+      "cefr": "A2",
+      "ipa": "[ˈbʱalobaʃa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42b8b19c-d931-4502-bc82-d0cb1682cc23",
+      "part-of-speech": "noun",
+      "english": "health",
+      "bengali": "স্বাস্থ্য",
+      "cefr": "A2",
+      "ipa": "[ˈʃast̪ʰo]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ceffaf1-bbb6-4980-8ba5-dd8324b4cc0b",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "bengali": "ব্যথা",
+      "cefr": "A2",
+      "ipa": "[ˈbæt̪ʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18bbe930-2ef9-4fca-bbba-13afd3feb8f5",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "bengali": "ওষুধ",
+      "cefr": "A2",
+      "ipa": "[ˈoʃud̪ʱ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adecee9b-73cf-4acd-80da-d9b287d31662",
+      "part-of-speech": "noun",
+      "english": "one",
+      "bengali": "এক",
+      "cefr": "A1",
+      "ipa": "[æk]",
+      "context": "with a counter: একটা (one, a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7e7a0a8-d789-4ad5-b47d-d53e4596eefd",
+      "part-of-speech": "noun",
+      "english": "two",
+      "bengali": "দুই",
+      "cefr": "A1",
+      "ipa": "[d̪ui̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5cce0b2-9cec-4e9a-8406-df733ba8fdfb",
+      "part-of-speech": "noun",
+      "english": "three",
+      "bengali": "তিন",
+      "cefr": "A1",
+      "ipa": "[t̪in]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "562131e0-db3b-430d-a0f2-d778bca87576",
+      "part-of-speech": "noun",
+      "english": "four",
+      "bengali": "চার",
+      "cefr": "A1",
+      "ipa": "[tʃar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "886fcbe8-eb9f-4a92-bce1-7617da51d32a",
+      "part-of-speech": "noun",
+      "english": "five",
+      "bengali": "পাঁচ",
+      "cefr": "A1",
+      "ipa": "[pãtʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d325d5cc-40a7-4491-b633-aed56def36c3",
+      "part-of-speech": "noun",
+      "english": "six",
+      "bengali": "ছয়",
+      "cefr": "A1",
+      "ipa": "[tʃʰɔj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f73b2889-a61e-4b1e-af56-6cfd7e5dc4a4",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "bengali": "সাত",
+      "cefr": "A1",
+      "ipa": "[ʃat̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c20c165d-c2ff-42b8-9960-fbd60a6efea7",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "bengali": "আট",
+      "cefr": "A1",
+      "ipa": "[aʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d5d0648-56b1-4062-955e-6b9fb105334c",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "bengali": "নয়",
+      "cefr": "A1",
+      "ipa": "[nɔj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d51d3a05-4cae-49d2-a4f4-1d401120b9c6",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "bengali": "দশ",
+      "cefr": "A1",
+      "ipa": "[d̪ɔʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04ba0ef9-0907-4acd-a542-7370ae91d2d3",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "bengali": "এগারো",
+      "cefr": "A1",
+      "ipa": "[ˈæɡaro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee63142c-ca7a-4f69-9e38-97af91d37a7d",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "bengali": "বারো",
+      "cefr": "A1",
+      "ipa": "[ˈbaro]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "554249ee-4741-47b2-afa1-9b97804501c2",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "bengali": "বিশ",
+      "cefr": "A1",
+      "ipa": "[biʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "202ed3c8-0cff-49bb-be88-f2124f17d0e4",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "bengali": "ত্রিশ",
+      "cefr": "A1",
+      "ipa": "[t̪riʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a73d2e8-7b70-4e8b-9667-1715edf57c3d",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "bengali": "একশ",
+      "cefr": "A1",
+      "ipa": "[ˈækʃo]",
+      "context": "also spelled একশো",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a662258a-0dab-46ba-928a-9c5af1679180",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "bengali": "হাজার",
+      "cefr": "A2",
+      "ipa": "[ˈɦadʒar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b1697a7-8926-49aa-8883-6d0653b756ad",
+      "part-of-speech": "noun",
+      "english": "half",
+      "bengali": "অর্ধেক",
+      "cefr": "A1",
+      "ipa": "[ˈɔrd̪ʱek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48435368-090d-413e-b0ec-9d540ee4d59d",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "bengali": "আমি",
+      "cefr": "A1",
+      "ipa": "[ˈami]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98916f03-8219-4bc8-9e25-1e9ba1c2a4e1",
+      "part-of-speech": "pronoun",
+      "english": "you (familiar)",
+      "bengali": "তুমি",
+      "cefr": "A1",
+      "ipa": "[ˈt̪umi]",
+      "context": "verbs change with the level of politeness",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63028cd2-b343-43d1-b363-a0b12f55dddf",
+      "part-of-speech": "pronoun",
+      "english": "you (polite)",
+      "bengali": "আপনি",
+      "cefr": "A1",
+      "ipa": "[ˈapni]",
+      "context": "use with strangers and elders",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "693feddc-aafb-4299-886c-4a175827e044",
+      "part-of-speech": "pronoun",
+      "english": "you (intimate)",
+      "bengali": "তুই",
+      "cefr": "A2",
+      "ipa": "[t̪ui̯]",
+      "context": "with close friends and small children",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97720194-345d-4c59-9fda-44a0bf4cf4a1",
+      "part-of-speech": "pronoun",
+      "english": "he, she",
+      "bengali": "সে",
+      "cefr": "A1",
+      "ipa": "[ʃe]",
+      "context": "one word for both",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1b26d5f-0f2f-4911-b284-cea8332db26a",
+      "part-of-speech": "pronoun",
+      "english": "he, she (polite)",
+      "bengali": "তিনি",
+      "cefr": "A2",
+      "ipa": "[ˈt̪ini]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f20c0b4f-9775-4dc0-9efa-0222700a4052",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "bengali": "আমরা",
+      "cefr": "A1",
+      "ipa": "[ˈamra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9634d31-648d-4b0c-84a7-df32fbdff120",
+      "part-of-speech": "pronoun",
+      "english": "you (familiar plural)",
+      "bengali": "তোমরা",
+      "cefr": "A1",
+      "ipa": "[ˈt̪omra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08c7165d-0d24-44b4-b85d-cc967675cdb3",
+      "part-of-speech": "pronoun",
+      "english": "you (polite plural)",
+      "bengali": "আপনারা",
+      "cefr": "A1",
+      "ipa": "[ˈapnara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7152b93-fb7a-4276-aa8e-bdf6176cff31",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "bengali": "তারা",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "164f7381-a43e-4b63-99b1-2571277480a7",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "bengali": "এটা",
+      "cefr": "A1",
+      "ipa": "[ˈeʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0507b82b-738f-46f8-841b-9e0ea9dc5569",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "bengali": "ওটা",
+      "cefr": "A1",
+      "ipa": "[ˈoʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d11109d6-b168-4487-a79a-385da103c2f9",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "bengali": "কী",
+      "cefr": "A1",
+      "ipa": "[ki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9be4551d-d0ca-4747-851b-2e97602fe3b7",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "bengali": "কে",
+      "cefr": "A1",
+      "ipa": "[ke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1d6cb1f-fed6-4a78-87a2-32d09f9ab4dd",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "bengali": "কোন",
+      "cefr": "A1",
+      "ipa": "[kon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f63e0cc-a609-4050-a515-cd3a34e949f2",
+      "part-of-speech": "pronoun",
+      "english": "all, everything",
+      "bengali": "সব",
+      "cefr": "A1",
+      "ipa": "[ʃɔb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ef8d787-1aaa-4e74-87bc-63f72870bcbb",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "bengali": "কেউ",
+      "cefr": "A2",
+      "ipa": "[keu̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcacf8ea-b2df-4e96-a9fc-e3c9c5fb2186",
+      "part-of-speech": "pronoun",
+      "english": "something; some",
+      "bengali": "কিছু",
+      "cefr": "A2",
+      "ipa": "[ˈkitʃʰu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a85a4a50-0f6c-41b8-8dc0-2734f0e70cf2",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "bengali": "কিছু না",
+      "cefr": "A2",
+      "ipa": "[ˈkitʃʰu na]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "342f3625-921c-4f63-a58f-d459d269b358",
+      "part-of-speech": "pronoun",
+      "english": "nobody",
+      "bengali": "কেউ না",
+      "cefr": "A2",
+      "ipa": "[keu̯ na]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e575f8ab-91d2-4eea-9968-99d1b3ca1b90",
+      "part-of-speech": "verb",
+      "english": "to be, become; to happen",
+      "bengali": "হওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈɦowa]",
+      "context": "\"is\" is usually left out: আমি ছাত্র, I am a student",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8743ad85-ef25-4c06-8a9a-3c4cde4cb629",
+      "part-of-speech": "verb",
+      "english": "to stay, live; to be (somewhere)",
+      "bengali": "থাকা",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ʰaka]",
+      "context": "আমি ঢাকায় থাকি: I live in Dhaka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d13a9b3-a8f1-4805-bc79-937154cca35c",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "bengali": "করা",
+      "cefr": "A1",
+      "ipa": "[ˈkɔra]",
+      "context": "present: আমি করি, তুমি করো, সে করে",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fc5e59d-39b7-4a98-9660-9972aa08ac5d",
+      "part-of-speech": "verb",
+      "english": "to want; to ask for",
+      "bengali": "চাওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈtʃawa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00b6c85c-51f4-4b62-86c5-935c757253bc",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "bengali": "জানা",
+      "cefr": "A1",
+      "ipa": "[ˈdʒana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90226eee-bd12-4909-aeb4-747d8427c530",
+      "part-of-speech": "verb",
+      "english": "can, to be able",
+      "bengali": "পারা",
+      "cefr": "A1",
+      "ipa": "[ˈpara]",
+      "context": "আমি পারি: I can",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9141dc2f-0f6d-43fe-9b72-0c824f5e378d",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "bengali": "যাওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈdʒawa]",
+      "context": "present: আমি যাই, তুমি যাও, সে যায়",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7b3e481-b84f-4eaa-a02b-96c2deb02965",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "bengali": "আসা",
+      "cefr": "A1",
+      "ipa": "[ˈaʃa]",
+      "context": "present: আমি আসি, তুমি আসো, সে আসে",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f46778b3-4cda-455f-9f54-ae1ee5596fdc",
+      "part-of-speech": "verb",
+      "english": "to see; to watch",
+      "bengali": "দেখা",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ækʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd9aafeb-86cf-4f15-b5f3-641df2a1bcd3",
+      "part-of-speech": "verb",
+      "english": "to hear, listen",
+      "bengali": "শোনা",
+      "cefr": "A1",
+      "ipa": "[ˈʃona]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74bb8972-6b39-40e8-a5df-41888d55c401",
+      "part-of-speech": "verb",
+      "english": "to say, tell; to speak",
+      "bengali": "বলা",
+      "cefr": "A1",
+      "ipa": "[ˈbɔla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9eac7e1c-e86c-4b33-a87f-b5ad4c390878",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "bengali": "জিজ্ঞেস করা",
+      "cefr": "A1",
+      "ipa": "[ˈdʒiɡːeʃ ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cd336c4-3904-427a-9889-72f356d1be2d",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "bengali": "উত্তর দেওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈut̪ːɔr ˈd̪eo̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "257b7abf-4723-4782-8d5f-98f6d8f4f1f7",
+      "part-of-speech": "verb",
+      "english": "to eat; to drink",
+      "bengali": "খাওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈkʰawa]",
+      "context": "Bengali \"eats\" water and tea too: পানি খাওয়া",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bb40399-7cd6-4c6c-8b32-5de52e42c93e",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "bengali": "ঘুমানো",
+      "cefr": "A1",
+      "ipa": "[ˈɡʱumano]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73073a7f-5caa-4e9a-a075-f01b6c8c2c6e",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "bengali": "বাঁচা",
+      "cefr": "A2",
+      "ipa": "[ˈbãtʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e047589a-1729-4b13-a927-b62007c87760",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "bengali": "ভালোবাসা",
+      "cefr": "A1",
+      "ipa": "[ˈbʱalobaʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "950c67c1-2512-4e85-a4ce-a6059c31e924",
+      "part-of-speech": "verb",
+      "english": "to like",
+      "bengali": "পছন্দ করা",
+      "cefr": "A1",
+      "ipa": "[ˈpɔtʃʰɔnd̪o ˈkɔra]",
+      "context": "আমার পছন্দ: I like it",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14672d31-94e3-44f1-9231-e9d232bdf954",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "bengali": "শেখা",
+      "cefr": "A1",
+      "ipa": "[ˈʃekʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f9b512c-0d6e-4e29-a4e5-067353f530c5",
+      "part-of-speech": "verb",
+      "english": "to read; to study",
+      "bengali": "পড়া",
+      "cefr": "A1",
+      "ipa": "[ˈpɔɽa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33d6793f-59a7-4ca2-afcb-84f33603f36b",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "bengali": "লেখা",
+      "cefr": "A1",
+      "ipa": "[ˈlekʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a306d336-6d92-4223-8fe0-1ea89cf59bb2",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "bengali": "কেনা",
+      "cefr": "A1",
+      "ipa": "[ˈkena]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e287785c-d787-423a-8c63-06ca46ac9b7e",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "bengali": "দেওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈd̪eo̯a]",
+      "context": "present: আমি দিই, তুমি দাও, সে দেয়",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d8c3195-93da-49b0-9b86-19c2893fb588",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "bengali": "নেওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈneo̯a]",
+      "context": "present: আমি নিই, তুমি নাও, সে নেয়",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc069f10-7c37-4a10-b0ea-b717a9c38b4f",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "bengali": "খোলা",
+      "cefr": "A1",
+      "ipa": "[ˈkʰola]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af490189-afdd-4ccc-aca6-a0695f42c617",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "bengali": "বন্ধ করা",
+      "cefr": "A1",
+      "ipa": "[ˈbɔnd̪ʱo ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08e01f10-3774-4d49-9883-9d8a27b6731f",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "bengali": "রান্না করা",
+      "cefr": "A1",
+      "ipa": "[ˈranːa ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff1c4dd5-31e4-42e9-8ad0-c94f6da6224b",
+      "part-of-speech": "verb",
+      "english": "to travel; to go out, visit",
+      "bengali": "বেড়ানো",
+      "cefr": "A1",
+      "ipa": "[ˈbeɽano]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ad849a2-8d99-4272-be87-2fb2a8af74f2",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "bengali": "চালানো",
+      "cefr": "A2",
+      "ipa": "[ˈtʃalano]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e42ab92-9ef0-439c-bb6b-4e6bbe2c77c9",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "bengali": "বোঝা",
+      "cefr": "A1",
+      "ipa": "[ˈbodʒʱa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04143ad1-64b8-4ede-bd9e-37721b2c3702",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "bengali": "ভাবা",
+      "cefr": "A1",
+      "ipa": "[ˈbʱaba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fea4eaef-4832-4195-bdb4-d6974876612b",
+      "part-of-speech": "verb",
+      "english": "to begin",
+      "bengali": "শুরু করা",
+      "cefr": "A2",
+      "ipa": "[ˈʃuru ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "644090d6-dc91-4b3b-a331-a8fbd221f253",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "bengali": "শেষ করা",
+      "cefr": "A2",
+      "ipa": "[ʃeʃ ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3e257a2-1999-46d5-acd6-ac470e51ed9c",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "bengali": "খেলা",
+      "cefr": "A1",
+      "ipa": "[ˈkʰæla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db9d1451-9f85-436b-8a07-2c595d71e260",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "bengali": "সাঁতার কাটা",
+      "cefr": "A1",
+      "ipa": "[ˈʃãt̪ar ˈkaʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee1da875-c0c1-46a8-bc3a-9d03e5514f14",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "bengali": "দৌড়ানো",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ou̯ɽano]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96a6f64f-7e27-476c-917c-607fde284faf",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "bengali": "বসা",
+      "cefr": "A1",
+      "ipa": "[ˈbɔʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "688f8d38-f4c8-4d47-a62f-0d1d79d88b92",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "bengali": "দাঁড়ানো",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ãɽano]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dd8bc7f-37b3-456f-b403-d8974af4133b",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "bengali": "অপেক্ষা করা",
+      "cefr": "A1",
+      "ipa": "[ˈɔpekkʰa ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "276330b0-95b5-4226-90ef-00ceb892d420",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "bengali": "খোঁজা",
+      "cefr": "A1",
+      "ipa": "[ˈkʰõdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "475f7759-800b-481d-8210-04bc888c85f7",
+      "part-of-speech": "verb",
+      "english": "to get, find",
+      "bengali": "পাওয়া",
+      "cefr": "A1",
+      "ipa": "[ˈpawa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40d10d80-adba-4e23-9365-23a1e86d373c",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "bengali": "সাহায্য করা",
+      "cefr": "A1",
+      "ipa": "[ˈʃaɦadʒːo ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc7f9e7e-cafe-45e1-9e00-a47315c2ffb8",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "bengali": "আনা",
+      "cefr": "A2",
+      "ipa": "[ˈana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9654da0-aaa0-4ff4-ad6c-c7d0db017d1c",
+      "part-of-speech": "verb",
+      "english": "to put, keep",
+      "bengali": "রাখা",
+      "cefr": "A2",
+      "ipa": "[ˈrakʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79ee833e-59a8-42bc-8e37-2865b315f7b1",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "bengali": "ধোয়া",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ʱoa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59a3ace8-14e9-450b-b140-2aa33168d275",
+      "part-of-speech": "verb",
+      "english": "to call (on the phone)",
+      "bengali": "ফোন করা",
+      "cefr": "A1",
+      "ipa": "[pʰon ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6f945b3-ee6d-467d-a821-c405031c7860",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "bengali": "নাচা",
+      "cefr": "A1",
+      "ipa": "[ˈnatʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31a7702c-c3b1-4544-989d-71a97aad581f",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "bengali": "গান গাওয়া",
+      "cefr": "A1",
+      "ipa": "[ɡan ˈɡawa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b97c4b38-0bac-4cf8-ab64-b05228378333",
+      "part-of-speech": "verb",
+      "english": "to come back, return",
+      "bengali": "ফেরা",
+      "cefr": "A2",
+      "ipa": "[ˈpʰæra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba9d32f3-b108-4f80-b484-9168d185f2fc",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "bengali": "ভুলে যাওয়া",
+      "cefr": "A2",
+      "ipa": "[ˈbʱule ˈdʒawa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cba1053d-8aa8-4a12-9cdb-0621b4dc5872",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "bengali": "ব্যবহার করা",
+      "cefr": "A2",
+      "ipa": "[ˈbæbɔɦar ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "562f242f-93f6-43cf-96c9-4b939653b37c",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "bengali": "চেষ্টা করা",
+      "cefr": "A2",
+      "ipa": "[ˈtʃeʃʈa ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30645b8d-9739-4b0a-b951-e58fef952d05",
+      "part-of-speech": "verb",
+      "english": "to hate",
+      "bengali": "ঘৃণা করা",
+      "cefr": "A2",
+      "ipa": "[ˈɡʱrina ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3474a87f-85e4-485b-8f25-fd3e898522ef",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "bengali": "আশা করা",
+      "cefr": "A2",
+      "ipa": "[ˈaʃa ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad722c71-6309-4ec2-9420-5a8c9ca1cce4",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "bengali": "পরিষ্কার করা",
+      "cefr": "A2",
+      "ipa": "[ˈporiʃkar ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93872829-c7ed-4cdd-a42f-6300472fb68b",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "bengali": "দেখা করা",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ækʰa ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "352b71c0-6286-4e7f-bf77-e31f3334f90e",
+      "part-of-speech": "verb",
+      "english": "to be late",
+      "bengali": "দেরি করা",
+      "cefr": "A2",
+      "ipa": "[ˈd̪eri ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6690223d-49e5-4d9c-b4a4-b4c89621397a",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "bengali": "বিশ্রাম নেওয়া",
+      "cefr": "A2",
+      "ipa": "[ˈbiʃram ˈneo̯a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff21027a-a33f-4197-b925-b8942d21bcc2",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "bengali": "হাসা",
+      "cefr": "A2",
+      "ipa": "[ˈɦaʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f45a5d94-94ce-4f57-9c55-800e229fa31f",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "bengali": "কাঁদা",
+      "cefr": "A2",
+      "ipa": "[ˈkãd̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d36ad554-c724-4f82-9a10-4e699c59b9b2",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "bengali": "হাঁটা",
+      "cefr": "A1",
+      "ipa": "[ˈɦãʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca536071-a0bb-48e9-9ece-440c02de5a2f",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "bengali": "পাঠানো",
+      "cefr": "A2",
+      "ipa": "[ˈpaʈʰano]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64223e6e-1fe3-4476-8408-10cdec90d02d",
+      "part-of-speech": "verb",
+      "english": "to be needed; to feel; to cost",
+      "bengali": "লাগা",
+      "cefr": "A2",
+      "ipa": "[ˈlaɡa]",
+      "context": "আমার পানি লাগবে: I need water; ভালো লাগছে: I like it, I feel good",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdbabe73-d751-45a8-9f85-fc9490f5ecf2",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "bengali": "জেতা",
+      "cefr": "A2",
+      "ipa": "[ˈdʒet̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01cbd3bc-9df6-4b9e-9f1e-d2d50a74c52c",
+      "part-of-speech": "verb",
+      "english": "to get up; to go up",
+      "bengali": "ওঠা",
+      "cefr": "A2",
+      "ipa": "[ˈoʈʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c29117b2-069d-4fe1-812d-3e9bfb4e1c1c",
+      "part-of-speech": "verb",
+      "english": "to enter",
+      "bengali": "ঢোকা",
+      "cefr": "A2",
+      "ipa": "[ˈɖʱɔka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2f5549e-df46-4443-85aa-586d21e09226",
+      "part-of-speech": "verb",
+      "english": "to go out",
+      "bengali": "বের হওয়া",
+      "cefr": "A2",
+      "ipa": "[ber ˈɦowa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17ea513a-31e1-453b-909a-976f1f6af548",
+      "part-of-speech": "adjective",
+      "english": "good; well",
+      "bengali": "ভালো",
+      "cefr": "A1",
+      "ipa": "[ˈbʱalo]",
+      "context": "ভালো আছি: I'm fine",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e569dfca-739b-474f-9e26-974bf86c4ccd",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "bengali": "খারাপ",
+      "cefr": "A1",
+      "ipa": "[ˈkʰarap]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65d5acf7-f294-4143-b94e-35c65e6a78d6",
+      "part-of-speech": "adjective",
+      "english": "big; older",
+      "bengali": "বড়",
+      "cefr": "A1",
+      "ipa": "[ˈbɔɽo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89432b17-bf46-4ca4-9c46-c9faec7f179e",
+      "part-of-speech": "adjective",
+      "english": "small; younger",
+      "bengali": "ছোট",
+      "cefr": "A1",
+      "ipa": "[ˈtʃʰoʈo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8207df45-8500-4272-afb3-673f1717aa82",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "bengali": "নতুন",
+      "cefr": "A1",
+      "ipa": "[ˈnot̪un]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b63638cc-eec4-4c3b-856e-1d1c4ec2903b",
+      "part-of-speech": "adjective",
+      "english": "old (not new)",
+      "bengali": "পুরনো",
+      "cefr": "A1",
+      "ipa": "[ˈpurɔno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03486077-9d45-423f-93f2-8904df86743e",
+      "part-of-speech": "adjective",
+      "english": "old (person)",
+      "bengali": "বুড়ো",
+      "cefr": "A2",
+      "ipa": "[ˈbuɽo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77eb197b-1c2c-427b-b511-67c4332d215b",
+      "part-of-speech": "adjective",
+      "english": "beautiful; nice",
+      "bengali": "সুন্দর",
+      "cefr": "A1",
+      "ipa": "[ˈʃund̪ɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b169fda2-f3ca-47f2-a2c0-76e45b5119db",
+      "part-of-speech": "adjective",
+      "english": "tall, long",
+      "bengali": "লম্বা",
+      "cefr": "A1",
+      "ipa": "[ˈlɔmba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba0219fa-4598-4d74-b0e7-a7a910525cd7",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "bengali": "খাটো",
+      "cefr": "A1",
+      "ipa": "[ˈkʰaʈo]",
+      "context": "West Bengal: বেঁটে",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42ca34a7-1d37-4a69-a552-511fe6732aa0",
+      "part-of-speech": "adjective",
+      "english": "fat, thick",
+      "bengali": "মোটা",
+      "cefr": "A2",
+      "ipa": "[ˈmoʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8b78e3c-1451-46cb-ba39-0cd0a4b2d92a",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "bengali": "চিকন",
+      "cefr": "A2",
+      "ipa": "[ˈtʃikɔn]",
+      "context": "West Bengal: রোগা",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ec4df8e-67c4-4094-9279-7429e8fde803",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "bengali": "দামি",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ami]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8363d3ea-c79c-42dc-858d-c83cd4ed6710",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "bengali": "সস্তা",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔst̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4394955-499d-49e5-ba98-cddb033fd48a",
+      "part-of-speech": "adjective",
+      "english": "hot, warm",
+      "bengali": "গরম",
+      "cefr": "A1",
+      "ipa": "[ˈɡɔrɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13f568c4-342c-4b9a-a7be-682475bd6d52",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "bengali": "ঠান্ডা",
+      "cefr": "A1",
+      "ipa": "[ˈʈʰanɖa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8717780-814d-4db3-ac10-b2f063de2eac",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "bengali": "দ্রুত",
+      "cefr": "A2",
+      "ipa": "[ˈd̪rut̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8af48dc3-233e-4a66-8f99-ca5676c0bd12",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "bengali": "ধীর",
+      "cefr": "A2",
+      "ipa": "[d̪ʱir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "984ca1d6-7c2f-4f9b-8106-1589d50deed5",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "bengali": "খুশি",
+      "cefr": "A1",
+      "ipa": "[ˈkʰuʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46c67c02-ff96-4b91-b7fa-9b6a62ca19a8",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "bengali": "দুঃখী",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ukkʰi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "845243df-55c1-4de6-8826-ff57cece8fff",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "bengali": "ক্লান্ত",
+      "cefr": "A1",
+      "ipa": "[ˈklant̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5037a2e9-bf37-4b06-bac4-76c771e963ae",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "bengali": "ক্ষুধার্ত",
+      "cefr": "A2",
+      "ipa": "[ˈkʰud̪ʱart̪o]",
+      "context": "everyday: ক্ষিধে লেগেছে, I'm hungry",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7caca847-7caa-4ef4-9eb0-f39313065ffb",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "bengali": "অসুস্থ",
+      "cefr": "A1",
+      "ipa": "[ˈoʃust̪ʰo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bce77a39-a7ef-481f-8b09-f86876bbad08",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "bengali": "সহজ",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔɦɔdʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1cacdd0-b893-4a39-8d66-db106f76aad3",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "bengali": "কঠিন",
+      "cefr": "A1",
+      "ipa": "[ˈkoʈʰin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a7156c5-508c-47c3-8a48-3d8ef4f6abe5",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "bengali": "ভারী",
+      "cefr": "A2",
+      "ipa": "[ˈbʱari]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc5372f0-c015-4df7-a250-a0ae3ad40334",
+      "part-of-speech": "adjective",
+      "english": "light",
+      "bengali": "হালকা",
+      "cefr": "A2",
+      "ipa": "[ˈɦalka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae47a5ba-3f85-455c-8daf-d1d0ec97f11f",
+      "part-of-speech": "adjective",
+      "english": "important, urgent",
+      "bengali": "জরুরি",
+      "cefr": "A2",
+      "ipa": "[ˈdʒoruri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9cefbe3f-2f64-4f3f-bc27-a1bf04dc3da8",
+      "part-of-speech": "adjective",
+      "english": "fun, funny",
+      "bengali": "মজার",
+      "cefr": "A1",
+      "ipa": "[ˈmɔdʒar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9235baa3-0650-47a8-920d-b8e6ea3652e0",
+      "part-of-speech": "adjective",
+      "english": "clean; clear",
+      "bengali": "পরিষ্কার",
+      "cefr": "A2",
+      "ipa": "[ˈporiʃkar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7557f3e8-e693-4079-86be-303fe01e57d3",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "bengali": "নোংরা",
+      "cefr": "A2",
+      "ipa": "[ˈnoŋra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43184e28-7616-4201-abbf-ba7ee2a40d9b",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "bengali": "খালি",
+      "cefr": "A2",
+      "ipa": "[ˈkʰali]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70d9e4f3-6ad4-461d-bbf5-52ce50ee9682",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "bengali": "বন্ধ",
+      "cefr": "A2",
+      "ipa": "[ˈbɔnd̪ʱo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56f2f581-66ed-4c0e-939b-29f54656af7b",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "bengali": "লাল",
+      "cefr": "A1",
+      "ipa": "[lal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb7b246b-ce37-4c46-9533-b33a02fc6858",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "bengali": "নীল",
+      "cefr": "A1",
+      "ipa": "[nil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f787d2d-0c44-49f0-9fef-bdb89a8b3e25",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "bengali": "সবুজ",
+      "cefr": "A1",
+      "ipa": "[ˈʃobudʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0170c1f1-a8cc-461a-8a0f-0f7dadc7fb7c",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "bengali": "হলুদ",
+      "cefr": "A1",
+      "ipa": "[ˈɦolud̪]",
+      "context": "also: turmeric",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a9dbe2d-c171-4d16-b9bb-9d798c31d9b2",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "bengali": "কালো",
+      "cefr": "A1",
+      "ipa": "[ˈkalo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "034e655c-bbc6-4ca3-a9fd-d288e96a84f8",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "bengali": "সাদা",
+      "cefr": "A1",
+      "ipa": "[ˈʃad̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9837377-918a-40de-9f49-ff0b4306354d",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "bengali": "ধূসর",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ʱuʃɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6d79725-e854-483d-99fd-c9ce97e1d0a1",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "bengali": "বাদামি",
+      "cefr": "A1",
+      "ipa": "[ˈbad̪ami]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a4bdc90-9276-4045-89bb-9fd520d85509",
+      "part-of-speech": "adjective",
+      "english": "soft",
+      "bengali": "নরম",
+      "cefr": "A2",
+      "ipa": "[ˈnɔrɔm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b48c8e1-3d04-4a09-add2-5ac6891255bc",
+      "part-of-speech": "adjective",
+      "english": "hard",
+      "bengali": "শক্ত",
+      "cefr": "A2",
+      "ipa": "[ˈʃɔkt̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "416e7c17-76c1-4d81-acb9-9be7fb10e83c",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "bengali": "মিষ্টি",
+      "cefr": "A1",
+      "ipa": "[ˈmiʃʈi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19e5f032-daa7-453e-9cd3-ac756cf55d61",
+      "part-of-speech": "adjective",
+      "english": "spicy",
+      "bengali": "ঝাল",
+      "cefr": "A1",
+      "ipa": "[dʒʱal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67342824-71ad-4d13-acb2-02091634061b",
+      "part-of-speech": "adjective",
+      "english": "delicious",
+      "bengali": "মজাদার",
+      "cefr": "A1",
+      "ipa": "[ˈmɔdʒad̪ar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b013042-9e5e-4d6b-8c48-9c8b97cd1671",
+      "part-of-speech": "adjective",
+      "english": "fresh",
+      "bengali": "তাজা",
+      "cefr": "A2",
+      "ipa": "[ˈt̪adʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "119947ad-2f26-4a08-88a2-510a3496d169",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "bengali": "ধনী",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ʱoni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf44b203-bc5d-4a94-a0a1-85f363dead26",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "bengali": "গরিব",
+      "cefr": "A2",
+      "ipa": "[ˈɡorib]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e91a01c8-0a0f-41ac-b1ba-ba97b11eb0ec",
+      "part-of-speech": "adjective",
+      "english": "clever",
+      "bengali": "বুদ্ধিমান",
+      "cefr": "A2",
+      "ipa": "[ˈbud̪d̪ʱiman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1563f497-5335-43bc-85d4-c039e48def87",
+      "part-of-speech": "adjective",
+      "english": "calm, quiet",
+      "bengali": "শান্ত",
+      "cefr": "A2",
+      "ipa": "[ˈʃant̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2455117-07a6-44c3-8d23-9c6e7d13fca7",
+      "part-of-speech": "adjective",
+      "english": "famous",
+      "bengali": "বিখ্যাত",
+      "cefr": "A2",
+      "ipa": "[ˈbikʰːat̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19bd73fa-7449-4fa7-89f2-70d146c53125",
+      "part-of-speech": "adjective",
+      "english": "foreign",
+      "bengali": "বিদেশি",
+      "cefr": "A2",
+      "ipa": "[ˈbid̪eʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06e7dcb5-33d6-4f9e-a2dd-aca49881e192",
+      "part-of-speech": "adjective",
+      "english": "Bengali (person, culture)",
+      "bengali": "বাঙালি",
+      "cefr": "A1",
+      "ipa": "[ˈbaŋali]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "533c7bd7-91eb-4331-8d02-14bc5ac18102",
+      "part-of-speech": "adjective",
+      "english": "Bangladeshi",
+      "bengali": "বাংলাদেশি",
+      "cefr": "A1",
+      "ipa": "[ˈbaŋlad̪eʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e908a3a-2288-4b24-8bb3-46615230397e",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "bengali": "তৈরি",
+      "cefr": "A1",
+      "ipa": "[ˈt̪oi̯ri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdf7a58a-4999-4ec7-b9e9-cbb1b958d175",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "bengali": "আজ",
+      "cefr": "A1",
+      "ipa": "[adʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afd97c20-be42-4963-bf17-e58164433954",
+      "part-of-speech": "adverb",
+      "english": "yesterday; tomorrow",
+      "bengali": "কাল",
+      "cefr": "A1",
+      "ipa": "[kal]",
+      "context": "the verb tense tells which; to be clear: গতকাল (yesterday), আগামীকাল (tomorrow)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db0cafbb-5851-46e0-b041-bb196c1a24e3",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "bengali": "গতকাল",
+      "cefr": "A1",
+      "ipa": "[ˈɡɔt̪ɔkal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18477466-e7df-4e97-82c4-fc4547aed303",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "bengali": "আগামীকাল",
+      "cefr": "A1",
+      "ipa": "[ˈaɡamikal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a6f14ce-5cb2-4a21-8a7a-dde4804d902b",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "bengali": "এখন",
+      "cefr": "A1",
+      "ipa": "[ˈækʰɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4310c891-8ebb-41d9-b613-1290fd7bfd5c",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "bengali": "সবসময়",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔbʃɔmɔj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d81aba39-8772-45e9-b50e-2b2a0c068745",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "bengali": "কখনো না",
+      "cefr": "A1",
+      "ipa": "[ˈkɔkʰɔno na]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1466fbc-a8ee-4111-8fb3-6569f50f5a9e",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "bengali": "প্রায়ই",
+      "cefr": "A2",
+      "ipa": "[ˈpraji]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da7f126d-7257-4f20-81ae-97aa9de156c0",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "bengali": "মাঝে মাঝে",
+      "cefr": "A1",
+      "ipa": "[ˈmadʒʱe ˈmadʒʱe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6aa35a47-52c5-41c7-8fc7-0c80d489087d",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "bengali": "এখানে",
+      "cefr": "A1",
+      "ipa": "[ˈækʰane]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f0fa3db-8b88-478e-94a8-9fe96e10fbaa",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "bengali": "ওখানে",
+      "cefr": "A1",
+      "ipa": "[ˈokʰane]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be384dab-7477-4d8d-b226-1498fccd002d",
+      "part-of-speech": "adverb",
+      "english": "near",
+      "bengali": "কাছে",
+      "cefr": "A1",
+      "ipa": "[ˈkatʃʰe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d704acf0-35ad-4496-82e4-51179050094e",
+      "part-of-speech": "adverb",
+      "english": "far away",
+      "bengali": "দূরে",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ure]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e8cdf84-58f1-4296-a911-67861f6986e2",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "bengali": "ডানে",
+      "cefr": "A1",
+      "ipa": "[ˈɖane]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "405fce99-2b52-47a0-b0b9-823181b13813",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "bengali": "বাঁয়ে",
+      "cefr": "A1",
+      "ipa": "[ˈbãje]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e221007-bebc-401b-9a4c-444cbeab9c5c",
+      "part-of-speech": "adverb",
+      "english": "straight on",
+      "bengali": "সোজা",
+      "cefr": "A2",
+      "ipa": "[ˈʃodʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6a8006e-5b23-4a27-b082-f0c95a957119",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "bengali": "খুব",
+      "cefr": "A1",
+      "ipa": "[kʰub]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c2f3ce7-2503-48ea-8cc8-a5ff796238d7",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "bengali": "একটু",
+      "cefr": "A1",
+      "ipa": "[ˈekʈu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c4077b9-c7e2-4f1f-bd95-4c7462c99e25",
+      "part-of-speech": "adverb",
+      "english": "a lot, many, much",
+      "bengali": "অনেক",
+      "cefr": "A1",
+      "ipa": "[ˈɔnek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bcb0b858-9482-46f7-8f34-3caecd0b53e0",
+      "part-of-speech": "adverb",
+      "english": "quickly; early",
+      "bengali": "তাড়াতাড়ি",
+      "cefr": "A1",
+      "ipa": "[ˈt̪aɽat̪aɽi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4323232f-bb61-4524-82fd-25fdebfc2937",
+      "part-of-speech": "adverb",
+      "english": "slowly; quietly",
+      "bengali": "আস্তে",
+      "cefr": "A1",
+      "ipa": "[ˈast̪e]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72052abe-ea06-46cf-9212-f6e4b9b8b405",
+      "part-of-speech": "adverb",
+      "english": "still; yet",
+      "bengali": "এখনো",
+      "cefr": "A2",
+      "ipa": "[ˈækʰɔno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2153c2c6-391c-461f-adee-d76e4da95ca6",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "bengali": "শুধু",
+      "cefr": "A1",
+      "ipa": "[ˈʃud̪ʱu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e003d8f9-66b0-4e8e-be0b-19c68dc7f8ba",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "bengali": "একসাথে",
+      "cefr": "A1",
+      "ipa": "[ˈækʃat̪ʰe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1fa940d-e4c4-45ee-b03c-32f7d2b84b7a",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "bengali": "দেরিতে",
+      "cefr": "A2",
+      "ipa": "[ˈd̪erit̪e]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79d128d5-66c3-49f8-8574-63ef6d3115b1",
+      "part-of-speech": "adverb",
+      "english": "maybe",
+      "bengali": "হয়তো",
+      "cefr": "A1",
+      "ipa": "[ˈɦɔjt̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d194229-7566-495c-992c-4b666c8d84b2",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "bengali": "অবশ্যই",
+      "cefr": "A1",
+      "ipa": "[ˈɔbɔʃːɔi̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bb647c5-fdc6-4f34-b71e-c308990a9581",
+      "part-of-speech": "adverb",
+      "english": "then, after that",
+      "bengali": "তারপর",
+      "cefr": "A1",
+      "ipa": "[ˈt̪arpɔr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12b45027-e51f-4f2a-b430-2fd14ff3e962",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "bengali": "কোথায়",
+      "cefr": "A1",
+      "ipa": "[ˈkot̪ʰaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86e75518-47ea-4e9b-8ece-f263df4b1bb5",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "bengali": "কখন",
+      "cefr": "A1",
+      "ipa": "[ˈkɔkʰɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09228e5f-9b47-4fc5-b88a-296ec4524628",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "bengali": "কীভাবে",
+      "cefr": "A1",
+      "ipa": "[ˈkibʱabe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1185a6bd-6767-42af-8e01-b138f8220dda",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "bengali": "কেন",
+      "cefr": "A1",
+      "ipa": "[ˈkænɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b90978a6-4f70-481f-a5ed-e725b87d20df",
+      "part-of-speech": "adverb",
+      "english": "how much",
+      "bengali": "কত",
+      "cefr": "A1",
+      "ipa": "[ˈkɔt̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50e84eb7-330e-4b06-818c-caa26bf9f8b0",
+      "part-of-speech": "adverb",
+      "english": "how many",
+      "bengali": "কয়টা",
+      "cefr": "A1",
+      "ipa": "[ˈkɔjʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7bf1e31-600d-4f66-99d0-6cc30895a106",
+      "part-of-speech": "postposition",
+      "english": "in, inside; among",
+      "bengali": "মধ্যে",
+      "cefr": "A2",
+      "ipa": "[ˈmɔd̪d̪ʱe]",
+      "context": "after the noun: ঘরের মধ্যে, in the room",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd4ce0a1-207f-44ae-9186-0db2d7fe4e30",
+      "part-of-speech": "postposition",
+      "english": "on, above",
+      "bengali": "ওপরে",
+      "cefr": "A2",
+      "ipa": "[ˈopɔre]",
+      "context": "টেবিলের ওপরে: on the table",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85891a36-99d1-4147-8884-cc89219a7208",
+      "part-of-speech": "postposition",
+      "english": "under, below",
+      "bengali": "নিচে",
+      "cefr": "A2",
+      "ipa": "[ˈnitʃe]",
+      "context": "টেবিলের নিচে: under the table",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61cfbb49-0fbb-4557-9cf6-f7fd3a551475",
+      "part-of-speech": "postposition",
+      "english": "beside, next to",
+      "bengali": "পাশে",
+      "cefr": "A2",
+      "ipa": "[ˈpaʃe]",
+      "context": "বাড়ির পাশে: next to the house",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77893f0d-2bba-4a74-a07b-2280585bfa0b",
+      "part-of-speech": "postposition",
+      "english": "with",
+      "bengali": "সাথে",
+      "cefr": "A1",
+      "ipa": "[ˈʃat̪ʰe]",
+      "context": "আমার সাথে: with me; West Bengal: সঙ্গে",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f9c88ab-f63a-4cc3-a8b4-60c852ef37d4",
+      "part-of-speech": "postposition",
+      "english": "without; except",
+      "bengali": "ছাড়া",
+      "cefr": "A2",
+      "ipa": "[ˈtʃʰaɽa]",
+      "context": "চিনি ছাড়া: without sugar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51280b74-c774-489e-b118-b3def4fe4c01",
+      "part-of-speech": "postposition",
+      "english": "for",
+      "bengali": "জন্য",
+      "cefr": "A1",
+      "ipa": "[ˈdʒɔnːo]",
+      "context": "তোমার জন্য: for you",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b81b50e9-dcd0-4774-adc3-08fff76d9d7c",
+      "part-of-speech": "postposition",
+      "english": "from; since",
+      "bengali": "থেকে",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ʰeke]",
+      "context": "ঢাকা থেকে: from Dhaka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cc26f9f-1de5-4c96-abfc-090cecbdd8d4",
+      "part-of-speech": "postposition",
+      "english": "until; as far as",
+      "bengali": "পর্যন্ত",
+      "cefr": "A2",
+      "ipa": "[ˈpɔrdʒɔnt̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d45eef47-2bee-4e23-9eec-e10ef47b2460",
+      "part-of-speech": "postposition",
+      "english": "before; ago",
+      "bengali": "আগে",
+      "cefr": "A1",
+      "ipa": "[ˈaɡe]",
+      "context": "খাওয়ার আগে: before eating",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2de0b43-e3be-491f-94d6-c4617378a296",
+      "part-of-speech": "postposition",
+      "english": "after; later",
+      "bengali": "পরে",
+      "cefr": "A1",
+      "ipa": "[ˈpɔre]",
+      "context": "খাওয়ার পরে: after eating",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c047d6d8-caec-4535-9a4a-93b7ba0fd8f6",
+      "part-of-speech": "postposition",
+      "english": "towards",
+      "bengali": "দিকে",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ike]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9ab5136-8b7c-41b5-860e-91095bd111bc",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "bengali": "এবং",
+      "cefr": "A1",
+      "ipa": "[ˈebɔŋ]",
+      "context": "more formal; in speech usually আর",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb969fe3-443b-4249-a948-51e195961414",
+      "part-of-speech": "conjunction",
+      "english": "and; more",
+      "bengali": "আর",
+      "cefr": "A1",
+      "ipa": "[ar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cc15bd2-aff7-4778-a24c-aa3c7c5e6f01",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "bengali": "কিন্তু",
+      "cefr": "A1",
+      "ipa": "[ˈkint̪u]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44a84770-9ea4-4f8d-8fd8-ed3bed06400b",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "bengali": "বা",
+      "cefr": "A1",
+      "ipa": "[ba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36b24ecb-7287-4feb-9b32-5861d8f1e296",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "bengali": "কারণ",
+      "cefr": "A1",
+      "ipa": "[ˈkarɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "423105cf-4eca-4440-a81c-56130e0c7f31",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "bengali": "যে",
+      "cefr": "A2",
+      "ipa": "[dʒe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f2eadf7-b4e8-44c7-939a-dde62f4ed586",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "bengali": "যদি",
+      "cefr": "A1",
+      "ipa": "[ˈdʒod̪i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "650d62ee-02db-46d5-93a3-53ae00318faf",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "bengali": "যখন",
+      "cefr": "A1",
+      "ipa": "[ˈdʒokʰɔn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "723f3841-eb54-45ec-baba-6811ff92f198",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "bengali": "তাই",
+      "cefr": "A1",
+      "ipa": "[t̪ai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a3dcabb-ccd1-42f5-89fd-069d49dd151a",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "bengali": "হ্যাঁ",
+      "cefr": "A1",
+      "ipa": "[ɦæ̃]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da990f85-c2c1-4874-a163-7afb0f09cf60",
+      "part-of-speech": "interjection",
+      "english": "no; not",
+      "bengali": "না",
+      "cefr": "A1",
+      "ipa": "[na]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c52b6d7-29cd-4784-808d-f25aa56acc9f",
+      "part-of-speech": "interjection",
+      "english": "hello (peace be upon you)",
+      "bengali": "আসসালামু আলাইকুম",
+      "cefr": "A1",
+      "ipa": "[ˈasːalamu ˈalai̯kum]",
+      "context": "Muslim greeting, the usual one in Bangladesh; reply: ওয়ালাইকুম আসসালাম",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96f480b4-6a40-4a6b-8186-b447b92199d6",
+      "part-of-speech": "interjection",
+      "english": "hello (Hindu greeting)",
+      "bengali": "নমস্কার",
+      "cefr": "A1",
+      "ipa": "[ˈnɔmɔʃkar]",
+      "context": "the usual greeting in West Bengal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "845b56af-8fc5-4962-9b1f-5bac210a9d8d",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "bengali": "ধন্যবাদ",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ʱɔnːɔbad̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "976d6d94-0c36-4b47-8c93-e41232510099",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "bengali": "দয়া করে",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ɔja ˈkɔre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6c6db8c-a26e-4e70-bc51-b0b7bf3239a7",
+      "part-of-speech": "interjection",
+      "english": "how are you? (polite)",
+      "bengali": "কেমন আছেন",
+      "cefr": "A1",
+      "ipa": "[ˈkæmɔn ˈatʃʰen]",
+      "context": "familiar: কেমন আছ?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcca9fab-0df6-4981-b2c6-15fc2c3d2f39",
+      "part-of-speech": "interjection",
+      "english": "I'm fine",
+      "bengali": "ভালো আছি",
+      "cefr": "A1",
+      "ipa": "[ˈbʱalo ˈatʃʰi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2f63239-2611-4a4f-9127-e75e67741234",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "bengali": "দুঃখিত",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ukkʰit̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15721331-bf54-4f3a-b7ca-372e668d38e0",
+      "part-of-speech": "interjection",
+      "english": "excuse me",
+      "bengali": "মাফ করবেন",
+      "cefr": "A1",
+      "ipa": "[mapʰ ˈkɔrben]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a0df585-df98-4fe9-9ab5-5630a345df1a",
+      "part-of-speech": "interjection",
+      "english": "see you again",
+      "bengali": "আবার দেখা হবে",
+      "cefr": "A1",
+      "ipa": "[ˈabar ˈd̪ækʰa ˈɦobe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9822b07d-12a8-4781-8bbc-e83a79a41233",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "bengali": "খোদা হাফেজ",
+      "cefr": "A1",
+      "ipa": "[ˈkʰod̪a ˈɦapʰedʒ]",
+      "context": "mostly Bangladesh; also আল্লাহ হাফেজ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ea8414a-6beb-42e0-a44e-03cbea6a649c",
+      "part-of-speech": "interjection",
+      "english": "OK, all right",
+      "bengali": "ঠিক আছে",
+      "cefr": "A1",
+      "ipa": "[ʈʰik ˈatʃʰe]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

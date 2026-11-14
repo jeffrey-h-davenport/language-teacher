@@ -1,0 +1,6131 @@
+{
+  "meta": {
+    "language": "Arabic",
+    "languageCode": "ar",
+    "nativeLanguage": "English",
+    "targetField": "arabic",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "1706e6c6-5dbf-4d72-9420-75a938b3d492",
+      "part-of-speech": "noun",
+      "english": "man",
+      "arabic": "رجل",
+      "gender": "masculine",
+      "plural": "رجال",
+      "cefr": "A1",
+      "ipa": "[ˈradʒul]",
+      "context": "same spelling as رجل rijl, leg",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90d3b266-2869-4123-bd8c-46eefcda0204",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "arabic": "امرأة",
+      "gender": "feminine",
+      "plural": "نساء",
+      "cefr": "A1",
+      "ipa": "[ʔimˈraʔa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57b05bea-c33b-47f1-b578-a842a7d071a6",
+      "part-of-speech": "noun",
+      "english": "boy; child",
+      "arabic": "ولد",
+      "gender": "masculine",
+      "plural": "أولاد",
+      "cefr": "A1",
+      "ipa": "[ˈwalad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1cf0c5d-f0ec-4def-bcff-b51ec582f46e",
+      "part-of-speech": "noun",
+      "english": "girl; daughter",
+      "arabic": "بنت",
+      "gender": "feminine",
+      "plural": "بنات",
+      "cefr": "A1",
+      "ipa": "[bint]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c412e4e1-b068-4f36-9149-1bd2da7c081c",
+      "part-of-speech": "noun",
+      "english": "child",
+      "arabic": "طفل",
+      "gender": "masculine",
+      "plural": "أطفال",
+      "cefr": "A1",
+      "ipa": "[tˤifl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a906b77-eb8f-44b1-b704-0fc8f77ae669",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "arabic": "أم",
+      "gender": "feminine",
+      "plural": "أمهات",
+      "cefr": "A1",
+      "ipa": "[ʔumː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ac3dbc8-376d-4e94-aecf-27127c566ef0",
+      "part-of-speech": "noun",
+      "english": "father",
+      "arabic": "أب",
+      "gender": "masculine",
+      "plural": "آباء",
+      "cefr": "A1",
+      "ipa": "[ʔab]",
+      "context": "\"my father\": أبي abii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "884c2e61-1874-4bbe-9b68-ca7125e58390",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "arabic": "والدان",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[waːliˈdaːn]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2210523c-59dd-4b14-82ad-8590ed0fec76",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "arabic": "أخ",
+      "gender": "masculine",
+      "plural": "إخوة",
+      "cefr": "A1",
+      "ipa": "[ʔax]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b66aac26-c898-4c0d-9deb-7310da569045",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "arabic": "أخت",
+      "gender": "feminine",
+      "plural": "أخوات",
+      "cefr": "A1",
+      "ipa": "[ʔuxt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38057ac4-e267-47d8-beff-55ef32ad8ee1",
+      "part-of-speech": "noun",
+      "english": "son",
+      "arabic": "ابن",
+      "gender": "masculine",
+      "plural": "أبناء",
+      "cefr": "A1",
+      "ipa": "[ʔibn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "833e9e3e-02be-4ccd-8ae2-c5a43ec8e0c8",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "arabic": "جد",
+      "gender": "masculine",
+      "plural": "أجداد",
+      "cefr": "A1",
+      "ipa": "[dʒad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "698f41d9-7a60-4b38-9d54-ca94f82da8d6",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "arabic": "جدة",
+      "gender": "feminine",
+      "plural": "جدات",
+      "cefr": "A1",
+      "ipa": "[ˈdʒadːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a43c515-71a9-4f32-9663-b81c7f637208",
+      "part-of-speech": "noun",
+      "english": "uncle (father's brother)",
+      "arabic": "عم",
+      "gender": "masculine",
+      "plural": "أعمام",
+      "cefr": "A2",
+      "ipa": "[ʕamː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f54df7d-88c5-4ce1-9b17-5a8a53e1a57a",
+      "part-of-speech": "noun",
+      "english": "uncle (mother's brother)",
+      "arabic": "خال",
+      "gender": "masculine",
+      "plural": "أخوال",
+      "cefr": "A2",
+      "ipa": "[xaːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b28e0b56-1f08-4ac0-9997-8ad3c12f031b",
+      "part-of-speech": "noun",
+      "english": "aunt (father's sister)",
+      "arabic": "عمة",
+      "gender": "feminine",
+      "plural": "عمات",
+      "cefr": "A2",
+      "ipa": "[ˈʕamːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a80713a8-7e62-44d1-a9cd-e5dda0013b92",
+      "part-of-speech": "noun",
+      "english": "aunt (mother's sister)",
+      "arabic": "خالة",
+      "gender": "feminine",
+      "plural": "خالات",
+      "cefr": "A2",
+      "ipa": "[ˈxaːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ae2c554-5a4d-470e-96a0-cd54b3a08f73",
+      "part-of-speech": "noun",
+      "english": "family",
+      "arabic": "عائلة",
+      "gender": "feminine",
+      "plural": "عائلات",
+      "cefr": "A1",
+      "ipa": "[ˈʕaːʔila]",
+      "context": "also أسرة usra",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36e6f7cb-19e4-41ca-a7e0-0b2e39991c7f",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "arabic": "زوج",
+      "gender": "masculine",
+      "plural": "أزواج",
+      "cefr": "A1",
+      "ipa": "[zawdʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4641d7f5-f729-4253-8c4f-d149c5738801",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "arabic": "زوجة",
+      "gender": "feminine",
+      "plural": "زوجات",
+      "cefr": "A1",
+      "ipa": "[ˈzawdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "606b4eeb-34dc-4a42-b55a-20b11be56759",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "arabic": "صديق",
+      "gender": "masculine",
+      "plural": "أصدقاء",
+      "cefr": "A1",
+      "ipa": "[sˤɑˈdiːq]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc4bb3b4-fa77-4a6e-80cf-cfb199408017",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "arabic": "صديقة",
+      "gender": "feminine",
+      "plural": "صديقات",
+      "cefr": "A1",
+      "ipa": "[sˤɑˈdiːqɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2123943-e85a-4c60-a66a-16a19a7420fd",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "arabic": "جار",
+      "gender": "masculine",
+      "plural": "جيران",
+      "cefr": "A2",
+      "ipa": "[dʒaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a97a9d98-6cf5-4c1d-834d-fecdf6a8dbfc",
+      "part-of-speech": "noun",
+      "english": "colleague",
+      "arabic": "زميل",
+      "gender": "masculine",
+      "plural": "زملاء",
+      "cefr": "A2",
+      "ipa": "[zaˈmiːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31e01b22-7491-4b05-8577-b3edc6b4ab92",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "arabic": "معلم",
+      "gender": "masculine",
+      "plural": "معلمون",
+      "cefr": "A1",
+      "ipa": "[muˈʕalːim]",
+      "context": "female: معلمة mu`allima",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5c99cf7-26e9-408b-aea3-97294d1ce569",
+      "part-of-speech": "noun",
+      "english": "student",
+      "arabic": "طالب",
+      "gender": "masculine",
+      "plural": "طلاب",
+      "cefr": "A1",
+      "ipa": "[ˈtˤɑːlib]",
+      "context": "female: طالبة Taaliba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3c81df7-5a82-4039-b9b7-f135eeb7d217",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "arabic": "طبيب",
+      "gender": "masculine",
+      "plural": "أطباء",
+      "cefr": "A1",
+      "ipa": "[tˤɑˈbiːb]",
+      "context": "female: طبيبة Tabiiba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bfd74c9-f2b6-494a-a666-6d3245a21903",
+      "part-of-speech": "noun",
+      "english": "engineer",
+      "arabic": "مهندس",
+      "gender": "masculine",
+      "plural": "مهندسون",
+      "cefr": "A2",
+      "ipa": "[muˈhandis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8122cf2c-d5df-4b7c-a273-511666371edb",
+      "part-of-speech": "noun",
+      "english": "waiter",
+      "arabic": "نادل",
+      "gender": "masculine",
+      "plural": "نوادل",
+      "cefr": "A2",
+      "ipa": "[ˈnaːdil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0a36606-7fe1-460c-b554-6098f3913ce4",
+      "part-of-speech": "noun",
+      "english": "guest",
+      "arabic": "ضيف",
+      "gender": "masculine",
+      "plural": "ضيوف",
+      "cefr": "A2",
+      "ipa": "[dˤɑjf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f020ef64-b9cf-46b0-9ae9-d7e66bd41f73",
+      "part-of-speech": "noun",
+      "english": "tourist",
+      "arabic": "سائح",
+      "gender": "masculine",
+      "plural": "سياح",
+      "cefr": "A2",
+      "ipa": "[ˈsaːʔiħ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e808a92b-0d4d-4c27-9936-b76deb78a032",
+      "part-of-speech": "noun",
+      "english": "name",
+      "arabic": "اسم",
+      "gender": "masculine",
+      "plural": "أسماء",
+      "cefr": "A1",
+      "ipa": "[ʔism]",
+      "context": "اسمي …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d4016f5-154c-4fd5-8006-89e43b3e06df",
+      "part-of-speech": "noun",
+      "english": "person",
+      "arabic": "شخص",
+      "gender": "masculine",
+      "plural": "أشخاص",
+      "cefr": "A1",
+      "ipa": "[ʃaxsˤ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93db9ece-1679-4dd4-bd1a-b8c82fc0d9eb",
+      "part-of-speech": "noun",
+      "english": "people",
+      "arabic": "ناس",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[naːs]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dbcb828-b30c-4037-9adb-fb704ce09b03",
+      "part-of-speech": "noun",
+      "english": "time",
+      "arabic": "وقت",
+      "gender": "masculine",
+      "plural": "أوقات",
+      "cefr": "A1",
+      "ipa": "[wɑqt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3979563a-8a79-4648-8feb-561580514d5f",
+      "part-of-speech": "noun",
+      "english": "year",
+      "arabic": "سنة",
+      "gender": "feminine",
+      "plural": "سنوات",
+      "cefr": "A1",
+      "ipa": "[ˈsana]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48f40ec5-47cc-4b8b-bfa3-ed3848652601",
+      "part-of-speech": "noun",
+      "english": "month",
+      "arabic": "شهر",
+      "gender": "masculine",
+      "plural": "أشهر",
+      "cefr": "A1",
+      "ipa": "[ʃahr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2678330d-dda9-4d50-a61f-54fdaee90619",
+      "part-of-speech": "noun",
+      "english": "week",
+      "arabic": "أسبوع",
+      "gender": "masculine",
+      "plural": "أسابيع",
+      "cefr": "A1",
+      "ipa": "[ʔusˈbuːʕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ef22b36-42ae-444e-b1d6-0a7166155626",
+      "part-of-speech": "noun",
+      "english": "day",
+      "arabic": "يوم",
+      "gender": "masculine",
+      "plural": "أيام",
+      "cefr": "A1",
+      "ipa": "[jawm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14d5eeb4-4f04-4709-977e-685463f98870",
+      "part-of-speech": "noun",
+      "english": "hour; clock, watch",
+      "arabic": "ساعة",
+      "gender": "feminine",
+      "plural": "ساعات",
+      "cefr": "A1",
+      "ipa": "[ˈsaːʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beab2a47-4ccb-49fe-8547-42b8beaa9d5a",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "arabic": "دقيقة",
+      "gender": "feminine",
+      "plural": "دقائق",
+      "cefr": "A1",
+      "ipa": "[dɑˈqiːqɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94bb996b-96e0-48b2-81fe-8043d7f6e226",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "arabic": "صباح",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sˤɑˈbaːħ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5dafce3-7922-4ba8-8ba4-949b34388fbb",
+      "part-of-speech": "noun",
+      "english": "noon",
+      "arabic": "ظهر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ðˤuhr]",
+      "context": "same spelling as ظهر Zahr, back",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a2f7ed9-2c1e-4832-9d3e-f5ce3d901e2e",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "arabic": "مساء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[maˈsaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de12390d-d680-4c73-97e3-05802e69b48b",
+      "part-of-speech": "noun",
+      "english": "night",
+      "arabic": "ليل",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[lajl]",
+      "context": "one night: ليلة layla",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "338cbab7-625f-49a0-a798-2ba51d5eca3e",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "arabic": "الأحد",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔalˈʔaħad]",
+      "context": "also يوم الأحد",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f8725af-836d-497e-ab4e-da43ae621e53",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "arabic": "الاثنين",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔaliθˈnajn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ba97159-f1ae-4dbf-a8fd-5c33db3b0a73",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "arabic": "الثلاثاء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔaθːulaːˈθaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0b592cf-905b-4cbf-894f-d23c4ad76ece",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "arabic": "الأربعاء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔalʔarbiˈʕaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6341921b-9dfb-423f-b3c6-43005e9d566e",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "arabic": "الخميس",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔalxaˈmiːs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99671349-f4ec-4947-94f2-de2050e942a4",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "arabic": "الجمعة",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ʔalˈdʒumʕa]",
+      "context": "the weekly day of congregational prayer",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d28ec435-90c7-4d9c-ab8e-da6f702aa0e6",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "arabic": "السبت",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔasˈsabt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37109e31-bb7d-438a-9627-2054cf35b674",
+      "part-of-speech": "noun",
+      "english": "January",
+      "arabic": "يناير",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jaˈnaːjir]",
+      "context": "Egypt and the Gulf; in the Levant and Iraq: كانون الثاني",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83da8709-5aac-41f9-a9e3-59730dca9218",
+      "part-of-speech": "noun",
+      "english": "February",
+      "arabic": "فبراير",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[fibˈraːjir]",
+      "context": "Levant and Iraq: شباط",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cf90289-9fd3-430b-bad7-1d9380774a34",
+      "part-of-speech": "noun",
+      "english": "March",
+      "arabic": "مارس",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈmaːris]",
+      "context": "Levant and Iraq: آذار",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70d8ee1e-f05a-48f2-b752-1d0fef01b792",
+      "part-of-speech": "noun",
+      "english": "April",
+      "arabic": "أبريل",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔabˈriːl]",
+      "context": "Levant and Iraq: نيسان",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d0d053d-1f44-45d9-ae16-f105a2c14249",
+      "part-of-speech": "noun",
+      "english": "May",
+      "arabic": "مايو",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈmaːjuː]",
+      "context": "Levant and Iraq: أيار",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "894b965c-658c-4f03-bc3d-cf1f5690d0d5",
+      "part-of-speech": "noun",
+      "english": "June",
+      "arabic": "يونيو",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjuːnjuː]",
+      "context": "Levant and Iraq: حزيران",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcc00aaf-8e82-4f50-849d-cd3b27da6c04",
+      "part-of-speech": "noun",
+      "english": "July",
+      "arabic": "يوليو",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjuːljuː]",
+      "context": "Levant and Iraq: تموز",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd4e9c8c-209a-48ba-b852-a536cf337150",
+      "part-of-speech": "noun",
+      "english": "August",
+      "arabic": "أغسطس",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔaˈɣustˤus]",
+      "context": "Levant and Iraq: آب",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc404437-bbc5-4f6a-8833-f535af338a0a",
+      "part-of-speech": "noun",
+      "english": "September",
+      "arabic": "سبتمبر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sibˈtambir]",
+      "context": "Levant and Iraq: أيلول",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2e5d7ed-ff05-4c35-81c6-93b75103757d",
+      "part-of-speech": "noun",
+      "english": "October",
+      "arabic": "أكتوبر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔukˈtuːbar]",
+      "context": "Levant and Iraq: تشرين الأول",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "894666fe-ef3d-4323-8664-57276e40f064",
+      "part-of-speech": "noun",
+      "english": "November",
+      "arabic": "نوفمبر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[nuːˈfambir]",
+      "context": "Levant and Iraq: تشرين الثاني",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "268942e0-8161-4872-827a-0b6b58fe84b0",
+      "part-of-speech": "noun",
+      "english": "December",
+      "arabic": "ديسمبر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[diːˈsambir]",
+      "context": "Levant and Iraq: كانون الأول",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd07cbb2-673d-4bed-88dc-84d9dc50f19d",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "arabic": "ربيع",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[raˈbiːʕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "807b1cd6-9867-459a-831d-37deea26e96c",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "arabic": "صيف",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sˤɑjf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71b41198-c7fa-4a9f-bf4f-610b67abcd5c",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "arabic": "خريف",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[xaˈriːf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c363509-e7b1-402f-87ba-256f4b87921f",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "arabic": "شتاء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʃiˈtaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b195ad6-5846-4407-bbc6-2a961bf98f50",
+      "part-of-speech": "noun",
+      "english": "head",
+      "arabic": "رأس",
+      "gender": "masculine",
+      "plural": "رؤوس",
+      "cefr": "A1",
+      "ipa": "[raʔs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65f349fe-6c60-4c77-8638-ef62edd8a752",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "arabic": "عين",
+      "gender": "feminine",
+      "plural": "عيون",
+      "cefr": "A1",
+      "ipa": "[ʕajn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34dcda8f-63ea-45d3-b61b-c8bff4210c72",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "arabic": "أذن",
+      "gender": "feminine",
+      "plural": "آذان",
+      "cefr": "A1",
+      "ipa": "[ˈʔuðun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "714d1b8b-ecc7-45a5-8a84-a378a904649c",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "arabic": "أنف",
+      "gender": "masculine",
+      "plural": "أنوف",
+      "cefr": "A1",
+      "ipa": "[ʔanf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d739f680-b05e-4f6d-ad9e-d05ab4619fc1",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "arabic": "فم",
+      "gender": "masculine",
+      "plural": "أفواه",
+      "cefr": "A1",
+      "ipa": "[fam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62b42b6c-5f24-4fd3-8bd8-0727ad2ab007",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "arabic": "سن",
+      "gender": "feminine",
+      "plural": "أسنان",
+      "cefr": "A1",
+      "ipa": "[sinː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d825ba10-6e9d-4b67-b38d-69ad92da7493",
+      "part-of-speech": "noun",
+      "english": "hand",
+      "arabic": "يد",
+      "gender": "feminine",
+      "plural": "أيد",
+      "cefr": "A1",
+      "ipa": "[jad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8b8676a-ee83-4115-854c-03f2d9b95e1f",
+      "part-of-speech": "noun",
+      "english": "leg, foot",
+      "arabic": "رجل",
+      "gender": "feminine",
+      "plural": "أرجل",
+      "cefr": "A1",
+      "ipa": "[ridʒl]",
+      "context": "same spelling as رجل rajul, man",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d83f792-b59d-42c7-8f6a-8f4dc8efdb55",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "arabic": "قلب",
+      "gender": "masculine",
+      "plural": "قلوب",
+      "cefr": "A2",
+      "ipa": "[qɑlb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f47f743b-572a-44b4-8b52-aad57dd613ef",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "arabic": "شعر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʃaʕr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f9f685f-6408-4994-9cbd-e9fa142e6c60",
+      "part-of-speech": "noun",
+      "english": "face",
+      "arabic": "وجه",
+      "gender": "masculine",
+      "plural": "وجوه",
+      "cefr": "A2",
+      "ipa": "[wadʒh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "930bccf0-a6d0-4039-a9c5-8594c8fcb85b",
+      "part-of-speech": "noun",
+      "english": "body",
+      "arabic": "جسم",
+      "gender": "masculine",
+      "plural": "أجسام",
+      "cefr": "A2",
+      "ipa": "[dʒism]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71d2bbe5-8a22-46a6-8595-62d5080d7f6b",
+      "part-of-speech": "noun",
+      "english": "finger",
+      "arabic": "إصبع",
+      "gender": "masculine",
+      "plural": "أصابع",
+      "cefr": "A2",
+      "ipa": "[ˈʔisˤbaʕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ffb87fa-f196-42ea-9cd5-c5f2e866b24b",
+      "part-of-speech": "noun",
+      "english": "back",
+      "arabic": "ظهر",
+      "gender": "masculine",
+      "plural": "ظهور",
+      "cefr": "A2",
+      "ipa": "[ðˤɑhr]",
+      "context": "same spelling as ظهر Zuhr, noon",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6841e043-590f-41c1-8e8c-7c862f3e56af",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "arabic": "خبز",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[xubz]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82c92a89-2102-451b-8ce0-9b4a6a736d20",
+      "part-of-speech": "noun",
+      "english": "water",
+      "arabic": "ماء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[maːʔ]",
+      "countability": "mass",
+      "context": "spoken in most countries: مية mayya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c39bfba-d933-498a-a79d-d5cd7210920d",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "arabic": "حليب",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ħaˈliːb]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "766be7e8-6e18-42c6-8740-f60b6daa0bf9",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "arabic": "قهوة",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈqɑhwa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c181a1f-ae17-4e6d-83e5-056e815c46aa",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "arabic": "شاي",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʃaːj]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce77d38c-2035-49ca-974d-a5f896cbb876",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "arabic": "عصير",
+      "gender": "masculine",
+      "plural": "عصائر",
+      "cefr": "A1",
+      "ipa": "[ʕɑˈsˤiːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65ab57d2-d9b5-422f-9e53-53e2cb29b2d4",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "arabic": "لحم",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[laħm]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11eced64-1c20-4c58-8844-2dc6d3b126a4",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "arabic": "سمك",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsamak]",
+      "countability": "mass",
+      "context": "one fish: سمكة samaka",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51bdcdda-ca0a-4b7d-90a4-7e88ac873945",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "arabic": "دجاج",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[daˈdʒaːdʒ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ddc96d7-5a5c-400b-8e9e-d67f81664e99",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "arabic": "جبن",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[dʒubn]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c979fba0-6491-4a97-9cf1-50c76d08479e",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "arabic": "بيضة",
+      "gender": "feminine",
+      "plural": "بيض",
+      "cefr": "A1",
+      "ipa": "[ˈbajdˤɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07f3806d-515a-4ab4-b420-9dbd9635151d",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "arabic": "تفاحة",
+      "gender": "feminine",
+      "plural": "تفاح",
+      "cefr": "A1",
+      "ipa": "[tufˈfaːħa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9531008f-9590-4d3b-941e-0c1afde4d390",
+      "part-of-speech": "noun",
+      "english": "orange",
+      "arabic": "برتقالة",
+      "gender": "feminine",
+      "plural": "برتقال",
+      "cefr": "A1",
+      "ipa": "[burtuˈqɑːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e02c8573-c9d1-4555-b6bf-5c7ba12e3d0a",
+      "part-of-speech": "noun",
+      "english": "tomatoes",
+      "arabic": "طماطم",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[tˤɑˈmɑːtˤim]",
+      "countability": "mass",
+      "context": "also بندورة banduura (Levant)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b092b0b-8b3e-456c-a58b-580264762244",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "arabic": "فاكهة",
+      "gender": "feminine",
+      "plural": "فواكه",
+      "cefr": "A1",
+      "ipa": "[ˈfaːkiha]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9d7c455-39f8-42ec-85a0-12732cd95e76",
+      "part-of-speech": "noun",
+      "english": "vegetables",
+      "arabic": "خضار",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[xuˈdˤɑːr]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9378525-38ea-4d94-88a9-ab4279e7aba5",
+      "part-of-speech": "noun",
+      "english": "potatoes",
+      "arabic": "بطاطس",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[bɑˈtˤɑːtˤis]",
+      "countability": "mass",
+      "context": "also بطاطا baTaaTaa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb80978e-775d-4d34-b370-2e25e0fb9c61",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "arabic": "أرز",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʔaˈruzː]",
+      "countability": "mass",
+      "context": "spoken: رز ruzz",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b4483a6-fc2d-4f4c-a332-01ddaa2365e9",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "arabic": "حساء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ħaˈsaːʔ]",
+      "context": "spoken: شوربة shuurba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7280d5f0-41c6-4b81-8578-5b64d2ede3a4",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "arabic": "سكر",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsukːar]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "721d12c6-5d7e-4053-b715-67a6d30524c0",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "arabic": "ملح",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[milħ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "278a6fbc-3e46-41a1-b307-24bd6caaa897",
+      "part-of-speech": "noun",
+      "english": "oil",
+      "arabic": "زيت",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[zajt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e492efa-5ad2-4d33-a69a-1e44859d22ea",
+      "part-of-speech": "noun",
+      "english": "salad",
+      "arabic": "سلطة",
+      "gender": "feminine",
+      "plural": "سلطات",
+      "cefr": "A1",
+      "ipa": "[ˈsalɑtˤɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2da26076-c6a9-4825-bc1d-5519a47d6cd6",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "arabic": "كعكة",
+      "gender": "feminine",
+      "plural": "كعك",
+      "cefr": "A1",
+      "ipa": "[ˈkaʕka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e35f308f-1025-45d6-ae66-611c5509c5da",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "arabic": "فطور",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[fuˈtˤuːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9afe1803-8e2a-4125-8941-d673f7e88fd6",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "arabic": "غداء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɣaˈdaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b15a2100-bce1-4ce4-85c5-364cc80cc084",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "arabic": "عشاء",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʕaˈʃaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ebd031c-b3fe-4931-a3a6-d496c9cc9344",
+      "part-of-speech": "noun",
+      "english": "food",
+      "arabic": "طعام",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tˤɑˈʕaːm]",
+      "countability": "mass",
+      "context": "also أكل akl",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc2a6f29-b054-433c-915f-4469caf7759c",
+      "part-of-speech": "noun",
+      "english": "menu; list",
+      "arabic": "قائمة",
+      "gender": "feminine",
+      "plural": "قوائم",
+      "cefr": "A2",
+      "ipa": "[ˈqɑːʔima]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfe2b4ff-bd7d-4ffc-befe-bf82eef6e3cb",
+      "part-of-speech": "noun",
+      "english": "bill; account",
+      "arabic": "حساب",
+      "gender": "masculine",
+      "plural": "حسابات",
+      "cefr": "A2",
+      "ipa": "[ħiˈsaːb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2a6fb9b-d276-401a-83c6-8e0dc38d6fc6",
+      "part-of-speech": "noun",
+      "english": "glass, cup",
+      "arabic": "كأس",
+      "gender": "feminine",
+      "plural": "كؤوس",
+      "cefr": "A1",
+      "ipa": "[kaʔs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4773c8d-d0dc-4eab-a521-5dd065caeb1a",
+      "part-of-speech": "noun",
+      "english": "(coffee) cup",
+      "arabic": "فنجان",
+      "gender": "masculine",
+      "plural": "فناجين",
+      "cefr": "A2",
+      "ipa": "[finˈdʒaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "008032f8-2030-4904-829a-bb87165c28b0",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "arabic": "صحن",
+      "gender": "masculine",
+      "plural": "صحون",
+      "cefr": "A2",
+      "ipa": "[sˤɑħn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29b1afc0-4a06-481c-96e2-ed1ec258370f",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "arabic": "سكين",
+      "gender": "feminine",
+      "plural": "سكاكين",
+      "cefr": "A2",
+      "ipa": "[sikˈkiːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1945b831-c269-4208-bea9-fc6c82de3b45",
+      "part-of-speech": "noun",
+      "english": "fork; thorn",
+      "arabic": "شوكة",
+      "gender": "feminine",
+      "plural": "شوك",
+      "cefr": "A2",
+      "ipa": "[ˈʃawka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72501319-741d-4ef2-b29c-fc020dd0653f",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "arabic": "ملعقة",
+      "gender": "feminine",
+      "plural": "ملاعق",
+      "cefr": "A2",
+      "ipa": "[ˈmilʕɑqɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "503a14ec-910d-4c03-b5e7-54d051ff89d4",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "arabic": "زجاجة",
+      "gender": "feminine",
+      "plural": "زجاجات",
+      "cefr": "A2",
+      "ipa": "[zuˈdʒaːdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06c54419-1f77-4250-8d1f-23da4bcd2a55",
+      "part-of-speech": "noun",
+      "english": "hummus; chickpeas",
+      "arabic": "حمص",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈħumːusˤ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d1c209c-6fb8-4973-bc12-beb13302264e",
+      "part-of-speech": "noun",
+      "english": "falafel",
+      "arabic": "فلافل",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[faˈlaːfil]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e19597dc-2b65-4761-8475-7029c6349a5b",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "arabic": "بيت",
+      "gender": "masculine",
+      "plural": "بيوت",
+      "cefr": "A1",
+      "ipa": "[bajt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6517191-da2c-4ad7-90a2-d33703d0008d",
+      "part-of-speech": "noun",
+      "english": "house",
+      "arabic": "منزل",
+      "gender": "masculine",
+      "plural": "منازل",
+      "cefr": "A1",
+      "ipa": "[ˈmanzil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2d131b0-fa9b-4de7-8fa7-bf8a1d1b47db",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "arabic": "شقة",
+      "gender": "feminine",
+      "plural": "شقق",
+      "cefr": "A1",
+      "ipa": "[ˈʃɑqːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f3d232d-6f28-42e7-9b93-fc42ee437984",
+      "part-of-speech": "noun",
+      "english": "room",
+      "arabic": "غرفة",
+      "gender": "feminine",
+      "plural": "غرف",
+      "cefr": "A1",
+      "ipa": "[ˈɣurfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e53071c3-c581-4e2d-a1af-1463b17fdef9",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "arabic": "مطبخ",
+      "gender": "masculine",
+      "plural": "مطابخ",
+      "cefr": "A1",
+      "ipa": "[ˈmɑtˤbax]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37e19494-b199-4bd2-927b-123706a852b1",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "arabic": "حمام",
+      "gender": "masculine",
+      "plural": "حمامات",
+      "cefr": "A1",
+      "ipa": "[ħamˈmaːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba910e06-cfff-41e4-afc1-2d55ab9af3ba",
+      "part-of-speech": "noun",
+      "english": "door",
+      "arabic": "باب",
+      "gender": "masculine",
+      "plural": "أبواب",
+      "cefr": "A1",
+      "ipa": "[baːb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bca6a493-552c-4dde-ae05-3c791ac0524f",
+      "part-of-speech": "noun",
+      "english": "window",
+      "arabic": "نافذة",
+      "gender": "feminine",
+      "plural": "نوافذ",
+      "cefr": "A1",
+      "ipa": "[ˈnaːfiða]",
+      "context": "spoken: شباك shubbaak",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "713a8d59-7335-41ea-9342-36c22748b649",
+      "part-of-speech": "noun",
+      "english": "table",
+      "arabic": "طاولة",
+      "gender": "feminine",
+      "plural": "طاولات",
+      "cefr": "A1",
+      "ipa": "[ˈtˤɑːwila]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edea9738-1969-4eba-a1f0-27b8167a1618",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "arabic": "كرسي",
+      "gender": "masculine",
+      "plural": "كراسي",
+      "cefr": "A1",
+      "ipa": "[ˈkursiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ceecb8c-19bb-42f0-a9e7-2ac89c8aa648",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "arabic": "سرير",
+      "gender": "masculine",
+      "plural": "أسرة",
+      "cefr": "A1",
+      "ipa": "[saˈriːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06d0dd5a-3abf-45ef-87a8-0771c83b553c",
+      "part-of-speech": "noun",
+      "english": "key",
+      "arabic": "مفتاح",
+      "gender": "masculine",
+      "plural": "مفاتيح",
+      "cefr": "A1",
+      "ipa": "[mifˈtaːħ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28da288e-0719-4779-a1a6-a8a42bd107fd",
+      "part-of-speech": "noun",
+      "english": "wall",
+      "arabic": "جدار",
+      "gender": "masculine",
+      "plural": "جدران",
+      "cefr": "A2",
+      "ipa": "[dʒiˈdaːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25ee19fc-82e8-4830-ac86-d19bd108c2c1",
+      "part-of-speech": "noun",
+      "english": "floor; ground, land; earth",
+      "arabic": "أرض",
+      "gender": "feminine",
+      "plural": "أراض",
+      "cefr": "A2",
+      "ipa": "[ʔardˤ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dda653b9-2a4a-41a6-a4e9-77e989c28106",
+      "part-of-speech": "noun",
+      "english": "floor, storey",
+      "arabic": "طابق",
+      "gender": "masculine",
+      "plural": "طوابق",
+      "cefr": "A2",
+      "ipa": "[ˈtˤɑːbiq]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c5cd74b-8b38-475f-bf54-cfa82499e6c9",
+      "part-of-speech": "noun",
+      "english": "garden; park",
+      "arabic": "حديقة",
+      "gender": "feminine",
+      "plural": "حدائق",
+      "cefr": "A1",
+      "ipa": "[ħaˈdiːqɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ade6bb5a-30f9-40d0-b11d-cdd0189372b1",
+      "part-of-speech": "noun",
+      "english": "city",
+      "arabic": "مدينة",
+      "gender": "feminine",
+      "plural": "مدن",
+      "cefr": "A1",
+      "ipa": "[maˈdiːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81acf599-e41f-4b22-a286-63f2efb24032",
+      "part-of-speech": "noun",
+      "english": "village",
+      "arabic": "قرية",
+      "gender": "feminine",
+      "plural": "قرى",
+      "cefr": "A1",
+      "ipa": "[ˈqɑrja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea249a0f-4668-49a4-b6e3-50a275d23096",
+      "part-of-speech": "noun",
+      "english": "place",
+      "arabic": "مكان",
+      "gender": "masculine",
+      "plural": "أماكن",
+      "cefr": "A1",
+      "ipa": "[maˈkaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14883c55-f845-4513-a6df-7a2aa5ffec92",
+      "part-of-speech": "noun",
+      "english": "street",
+      "arabic": "شارع",
+      "gender": "masculine",
+      "plural": "شوارع",
+      "cefr": "A1",
+      "ipa": "[ˈʃaːriʕ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a228fc2a-120d-4694-b641-55efb37f17f7",
+      "part-of-speech": "noun",
+      "english": "country",
+      "arabic": "بلد",
+      "gender": "masculine",
+      "plural": "بلاد",
+      "cefr": "A1",
+      "ipa": "[ˈbalad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "959a4abb-f8e4-4022-ba35-557313cff7bd",
+      "part-of-speech": "noun",
+      "english": "state, country",
+      "arabic": "دولة",
+      "gender": "feminine",
+      "plural": "دول",
+      "cefr": "A2",
+      "ipa": "[ˈdawla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca2ba748-2e59-403e-a782-0690c77e2de5",
+      "part-of-speech": "noun",
+      "english": "world",
+      "arabic": "عالم",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʕaːlam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5181fde-6a4b-4ce8-98ef-65522df57740",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "arabic": "بحر",
+      "gender": "masculine",
+      "plural": "بحار",
+      "cefr": "A1",
+      "ipa": "[baħr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "725f8dac-e13f-479f-af26-33296176d55b",
+      "part-of-speech": "noun",
+      "english": "river",
+      "arabic": "نهر",
+      "gender": "masculine",
+      "plural": "أنهار",
+      "cefr": "A1",
+      "ipa": "[nahr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4804e010-fec6-4eb6-b15f-53516850d0d2",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "arabic": "جبل",
+      "gender": "masculine",
+      "plural": "جبال",
+      "cefr": "A1",
+      "ipa": "[ˈdʒabal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffc3a9f2-84dc-42e8-bc32-ba95436e6683",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "arabic": "بحيرة",
+      "gender": "feminine",
+      "plural": "بحيرات",
+      "cefr": "A2",
+      "ipa": "[buˈħajra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "570037c4-12eb-463b-beb9-64b48c49d75e",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "arabic": "غابة",
+      "gender": "feminine",
+      "plural": "غابات",
+      "cefr": "A2",
+      "ipa": "[ˈɣaːba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "13e3b15d-1bea-48ba-8c83-1cf3c445a0e8",
+      "part-of-speech": "noun",
+      "english": "desert",
+      "arabic": "صحراء",
+      "gender": "feminine",
+      "plural": "صحارى",
+      "cefr": "A1",
+      "ipa": "[sˤɑħˈraːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d94558c5-8bab-4439-9f06-21375bf2a188",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "arabic": "سماء",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[saˈmaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd8e8936-1f7e-4b68-83ab-a20b6e01b0d2",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "arabic": "شمس",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ʃams]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e752360-3745-4538-9cc7-b7e3c70d8a61",
+      "part-of-speech": "noun",
+      "english": "moon",
+      "arabic": "قمر",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈqɑmar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce923397-6dfa-47ae-bda4-bd378d17b4f0",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "arabic": "مطر",
+      "gender": "masculine",
+      "plural": "أمطار",
+      "cefr": "A1",
+      "ipa": "[ˈmɑtˤɑr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ec7416c-b183-4c2c-9551-4fc8cd6801d9",
+      "part-of-speech": "noun",
+      "english": "snow; ice",
+      "arabic": "ثلج",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[θaldʒ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0f7a331-4a5b-4bbe-a472-244561f8a0db",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "arabic": "ريح",
+      "gender": "feminine",
+      "plural": "رياح",
+      "cefr": "A2",
+      "ipa": "[riːħ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db5188e7-0841-40e8-a378-d513024c7bc4",
+      "part-of-speech": "noun",
+      "english": "air",
+      "arabic": "هواء",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[haˈwaːʔ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bf89c15-dcba-4f80-9169-ebf4ff126a38",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "arabic": "شجرة",
+      "gender": "feminine",
+      "plural": "أشجار",
+      "cefr": "A1",
+      "ipa": "[ˈʃadʒara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b210985-9572-40b8-b251-202018781143",
+      "part-of-speech": "noun",
+      "english": "flower; rose",
+      "arabic": "وردة",
+      "gender": "feminine",
+      "plural": "ورود",
+      "cefr": "A1",
+      "ipa": "[ˈwarda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0d01cac-92d0-4437-a223-1af2fe928e90",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "arabic": "كلب",
+      "gender": "masculine",
+      "plural": "كلاب",
+      "cefr": "A1",
+      "ipa": "[kalb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d75539d9-097a-4a29-b766-6aa8f8a26664",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "arabic": "قطة",
+      "gender": "feminine",
+      "plural": "قطط",
+      "cefr": "A1",
+      "ipa": "[ˈqitˤːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad5c6777-214d-4efc-9d35-bdfcbf3798eb",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "arabic": "حصان",
+      "gender": "masculine",
+      "plural": "أحصنة",
+      "cefr": "A2",
+      "ipa": "[ħiˈsˤɑːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6204194f-c5b9-43cb-a5a0-f4cf3525aab3",
+      "part-of-speech": "noun",
+      "english": "camel",
+      "arabic": "جمل",
+      "gender": "masculine",
+      "plural": "جمال",
+      "cefr": "A1",
+      "ipa": "[ˈdʒamal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2bbf68f-89a2-4bd4-8ca7-810aa3bfe50e",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "arabic": "طائر",
+      "gender": "masculine",
+      "plural": "طيور",
+      "cefr": "A2",
+      "ipa": "[ˈtˤɑːʔir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35bf7124-d319-4a08-b342-a4b1623f34c7",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "arabic": "بقرة",
+      "gender": "feminine",
+      "plural": "أبقار",
+      "cefr": "A2",
+      "ipa": "[ˈbɑqɑra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cd1eb38-c8e5-45cf-885d-6c5b564e7a93",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "arabic": "متجر",
+      "gender": "masculine",
+      "plural": "متاجر",
+      "cefr": "A1",
+      "ipa": "[ˈmatdʒar]",
+      "context": "also دكان dukkaan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a2d1111-1d87-416b-a844-bcc1fb37548b",
+      "part-of-speech": "noun",
+      "english": "market",
+      "arabic": "سوق",
+      "gender": "masculine",
+      "plural": "أسواق",
+      "cefr": "A1",
+      "ipa": "[suːq]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce1c7ff9-c867-4255-8a6d-3e7a7523663c",
+      "part-of-speech": "noun",
+      "english": "school",
+      "arabic": "مدرسة",
+      "gender": "feminine",
+      "plural": "مدارس",
+      "cefr": "A1",
+      "ipa": "[ˈmadrasa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bf13004-169e-4afe-9aa6-f7e297ca7097",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "arabic": "مستشفى",
+      "gender": "masculine",
+      "plural": "مستشفيات",
+      "cefr": "A1",
+      "ipa": "[musˈtaʃfaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd8a367d-a80d-454c-9e15-99530bd4b32f",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "arabic": "بنك",
+      "gender": "masculine",
+      "plural": "بنوك",
+      "cefr": "A1",
+      "ipa": "[bank]",
+      "context": "formal: مصرف maSrif",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8e00308-f865-402f-bb00-3830bfb2ea2e",
+      "part-of-speech": "noun",
+      "english": "post, mail",
+      "arabic": "بريد",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[baˈriːd]",
+      "context": "post office: مكتب البريد",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89bf38c8-62c1-43b8-a515-f1064fc2d746",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "arabic": "مطعم",
+      "gender": "masculine",
+      "plural": "مطاعم",
+      "cefr": "A1",
+      "ipa": "[ˈmɑtˤʕam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1e9e9cf-039d-4212-adb3-200266d78162",
+      "part-of-speech": "noun",
+      "english": "café",
+      "arabic": "مقهى",
+      "gender": "masculine",
+      "plural": "مقاه",
+      "cefr": "A1",
+      "ipa": "[ˈmɑqhaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "333b6efc-9ec6-4c35-8cfa-812495f2991a",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "arabic": "فندق",
+      "gender": "masculine",
+      "plural": "فنادق",
+      "cefr": "A1",
+      "ipa": "[ˈfunduq]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61f98e79-f059-47df-88cd-dfd671137af6",
+      "part-of-speech": "noun",
+      "english": "mosque",
+      "arabic": "مسجد",
+      "gender": "masculine",
+      "plural": "مساجد",
+      "cefr": "A1",
+      "ipa": "[ˈmasdʒid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09718d65-a28b-4ce7-b396-94638c5f2fa4",
+      "part-of-speech": "noun",
+      "english": "church",
+      "arabic": "كنيسة",
+      "gender": "feminine",
+      "plural": "كنائس",
+      "cefr": "A2",
+      "ipa": "[kaˈniːsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8644641a-bb49-4f87-aacb-1ae9e3e46336",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "arabic": "سينما",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsiːnamaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9903a60-03a7-4d3a-93fe-46befed8488f",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "arabic": "متحف",
+      "gender": "masculine",
+      "plural": "متاحف",
+      "cefr": "A2",
+      "ipa": "[ˈmatħaf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6445be5f-5ff2-4991-91d5-6b4558339acf",
+      "part-of-speech": "noun",
+      "english": "office; desk",
+      "arabic": "مكتب",
+      "gender": "masculine",
+      "plural": "مكاتب",
+      "cefr": "A1",
+      "ipa": "[ˈmaktab]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17b248a8-328e-4f19-98a8-2c35f12cce23",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "arabic": "عمل",
+      "gender": "masculine",
+      "plural": "أعمال",
+      "cefr": "A1",
+      "ipa": "[ˈʕamal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e20bec7a-4bab-4f6a-8ca5-fbb3d0df0d9b",
+      "part-of-speech": "noun",
+      "english": "money",
+      "arabic": "نقود",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[nuˈquːd]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1f3effc-be10-4cab-bdf3-bcc4fb5d994d",
+      "part-of-speech": "noun",
+      "english": "price",
+      "arabic": "سعر",
+      "gender": "masculine",
+      "plural": "أسعار",
+      "cefr": "A2",
+      "ipa": "[siʕr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbc64544-48c7-4557-a8db-b712ce5459a7",
+      "part-of-speech": "noun",
+      "english": "station",
+      "arabic": "محطة",
+      "gender": "feminine",
+      "plural": "محطات",
+      "cefr": "A1",
+      "ipa": "[maˈħɑtˤːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d362674-8c15-4c4f-a096-9ffb98a9155a",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "arabic": "مطار",
+      "gender": "masculine",
+      "plural": "مطارات",
+      "cefr": "A1",
+      "ipa": "[mɑˈtˤɑːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c6d7de8-6723-4a5a-85ec-641909ba7abd",
+      "part-of-speech": "noun",
+      "english": "university",
+      "arabic": "جامعة",
+      "gender": "feminine",
+      "plural": "جامعات",
+      "cefr": "A1",
+      "ipa": "[ˈdʒaːmiʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6429960-9c81-48c0-b173-e8df63718906",
+      "part-of-speech": "noun",
+      "english": "library; bookshop",
+      "arabic": "مكتبة",
+      "gender": "feminine",
+      "plural": "مكتبات",
+      "cefr": "A1",
+      "ipa": "[ˈmaktaba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "33a1d988-160b-4c3c-80d9-238fe6d1e361",
+      "part-of-speech": "noun",
+      "english": "train",
+      "arabic": "قطار",
+      "gender": "masculine",
+      "plural": "قطارات",
+      "cefr": "A1",
+      "ipa": "[qiˈtˤɑːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d19b8b7-0db3-42d6-81d0-2c468f618a30",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "arabic": "حافلة",
+      "gender": "feminine",
+      "plural": "حافلات",
+      "cefr": "A1",
+      "ipa": "[ˈħaːfila]",
+      "context": "spoken: باص baaS",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b5648a9-dcca-4aa8-8f06-083cfbaaeca7",
+      "part-of-speech": "noun",
+      "english": "car",
+      "arabic": "سيارة",
+      "gender": "feminine",
+      "plural": "سيارات",
+      "cefr": "A1",
+      "ipa": "[sajˈjaːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9388b0e7-132a-4314-807a-92eb970ad99a",
+      "part-of-speech": "noun",
+      "english": "taxi",
+      "arabic": "تاكسي",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtaːksiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff27008b-d477-43d8-b6c6-35806946f5dc",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "arabic": "طائرة",
+      "gender": "feminine",
+      "plural": "طائرات",
+      "cefr": "A1",
+      "ipa": "[ˈtˤɑːʔira]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "977ba40f-19d9-40f4-8413-293224c0582f",
+      "part-of-speech": "noun",
+      "english": "ship",
+      "arabic": "سفينة",
+      "gender": "feminine",
+      "plural": "سفن",
+      "cefr": "A2",
+      "ipa": "[saˈfiːna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cacc6986-546b-4029-b930-b4f1f3ce3f36",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "arabic": "دراجة",
+      "gender": "feminine",
+      "plural": "دراجات",
+      "cefr": "A1",
+      "ipa": "[darˈraːdʒa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "590f458d-3cc9-483b-bf05-d8ad2b345108",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "arabic": "تذكرة",
+      "gender": "feminine",
+      "plural": "تذاكر",
+      "cefr": "A1",
+      "ipa": "[ˈtaðkira]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "833237b3-709a-47b2-9719-14cf8dcf567b",
+      "part-of-speech": "noun",
+      "english": "map",
+      "arabic": "خريطة",
+      "gender": "feminine",
+      "plural": "خرائط",
+      "cefr": "A2",
+      "ipa": "[xaˈriːtˤɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c55a607e-39b5-4093-967d-a9827889b6c6",
+      "part-of-speech": "noun",
+      "english": "road, way",
+      "arabic": "طريق",
+      "gender": "masculine",
+      "plural": "طرق",
+      "cefr": "A1",
+      "ipa": "[tˤɑˈriːq]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbbc080b-f9d5-426e-92d2-5509b7b86f1f",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "arabic": "ملابس",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[maˈlaːbis]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "588bae98-9cff-4a3d-b50c-2eb7221cf54a",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "arabic": "قميص",
+      "gender": "masculine",
+      "plural": "قمصان",
+      "cefr": "A1",
+      "ipa": "[qɑˈmiːsˤ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd4f138b-d7d1-4594-b877-48fc90344dd6",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "arabic": "بنطلون",
+      "gender": "masculine",
+      "plural": "بنطلونات",
+      "cefr": "A1",
+      "ipa": "[bantˤɑˈluːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "721a85e7-e8bd-43af-a2fd-055492cddc72",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "arabic": "فستان",
+      "gender": "masculine",
+      "plural": "فساتين",
+      "cefr": "A1",
+      "ipa": "[fusˈtaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccb640c1-4b4e-4f79-b584-7ad4494452ee",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "arabic": "حذاء",
+      "gender": "masculine",
+      "plural": "أحذية",
+      "cefr": "A1",
+      "ipa": "[ħiˈðaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7c55f39-bb82-43b3-935b-552c55a404eb",
+      "part-of-speech": "noun",
+      "english": "coat",
+      "arabic": "معطف",
+      "gender": "masculine",
+      "plural": "معاطف",
+      "cefr": "A2",
+      "ipa": "[ˈmiʕtˤɑf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f11235ce-0469-4392-8a71-bc3cd0f8e028",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "arabic": "قبعة",
+      "gender": "feminine",
+      "plural": "قبعات",
+      "cefr": "A2",
+      "ipa": "[ˈqubːaʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b81527d6-ed16-47a9-bfee-3addad95a2d9",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "arabic": "حقيبة",
+      "gender": "feminine",
+      "plural": "حقائب",
+      "cefr": "A1",
+      "ipa": "[ħɑˈqiːba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0082cfe-a9c1-4cce-b4bc-2e0138358bd2",
+      "part-of-speech": "noun",
+      "english": "book",
+      "arabic": "كتاب",
+      "gender": "masculine",
+      "plural": "كتب",
+      "cefr": "A1",
+      "ipa": "[kiˈtaːb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "785e54a6-fb31-459a-b2b0-d3381107bd78",
+      "part-of-speech": "noun",
+      "english": "pen, pencil",
+      "arabic": "قلم",
+      "gender": "masculine",
+      "plural": "أقلام",
+      "cefr": "A1",
+      "ipa": "[ˈqɑlam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9d4f649-7762-4bc1-a4f5-78563c95420e",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "arabic": "ورق",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈwarɑq]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "274338f0-b352-416f-a412-eb7d6cc309b5",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "arabic": "هاتف",
+      "gender": "masculine",
+      "plural": "هواتف",
+      "cefr": "A1",
+      "ipa": "[ˈhaːtif]",
+      "context": "mobile phone: هاتف محمول, or جوال jawwaal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df478b26-a016-4f2c-b709-9ede7884c4e4",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "arabic": "حاسوب",
+      "gender": "masculine",
+      "plural": "حواسيب",
+      "cefr": "A1",
+      "ipa": "[ħaːˈsuːb]",
+      "context": "also كمبيوتر kumbyuutar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c68469a6-a004-4c43-8a0c-a87ca60de55b",
+      "part-of-speech": "noun",
+      "english": "letter; message",
+      "arabic": "رسالة",
+      "gender": "feminine",
+      "plural": "رسائل",
+      "cefr": "A1",
+      "ipa": "[riˈsaːla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0eece5aa-1ba7-4872-bdfd-65cb906fc2b8",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "arabic": "جريدة",
+      "gender": "feminine",
+      "plural": "جرائد",
+      "cefr": "A2",
+      "ipa": "[dʒaˈriːda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c95d83f9-2dbd-408c-b5e0-015e8f5fd9c7",
+      "part-of-speech": "noun",
+      "english": "question",
+      "arabic": "سؤال",
+      "gender": "masculine",
+      "plural": "أسئلة",
+      "cefr": "A1",
+      "ipa": "[suˈʔaːl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25b173fd-332f-4fd3-a091-7a5f8d35bd5f",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "arabic": "جواب",
+      "gender": "masculine",
+      "plural": "أجوبة",
+      "cefr": "A1",
+      "ipa": "[dʒaˈwaːb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21bd03d5-7b85-431e-ad21-3a17507bf586",
+      "part-of-speech": "noun",
+      "english": "word",
+      "arabic": "كلمة",
+      "gender": "feminine",
+      "plural": "كلمات",
+      "cefr": "A1",
+      "ipa": "[ˈkalima]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97534dfb-4332-42d9-b93f-b0c0dc929ea7",
+      "part-of-speech": "noun",
+      "english": "language",
+      "arabic": "لغة",
+      "gender": "feminine",
+      "plural": "لغات",
+      "cefr": "A1",
+      "ipa": "[ˈluɣa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a954310e-23ea-4725-9a79-d6cfcb6ee623",
+      "part-of-speech": "noun",
+      "english": "Arabic (language)",
+      "arabic": "العربية",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ʔalʕaraˈbijːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cf9c6d9-d5e6-4938-82bf-2aa496ec377b",
+      "part-of-speech": "noun",
+      "english": "English (language)",
+      "arabic": "الإنجليزية",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ʔalʔindʒliːˈzijːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91b70675-80c5-4714-9004-dc03f6400607",
+      "part-of-speech": "noun",
+      "english": "music",
+      "arabic": "موسيقى",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[muːˈsiːqɑː]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c511fa49-2301-4883-8fa5-48dd9af23614",
+      "part-of-speech": "noun",
+      "english": "film",
+      "arabic": "فيلم",
+      "gender": "masculine",
+      "plural": "أفلام",
+      "cefr": "A1",
+      "ipa": "[fiːlm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cefd458-fc8b-47bd-bdf5-dce053bab4ac",
+      "part-of-speech": "noun",
+      "english": "game; toy",
+      "arabic": "لعبة",
+      "gender": "feminine",
+      "plural": "ألعاب",
+      "cefr": "A2",
+      "ipa": "[ˈluʕba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92df2bf7-f22e-4f95-ad4b-a74ae1d66e0d",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "arabic": "رياضة",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[riˈjɑːdˤɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc57bbf7-5c77-4183-817c-43957606286c",
+      "part-of-speech": "noun",
+      "english": "ball",
+      "arabic": "كرة",
+      "gender": "feminine",
+      "plural": "كرات",
+      "cefr": "A2",
+      "ipa": "[ˈkura]",
+      "context": "football: كرة القدم",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ac88057-4645-42f2-93d4-f04d2fdcc65e",
+      "part-of-speech": "noun",
+      "english": "colour",
+      "arabic": "لون",
+      "gender": "masculine",
+      "plural": "ألوان",
+      "cefr": "A1",
+      "ipa": "[lawn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "968f09e9-08fd-4b73-befc-ee50e1b2f477",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "arabic": "شيء",
+      "gender": "masculine",
+      "plural": "أشياء",
+      "cefr": "A1",
+      "ipa": "[ʃajʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7923fe8a-8dd5-4045-a06a-43e17f14917c",
+      "part-of-speech": "noun",
+      "english": "gift, present",
+      "arabic": "هدية",
+      "gender": "feminine",
+      "plural": "هدايا",
+      "cefr": "A2",
+      "ipa": "[haˈdijːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9db79bab-e72c-42f1-b1eb-2c0cd183a4a0",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "arabic": "عطلة",
+      "gender": "feminine",
+      "plural": "عطلات",
+      "cefr": "A2",
+      "ipa": "[ˈʕutˤla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35709468-e039-4f43-be83-d317baf34f16",
+      "part-of-speech": "noun",
+      "english": "festival, holiday",
+      "arabic": "عيد",
+      "gender": "masculine",
+      "plural": "أعياد",
+      "cefr": "A2",
+      "ipa": "[ʕiːd]",
+      "context": "عيد مبارك: happy holiday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0010021-3931-48a6-8082-e184d56f0e2d",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "arabic": "عيد ميلاد",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʕiːd miːˈlaːd]",
+      "context": "عيد ميلاد سعيد: happy birthday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04f70eba-b2c7-42ef-ad3d-e5545c0ac514",
+      "part-of-speech": "noun",
+      "english": "party",
+      "arabic": "حفلة",
+      "gender": "feminine",
+      "plural": "حفلات",
+      "cefr": "A2",
+      "ipa": "[ˈħafla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7affdd23-8dd6-4b09-8504-c265363073a4",
+      "part-of-speech": "noun",
+      "english": "news",
+      "arabic": "أخبار",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ʔaxˈbaːr]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f44e402-2f12-41ae-a737-45e9860ebe5e",
+      "part-of-speech": "noun",
+      "english": "story",
+      "arabic": "قصة",
+      "gender": "feminine",
+      "plural": "قصص",
+      "cefr": "A2",
+      "ipa": "[ˈqisˤːɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc130320-8fd1-4c45-9ec4-d377e760395d",
+      "part-of-speech": "noun",
+      "english": "song",
+      "arabic": "أغنية",
+      "gender": "feminine",
+      "plural": "أغان",
+      "cefr": "A1",
+      "ipa": "[ˈʔuɣnija]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ccb21c3-a3ab-4594-9285-af2dcf98106e",
+      "part-of-speech": "noun",
+      "english": "picture, photo",
+      "arabic": "صورة",
+      "gender": "feminine",
+      "plural": "صور",
+      "cefr": "A1",
+      "ipa": "[ˈsˤuːra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3463b8ce-d129-49e3-a1e8-f2f174e4cf85",
+      "part-of-speech": "noun",
+      "english": "class",
+      "arabic": "صف",
+      "gender": "masculine",
+      "plural": "صفوف",
+      "cefr": "A2",
+      "ipa": "[sˤɑfː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b17e83ff-f45d-4ea3-81b1-e22c99762bd0",
+      "part-of-speech": "noun",
+      "english": "exam",
+      "arabic": "امتحان",
+      "gender": "masculine",
+      "plural": "امتحانات",
+      "cefr": "A2",
+      "ipa": "[ʔimtiˈħaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adad455d-a8f1-41cf-8d75-f03d53a20b52",
+      "part-of-speech": "noun",
+      "english": "light",
+      "arabic": "نور",
+      "gender": "masculine",
+      "plural": "أنوار",
+      "cefr": "A2",
+      "ipa": "[nuːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6986768d-06b1-4dca-912c-26cee4faded8",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "arabic": "نار",
+      "gender": "feminine",
+      "plural": "نيران",
+      "cefr": "A2",
+      "ipa": "[naːr]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbd2c653-8afd-40dd-904b-d74d49588d82",
+      "part-of-speech": "noun",
+      "english": "beginning",
+      "arabic": "بداية",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[biˈdaːja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d900d2c-af16-4774-ae96-590bd7fb2b1c",
+      "part-of-speech": "noun",
+      "english": "end",
+      "arabic": "نهاية",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[niˈhaːja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c00633c-a054-48b3-a4ed-dd7ae9a557c6",
+      "part-of-speech": "noun",
+      "english": "side",
+      "arabic": "جانب",
+      "gender": "masculine",
+      "plural": "جوانب",
+      "cefr": "A2",
+      "ipa": "[ˈdʒaːnib]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9acbdf3c-9142-4919-8d37-a5c5024dbab5",
+      "part-of-speech": "noun",
+      "english": "page",
+      "arabic": "صفحة",
+      "gender": "feminine",
+      "plural": "صفحات",
+      "cefr": "A2",
+      "ipa": "[ˈsˤɑfħa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89b77766-ff48-4499-8ef2-091c240fd8ab",
+      "part-of-speech": "noun",
+      "english": "number",
+      "arabic": "رقم",
+      "gender": "masculine",
+      "plural": "أرقام",
+      "cefr": "A1",
+      "ipa": "[rɑqm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7f24902-7ea2-4cd1-86c3-c036b5792cf8",
+      "part-of-speech": "noun",
+      "english": "part",
+      "arabic": "جزء",
+      "gender": "masculine",
+      "plural": "أجزاء",
+      "cefr": "A2",
+      "ipa": "[dʒuzʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bd10e8d-bcc7-4278-92a5-5d6b67a6b454",
+      "part-of-speech": "noun",
+      "english": "life",
+      "arabic": "حياة",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ħaˈjaːh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "394cea2c-4f56-4348-8dcf-32e3756e6c7f",
+      "part-of-speech": "noun",
+      "english": "love",
+      "arabic": "حب",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ħub]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8dc5097b-8df5-4ac9-a5a3-83be283fc2b4",
+      "part-of-speech": "noun",
+      "english": "health",
+      "arabic": "صحة",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈsˤiħːa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2685530-8646-401b-ac50-b56980335b85",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "arabic": "ألم",
+      "gender": "masculine",
+      "plural": "آلام",
+      "cefr": "A2",
+      "ipa": "[ˈʔalam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7399eb89-048c-41b9-978d-37939c63d497",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "arabic": "دواء",
+      "gender": "masculine",
+      "plural": "أدوية",
+      "cefr": "A2",
+      "ipa": "[daˈwaːʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb8d4491-e8f7-4765-8a7e-363f9a3e2a53",
+      "part-of-speech": "noun",
+      "english": "peace",
+      "arabic": "سلام",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[saˈlaːm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db040973-5563-429e-88bf-5c18015d4ece",
+      "part-of-speech": "noun",
+      "english": "one",
+      "arabic": "واحد",
+      "cefr": "A1",
+      "ipa": "[ˈwaːħid]",
+      "context": "feminine: واحدة waaHida",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72a4e2ed-0699-4280-b6e8-75040d5ab1d0",
+      "part-of-speech": "noun",
+      "english": "two",
+      "arabic": "اثنان",
+      "cefr": "A1",
+      "ipa": "[ʔiθˈnaːn]",
+      "context": "feminine: اثنتان ithnataan",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a98a80e-e87e-485e-8591-a7720b7c022f",
+      "part-of-speech": "noun",
+      "english": "three",
+      "arabic": "ثلاثة",
+      "cefr": "A1",
+      "ipa": "[θaˈlaːθa]",
+      "context": "3–10 take the opposite gender form: ثلاثة كتب, ثلاث نساء",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5333a6e0-40a4-4172-9c3a-e1d6f3c1867b",
+      "part-of-speech": "noun",
+      "english": "four",
+      "arabic": "أربعة",
+      "cefr": "A1",
+      "ipa": "[ˈʔarbaʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8898d54d-d2d9-460c-accf-07756b77f5b0",
+      "part-of-speech": "noun",
+      "english": "five",
+      "arabic": "خمسة",
+      "cefr": "A1",
+      "ipa": "[ˈxamsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bdc09ce-4c6f-480a-99c9-d99f4a61eee8",
+      "part-of-speech": "noun",
+      "english": "six",
+      "arabic": "ستة",
+      "cefr": "A1",
+      "ipa": "[ˈsitːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39f39b91-c29c-4a56-99d5-7256044f45ac",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "arabic": "سبعة",
+      "cefr": "A1",
+      "ipa": "[ˈsabʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ee522f4-37ea-493f-a936-8d29e3e7148d",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "arabic": "ثمانية",
+      "cefr": "A1",
+      "ipa": "[θaˈmaːnija]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c16f738-1477-47a2-aa64-7bbc25f8be59",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "arabic": "تسعة",
+      "cefr": "A1",
+      "ipa": "[ˈtisʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a0100e8-f972-4ca9-8e3d-34373e2322cb",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "arabic": "عشرة",
+      "cefr": "A1",
+      "ipa": "[ˈʕaʃara]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4b18684-86de-48f0-aa9d-625a89678da7",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "arabic": "أحد عشر",
+      "cefr": "A1",
+      "ipa": "[ˈʔaħada ˈʕaʃar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c14c31bf-023b-4775-9b1d-52d6509ef960",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "arabic": "اثنا عشر",
+      "cefr": "A1",
+      "ipa": "[ˈʔiθnaː ˈʕaʃar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a122466b-9f32-4e46-9528-0a808d30bdc5",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "arabic": "عشرون",
+      "cefr": "A1",
+      "ipa": "[ʕiʃˈruːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3813fc3a-b605-4f2f-8fe4-0601b1fcb88f",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "arabic": "ثلاثون",
+      "cefr": "A1",
+      "ipa": "[θalaːˈθuːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e2df458-49a1-44cf-aa19-87a2d8b97d14",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "arabic": "مئة",
+      "cefr": "A1",
+      "ipa": "[ˈmiʔa]",
+      "context": "also spelled مائة",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abcd89f3-5605-406f-a71d-c92dd081770d",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "arabic": "ألف",
+      "cefr": "A2",
+      "ipa": "[ʔalf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16f4e337-98d6-4a76-bc22-ddbaf7373336",
+      "part-of-speech": "noun",
+      "english": "half",
+      "arabic": "نصف",
+      "cefr": "A1",
+      "ipa": "[nisˤf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1be08b7-3116-4b1b-b6ae-13b0fdc38057",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "arabic": "أنا",
+      "cefr": "A1",
+      "ipa": "[ˈʔanaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1fa5adb-da78-414d-8f6f-5f69c4a3b340",
+      "part-of-speech": "pronoun",
+      "english": "you (to a man)",
+      "arabic": "أنت",
+      "cefr": "A1",
+      "ipa": "[ˈʔanta]",
+      "context": "same spelling as أنت anti, to a woman",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47bd822f-9aa6-4fd6-abf3-48a4a1b392f3",
+      "part-of-speech": "pronoun",
+      "english": "you (to a woman)",
+      "arabic": "أنت",
+      "cefr": "A1",
+      "ipa": "[ˈʔanti]",
+      "context": "same spelling as أنت anta, to a man",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d4f4f5c-a80a-4951-b73a-a5cbc581d182",
+      "part-of-speech": "pronoun",
+      "english": "he; it (masculine)",
+      "arabic": "هو",
+      "cefr": "A1",
+      "ipa": "[ˈhuwa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a6e45f8-3380-459b-81a4-fe550953c38c",
+      "part-of-speech": "pronoun",
+      "english": "she; it (feminine)",
+      "arabic": "هي",
+      "cefr": "A1",
+      "ipa": "[ˈhija]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c88c3e4-02e2-422f-a585-595a770b7e5d",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "arabic": "نحن",
+      "cefr": "A1",
+      "ipa": "[ˈnaħnu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ec1528e-019c-415c-8bbb-49eba0a1091a",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "arabic": "أنتم",
+      "cefr": "A1",
+      "ipa": "[ˈʔantum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b2c276a-cdd0-418d-862c-4ddae9686e8a",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "arabic": "هم",
+      "cefr": "A1",
+      "ipa": "[hum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62e2ce83-7a35-4e11-84cc-59ca200aaa36",
+      "part-of-speech": "pronoun",
+      "english": "this (masculine)",
+      "arabic": "هذا",
+      "cefr": "A1",
+      "ipa": "[ˈhaːðaː]",
+      "context": "written without the long a after h",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ddf279d-34d5-4734-b0bb-e60e61ffd57c",
+      "part-of-speech": "pronoun",
+      "english": "this (feminine)",
+      "arabic": "هذه",
+      "cefr": "A1",
+      "ipa": "[ˈhaːðihi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "195faf97-1ff9-436e-9d11-47f5f1d1cea7",
+      "part-of-speech": "pronoun",
+      "english": "that (masculine)",
+      "arabic": "ذلك",
+      "cefr": "A1",
+      "ipa": "[ˈðaːlika]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfc374ed-bf89-4626-81fd-618bcc4d87dd",
+      "part-of-speech": "pronoun",
+      "english": "that (feminine)",
+      "arabic": "تلك",
+      "cefr": "A1",
+      "ipa": "[ˈtilka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "486d7aaf-d32c-4167-8b6e-f3860d295c45",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "arabic": "ماذا",
+      "cefr": "A1",
+      "ipa": "[ˈmaːðaː]",
+      "context": "before a noun: ما maa (ما اسمك؟ what's your name?)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b0198af-8ff0-4e3c-a73f-0de0bf9d9776",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "arabic": "من",
+      "cefr": "A1",
+      "ipa": "[man]",
+      "context": "same spelling as من min, from",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bf392b8-cebb-411e-aab5-2b4a7ab4b477",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "arabic": "أي",
+      "cefr": "A1",
+      "ipa": "[ʔajː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b99f751e-f0f3-40f1-a300-65a1ebed2071",
+      "part-of-speech": "pronoun",
+      "english": "all, every",
+      "arabic": "كل",
+      "cefr": "A1",
+      "ipa": "[kulː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a2b0719-c962-42e1-91c3-09139cc1c419",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "arabic": "لا شيء",
+      "cefr": "A2",
+      "ipa": "[laː ʃajʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cd74c0e-5bee-492b-9b4c-d3ea0a5d93e5",
+      "part-of-speech": "pronoun",
+      "english": "nobody",
+      "arabic": "لا أحد",
+      "cefr": "A2",
+      "ipa": "[laː ˈʔaħad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "825d54c1-c9b2-45cb-8e36-4230ef263519",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "arabic": "كان",
+      "cefr": "A1",
+      "ipa": "[ˈkaːna]",
+      "context": "present: يكون yakuunu; \"is\" is usually left out: أنا طالب, I am a student",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0878e829-941f-4404-9d72-cb91c0d60eda",
+      "part-of-speech": "verb",
+      "english": "to work; to do",
+      "arabic": "عمل",
+      "cefr": "A1",
+      "ipa": "[ˈʕamila]",
+      "context": "present: يعمل ya`malu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4d2082f-bdb7-4ee5-ad30-b7e38c544980",
+      "part-of-speech": "verb",
+      "english": "to do",
+      "arabic": "فعل",
+      "cefr": "A1",
+      "ipa": "[ˈfaʕala]",
+      "context": "present: يفعل yaf`alu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1b7b01d-d805-4c8e-aa19-8b2a41a41a41",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "arabic": "أراد",
+      "cefr": "A1",
+      "ipa": "[ʔaˈraːda]",
+      "context": "present: يريد yuriidu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a48eda8-5789-4cc3-8015-379ec68e31ef",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "arabic": "عرف",
+      "cefr": "A1",
+      "ipa": "[ˈʕarafa]",
+      "context": "present: يعرف ya`rifu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da1005c2-2805-4fdc-ab53-27205234509a",
+      "part-of-speech": "verb",
+      "english": "can, to be able",
+      "arabic": "استطاع",
+      "cefr": "A1",
+      "ipa": "[ʔistɑˈtˤɑːʕa]",
+      "context": "present: يستطيع yastaTii`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7059f84-1a18-4647-b663-4078b2331452",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "arabic": "ذهب",
+      "cefr": "A1",
+      "ipa": "[ˈðahaba]",
+      "context": "present: يذهب yadh-habu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "278fc036-adf9-4cde-a7cd-d1356261338b",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "arabic": "جاء",
+      "cefr": "A1",
+      "ipa": "[ˈdʒaːʔa]",
+      "context": "present: يجيء yajii'u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25af490a-79c2-48e2-a679-c7cfb6ececbd",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "arabic": "رأى",
+      "cefr": "A1",
+      "ipa": "[ˈraʔaː]",
+      "context": "present: يرى yaraa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b5148c7-554f-430d-887f-0c6801e3121a",
+      "part-of-speech": "verb",
+      "english": "to look",
+      "arabic": "نظر",
+      "cefr": "A1",
+      "ipa": "[ˈnɑðˤɑra]",
+      "context": "present: ينظر yanZuru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5861130c-3a62-4e5c-8068-a08019d231ac",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "arabic": "سمع",
+      "cefr": "A1",
+      "ipa": "[ˈsamiʕa]",
+      "context": "present: يسمع yasma`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "046ef9bd-1f05-42f9-8c38-78030e069cc3",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "arabic": "استمع",
+      "cefr": "A1",
+      "ipa": "[ʔisˈtamaʕa]",
+      "context": "present: يستمع yastami`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fc5b01c-d6fe-4498-80f1-7b038bdb4b31",
+      "part-of-speech": "verb",
+      "english": "to speak",
+      "arabic": "تكلم",
+      "cefr": "A1",
+      "ipa": "[taˈkalːama]",
+      "context": "present: يتكلم yatakallamu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fd730f3-5376-4c99-b5e2-4aa4f9fd01d8",
+      "part-of-speech": "verb",
+      "english": "to say",
+      "arabic": "قال",
+      "cefr": "A1",
+      "ipa": "[ˈqɑːla]",
+      "context": "present: يقول yaquulu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06fb5055-f95f-4a3d-b49a-e8c03ffdcb62",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "arabic": "سأل",
+      "cefr": "A1",
+      "ipa": "[ˈsaʔala]",
+      "context": "present: يسأل yas'alu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8533a012-c030-4382-8557-94dc06c540bd",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "arabic": "أجاب",
+      "cefr": "A1",
+      "ipa": "[ʔaˈdʒaːba]",
+      "context": "present: يجيب yujiibu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1ed84ef-9f88-4710-ba38-5290e512c812",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "arabic": "أكل",
+      "cefr": "A1",
+      "ipa": "[ˈʔakala]",
+      "context": "present: يأكل ya'kulu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a29e873f-2f2c-4aa4-a59f-418e057546b0",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "arabic": "شرب",
+      "cefr": "A1",
+      "ipa": "[ˈʃariba]",
+      "context": "present: يشرب yashrabu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa36cea0-3ece-4c85-8b86-5dbc7a5491db",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "arabic": "نام",
+      "cefr": "A1",
+      "ipa": "[ˈnaːma]",
+      "context": "present: ينام yanaamu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "207c2eba-0eaf-42b8-8db3-4afef35039b1",
+      "part-of-speech": "verb",
+      "english": "to live, reside",
+      "arabic": "سكن",
+      "cefr": "A1",
+      "ipa": "[ˈsakana]",
+      "context": "present: يسكن yaskunu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e28fce9-a1bf-4727-853d-e1b14950d560",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "arabic": "عاش",
+      "cefr": "A2",
+      "ipa": "[ˈʕaːʃa]",
+      "context": "present: يعيش ya`iishu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65427199-789d-45b9-a63a-afa60dd1376f",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "arabic": "أحب",
+      "cefr": "A1",
+      "ipa": "[ʔaˈħabːa]",
+      "context": "present: يحب yuHibbu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80099b9a-5e80-4915-887e-4b8d836e6cf7",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "arabic": "تعلم",
+      "cefr": "A1",
+      "ipa": "[taˈʕalːama]",
+      "context": "present: يتعلم yata`allamu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d0d61ad-df71-43e3-83b3-50df483aa656",
+      "part-of-speech": "verb",
+      "english": "to study",
+      "arabic": "درس",
+      "cefr": "A1",
+      "ipa": "[ˈdarasa]",
+      "context": "present: يدرس yadrusu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cc25062-f0aa-4864-b135-67fe7a2bf230",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "arabic": "قرأ",
+      "cefr": "A1",
+      "ipa": "[ˈqɑraʔa]",
+      "context": "present: يقرأ yaqra'u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46374cf9-3ad7-4d63-89d4-0ef5de5ea94d",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "arabic": "كتب",
+      "cefr": "A1",
+      "ipa": "[ˈkataba]",
+      "context": "present: يكتب yaktubu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e235a47-8917-420d-9252-206ffee8eab9",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "arabic": "اشترى",
+      "cefr": "A1",
+      "ipa": "[ˈʔiʃtaraː]",
+      "context": "present: يشتري yashtarii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0496ba35-52eb-481f-b889-0d1a3a3f31a5",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "arabic": "دفع",
+      "cefr": "A1",
+      "ipa": "[ˈdafaʕa]",
+      "context": "present: يدفع yadfa`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bbe31fa-bbab-4480-81cb-584c5d938c35",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "arabic": "باع",
+      "cefr": "A2",
+      "ipa": "[ˈbaːʕa]",
+      "context": "present: يبيع yabii`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3ae0fd5-39e7-4ca8-8283-091cb454ff17",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "arabic": "أعطى",
+      "cefr": "A1",
+      "ipa": "[ˈʔaʕtˤɑː]",
+      "context": "present: يعطي yu`Tii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "181c0da2-e1d2-4e1d-9785-73627b516e0e",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "arabic": "أخذ",
+      "cefr": "A1",
+      "ipa": "[ˈʔaxaða]",
+      "context": "present: يأخذ ya'khudhu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88b5d663-cd24-4724-8255-1e255e718215",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "arabic": "فتح",
+      "cefr": "A1",
+      "ipa": "[ˈfataħa]",
+      "context": "present: يفتح yaftaHu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a98c9a1f-cfe7-41e4-a49c-531e52edd0a5",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "arabic": "أغلق",
+      "cefr": "A1",
+      "ipa": "[ˈʔaɣlɑqɑ]",
+      "context": "present: يغلق yughliqu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d6029fb-8a5a-4569-9cee-f4c54fe73e26",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "arabic": "طبخ",
+      "cefr": "A1",
+      "ipa": "[ˈtˤɑbaxa]",
+      "context": "present: يطبخ yaTbukhu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aacdef03-ca6d-4864-9c55-8738b6f190ee",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "arabic": "سافر",
+      "cefr": "A1",
+      "ipa": "[ˈsaːfara]",
+      "context": "present: يسافر yusaafiru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbf98eb7-1bad-4442-bc5f-d8c0f81fbcb9",
+      "part-of-speech": "verb",
+      "english": "to drive; to lead",
+      "arabic": "قاد",
+      "cefr": "A2",
+      "ipa": "[ˈqɑːda]",
+      "context": "present: يقود yaquudu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "599fb1ab-a078-4f3c-b7d5-18cce66b5538",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "arabic": "فهم",
+      "cefr": "A1",
+      "ipa": "[ˈfahima]",
+      "context": "present: يفهم yafhamu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89969cf2-e819-418c-84c6-6fdd68e932da",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "arabic": "فكر",
+      "cefr": "A1",
+      "ipa": "[ˈfakːara]",
+      "context": "present: يفكر yufakkiru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7e2b31e-9c7b-46c9-9250-064b229f685a",
+      "part-of-speech": "verb",
+      "english": "to begin",
+      "arabic": "بدأ",
+      "cefr": "A2",
+      "ipa": "[ˈbadaʔa]",
+      "context": "present: يبدأ yabda'u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c374810-f1ac-4a93-89f1-dffa85414a46",
+      "part-of-speech": "verb",
+      "english": "to finish, end",
+      "arabic": "انتهى",
+      "cefr": "A2",
+      "ipa": "[ˈʔintahaː]",
+      "context": "present: ينتهي yantahii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02941a9d-8e46-4ac6-b4b0-efd633cace63",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "arabic": "لعب",
+      "cefr": "A1",
+      "ipa": "[ˈlaʕiba]",
+      "context": "present: يلعب yal`abu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aab289f8-e9ca-4a90-8148-8a6c5c025074",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "arabic": "سبح",
+      "cefr": "A1",
+      "ipa": "[ˈsabaħa]",
+      "context": "present: يسبح yasbaHu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e147bc6-6257-4b66-a9e3-bf83202333b9",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "arabic": "ركض",
+      "cefr": "A1",
+      "ipa": "[ˈrakɑdˤɑ]",
+      "context": "present: يركض yarkuDu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b0d0012-ba04-440d-b76b-ab0627fff2d7",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "arabic": "جلس",
+      "cefr": "A1",
+      "ipa": "[ˈdʒalasa]",
+      "context": "present: يجلس yajlisu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6674c987-9b49-455f-878f-c9149e3729b8",
+      "part-of-speech": "verb",
+      "english": "to stand; to stop",
+      "arabic": "وقف",
+      "cefr": "A2",
+      "ipa": "[ˈwɑqɑfa]",
+      "context": "present: يقف yaqifu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d31d617-366a-4247-a80f-03273dfbe0e0",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "arabic": "انتظر",
+      "cefr": "A1",
+      "ipa": "[ʔinˈtɑðˤɑra]",
+      "context": "present: ينتظر yantaZiru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f152379f-4895-4145-b589-d0014b229e29",
+      "part-of-speech": "verb",
+      "english": "to look for, search",
+      "arabic": "بحث",
+      "cefr": "A1",
+      "ipa": "[ˈbaħaθa]",
+      "context": "present: يبحث عن yabHathu `an",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9d9acb9-9182-4de8-879f-6a9cd7574aa7",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "arabic": "وجد",
+      "cefr": "A1",
+      "ipa": "[ˈwadʒada]",
+      "context": "present: يجد yajidu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a9ff85e-8ab4-4aba-8d5e-190e4838b8ed",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "arabic": "ساعد",
+      "cefr": "A1",
+      "ipa": "[ˈsaːʕada]",
+      "context": "present: يساعد yusaa`idu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82637bf3-0492-486a-aad2-c49b51777dc2",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "arabic": "أحضر",
+      "cefr": "A2",
+      "ipa": "[ˈʔaħdˤɑra]",
+      "context": "present: يحضر yuHDiru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3d2f244-359b-4f81-a12d-2813d18f9fee",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "arabic": "وضع",
+      "cefr": "A2",
+      "ipa": "[ˈwɑdˤɑʕa]",
+      "context": "present: يضع yaDa`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c79d4af-07a4-49df-aab7-88991b93f37c",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "arabic": "غسل",
+      "cefr": "A2",
+      "ipa": "[ˈɣasala]",
+      "context": "present: يغسل yaghsilu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1bdc748-b4e0-4862-86a0-66b454c84fac",
+      "part-of-speech": "verb",
+      "english": "to call (on the phone)",
+      "arabic": "اتصل",
+      "cefr": "A1",
+      "ipa": "[ʔitˈtɑsˤɑla]",
+      "context": "present: يتصل ب yattaSilu bi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ccb35c9d-ac47-44b5-9a4e-04fde8eb2ddd",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "arabic": "رقص",
+      "cefr": "A1",
+      "ipa": "[ˈrɑqɑsˤɑ]",
+      "context": "present: يرقص yarquSu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a03ee9a-c652-41f9-8aca-673b61736a9e",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "arabic": "غنى",
+      "cefr": "A1",
+      "ipa": "[ˈɣanːaː]",
+      "context": "present: يغني yughannii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "763dd9de-2cb5-4803-80c3-74974c797b4a",
+      "part-of-speech": "verb",
+      "english": "to come back, return",
+      "arabic": "رجع",
+      "cefr": "A2",
+      "ipa": "[ˈradʒaʕa]",
+      "context": "present: يرجع yarji`u",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67ecb320-a05c-42aa-8af7-d1f0ed5481fc",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "arabic": "نسي",
+      "cefr": "A2",
+      "ipa": "[ˈnasija]",
+      "context": "present: ينسى yansaa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e9c96cd-0b16-4be2-ae8b-63a37dec48fa",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "arabic": "استخدم",
+      "cefr": "A2",
+      "ipa": "[ʔisˈtaxdama]",
+      "context": "present: يستخدم yastakhdimu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "803d68ac-abfb-4171-bbcb-028f43068afd",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "arabic": "حاول",
+      "cefr": "A2",
+      "ipa": "[ˈħaːwala]",
+      "context": "present: يحاول yuHaawilu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53d7fb97-64f9-4d4d-b114-7130048d69f8",
+      "part-of-speech": "verb",
+      "english": "to stay",
+      "arabic": "بقي",
+      "cefr": "A2",
+      "ipa": "[ˈbɑqija]",
+      "context": "present: يبقى yabqaa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35a3292d-94cb-4384-8493-45934d4a2342",
+      "part-of-speech": "verb",
+      "english": "to hate",
+      "arabic": "كره",
+      "cefr": "A2",
+      "ipa": "[ˈkariha]",
+      "context": "present: يكره yakrahu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e75d89e-ddd2-4c73-894c-42f7aff7c864",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "arabic": "شعر",
+      "cefr": "A2",
+      "ipa": "[ˈʃaʕara]",
+      "context": "present: يشعر ب yash`uru bi; same spelling as شعر sha`r, hair",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "788c94c3-95e7-4028-8b84-555f47134460",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "arabic": "نظف",
+      "cefr": "A2",
+      "ipa": "[ˈnɑðˤːɑfa]",
+      "context": "present: ينظف yunaZZifu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "704bf9ee-314f-4629-8e71-55d46f5dd3ab",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "arabic": "زار",
+      "cefr": "A2",
+      "ipa": "[ˈzaːra]",
+      "context": "present: يزور yazuuru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4ee456d-c1a6-49f9-8ef1-c5e5ae6ce5c4",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "arabic": "تذكر",
+      "cefr": "A2",
+      "ipa": "[taˈðakːara]",
+      "context": "present: يتذكر yatadhakkaru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0e687b2-7625-4929-b0ab-2c1c34123b93",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "arabic": "شرح",
+      "cefr": "A2",
+      "ipa": "[ˈʃaraħa]",
+      "context": "present: يشرح yashraHu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfc087e6-def0-404a-abc8-6779b7a3024a",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "arabic": "قابل",
+      "cefr": "A2",
+      "ipa": "[ˈqɑːbala]",
+      "context": "present: يقابل yuqaabilu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4731d883-41fb-4f68-a506-f2897e4055c5",
+      "part-of-speech": "verb",
+      "english": "to be late",
+      "arabic": "تأخر",
+      "cefr": "A2",
+      "ipa": "[taˈʔaxːara]",
+      "context": "present: يتأخر yata'akhkharu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b54d716-afc0-4e37-8388-ca9394031460",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "arabic": "استراح",
+      "cefr": "A2",
+      "ipa": "[ʔistaˈraːħa]",
+      "context": "present: يستريح yastariiHu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e361b4e-3ec6-42da-8086-055cb2644372",
+      "part-of-speech": "verb",
+      "english": "to go in, enter",
+      "arabic": "دخل",
+      "cefr": "A1",
+      "ipa": "[ˈdaxala]",
+      "context": "present: يدخل yadkhulu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f70028c6-5f52-44fe-b6d1-c2c28aa3432c",
+      "part-of-speech": "verb",
+      "english": "to go out, leave",
+      "arabic": "خرج",
+      "cefr": "A1",
+      "ipa": "[ˈxaradʒa]",
+      "context": "present: يخرج yakhruju",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5ca3c77-3cd9-4c84-b60d-d52ee9cc96bc",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "arabic": "فاز",
+      "cefr": "A2",
+      "ipa": "[ˈfaːza]",
+      "context": "present: يفوز yafuuzu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "941b5ba2-ea47-4f89-8b5d-53ae0748db6a",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "arabic": "ضحك",
+      "cefr": "A2",
+      "ipa": "[ˈdˤɑħika]",
+      "context": "present: يضحك yaD-Haku",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae6a1533-d776-4e9d-b698-9254b42f1283",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "arabic": "بكى",
+      "cefr": "A2",
+      "ipa": "[ˈbakaː]",
+      "context": "present: يبكي yabkii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a058da28-8a8e-44ec-8114-7683ad1edfd8",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "arabic": "مشى",
+      "cefr": "A1",
+      "ipa": "[ˈmaʃaː]",
+      "context": "present: يمشي yamshii",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a709fd4-3dac-4947-a148-77ac9a7ed61a",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "arabic": "أرسل",
+      "cefr": "A2",
+      "ipa": "[ˈʔarsala]",
+      "context": "present: يرسل yursilu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e69a653-94d2-4315-b1ad-3c5dd1b3872a",
+      "part-of-speech": "verb",
+      "english": "to need",
+      "arabic": "احتاج",
+      "cefr": "A1",
+      "ipa": "[ʔiħˈtaːdʒa]",
+      "context": "present: يحتاج إلى yaHtaaju ilaa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18b99ea4-fa60-4e7f-8e8f-792797d69e27",
+      "part-of-speech": "adjective",
+      "english": "big; old (person)",
+      "arabic": "كبير",
+      "cefr": "A1",
+      "ipa": "[kaˈbiːr]",
+      "context": "feminine: كبيرة kabiira",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd9fef13-1995-44b8-aef0-945c73f57590",
+      "part-of-speech": "adjective",
+      "english": "small; young",
+      "arabic": "صغير",
+      "cefr": "A1",
+      "ipa": "[sˤɑˈɣiːr]",
+      "context": "feminine: صغيرة Saghiira",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "116676a9-62f7-4bd3-9b6b-2e8fe7e6d1ee",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "arabic": "جديد",
+      "cefr": "A1",
+      "ipa": "[dʒaˈdiːd]",
+      "context": "feminine: جديدة jadiida",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efe3fef1-0228-4eaf-8d12-2ff63e199727",
+      "part-of-speech": "adjective",
+      "english": "old (not new)",
+      "arabic": "قديم",
+      "cefr": "A1",
+      "ipa": "[qɑˈdiːm]",
+      "context": "feminine: قديمة qadiima",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be5edc75-fe0d-45ed-b674-cc0f869c8447",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty; nice",
+      "arabic": "جميل",
+      "cefr": "A1",
+      "ipa": "[dʒaˈmiːl]",
+      "context": "feminine: جميلة jamiila",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6216d66f-c114-4081-bd20-7557c4f803ce",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "arabic": "قبيح",
+      "cefr": "A1",
+      "ipa": "[qɑˈbiːħ]",
+      "context": "feminine: قبيحة qabiiHa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddbf331e-5991-4c87-867a-9a198d09144d",
+      "part-of-speech": "adjective",
+      "english": "long; tall",
+      "arabic": "طويل",
+      "cefr": "A1",
+      "ipa": "[tˤɑˈwiːl]",
+      "context": "feminine: طويلة Tawiila",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "424d254b-9f27-4455-ab52-35bf4464a73d",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "arabic": "قصير",
+      "cefr": "A1",
+      "ipa": "[qɑˈsˤiːr]",
+      "context": "feminine: قصيرة qaSiira",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc954550-3801-45b9-a138-4accf479981d",
+      "part-of-speech": "adjective",
+      "english": "fat",
+      "arabic": "سمين",
+      "cefr": "A2",
+      "ipa": "[saˈmiːn]",
+      "context": "feminine: سمينة samiina",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ec27b53-16d1-47c9-bfef-418eefa5391d",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "arabic": "نحيف",
+      "cefr": "A2",
+      "ipa": "[naˈħiːf]",
+      "context": "feminine: نحيفة naHiifa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "930b3551-0102-4d20-9342-42fd255d2500",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "arabic": "غالي",
+      "cefr": "A1",
+      "ipa": "[ˈɣaːliː]",
+      "context": "feminine: غالية ghaaliya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8385ac9-f34f-4da7-87b9-94f5f62e8c76",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "arabic": "رخيص",
+      "cefr": "A1",
+      "ipa": "[raˈxiːsˤ]",
+      "context": "feminine: رخيصة rakhiiSa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76d6149c-0ddf-49b3-9b89-9a935d41003b",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "arabic": "حار",
+      "cefr": "A1",
+      "ipa": "[ħaːrː]",
+      "context": "feminine: حارة Haarra",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "744016b0-c4b3-49bc-835e-d9148a35c2e2",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "arabic": "بارد",
+      "cefr": "A1",
+      "ipa": "[ˈbaːrid]",
+      "context": "feminine: باردة baarida",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98c5aadf-3583-4ae7-b341-9d404365f3c7",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "arabic": "دافئ",
+      "cefr": "A1",
+      "ipa": "[ˈdaːfiʔ]",
+      "context": "feminine: دافئة daafi'a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfd946d0-3ed6-4dea-b429-a53589da78ba",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "arabic": "سريع",
+      "cefr": "A1",
+      "ipa": "[saˈriːʕ]",
+      "context": "feminine: سريعة sarii`a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d624430-9e24-45e5-ba5f-336b6e94f08d",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "arabic": "بطيء",
+      "cefr": "A1",
+      "ipa": "[bɑˈtˤiːʔ]",
+      "context": "feminine: بطيئة baTii'a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c203f700-467b-46a6-9592-220ac4636eea",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "arabic": "سعيد",
+      "cefr": "A1",
+      "ipa": "[saˈʕiːd]",
+      "context": "feminine: سعيدة sa`iida",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4e4be38-3b9a-4a8b-92fc-e2e7f0120161",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "arabic": "حزين",
+      "cefr": "A1",
+      "ipa": "[ħaˈziːn]",
+      "context": "feminine: حزينة Haziina",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aefd5bf0-99c3-4ef8-a5d4-005493b49025",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "arabic": "متعب",
+      "cefr": "A1",
+      "ipa": "[ˈmutʕab]",
+      "context": "feminine: متعبة mut`aba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe8bf205-6306-49d9-bab9-c06c11024666",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "arabic": "جائع",
+      "cefr": "A1",
+      "ipa": "[ˈdʒaːʔiʕ]",
+      "context": "feminine: جائعة jaa'i`a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1fa6036-a308-400c-858c-30171dbc4569",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "arabic": "عطشان",
+      "cefr": "A1",
+      "ipa": "[ʕɑtˤˈʃaːn]",
+      "context": "feminine: عطشى `aTshaa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98ceefee-1a27-42fa-82d9-318641bd5c0f",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "arabic": "مريض",
+      "cefr": "A1",
+      "ipa": "[maˈriːdˤ]",
+      "context": "feminine: مريضة mariiDa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61c6f7b1-77e3-4859-b293-e6661c1754af",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "arabic": "سهل",
+      "cefr": "A1",
+      "ipa": "[sahl]",
+      "context": "feminine: سهلة sahla",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8391a1e-dd25-4f97-83f8-55e0b0149e96",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "arabic": "صعب",
+      "cefr": "A1",
+      "ipa": "[sˤɑʕb]",
+      "context": "feminine: صعبة Sa`ba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bcf547e-b785-4cbd-a01c-8dd9ccdeee1e",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "arabic": "ثقيل",
+      "cefr": "A2",
+      "ipa": "[θɑˈqiːl]",
+      "context": "feminine: ثقيلة thaqiila",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8145c87a-0390-4993-a0c0-501c34e78c38",
+      "part-of-speech": "adjective",
+      "english": "light",
+      "arabic": "خفيف",
+      "cefr": "A2",
+      "ipa": "[xaˈfiːf]",
+      "context": "feminine: خفيفة khafiifa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86f54ce3-ba6a-4bb4-9e03-ae0e741b9a83",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "arabic": "مهم",
+      "cefr": "A2",
+      "ipa": "[muˈhimː]",
+      "context": "feminine: مهمة muhimma",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bf089be-fe9c-45d6-b02f-90c4cfdb4cf5",
+      "part-of-speech": "adjective",
+      "english": "enjoyable, fun",
+      "arabic": "ممتع",
+      "cefr": "A1",
+      "ipa": "[ˈmumtiʕ]",
+      "context": "feminine: ممتعة mumti`a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16db436b-32cc-45a4-9aef-84f5936d7f94",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "arabic": "نظيف",
+      "cefr": "A2",
+      "ipa": "[nɑˈðˤiːf]",
+      "context": "feminine: نظيفة naZiifa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04728755-34ff-4f24-8a39-0d874016ff62",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "arabic": "وسخ",
+      "cefr": "A2",
+      "ipa": "[ˈwasix]",
+      "context": "feminine: وسخة wasikha",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7eb45e73-ba5b-4b31-8085-a9679d317497",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "arabic": "مليء",
+      "cefr": "A2",
+      "ipa": "[maˈliːʔ]",
+      "context": "feminine: مليئة malii'a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62a799d3-6c98-4eb2-a07a-21ba020715c9",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "arabic": "فارغ",
+      "cefr": "A2",
+      "ipa": "[ˈfaːriɣ]",
+      "context": "feminine: فارغة faarigha",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "218f42c5-8281-4ff2-b747-26752150ca75",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "arabic": "مفتوح",
+      "cefr": "A2",
+      "ipa": "[mafˈtuːħ]",
+      "context": "feminine: مفتوحة maftuuHa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2631d227-eb6d-4a0b-ab28-3ac275ffe58e",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "arabic": "مغلق",
+      "cefr": "A2",
+      "ipa": "[ˈmuɣlɑq]",
+      "context": "feminine: مغلقة mughlaqa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a4d8314-7b74-4d66-95ca-aa763d4a472d",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "arabic": "أحمر",
+      "cefr": "A1",
+      "ipa": "[ˈʔaħmar]",
+      "context": "feminine: حمراء Hamraa'",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8db9557b-633a-401c-8535-adc37fd4f608",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "arabic": "أزرق",
+      "cefr": "A1",
+      "ipa": "[ˈʔazrɑq]",
+      "context": "feminine: زرقاء zarqaa'",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09b6c50c-c4ec-47ae-81af-1f86341a4817",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "arabic": "أخضر",
+      "cefr": "A1",
+      "ipa": "[ˈʔaxdˤɑr]",
+      "context": "feminine: خضراء khaDraa'",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0951128c-bfb4-40c5-9c02-a0b8abf953d7",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "arabic": "أصفر",
+      "cefr": "A1",
+      "ipa": "[ˈʔɑsˤfar]",
+      "context": "feminine: صفراء Safraa'",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "db097b24-c428-48aa-bf80-3d467822926b",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "arabic": "أسود",
+      "cefr": "A1",
+      "ipa": "[ˈʔaswad]",
+      "context": "feminine: سوداء sawdaa'",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34890781-e511-4b55-adff-ed1fe7305c60",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "arabic": "أبيض",
+      "cefr": "A1",
+      "ipa": "[ˈʔabjɑdˤ]",
+      "context": "feminine: بيضاء bayDaa'",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6afc074c-c6be-45af-9029-1dc26d56af45",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "arabic": "رمادي",
+      "cefr": "A1",
+      "ipa": "[raˈmaːdiː]",
+      "context": "feminine: رمادية ramaadiyya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8b3b9ff-20a7-43f5-b180-696178107295",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "arabic": "بني",
+      "cefr": "A1",
+      "ipa": "[ˈbunːiː]",
+      "context": "feminine: بنية bunniyya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6182712-c104-4717-add7-c6d87ce8edce",
+      "part-of-speech": "adjective",
+      "english": "kind, nice",
+      "arabic": "لطيف",
+      "cefr": "A1",
+      "ipa": "[lɑˈtˤiːf]",
+      "context": "feminine: لطيفة laTiifa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d74c89c-5812-4c24-b88b-4b7f8fa67a8f",
+      "part-of-speech": "adjective",
+      "english": "correct, right",
+      "arabic": "صحيح",
+      "cefr": "A1",
+      "ipa": "[sˤɑˈħiːħ]",
+      "context": "feminine: صحيحة SaHiiHa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cdb014f-e3f4-44bd-938a-1115808f98de",
+      "part-of-speech": "adjective",
+      "english": "simple",
+      "arabic": "بسيط",
+      "cefr": "A2",
+      "ipa": "[baˈsiːtˤ]",
+      "context": "feminine: بسيطة basiiTa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc376c32-743a-43d7-a878-763e1edc4dc5",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "arabic": "مشغول",
+      "cefr": "A2",
+      "ipa": "[maʃˈɣuːl]",
+      "context": "feminine: مشغولة mashghuula",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d083752b-6459-4a4b-9bc6-cdf5b14585e2",
+      "part-of-speech": "adjective",
+      "english": "sure",
+      "arabic": "متأكد",
+      "cefr": "A2",
+      "ipa": "[mutaˈʔakːid]",
+      "context": "feminine: متأكدة muta'akkida",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c96d5c19-d760-4f98-8939-5ac13d63f481",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "arabic": "حلو",
+      "cefr": "A2",
+      "ipa": "[ħulw]",
+      "context": "feminine: حلوة Hulwa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc256580-8cf4-4177-8eb6-53f7428ab1e8",
+      "part-of-speech": "adjective",
+      "english": "delicious",
+      "arabic": "لذيذ",
+      "cefr": "A1",
+      "ipa": "[laˈðiːð]",
+      "context": "feminine: لذيذة ladhiidha",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89fdbd89-3239-43eb-bb4b-862e26575b82",
+      "part-of-speech": "adjective",
+      "english": "fresh",
+      "arabic": "طازج",
+      "cefr": "A2",
+      "ipa": "[ˈtˤɑːzadʒ]",
+      "context": "feminine: طازجة Taazaja",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8816037-f995-492f-9c9a-ce93c5d05ef1",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "arabic": "غني",
+      "cefr": "A2",
+      "ipa": "[ˈɣaniː]",
+      "context": "feminine: غنية ghaniyya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ccc2d77-4755-400d-b226-e7a325404a4f",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "arabic": "فقير",
+      "cefr": "A2",
+      "ipa": "[fɑˈqiːr]",
+      "context": "feminine: فقيرة faqiira",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5babb0d6-93a8-4a30-956a-3ef69c95a60b",
+      "part-of-speech": "adjective",
+      "english": "clever",
+      "arabic": "ذكي",
+      "cefr": "A2",
+      "ipa": "[ˈðakiː]",
+      "context": "feminine: ذكية dhakiyya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02c90602-c352-41ff-8c95-8bef7bd3eb85",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "arabic": "غاضب",
+      "cefr": "A2",
+      "ipa": "[ˈɣɑːdˤib]",
+      "context": "feminine: غاضبة ghaaDiba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad7d19a1-0c84-4a25-93bf-d89984cf753a",
+      "part-of-speech": "adjective",
+      "english": "quiet, calm",
+      "arabic": "هادئ",
+      "cefr": "A2",
+      "ipa": "[ˈhaːdiʔ]",
+      "context": "feminine: هادئة haadi'a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1ba999a-a515-4d4a-ac85-ff1b6f015ca0",
+      "part-of-speech": "adjective",
+      "english": "famous",
+      "arabic": "مشهور",
+      "cefr": "A2",
+      "ipa": "[maʃˈhuːr]",
+      "context": "feminine: مشهورة mashhuura",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9dab7469-f563-4551-a600-85bfbb4a2223",
+      "part-of-speech": "adjective",
+      "english": "foreign",
+      "arabic": "أجنبي",
+      "cefr": "A2",
+      "ipa": "[ˈʔadʒnabiː]",
+      "context": "feminine: أجنبية ajnabiyya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e89eca6-6c80-4ec9-8fe1-e360279784df",
+      "part-of-speech": "adjective",
+      "english": "Arab, Arabic",
+      "arabic": "عربي",
+      "cefr": "A1",
+      "ipa": "[ˈʕarabiː]",
+      "context": "feminine: عربية `arabiyya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6097019-793f-47af-b73b-c3bec78dc8d7",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "arabic": "جاهز",
+      "cefr": "A1",
+      "ipa": "[ˈdʒaːhiz]",
+      "context": "feminine: جاهزة jaahiza",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cb2b781-73f4-445c-8b18-dc2515ffb16f",
+      "part-of-speech": "adjective",
+      "english": "near",
+      "arabic": "قريب",
+      "cefr": "A1",
+      "ipa": "[qɑˈriːb]",
+      "context": "feminine: قريبة qariiba; near to: قريب من",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6989820a-7348-4f52-99bc-33eae7f2c29d",
+      "part-of-speech": "adjective",
+      "english": "far",
+      "arabic": "بعيد",
+      "cefr": "A1",
+      "ipa": "[baˈʕiːd]",
+      "context": "feminine: بعيدة ba`iida; far from: بعيد عن",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b8c7030-0566-4551-935c-ba0073ae86b1",
+      "part-of-speech": "adjective",
+      "english": "much, many, a lot of",
+      "arabic": "كثير",
+      "cefr": "A1",
+      "ipa": "[kaˈθiːr]",
+      "context": "feminine: كثيرة kathiira",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e734d751-8f3c-46ab-99a9-339d4f3d0a02",
+      "part-of-speech": "adjective",
+      "english": "little, few",
+      "arabic": "قليل",
+      "cefr": "A2",
+      "ipa": "[qɑˈliːl]",
+      "context": "feminine: قليلة qaliila",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0c1e987-f2aa-4f3e-97d6-34c57147de83",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "arabic": "اليوم",
+      "cefr": "A1",
+      "ipa": "[ʔalˈjawm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15dfc449-0acc-49b1-a02d-a6ca32005df1",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "arabic": "غدا",
+      "cefr": "A1",
+      "ipa": "[ˈɣadan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddb1360f-ca17-4ea1-a00e-32ff90cc3948",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "arabic": "أمس",
+      "cefr": "A1",
+      "ipa": "[ʔams]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d264d58c-c93d-40c8-9086-05f38d750596",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "arabic": "الآن",
+      "cefr": "A1",
+      "ipa": "[ʔalˈʔaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d40b5371-e9dd-420b-a9e4-ca5f99366954",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "arabic": "دائما",
+      "cefr": "A1",
+      "ipa": "[ˈdaːʔiman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "deb5af48-e5d8-4a5d-bb93-24c14a9ba1d2",
+      "part-of-speech": "adverb",
+      "english": "never (with a negative)",
+      "arabic": "أبدا",
+      "cefr": "A1",
+      "ipa": "[ˈʔabadan]",
+      "context": "لا أدخن أبدا: I never smoke",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee22606c-d4ab-4cff-b339-acdf24fd1e8f",
+      "part-of-speech": "adverb",
+      "english": "usually",
+      "arabic": "غالبا",
+      "cefr": "A2",
+      "ipa": "[ˈɣaːliban]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa8616e9-62e9-4e7a-aa6d-151de9baa6f2",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "arabic": "أحيانا",
+      "cefr": "A1",
+      "ipa": "[ʔaħˈjaːnan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b778b53e-f330-4879-b9ab-45d7ac694397",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "arabic": "هنا",
+      "cefr": "A1",
+      "ipa": "[ˈhunaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc34aa32-9a44-4484-b21f-d867f25ab38b",
+      "part-of-speech": "adverb",
+      "english": "there; there is, there are",
+      "arabic": "هناك",
+      "cefr": "A1",
+      "ipa": "[huˈnaːka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e1cc8bd-ab4c-41c6-b92f-f0e5de173035",
+      "part-of-speech": "adverb",
+      "english": "right",
+      "arabic": "يمين",
+      "cefr": "A1",
+      "ipa": "[jaˈmiːn]",
+      "context": "to the right: إلى اليمين",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fba5552-beff-47fd-8ec6-fad7bd674d7f",
+      "part-of-speech": "adverb",
+      "english": "left",
+      "arabic": "يسار",
+      "cefr": "A1",
+      "ipa": "[jaˈsaːr]",
+      "context": "to the left: إلى اليسار",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0dd0e99-6866-4f9c-a5fc-ce47f531a3cc",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "arabic": "جدا",
+      "cefr": "A1",
+      "ipa": "[ˈdʒidːan]",
+      "context": "after the adjective: جميل جدا, very beautiful",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "356e47f1-b9a2-41f8-b24a-c754c61f18ab",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "arabic": "قليلا",
+      "cefr": "A1",
+      "ipa": "[qɑˈliːlan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a1f452f-5455-4847-8955-a03f0d120beb",
+      "part-of-speech": "adverb",
+      "english": "a lot, much",
+      "arabic": "كثيرا",
+      "cefr": "A1",
+      "ipa": "[kaˈθiːran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "173f59c7-692d-446a-a357-c88cbc180241",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "arabic": "جيدا",
+      "cefr": "A1",
+      "ipa": "[ˈdʒajːidan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ec057b4-c140-4387-a656-7fc0fd4ba7e2",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "arabic": "بسرعة",
+      "cefr": "A1",
+      "ipa": "[biˈsurʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ffd502d-e06e-4aa0-bb22-8a223c7dd416",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "arabic": "ببطء",
+      "cefr": "A1",
+      "ipa": "[biˈbutˤʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99e3aee3-a478-4007-9455-4abd816160cf",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "arabic": "فقط",
+      "cefr": "A1",
+      "ipa": "[ˈfɑqɑtˤ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39d42c3b-8ce5-4abe-9386-e14c8747fb54",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "arabic": "أيضا",
+      "cefr": "A1",
+      "ipa": "[ˈʔajdˤɑn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12f8ef6e-a0a8-4223-acf9-1ae77493b066",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "arabic": "معا",
+      "cefr": "A1",
+      "ipa": "[ˈmaʕan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "763a8b73-6985-4046-9584-19b718383c32",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "arabic": "مبكرا",
+      "cefr": "A2",
+      "ipa": "[muˈbakːiran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecc241a4-5e2c-495b-814e-184dbebd8196",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "arabic": "متأخرا",
+      "cefr": "A2",
+      "ipa": "[mutaˈʔaxːiran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab415b8c-c3c3-4bb7-a3e7-145e0e318af4",
+      "part-of-speech": "adverb",
+      "english": "maybe",
+      "arabic": "ربما",
+      "cefr": "A1",
+      "ipa": "[ˈrubːamaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df2ab687-42dd-46a8-a9fe-4473bbd6f79d",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "arabic": "طبعا",
+      "cefr": "A1",
+      "ipa": "[ˈtˤɑbʕan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b117447-e04b-4020-85a4-66cd9f7b2642",
+      "part-of-speech": "adverb",
+      "english": "then, afterwards",
+      "arabic": "ثم",
+      "cefr": "A1",
+      "ipa": "[ˈθumːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b73f80b4-8bd6-4301-99c8-c3f2c59c50ce",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "arabic": "أين",
+      "cefr": "A1",
+      "ipa": "[ˈʔajna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a65c14b6-b653-47af-9c55-90589138057f",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "arabic": "متى",
+      "cefr": "A1",
+      "ipa": "[ˈmataː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2e30916-f5ab-4d2e-a13c-5806b1eb4d64",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "arabic": "كيف",
+      "cefr": "A1",
+      "ipa": "[ˈkajfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96381cfc-3858-48a1-a5b9-4b35e03b9e13",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "arabic": "لماذا",
+      "cefr": "A1",
+      "ipa": "[liˈmaːðaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b57e5ad4-3c90-4cce-b9f6-4056a342aa3c",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "arabic": "كم",
+      "cefr": "A1",
+      "ipa": "[kam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfbfac25-eeee-4c87-9b2e-f5bb42e08613",
+      "part-of-speech": "adverb",
+      "english": "(asks a yes/no question)",
+      "arabic": "هل",
+      "cefr": "A1",
+      "ipa": "[hal]",
+      "context": "هل أنت طالب؟: are you a student?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67339e92-bf4a-4157-a1e6-b7eedc8cdac0",
+      "part-of-speech": "preposition",
+      "english": "in",
+      "arabic": "في",
+      "cefr": "A1",
+      "ipa": "[fiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76e3c443-a3fa-4d36-838d-125341d81fbf",
+      "part-of-speech": "preposition",
+      "english": "on",
+      "arabic": "على",
+      "cefr": "A1",
+      "ipa": "[ˈʕalaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cdde0e7-3f24-415f-ac23-2cbbb4c3f305",
+      "part-of-speech": "preposition",
+      "english": "to",
+      "arabic": "إلى",
+      "cefr": "A1",
+      "ipa": "[ˈʔilaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12755554-8e50-49bd-9863-599ba3be11c2",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "arabic": "من",
+      "cefr": "A1",
+      "ipa": "[min]",
+      "context": "same spelling as من man, who",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "351af2c0-c5cd-4312-8b80-d9168761e0ab",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "arabic": "مع",
+      "cefr": "A1",
+      "ipa": "[ˈmaʕa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0459e565-32a1-467e-a4be-e5b6b13058c6",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "arabic": "بدون",
+      "cefr": "A1",
+      "ipa": "[biˈduːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85175d46-2821-4420-96a4-57bc83175241",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place); have",
+      "arabic": "عند",
+      "cefr": "A1",
+      "ipa": "[ˈʕinda]",
+      "context": "عندي سيارة: I have a car",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48ea3a26-d701-4ea6-bd9e-eade83e67344",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "arabic": "بجانب",
+      "cefr": "A2",
+      "ipa": "[biˈdʒaːnib]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30dd913b-f51f-489b-a0ec-9c49ea907008",
+      "part-of-speech": "preposition",
+      "english": "above, over",
+      "arabic": "فوق",
+      "cefr": "A2",
+      "ipa": "[ˈfawqɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be3baeed-b1d8-4777-b36e-4775b08421df",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "arabic": "تحت",
+      "cefr": "A2",
+      "ipa": "[ˈtaħta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9471867e-749d-4b60-9285-c844ecae91fa",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "arabic": "بين",
+      "cefr": "A2",
+      "ipa": "[ˈbajna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20636407-4257-42dc-a68e-630f52abe18b",
+      "part-of-speech": "preposition",
+      "english": "before",
+      "arabic": "قبل",
+      "cefr": "A1",
+      "ipa": "[ˈqɑbla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15dcc4b8-0d03-4aa4-95d4-b3ed9fad9a4d",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "arabic": "بعد",
+      "cefr": "A1",
+      "ipa": "[ˈbaʕda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff643fbd-70ae-4e75-81ce-67623afaa1bb",
+      "part-of-speech": "preposition",
+      "english": "about; from",
+      "arabic": "عن",
+      "cefr": "A2",
+      "ipa": "[ʕan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7f96697-9548-4ecf-8913-9890e1bae633",
+      "part-of-speech": "preposition",
+      "english": "for, to",
+      "arabic": "ل",
+      "cefr": "A1",
+      "ipa": "[li]",
+      "context": "written joined to the next word: لك, for you",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "614cd545-19bb-407d-b6cf-ce7e400768b8",
+      "part-of-speech": "preposition",
+      "english": "with, by, in",
+      "arabic": "ب",
+      "cefr": "A1",
+      "ipa": "[bi]",
+      "context": "written joined to the next word: بالسيارة, by car",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3760ccc-8373-4dd3-b7ad-266379530471",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "arabic": "و",
+      "cefr": "A1",
+      "ipa": "[wa]",
+      "context": "written joined to the next word: أنا وأنت, you and I",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16820a29-dd6a-46b8-9deb-01440d86ee68",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "arabic": "لكن",
+      "cefr": "A1",
+      "ipa": "[ˈlaːkin]",
+      "context": "written without the long a after l",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ff580f8-9aed-47f3-94d6-8e92cd8333cb",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "arabic": "أو",
+      "cefr": "A1",
+      "ipa": "[ʔaw]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7f6c9a2-e53e-4d47-9f3d-a2661dd07d14",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "arabic": "لأن",
+      "cefr": "A1",
+      "ipa": "[liˈʔanːa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "468cbe7c-0117-4e34-ba58-27fa603db02e",
+      "part-of-speech": "conjunction",
+      "english": "that; to (before a verb)",
+      "arabic": "أن",
+      "cefr": "A2",
+      "ipa": "[ʔan]",
+      "context": "أريد أن أذهب: I want to go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc426eaa-7df8-4de7-b8f8-c9fb968e1f69",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "arabic": "إذا",
+      "cefr": "A1",
+      "ipa": "[ˈʔiðaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "effa08eb-b814-4ac4-9ec1-efe04a9dcefc",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "arabic": "عندما",
+      "cefr": "A1",
+      "ipa": "[ˈʕindamaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cf09c2e-b569-46f5-bc91-1a92bec705b4",
+      "part-of-speech": "conjunction",
+      "english": "like, as",
+      "arabic": "مثل",
+      "cefr": "A2",
+      "ipa": "[ˈmiθla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5db35c8a-89f0-49eb-8622-0b4634c06985",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "arabic": "نعم",
+      "cefr": "A1",
+      "ipa": "[ˈnaʕam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "745e4ce8-f634-426e-8823-b377301c9edb",
+      "part-of-speech": "interjection",
+      "english": "no; not",
+      "arabic": "لا",
+      "cefr": "A1",
+      "ipa": "[laː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "112f48dc-92a5-4979-b791-d1438ab22679",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "arabic": "مرحبا",
+      "cefr": "A1",
+      "ipa": "[ˈmarħaban]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62e96a63-58b3-40e1-8ed9-034199a35544",
+      "part-of-speech": "interjection",
+      "english": "hello (peace be upon you)",
+      "arabic": "السلام عليكم",
+      "cefr": "A1",
+      "ipa": "[ʔasːaˈlaːmu ʕaˈlajkum]",
+      "context": "reply: وعليكم السلام wa-`alaykumu s-salaam",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b622a353-fca0-4480-8799-fe8d12e57d18",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "arabic": "مع السلامة",
+      "cefr": "A1",
+      "ipa": "[maʕasːaˈlaːma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fc71b84-117b-425c-9059-d7ccbef4eeb9",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "arabic": "صباح الخير",
+      "cefr": "A1",
+      "ipa": "[sˤɑˈbaːħ ʔalˈxajr]",
+      "context": "reply: صباح النور SabaaH an-nuur",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "576f29fd-1d9f-4e25-9c42-30286a2f6cb7",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "arabic": "مساء الخير",
+      "cefr": "A1",
+      "ipa": "[maˈsaːʔ ʔalˈxajr]",
+      "context": "reply: مساء النور masaa' an-nuur",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8d922377-c138-427d-a1f6-979796dcfbbd",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "arabic": "تصبح على خير",
+      "cefr": "A1",
+      "ipa": "[ˈtusˤbiħ ˈʕalaː xajr]",
+      "context": "to a woman: تصبحين على خير",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9662b11-3d7f-4ad6-b1cf-399d226ce13b",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "arabic": "شكرا",
+      "cefr": "A1",
+      "ipa": "[ˈʃukran]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4461c39f-41d7-4a2f-baa1-45838740a97e",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "arabic": "من فضلك",
+      "cefr": "A1",
+      "ipa": "[min ˈfɑdˤlik]",
+      "context": "to a man; to a woman: min faDliki",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "915d73e3-6a80-4335-93c7-48ddbca4233b",
+      "part-of-speech": "interjection",
+      "english": "you're welcome; excuse me",
+      "arabic": "عفوا",
+      "cefr": "A1",
+      "ipa": "[ˈʕafwan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f95e783-4cca-4cb4-9832-c112a1c292f4",
+      "part-of-speech": "interjection",
+      "english": "sorry",
+      "arabic": "آسف",
+      "cefr": "A1",
+      "ipa": "[ˈʔaːsif]",
+      "context": "a woman says آسفة aasifa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54931352-4703-49af-a42e-f16e9f34f83f",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "arabic": "كيف حالك",
+      "cefr": "A1",
+      "ipa": "[ˈkajfa ˈħaːluk]",
+      "context": "to a woman: kayfa Haaluki",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3a3d8fc-dd7d-49ea-8ddf-f4c4038f0b8a",
+      "part-of-speech": "interjection",
+      "english": "God willing, hopefully",
+      "arabic": "إن شاء الله",
+      "cefr": "A1",
+      "ipa": "[ʔin ʃaːʔɑɫˈɫɑːh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8e6e9a1-d013-450d-b247-b0a2c05a9395",
+      "part-of-speech": "interjection",
+      "english": "thank God; I'm fine",
+      "arabic": "الحمد لله",
+      "cefr": "A1",
+      "ipa": "[ʔalˈħamdu liɫˈɫɑːh]",
+      "context": "the usual answer to كيف حالك",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}
