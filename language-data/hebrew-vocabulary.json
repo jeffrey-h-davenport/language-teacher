@@ -1,0 +1,6382 @@
+{
+  "meta": {
+    "language": "Hebrew",
+    "languageCode": "he",
+    "nativeLanguage": "English",
+    "targetField": "hebrew",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "371d66d4-510f-482f-854b-6f07d9421872",
+      "part-of-speech": "noun",
+      "english": "man, person",
+      "hebrew": "איש",
+      "gender": "masculine",
+      "plural": "אנשים",
+      "cefr": "A1",
+      "ipa": "[iʃ]",
+      "context": "plural: anashim, people",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73277515-2d96-4f88-b49b-5ce88b778f4e",
+      "part-of-speech": "noun",
+      "english": "person, human being",
+      "hebrew": "אדם",
+      "gender": "masculine",
+      "plural": "בני אדם",
+      "cefr": "A1",
+      "ipa": "[aˈdam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81044ef4-d404-46c8-b94f-d242997073bf",
+      "part-of-speech": "noun",
+      "english": "man",
+      "hebrew": "גבר",
+      "gender": "masculine",
+      "plural": "גברים",
+      "cefr": "A1",
+      "ipa": "[ˈɡeveʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d803462-466c-40fb-8e3f-13270efd9a90",
+      "part-of-speech": "noun",
+      "english": "woman; wife",
+      "hebrew": "אישה",
+      "gender": "feminine",
+      "plural": "נשים",
+      "cefr": "A1",
+      "ipa": "[iˈʃa]",
+      "context": "plural: nashim",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b73a216-0650-4688-92d7-8a96a5e0ce2d",
+      "part-of-speech": "noun",
+      "english": "child; boy",
+      "hebrew": "ילד",
+      "gender": "masculine",
+      "plural": "ילדים",
+      "cefr": "A1",
+      "ipa": "[ˈjeled]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c35d3227-71bc-4ec8-98e2-be9dceb80dfe",
+      "part-of-speech": "noun",
+      "english": "girl",
+      "hebrew": "ילדה",
+      "gender": "feminine",
+      "plural": "ילדות",
+      "cefr": "A1",
+      "ipa": "[jalˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bdabd43-9e94-493f-8a46-6a97dfb3a478",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "hebrew": "תינוק",
+      "gender": "masculine",
+      "plural": "תינוקות",
+      "cefr": "A2",
+      "ipa": "[tiˈnok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "664e4645-9067-4330-95cd-379bfc066a41",
+      "part-of-speech": "noun",
+      "english": "mother, mum",
+      "hebrew": "אמא",
+      "gender": "feminine",
+      "plural": "אמהות",
+      "cefr": "A1",
+      "ipa": "[ˈima]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "061bf1a8-c9c0-4d8f-b2ca-3fffec1555e9",
+      "part-of-speech": "noun",
+      "english": "father, dad",
+      "hebrew": "אבא",
+      "gender": "masculine",
+      "plural": "אבות",
+      "cefr": "A1",
+      "ipa": "[ˈaba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b153b818-d420-479f-9cbb-fee86d7649a7",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "hebrew": "הורים",
+      "gender": "masculine",
+      "plural": "הורים",
+      "cefr": "A1",
+      "ipa": "[hoˈʁim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cf7c95a-ce06-4b2f-b756-24417043c89f",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "hebrew": "אח",
+      "gender": "masculine",
+      "plural": "אחים",
+      "cefr": "A1",
+      "ipa": "[aχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc8c112a-f4ff-456e-84af-27285f4b8d2f",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "hebrew": "אחות",
+      "gender": "feminine",
+      "plural": "אחיות",
+      "cefr": "A1",
+      "ipa": "[aˈχot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "451477b6-ca44-42d4-a202-56f4ae0a10d4",
+      "part-of-speech": "noun",
+      "english": "son",
+      "hebrew": "בן",
+      "gender": "masculine",
+      "plural": "בנים",
+      "cefr": "A1",
+      "ipa": "[ben]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfe7c66c-9466-48fa-9ba6-3a0b474c2fb1",
+      "part-of-speech": "noun",
+      "english": "daughter",
+      "hebrew": "בת",
+      "gender": "feminine",
+      "plural": "בנות",
+      "cefr": "A1",
+      "ipa": "[bat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0713fbf2-fbcc-4f13-b441-c9c08006a77b",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "hebrew": "סבא",
+      "gender": "masculine",
+      "plural": "סבים",
+      "cefr": "A1",
+      "ipa": "[ˈsaba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4e36975-5848-4efa-b5a5-a874b9dc6719",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "hebrew": "סבתא",
+      "gender": "feminine",
+      "plural": "סבתות",
+      "cefr": "A1",
+      "ipa": "[ˈsavta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d076e3f-4ce2-479c-88f6-85b61808679a",
+      "part-of-speech": "noun",
+      "english": "uncle",
+      "hebrew": "דוד",
+      "gender": "masculine",
+      "plural": "דודים",
+      "cefr": "A2",
+      "ipa": "[dod]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18692cd7-f0df-49fe-97b9-d7a27aa9db0c",
+      "part-of-speech": "noun",
+      "english": "aunt",
+      "hebrew": "דודה",
+      "gender": "feminine",
+      "plural": "דודות",
+      "cefr": "A2",
+      "ipa": "[doˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4ed2308-27e9-4529-b5b4-58c698d380dc",
+      "part-of-speech": "noun",
+      "english": "family",
+      "hebrew": "משפחה",
+      "gender": "feminine",
+      "plural": "משפחות",
+      "cefr": "A1",
+      "ipa": "[miʃpaˈχa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4be7732-e512-4955-b8a1-8655e882f23f",
+      "part-of-speech": "noun",
+      "english": "husband; owner",
+      "hebrew": "בעל",
+      "gender": "masculine",
+      "plural": "בעלים",
+      "cefr": "A1",
+      "ipa": "[ˈbaʔal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82831e31-f712-4003-922a-e4b26ea816b6",
+      "part-of-speech": "noun",
+      "english": "friend; boyfriend; member",
+      "hebrew": "חבר",
+      "gender": "masculine",
+      "plural": "חברים",
+      "cefr": "A1",
+      "ipa": "[χaˈveʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e80f5ba3-5a92-4994-99f2-895d4a4c54bb",
+      "part-of-speech": "noun",
+      "english": "friend (female); girlfriend",
+      "hebrew": "חברה",
+      "gender": "feminine",
+      "plural": "חברות",
+      "cefr": "A1",
+      "ipa": "[χaveˈʁa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a93a11d0-64fe-48b5-8bf7-bbc8a8e93d36",
+      "part-of-speech": "noun",
+      "english": "neighbour",
+      "hebrew": "שכן",
+      "gender": "masculine",
+      "plural": "שכנים",
+      "cefr": "A2",
+      "ipa": "[ʃaˈχen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6763866d-8ac1-4644-83d9-5a4f003408aa",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "hebrew": "מורה",
+      "gender": "masculine",
+      "plural": "מורים",
+      "cefr": "A1",
+      "ipa": "[moˈʁe]",
+      "context": "a female teacher is also מורה (mora)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d72ddc2a-c8f6-4f30-90d8-8dd51f7c03d2",
+      "part-of-speech": "noun",
+      "english": "pupil, student",
+      "hebrew": "תלמיד",
+      "gender": "masculine",
+      "plural": "תלמידים",
+      "cefr": "A1",
+      "ipa": "[talˈmid]",
+      "context": "female: תלמידה (talmida)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e0e4f9c-b2f6-457f-9887-ff310f2ca979",
+      "part-of-speech": "noun",
+      "english": "university student",
+      "hebrew": "סטודנט",
+      "gender": "masculine",
+      "plural": "סטודנטים",
+      "cefr": "A1",
+      "ipa": "[stuˈdent]",
+      "context": "female: סטודנטית (studentit)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9318870d-600e-46bf-8351-e6b040d00afc",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "hebrew": "רופא",
+      "gender": "masculine",
+      "plural": "רופאים",
+      "cefr": "A1",
+      "ipa": "[ʁoˈfe]",
+      "context": "female: רופאה (rof'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3428ea5e-3409-4518-8f97-216ec0d5dd6b",
+      "part-of-speech": "noun",
+      "english": "waiter",
+      "hebrew": "מלצר",
+      "gender": "masculine",
+      "plural": "מלצרים",
+      "cefr": "A2",
+      "ipa": "[melˈtsaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44948d37-47b2-49d5-8bbe-260cfedbd2a6",
+      "part-of-speech": "noun",
+      "english": "guest",
+      "hebrew": "אורח",
+      "gender": "masculine",
+      "plural": "אורחים",
+      "cefr": "A2",
+      "ipa": "[oˈʁeaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e05d62dd-8daf-4954-b70a-57089f2236d6",
+      "part-of-speech": "noun",
+      "english": "tourist",
+      "hebrew": "תייר",
+      "gender": "masculine",
+      "plural": "תיירים",
+      "cefr": "A2",
+      "ipa": "[taˈjaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9515d775-d337-4120-854b-9f8d4c28f4c0",
+      "part-of-speech": "noun",
+      "english": "name",
+      "hebrew": "שם",
+      "gender": "masculine",
+      "plural": "שמות",
+      "cefr": "A1",
+      "ipa": "[ʃem]",
+      "context": "קוראים לי …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8da8aa0c-27c5-4a5a-a66d-be30c5bb2e5b",
+      "part-of-speech": "noun",
+      "english": "time",
+      "hebrew": "זמן",
+      "gender": "masculine",
+      "plural": "זמנים",
+      "cefr": "A1",
+      "ipa": "[zman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e29193c9-134f-4825-93e2-6fda8ca59644",
+      "part-of-speech": "noun",
+      "english": "year",
+      "hebrew": "שנה",
+      "gender": "feminine",
+      "plural": "שנים",
+      "cefr": "A1",
+      "ipa": "[ʃaˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "545663fc-8c3a-4f31-bfa4-ca9c4181b338",
+      "part-of-speech": "noun",
+      "english": "month",
+      "hebrew": "חודש",
+      "gender": "masculine",
+      "plural": "חודשים",
+      "cefr": "A1",
+      "ipa": "[ˈχodeʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e8f7fc7a-e7db-43e5-ba67-b0a840d64431",
+      "part-of-speech": "noun",
+      "english": "week",
+      "hebrew": "שבוע",
+      "gender": "masculine",
+      "plural": "שבועות",
+      "cefr": "A1",
+      "ipa": "[ʃaˈvua]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3a44671-640d-4b6b-953d-83917e3864c1",
+      "part-of-speech": "noun",
+      "english": "day",
+      "hebrew": "יום",
+      "gender": "masculine",
+      "plural": "ימים",
+      "cefr": "A1",
+      "ipa": "[jom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6790b378-addd-4ade-89b3-73f3aa1beecc",
+      "part-of-speech": "noun",
+      "english": "hour",
+      "hebrew": "שעה",
+      "gender": "feminine",
+      "plural": "שעות",
+      "cefr": "A1",
+      "ipa": "[ʃaˈʔa]",
+      "context": "מה השעה?: what time is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1aa52bd4-d23e-4f68-97d4-edc93caa50a0",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "hebrew": "דקה",
+      "gender": "feminine",
+      "plural": "דקות",
+      "cefr": "A1",
+      "ipa": "[daˈka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41794f6e-127e-461e-ae57-e1b20038d99a",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "hebrew": "בוקר",
+      "gender": "masculine",
+      "plural": "בקרים",
+      "cefr": "A1",
+      "ipa": "[ˈbokeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0af948f6-cc5e-4721-a70a-3f420b3ebad5",
+      "part-of-speech": "noun",
+      "english": "noon, midday",
+      "hebrew": "צהריים",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[tsohoˈʁajim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe4770d2-5f04-44f6-8878-0b2364fbc618",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "hebrew": "אחר הצהריים",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[aˈχaʁ hatsohoˈʁajim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5734131-4411-49dd-b950-d3f710f8538e",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "hebrew": "ערב",
+      "gender": "masculine",
+      "plural": "ערבים",
+      "cefr": "A1",
+      "ipa": "[ˈeʁev]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de2aaff7-ed8d-4334-af83-30ed84f4cb44",
+      "part-of-speech": "noun",
+      "english": "night",
+      "hebrew": "לילה",
+      "gender": "masculine",
+      "plural": "לילות",
+      "cefr": "A1",
+      "ipa": "[ˈlajla]",
+      "context": "masculine despite the -a",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdc4ca2c-526b-47ad-8f51-931933ff2010",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "hebrew": "סוף שבוע",
+      "gender": "masculine",
+      "plural": "סופי שבוע",
+      "cefr": "A1",
+      "ipa": "[sof ʃaˈvua]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fa24f05-c0e0-44a1-a2fa-51133b4b582f",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "hebrew": "יום ראשון",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jom ʁiˈʃon]",
+      "context": "the Israeli week starts on Sunday; literally \"day one\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9757491a-736b-4361-8149-6d015fbaefb4",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "hebrew": "יום שני",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jom ʃeˈni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ab9501e-eda9-4d1d-9f5e-b2cbca4db3e9",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "hebrew": "יום שלישי",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jom ʃliˈʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e39c197e-c619-4e29-9490-a2df02b0ce8f",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "hebrew": "יום רביעי",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jom ʁeviˈʔi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18a01285-fd2d-45f3-8db5-9c6ac254cc34",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "hebrew": "יום חמישי",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jom χamiˈʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4930f821-f858-46d2-9b91-35bdf508d6f6",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "hebrew": "יום שישי",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[jom ʃiˈʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c395b2cd-9353-4805-b9db-627b968207ed",
+      "part-of-speech": "noun",
+      "english": "Saturday; the Sabbath",
+      "hebrew": "שבת",
+      "gender": "feminine",
+      "plural": "שבתות",
+      "cefr": "A1",
+      "ipa": "[ʃaˈbat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fcc0f21-a758-4de8-bf19-b5be501a0203",
+      "part-of-speech": "noun",
+      "english": "January",
+      "hebrew": "ינואר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjanuaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4de67eb0-1def-4370-b53e-9c7eedba93fa",
+      "part-of-speech": "noun",
+      "english": "February",
+      "hebrew": "פברואר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈfebʁuaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3047788-b714-4442-8f9c-11fd0688a549",
+      "part-of-speech": "noun",
+      "english": "March",
+      "hebrew": "מרץ",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[meʁts]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5777bf2d-bc97-4b68-9ec5-70a49ea54ce4",
+      "part-of-speech": "noun",
+      "english": "April",
+      "hebrew": "אפריל",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[apˈʁil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea436e91-1059-41d0-b974-ad17135987ad",
+      "part-of-speech": "noun",
+      "english": "May",
+      "hebrew": "מאי",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[maj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1bff773-d585-4b31-87a7-bc8d665e382f",
+      "part-of-speech": "noun",
+      "english": "June",
+      "hebrew": "יוני",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjuni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "614d08f6-414c-48f5-a948-d250337673de",
+      "part-of-speech": "noun",
+      "english": "July",
+      "hebrew": "יולי",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjuli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67812ac3-d51b-4bcc-93e8-b93f19adccd0",
+      "part-of-speech": "noun",
+      "english": "August",
+      "hebrew": "אוגוסט",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈoɡust]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b59d1e39-27c5-4bcd-a499-9c2ee30097bd",
+      "part-of-speech": "noun",
+      "english": "September",
+      "hebrew": "ספטמבר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[sepˈtembeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cea18917-72c9-4024-afc0-73d0fd3a606e",
+      "part-of-speech": "noun",
+      "english": "October",
+      "hebrew": "אוקטובר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[okˈtobeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "224e1df4-3881-4eb3-be8e-52935b4ee4ba",
+      "part-of-speech": "noun",
+      "english": "November",
+      "hebrew": "נובמבר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[noˈvembeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "467e935a-8b22-4609-9c6c-6b1dfffcf758",
+      "part-of-speech": "noun",
+      "english": "December",
+      "hebrew": "דצמבר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[deˈtsembeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90c88192-11a6-4522-bed2-026eb447578b",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "hebrew": "אביב",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[aˈviv]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b25535e5-bd51-448e-a80c-a10301e45524",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "hebrew": "קיץ",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkajits]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70e86dcb-6413-45ed-a9a6-a5734561f3b6",
+      "part-of-speech": "noun",
+      "english": "autumn",
+      "hebrew": "סתיו",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[stav]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52ca91ca-85c3-4ce9-b5af-4edd9e57a20c",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "hebrew": "חורף",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈχoʁef]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85b49417-5179-4fcc-bca3-efe3f95e71fa",
+      "part-of-speech": "noun",
+      "english": "head",
+      "hebrew": "ראש",
+      "gender": "masculine",
+      "plural": "ראשים",
+      "cefr": "A1",
+      "ipa": "[ʁoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f714872-7d57-4904-be88-386104b38481",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "hebrew": "עין",
+      "gender": "feminine",
+      "plural": "עיניים",
+      "cefr": "A1",
+      "ipa": "[ˈajin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ef41b11-26aa-4938-9bd6-9ed269fbfe79",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "hebrew": "אוזן",
+      "gender": "feminine",
+      "plural": "אוזניים",
+      "cefr": "A1",
+      "ipa": "[ˈozen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18883b4c-63ec-48f0-92de-701282c8afdc",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "hebrew": "אף",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[af]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad15e544-380e-40db-8077-88ae82efbbf3",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "hebrew": "פה",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[pe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e6c5388-e2b8-44f6-b39b-2803c80aee88",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "hebrew": "שן",
+      "gender": "feminine",
+      "plural": "שיניים",
+      "cefr": "A1",
+      "ipa": "[ʃen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e94df692-f6de-4d06-9bdb-b81d68a1ac39",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "hebrew": "יד",
+      "gender": "feminine",
+      "plural": "ידיים",
+      "cefr": "A1",
+      "ipa": "[jad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "adf00500-e6f0-4d2a-b446-7f08f723e32a",
+      "part-of-speech": "noun",
+      "english": "leg; foot",
+      "hebrew": "רגל",
+      "gender": "feminine",
+      "plural": "רגליים",
+      "cefr": "A1",
+      "ipa": "[ˈʁeɡel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e8276bb-754f-4da8-b324-33beaa488ca3",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "hebrew": "לב",
+      "gender": "masculine",
+      "plural": "לבבות",
+      "cefr": "A2",
+      "ipa": "[lev]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfb5f610-daa2-4785-8292-032bfde0a783",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "hebrew": "שיער",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[seˈʔaʁ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "587a8457-4b40-4c3c-884b-2a4bdf5164fb",
+      "part-of-speech": "noun",
+      "english": "face",
+      "hebrew": "פנים",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[paˈnim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22d09748-c0c1-4490-92fb-88f8c449ad03",
+      "part-of-speech": "noun",
+      "english": "body",
+      "hebrew": "גוף",
+      "gender": "masculine",
+      "plural": "גופים",
+      "cefr": "A2",
+      "ipa": "[ɡuf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c83d1d49-eb9c-44d1-90f6-a1e2b92ebfcc",
+      "part-of-speech": "noun",
+      "english": "finger",
+      "hebrew": "אצבע",
+      "gender": "feminine",
+      "plural": "אצבעות",
+      "cefr": "A2",
+      "ipa": "[ˈedzba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfbff18e-4fb8-451c-88b5-a54507821bd6",
+      "part-of-speech": "noun",
+      "english": "back",
+      "hebrew": "גב",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ɡav]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ad80696-2dba-4d01-bd33-c747c7a841b8",
+      "part-of-speech": "noun",
+      "english": "bread",
+      "hebrew": "לחם",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈleχem]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a810a0b-ac52-4833-9aca-35e85f188ba4",
+      "part-of-speech": "noun",
+      "english": "water",
+      "hebrew": "מים",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈmajim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01c59073-dbe6-4ef6-9086-e613e7787535",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "hebrew": "חלב",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[χaˈlav]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecc0138a-9e0d-48b1-b721-4e9493c90176",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "hebrew": "קפה",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[kaˈfe]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4aace1ec-e477-4529-a0cf-193163acff09",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "hebrew": "תה",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[te]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "860954cd-acdf-4ff4-a670-d63c287c40c1",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "hebrew": "בירה",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈbiʁa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4cfa3ca-3572-4af5-bd83-8b5af422a100",
+      "part-of-speech": "noun",
+      "english": "wine",
+      "hebrew": "יין",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈjajin]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46567155-b509-4c73-b58c-25f4bb0a62d2",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "hebrew": "מיץ",
+      "gender": "masculine",
+      "plural": "מיצים",
+      "cefr": "A1",
+      "ipa": "[mits]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43a6cf0b-1e6c-4181-bcb2-92b9f007d1f6",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "hebrew": "בשר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[baˈsaʁ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bcd94bd-9af8-422e-ab39-48b2dfed6c44",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "hebrew": "דג",
+      "gender": "masculine",
+      "plural": "דגים",
+      "cefr": "A1",
+      "ipa": "[daɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90003e01-d780-4f4a-b914-8b008ecaff50",
+      "part-of-speech": "noun",
+      "english": "chicken (meat)",
+      "hebrew": "עוף",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[of]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6f97cc4-7076-468f-93b8-a43b9c8d50b8",
+      "part-of-speech": "noun",
+      "english": "cheese",
+      "hebrew": "גבינה",
+      "gender": "feminine",
+      "plural": "גבינות",
+      "cefr": "A1",
+      "ipa": "[ɡviˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d9fe75a-6b1b-410e-a881-054295068106",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "hebrew": "ביצה",
+      "gender": "feminine",
+      "plural": "ביצים",
+      "cefr": "A1",
+      "ipa": "[ˈbejtsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02406975-8dce-4f14-b7e5-e32c9279ad7c",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "hebrew": "תפוח",
+      "gender": "masculine",
+      "plural": "תפוחים",
+      "cefr": "A1",
+      "ipa": "[taˈpuaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1be5f13c-7cf0-41a4-a1b1-19d825f81e27",
+      "part-of-speech": "noun",
+      "english": "orange",
+      "hebrew": "תפוז",
+      "gender": "masculine",
+      "plural": "תפוזים",
+      "cefr": "A1",
+      "ipa": "[taˈpuz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5042268-e69f-4d0a-88d2-fcae5c65dbd3",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "hebrew": "עגבנייה",
+      "gender": "feminine",
+      "plural": "עגבניות",
+      "cefr": "A1",
+      "ipa": "[aɡvaniˈja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bb84762-28ab-4722-91b0-4f84090a28af",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "hebrew": "פרי",
+      "gender": "masculine",
+      "plural": "פירות",
+      "cefr": "A1",
+      "ipa": "[pʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3c7c9ec-e644-4d98-a75e-7ce81d808b57",
+      "part-of-speech": "noun",
+      "english": "vegetable",
+      "hebrew": "ירק",
+      "gender": "masculine",
+      "plural": "ירקות",
+      "cefr": "A1",
+      "ipa": "[ˈjeʁek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20bf2915-003c-4415-80e6-5f30a41628b1",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "hebrew": "תפוח אדמה",
+      "gender": "masculine",
+      "plural": "תפוחי אדמה",
+      "cefr": "A1",
+      "ipa": "[taˈpuaχ adaˈma]",
+      "context": "literally \"apple of the earth\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5be58a11-e6ff-4bd7-b8da-9d4c9f01d2b7",
+      "part-of-speech": "noun",
+      "english": "rice",
+      "hebrew": "אורז",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈoʁez]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4458becc-0ede-4270-acff-921659a8a33f",
+      "part-of-speech": "noun",
+      "english": "soup",
+      "hebrew": "מרק",
+      "gender": "masculine",
+      "plural": "מרקים",
+      "cefr": "A1",
+      "ipa": "[maˈʁak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bcdee8f-0476-44a2-9fd9-b1d6d9a3d8b9",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "hebrew": "סוכר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsukaʁ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7e95571-a709-4841-b704-c0a9526a091e",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "hebrew": "מלח",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈmelaχ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "567979fd-54c0-4449-85e3-4210a48e0cb8",
+      "part-of-speech": "noun",
+      "english": "oil",
+      "hebrew": "שמן",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʃemen]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6253c46-f8b7-4faa-ac87-e7b6a26247b8",
+      "part-of-speech": "noun",
+      "english": "salad",
+      "hebrew": "סלט",
+      "gender": "masculine",
+      "plural": "סלטים",
+      "cefr": "A1",
+      "ipa": "[saˈlat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14a05a1f-5f9d-4944-ba59-f8d17d999ddd",
+      "part-of-speech": "noun",
+      "english": "cake",
+      "hebrew": "עוגה",
+      "gender": "feminine",
+      "plural": "עוגות",
+      "cefr": "A1",
+      "ipa": "[uˈɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6efff010-c7a5-4416-b2f9-3defea2c6604",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "hebrew": "ארוחת בוקר",
+      "gender": "feminine",
+      "plural": "ארוחות בוקר",
+      "cefr": "A1",
+      "ipa": "[aʁuˈχat ˈbokeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb3fdea3-1233-4b89-8b68-24704a87bff2",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "hebrew": "ארוחת צהריים",
+      "gender": "feminine",
+      "plural": "ארוחות צהריים",
+      "cefr": "A1",
+      "ipa": "[aʁuˈχat tsohoˈʁajim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c50f15ee-afb0-4762-9cd1-5057a4f22b9d",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "hebrew": "ארוחת ערב",
+      "gender": "feminine",
+      "plural": "ארוחות ערב",
+      "cefr": "A1",
+      "ipa": "[aʁuˈχat ˈeʁev]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c74f444-cad0-4512-9c76-21fb28f86acc",
+      "part-of-speech": "noun",
+      "english": "food",
+      "hebrew": "אוכל",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈoχel]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3d70544-d640-484c-8b7e-2c3a47560234",
+      "part-of-speech": "noun",
+      "english": "menu",
+      "hebrew": "תפריט",
+      "gender": "masculine",
+      "plural": "תפריטים",
+      "cefr": "A2",
+      "ipa": "[tafˈʁit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65f8d548-8dc9-42a1-8536-44452a94318c",
+      "part-of-speech": "noun",
+      "english": "bill; account",
+      "hebrew": "חשבון",
+      "gender": "masculine",
+      "plural": "חשבונות",
+      "cefr": "A2",
+      "ipa": "[χeʒˈbon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88032903-d3b0-414a-8fd3-4d17ec4915fc",
+      "part-of-speech": "noun",
+      "english": "glass, cup",
+      "hebrew": "כוס",
+      "gender": "feminine",
+      "plural": "כוסות",
+      "cefr": "A1",
+      "ipa": "[kos]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff64aa01-7559-4997-8aab-0f6ceefdce15",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "hebrew": "צלחת",
+      "gender": "feminine",
+      "plural": "צלחות",
+      "cefr": "A2",
+      "ipa": "[tsaˈlaχat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79b27168-7147-477a-9f48-c1d19aef27bc",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "hebrew": "סכין",
+      "gender": "masculine",
+      "plural": "סכינים",
+      "cefr": "A2",
+      "ipa": "[saˈkin]",
+      "context": "also used as feminine",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1187c87-959f-46b5-b8e5-fb0a0699b5a4",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "hebrew": "מזלג",
+      "gender": "masculine",
+      "plural": "מזלגות",
+      "cefr": "A2",
+      "ipa": "[mazˈleɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acc6d356-8f20-468e-b8e9-d6d2a9e0f0aa",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "hebrew": "כף",
+      "gender": "feminine",
+      "plural": "כפות",
+      "cefr": "A2",
+      "ipa": "[kaf]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "192b1992-340d-4c07-9800-0b23fe6a6ca5",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "hebrew": "בקבוק",
+      "gender": "masculine",
+      "plural": "בקבוקים",
+      "cefr": "A2",
+      "ipa": "[baɡˈbuk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c989950-3231-4148-a432-e22a86106b50",
+      "part-of-speech": "noun",
+      "english": "mug, cup",
+      "hebrew": "ספל",
+      "gender": "masculine",
+      "plural": "ספלים",
+      "cefr": "A2",
+      "ipa": "[ˈsefel]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6211ac8-ff32-46b0-b0ed-301adacec0ca",
+      "part-of-speech": "noun",
+      "english": "hummus",
+      "hebrew": "חומוס",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈχumus]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "204597b2-b44c-4564-8508-0fff3dc59515",
+      "part-of-speech": "noun",
+      "english": "falafel",
+      "hebrew": "פלאפל",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[faˈlafel]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6eb3ff0-1e78-437d-9a23-94b648b283aa",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "hebrew": "בית",
+      "gender": "masculine",
+      "plural": "בתים",
+      "cefr": "A1",
+      "ipa": "[ˈbajit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9653cf53-2c80-4530-a14e-9f1329de0c68",
+      "part-of-speech": "noun",
+      "english": "flat, apartment",
+      "hebrew": "דירה",
+      "gender": "feminine",
+      "plural": "דירות",
+      "cefr": "A1",
+      "ipa": "[diˈʁa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dad4958f-3d95-47c6-8042-31465285018b",
+      "part-of-speech": "noun",
+      "english": "room",
+      "hebrew": "חדר",
+      "gender": "masculine",
+      "plural": "חדרים",
+      "cefr": "A1",
+      "ipa": "[ˈχedeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9557c0c4-47c4-42a7-8599-c5e2b3a8353e",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "hebrew": "מטבח",
+      "gender": "masculine",
+      "plural": "מטבחים",
+      "cefr": "A1",
+      "ipa": "[midˈbaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2b7fb7d-feb8-433c-890c-9a3f5521a2ac",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "hebrew": "חדר אמבטיה",
+      "gender": "masculine",
+      "plural": "חדרי אמבטיה",
+      "cefr": "A1",
+      "ipa": "[χaˈdaʁ amˈbatja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1016ccf4-3d49-4ee7-a27f-c700e78b7f2c",
+      "part-of-speech": "noun",
+      "english": "door",
+      "hebrew": "דלת",
+      "gender": "feminine",
+      "plural": "דלתות",
+      "cefr": "A1",
+      "ipa": "[ˈdelet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8db74667-2335-4ccd-8bfd-40ee9620ad89",
+      "part-of-speech": "noun",
+      "english": "window",
+      "hebrew": "חלון",
+      "gender": "masculine",
+      "plural": "חלונות",
+      "cefr": "A1",
+      "ipa": "[χaˈlon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b7d1a97-62a5-48a7-87b9-634a4886c1e7",
+      "part-of-speech": "noun",
+      "english": "table",
+      "hebrew": "שולחן",
+      "gender": "masculine",
+      "plural": "שולחנות",
+      "cefr": "A1",
+      "ipa": "[ʃulˈχan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "576e7fd7-7b19-4f87-91e8-a45b8016a0e5",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "hebrew": "כיסא",
+      "gender": "masculine",
+      "plural": "כיסאות",
+      "cefr": "A1",
+      "ipa": "[kiˈse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe33d836-9ed8-4df3-801a-b65e7b102134",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "hebrew": "מיטה",
+      "gender": "feminine",
+      "plural": "מיטות",
+      "cefr": "A1",
+      "ipa": "[miˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4036ded-3bc4-405a-8c94-779e5023f81a",
+      "part-of-speech": "noun",
+      "english": "key",
+      "hebrew": "מפתח",
+      "gender": "masculine",
+      "plural": "מפתחות",
+      "cefr": "A1",
+      "ipa": "[mafˈteaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ca096aa-eafb-4728-8efa-3374607db05c",
+      "part-of-speech": "noun",
+      "english": "wall",
+      "hebrew": "קיר",
+      "gender": "masculine",
+      "plural": "קירות",
+      "cefr": "A2",
+      "ipa": "[kiʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "059a507b-40cd-4f10-bd46-3ecf6341c8a3",
+      "part-of-speech": "noun",
+      "english": "floor",
+      "hebrew": "רצפה",
+      "gender": "feminine",
+      "plural": "רצפות",
+      "cefr": "A2",
+      "ipa": "[ʁitsˈpa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0dbd625-eadf-448b-8faf-7d1b59fafe3e",
+      "part-of-speech": "noun",
+      "english": "floor, storey",
+      "hebrew": "קומה",
+      "gender": "feminine",
+      "plural": "קומות",
+      "cefr": "A2",
+      "ipa": "[koˈma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f5b4303-671f-45a3-8ac4-6a146fe29940",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "hebrew": "גינה",
+      "gender": "feminine",
+      "plural": "גינות",
+      "cefr": "A1",
+      "ipa": "[ɡiˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1fa4736e-5035-4537-8e87-36fc259aee45",
+      "part-of-speech": "noun",
+      "english": "city, town",
+      "hebrew": "עיר",
+      "gender": "feminine",
+      "plural": "ערים",
+      "cefr": "A1",
+      "ipa": "[iʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5183c30-ccec-4305-80be-ccede504da38",
+      "part-of-speech": "noun",
+      "english": "village",
+      "hebrew": "כפר",
+      "gender": "masculine",
+      "plural": "כפרים",
+      "cefr": "A1",
+      "ipa": "[kfaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25ff932f-798d-4688-8fc0-c5712f0b5f86",
+      "part-of-speech": "noun",
+      "english": "place",
+      "hebrew": "מקום",
+      "gender": "masculine",
+      "plural": "מקומות",
+      "cefr": "A1",
+      "ipa": "[maˈkom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfc7baa0-7785-45a9-b7b7-dea221a91b97",
+      "part-of-speech": "noun",
+      "english": "street",
+      "hebrew": "רחוב",
+      "gender": "masculine",
+      "plural": "רחובות",
+      "cefr": "A1",
+      "ipa": "[ʁeˈχov]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1171b188-d68d-4891-8cd8-bcdc09b32842",
+      "part-of-speech": "noun",
+      "english": "country, land",
+      "hebrew": "ארץ",
+      "gender": "feminine",
+      "plural": "ארצות",
+      "cefr": "A1",
+      "ipa": "[ˈeʁets]",
+      "context": "הארץ: \"the Land\", i.e. Israel",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3a49904-014b-405e-9227-1d3236ba4edc",
+      "part-of-speech": "noun",
+      "english": "state, country",
+      "hebrew": "מדינה",
+      "gender": "feminine",
+      "plural": "מדינות",
+      "cefr": "A2",
+      "ipa": "[mediˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54f6ce29-1ae9-41ee-a12c-e9b184dd337c",
+      "part-of-speech": "noun",
+      "english": "world",
+      "hebrew": "עולם",
+      "gender": "masculine",
+      "plural": "עולמות",
+      "cefr": "A2",
+      "ipa": "[oˈlam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "062c414e-5ca4-4cb7-8fe2-ddbec53b49af",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "hebrew": "ים",
+      "gender": "masculine",
+      "plural": "ימים",
+      "cefr": "A1",
+      "ipa": "[jam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a16cffff-cc1c-4995-9585-bdc9960d258b",
+      "part-of-speech": "noun",
+      "english": "river",
+      "hebrew": "נהר",
+      "gender": "masculine",
+      "plural": "נהרות",
+      "cefr": "A1",
+      "ipa": "[naˈhaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1259ed4e-0c19-4c63-bae4-baa792accb1c",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "hebrew": "הר",
+      "gender": "masculine",
+      "plural": "הרים",
+      "cefr": "A1",
+      "ipa": "[haʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84bb623e-623a-4eba-9621-c113d2a91309",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "hebrew": "אגם",
+      "gender": "masculine",
+      "plural": "אגמים",
+      "cefr": "A2",
+      "ipa": "[aˈɡam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f6b4e6a-ae18-4a49-82af-4ff6fa166361",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "hebrew": "יער",
+      "gender": "masculine",
+      "plural": "יערות",
+      "cefr": "A2",
+      "ipa": "[ˈjaʔaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ab90fab-1fb6-41e3-a3a3-78ed8c420b55",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "hebrew": "שמיים",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ʃaˈmajim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d7fcd57d-abb3-44b9-b7ea-74eb1da80059",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "hebrew": "שמש",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈʃemeʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ba2c925-9467-43d0-9b6e-9bd987cf5a3d",
+      "part-of-speech": "noun",
+      "english": "moon",
+      "hebrew": "ירח",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[jaˈʁeaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa5f3cde-0be5-4f57-b9b1-b22b28999850",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "hebrew": "גשם",
+      "gender": "masculine",
+      "plural": "גשמים",
+      "cefr": "A1",
+      "ipa": "[ˈɡeʃem]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a18dad0c-2ce9-4445-972c-fbb055b833d0",
+      "part-of-speech": "noun",
+      "english": "snow",
+      "hebrew": "שלג",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʃeleɡ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2a94b01-bfa5-464d-a115-f4afeaac54f3",
+      "part-of-speech": "noun",
+      "english": "wind; spirit",
+      "hebrew": "רוח",
+      "gender": "feminine",
+      "plural": "רוחות",
+      "cefr": "A2",
+      "ipa": "[ˈʁuaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c5d6620-2a70-4713-92f0-6020586f732b",
+      "part-of-speech": "noun",
+      "english": "air",
+      "hebrew": "אוויר",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[aˈviʁ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b0417da-a300-4443-849a-da3f38e5be0d",
+      "part-of-speech": "noun",
+      "english": "tree; wood",
+      "hebrew": "עץ",
+      "gender": "masculine",
+      "plural": "עצים",
+      "cefr": "A1",
+      "ipa": "[ets]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "614c5092-2cea-4bbf-b07e-32499e45cdb4",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "hebrew": "פרח",
+      "gender": "masculine",
+      "plural": "פרחים",
+      "cefr": "A1",
+      "ipa": "[ˈpeʁaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8895357b-62a7-4a00-ab69-1a5f773a5409",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "hebrew": "כלב",
+      "gender": "masculine",
+      "plural": "כלבים",
+      "cefr": "A1",
+      "ipa": "[ˈkelev]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5aebaa5d-5c04-4547-aabb-27c00a0ee12a",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "hebrew": "חתול",
+      "gender": "masculine",
+      "plural": "חתולים",
+      "cefr": "A1",
+      "ipa": "[χaˈtul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f6ba726-fc83-4f48-9a1a-8d8693a80d2d",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "hebrew": "סוס",
+      "gender": "masculine",
+      "plural": "סוסים",
+      "cefr": "A2",
+      "ipa": "[sus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2f3027e-4d20-43de-ad89-c8ee1008db8f",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "hebrew": "ציפור",
+      "gender": "feminine",
+      "plural": "ציפורים",
+      "cefr": "A2",
+      "ipa": "[tsiˈpoʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2c7bfbe-aeb8-4507-9e69-ab953cb60e7b",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "hebrew": "פרה",
+      "gender": "feminine",
+      "plural": "פרות",
+      "cefr": "A2",
+      "ipa": "[paˈʁa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9647b8b-9c6f-451d-bccb-2764b3c49b08",
+      "part-of-speech": "noun",
+      "english": "shop",
+      "hebrew": "חנות",
+      "gender": "feminine",
+      "plural": "חנויות",
+      "cefr": "A1",
+      "ipa": "[χaˈnut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7c6058f-1ad7-49d9-80f9-b698827e0ce6",
+      "part-of-speech": "noun",
+      "english": "market",
+      "hebrew": "שוק",
+      "gender": "masculine",
+      "plural": "שווקים",
+      "cefr": "A2",
+      "ipa": "[ʃuk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "286160f2-62bd-4f04-9937-12f585536dc1",
+      "part-of-speech": "noun",
+      "english": "school",
+      "hebrew": "בית ספר",
+      "gender": "masculine",
+      "plural": "בתי ספר",
+      "cefr": "A1",
+      "ipa": "[bejt ˈsefeʁ]",
+      "context": "literally \"house of the book\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0a4e13d-9b8f-485d-bd76-e457bf6bb89a",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "hebrew": "בית חולים",
+      "gender": "masculine",
+      "plural": "בתי חולים",
+      "cefr": "A1",
+      "ipa": "[bejt χoˈlim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a807f25-5b01-48be-ae15-6d1f2a92efde",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "hebrew": "בנק",
+      "gender": "masculine",
+      "plural": "בנקים",
+      "cefr": "A1",
+      "ipa": "[bank]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37eff0db-6266-4ec0-8fcb-c767318bbb65",
+      "part-of-speech": "noun",
+      "english": "post office; post",
+      "hebrew": "דואר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈdoaʁ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc0e64ea-512a-4f5d-826d-ce9fa76eb5a5",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "hebrew": "מסעדה",
+      "gender": "feminine",
+      "plural": "מסעדות",
+      "cefr": "A1",
+      "ipa": "[misʔaˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8025789-a8f7-40b5-86fb-3ec2a30a7c5f",
+      "part-of-speech": "noun",
+      "english": "café",
+      "hebrew": "בית קפה",
+      "gender": "masculine",
+      "plural": "בתי קפה",
+      "cefr": "A1",
+      "ipa": "[bejt kaˈfe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acf5c976-27e3-453f-a253-312fbb3a7630",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "hebrew": "מלון",
+      "gender": "masculine",
+      "plural": "מלונות",
+      "cefr": "A1",
+      "ipa": "[maˈlon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfa48daa-4494-4b12-8a3e-aa7587a38f03",
+      "part-of-speech": "noun",
+      "english": "synagogue",
+      "hebrew": "בית כנסת",
+      "gender": "masculine",
+      "plural": "בתי כנסת",
+      "cefr": "A2",
+      "ipa": "[bejt ˈkneset]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c71d021-cebd-48e0-a2d6-17495cfded58",
+      "part-of-speech": "noun",
+      "english": "cinema",
+      "hebrew": "קולנוע",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[kolˈnoa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3ca685a-f13f-4f21-8b28-5b4adb2eba97",
+      "part-of-speech": "noun",
+      "english": "museum",
+      "hebrew": "מוזיאון",
+      "gender": "masculine",
+      "plural": "מוזיאונים",
+      "cefr": "A2",
+      "ipa": "[muzeˈʔon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ae569db-9756-49d8-9640-916620f7961e",
+      "part-of-speech": "noun",
+      "english": "park",
+      "hebrew": "פארק",
+      "gender": "masculine",
+      "plural": "פארקים",
+      "cefr": "A1",
+      "ipa": "[paʁk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "428b26ae-db1f-408a-bf96-72691f9c940f",
+      "part-of-speech": "noun",
+      "english": "office",
+      "hebrew": "משרד",
+      "gender": "masculine",
+      "plural": "משרדים",
+      "cefr": "A1",
+      "ipa": "[misˈʁad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffaa2c7d-301f-41e5-8f08-0ceb29c01944",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "hebrew": "עבודה",
+      "gender": "feminine",
+      "plural": "עבודות",
+      "cefr": "A1",
+      "ipa": "[avoˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9cd1de9-0934-4646-bfe8-6fef52fe9dd7",
+      "part-of-speech": "noun",
+      "english": "money; silver",
+      "hebrew": "כסף",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkesef]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e16a26d-e65c-4937-a7d4-59366182ee2f",
+      "part-of-speech": "noun",
+      "english": "price",
+      "hebrew": "מחיר",
+      "gender": "masculine",
+      "plural": "מחירים",
+      "cefr": "A2",
+      "ipa": "[meˈχiʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "044879e5-99dd-4499-b243-d2562fc5dfaf",
+      "part-of-speech": "noun",
+      "english": "station; stop",
+      "hebrew": "תחנה",
+      "gender": "feminine",
+      "plural": "תחנות",
+      "cefr": "A1",
+      "ipa": "[taχaˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c0d9c67-0f01-4798-bf51-1dbe93a0a76b",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "hebrew": "שדה תעופה",
+      "gender": "masculine",
+      "plural": "שדות תעופה",
+      "cefr": "A2",
+      "ipa": "[zde teʔuˈfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61d35660-92bf-4eb3-bb83-0f0276530527",
+      "part-of-speech": "noun",
+      "english": "train",
+      "hebrew": "רכבת",
+      "gender": "feminine",
+      "plural": "רכבות",
+      "cefr": "A1",
+      "ipa": "[ʁaˈkevet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea9c96d9-3998-477d-98eb-9e70557a0dae",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "hebrew": "אוטובוס",
+      "gender": "masculine",
+      "plural": "אוטובוסים",
+      "cefr": "A1",
+      "ipa": "[ˈotobus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bfd52e2-85c5-44a2-95c3-036af1497b8b",
+      "part-of-speech": "noun",
+      "english": "car",
+      "hebrew": "מכונית",
+      "gender": "feminine",
+      "plural": "מכוניות",
+      "cefr": "A1",
+      "ipa": "[meχoˈnit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "48e85964-4dd8-4bb9-9a5f-62d5f1c9a598",
+      "part-of-speech": "noun",
+      "english": "taxi",
+      "hebrew": "מונית",
+      "gender": "feminine",
+      "plural": "מוניות",
+      "cefr": "A1",
+      "ipa": "[moˈnit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4a9e38e-fd25-48bb-adf0-9e8342e9d29d",
+      "part-of-speech": "noun",
+      "english": "aeroplane",
+      "hebrew": "מטוס",
+      "gender": "masculine",
+      "plural": "מטוסים",
+      "cefr": "A1",
+      "ipa": "[maˈtos]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63bb8dd9-5442-4563-b3ca-77130da42143",
+      "part-of-speech": "noun",
+      "english": "ship",
+      "hebrew": "אונייה",
+      "gender": "feminine",
+      "plural": "אוניות",
+      "cefr": "A2",
+      "ipa": "[oniˈja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb73b3fc-831b-49d9-b8b3-9204d2fe501f",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "hebrew": "אופניים",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ofaˈnajim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11c030b1-5363-4f93-9ff9-4d2c4f874945",
+      "part-of-speech": "noun",
+      "english": "ticket; card",
+      "hebrew": "כרטיס",
+      "gender": "masculine",
+      "plural": "כרטיסים",
+      "cefr": "A1",
+      "ipa": "[kaʁˈtis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83246379-d926-4ff9-97a5-aea70465cb81",
+      "part-of-speech": "noun",
+      "english": "map; tablecloth",
+      "hebrew": "מפה",
+      "gender": "feminine",
+      "plural": "מפות",
+      "cefr": "A2",
+      "ipa": "[maˈpa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fde58d78-4754-49b3-be49-34d37d3951f5",
+      "part-of-speech": "noun",
+      "english": "road, way",
+      "hebrew": "דרך",
+      "gender": "feminine",
+      "plural": "דרכים",
+      "cefr": "A1",
+      "ipa": "[ˈdeʁeχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9109f4f-9a00-46aa-96e6-9335ab33cbd7",
+      "part-of-speech": "noun",
+      "english": "garment; (plural) clothes",
+      "hebrew": "בגד",
+      "gender": "masculine",
+      "plural": "בגדים",
+      "cefr": "A1",
+      "ipa": "[ˈbeɡed]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3d278f4-36df-4e03-be54-74b87b6fb053",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "hebrew": "חולצה",
+      "gender": "feminine",
+      "plural": "חולצות",
+      "cefr": "A1",
+      "ipa": "[χulˈtsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "445055f0-064e-47aa-851e-911a2e7a34e4",
+      "part-of-speech": "noun",
+      "english": "trousers",
+      "hebrew": "מכנסיים",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[miχnaˈsajim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "719713b7-5700-468e-86b9-2d61c9ba4918",
+      "part-of-speech": "noun",
+      "english": "dress",
+      "hebrew": "שמלה",
+      "gender": "feminine",
+      "plural": "שמלות",
+      "cefr": "A1",
+      "ipa": "[simˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dab7e78b-8ce6-4f6e-b03d-c458a2797643",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "hebrew": "נעל",
+      "gender": "feminine",
+      "plural": "נעליים",
+      "cefr": "A1",
+      "ipa": "[ˈnaʔal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d75d3798-cdc6-4fa6-b188-2da1b1a92b5e",
+      "part-of-speech": "noun",
+      "english": "coat",
+      "hebrew": "מעיל",
+      "gender": "masculine",
+      "plural": "מעילים",
+      "cefr": "A2",
+      "ipa": "[meˈʔil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7489676-6d67-494a-b13d-ccbbd28b0676",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "hebrew": "כובע",
+      "gender": "masculine",
+      "plural": "כובעים",
+      "cefr": "A2",
+      "ipa": "[ˈkova]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cc9fcb7-d7d1-4cd5-b15e-44bf0986de6a",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "hebrew": "תיק",
+      "gender": "masculine",
+      "plural": "תיקים",
+      "cefr": "A1",
+      "ipa": "[tik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "847fa2e1-1101-4abc-8351-c09ed6cb042f",
+      "part-of-speech": "noun",
+      "english": "book",
+      "hebrew": "ספר",
+      "gender": "masculine",
+      "plural": "ספרים",
+      "cefr": "A1",
+      "ipa": "[ˈsefeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7aa416f-45b2-489e-a69d-3f8c24f1bdd7",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "hebrew": "עט",
+      "gender": "masculine",
+      "plural": "עטים",
+      "cefr": "A1",
+      "ipa": "[et]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8fbd4a4-8ecf-49c8-a906-4bb24a5485dc",
+      "part-of-speech": "noun",
+      "english": "pencil",
+      "hebrew": "עיפרון",
+      "gender": "masculine",
+      "plural": "עפרונות",
+      "cefr": "A1",
+      "ipa": "[ipaˈʁon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f3129f3-da2b-4bce-947e-ae7d2d775b72",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "hebrew": "נייר",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[neˈjaʁ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45b58863-f61e-42be-b6db-3fefa9f2cd03",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "hebrew": "טלפון",
+      "gender": "masculine",
+      "plural": "טלפונים",
+      "cefr": "A1",
+      "ipa": "[ˈtelefon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bb028a4-ebee-4415-966d-cf584da6ed39",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "hebrew": "מחשב",
+      "gender": "masculine",
+      "plural": "מחשבים",
+      "cefr": "A1",
+      "ipa": "[maχˈʃev]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aaa15c20-a76c-4b85-bb86-91c8db9578ef",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "hebrew": "מכתב",
+      "gender": "masculine",
+      "plural": "מכתבים",
+      "cefr": "A2",
+      "ipa": "[miχˈtav]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "283ef5cf-7332-4ec9-8e3c-cf55374a2891",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "hebrew": "עיתון",
+      "gender": "masculine",
+      "plural": "עיתונים",
+      "cefr": "A2",
+      "ipa": "[iˈton]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "326d51f9-cf84-4fd7-ab94-627a4875f78f",
+      "part-of-speech": "noun",
+      "english": "question",
+      "hebrew": "שאלה",
+      "gender": "feminine",
+      "plural": "שאלות",
+      "cefr": "A1",
+      "ipa": "[ʃeʔeˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72798606-5068-4233-a6fb-f9e69ad6d035",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "hebrew": "תשובה",
+      "gender": "feminine",
+      "plural": "תשובות",
+      "cefr": "A1",
+      "ipa": "[tshuˈva]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a32c29c6-6ecb-4372-b431-8cd903eb8709",
+      "part-of-speech": "noun",
+      "english": "word",
+      "hebrew": "מילה",
+      "gender": "feminine",
+      "plural": "מילים",
+      "cefr": "A1",
+      "ipa": "[miˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e91000e-a61a-4b2c-9cb1-de4951d45a32",
+      "part-of-speech": "noun",
+      "english": "language; lip",
+      "hebrew": "שפה",
+      "gender": "feminine",
+      "plural": "שפות",
+      "cefr": "A1",
+      "ipa": "[saˈfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ebf4845-32a9-49de-b091-3fe6cf51b669",
+      "part-of-speech": "noun",
+      "english": "Hebrew (language)",
+      "hebrew": "עברית",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ivˈʁit]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6853043-a8ae-484d-a3c5-7d0168ac27b8",
+      "part-of-speech": "noun",
+      "english": "English (language)",
+      "hebrew": "אנגלית",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[anɡˈlit]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5acddd52-1aa3-4db3-b999-aad707d6d760",
+      "part-of-speech": "noun",
+      "english": "music",
+      "hebrew": "מוזיקה",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈmuzika]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88125746-4294-4bb1-bce1-8bc18df83bc8",
+      "part-of-speech": "noun",
+      "english": "film",
+      "hebrew": "סרט",
+      "gender": "masculine",
+      "plural": "סרטים",
+      "cefr": "A1",
+      "ipa": "[ˈseʁet]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "834a6e04-9912-4b87-9801-c5d9969ef5cd",
+      "part-of-speech": "noun",
+      "english": "game",
+      "hebrew": "משחק",
+      "gender": "masculine",
+      "plural": "משחקים",
+      "cefr": "A2",
+      "ipa": "[misˈχak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffba7188-351e-404e-9e77-eada6166159b",
+      "part-of-speech": "noun",
+      "english": "sport",
+      "hebrew": "ספורט",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[spoʁt]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "458072ed-074f-4333-b5a5-16122df72332",
+      "part-of-speech": "noun",
+      "english": "ball",
+      "hebrew": "כדור",
+      "gender": "masculine",
+      "plural": "כדורים",
+      "cefr": "A2",
+      "ipa": "[kaˈduʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fc8c347-34da-4e17-b37c-41a667694b07",
+      "part-of-speech": "noun",
+      "english": "colour; paint",
+      "hebrew": "צבע",
+      "gender": "masculine",
+      "plural": "צבעים",
+      "cefr": "A1",
+      "ipa": "[ˈtseva]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "acd2bc5a-a0fa-477a-86a1-496beb2e6461",
+      "part-of-speech": "noun",
+      "english": "thing",
+      "hebrew": "דבר",
+      "gender": "masculine",
+      "plural": "דברים",
+      "cefr": "A1",
+      "ipa": "[daˈvaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87da1159-d42a-4a35-8e09-7ca09c656d6e",
+      "part-of-speech": "noun",
+      "english": "gift, present",
+      "hebrew": "מתנה",
+      "gender": "feminine",
+      "plural": "מתנות",
+      "cefr": "A2",
+      "ipa": "[mataˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a79254c-b4f0-423a-ad72-ed9a6c86d456",
+      "part-of-speech": "noun",
+      "english": "holiday, vacation",
+      "hebrew": "חופשה",
+      "gender": "feminine",
+      "plural": "חופשות",
+      "cefr": "A2",
+      "ipa": "[χufˈʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4766b4a2-2d3a-4feb-9359-6b8d3f77b91a",
+      "part-of-speech": "noun",
+      "english": "holiday, festival",
+      "hebrew": "חג",
+      "gender": "masculine",
+      "plural": "חגים",
+      "cefr": "A2",
+      "ipa": "[χaɡ]",
+      "context": "חג שמח: happy holiday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d516c98c-d416-4191-80f4-dcd8768dcbc2",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "hebrew": "יום הולדת",
+      "gender": "masculine",
+      "plural": "ימי הולדת",
+      "cefr": "A1",
+      "ipa": "[jom huˈledet]",
+      "context": "יום הולדת שמח: happy birthday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9688872-5cdc-4316-98e8-e3c3a1cb62d6",
+      "part-of-speech": "noun",
+      "english": "party",
+      "hebrew": "מסיבה",
+      "gender": "feminine",
+      "plural": "מסיבות",
+      "cefr": "A2",
+      "ipa": "[mesiˈba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd41bca8-40e9-45b1-aff9-ae4f80318c63",
+      "part-of-speech": "noun",
+      "english": "news",
+      "hebrew": "חדשות",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[χadaˈʃot]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "02914d1a-8404-49e1-9008-18f0e5c8d5f7",
+      "part-of-speech": "noun",
+      "english": "story",
+      "hebrew": "סיפור",
+      "gender": "masculine",
+      "plural": "סיפורים",
+      "cefr": "A2",
+      "ipa": "[siˈpuʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6b89dcb-102d-493f-a291-309fda2d23a0",
+      "part-of-speech": "noun",
+      "english": "song; poem",
+      "hebrew": "שיר",
+      "gender": "masculine",
+      "plural": "שירים",
+      "cefr": "A1",
+      "ipa": "[ʃiʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bedb402a-183b-4495-bb1e-06a78f9e4fbc",
+      "part-of-speech": "noun",
+      "english": "picture; photo",
+      "hebrew": "תמונה",
+      "gender": "feminine",
+      "plural": "תמונות",
+      "cefr": "A1",
+      "ipa": "[tmuˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ad2a76a-e1a6-4196-b30c-c28a131755f5",
+      "part-of-speech": "noun",
+      "english": "class, classroom",
+      "hebrew": "כיתה",
+      "gender": "feminine",
+      "plural": "כיתות",
+      "cefr": "A2",
+      "ipa": "[kiˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9175645a-4242-48bd-bd91-92c0510ec99b",
+      "part-of-speech": "noun",
+      "english": "exam, test",
+      "hebrew": "מבחן",
+      "gender": "masculine",
+      "plural": "מבחנים",
+      "cefr": "A2",
+      "ipa": "[mivˈχan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "840fc428-89e8-4089-bb0e-85c404a6ec0e",
+      "part-of-speech": "noun",
+      "english": "university",
+      "hebrew": "אוניברסיטה",
+      "gender": "feminine",
+      "plural": "אוניברסיטאות",
+      "cefr": "A2",
+      "ipa": "[univeʁˈsita]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a08e56f-0465-4d22-9b42-5c15ea244c8e",
+      "part-of-speech": "noun",
+      "english": "light",
+      "hebrew": "אור",
+      "gender": "masculine",
+      "plural": "אורות",
+      "cefr": "A2",
+      "ipa": "[oʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f980c644-6fd0-426d-b6eb-2e08e564c30b",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "hebrew": "אש",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[eʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f8d13fa-66cd-423a-8a3e-35e158667264",
+      "part-of-speech": "noun",
+      "english": "end",
+      "hebrew": "סוף",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[sof]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "62610d9d-85c5-4da3-b3a1-57ed77c59af6",
+      "part-of-speech": "noun",
+      "english": "beginning",
+      "hebrew": "התחלה",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[hatχaˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ed5920a-c021-4d23-82f5-47933f7bc054",
+      "part-of-speech": "noun",
+      "english": "side",
+      "hebrew": "צד",
+      "gender": "masculine",
+      "plural": "צדדים",
+      "cefr": "A2",
+      "ipa": "[tsad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef13f9ca-ceee-4498-8446-2a5172ced4a0",
+      "part-of-speech": "noun",
+      "english": "page; pillar",
+      "hebrew": "עמוד",
+      "gender": "masculine",
+      "plural": "עמודים",
+      "cefr": "A2",
+      "ipa": "[aˈmud]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebcef51b-a855-45f3-9c88-1cbd2f07535c",
+      "part-of-speech": "noun",
+      "english": "number",
+      "hebrew": "מספר",
+      "gender": "masculine",
+      "plural": "מספרים",
+      "cefr": "A1",
+      "ipa": "[misˈpaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "860b3263-e742-4a33-87af-528f0909a7dd",
+      "part-of-speech": "noun",
+      "english": "part",
+      "hebrew": "חלק",
+      "gender": "masculine",
+      "plural": "חלקים",
+      "cefr": "A2",
+      "ipa": "[ˈχelek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e24fa97b-ea24-4de2-9048-70d2fea9e42c",
+      "part-of-speech": "noun",
+      "english": "life",
+      "hebrew": "חיים",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[χaˈjim]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d8fbc5c-e488-4e8a-9390-2b9e51594408",
+      "part-of-speech": "noun",
+      "english": "love",
+      "hebrew": "אהבה",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ahaˈva]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f95a3107-289f-4038-8ae1-0eea97153281",
+      "part-of-speech": "noun",
+      "english": "health",
+      "hebrew": "בריאות",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[bʁiˈʔut]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92770286-81df-4e65-beb1-81dc8d510a38",
+      "part-of-speech": "noun",
+      "english": "pain",
+      "hebrew": "כאב",
+      "gender": "masculine",
+      "plural": "כאבים",
+      "cefr": "A2",
+      "ipa": "[keˈʔev]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a50e4527-fb01-4812-bb16-f80678825f04",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "hebrew": "תרופה",
+      "gender": "feminine",
+      "plural": "תרופות",
+      "cefr": "A2",
+      "ipa": "[tʁuˈfa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07a050e4-2817-4cef-9030-57a0e90d75a4",
+      "part-of-speech": "noun",
+      "english": "one",
+      "hebrew": "אחת",
+      "cefr": "A1",
+      "ipa": "[aˈχat]",
+      "context": "counting form; with masculine nouns: אחד (exad)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "269b567f-1f51-42f4-ae82-871fe9161119",
+      "part-of-speech": "noun",
+      "english": "two",
+      "hebrew": "שתיים",
+      "cefr": "A1",
+      "ipa": "[ˈʃtajim]",
+      "context": "with masculine nouns: שניים (shnáyim)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b95b2e9c-093b-4d9a-921b-a75b6fab642a",
+      "part-of-speech": "noun",
+      "english": "three",
+      "hebrew": "שלוש",
+      "cefr": "A1",
+      "ipa": "[ʃaˈloʃ]",
+      "context": "with masculine nouns: שלושה (shlosha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b104688-33a2-4dae-9c9a-0bb72679a602",
+      "part-of-speech": "noun",
+      "english": "four",
+      "hebrew": "ארבע",
+      "cefr": "A1",
+      "ipa": "[ˈaʁba]",
+      "context": "with masculine nouns: ארבעה (arba'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af7acaf5-2065-41ea-be56-86eb86150843",
+      "part-of-speech": "noun",
+      "english": "five",
+      "hebrew": "חמש",
+      "cefr": "A1",
+      "ipa": "[χaˈmeʃ]",
+      "context": "with masculine nouns: חמישה (xamisha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c42dc7b4-95f3-4a22-9613-745e3fd76241",
+      "part-of-speech": "noun",
+      "english": "six",
+      "hebrew": "שש",
+      "cefr": "A1",
+      "ipa": "[ʃeʃ]",
+      "context": "with masculine nouns: שישה (shisha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f45b953-414a-4d07-b0e1-4b628bc90f05",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "hebrew": "שבע",
+      "cefr": "A1",
+      "ipa": "[ˈʃeva]",
+      "context": "with masculine nouns: שבעה (shiv'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e022a30-348d-452e-8cee-dbc796cf7f0f",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "hebrew": "שמונה",
+      "cefr": "A1",
+      "ipa": "[ˈʃmone]",
+      "context": "with masculine nouns: שמונה (shmona)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9a381cd-24fc-4f78-941c-e519709e339c",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "hebrew": "תשע",
+      "cefr": "A1",
+      "ipa": "[ˈteʃa]",
+      "context": "with masculine nouns: תשעה (tish'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdbaaf45-91d1-49a1-a460-43375ca1ec97",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "hebrew": "עשר",
+      "cefr": "A1",
+      "ipa": "[ˈeseʁ]",
+      "context": "with masculine nouns: עשרה (asara)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4096009-dd9f-46d1-a3e2-91400317d43d",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "hebrew": "עשרים",
+      "cefr": "A1",
+      "ipa": "[esˈʁim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89fb9057-30da-41ba-895a-40f20d6758fe",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "hebrew": "שלושים",
+      "cefr": "A1",
+      "ipa": "[ʃloˈʃim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a5e90a2-011e-44f8-82bd-97f57c3016bf",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "hebrew": "מאה",
+      "cefr": "A1",
+      "ipa": "[meˈʔa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "957ed950-bc39-4cd5-a927-546bc550ec32",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "hebrew": "אלף",
+      "cefr": "A2",
+      "ipa": "[ˈelef]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "caa24ea3-1b78-4db9-964c-49de89fd07a6",
+      "part-of-speech": "noun",
+      "english": "half",
+      "hebrew": "חצי",
+      "cefr": "A1",
+      "ipa": "[ˈχetsi]",
+      "context": "שתיים וחצי: half past two",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "471dfa7c-7cd7-4466-b6f1-fa0a3779bb08",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "hebrew": "אני",
+      "cefr": "A1",
+      "ipa": "[aˈni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3d436c6-900e-4a5d-ade9-b0ccfcc06ee7",
+      "part-of-speech": "pronoun",
+      "english": "you (to a man)",
+      "hebrew": "אתה",
+      "cefr": "A1",
+      "ipa": "[aˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5860df4c-aacd-42cd-9d03-a56236f7f6aa",
+      "part-of-speech": "pronoun",
+      "english": "you (to a woman)",
+      "hebrew": "את",
+      "cefr": "A1",
+      "ipa": "[at]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34be6331-1735-4b7c-be3e-7264ae6ba301",
+      "part-of-speech": "pronoun",
+      "english": "he; it (masculine)",
+      "hebrew": "הוא",
+      "cefr": "A1",
+      "ipa": "[hu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bb55f7b-4b65-4950-a762-690dee5044d5",
+      "part-of-speech": "pronoun",
+      "english": "she; it (feminine)",
+      "hebrew": "היא",
+      "cefr": "A1",
+      "ipa": "[hi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ec3beda-3835-46fd-9e86-1bf6d1575566",
+      "part-of-speech": "pronoun",
+      "english": "we",
+      "hebrew": "אנחנו",
+      "cefr": "A1",
+      "ipa": "[aˈnaχnu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "788c2812-3796-45f6-82a4-782f1443274b",
+      "part-of-speech": "pronoun",
+      "english": "you (plural)",
+      "hebrew": "אתם",
+      "cefr": "A1",
+      "ipa": "[aˈtem]",
+      "context": "to women only: אתן (aten)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c7ecfd0-d6d5-4ede-9044-a75e5e340fe2",
+      "part-of-speech": "pronoun",
+      "english": "they",
+      "hebrew": "הם",
+      "cefr": "A1",
+      "ipa": "[hem]",
+      "context": "women only: הן (hen)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bafb293-a540-42c5-8ae4-5c5dc672b227",
+      "part-of-speech": "pronoun",
+      "english": "this, it (masculine)",
+      "hebrew": "זה",
+      "cefr": "A1",
+      "ipa": "[ze]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "546e340e-8ac0-4d98-a06f-11ba48041c43",
+      "part-of-speech": "pronoun",
+      "english": "this, it (feminine)",
+      "hebrew": "זאת",
+      "cefr": "A1",
+      "ipa": "[zot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00e72f5a-304e-4907-a269-1d8bde68a624",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "hebrew": "מה",
+      "cefr": "A1",
+      "ipa": "[ma]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d1f7849-1876-4251-ad92-4c239bbaedbd",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "hebrew": "מי",
+      "cefr": "A1",
+      "ipa": "[mi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43bef0bf-5b5d-4b5d-bbb6-ae8556b7b255",
+      "part-of-speech": "pronoun",
+      "english": "which; what a …",
+      "hebrew": "איזה",
+      "cefr": "A1",
+      "ipa": "[ˈejze]",
+      "context": "feminine: איזו (éyzo)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e770fcf-ef6e-432a-9e80-b9a5a0006526",
+      "part-of-speech": "pronoun",
+      "english": "all, every",
+      "hebrew": "כל",
+      "cefr": "A1",
+      "ipa": "[kol]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00e65939-8a7e-4072-8f2a-21a15d6d3d15",
+      "part-of-speech": "pronoun",
+      "english": "everyone",
+      "hebrew": "כולם",
+      "cefr": "A1",
+      "ipa": "[kuˈlam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e63cd532-34c7-42df-8f8f-e07b6347e735",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "hebrew": "משהו",
+      "cefr": "A2",
+      "ipa": "[ˈmaʃehu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abb11c03-9311-440e-b5c9-c74e3b763b6d",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "hebrew": "מישהו",
+      "cefr": "A2",
+      "ipa": "[ˈmiʃehu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5bb8013-44dc-41f0-ad65-f1b9521b993b",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "hebrew": "שום דבר",
+      "cefr": "A2",
+      "ipa": "[ʃum daˈvaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75b9519b-8e07-43ef-a473-0e1c8a3b89d9",
+      "part-of-speech": "pronoun",
+      "english": "nobody",
+      "hebrew": "אף אחד",
+      "cefr": "A2",
+      "ipa": "[af eˈχad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6d2eadd-e976-4d26-9e3e-3bcc49151500",
+      "part-of-speech": "pronoun",
+      "english": "my, mine",
+      "hebrew": "שלי",
+      "cefr": "A1",
+      "ipa": "[ʃeˈli]",
+      "context": "after the noun: הספר שלי, my book",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84cb838e-5aac-402a-a1a7-df8bbcc27121",
+      "part-of-speech": "pronoun",
+      "english": "your, yours (to a man)",
+      "hebrew": "שלך",
+      "cefr": "A1",
+      "ipa": "[ʃelˈχa]",
+      "context": "to a woman: שלך (shelax)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "765c904f-efc3-44b2-af45-60011c10b58b",
+      "part-of-speech": "pronoun",
+      "english": "his",
+      "hebrew": "שלו",
+      "cefr": "A1",
+      "ipa": "[ʃeˈlo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ce76945-73a2-4532-b6e9-86f9e73f3547",
+      "part-of-speech": "pronoun",
+      "english": "her, hers",
+      "hebrew": "שלה",
+      "cefr": "A1",
+      "ipa": "[ʃeˈla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2de03b3a-f2d4-4d1b-8611-25cb1080a263",
+      "part-of-speech": "pronoun",
+      "english": "our, ours",
+      "hebrew": "שלנו",
+      "cefr": "A1",
+      "ipa": "[ʃeˈlanu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9cb256e-83da-4f09-9ffd-4304bce3e17a",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "hebrew": "להיות",
+      "cefr": "A1",
+      "ipa": "[lihˈjot]",
+      "context": "root ה-י-ה; no present tense: אני סטודנט, I'm a student",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dc771b92-879d-402a-aef1-64aeb2f6a3fe",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "hebrew": "לעשות",
+      "cefr": "A1",
+      "ipa": "[laʔaˈsot]",
+      "context": "root ע-ש-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "085922a4-dc3a-436c-82ec-f30bc6a1fb97",
+      "part-of-speech": "verb",
+      "english": "to want",
+      "hebrew": "לרצות",
+      "cefr": "A1",
+      "ipa": "[liʁˈtsot]",
+      "context": "root ר-צ-ה; present: רוצה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50502b4c-c58b-4f6a-8a4a-284050416ed0",
+      "part-of-speech": "verb",
+      "english": "to know",
+      "hebrew": "לדעת",
+      "cefr": "A1",
+      "ipa": "[laˈdaʔat]",
+      "context": "root י-ד-ע; present: יודע",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8506202-383d-49ce-9a29-017c71035ebc",
+      "part-of-speech": "verb",
+      "english": "can, be able",
+      "hebrew": "יכול",
+      "cefr": "A1",
+      "ipa": "[jaˈχol]",
+      "context": "present: יכול, יכולה, יכולים",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "733fb609-a378-4a36-b4ad-a00e37546f66",
+      "part-of-speech": "verb",
+      "english": "need, must",
+      "hebrew": "צריך",
+      "cefr": "A1",
+      "ipa": "[tsaˈʁiχ]",
+      "context": "present: צריך, צריכה, צריכים",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6be3a39-f274-4188-b59d-0d941ad6fdf2",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "hebrew": "לעבוד",
+      "cefr": "A1",
+      "ipa": "[laʔaˈvod]",
+      "context": "root ע-ב-ד",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aff26d37-1bac-4604-b473-1282688c9c1e",
+      "part-of-speech": "verb",
+      "english": "to go, walk",
+      "hebrew": "ללכת",
+      "cefr": "A1",
+      "ipa": "[laleˈχet]",
+      "context": "root ה-ל-ך; present: הולך",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3abb85b-a132-4460-8d3b-1fc94895c408",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "hebrew": "לבוא",
+      "cefr": "A1",
+      "ipa": "[laˈvo]",
+      "context": "root ב-ו-א; present: בא",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "757be735-348b-4aa9-80bd-386e32121c78",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "hebrew": "לראות",
+      "cefr": "A1",
+      "ipa": "[liʁˈʔot]",
+      "context": "root ר-א-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44d53bb9-7a1e-4798-b943-1376c53368de",
+      "part-of-speech": "verb",
+      "english": "to look",
+      "hebrew": "להסתכל",
+      "cefr": "A1",
+      "ipa": "[lehistaˈkel]",
+      "context": "root ס-כ-ל",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e2c614f-1253-4911-99dc-cc703d53f4b4",
+      "part-of-speech": "verb",
+      "english": "to hear",
+      "hebrew": "לשמוע",
+      "cefr": "A1",
+      "ipa": "[liʃˈmoa]",
+      "context": "root ש-מ-ע",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1c5e8e6-c03b-47eb-a82c-d844b9cb626e",
+      "part-of-speech": "verb",
+      "english": "to listen",
+      "hebrew": "להקשיב",
+      "cefr": "A1",
+      "ipa": "[lehakˈʃiv]",
+      "context": "root ק-ש-ב",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8092cfa2-02bb-46f7-818a-37fba45dd03a",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "hebrew": "לדבר",
+      "cefr": "A1",
+      "ipa": "[ledaˈbeʁ]",
+      "context": "root ד-ב-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6f760ec-2199-4320-b68c-29bc8d6743e0",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "hebrew": "להגיד",
+      "cefr": "A1",
+      "ipa": "[lehaˈɡid]",
+      "context": "past tense: אמר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45b935ce-9e85-4d45-a9ce-6dfe055c6b1e",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "hebrew": "לשאול",
+      "cefr": "A1",
+      "ipa": "[liʃˈʔol]",
+      "context": "root ש-א-ל",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5503d682-ee4f-4756-adbc-1fd379da74db",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "hebrew": "לענות",
+      "cefr": "A1",
+      "ipa": "[laʔaˈnot]",
+      "context": "root ע-נ-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb38fe7f-c6ea-4f4f-aa75-7f2e62c6c5c8",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "hebrew": "לאכול",
+      "cefr": "A1",
+      "ipa": "[leʔeˈχol]",
+      "context": "root א-כ-ל",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da40fe64-380e-4557-95c2-18ec4ca84e00",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "hebrew": "לשתות",
+      "cefr": "A1",
+      "ipa": "[liʃˈtot]",
+      "context": "root ש-ת-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e52962c8-5aab-4c98-8ce2-4cb05067ba13",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "hebrew": "לישון",
+      "cefr": "A1",
+      "ipa": "[liˈʃon]",
+      "context": "root י-ש-ן",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b6b84b6-3b7a-4b33-b606-db257ea86796",
+      "part-of-speech": "verb",
+      "english": "to live (reside)",
+      "hebrew": "לגור",
+      "cefr": "A1",
+      "ipa": "[laˈɡuʁ]",
+      "context": "root ג-ו-ר; present: גר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fb12e9f-5f8d-42ff-8b7e-662eb3be73b5",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "hebrew": "לחיות",
+      "cefr": "A2",
+      "ipa": "[liχˈjot]",
+      "context": "root ח-י-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9eea5283-ad70-44d3-b997-be17217d9f62",
+      "part-of-speech": "verb",
+      "english": "to love, like",
+      "hebrew": "לאהוב",
+      "cefr": "A1",
+      "ipa": "[leʔeˈhov]",
+      "context": "root א-ה-ב",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "863beb95-9635-4883-95e5-168617503915",
+      "part-of-speech": "verb",
+      "english": "to learn, study",
+      "hebrew": "ללמוד",
+      "cefr": "A1",
+      "ipa": "[lilˈmod]",
+      "context": "root ל-מ-ד",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8223e741-9b89-424b-96ff-620ff1077576",
+      "part-of-speech": "verb",
+      "english": "to read; to call",
+      "hebrew": "לקרוא",
+      "cefr": "A1",
+      "ipa": "[likˈʁo]",
+      "context": "root ק-ר-א",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80decf38-c40a-46ea-b930-5e66c78aab17",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "hebrew": "לכתוב",
+      "cefr": "A1",
+      "ipa": "[liχˈtov]",
+      "context": "root כ-ת-ב",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd2682b7-eb35-4f9e-896c-74bbacd00a20",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "hebrew": "לקנות",
+      "cefr": "A1",
+      "ipa": "[likˈnot]",
+      "context": "root ק-נ-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ece49ec7-15dd-45d1-bc2d-41989e40fb3f",
+      "part-of-speech": "verb",
+      "english": "to pay",
+      "hebrew": "לשלם",
+      "cefr": "A1",
+      "ipa": "[leʃaˈlem]",
+      "context": "root ש-ל-ם",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cbb8ec8-105d-44fb-b3fa-e195ff7f0a6b",
+      "part-of-speech": "verb",
+      "english": "to sell",
+      "hebrew": "למכור",
+      "cefr": "A2",
+      "ipa": "[limˈkoʁ]",
+      "context": "root מ-כ-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3946d3d0-8d92-443a-8ca6-3d797d67078a",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "hebrew": "לתת",
+      "cefr": "A1",
+      "ipa": "[laˈtet]",
+      "context": "root נ-ת-ן",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee3e91bf-9ac2-444f-bf42-507aa88f8312",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "hebrew": "לקחת",
+      "cefr": "A1",
+      "ipa": "[laˈkaχat]",
+      "context": "root ל-ק-ח",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11afcc0b-e13d-477d-97a3-c6c5c57ad75d",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "hebrew": "לפתוח",
+      "cefr": "A1",
+      "ipa": "[lifˈtoaχ]",
+      "context": "root פ-ת-ח",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "609ff6cf-b3cf-4bc0-b98d-ab8d8b3aba5b",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "hebrew": "לסגור",
+      "cefr": "A1",
+      "ipa": "[lizˈɡoʁ]",
+      "context": "root ס-ג-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c3bce7b-361f-44cf-bcb3-2050affa44d8",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "hebrew": "לבשל",
+      "cefr": "A1",
+      "ipa": "[levaˈʃel]",
+      "context": "root ב-ש-ל",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21f50925-90be-45f6-a076-c4eb83dbe3d8",
+      "part-of-speech": "verb",
+      "english": "to travel, go (by vehicle)",
+      "hebrew": "לנסוע",
+      "cefr": "A1",
+      "ipa": "[linˈsoa]",
+      "context": "root נ-ס-ע",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c97870b-c16e-442f-a628-99b88486a41f",
+      "part-of-speech": "verb",
+      "english": "to travel, tour; to go for a walk",
+      "hebrew": "לטייל",
+      "cefr": "A1",
+      "ipa": "[letaˈjel]",
+      "context": "root ט-י-ל",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f80eed5-f837-4a4a-a0fe-b541797ec7bf",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "hebrew": "לנהוג",
+      "cefr": "A2",
+      "ipa": "[linˈhoɡ]",
+      "context": "root נ-ה-ג",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2a77304-e7db-4ef0-978c-4e0386da72c6",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "hebrew": "להבין",
+      "cefr": "A1",
+      "ipa": "[lehaˈvin]",
+      "context": "root ב-י-ן",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2362a8af-c5ec-4d0f-9bd4-4061e6d6c358",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "hebrew": "לחשוב",
+      "cefr": "A1",
+      "ipa": "[laχˈʃov]",
+      "context": "root ח-ש-ב",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ee8c796-18bf-4ade-8749-a1746e307b63",
+      "part-of-speech": "verb",
+      "english": "to begin",
+      "hebrew": "להתחיל",
+      "cefr": "A2",
+      "ipa": "[lehatˈχil]",
+      "context": "root ת-ח-ל",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc8fd85e-c369-4434-84af-1128e379a83d",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "hebrew": "לגמור",
+      "cefr": "A2",
+      "ipa": "[liɡˈmoʁ]",
+      "context": "root ג-מ-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4487b105-c7ed-44ea-afb5-f0e61199c6ae",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "hebrew": "לשחק",
+      "cefr": "A1",
+      "ipa": "[lesaˈχek]",
+      "context": "root ש-ח-ק",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1c52090-13fe-405b-b2a1-09606da1dccb",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "hebrew": "לשחות",
+      "cefr": "A1",
+      "ipa": "[lisˈχot]",
+      "context": "root ש-ח-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5651ab83-3c76-404e-92eb-ca8444f7cfe9",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "hebrew": "לרוץ",
+      "cefr": "A1",
+      "ipa": "[laˈʁuts]",
+      "context": "root ר-ו-ץ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dbc839c-b2d0-4ec9-94d4-6bd8b8a3c8f9",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "hebrew": "לשבת",
+      "cefr": "A1",
+      "ipa": "[laˈʃevet]",
+      "context": "root י-ש-ב",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "819a798b-d8fd-4b8c-a2db-e2438bc5eb84",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "hebrew": "לעמוד",
+      "cefr": "A2",
+      "ipa": "[laʔaˈmod]",
+      "context": "root ע-מ-ד",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93f29f75-58d1-4bb4-be08-32f4e61ced78",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "hebrew": "לחכות",
+      "cefr": "A1",
+      "ipa": "[leχaˈkot]",
+      "context": "root ח-כ-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f3bf620-9bd2-4771-b33d-a7972a428d97",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "hebrew": "לחפש",
+      "cefr": "A1",
+      "ipa": "[leχaˈpes]",
+      "context": "root ח-פ-ש",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c781bad2-e6e9-458f-b6aa-e5602ec1a95a",
+      "part-of-speech": "verb",
+      "english": "to find",
+      "hebrew": "למצוא",
+      "cefr": "A1",
+      "ipa": "[limˈtso]",
+      "context": "root מ-צ-א",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45061738-6ade-4bae-9aaf-a69afb7d6eea",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "hebrew": "לעזור",
+      "cefr": "A1",
+      "ipa": "[laʔaˈzoʁ]",
+      "context": "root ע-ז-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba60516e-5970-4da8-a704-aaa57ffdbeda",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "hebrew": "להביא",
+      "cefr": "A2",
+      "ipa": "[lehaˈvi]",
+      "context": "root ב-ו-א",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "978e07a7-c57f-46eb-9be6-36234ae13b31",
+      "part-of-speech": "verb",
+      "english": "to put",
+      "hebrew": "לשים",
+      "cefr": "A2",
+      "ipa": "[laˈsim]",
+      "context": "root ש-י-ם",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aea651ce-c900-4cf0-bd40-31b11da10163",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "hebrew": "לרחוץ",
+      "cefr": "A2",
+      "ipa": "[liʁˈχots]",
+      "context": "root ר-ח-ץ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6edae425-8ca6-42ce-8c81-774ef267c0b0",
+      "part-of-speech": "verb",
+      "english": "to call (on the phone)",
+      "hebrew": "להתקשר",
+      "cefr": "A1",
+      "ipa": "[lehitkaˈʃeʁ]",
+      "context": "root ק-ש-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83093580-751e-4d84-b393-65ab663e5961",
+      "part-of-speech": "verb",
+      "english": "to go up; to cost",
+      "hebrew": "לעלות",
+      "cefr": "A1",
+      "ipa": "[laʔaˈlot]",
+      "context": "כמה זה עולה?: how much is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d606705-6cde-4313-a371-f7527ec77826",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "hebrew": "לרקוד",
+      "cefr": "A1",
+      "ipa": "[liʁˈkod]",
+      "context": "root ר-ק-ד",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9768389c-c824-4f76-90e6-25e0e7b7677d",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "hebrew": "לשיר",
+      "cefr": "A1",
+      "ipa": "[laˈʃiʁ]",
+      "context": "root ש-י-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d9006c9-749a-4a08-a852-68ef24062a9c",
+      "part-of-speech": "verb",
+      "english": "to come back, return",
+      "hebrew": "לחזור",
+      "cefr": "A2",
+      "ipa": "[laχˈzoʁ]",
+      "context": "root ח-ז-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c1e21b7-7a55-4307-830d-ec3f58ebd82b",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "hebrew": "לשכוח",
+      "cefr": "A2",
+      "ipa": "[liʃˈkoaχ]",
+      "context": "root ש-כ-ח",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed18c2fd-4517-4f54-b7f5-5e43532ecf4d",
+      "part-of-speech": "verb",
+      "english": "to show",
+      "hebrew": "להראות",
+      "cefr": "A2",
+      "ipa": "[lehaʁˈʔot]",
+      "context": "root ר-א-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9728021-0e49-4342-9dba-7bd88a59d4db",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "hebrew": "להשתמש",
+      "cefr": "A2",
+      "ipa": "[lehiʃtaˈmeʃ]",
+      "context": "root ש-מ-ש",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47a63206-763e-44c5-9fd0-c490488ed565",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "hebrew": "לנסות",
+      "cefr": "A2",
+      "ipa": "[lenaˈsot]",
+      "context": "root נ-ס-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51df900a-cb1c-4b10-aa16-ca07405a9cfd",
+      "part-of-speech": "verb",
+      "english": "to stay",
+      "hebrew": "להישאר",
+      "cefr": "A2",
+      "ipa": "[lehiʃaˈʔeʁ]",
+      "context": "root ש-א-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cec0e0e-1db2-49a7-bfb0-c3a9840d36d7",
+      "part-of-speech": "verb",
+      "english": "to hate",
+      "hebrew": "לשנוא",
+      "cefr": "A2",
+      "ipa": "[lisˈno]",
+      "context": "root ש-נ-א",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "257999d5-2d56-4574-a655-97820ae310ab",
+      "part-of-speech": "verb",
+      "english": "to hope",
+      "hebrew": "לקוות",
+      "cefr": "A2",
+      "ipa": "[lekaˈvot]",
+      "context": "root ק-ו-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd991835-934a-4769-8694-100e0a4e1515",
+      "part-of-speech": "verb",
+      "english": "to feel",
+      "hebrew": "להרגיש",
+      "cefr": "A2",
+      "ipa": "[lehaʁˈɡiʃ]",
+      "context": "root ר-ג-ש",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e09aa2f-78f1-4599-8eb0-4ababab07a61",
+      "part-of-speech": "verb",
+      "english": "to clean",
+      "hebrew": "לנקות",
+      "cefr": "A2",
+      "ipa": "[lenaˈkot]",
+      "context": "root נ-ק-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a449677f-55f1-4dc0-8421-0cd4375ef19f",
+      "part-of-speech": "verb",
+      "english": "to visit",
+      "hebrew": "לבקר",
+      "cefr": "A2",
+      "ipa": "[levaˈkeʁ]",
+      "context": "root ב-ק-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9d3c413-bf53-4d75-9240-ea1d847775e3",
+      "part-of-speech": "verb",
+      "english": "to know (someone), get to know",
+      "hebrew": "להכיר",
+      "cefr": "A2",
+      "ipa": "[lehaˈkiʁ]",
+      "context": "root נ-כ-ר; נעים להכיר: nice to meet you",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e44112d-2163-4359-87f9-908098b3298e",
+      "part-of-speech": "verb",
+      "english": "to remember",
+      "hebrew": "לזכור",
+      "cefr": "A2",
+      "ipa": "[lisˈkoʁ]",
+      "context": "root ז-כ-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68f8dd17-391d-4e6b-8a27-d68c36bd3897",
+      "part-of-speech": "verb",
+      "english": "to explain",
+      "hebrew": "להסביר",
+      "cefr": "A2",
+      "ipa": "[lehazˈbiʁ]",
+      "context": "root ס-ב-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ade7704f-31c4-441b-b360-d442aaaa4ce6",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "hebrew": "לפגוש",
+      "cefr": "A2",
+      "ipa": "[livˈɡoʃ]",
+      "context": "root פ-ג-ש",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "69784b83-6222-4ec3-bea5-32a631c1d4ec",
+      "part-of-speech": "verb",
+      "english": "to be late",
+      "hebrew": "לאחר",
+      "cefr": "A2",
+      "ipa": "[leʔaˈχeʁ]",
+      "context": "root א-ח-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "576bb65a-40cb-46ca-a8ad-864402d5b59c",
+      "part-of-speech": "verb",
+      "english": "to hurry",
+      "hebrew": "למהר",
+      "cefr": "A2",
+      "ipa": "[lemaˈheʁ]",
+      "context": "root מ-ה-ר",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a0f953b-4350-4b03-b40d-cd652eba176b",
+      "part-of-speech": "verb",
+      "english": "to rest",
+      "hebrew": "לנוח",
+      "cefr": "A2",
+      "ipa": "[laˈnuaχ]",
+      "context": "root נ-ו-ח",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "887db0ad-b87a-4f5e-90d0-ce1a656c19b9",
+      "part-of-speech": "verb",
+      "english": "to hurt",
+      "hebrew": "לכאוב",
+      "cefr": "A2",
+      "ipa": "[liχˈʔov]",
+      "context": "כואב לי הראש: I have a headache",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56c3b09b-b8b7-47a2-b5ff-278187a73211",
+      "part-of-speech": "verb",
+      "english": "to believe",
+      "hebrew": "להאמין",
+      "cefr": "A2",
+      "ipa": "[lehaʔaˈmin]",
+      "context": "root א-מ-ן",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1ba9fbb-822b-45a6-8637-400b5e735ae8",
+      "part-of-speech": "verb",
+      "english": "to smoke",
+      "hebrew": "לעשן",
+      "cefr": "A2",
+      "ipa": "[leʔaˈʃen]",
+      "context": "root ע-ש-ן",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82a49b8a-4d81-47d7-9605-058f7019d6f3",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "hebrew": "לנצח",
+      "cefr": "A2",
+      "ipa": "[lenaˈtseaχ]",
+      "context": "root נ-צ-ח",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac61970c-79c2-4fec-b4f1-273bacef41ad",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "hebrew": "לקום",
+      "cefr": "A2",
+      "ipa": "[laˈkum]",
+      "context": "root ק-ו-ם",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffac9993-e082-4c6e-a3ee-cb9f4a4912d7",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "hebrew": "לצחוק",
+      "cefr": "A2",
+      "ipa": "[litsˈχok]",
+      "context": "root צ-ח-ק",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da19cac8-bdee-42b8-9a5d-5338a029a24e",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "hebrew": "לבכות",
+      "cefr": "A2",
+      "ipa": "[livˈkot]",
+      "context": "root ב-כ-ה",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51d0beb8-95b5-4c0d-a673-69d98b8a8d7a",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "hebrew": "טוב",
+      "cefr": "A1",
+      "ipa": "[tov]",
+      "context": "feminine: טובה (tova)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4543be2-ec9e-4e7b-8eb9-fb2cf9a47298",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "hebrew": "רע",
+      "cefr": "A1",
+      "ipa": "[ʁa]",
+      "context": "feminine: רעה (ra'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa3526a6-c1f3-4d9e-bb53-d89aede05230",
+      "part-of-speech": "adjective",
+      "english": "big, large",
+      "hebrew": "גדול",
+      "cefr": "A1",
+      "ipa": "[ɡaˈdol]",
+      "context": "feminine: גדולה (gdola)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5daa8562-0213-4ac8-987e-e4ab95956808",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "hebrew": "קטן",
+      "cefr": "A1",
+      "ipa": "[kaˈtan]",
+      "context": "feminine: קטנה (ktana)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ed25446-5dba-44fa-bc3e-507c39db86d9",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "hebrew": "חדש",
+      "cefr": "A1",
+      "ipa": "[χaˈdaʃ]",
+      "context": "feminine: חדשה (xadasha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef45f24c-2223-4469-9c48-9577c3e8c08a",
+      "part-of-speech": "adjective",
+      "english": "old (not new)",
+      "hebrew": "ישן",
+      "cefr": "A1",
+      "ipa": "[jaˈʃan]",
+      "context": "feminine: ישנה (yeshana)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "537cd413-cf60-44a3-98e1-5941845c66b1",
+      "part-of-speech": "adjective",
+      "english": "old (not young)",
+      "hebrew": "זקן",
+      "cefr": "A1",
+      "ipa": "[zaˈken]",
+      "context": "feminine: זקנה (zkena)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39fa47aa-7b50-4d5d-910c-58ad964af8d5",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "hebrew": "צעיר",
+      "cefr": "A1",
+      "ipa": "[tsaˈʔiʁ]",
+      "context": "feminine: צעירה (tse'ira)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fda89a6f-09a6-409a-81cf-222bd11e3648",
+      "part-of-speech": "adjective",
+      "english": "beautiful, pretty; nice",
+      "hebrew": "יפה",
+      "cefr": "A1",
+      "ipa": "[jaˈfe]",
+      "context": "feminine: יפה (yafa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abe56c57-8a0d-4477-b572-03f64ac06301",
+      "part-of-speech": "adjective",
+      "english": "ugly",
+      "hebrew": "מכוער",
+      "cefr": "A1",
+      "ipa": "[meχoˈʔaʁ]",
+      "context": "feminine: מכוערת (mexo'éret)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "744de741-099f-4544-a9b5-d594d1a20fd1",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "hebrew": "ארוך",
+      "cefr": "A1",
+      "ipa": "[aˈʁoχ]",
+      "context": "feminine: ארוכה (aruka)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6b2bef5-c70a-4bf6-9a27-c6ad302aa623",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "hebrew": "קצר",
+      "cefr": "A1",
+      "ipa": "[kaˈtsaʁ]",
+      "context": "feminine: קצרה (ktsara)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c3f7288-caa4-44a2-b8fd-6880a0f8db64",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "hebrew": "גבוה",
+      "cefr": "A1",
+      "ipa": "[ɡaˈvoa]",
+      "context": "feminine: גבוהה (gvoha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6746a451-edb1-43ee-b476-fcaa78e55ffc",
+      "part-of-speech": "adjective",
+      "english": "short, low",
+      "hebrew": "נמוך",
+      "cefr": "A1",
+      "ipa": "[naˈmuχ]",
+      "context": "feminine: נמוכה (nmuxa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "627b2986-3d5b-4d62-a6f6-f7406793eb1a",
+      "part-of-speech": "adjective",
+      "english": "fat",
+      "hebrew": "שמן",
+      "cefr": "A2",
+      "ipa": "[ʃaˈmen]",
+      "context": "feminine: שמנה (shmena)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "792904ee-f00e-4b17-addd-b828131032b8",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "hebrew": "רזה",
+      "cefr": "A2",
+      "ipa": "[ʁaˈze]",
+      "context": "feminine: רזה (raza)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f8103fe-32d8-4e4d-8fa6-36be48de6664",
+      "part-of-speech": "adjective",
+      "english": "expensive; dear",
+      "hebrew": "יקר",
+      "cefr": "A1",
+      "ipa": "[jaˈkaʁ]",
+      "context": "feminine: יקרה (yekara)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a99e5c8-a41d-4273-912b-f80e78800beb",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "hebrew": "זול",
+      "cefr": "A1",
+      "ipa": "[zol]",
+      "context": "feminine: זולה (zola)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d4db0f9-4e1e-4c70-91af-08d5a853daf5",
+      "part-of-speech": "adjective",
+      "english": "hot, warm",
+      "hebrew": "חם",
+      "cefr": "A1",
+      "ipa": "[χam]",
+      "context": "feminine: חמה (xama)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ddb7365-daf2-46bb-b26e-95331d5c5344",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "hebrew": "קר",
+      "cefr": "A1",
+      "ipa": "[kaʁ]",
+      "context": "feminine: קרה (kara)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6074ac54-6e5d-4ef7-abff-e24428d05b43",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "hebrew": "מהיר",
+      "cefr": "A1",
+      "ipa": "[maˈhiʁ]",
+      "context": "feminine: מהירה (mehira)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "621ba650-ac9d-4caf-8319-5b35162b8afa",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "hebrew": "איטי",
+      "cefr": "A1",
+      "ipa": "[iˈti]",
+      "context": "feminine: איטית (itit)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32625023-09f2-4a98-b3c1-0ec1b89e80ed",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "hebrew": "שמח",
+      "cefr": "A1",
+      "ipa": "[saˈmeaχ]",
+      "context": "feminine: שמחה (smexa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11a1ccca-9963-4d42-9b24-5136ded4756f",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "hebrew": "עצוב",
+      "cefr": "A1",
+      "ipa": "[aˈtsuv]",
+      "context": "feminine: עצובה (atsuva)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd15e140-25ec-4a3e-9bd2-c2b81ac75ccd",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "hebrew": "עייף",
+      "cefr": "A1",
+      "ipa": "[aˈjef]",
+      "context": "feminine: עייפה (ayefa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "140e93f7-7b91-4f7a-a814-712af79d4bb6",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "hebrew": "רעב",
+      "cefr": "A1",
+      "ipa": "[ʁaˈʔev]",
+      "context": "feminine: רעבה (re'eva)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b8c4f66-ac28-4420-b0cb-6a2313891de1",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "hebrew": "צמא",
+      "cefr": "A1",
+      "ipa": "[tsaˈme]",
+      "context": "feminine: צמאה (tsme'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a76f5cc-f65e-42e3-8d1a-c13a9e84d470",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "hebrew": "חולה",
+      "cefr": "A1",
+      "ipa": "[χoˈle]",
+      "context": "feminine: חולה (xola)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4d2ceda-def3-4093-adfd-1720ca3e822c",
+      "part-of-speech": "adjective",
+      "english": "healthy",
+      "hebrew": "בריא",
+      "cefr": "A2",
+      "ipa": "[baˈʁi]",
+      "context": "feminine: בריאה (bri'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55497950-c03e-447f-952d-68ec96e98250",
+      "part-of-speech": "adjective",
+      "english": "easy; light",
+      "hebrew": "קל",
+      "cefr": "A1",
+      "ipa": "[kal]",
+      "context": "feminine: קלה (kala)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2de2459-4568-430c-83ea-7742fb1ef93a",
+      "part-of-speech": "adjective",
+      "english": "difficult; hard",
+      "hebrew": "קשה",
+      "cefr": "A1",
+      "ipa": "[kaˈʃe]",
+      "context": "feminine: קשה (kasha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5e9b16e-1678-4d83-8570-9671d9c81bdb",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "hebrew": "כבד",
+      "cefr": "A2",
+      "ipa": "[kaˈved]",
+      "context": "feminine: כבדה (kveda)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52053375-2d3d-4491-892b-8684c77463ee",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "hebrew": "חשוב",
+      "cefr": "A2",
+      "ipa": "[χaˈʃuv]",
+      "context": "feminine: חשובה (xashuva)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46870926-4792-4db3-a71d-a19ee8715d52",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "hebrew": "מעניין",
+      "cefr": "A1",
+      "ipa": "[meʔanˈjen]",
+      "context": "feminine: מעניינת (me'anyénet)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc567e5e-b054-4f76-95ad-071f6e9707b8",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "hebrew": "נקי",
+      "cefr": "A2",
+      "ipa": "[naˈki]",
+      "context": "feminine: נקייה (nekiya)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb4ebe3b-e705-4bc0-8f7d-5c731b68460a",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "hebrew": "מלוכלך",
+      "cefr": "A2",
+      "ipa": "[meluχˈlaχ]",
+      "context": "feminine: מלוכלכת (meluxléxet)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5df197a0-4dd2-4604-8692-f49ecbd00e07",
+      "part-of-speech": "adjective",
+      "english": "full",
+      "hebrew": "מלא",
+      "cefr": "A2",
+      "ipa": "[maˈle]",
+      "context": "feminine: מלאה (mele'a)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72be5092-54a2-46ea-8a00-568349ca2bc4",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "hebrew": "ריק",
+      "cefr": "A2",
+      "ipa": "[ʁek]",
+      "context": "feminine: ריקה (reka)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f485dd63-9d33-4096-a4ed-65bde593ea62",
+      "part-of-speech": "adjective",
+      "english": "open",
+      "hebrew": "פתוח",
+      "cefr": "A2",
+      "ipa": "[paˈtuaχ]",
+      "context": "feminine: פתוחה (ptuxa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b4aee12-c9e6-4fd6-a1a5-6e5a166aca78",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "hebrew": "סגור",
+      "cefr": "A2",
+      "ipa": "[saˈɡuʁ]",
+      "context": "feminine: סגורה (sgura)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e84f4bb-77ce-4c2c-81e3-db85e71e0a70",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "hebrew": "אדום",
+      "cefr": "A1",
+      "ipa": "[aˈdom]",
+      "context": "feminine: אדומה (aduma)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da4c9060-967f-41fd-b99d-89a5f83dd074",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "hebrew": "כחול",
+      "cefr": "A1",
+      "ipa": "[kaˈχol]",
+      "context": "feminine: כחולה (kxula)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd901fce-565f-4259-a9c7-8fea89e7d6c0",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "hebrew": "ירוק",
+      "cefr": "A1",
+      "ipa": "[jaˈʁok]",
+      "context": "feminine: ירוקה (yeruka)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54c600c9-003e-4bd8-86c3-3a38efa74e98",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "hebrew": "צהוב",
+      "cefr": "A1",
+      "ipa": "[tsaˈhov]",
+      "context": "feminine: צהובה (tsehuba)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c1dd513-4a90-45ff-95a9-02cbba9f876a",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "hebrew": "שחור",
+      "cefr": "A1",
+      "ipa": "[ʃaˈχoʁ]",
+      "context": "feminine: שחורה (shxora)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd8b727e-3478-4ca3-8ea8-f028797a5c1b",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "hebrew": "לבן",
+      "cefr": "A1",
+      "ipa": "[laˈvan]",
+      "context": "feminine: לבנה (levana)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38f01436-8d35-48da-8045-46a75e56805d",
+      "part-of-speech": "adjective",
+      "english": "grey",
+      "hebrew": "אפור",
+      "cefr": "A1",
+      "ipa": "[aˈfoʁ]",
+      "context": "feminine: אפורה (afora)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99c1279c-0f79-40e4-9c62-dad925ab4730",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "hebrew": "חום",
+      "cefr": "A1",
+      "ipa": "[χum]",
+      "context": "feminine: חומה (xuma)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72298929-d2ab-4858-ae78-0d17be8a6680",
+      "part-of-speech": "adjective",
+      "english": "nice, kind",
+      "hebrew": "נחמד",
+      "cefr": "A1",
+      "ipa": "[neχˈmad]",
+      "context": "feminine: נחמדה (nexmada)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56987bca-dfab-4fc1-a55e-fca59dda68cc",
+      "part-of-speech": "adjective",
+      "english": "correct, right, true",
+      "hebrew": "נכון",
+      "cefr": "A1",
+      "ipa": "[naˈχon]",
+      "context": "feminine: נכונה (nexona)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2859ff4b-cb84-4c08-9e2f-88301d4f1ca1",
+      "part-of-speech": "adjective",
+      "english": "simple",
+      "hebrew": "פשוט",
+      "cefr": "A2",
+      "ipa": "[paˈʃut]",
+      "context": "feminine: פשוטה (pshuta)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34ad103e-3146-4bdc-9df7-9d97a59c193f",
+      "part-of-speech": "adjective",
+      "english": "free, vacant",
+      "hebrew": "פנוי",
+      "cefr": "A2",
+      "ipa": "[paˈnuj]",
+      "context": "feminine: פנויה (pnuya)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1dde187-31a4-41a0-8c10-0927a31dd528",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "hebrew": "עסוק",
+      "cefr": "A2",
+      "ipa": "[aˈsuk]",
+      "context": "feminine: עסוקה (asuka)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cf16e58-7cf2-4929-97b7-9691aff7951a",
+      "part-of-speech": "adjective",
+      "english": "sure; safe",
+      "hebrew": "בטוח",
+      "cefr": "A2",
+      "ipa": "[baˈtuaχ]",
+      "context": "feminine: בטוחה (btuxa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd0c0269-ff45-4bd1-a3ab-dbf7bc163312",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "hebrew": "מתוק",
+      "cefr": "A2",
+      "ipa": "[maˈtok]",
+      "context": "feminine: מתוקה (metuka)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8270c38-24cd-45f5-9625-16e4eacfb09c",
+      "part-of-speech": "adjective",
+      "english": "tasty, delicious",
+      "hebrew": "טעים",
+      "cefr": "A1",
+      "ipa": "[taˈʔim]",
+      "context": "feminine: טעימה (te'ima)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aeb9f47-9d3b-414e-b412-175b34e70149",
+      "part-of-speech": "adjective",
+      "english": "fresh",
+      "hebrew": "טרי",
+      "cefr": "A2",
+      "ipa": "[taˈʁi]",
+      "context": "feminine: טרייה (triya)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41b0cf93-779f-4570-8424-0d7f9d1b4251",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "hebrew": "עשיר",
+      "cefr": "A2",
+      "ipa": "[aˈʃiʁ]",
+      "context": "feminine: עשירה (ashira)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e7adb4b-1201-4b63-8e2c-9debcc5466cf",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "hebrew": "עני",
+      "cefr": "A2",
+      "ipa": "[aˈni]",
+      "context": "feminine: ענייה (aniya)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0e98328-3b3f-499b-96aa-d52124e826b4",
+      "part-of-speech": "adjective",
+      "english": "clever, wise",
+      "hebrew": "חכם",
+      "cefr": "A2",
+      "ipa": "[χaˈχam]",
+      "context": "feminine: חכמה (xaxama)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5443425d-9a23-4276-ae25-dd883a37ae1d",
+      "part-of-speech": "adjective",
+      "english": "stupid",
+      "hebrew": "טיפש",
+      "cefr": "A2",
+      "ipa": "[tiˈpeʃ]",
+      "context": "feminine: טיפשה (tipsha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "015066d7-5451-4dcf-a255-915b4190590f",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "hebrew": "כועס",
+      "cefr": "A2",
+      "ipa": "[koˈʔes]",
+      "context": "feminine: כועסת (ko'éset)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21a57046-0fde-4a80-9bc3-8e708811c34c",
+      "part-of-speech": "adjective",
+      "english": "spicy",
+      "hebrew": "חריף",
+      "cefr": "A2",
+      "ipa": "[χaˈʁif]",
+      "context": "feminine: חריפה (xarifa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65cbefe3-9327-49d7-ac3b-0166374fd457",
+      "part-of-speech": "adjective",
+      "english": "wet",
+      "hebrew": "רטוב",
+      "cefr": "A2",
+      "ipa": "[ʁaˈtuv]",
+      "context": "feminine: רטובה (retuba)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92b6af45-64dd-4297-895b-ab6f589e0560",
+      "part-of-speech": "adjective",
+      "english": "dry",
+      "hebrew": "יבש",
+      "cefr": "A2",
+      "ipa": "[jaˈveʃ]",
+      "context": "feminine: יבשה (yevesha)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "785032ed-0ef2-401b-820a-a2d64b2b120d",
+      "part-of-speech": "adjective",
+      "english": "quiet",
+      "hebrew": "שקט",
+      "cefr": "A2",
+      "ipa": "[ʃaˈket]",
+      "context": "feminine: שקטה (shketa)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c7afda5-cac2-4062-8fd6-490c6407e5b7",
+      "part-of-speech": "adjective",
+      "english": "noisy, loud",
+      "hebrew": "רועש",
+      "cefr": "A2",
+      "ipa": "[ʁoˈʔeʃ]",
+      "context": "feminine: רועשת (ro'éshet)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "754397ef-a0e9-4094-8d14-7192f4f51852",
+      "part-of-speech": "adjective",
+      "english": "famous",
+      "hebrew": "מפורסם",
+      "cefr": "A2",
+      "ipa": "[mefuʁˈsam]",
+      "context": "feminine: מפורסמת (mefursémet)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de5f89d1-adad-41aa-a7ed-709085193453",
+      "part-of-speech": "adjective",
+      "english": "foreign; strange",
+      "hebrew": "זר",
+      "cefr": "A2",
+      "ipa": "[zaʁ]",
+      "context": "feminine: זרה (zara)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c17169f4-f867-4cab-acb9-b983d4a4c53c",
+      "part-of-speech": "adjective",
+      "english": "Israeli",
+      "hebrew": "ישראלי",
+      "cefr": "A1",
+      "ipa": "[jisʁeʔeˈli]",
+      "context": "feminine: ישראלית (yisre'elit)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a4d0e75-7d28-4824-a2fd-c3414081800d",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "hebrew": "מוכן",
+      "cefr": "A1",
+      "ipa": "[muˈχan]",
+      "context": "feminine: מוכנה (muxana)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25010eff-c52e-4b28-b13d-9f118b8dde32",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "hebrew": "היום",
+      "cefr": "A1",
+      "ipa": "[haˈjom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dca910e9-eda0-46bc-9ad0-e3ac3a896659",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "hebrew": "מחר",
+      "cefr": "A1",
+      "ipa": "[maˈχaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58acaed5-2b91-403d-94cb-af39c136970a",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "hebrew": "אתמול",
+      "cefr": "A1",
+      "ipa": "[etˈmol]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "359efb36-a1ac-4e4d-a4e7-8983e565910f",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "hebrew": "עכשיו",
+      "cefr": "A1",
+      "ipa": "[aχˈʃav]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09506b33-aed5-4989-92ed-a67c53cdf55c",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "hebrew": "תמיד",
+      "cefr": "A1",
+      "ipa": "[taˈmid]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "108d27f3-d9b5-406c-a819-393f8bb29dfc",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "hebrew": "אף פעם",
+      "cefr": "A1",
+      "ipa": "[af ˈpaʔam]",
+      "context": "with לא: אף פעם לא",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "673fabf9-bb1c-494c-9c58-11979e71c5f1",
+      "part-of-speech": "adverb",
+      "english": "often",
+      "hebrew": "לעיתים קרובות",
+      "cefr": "A1",
+      "ipa": "[leʔiˈtim kʁoˈvot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9b6862c-d0ad-46ba-a885-ae662b0bf2a6",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "hebrew": "לפעמים",
+      "cefr": "A1",
+      "ipa": "[lifʔaˈmim]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3add07da-9546-4661-817e-626590bbd0c5",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "hebrew": "פה",
+      "cefr": "A1",
+      "ipa": "[po]",
+      "context": "also כאן (kan)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53dccf4b-6c4b-4bdc-83ae-de63b47f7ab8",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "hebrew": "שם",
+      "cefr": "A1",
+      "ipa": "[ʃam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "646fc1ad-fa7a-494a-86bd-e926b146878b",
+      "part-of-speech": "adverb",
+      "english": "up, upstairs",
+      "hebrew": "למעלה",
+      "cefr": "A2",
+      "ipa": "[leˈmala]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1652276-8682-4ffc-8393-b06bc583e3d9",
+      "part-of-speech": "adverb",
+      "english": "down, downstairs",
+      "hebrew": "למטה",
+      "cefr": "A2",
+      "ipa": "[leˈmata]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbb329e9-65f0-4685-a535-70e86770f86d",
+      "part-of-speech": "adverb",
+      "english": "near",
+      "hebrew": "קרוב",
+      "cefr": "A1",
+      "ipa": "[kaˈʁov]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5125c3d6-4322-494a-a0f8-fdc7aa01f795",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "hebrew": "רחוק",
+      "cefr": "A1",
+      "ipa": "[ʁaˈχok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d11cadb2-6650-4166-a7b7-fc573e664da6",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "hebrew": "ימינה",
+      "cefr": "A1",
+      "ipa": "[jaˈmina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "187c8bc0-afdf-43bc-a131-8d79766b82a8",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "hebrew": "שמאלה",
+      "cefr": "A1",
+      "ipa": "[ˈsmola]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49d8eca6-902d-4c0e-a553-3f6691264c0f",
+      "part-of-speech": "adverb",
+      "english": "straight on",
+      "hebrew": "ישר",
+      "cefr": "A2",
+      "ipa": "[jaˈʃaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93a36096-ac08-4ae0-892d-c2b9554b5526",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "hebrew": "מאוד",
+      "cefr": "A1",
+      "ipa": "[meˈʔod]",
+      "context": "after the adjective: יפה מאוד, very nice",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "251e32f8-4e0f-4979-a23c-a7120f3c739a",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "hebrew": "קצת",
+      "cefr": "A1",
+      "ipa": "[ktsat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5528356b-195e-482e-8d16-74ddf01590cf",
+      "part-of-speech": "adverb",
+      "english": "a lot, much, many",
+      "hebrew": "הרבה",
+      "cefr": "A1",
+      "ipa": "[haʁˈbe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86a289de-dc84-46e5-8195-5f42214f32d6",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "hebrew": "טוב",
+      "cefr": "A1",
+      "ipa": "[tov]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "534e4501-5247-452f-90c2-620c7f8278be",
+      "part-of-speech": "adverb",
+      "english": "quickly",
+      "hebrew": "מהר",
+      "cefr": "A1",
+      "ipa": "[maˈheʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cde6847-6cd9-4049-8a35-8718331290b6",
+      "part-of-speech": "adverb",
+      "english": "slowly",
+      "hebrew": "לאט",
+      "cefr": "A1",
+      "ipa": "[leˈʔat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29183f71-40ab-4760-aa45-196b8a3abc33",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "hebrew": "כבר",
+      "cefr": "A2",
+      "ipa": "[kvaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7915d673-ff91-435f-b366-fb799cda845f",
+      "part-of-speech": "adverb",
+      "english": "still; more",
+      "hebrew": "עוד",
+      "cefr": "A1",
+      "ipa": "[od]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ddceb082-fbfc-4305-b1ea-7395ab4c9452",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "hebrew": "רק",
+      "cefr": "A1",
+      "ipa": "[ʁak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "771fab24-031d-4201-afc0-5b0e1475fadc",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "hebrew": "גם",
+      "cefr": "A1",
+      "ipa": "[ɡam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "408b4e76-05dd-4cae-b56a-b2246f222d51",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "hebrew": "ביחד",
+      "cefr": "A1",
+      "ipa": "[beˈjaχad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ad8b619-a4cd-427c-93cc-d26ec53ca255",
+      "part-of-speech": "adverb",
+      "english": "early",
+      "hebrew": "מוקדם",
+      "cefr": "A1",
+      "ipa": "[muɡˈdam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ac6e68b-6aa5-4859-8661-d5e938ac587c",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "hebrew": "מאוחר",
+      "cefr": "A1",
+      "ipa": "[meʔuˈχaʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebfae8b4-9cfc-4435-b555-61b5fc070c42",
+      "part-of-speech": "adverb",
+      "english": "maybe",
+      "hebrew": "אולי",
+      "cefr": "A1",
+      "ipa": "[uˈlaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fb3710a-6c3f-4e3c-a129-52677cd8a8e1",
+      "part-of-speech": "adverb",
+      "english": "of course",
+      "hebrew": "כמובן",
+      "cefr": "A1",
+      "ipa": "[kamuˈvan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7014d4e-ae8f-4a24-955d-8fbb76c34ace",
+      "part-of-speech": "adverb",
+      "english": "then, afterwards",
+      "hebrew": "אחר כך",
+      "cefr": "A1",
+      "ipa": "[aˈχaʁ kaχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a722e06f-5cde-48ea-9d79-189823d35646",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "hebrew": "בבית",
+      "cefr": "A1",
+      "ipa": "[baˈbajit]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57ac8dea-a490-46f6-8246-d71a4a345466",
+      "part-of-speech": "adverb",
+      "english": "home (homewards)",
+      "hebrew": "הביתה",
+      "cefr": "A2",
+      "ipa": "[haˈbajta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca092e6d-0db0-4588-a203-7fdf10e953e2",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "hebrew": "איפה",
+      "cefr": "A1",
+      "ipa": "[ˈejfo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bca8bdcc-7f92-41a8-8665-25e664aa20ed",
+      "part-of-speech": "adverb",
+      "english": "where to",
+      "hebrew": "לאן",
+      "cefr": "A1",
+      "ipa": "[leˈʔan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5987a383-fa0a-4475-bd71-e9bf6954c01d",
+      "part-of-speech": "adverb",
+      "english": "where from",
+      "hebrew": "מאיפה",
+      "cefr": "A2",
+      "ipa": "[meˈʔejfo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb9f5c4d-a3b8-4a1b-bff7-d8292c230f99",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "hebrew": "מתי",
+      "cefr": "A1",
+      "ipa": "[maˈtaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae99a1d5-0a58-4cc7-bd5d-f9041a1c6034",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "hebrew": "איך",
+      "cefr": "A1",
+      "ipa": "[ejχ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "125d7906-b53c-4add-a2bc-f385d669d615",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "hebrew": "למה",
+      "cefr": "A1",
+      "ipa": "[ˈlama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "34db937a-d93c-4553-8fe2-02d559f89fdd",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "hebrew": "כמה",
+      "cefr": "A1",
+      "ipa": "[ˈkama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37651336-b4c1-4f8c-aa0a-94f940e7f8e4",
+      "part-of-speech": "preposition",
+      "english": "in, at",
+      "hebrew": "ב",
+      "cefr": "A1",
+      "ipa": "[be]",
+      "context": "written joined to the next word: בבית, at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b513c2fe-9fae-4aca-a3de-fca51217fe44",
+      "part-of-speech": "preposition",
+      "english": "to, for",
+      "hebrew": "ל",
+      "cefr": "A1",
+      "ipa": "[le]",
+      "context": "written joined to the next word: לתל אביב, to Tel Aviv",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5ca5b20e-8784-4a4c-9526-da369ed13dab",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "hebrew": "מ",
+      "cefr": "A1",
+      "ipa": "[mi]",
+      "context": "written joined to the next word: מירושלים, from Jerusalem",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "507f3bf0-0649-48e1-9f0f-7dcbc5b471b3",
+      "part-of-speech": "preposition",
+      "english": "on; about",
+      "hebrew": "על",
+      "cefr": "A1",
+      "ipa": "[al]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5b755ba-90bd-4f7f-b5c6-62546136c470",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "hebrew": "עם",
+      "cefr": "A1",
+      "ipa": "[im]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "048ed6f7-497b-4542-9d1a-ec4e61963550",
+      "part-of-speech": "preposition",
+      "english": "without",
+      "hebrew": "בלי",
+      "cefr": "A1",
+      "ipa": "[bli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eeb42dbe-a4e5-4028-adfb-9598b994ee62",
+      "part-of-speech": "preposition",
+      "english": "at (someone's place)",
+      "hebrew": "אצל",
+      "cefr": "A2",
+      "ipa": "[ˈetsel]",
+      "context": "אצל אמא: at Mum's",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "901eb4c4-b866-415b-bf0e-745946e91b08",
+      "part-of-speech": "preposition",
+      "english": "next to",
+      "hebrew": "ליד",
+      "cefr": "A1",
+      "ipa": "[leˈjad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4398c6ed-72b8-4935-aef9-9e635f4d4cd5",
+      "part-of-speech": "preposition",
+      "english": "under",
+      "hebrew": "מתחת",
+      "cefr": "A2",
+      "ipa": "[miˈtaχat]",
+      "context": "usually מתחת ל…",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bcbce309-3dfd-41b9-a9a2-90abf39dad19",
+      "part-of-speech": "preposition",
+      "english": "above",
+      "hebrew": "מעל",
+      "cefr": "A2",
+      "ipa": "[meˈʔal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb1dffde-825f-438f-9483-93811afb7edb",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "hebrew": "בין",
+      "cefr": "A2",
+      "ipa": "[bejn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4e8b784-88f6-4f9d-ba5b-a18966ac160a",
+      "part-of-speech": "preposition",
+      "english": "before; in front of",
+      "hebrew": "לפני",
+      "cefr": "A1",
+      "ipa": "[lifˈnej]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee9ab457-0823-461d-9fb3-474d1638070a",
+      "part-of-speech": "preposition",
+      "english": "after",
+      "hebrew": "אחרי",
+      "cefr": "A1",
+      "ipa": "[aχaˈʁej]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "319ae5b1-4423-4537-a8ee-9f8d9c1a3a59",
+      "part-of-speech": "preposition",
+      "english": "of (belonging to)",
+      "hebrew": "של",
+      "cefr": "A1",
+      "ipa": "[ʃel]",
+      "context": "הספר של דני: Danny's book",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0f37548-cb8b-47cb-91a0-34227d814931",
+      "part-of-speech": "preposition",
+      "english": "until; up to",
+      "hebrew": "עד",
+      "cefr": "A2",
+      "ipa": "[ad]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "06b7b7a3-97e0-449e-8908-133b5d2eec44",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "hebrew": "ו",
+      "cefr": "A1",
+      "ipa": "[ve]",
+      "context": "written joined to the next word: אני ואתה, you and I",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e31da790-2d29-4026-bbd5-bc48e3e2d116",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "hebrew": "אבל",
+      "cefr": "A1",
+      "ipa": "[aˈval]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b10d4d11-5de5-46c5-8e32-c47eb48d85f5",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "hebrew": "או",
+      "cefr": "A1",
+      "ipa": "[o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0548bd11-3450-4b95-b83b-f693e776476d",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "hebrew": "כי",
+      "cefr": "A1",
+      "ipa": "[ki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67b3022f-4f3a-4fc2-9884-a07be0d8de78",
+      "part-of-speech": "conjunction",
+      "english": "that; who, which",
+      "hebrew": "ש",
+      "cefr": "A1",
+      "ipa": "[ʃe]",
+      "context": "written joined to the next word: אני חושב שכן, I think so",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d61b637e-4f73-49d0-829e-8b7f026dbd77",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "hebrew": "אם",
+      "cefr": "A1",
+      "ipa": "[im]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89f35e95-580f-4f1d-a3b0-88b43dc75b52",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "hebrew": "כש",
+      "cefr": "A2",
+      "ipa": "[kʃe]",
+      "context": "written joined to the next word: כשהייתי ילד, when I was a child",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e00c1ada-d1b4-4cfa-b10e-b4e66d061377",
+      "part-of-speech": "conjunction",
+      "english": "like, as",
+      "hebrew": "כמו",
+      "cefr": "A2",
+      "ipa": "[kmo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8a67100d-5fd8-4c44-9d7d-a2a6e693e8c2",
+      "part-of-speech": "conjunction",
+      "english": "so, then",
+      "hebrew": "אז",
+      "cefr": "A1",
+      "ipa": "[az]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7e7eb36-ad98-410c-9449-88c7dbcb01f5",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "hebrew": "כן",
+      "cefr": "A1",
+      "ipa": "[ken]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51233b40-9592-426b-b6d5-fccc07b90a9d",
+      "part-of-speech": "interjection",
+      "english": "no; not",
+      "hebrew": "לא",
+      "cefr": "A1",
+      "ipa": "[lo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95c49395-8c3b-4cf9-be55-cb0e9e3bb692",
+      "part-of-speech": "interjection",
+      "english": "hello; goodbye; peace",
+      "hebrew": "שלום",
+      "cefr": "A1",
+      "ipa": "[ʃaˈlom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b832b627-50f5-449e-bb10-e50b68eb9d4c",
+      "part-of-speech": "interjection",
+      "english": "goodbye, see you",
+      "hebrew": "להתראות",
+      "cefr": "A1",
+      "ipa": "[lehitʁaˈʔot]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59c8ac16-508c-4fe7-b723-58f3ea0b0023",
+      "part-of-speech": "interjection",
+      "english": "good morning",
+      "hebrew": "בוקר טוב",
+      "cefr": "A1",
+      "ipa": "[ˈbokeʁ tov]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d264538-37bb-412f-a42e-4c5ea0da2e93",
+      "part-of-speech": "interjection",
+      "english": "good evening",
+      "hebrew": "ערב טוב",
+      "cefr": "A1",
+      "ipa": "[ˈeʁev tov]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1ac7dea-0f63-4596-80df-903f52258d39",
+      "part-of-speech": "interjection",
+      "english": "good night",
+      "hebrew": "לילה טוב",
+      "cefr": "A1",
+      "ipa": "[ˈlajla tov]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb7144eb-ad99-46da-b9f4-bf088cf19bfc",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "hebrew": "תודה",
+      "cefr": "A1",
+      "ipa": "[toˈda]",
+      "context": "תודה רבה: thank you very much",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "514d012f-e3d8-4b7c-b152-d9474ad224e2",
+      "part-of-speech": "interjection",
+      "english": "please; you're welcome; here you are",
+      "hebrew": "בבקשה",
+      "cefr": "A1",
+      "ipa": "[bevakaˈʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65635a1d-5486-427a-a248-84081f698748",
+      "part-of-speech": "interjection",
+      "english": "sorry; excuse me",
+      "hebrew": "סליחה",
+      "cefr": "A1",
+      "ipa": "[sliˈχa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef9e4f27-efbf-4e60-9874-5222263447b8",
+      "part-of-speech": "interjection",
+      "english": "how are you?",
+      "hebrew": "מה נשמע",
+      "cefr": "A1",
+      "ipa": "[ma niʃˈma]",
+      "context": "literally \"what is heard?\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49b037fb-6045-4de9-b5e8-fbecd182c3e7",
+      "part-of-speech": "interjection",
+      "english": "OK, fine",
+      "hebrew": "בסדר",
+      "cefr": "A1",
+      "ipa": "[beˈsedeʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8f806a6-40cc-4b2c-9c30-a764de56292f",
+      "part-of-speech": "interjection",
+      "english": "great!",
+      "hebrew": "יופי",
+      "cefr": "A1",
+      "ipa": "[ˈjofi]",
+      "context": "literally \"beauty\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45d40841-bb00-4d88-b817-0e0acaa0be96",
+      "part-of-speech": "interjection",
+      "english": "cheers!",
+      "hebrew": "לחיים",
+      "cefr": "A1",
+      "ipa": "[leˈχajim]",
+      "context": "literally \"to life\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6665d630-944c-4c24-bb77-de38a96610e3",
+      "part-of-speech": "interjection",
+      "english": "have a good Sabbath",
+      "hebrew": "שבת שלום",
+      "cefr": "A1",
+      "ipa": "[ʃaˈbat ʃaˈlom]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

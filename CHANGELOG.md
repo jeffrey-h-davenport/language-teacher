@@ -1,5 +1,25 @@
 # Changelog
 
+## 1.35.2 — 2026-11-14
+- French: added plus as an adverb ("more", with when its s is said), ne … plus ("not anymore"), and the pairs whose meaning flips with the pronunciation of plus — plus de "no more" /ply də/ vs "more" /plys də/, and j'en veux plus "I don't want any more" /ply/ vs "I want more" /plys/ — plus ne … plus que ("only … left"), plus jamais, non plus and de plus en plus
+- The French Pronunciation Guide explains the … in ne … plus
+
+## 1.35.1 — 2026-11-14
+- French: "même plus de" is now two entries, told apart by how plus is said — "not anymore" /mɛm ply də/ and "even more" /mɛm plys də/ — each with an example
+- French: the noun plus (the + sign) is now pronounced /plys/, with its s
+
+## 1.35.0 — 2026-11-14
+- Declined and conjugated forms are now quizzed against other forms of the same word: "of the castle" offers hradu, hradem, hradě, hrady…, not random nouns, so the question tests the ending rather than the vocabulary. When a word has fewer than six distinct forms, fewer buttons are shown
+- Forms that would also be a right answer are left out: forms spelled the same (hradu is both genitive and dative) and forms that share one of their alternatives (hradě / hradu)
+- Every Czech verb form (25,926 of them) is now linked to its infinitive, as noun and adjective forms already were, so the past and conditional forms of otočit are quizzed together; 135 previously unlinked noun forms are linked too
+- Words whose forms are all spelled the same (suši, derby, rande) keep the usual mixed choices
+
+## 1.34.0 — 2026-11-14
+- Added Hebrew: 519 words covering levels A1 and A2 — everyday nouns (with their gender and plural), verbs (in the infinitive, with their root), adjectives (with the feminine form), adverbs, pronouns, prepositions, conjunctions, numbers (with masculine and feminine forms), greetings, days, months and seasons, plus חומוס and פלאפל
+- Words are written the way everyday Hebrew is: without vowel points, in the official full spelling (ktiv male) that adds ו and י for some vowels (שולחן, עיפרון); every word has bracketed IPA for standard Israeli Hebrew with its stress, which gives the vowels
+- New Hebrew Alphabet Guide: all 22 letters and their final forms, how to find the vowels in unpointed text, the one-letter prefixes (ב, ל, ו, ה…), and a key to the symbols in the pronunciations
+- Right-to-left support: Hebrew words read right to left wherever they appear — quiz, answer choices, word intro, results, Browse and the editor — and Hebrew quoted inside English notes no longer scrambles the brackets and punctuation around it
+
 ## 1.33.0 — 2026-11-12
 - Added Hungarian: 523 words covering levels A1 and A2 — everyday nouns (with their plurals), verbs (in the infinitive, with the irregular present forms: megyek, mész, megy), adjectives, adverbs, pronouns (including the formal ön), postpositions, conjunctions, numbers, greetings, days, months and seasons
 - Every word has bracketed IPA for standard Budapest Hungarian, showing first-syllable stress, long vowels and consonants (kettő [ˈkɛtːøː]), and the sound changes in consonant clusters (nagypapa [ˈnɒcpɒpɒ], barátság [ˈbɒraːtʃːaːɡ]); Hungarian also gets its own Pronunciation Guide, including vowel harmony
