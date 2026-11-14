@@ -299,7 +299,7 @@
     {
       "id": "a2123943-e85a-4c60-a66a-16a19a7420fd",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "arabic": "جار",
       "gender": "masculine",
       "plural": "جيران",
@@ -866,7 +866,7 @@
     {
       "id": "71b41198-c7fa-4a9f-bf4f-610b67abcd5c",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "arabic": "خريف",
       "gender": "masculine",
       "cefr": "A1",
@@ -1610,7 +1610,7 @@
     {
       "id": "b2d131b0-fa9b-4de7-8fa7-bf8a1d1b47db",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "arabic": "شقة",
       "gender": "feminine",
       "plural": "شقق",
@@ -1767,7 +1767,7 @@
     {
       "id": "dda653b9-2a4a-41a6-a4e9-77e989c28106",
       "part-of-speech": "noun",
-      "english": "floor, storey",
+      "english": "floor, story",
       "arabic": "طابق",
       "gender": "masculine",
       "plural": "طوابق",
@@ -2153,7 +2153,7 @@
     {
       "id": "4cd1eb38-c8e5-45cf-885d-6c5b564e7a93",
       "part-of-speech": "noun",
-      "english": "shop",
+      "english": "store",
       "arabic": "متجر",
       "gender": "masculine",
       "plural": "متاجر",
@@ -2220,7 +2220,7 @@
     {
       "id": "d8e00308-f865-402f-bb00-3830bfb2ea2e",
       "part-of-speech": "noun",
-      "english": "post, mail",
+      "english": "mail",
       "arabic": "بريد",
       "gender": "masculine",
       "cefr": "A1",
@@ -2298,7 +2298,7 @@
     {
       "id": "8644641a-bb49-4f87-aacb-1ae9e3e46336",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "arabic": "سينما",
       "gender": "feminine",
       "cefr": "A1",
@@ -2479,7 +2479,7 @@
     {
       "id": "ff27008b-d477-43d8-b6c6-35806946f5dc",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "arabic": "طائرة",
       "gender": "feminine",
       "plural": "طائرات",
@@ -2583,7 +2583,7 @@
     {
       "id": "fd4f138b-d7d1-4594-b877-48fc90344dd6",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "arabic": "بنطلون",
       "gender": "masculine",
       "plural": "بنطلونات",
@@ -2706,7 +2706,7 @@
       "plural": "هواتف",
       "cefr": "A1",
       "ipa": "[ˈhaːtif]",
-      "context": "mobile phone: هاتف محمول, or جوال jawwaal",
+      "context": "cell phone: هاتف محمول, or جوال jawwaal",
       "register": [
         "All"
       ]
@@ -2843,7 +2843,7 @@
     {
       "id": "c511fa49-2301-4883-8fa5-48dd9af23614",
       "part-of-speech": "noun",
-      "english": "film",
+      "english": "movie",
       "arabic": "فيلم",
       "gender": "masculine",
       "plural": "أفلام",
@@ -2887,7 +2887,7 @@
       "plural": "كرات",
       "cefr": "A2",
       "ipa": "[ˈkura]",
-      "context": "football: كرة القدم",
+      "context": "soccer: كرة القدم",
       "register": [
         "All"
       ]
@@ -2895,7 +2895,7 @@
     {
       "id": "2ac88057-4645-42f2-93d4-f04d2fdcc65e",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "arabic": "لون",
       "gender": "masculine",
       "plural": "ألوان",
@@ -2934,7 +2934,7 @@
     {
       "id": "9db79bab-e72c-42f1-b1eb-2c0cd183a4a0",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "arabic": "عطلة",
       "gender": "feminine",
       "plural": "عطلات",
@@ -5053,7 +5053,7 @@
     {
       "id": "6afc074c-c6be-45af-9029-1dc26d56af45",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "arabic": "رمادي",
       "cefr": "A1",
       "ipa": "[raˈmaːdiː]",

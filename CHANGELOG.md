@@ -1,5 +1,17 @@
 # Changelog
 
+## 1.38.0 — 2026-11-14
+- English meanings now use American English in Arabic, Bengali, Danish, Dutch, Hebrew, Hungarian, Indonesian, Italian, Japanese, Norwegian, Polish, Portuguese, Romanian, Russian, Serbo-Croatian, Swahili and Ukrainian: color, neighbor, gray, airplane, mom; pants, apartment, fall (season), vacation, store, movie, movie theater, cell phone, mail, soccer. Holidays in the sense of festivals stay "holiday"
+- The same spelling changes in the Arabic, Danish, French and Hebrew guides
+- German: gehen now has its main meaning, "go" (A1); the existing "be on" entry gets the note das geht nicht — that won't do; geht das? — is that OK?
+
+## 1.37.3 — 2026-11-14
+- German: Haus now means "house" (A1); its colloquial use is a separate entry, altes Haus — "dude, buddy (to an old friend)"
+
+## 1.37.2 — 2026-11-14
+- German: 66 new words (Aal to Autogramm) — among them Abtei, Ahn, Allüren, Amboss, Amsel, Argwohn, Armaturenbrett, Arznei, adrett, apart, argwöhnisch, außerstande, andernfalls, seit alters, and the verb altern (to age); words that changed spelling in the reform are in today's spelling (alleinstehend, anheimstellen, auseinandergehen), with the old spelling in the note
+- German: corrected the meanings of Akte (file, record — not "act"), Aufenthalt (stay), Auseinandersetzung (argument, dispute), auseinandersetzen, ahnden (punish), Inneres (inside, interior) and Alt (alto voice, now C1 rather than A1)
+
 ## 1.37.1 — 2026-11-14
 - Fixed: in Bengali and Hindi words, syllables with certain vowel signs (ু, ৃ, ঁ, ি, the ্ that joins letters; their Devanagari equivalents) were drawn in a much larger font, and joined letters could come apart. The enlargement meant to make small IPA marks visible (Korean /p͈/) now only applies to pronunciation symbols
 

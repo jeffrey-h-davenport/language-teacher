@@ -206,11 +206,23 @@
       ]
     },
     {
+      "id": "1f3f2959-6439-475e-b864-38a43f79c2f1",
+      "part-of-speech": "verb",
+      "english": "go",
+      "german": "gehen",
+      "cefr": "A1",
+      "context": "ging, ist gegangen; Wie geht es dir? How are you?",
+      "register": [
+        "All"
+      ]
+    },
+    {
       "id": "208b6240-4a1f-4c12-a1cb-c4009a2589e9",
       "part-of-speech": "verb",
       "english": "be on",
       "german": "gehen",
       "cefr": "A1",
+      "context": "das geht nicht: that won't do; geht das? is that OK?",
       "register": [
         "All"
       ]
@@ -1734,15 +1746,28 @@
       ]
     },
     {
-      "id": "bda6f18f-4c9c-4b1c-9ca7-b52c69aaf40f",
+      "id": "c737a463-11e7-4389-a5fe-8fc9fd61c4fb",
       "part-of-speech": "noun",
-      "english": "bod",
+      "english": "house",
       "german": "Haus",
       "gender": "neuter",
       "plural": "Häuser",
       "cefr": "A1",
+      "context": "zu Hause: at home; nach Hause: home(ward)",
       "register": [
         "All"
+      ]
+    },
+    {
+      "id": "bda6f18f-4c9c-4b1c-9ca7-b52c69aaf40f",
+      "part-of-speech": "noun",
+      "english": "dude, buddy (to an old friend)",
+      "german": "altes Haus",
+      "gender": "neuter",
+      "cefr": "B2",
+      "context": "friendly form of address: Na, altes Haus, wie geht's?",
+      "register": [
+        "umgangssprachlich"
       ]
     },
     {
@@ -14801,7 +14826,7 @@
     {
       "id": "61ce14da-2929-490c-beb7-323644466ecf",
       "part-of-speech": "noun",
-      "english": "delay",
+      "english": "stay; stop (on a journey)",
       "german": "Aufenthalt",
       "gender": "masculine",
       "plural": "Aufenthalte",
@@ -18053,7 +18078,7 @@
     {
       "id": "eaac4d6a-73ba-4360-ad7d-6acf34f00905",
       "part-of-speech": "noun",
-      "english": "analysis",
+      "english": "argument, dispute; examination (of a subject)",
       "german": "Auseinandersetzung",
       "gender": "feminine",
       "plural": "Auseinandersetzungen",
@@ -18861,7 +18886,7 @@
     {
       "id": "da43be70-094c-4f69-83ac-572f59f07bc8",
       "part-of-speech": "verb",
-      "english": "deal",
+      "english": "explain (to someone); sich auseinandersetzen mit: deal with, grapple with",
       "german": "auseinandersetzen",
       "cefr": "C2",
       "register": [
@@ -37584,7 +37609,7 @@
     {
       "id": "fe86a761-2287-4a9c-9beb-f4a83f95824d",
       "part-of-speech": "noun",
-      "english": "act",
+      "english": "file, record",
       "german": "Akte",
       "gender": "feminine",
       "plural": "Akten",
@@ -65912,11 +65937,11 @@
     {
       "id": "196e212f-a393-4e52-b895-f022ec4a92e2",
       "part-of-speech": "noun",
-      "english": "alto",
+      "english": "alto (voice)",
       "german": "Alt",
       "gender": "masculine",
       "plural": "Alte",
-      "cefr": "A1",
+      "cefr": "C1",
       "register": [
         "All"
       ]
@@ -72475,7 +72500,7 @@
     {
       "id": "3da989ee-f46d-4551-b418-e137dbfbcc88",
       "part-of-speech": "verb",
-      "english": "avenge",
+      "english": "punish (an offence)",
       "german": "ahnden",
       "cefr": "C2",
       "register": [
@@ -112232,10 +112257,11 @@
     {
       "id": "3509b0f8-1af1-4a28-8b7e-a07a8541ce17",
       "part-of-speech": "noun",
-      "english": "nominalization of inneres:",
+      "english": "inside, interior",
       "german": "Inneres",
-      "cefr": "C2",
       "plural": "Innere",
+      "cefr": "C2",
+      "context": "das Innere; without the article: Inneres",
       "register": [
         "All"
       ]
@@ -121305,6 +121331,730 @@
       "german": "insofern als",
       "cefr": "C1",
       "context": "verb goes to the end of the clause",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "487aaf05-ee21-4107-8477-400d0b71ea6c",
+      "part-of-speech": "noun",
+      "english": "eel",
+      "german": "Aal",
+      "gender": "masculine",
+      "plural": "Aale",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "332bc610-79f2-4b14-8ef8-42f5a35ac1c0",
+      "part-of-speech": "verb",
+      "english": "laze about, bask",
+      "german": "sich aalen",
+      "cefr": "C2",
+      "register": [
+        "umgangssprachlich"
+      ]
+    },
+    {
+      "id": "97d4519e-4da2-45d4-ba6c-dc8f1216042d",
+      "part-of-speech": "adjective",
+      "english": "slippery, slick (of a person)",
+      "german": "aalglatt",
+      "cefr": "C2",
+      "context": "abwertend",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4aa11005-8e3f-4512-b1c7-27a400ea6a29",
+      "part-of-speech": "noun",
+      "english": "carrion; beast, swine (insult)",
+      "german": "Aas",
+      "gender": "neuter",
+      "plural": "Aase",
+      "cefr": "C2",
+      "context": "insult plural: Äser",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e4d74fa-a097-4222-a867-96948f64afcd",
+      "part-of-speech": "verb",
+      "english": "squander, be wasteful (mit: with)",
+      "german": "aasen",
+      "cefr": "C2",
+      "context": "mit dem Geld aasen",
+      "register": [
+        "umgangssprachlich"
+      ]
+    },
+    {
+      "id": "eed248e6-7345-4c33-95b3-324ccd1bba57",
+      "part-of-speech": "verb",
+      "english": "secrete; isolate, separate",
+      "german": "absondern",
+      "cefr": "C2",
+      "context": "sich absondern: keep oneself apart",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73af28aa-7e6d-4b73-a34f-28eac21d9ac5",
+      "part-of-speech": "verb",
+      "english": "repel; push off; sell off",
+      "german": "abstoßen",
+      "cefr": "C1",
+      "context": "also figuratively: das stößt mich ab, that repels me",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2e665ef-2ac5-4ff1-abd7-dea9a4d9fdb6",
+      "part-of-speech": "verb",
+      "english": "defrost, thaw",
+      "german": "abtauen",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e5a5ab3-ae93-4194-b2df-693fdff92cc4",
+      "part-of-speech": "noun",
+      "english": "abbey",
+      "german": "Abtei",
+      "gender": "feminine",
+      "plural": "Abteien",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83eaa1e7-e78c-4e0a-bded-42bcf75c8ce7",
+      "part-of-speech": "verb",
+      "english": "ostracize, outlaw; condemn",
+      "german": "ächten",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9f9267e-06cb-4dcb-b805-4432328a9f02",
+      "part-of-speech": "verb",
+      "english": "ennoble",
+      "german": "adeln",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "82f58fbe-aca9-4259-8143-c371e30c6e6d",
+      "part-of-speech": "adjective",
+      "english": "noble, aristocratic",
+      "german": "adlig",
+      "cefr": "C1",
+      "context": "also spelled adelig",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f4fe4f53-c320-4541-b390-2964dd241865",
+      "part-of-speech": "adjective",
+      "english": "neat, smart, trim",
+      "german": "adrett",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c0ab994-b219-457f-ab50-722153176591",
+      "part-of-speech": "adjective",
+      "english": "affected, ridiculous",
+      "german": "affig",
+      "cefr": "C2",
+      "register": [
+        "umgangssprachlich"
+      ]
+    },
+    {
+      "id": "dd9abd48-43f6-4c94-9024-513ce08573f6",
+      "part-of-speech": "noun",
+      "english": "awl",
+      "german": "Ahle",
+      "gender": "feminine",
+      "plural": "Ahlen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4643101c-7fff-4a9b-9bf5-5c9552753b65",
+      "part-of-speech": "noun",
+      "english": "ancestor, forefather",
+      "german": "Ahn",
+      "gender": "masculine",
+      "plural": "Ahnen",
+      "cefr": "C2",
+      "register": [
+        "gehoben"
+      ]
+    },
+    {
+      "id": "fa190572-0698-401e-b7ec-4597a7f79e16",
+      "part-of-speech": "adjective",
+      "english": "single, living alone",
+      "german": "alleinstehend",
+      "cefr": "B2",
+      "context": "formerly written allein stehend; as a noun: der/die Alleinstehende",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3dd4775-d2cc-4a9e-90e1-5dc5b7562b3b",
+      "part-of-speech": "adverb",
+      "english": "at most; if need be",
+      "german": "allenfalls",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99d40c91-d8f3-4a9d-9409-3dde9344dda1",
+      "part-of-speech": "adjective",
+      "english": "all sorts of, a good deal of",
+      "german": "allerhand",
+      "cefr": "B2",
+      "context": "never declined: allerhand Probleme; Das ist ja allerhand! That's a bit much!",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3d4e7e4-5718-447a-8ae1-81a5fce8171c",
+      "part-of-speech": "adverb",
+      "english": "all (of them), one and all",
+      "german": "allesamt",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee6f834d-b2c1-421f-982c-d9ca640b7b5c",
+      "part-of-speech": "noun",
+      "english": "airs and graces, affectations",
+      "german": "Allüren",
+      "plural": "Allüren",
+      "cefr": "C2",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a290c20a-8009-4435-a0f4-b9cfe22f7133",
+      "part-of-speech": "adjective",
+      "english": "immediate, prompt",
+      "german": "alsbaldig",
+      "cefr": "C2",
+      "context": "official language: zum alsbaldigen Verbrauch, for immediate consumption",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da4e62a9-29a7-4d89-99c1-74f3dea004fb",
+      "part-of-speech": "verb",
+      "english": "age, grow old",
+      "german": "altern",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4e0904f-c0d0-42b0-923e-4a7078d327d1",
+      "part-of-speech": "adverb",
+      "english": "since time immemorial",
+      "german": "seit alters",
+      "cefr": "C2",
+      "context": "also seit Alters",
+      "register": [
+        "gehoben"
+      ]
+    },
+    {
+      "id": "80560be9-7627-4913-afba-c85961eb2cb3",
+      "part-of-speech": "adverb",
+      "english": "from time immemorial",
+      "german": "von alters her",
+      "cefr": "C2",
+      "context": "also von Alters her",
+      "register": [
+        "gehoben"
+      ]
+    },
+    {
+      "id": "aedeb93c-42f5-48ca-ae99-88f77fc89944",
+      "part-of-speech": "noun",
+      "english": "antiquity",
+      "german": "Altertum",
+      "gender": "neuter",
+      "plural": "Altertümer",
+      "cefr": "C1",
+      "context": "plural: antiquities (objects)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dd8990a-92d3-4372-abd5-731bb5159c34",
+      "part-of-speech": "adjective",
+      "english": "archaic, old-fashioned",
+      "german": "altertümlich",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d4f26de-d508-4b3e-acf2-7514f905648e",
+      "part-of-speech": "adjective",
+      "english": "old-maidish, prim",
+      "german": "altjüngferlich",
+      "cefr": "C2",
+      "context": "abwertend",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5aba8be7-721e-4e9f-bd90-e3c7da926268",
+      "part-of-speech": "adjective",
+      "english": "oldish, elderly-looking",
+      "german": "ältlich",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6953970f-e42f-47b9-b9c1-5fed4c52b2ad",
+      "part-of-speech": "noun",
+      "english": "anvil",
+      "german": "Amboss",
+      "gender": "masculine",
+      "plural": "Ambosse",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14d414c1-596c-453e-96e3-6ae2c3786ff6",
+      "part-of-speech": "noun",
+      "english": "ampoule",
+      "german": "Ampulle",
+      "gender": "feminine",
+      "plural": "Ampullen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c48c12d7-d6b8-4bf8-aaa2-b6ad409603ee",
+      "part-of-speech": "noun",
+      "english": "blackbird",
+      "german": "Amsel",
+      "gender": "feminine",
+      "plural": "Amseln",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3acdf472-f5fd-46cf-adab-3a24dba3ae1b",
+      "part-of-speech": "adverb",
+      "english": "otherwise",
+      "german": "andernfalls",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e442239-b090-4b49-915c-65aebbe9e702",
+      "part-of-speech": "adjective",
+      "english": "different (in kind)",
+      "german": "andersartig",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c373eaed-92f3-4cd1-a106-49b4e01b61d7",
+      "part-of-speech": "adjective",
+      "english": "one and a half",
+      "german": "anderthalb",
+      "cefr": "B1",
+      "context": "never declined: anderthalb Stunden",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f28407d8-1040-493d-9646-ad3cea59f37b",
+      "part-of-speech": "adverb",
+      "english": "otherwise, elsewhere",
+      "german": "anderweitig",
+      "cefr": "C1",
+      "context": "also an adjective: anderweitige Verpflichtungen, other commitments",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86b94b70-da90-47e1-b2de-c2b67ed1857a",
+      "part-of-speech": "noun",
+      "english": "fish hook",
+      "german": "Angelhaken",
+      "gender": "masculine",
+      "plural": "Angelhaken",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b00461d5-d3de-4668-ae69-9b1ff8ef1487",
+      "part-of-speech": "noun",
+      "english": "crux, pivot",
+      "german": "Angelpunkt",
+      "gender": "masculine",
+      "plural": "Angelpunkte",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d0ae854-b0a6-406a-832f-a5b2e3e3fcde",
+      "part-of-speech": "verb",
+      "english": "adjust, bring into line (an: with)",
+      "german": "angleichen",
+      "cefr": "C1",
+      "context": "sich angleichen: adapt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4423d2bd-6551-4e01-8b87-7e7621a57be0",
+      "part-of-speech": "verb",
+      "english": "leave (something) to (someone)",
+      "german": "anheimstellen",
+      "cefr": "C2",
+      "context": "Ich stelle es Ihnen anheim: I leave it to you; formerly written anheim stellen",
+      "register": [
+        "gehoben"
+      ]
+    },
+    {
+      "id": "8728a18c-193a-4edc-a4b4-659d136bce78",
+      "part-of-speech": "adjective",
+      "english": "anomalous, abnormal",
+      "german": "anomal",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7dcec05e-6b8c-4253-aeb1-759c6d33bcb5",
+      "part-of-speech": "adjective",
+      "english": "undemanding, modest",
+      "german": "anspruchslos",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23bd7daa-7e97-4802-af22-79a13f05dc02",
+      "part-of-speech": "verb",
+      "english": "tap (lightly)",
+      "german": "antippen",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f17db279-f71d-497d-8354-7cd60b12c9bf",
+      "part-of-speech": "adjective",
+      "english": "striking, attractively unusual",
+      "german": "apart",
+      "cefr": "C2",
+      "context": "not \"apart\": that is auseinander",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f2c8f5c-34d7-4857-a620-42b029100556",
+      "part-of-speech": "adjective",
+      "english": "appetizing",
+      "german": "appetitlich",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da215d83-442d-4fd5-9f5a-7b7bfd71663a",
+      "part-of-speech": "noun",
+      "english": "watercolour (painting)",
+      "german": "Aquarell",
+      "gender": "neuter",
+      "plural": "Aquarelle",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a2214f2-ff9c-4cf2-9774-ec7ea582561e",
+      "part-of-speech": "adjective",
+      "english": "bad, severe; very (regional)",
+      "german": "arg",
+      "cefr": "C1",
+      "context": "im Argen liegen: be in a bad way",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aae376b3-6211-4602-96da-7a6b2a3657ea",
+      "part-of-speech": "noun",
+      "english": "annoyance, nuisance",
+      "german": "Ärgernis",
+      "gender": "neuter",
+      "plural": "Ärgernisse",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4959a848-a2e0-4c65-bb45-59e4f08b0df8",
+      "part-of-speech": "adjective",
+      "english": "unsuspecting, innocent",
+      "german": "arglos",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f327832-db45-4847-a673-361d4668ed50",
+      "part-of-speech": "noun",
+      "english": "suspicion",
+      "german": "Argwohn",
+      "gender": "masculine",
+      "cefr": "C2",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "277d9473-6940-4219-8e26-24f494a5467c",
+      "part-of-speech": "adjective",
+      "english": "suspicious",
+      "german": "argwöhnisch",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10ca3f74-55f8-4d98-a7ad-2e20eae1a21d",
+      "part-of-speech": "noun",
+      "english": "fitting (tap, valve); instrument",
+      "german": "Armatur",
+      "gender": "feminine",
+      "plural": "Armaturen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f14297bd-1720-44f2-b8a5-fb9730feaa97",
+      "part-of-speech": "noun",
+      "english": "dashboard",
+      "german": "Armaturenbrett",
+      "gender": "neuter",
+      "plural": "Armaturenbretter",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ee22420-53c4-4c9e-94bf-51b374cd8514",
+      "part-of-speech": "adjective",
+      "english": "poor, shabby",
+      "german": "ärmlich",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5410dc6f-c24d-4d0f-adc9-7bf21d19a1c1",
+      "part-of-speech": "adjective",
+      "english": "well-behaved, good",
+      "german": "artig",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18e375df-3c73-4993-bef0-937bd84deeeb",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "german": "Arznei",
+      "gender": "feminine",
+      "plural": "Arzneien",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0770bf94-f6e9-49d1-ac9b-61f7a51d48ac",
+      "part-of-speech": "verb",
+      "english": "graze (of deer)",
+      "german": "äsen",
+      "cefr": "C2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ebac6bc0-0dce-4333-aae2-493485b9ae9b",
+      "part-of-speech": "verb",
+      "english": "lug, slog away",
+      "german": "asten",
+      "cefr": "C2",
+      "context": "sich abasten: wear oneself out",
+      "register": [
+        "salopp"
+      ]
+    },
+    {
+      "id": "1ef77153-2bba-4a4e-bb9a-6a5458f517d2",
+      "part-of-speech": "adjective",
+      "english": "atomic, nuclear",
+      "german": "atomar",
+      "cefr": "C1",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfb6a246-9fd9-4ca1-b7a2-96d1f04235b3",
+      "part-of-speech": "verb",
+      "english": "etch; corrode",
+      "german": "ätzen",
+      "cefr": "C2",
+      "context": "also colloquial: be nasty, sneer",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "581a4479-3d03-481a-9d0d-e3c543d251aa",
+      "part-of-speech": "adverb",
+      "english": "apart",
+      "german": "auseinander",
+      "cefr": "B2",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1760387-1b37-4089-8435-34e235e869d3",
+      "part-of-speech": "verb",
+      "english": "part, separate; diverge",
+      "german": "auseinandergehen",
+      "cefr": "C1",
+      "context": "formerly written auseinander gehen; opinions: die Meinungen gehen auseinander",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20b36829-d8b4-4a8f-a81d-352313a8fd50",
+      "part-of-speech": "adjective",
+      "english": "outer, external",
+      "german": "äußere",
+      "cefr": "B2",
+      "context": "only before a noun: die äußere Schicht, the outer layer",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59496a08-9267-47b7-8c5c-38066b37f28f",
+      "part-of-speech": "noun",
+      "english": "exterior; (outward) appearance",
+      "german": "Äußere",
+      "gender": "neuter",
+      "cefr": "C1",
+      "context": "das Äußere; without the article: Äußeres",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96414d44-b440-48fd-9b14-bb7cd4e688bc",
+      "part-of-speech": "adjective",
+      "english": "unable",
+      "german": "außerstande",
+      "cefr": "C1",
+      "context": "außerstande sein, etwas zu tun: be unable to do something; also außer Stande",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0a8fc11-34f4-44bd-9764-3cee5428b807",
+      "part-of-speech": "noun",
+      "english": "autograph",
+      "german": "Autogramm",
+      "gender": "neuter",
+      "plural": "Autogramme",
+      "cefr": "B2",
       "register": [
         "All"
       ]

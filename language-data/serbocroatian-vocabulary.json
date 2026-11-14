@@ -305,7 +305,7 @@
     {
       "id": "fb390024-d797-4bf9-b30c-95c749dadbe5",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "serbocroatian": "susjed",
       "gender": "masculine",
       "plural": "susjedi",
@@ -884,7 +884,7 @@
     {
       "id": "33a158a8-f16d-41c4-8a72-25452f6992e8",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "serbocroatian": "jesen",
       "gender": "feminine",
       "plural": "jeseni",
@@ -1644,7 +1644,7 @@
     {
       "id": "b25ae0b6-055e-4af0-bc61-8a3f028647c0",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "serbocroatian": "stan",
       "gender": "masculine",
       "plural": "stanovi",
@@ -1803,7 +1803,7 @@
     {
       "id": "98ee3961-9090-4b3e-8b63-6ec1bc6e5358",
       "part-of-speech": "noun",
-      "english": "floor, storey",
+      "english": "floor, story",
       "serbocroatian": "kat",
       "gender": "masculine",
       "plural": "katovi",
@@ -2163,7 +2163,7 @@
     {
       "id": "0f0800af-15be-47d8-bd4a-8028ae28c604",
       "part-of-speech": "noun",
-      "english": "shop",
+      "english": "store",
       "serbocroatian": "trgovina",
       "gender": "feminine",
       "plural": "trgovine",
@@ -2230,7 +2230,7 @@
     {
       "id": "c22970c8-dd60-4272-aeb1-27ee7b46ca0b",
       "part-of-speech": "noun",
-      "english": "post office; post",
+      "english": "post office; mail",
       "serbocroatian": "pošta",
       "gender": "feminine",
       "plural": "pošte",
@@ -2295,7 +2295,7 @@
     {
       "id": "69f58cad-b1c0-408e-b528-685f36af10d3",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "serbocroatian": "kino",
       "gender": "neuter",
       "plural": "kina",
@@ -2552,7 +2552,7 @@
     {
       "id": "66a6d589-3e16-437a-8626-5f57a68927a6",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "serbocroatian": "hlače",
       "gender": "feminine",
       "plural": "hlače",
@@ -2684,7 +2684,7 @@
     {
       "id": "86ba2577-ba49-4dab-8fd7-af01086b2c4a",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "serbocroatian": "mobitel",
       "gender": "masculine",
       "plural": "mobiteli",
@@ -2806,7 +2806,7 @@
     {
       "id": "a8ef6a75-791f-4b05-91e0-c55df43d0f09",
       "part-of-speech": "noun",
-      "english": "film",
+      "english": "movie",
       "serbocroatian": "film",
       "gender": "masculine",
       "plural": "filmovi",
@@ -2858,7 +2858,7 @@
     {
       "id": "7c3f8192-d55d-4806-ac2c-c8e5e8fe6a0b",
       "part-of-speech": "noun",
-      "english": "colour; paint",
+      "english": "color; paint",
       "serbocroatian": "boja",
       "gender": "feminine",
       "plural": "boje",
@@ -2897,7 +2897,7 @@
     {
       "id": "b2fdaa88-8f39-4e73-8315-1ced9f15bf63",
       "part-of-speech": "noun",
-      "english": "rest; holiday",
+      "english": "rest; vacation",
       "serbocroatian": "odmor",
       "gender": "masculine",
       "plural": "odmori",
@@ -5159,7 +5159,7 @@
     {
       "id": "a680ccc4-2dbe-4dfd-9dab-2719c72aede7",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "serbocroatian": "siv",
       "cefr": "A1",
       "ipa": "[sîːʋ]",

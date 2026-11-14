@@ -89,7 +89,7 @@
     {
       "id": "894792f6-3968-4cc0-8eec-166f84e9dab0",
       "part-of-speech": "noun",
-      "english": "mum, mother",
+      "english": "mom, mother",
       "polish": "mama",
       "gender": "feminine",
       "plural": "mamy",
@@ -339,7 +339,7 @@
     {
       "id": "6b3bc54b-7179-488c-b63a-a361679ff9c3",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "polish": "sąsiad",
       "gender": "masculine",
       "plural": "sąsiedzi",
@@ -875,7 +875,7 @@
     {
       "id": "fb03036c-a00b-4598-8568-0b205bedd97f",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "polish": "jesień",
       "gender": "feminine",
       "plural": "jesienie",
@@ -915,7 +915,7 @@
     {
       "id": "dcf17312-fa6a-4251-8b82-ee91ea1fb90d",
       "part-of-speech": "noun",
-      "english": "holidays, vacation",
+      "english": "vacation",
       "polish": "wakacje",
       "gender": "feminine",
       "plural": "wakacje",
@@ -970,7 +970,7 @@
     {
       "id": "d6130db5-14b6-49db-bbdc-84d190f76e02",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "polish": "mieszkanie",
       "gender": "neuter",
       "plural": "mieszkania",
@@ -1764,7 +1764,7 @@
     {
       "id": "a5238bcf-76e8-4159-9bfb-d2e4c183b4dc",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "polish": "sklep",
       "gender": "masculine",
       "plural": "sklepy",
@@ -1921,7 +1921,7 @@
     {
       "id": "06acdd1b-12f1-4302-8f3f-2c14e0494b09",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "polish": "kino",
       "gender": "neuter",
       "plural": "kina",
@@ -2051,7 +2051,7 @@
     {
       "id": "084106df-f88e-4a09-b11e-3f96df9f3de6",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "polish": "samolot",
       "gender": "masculine",
       "plural": "samoloty",
@@ -2558,7 +2558,7 @@
     {
       "id": "86fa41bb-daec-458f-92c2-667c1dbd561a",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "polish": "spodnie",
       "gender": "masculine",
       "plural": "spodnie",
@@ -2807,7 +2807,7 @@
     {
       "id": "f6a404b8-5ead-4514-ad16-f4922eb388e0",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "polish": "film",
       "gender": "masculine",
       "plural": "filmy",
@@ -2950,7 +2950,7 @@
     {
       "id": "0499f953-8981-4c50-9b40-b38543906bd5",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "polish": "kolor",
       "gender": "masculine",
       "plural": "kolory",
@@ -4891,7 +4891,7 @@
     {
       "id": "7fb55ff6-dfa1-4f40-bb4a-6776e8b6df9c",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "polish": "szary",
       "cefr": "A1",
       "ipa": "[ˈʂarɨ]",

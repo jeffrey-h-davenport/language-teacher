@@ -297,7 +297,7 @@
     {
       "id": "585f39c2-cdc9-45e3-adac-1a10d909b42e",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "dutch": "buurman",
       "gender": "common",
       "plural": "buren",
@@ -310,7 +310,7 @@
     {
       "id": "6ce06e59-1306-45bb-9250-eaa2a407380b",
       "part-of-speech": "noun",
-      "english": "neighbour (female)",
+      "english": "neighbor (female)",
       "dutch": "buurvrouw",
       "gender": "common",
       "plural": "buurvrouwen",
@@ -833,7 +833,7 @@
     {
       "id": "4c6926ee-2785-4b54-b45e-4b60a980d1a9",
       "part-of-speech": "noun",
-      "english": "autumn, fall",
+      "english": "fall (season)",
       "dutch": "herfst",
       "gender": "common",
       "plural": "herfsten",
@@ -872,7 +872,7 @@
     {
       "id": "f38b4ece-fc75-4f22-99a6-154a5dcb82b7",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "dutch": "vakantie",
       "gender": "common",
       "plural": "vakanties",
@@ -925,7 +925,7 @@
     {
       "id": "d6e77cc7-fde6-4dd5-b6fa-e7311f13d906",
       "part-of-speech": "noun",
-      "english": "flat, apartment building",
+      "english": "apartment building",
       "dutch": "flat",
       "gender": "common",
       "plural": "flats",
@@ -1873,7 +1873,7 @@
     {
       "id": "b29125c9-55da-42b4-aa2e-1f0d70509dd1",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "dutch": "winkel",
       "gender": "common",
       "plural": "winkels",
@@ -2003,7 +2003,7 @@
     {
       "id": "e7f963a3-2ae5-4aed-9706-6b91f7afb99a",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "dutch": "bioscoop",
       "gender": "common",
       "plural": "bioscopen",
@@ -2120,7 +2120,7 @@
     {
       "id": "9014c194-a7b5-426c-bb69-1562359ea382",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "dutch": "vliegtuig",
       "gender": "neuter",
       "plural": "vliegtuigen",
@@ -2717,7 +2717,7 @@
     {
       "id": "9977f507-d56f-4b75-a983-3f8ada97a902",
       "part-of-speech": "noun",
-      "english": "trousers, pants",
+      "english": "pants",
       "dutch": "broek",
       "gender": "common",
       "plural": "broeken",
@@ -2977,7 +2977,7 @@
     {
       "id": "c206bffa-f394-4e50-ac22-c3ede1203923",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "dutch": "film",
       "gender": "common",
       "plural": "films",
@@ -3134,7 +3134,7 @@
     {
       "id": "966b961f-8eae-47fc-bd26-90b061b5a9bd",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "dutch": "kleur",
       "gender": "common",
       "plural": "kleuren",
@@ -5493,7 +5493,7 @@
     {
       "id": "ec65d603-732e-4a72-bcad-0d7e26657fff",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "dutch": "grijs",
       "cefr": "A1",
       "ipa": "[ɣʁɛis]",

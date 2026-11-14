@@ -257,7 +257,7 @@
     {
       "id": "fc6fa3d5-efce-4e49-8600-28f00afc5bc8",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "swahili": "jirani",
       "plural": "majirani",
       "cefr": "A2",
@@ -693,7 +693,7 @@
     {
       "id": "dfd100bc-ebb6-4949-a28a-c172734184d8",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "swahili": "likizo",
       "plural": "likizo",
       "cefr": "A1",
@@ -1457,7 +1457,7 @@
     {
       "id": "29e264df-c398-4746-9b6e-decdbbb69a9f",
       "part-of-speech": "noun",
-      "english": "street, neighbourhood",
+      "english": "street, neighborhood",
       "swahili": "mtaa",
       "plural": "mitaa",
       "cefr": "A1",
@@ -1470,7 +1470,7 @@
     {
       "id": "c7c9dfc3-db7a-460f-b81f-90b1b5a551ab",
       "part-of-speech": "noun",
-      "english": "shop",
+      "english": "store",
       "swahili": "duka",
       "plural": "maduka",
       "cefr": "A1",
@@ -1691,7 +1691,7 @@
     {
       "id": "3853fbfb-f8a7-4fa3-8351-0863750b6935",
       "part-of-speech": "noun",
-      "english": "aeroplane; bird",
+      "english": "airplane; bird",
       "swahili": "ndege",
       "plural": "ndege",
       "cefr": "A1",
@@ -2167,7 +2167,7 @@
     {
       "id": "b482e791-b0e8-46da-a9f7-3477f2a3e38b",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "swahili": "suruali",
       "plural": "suruali",
       "cefr": "A1",
@@ -2361,7 +2361,7 @@
     {
       "id": "e181df69-d304-4557-9efa-461fa8ed5aec",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "swahili": "filamu",
       "plural": "filamu",
       "cefr": "A1",
@@ -2412,7 +2412,7 @@
     {
       "id": "9455a350-221b-47be-b14c-6d8c31ec4f21",
       "part-of-speech": "noun",
-      "english": "ball; football",
+      "english": "ball; soccer ball",
       "swahili": "mpira",
       "plural": "mipira",
       "cefr": "A1",
@@ -2503,7 +2503,7 @@
     {
       "id": "f6b50ce2-7a09-4cae-9fa7-16798b63287d",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "swahili": "rangi",
       "plural": "rangi",
       "cefr": "A1",
@@ -4383,7 +4383,7 @@
     {
       "id": "694a643d-a992-41dd-a088-5d03b2d35da7",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "swahili": "kijivu",
       "cefr": "A1",
       "ipa": "[kiˈʄivu]",

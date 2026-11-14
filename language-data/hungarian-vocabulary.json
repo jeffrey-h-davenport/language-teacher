@@ -287,7 +287,7 @@
     {
       "id": "248665b0-e9d7-4ced-9ae3-b0e2c04b8082",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "hungarian": "szomszéd",
       "plural": "szomszédok",
       "cefr": "A2",
@@ -800,7 +800,7 @@
     {
       "id": "28536faf-78a7-405f-9ebb-cd8c2bca2f13",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "hungarian": "ősz",
       "cefr": "A1",
       "ipa": "[øːs]",
@@ -1520,7 +1520,7 @@
     {
       "id": "fef1d30f-6988-4289-b80a-55f08e95b47b",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "hungarian": "lakás",
       "plural": "lakások",
       "cefr": "A1",
@@ -1664,7 +1664,7 @@
     {
       "id": "cbebcb3a-912c-48a3-8a62-7605a7dcfdab",
       "part-of-speech": "noun",
-      "english": "floor, storey",
+      "english": "floor, story",
       "hungarian": "emelet",
       "plural": "emeletek",
       "cefr": "A2",
@@ -1976,7 +1976,7 @@
     {
       "id": "22ade78e-a120-477d-9e70-19b2569bd7c5",
       "part-of-speech": "noun",
-      "english": "shop",
+      "english": "store",
       "hungarian": "bolt",
       "plural": "boltok",
       "cefr": "A1",
@@ -2036,7 +2036,7 @@
     {
       "id": "789809cf-031a-46ac-8f86-a08a5b1268b0",
       "part-of-speech": "noun",
-      "english": "post office; post",
+      "english": "post office; mail",
       "hungarian": "posta",
       "plural": "posták",
       "cefr": "A1",
@@ -2096,7 +2096,7 @@
     {
       "id": "3c8ae3ae-b379-407e-9936-0ffb444ce5a3",
       "part-of-speech": "noun",
-      "english": "cinema",
+      "english": "movie theater",
       "hungarian": "mozi",
       "plural": "mozik",
       "cefr": "A1",
@@ -2264,7 +2264,7 @@
     {
       "id": "9d9deb27-18d0-4a1b-a3d1-36008664e440",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "hungarian": "repülőgép",
       "plural": "repülőgépek",
       "cefr": "A1",
@@ -2360,7 +2360,7 @@
     {
       "id": "7610d072-2661-448f-8a39-07b325b9eb0a",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "hungarian": "nadrág",
       "plural": "nadrágok",
       "cefr": "A1",
@@ -2578,7 +2578,7 @@
     {
       "id": "00bdf53e-ab80-4bc7-ad7b-fa89047a4d17",
       "part-of-speech": "noun",
-      "english": "film",
+      "english": "movie",
       "hungarian": "film",
       "plural": "filmek",
       "cefr": "A1",
@@ -2626,7 +2626,7 @@
     {
       "id": "c9ccdae8-f4e7-41fb-a7aa-72ce6c7843f2",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "hungarian": "szín",
       "plural": "színek",
       "cefr": "A1",
@@ -2662,7 +2662,7 @@
     {
       "id": "7bfa2966-e912-4b9c-9fa0-2b57455d8001",
       "part-of-speech": "noun",
-      "english": "holiday, time off; freedom",
+      "english": "vacation, time off; freedom",
       "hungarian": "szabadság",
       "plural": "szabadságok",
       "cefr": "A2",
@@ -4831,7 +4831,7 @@
     {
       "id": "626def0b-a720-4574-80d7-ca49560e600d",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "hungarian": "szürke",
       "cefr": "A1",
       "ipa": "[ˈsyrkɛ]",

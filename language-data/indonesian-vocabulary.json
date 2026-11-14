@@ -580,7 +580,7 @@
     {
       "id": "9510f218-d08e-4ad9-b893-052933f41b13",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "indonesian": "tetangga",
       "cefr": "A2",
       "ipa": "[təˈtaŋɡa]",
@@ -1001,7 +1001,7 @@
     {
       "id": "6fc5dd24-268a-48de-aff9-0fc5230c2b7a",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "indonesian": "liburan",
       "cefr": "A1",
       "ipa": "[liˈburan]",
@@ -1177,7 +1177,7 @@
     {
       "id": "9dd4977a-5996-43fe-8fa7-0d53a58d05c2",
       "part-of-speech": "noun",
-      "english": "mobile phone",
+      "english": "cell phone",
       "indonesian": "HP",
       "cefr": "A1",
       "ipa": "[haˈpe]",
@@ -1453,7 +1453,7 @@
     {
       "id": "8a6bfd77-f689-4b68-8e85-7f9ed05592ed",
       "part-of-speech": "noun",
-      "english": "small local eatery or shop",
+      "english": "small local eatery or store",
       "indonesian": "warung",
       "cefr": "A1",
       "ipa": "[ˈwarʊŋ]",
@@ -1574,7 +1574,7 @@
     {
       "id": "8623576a-4221-4521-9ab4-fd9b228c1889",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "indonesian": "toko",
       "cefr": "A1",
       "ipa": "[ˈtoko]",
@@ -1739,7 +1739,7 @@
     {
       "id": "99a8be3e-fff1-4762-ba1d-4c9f7d88dff6",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "indonesian": "pesawat",
       "cefr": "A1",
       "ipa": "[pəˈsawat]",
@@ -2169,7 +2169,7 @@
     {
       "id": "7bc71bb4-7dbf-40c7-8c0e-2ebcd05b98cf",
       "part-of-speech": "noun",
-      "english": "trousers, pants",
+      "english": "pants",
       "indonesian": "celana",
       "cefr": "A1",
       "ipa": "[tʃəˈlana]",
@@ -2312,7 +2312,7 @@
     {
       "id": "4f77d49d-28e7-48e1-9320-5558d4f572fe",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "indonesian": "film",
       "cefr": "A1",
       "ipa": "[fɪlm]",
@@ -2422,7 +2422,7 @@
     {
       "id": "78d92d0a-500a-4891-b682-b8ddf83315b9",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "indonesian": "warna",
       "cefr": "A1",
       "ipa": "[ˈwarna]",
@@ -2832,7 +2832,7 @@
     {
       "id": "f99916d4-638d-4d9b-98ff-c788b46c15bf",
       "part-of-speech": "verb",
-      "english": "to watch (TV, a film)",
+      "english": "to watch (TV, a movie)",
       "indonesian": "menonton",
       "cefr": "A1",
       "ipa": "[məˈnɔntɔn]",
@@ -3327,7 +3327,7 @@
     {
       "id": "323daa3f-4172-4294-b671-89698889d91b",
       "part-of-speech": "verb",
-      "english": "to go on holiday",
+      "english": "to go on vacation",
       "indonesian": "berlibur",
       "cefr": "A2",
       "ipa": "[bərˈlibʊr]",
@@ -4373,7 +4373,7 @@
     {
       "id": "aaae6fa7-8079-4482-9a4b-56a048cfdbac",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "indonesian": "abu-abu",
       "cefr": "A1",
       "ipa": "[ˈabu ˈabu]",

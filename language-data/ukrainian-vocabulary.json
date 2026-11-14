@@ -88,7 +88,7 @@
     {
       "id": "c5f15ec2-919d-4251-b509-1fbf873bfaa3",
       "part-of-speech": "noun",
-      "english": "mum, mother",
+      "english": "mom, mother",
       "ukrainian": "мама",
       "gender": "feminine",
       "plural": "мами",
@@ -298,7 +298,7 @@
     {
       "id": "5fd15031-1fd2-4c88-81fc-1390643d9f7f",
       "part-of-speech": "noun",
-      "english": "neighbour",
+      "english": "neighbor",
       "ukrainian": "сусід",
       "gender": "masculine",
       "plural": "сусіди",
@@ -820,7 +820,7 @@
     {
       "id": "1a1af17b-7204-4acb-97cc-fd16e3e74022",
       "part-of-speech": "noun",
-      "english": "autumn",
+      "english": "fall (season)",
       "ukrainian": "осінь",
       "gender": "feminine",
       "cefr": "A2",
@@ -858,7 +858,7 @@
     {
       "id": "1a5c83e3-e0e0-4213-9f1b-ac5e16e0ad96",
       "part-of-speech": "noun",
-      "english": "holiday, vacation (from work)",
+      "english": "vacation (from work)",
       "ukrainian": "відпустка",
       "gender": "feminine",
       "plural": "відпустки",
@@ -871,7 +871,7 @@
     {
       "id": "d65935a8-34f3-4143-8eda-189cd8b324a6",
       "part-of-speech": "noun",
-      "english": "holidays (school, university)",
+      "english": "vacation (school, university)",
       "ukrainian": "канікули",
       "gender": "feminine",
       "plural": "канікули",
@@ -925,7 +925,7 @@
     {
       "id": "5c9793f2-37a8-460f-8345-db0843b9632a",
       "part-of-speech": "noun",
-      "english": "flat, apartment",
+      "english": "apartment",
       "ukrainian": "квартира",
       "gender": "feminine",
       "plural": "квартири",
@@ -1735,7 +1735,7 @@
     {
       "id": "93e5f994-7317-4071-a597-86bb047b0f37",
       "part-of-speech": "noun",
-      "english": "shop, store",
+      "english": "store",
       "ukrainian": "магазин",
       "gender": "masculine",
       "plural": "магазини",
@@ -1891,7 +1891,7 @@
     {
       "id": "4a037cfc-9207-4d60-ba01-65d06c78aa6d",
       "part-of-speech": "noun",
-      "english": "cinema; the movies",
+      "english": "movie theater; the movies",
       "ukrainian": "кіно",
       "gender": "neuter",
       "plural": "кіно",
@@ -2023,7 +2023,7 @@
     {
       "id": "a3fb8fe6-bec8-46c7-8509-1e26d522f098",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "airplane",
       "ukrainian": "літак",
       "gender": "masculine",
       "plural": "літаки",
@@ -2528,7 +2528,7 @@
     {
       "id": "29e4636d-eb4f-48ab-a884-3f16a543e1a1",
       "part-of-speech": "noun",
-      "english": "trousers",
+      "english": "pants",
       "ukrainian": "штани",
       "gender": "masculine",
       "plural": "штани",
@@ -2777,7 +2777,7 @@
     {
       "id": "c8524357-b279-4dfa-9bdf-e199a4ca13c3",
       "part-of-speech": "noun",
-      "english": "film, movie",
+      "english": "movie",
       "ukrainian": "фільм",
       "gender": "masculine",
       "plural": "фільми",
@@ -2920,7 +2920,7 @@
     {
       "id": "2735de81-a18d-4c61-b3ca-8142c6585428",
       "part-of-speech": "noun",
-      "english": "colour",
+      "english": "color",
       "ukrainian": "колір",
       "gender": "masculine",
       "plural": "кольори",
@@ -4770,7 +4770,7 @@
     {
       "id": "93b3ede5-e183-44de-a1f7-ad26fd7b67a6",
       "part-of-speech": "adjective",
-      "english": "grey",
+      "english": "gray",
       "ukrainian": "сірий",
       "cefr": "A1",
       "ipa": "[ˈsʲirɪj]",
