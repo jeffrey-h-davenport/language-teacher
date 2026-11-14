@@ -40,6 +40,7 @@ const LANGUAGE_INFO = {
   italian: { language: 'Italian', languageCode: 'it' },
   japanese: { language: 'Japanese', languageCode: 'ja' },
   korean:  { language: 'Korean',  languageCode: 'ko' },
+  marathi: { language: 'Marathi', languageCode: 'mr' },
   norwegian: { language: 'Norwegian', languageCode: 'no' },
   polish:  { language: 'Polish',  languageCode: 'pl' },
   portuguese: { language: 'Portuguese', languageCode: 'pt' },

@@ -18886,9 +18886,10 @@
     {
       "id": "da43be70-094c-4f69-83ac-572f59f07bc8",
       "part-of-speech": "verb",
-      "english": "explain (to someone); sich auseinandersetzen mit: deal with, grapple with",
+      "english": "explain (to someone); deal with, grapple with",
       "german": "auseinandersetzen",
       "cefr": "C2",
+      "context": "sich auseinandersetzen mit: deal with, grapple with",
       "register": [
         "All"
       ]
@@ -72500,7 +72501,7 @@
     {
       "id": "3da989ee-f46d-4551-b418-e137dbfbcc88",
       "part-of-speech": "verb",
-      "english": "punish (an offence)",
+      "english": "punish (an offense)",
       "german": "ahnden",
       "cefr": "C2",
       "register": [
@@ -113217,9 +113218,10 @@
     {
       "id": "838be17c-092c-42ae-9a06-8cd45725e611",
       "part-of-speech": "verb",
-      "english": "brought; preterite of bringen, bring.",
+      "english": "brought",
       "german": "brachte",
       "cefr": "A2",
+      "context": "preterite of bringen",
       "register": [
         "All"
       ]
@@ -113343,9 +113345,10 @@
     {
       "id": "8523aa40-2b2a-4e04-828d-3a0bdca79ed2",
       "part-of-speech": "verb",
-      "english": "preterite of nehmen (“to take”): took",
+      "english": "took",
       "german": "nahm",
       "cefr": "A2",
+      "context": "preterite of nehmen",
       "register": [
         "All"
       ]
@@ -121384,10 +121387,10 @@
     {
       "id": "5e4d74fa-a097-4222-a867-96948f64afcd",
       "part-of-speech": "verb",
-      "english": "squander, be wasteful (mit: with)",
+      "english": "squander, be wasteful",
       "german": "aasen",
       "cefr": "C2",
-      "context": "mit dem Geld aasen",
+      "context": "mit dem Geld aasen: waste money",
       "register": [
         "umgangssprachlich"
       ]
@@ -121757,10 +121760,10 @@
     {
       "id": "2d0ae854-b0a6-406a-832f-a5b2e3e3fcde",
       "part-of-speech": "verb",
-      "english": "adjust, bring into line (an: with)",
+      "english": "adjust, bring into line",
       "german": "angleichen",
       "cefr": "C1",
-      "context": "sich angleichen: adapt",
+      "context": "an etwas angleichen: bring into line with something; sich angleichen: adapt",
       "register": [
         "All"
       ]
@@ -121830,7 +121833,7 @@
     {
       "id": "da215d83-442d-4fd5-9f5a-7b7bfd71663a",
       "part-of-speech": "noun",
-      "english": "watercolour (painting)",
+      "english": "watercolor (painting)",
       "german": "Aquarell",
       "gender": "neuter",
       "plural": "Aquarelle",
@@ -121897,7 +121900,7 @@
     {
       "id": "10ca3f74-55f8-4d98-a7ad-2e20eae1a21d",
       "part-of-speech": "noun",
-      "english": "fitting (tap, valve); instrument",
+      "english": "fitting (faucet, valve); instrument",
       "german": "Armatur",
       "gender": "feminine",
       "plural": "Armaturen",

@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.39.2 — 2026-11-14
+- Czech: plural forms no longer share their English with the singular, which had left some quiz questions with two right answers (pozor and pozory were both "attention"). Countable nouns now have real plurals (časy "times", světy "worlds", piva "beers"); plurals with a meaning of their own say so (pozornosti "attentions, small gifts", díky "thanks", vody "waters", techniky "techniques"); and the rarely used plurals of 243 uncountable nouns (pozor, zdraví, krev, štěstí, počasí…) were removed — 1,701 forms
+- Czech: corrected the meanings of země (country; land; earth), vlna (wave; wool), motýlek (little butterfly; bow tie), dík (thank-you) and don (title of respect); added the missing space in 350 meanings like "attention(mental focus)"
+
+## 1.39.1 — 2026-11-14
+- English meanings in the older word lists no longer give away the word being quizzed. Dictionary-style glosses that named another word in the target language ("female equivalent of hijo", "apocopic form of bueno", "synonym of vlézt", "passive infinitive of kalla") were rewritten as plain meanings ("daughter", "good", "to find", "to be called"); the reference moved into the word's note, which stays hidden until asked for. 116 words fixed in Spanish, French, Finnish, Swedish, German and Czech, plus 155 Czech word forms whose meanings were built from them ("he synonym of vlézted" is now "he found")
+- Removed 31 misspelled duplicates that would teach the wrong spelling (coeur for cœur, dia for día, içi for ici…) — the correct spelling of each is already in the list — and an obscure Czech card-game noun velký that shadowed the everyday adjective
+- Fixed meanings that were simply wrong: Czech nalézt is "to find", Swedish förstås is "of course", Czech ptáček is "little bird"
+
+## 1.39.0 — 2026-11-14
+- Added Marathi: 422 words covering levels A1 and A2 — everyday nouns (with their gender — masculine, feminine or neuter — and plural), verbs (in the dictionary form: करणे, "to do"), adjectives (with their feminine and neuter forms), adverbs, pronouns (including the two kinds of "we", आम्ही and आपण), postpositions, conjunctions, numbers, greetings, days, months and seasons, plus वडापाव and पोळी
+- Every word has bracketed IPA for standard Marathi with first-syllable stress, including the sounds that set Marathi apart from Hindi: च and ज as [ts dz] before most vowels (चहा [ˈtsəɦa], आजोबा [ˈadzoba]) but [tʃ dʒ] before i and e (आजी [ˈadʒi]), retroflex ळ and ण, and breathy म्ह, न्ह (तुम्ही [ˈt̪umʱi])
+- New Marathi Alphabet Guide: vowels and vowel signs, the consonants, special signs and conjuncts (ज्ञ is "dnya"), numerals, the reading rules, and what differs from Hindi
+
+## 1.38.1 — 2026-11-14
+- English meanings no longer contain the target-language word they quiz: French plus ("more (in comparisons)"), Dutch te ("too (excessively)"), Romanian ciorbă ("sour soup"), and German auseinandersetzen, aasen and angleichen. The examples moved into each word's note, which stays hidden in the quiz until asked for
+- German: watercolor, offense and faucet in American English (Aquarell, ahnden, Armatur)
+
 ## 1.38.0 — 2026-11-14
 - English meanings now use American English in Arabic, Bengali, Danish, Dutch, Hebrew, Hungarian, Indonesian, Italian, Japanese, Norwegian, Polish, Portuguese, Romanian, Russian, Serbo-Croatian, Swahili and Ukrainian: color, neighbor, gray, airplane, mom; pants, apartment, fall (season), vacation, store, movie, movie theater, cell phone, mail, soccer. Holidays in the sense of festivals stay "holiday"
 - The same spelling changes in the Arabic, Danish, French and Hebrew guides

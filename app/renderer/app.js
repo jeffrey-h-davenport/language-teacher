@@ -204,6 +204,7 @@ const BASE_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'pre
 
 // ── Language Data ─────────────────────────────────────
 const FLAGS = {
+  'mr': '🇮🇳',
   'bn': '🇧🇩',
   'af': '🇿🇦', 'ar': '🇸🇦', 'cs': '🇨🇿', 'da': '🇩🇰',
   'de': '🇩🇪', 'el': '🇬🇷', 'es': '🇪🇸', 'fi': '🇫🇮',
