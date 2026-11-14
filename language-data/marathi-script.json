@@ -1,0 +1,626 @@
+{
+  "scriptName": "Marathi Alphabet",
+  "buttonLabel": "Alphabet Guide",
+  "fontScale": 1.25,
+  "intro": "The Marathi script: vowels and vowel signs, the consonants (with Marathi's own sounds), special signs and conjuncts, numerals, the main reading rules, and a key to the symbols in the pronunciations.",
+  "sections": [
+    {
+      "heading": "How the Marathi script works",
+      "text": [
+        "Marathi is written in Devanagari, the same script as Hindi, from left to right with letters hanging from a line along the top. Marathi adds ळ and a few signs for English words (ॲ, ऑ).",
+        "Each consonant carries a built-in vowel, अ [ə]: क on its own is kə. Other vowels after a consonant are shown with a vowel sign; a vowel at the start of a word uses its full letter. Two consonants with no vowel between them join into a conjunct: स + त = स्त.",
+        "If you can read Hindi, watch for the differences: च and ज are often said ts and dz, ण is a real retroflex n, ळ is its own letter, and ज्ञ is \"dnya\"."
+      ]
+    },
+    {
+      "heading": "Vowels",
+      "items": [
+        {
+          "char": "अ",
+          "ipa": "[ə]",
+          "note": "the built-in vowel, like the \"a\" in \"about\""
+        },
+        {
+          "char": "आ",
+          "ipa": "[a]",
+          "note": ""
+        },
+        {
+          "char": "इ",
+          "ipa": "[i]",
+          "note": ""
+        },
+        {
+          "char": "ई",
+          "ipa": "[i]",
+          "note": "sounds the same as इ"
+        },
+        {
+          "char": "उ",
+          "ipa": "[u]",
+          "note": ""
+        },
+        {
+          "char": "ऊ",
+          "ipa": "[u]",
+          "note": "sounds the same as उ"
+        },
+        {
+          "char": "ऋ",
+          "ipa": "[ɾu]",
+          "note": "ru in Marathi"
+        },
+        {
+          "char": "ए",
+          "ipa": "[e]",
+          "note": ""
+        },
+        {
+          "char": "ऐ",
+          "ipa": "[əi̯]",
+          "note": ""
+        },
+        {
+          "char": "ओ",
+          "ipa": "[o]",
+          "note": ""
+        },
+        {
+          "char": "औ",
+          "ipa": "[əu̯]",
+          "note": ""
+        },
+        {
+          "char": "ॲ",
+          "ipa": "[æ]",
+          "note": "a in \"cat\", for English words (बॅट)"
+        },
+        {
+          "char": "ऑ",
+          "ipa": "[ɔ]",
+          "note": "o in \"hot\", for English words (ऑफिस)"
+        }
+      ]
+    },
+    {
+      "heading": "Vowel signs (shown on क)",
+      "items": [
+        {
+          "char": "का",
+          "ipa": "[ka]",
+          "note": "ा"
+        },
+        {
+          "char": "कि",
+          "ipa": "[ki]",
+          "note": "ि — written before the consonant, said after it"
+        },
+        {
+          "char": "की",
+          "ipa": "[ki]",
+          "note": "ी"
+        },
+        {
+          "char": "कु",
+          "ipa": "[ku]",
+          "note": "ु"
+        },
+        {
+          "char": "कू",
+          "ipa": "[ku]",
+          "note": "ू"
+        },
+        {
+          "char": "कृ",
+          "ipa": "[kɾu]",
+          "note": "ृ"
+        },
+        {
+          "char": "के",
+          "ipa": "[ke]",
+          "note": "े"
+        },
+        {
+          "char": "कै",
+          "ipa": "[kəi̯]",
+          "note": "ै"
+        },
+        {
+          "char": "को",
+          "ipa": "[ko]",
+          "note": "ो"
+        },
+        {
+          "char": "कौ",
+          "ipa": "[kəu̯]",
+          "note": "ौ"
+        },
+        {
+          "char": "कॅ",
+          "ipa": "[kæ]",
+          "note": "ॅ"
+        },
+        {
+          "char": "कॉ",
+          "ipa": "[kɔ]",
+          "note": "ॉ"
+        }
+      ]
+    },
+    {
+      "heading": "Velar consonants",
+      "items": [
+        {
+          "char": "क",
+          "ipa": "[k]",
+          "note": ""
+        },
+        {
+          "char": "ख",
+          "ipa": "[kʰ]",
+          "note": "with a puff of air"
+        },
+        {
+          "char": "ग",
+          "ipa": "[ɡ]",
+          "note": ""
+        },
+        {
+          "char": "घ",
+          "ipa": "[ɡʱ]",
+          "note": "breathy"
+        },
+        {
+          "char": "ङ",
+          "ipa": "[ŋ]",
+          "note": "rare on its own"
+        }
+      ]
+    },
+    {
+      "heading": "Palatal consonants",
+      "items": [
+        {
+          "char": "च",
+          "ipa": "[tʃ ts]",
+          "note": "ch before i, e, y — ts elsewhere in Marathi words (चहा [ˈtsəɦa])"
+        },
+        {
+          "char": "छ",
+          "ipa": "[tʃʰ]",
+          "note": ""
+        },
+        {
+          "char": "ज",
+          "ipa": "[dʒ dz]",
+          "note": "j before i, e, y — dz elsewhere (आजी [ˈadʒi], आजोबा [ˈadzoba])"
+        },
+        {
+          "char": "झ",
+          "ipa": "[dʒʱ dzʱ]",
+          "note": "the same split, breathy"
+        },
+        {
+          "char": "ञ",
+          "ipa": "[n]",
+          "note": "rare"
+        }
+      ]
+    },
+    {
+      "heading": "Retroflex consonants",
+      "items": [
+        {
+          "char": "ट",
+          "ipa": "[ʈ]",
+          "note": "t with the tongue tip curled back"
+        },
+        {
+          "char": "ठ",
+          "ipa": "[ʈʰ]",
+          "note": ""
+        },
+        {
+          "char": "ड",
+          "ipa": "[ɖ]",
+          "note": ""
+        },
+        {
+          "char": "ढ",
+          "ipa": "[ɖʱ]",
+          "note": ""
+        },
+        {
+          "char": "ण",
+          "ipa": "[ɳ]",
+          "note": "a real retroflex n in Marathi (पाणी)"
+        }
+      ]
+    },
+    {
+      "heading": "Dental consonants",
+      "items": [
+        {
+          "char": "त",
+          "ipa": "[t̪]",
+          "note": "t with the tongue against the teeth"
+        },
+        {
+          "char": "थ",
+          "ipa": "[t̪ʰ]",
+          "note": ""
+        },
+        {
+          "char": "द",
+          "ipa": "[d̪]",
+          "note": ""
+        },
+        {
+          "char": "ध",
+          "ipa": "[d̪ʱ]",
+          "note": ""
+        },
+        {
+          "char": "न",
+          "ipa": "[n]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "heading": "Labial consonants",
+      "items": [
+        {
+          "char": "प",
+          "ipa": "[p]",
+          "note": ""
+        },
+        {
+          "char": "फ",
+          "ipa": "[pʰ]",
+          "note": "often f in everyday speech"
+        },
+        {
+          "char": "ब",
+          "ipa": "[b]",
+          "note": ""
+        },
+        {
+          "char": "भ",
+          "ipa": "[bʱ]",
+          "note": ""
+        },
+        {
+          "char": "म",
+          "ipa": "[m]",
+          "note": ""
+        }
+      ]
+    },
+    {
+      "heading": "Other consonants",
+      "items": [
+        {
+          "char": "य",
+          "ipa": "[j]",
+          "note": "y"
+        },
+        {
+          "char": "र",
+          "ipa": "[ɾ]",
+          "note": "a quick tap"
+        },
+        {
+          "char": "ल",
+          "ipa": "[l]",
+          "note": ""
+        },
+        {
+          "char": "व",
+          "ipa": "[ʋ]",
+          "note": "between v and w"
+        },
+        {
+          "char": "श",
+          "ipa": "[ʃ]",
+          "note": "sh"
+        },
+        {
+          "char": "ष",
+          "ipa": "[ʂ]",
+          "note": "sh with the tongue curled back"
+        },
+        {
+          "char": "स",
+          "ipa": "[s]",
+          "note": ""
+        },
+        {
+          "char": "ह",
+          "ipa": "[ɦ]",
+          "note": "a breathy h"
+        },
+        {
+          "char": "ळ",
+          "ipa": "[ɭ]",
+          "note": "l with the tongue curled back — a Marathi letter (मंगळवार)"
+        }
+      ]
+    },
+    {
+      "heading": "Special signs",
+      "items": [
+        {
+          "char": "ं",
+          "ipa": "[ŋ n m]",
+          "note": "anusvara: a nasal that takes the place of the next consonant (मंगळ [məŋɡəɭ], थंड [t̪ʰəɳɖ])"
+        },
+        {
+          "char": "ँ",
+          "ipa": "[̃]",
+          "note": "chandrabindu: nasalises the vowel (rare in Marathi)"
+        },
+        {
+          "char": "्",
+          "ipa": "",
+          "note": "virama: removes the built-in vowel; normally letters join instead"
+        },
+        {
+          "char": "ः",
+          "ipa": "",
+          "note": "visarga: in a few Sanskrit words (दुःख)"
+        },
+        {
+          "char": "ऱ",
+          "ipa": "[ɾ]",
+          "note": "\"eyelash\" r, used before य and ह (सुऱ्या)"
+        }
+      ]
+    },
+    {
+      "heading": "Common conjuncts",
+      "items": [
+        {
+          "char": "क्ष",
+          "ipa": "[kʂ]",
+          "note": "kṣ (शिक्षक)"
+        },
+        {
+          "char": "ज्ञ",
+          "ipa": "[d̪ɲ]",
+          "note": "\"dnya\" in Marathi — not \"gya\" as in Hindi (ज्ञान)"
+        },
+        {
+          "char": "त्र",
+          "ipa": "[t̪ɾ]",
+          "note": "tr (मित्र)"
+        },
+        {
+          "char": "श्र",
+          "ipa": "[ʃɾ]",
+          "note": "shr (श्रीमंत)"
+        },
+        {
+          "char": "्य",
+          "ipa": "[j]",
+          "note": "y after a consonant (विद्या)"
+        },
+        {
+          "char": "र्",
+          "ipa": "[ɾ]",
+          "note": "r before a consonant, written on top (वर्ष)"
+        },
+        {
+          "char": "म्ह न्ह ल्ह व्ह",
+          "ipa": "[mʱ nʱ lʱ ʋʱ]",
+          "note": "breathy m, n, l, v (तुम्ही [ˈt̪umʱi])"
+        }
+      ]
+    },
+    {
+      "heading": "Numerals",
+      "items": [
+        {
+          "char": "०",
+          "ipa": "",
+          "note": "0 शून्य"
+        },
+        {
+          "char": "१",
+          "ipa": "",
+          "note": "1 एक"
+        },
+        {
+          "char": "२",
+          "ipa": "",
+          "note": "2 दोन"
+        },
+        {
+          "char": "३",
+          "ipa": "",
+          "note": "3 तीन"
+        },
+        {
+          "char": "४",
+          "ipa": "",
+          "note": "4 चार"
+        },
+        {
+          "char": "५",
+          "ipa": "",
+          "note": "5 पाच"
+        },
+        {
+          "char": "६",
+          "ipa": "",
+          "note": "6 सहा"
+        },
+        {
+          "char": "७",
+          "ipa": "",
+          "note": "7 सात"
+        },
+        {
+          "char": "८",
+          "ipa": "",
+          "note": "8 आठ"
+        },
+        {
+          "char": "९",
+          "ipa": "",
+          "note": "9 नऊ"
+        }
+      ]
+    },
+    {
+      "heading": "Reading rules",
+      "text": [
+        "The built-in vowel अ is not said at the end of a word (घर [ɡʱəɾ], not ɡʱəɾə), except after a conjunct (मित्र [ˈmit̪ɾə]). In the middle of longer words it is often dropped too; the pronunciation under each word shows which.",
+        "च and ज are said ch and j before i, e and y (आजी, जेवण), and ts and dz before other vowels in Marathi words (आजोबा, चहा). Words from Sanskrit and English keep ch and j (चित्र, जून).",
+        "इ/ई and उ/ऊ are spelling distinctions only: they sound the same.",
+        "Stress is light and falls on the first syllable; the IPA marks it with ˈ."
+      ]
+    },
+    {
+      "heading": "Symbols used in the pronunciations",
+      "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
+      "items": [
+        {
+          "char": "a",
+          "ipa": "आग [aɡ]",
+          "note": "open a, as in \"father\" but shorter"
+        },
+        {
+          "char": "e",
+          "ipa": "मे [me]",
+          "note": "pure e, like \"ay\" in \"say\" without the glide"
+        },
+        {
+          "char": "i",
+          "ipa": "मी [mi]",
+          "note": "ee, as in \"machine\""
+        },
+        {
+          "char": "o",
+          "ipa": "हो [ɦo]",
+          "note": "pure o, like \"oh\" without the glide"
+        },
+        {
+          "char": "u",
+          "ipa": "मूल [mul]",
+          "note": "oo, as in \"food\""
+        },
+        {
+          "char": "j",
+          "ipa": "पाय [paj]",
+          "note": "y, as in \"yes\""
+        },
+        {
+          "char": "æ",
+          "ipa": "बँक [bæŋk]",
+          "note": "a, as in \"cat\""
+        },
+        {
+          "char": "ə",
+          "ipa": "रस [ɾəs]",
+          "note": "the weak \"uh\" in \"about\""
+        },
+        {
+          "char": "ɔ",
+          "ipa": "ऑगस्ट [ˈɔɡəsʈ]",
+          "note": "o, as in British \"hot\""
+        },
+        {
+          "char": "ɦ",
+          "ipa": "हा [ɦa]",
+          "note": "a breathy, voiced h (ह)"
+        },
+        {
+          "char": "ʃ",
+          "ipa": "देश [d̪eʃ]",
+          "note": "sh, as in \"ship\""
+        },
+        {
+          "char": "ʒ",
+          "ipa": "जून [dʒun]",
+          "note": "s, as in \"measure\""
+        },
+        {
+          "char": "ʂ",
+          "ipa": "वर्ष [ʋəɾʂ]",
+          "note": "sh with the tongue tip curled back"
+        },
+        {
+          "char": "ʈ",
+          "ipa": "बोट [boʈ]",
+          "note": "t with the tongue tip curled back"
+        },
+        {
+          "char": "ɖ",
+          "ipa": "गोड [ɡoɖ]",
+          "note": "d with the tongue tip curled back"
+        },
+        {
+          "char": "ɳ",
+          "ipa": "सण [səɳ]",
+          "note": "n with the tongue tip curled back (ण)"
+        },
+        {
+          "char": "ɭ",
+          "ipa": "बाळ [baɭ]",
+          "note": "l with the tongue tip curled back (ळ)"
+        },
+        {
+          "char": "ɾ",
+          "ipa": "रस [ɾəs]",
+          "note": "a quick tap of the tongue, like the tt in American \"butter\""
+        },
+        {
+          "char": "ŋ",
+          "ipa": "बँक [bæŋk]",
+          "note": "ng, as in \"sing\""
+        },
+        {
+          "char": "ʋ",
+          "ipa": "नाव [naʋ]",
+          "note": "between v and w, with the lips barely touching"
+        },
+        {
+          "char": "ɡ",
+          "ipa": "आग [aɡ]",
+          "note": "always a hard g, as in \"go\""
+        },
+        {
+          "char": "ˈ",
+          "ipa": "आई [ˈai]",
+          "note": "the next syllable is stressed"
+        },
+        {
+          "char": "ː",
+          "ipa": "किल्ली [ˈkilːi]",
+          "note": "the sound before it is long"
+        },
+        {
+          "char": "ʰ",
+          "ipa": "आठ [aʈʰ]",
+          "note": "with a puff of air (aspirated)"
+        },
+        {
+          "char": "◌̯",
+          "ipa": "नऊ [nəu̯]",
+          "note": "not a syllable of its own — glides into the vowel next to it"
+        },
+        {
+          "char": "◌̪",
+          "ipa": "तू [t̪u]",
+          "note": "with the tongue against the teeth"
+        },
+        {
+          "char": "ʱ",
+          "ipa": "घर [ɡʱəɾ]",
+          "note": "with a breathy, murmured release (घ, भ, and म्ह, न्ह)"
+        }
+      ]
+    }
+  ]
+}

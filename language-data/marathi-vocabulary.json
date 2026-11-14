@@ -1,0 +1,5045 @@
+{
+  "meta": {
+    "language": "Marathi",
+    "languageCode": "mr",
+    "nativeLanguage": "English",
+    "targetField": "marathi",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "15aeb341-9433-48c4-8459-9ce3919a7135",
+      "part-of-speech": "noun",
+      "english": "person, human being",
+      "marathi": "माणूस",
+      "gender": "masculine",
+      "plural": "माणसे",
+      "cefr": "A1",
+      "ipa": "[ˈmaɳus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8732173-3b30-4662-b923-0dadbd6c0bc9",
+      "part-of-speech": "noun",
+      "english": "man",
+      "marathi": "पुरुष",
+      "gender": "masculine",
+      "plural": "पुरुष",
+      "cefr": "A1",
+      "ipa": "[ˈpuɾuʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa8fe07c-eecf-46e7-89cc-09b096637fa0",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "marathi": "स्त्री",
+      "gender": "feminine",
+      "plural": "स्त्रिया",
+      "cefr": "A1",
+      "ipa": "[st̪ɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa9cdc25-e26c-48fe-b4f6-c92bf267cf0f",
+      "part-of-speech": "noun",
+      "english": "woman, lady",
+      "marathi": "बाई",
+      "gender": "feminine",
+      "plural": "बाया",
+      "cefr": "A1",
+      "ipa": "[ˈbai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "feef7b6b-5850-4ccd-ba40-fcb2d43c6dfa",
+      "part-of-speech": "noun",
+      "english": "boy; son",
+      "marathi": "मुलगा",
+      "gender": "masculine",
+      "plural": "मुलगे",
+      "cefr": "A1",
+      "ipa": "[ˈmulɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76760e38-a09c-422b-8159-1996f360e5db",
+      "part-of-speech": "noun",
+      "english": "girl; daughter",
+      "marathi": "मुलगी",
+      "gender": "feminine",
+      "plural": "मुली",
+      "cefr": "A1",
+      "ipa": "[ˈmulɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9eaa682-96a1-424e-96f1-dc3435c33164",
+      "part-of-speech": "noun",
+      "english": "child",
+      "marathi": "मूल",
+      "gender": "neuter",
+      "plural": "मुले",
+      "cefr": "A1",
+      "ipa": "[mul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5295fca5-6a82-451a-9e8e-9d951191b9ed",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "marathi": "बाळ",
+      "gender": "neuter",
+      "plural": "बाळे",
+      "cefr": "A2",
+      "ipa": "[baɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98a71fb1-d54f-40fe-a12f-c7808485eaaa",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "marathi": "आई",
+      "gender": "feminine",
+      "plural": "आया",
+      "cefr": "A1",
+      "ipa": "[ˈai]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfe59071-4a81-40de-a5ba-400361c345c4",
+      "part-of-speech": "noun",
+      "english": "father, dad",
+      "marathi": "बाबा",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈbaba]",
+      "context": "respectful: वडील (always plural in form)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7224d334-0ec7-4c5d-8c9e-bf4bfc689e81",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "marathi": "आई-वडील",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈai ˈʋəɖil]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2c34952-f4b0-4105-9a09-c1fd9993e846",
+      "part-of-speech": "noun",
+      "english": "brother",
+      "marathi": "भाऊ",
+      "gender": "masculine",
+      "plural": "भाऊ",
+      "cefr": "A1",
+      "ipa": "[ˈbʱau]",
+      "context": "older brother: दादा",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6905baf3-0903-4925-aa6b-1c8751239c7c",
+      "part-of-speech": "noun",
+      "english": "sister",
+      "marathi": "बहीण",
+      "gender": "feminine",
+      "plural": "बहिणी",
+      "cefr": "A1",
+      "ipa": "[ˈbəɦiɳ]",
+      "context": "older sister: ताई",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a23dca1-b247-49e4-9987-6dd03f622f98",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "marathi": "आजोबा",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈadzoba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "728486f2-89d7-46bd-9e86-3f487058158b",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "marathi": "आजी",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈadʒi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2cca82d-5c44-4749-bf7d-3b0708563ec5",
+      "part-of-speech": "noun",
+      "english": "uncle (father's brother)",
+      "marathi": "काका",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈkaka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0943952e-101e-4f87-a28b-581b3a62c8d5",
+      "part-of-speech": "noun",
+      "english": "uncle (mother's brother)",
+      "marathi": "मामा",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈmama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab497e74-889f-4e69-9164-f8a5ae109696",
+      "part-of-speech": "noun",
+      "english": "aunt (mother's sister)",
+      "marathi": "मावशी",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈmaʋʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ffbf3e42-5dc2-484b-af04-a2c566ad4262",
+      "part-of-speech": "noun",
+      "english": "aunt (father's sister)",
+      "marathi": "आत्या",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈat̪ja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b85f5fd4-a085-4f0d-8374-8d2b1d77572e",
+      "part-of-speech": "noun",
+      "english": "family",
+      "marathi": "कुटुंब",
+      "gender": "neuter",
+      "plural": "कुटुंबे",
+      "cefr": "A1",
+      "ipa": "[ˈkuʈumb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e34c0d8e-5783-4e22-9054-168d9a1684bd",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "marathi": "नवरा",
+      "gender": "masculine",
+      "plural": "नवरे",
+      "cefr": "A1",
+      "ipa": "[ˈnəʋɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cefa0ebb-5775-45b4-93da-f6bd39e3e38d",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "marathi": "बायको",
+      "gender": "feminine",
+      "plural": "बायका",
+      "cefr": "A1",
+      "ipa": "[ˈbajko]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "87b4b2ea-3a1f-402f-b744-62dee5e4b245",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "marathi": "मित्र",
+      "gender": "masculine",
+      "plural": "मित्र",
+      "cefr": "A1",
+      "ipa": "[ˈmit̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5fa92b26-3d5b-4877-9c35-f4302e6f0070",
+      "part-of-speech": "noun",
+      "english": "friend (female)",
+      "marathi": "मैत्रीण",
+      "gender": "feminine",
+      "plural": "मैत्रिणी",
+      "cefr": "A1",
+      "ipa": "[ˈməi̯t̪ɾiɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e4b526b8-0921-4ca9-ad60-f0efe6fcace8",
+      "part-of-speech": "noun",
+      "english": "neighbor",
+      "marathi": "शेजारी",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʃedzaɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53fa1631-24d4-4cd6-84ef-4c1ccf527c45",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "marathi": "शिक्षक",
+      "gender": "masculine",
+      "plural": "शिक्षक",
+      "cefr": "A1",
+      "ipa": "[ˈʃikʂək]",
+      "context": "female: शिक्षिका",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "278b6f13-54dc-499f-af91-36df92bfb60e",
+      "part-of-speech": "noun",
+      "english": "student",
+      "marathi": "विद्यार्थी",
+      "gender": "masculine",
+      "plural": "विद्यार्थी",
+      "cefr": "A1",
+      "ipa": "[ˈʋid̪jaɾt̪ʰi]",
+      "context": "female: विद्यार्थिनी",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f9c82a2-6fbe-4f54-99cd-c551b41416c9",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "marathi": "डॉक्टर",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɖɔkʈəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f91ef24-ace8-434e-bf00-43ca45085d32",
+      "part-of-speech": "noun",
+      "english": "guest",
+      "marathi": "पाहुणा",
+      "gender": "masculine",
+      "plural": "पाहुणे",
+      "cefr": "A2",
+      "ipa": "[ˈpaɦuɳa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a3fd3d2-b817-4ff4-a044-ad8aea1a7400",
+      "part-of-speech": "noun",
+      "english": "name",
+      "marathi": "नाव",
+      "gender": "neuter",
+      "plural": "नावे",
+      "cefr": "A1",
+      "ipa": "[naʋ]",
+      "context": "माझे नाव …: my name is …",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c109fca-db0e-4700-9b19-d378303347b4",
+      "part-of-speech": "noun",
+      "english": "people",
+      "marathi": "लोक",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[lok]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d18967f5-82d6-45da-8a58-74163571758e",
+      "part-of-speech": "noun",
+      "english": "time",
+      "marathi": "वेळ",
+      "gender": "feminine",
+      "plural": "वेळा",
+      "cefr": "A1",
+      "ipa": "[ʋeɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc5796cf-0ae7-4d59-aafc-5f6ecbd7d94e",
+      "part-of-speech": "noun",
+      "english": "year",
+      "marathi": "वर्ष",
+      "gender": "neuter",
+      "plural": "वर्षे",
+      "cefr": "A1",
+      "ipa": "[ʋəɾʂ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3bec1ca-4aa8-4065-8f34-7266e2a6f592",
+      "part-of-speech": "noun",
+      "english": "month",
+      "marathi": "महिना",
+      "gender": "masculine",
+      "plural": "महिने",
+      "cefr": "A1",
+      "ipa": "[ˈməɦina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6598a2f4-ded3-4517-adaf-a912fb46108c",
+      "part-of-speech": "noun",
+      "english": "week",
+      "marathi": "आठवडा",
+      "gender": "masculine",
+      "plural": "आठवडे",
+      "cefr": "A1",
+      "ipa": "[ˈaʈʰəʋɖa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e1b2925-e17f-4c02-a312-d06eb43f3e48",
+      "part-of-speech": "noun",
+      "english": "day",
+      "marathi": "दिवस",
+      "gender": "masculine",
+      "plural": "दिवस",
+      "cefr": "A1",
+      "ipa": "[ˈd̪iʋəs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b532198-00df-4181-8926-e89bef1803c3",
+      "part-of-speech": "noun",
+      "english": "hour",
+      "marathi": "तास",
+      "gender": "masculine",
+      "plural": "तास",
+      "cefr": "A1",
+      "ipa": "[t̪as]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5002fc0-fec7-4a4a-97b7-09a6bfe253c5",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "marathi": "मिनिट",
+      "gender": "neuter",
+      "plural": "मिनिटे",
+      "cefr": "A1",
+      "ipa": "[ˈminiʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7c439a3-9860-4245-b168-bcb9839ade8a",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "marathi": "सकाळ",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsəkaɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e28dbcc7-9c9b-4d7b-b29e-60998b8b2653",
+      "part-of-speech": "noun",
+      "english": "midday, early afternoon",
+      "marathi": "दुपार",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈd̪upaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4320772-983c-41ad-9f2f-d5583380fadf",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "marathi": "संध्याकाळ",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsənd̪ʱjakaɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d76f568-290e-4495-a060-d6fd05a2369f",
+      "part-of-speech": "noun",
+      "english": "night",
+      "marathi": "रात्र",
+      "gender": "feminine",
+      "plural": "रात्री",
+      "cefr": "A1",
+      "ipa": "[ˈɾat̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4746ef7d-250a-41dc-9e88-861007bb596b",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "marathi": "सोमवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsomʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3717b979-8310-4cd2-ae61-e93b47d763d6",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "marathi": "मंगळवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈməŋɡəɭʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8082090-add7-4243-b536-0d13619a9037",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "marathi": "बुधवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈbud̪ʱʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9c3d4bc-2422-4a97-a797-5b90934d5639",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "marathi": "गुरुवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɡuɾuʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "408f9734-9876-4f2f-aa2d-971a9be619ef",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "marathi": "शुक्रवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʃukɾəʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5596d853-b994-4236-8999-4484a631f580",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "marathi": "शनिवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʃəniʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e472130-a2d7-4a8c-bb8c-4dac571b8002",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "marathi": "रविवार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɾəʋiʋaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2aba317-3aa2-4e90-983b-509c9cc471b0",
+      "part-of-speech": "noun",
+      "english": "January",
+      "marathi": "जानेवारी",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈdzaneʋaɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e0d2aaf-80c8-4076-9f0b-d9691c878179",
+      "part-of-speech": "noun",
+      "english": "February",
+      "marathi": "फेब्रुवारी",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpʰebɾuʋaɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f88478ac-cbf5-4be3-8183-c61cab6f0028",
+      "part-of-speech": "noun",
+      "english": "March",
+      "marathi": "मार्च",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[maɾtʃ]",
+      "context": "English loanwords keep the \"ch\" and \"j\" sounds: मार्च, जून",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1489573-2584-471c-bc34-ca7dc9cd0436",
+      "part-of-speech": "noun",
+      "english": "April",
+      "marathi": "एप्रिल",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈepɾil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70b37457-eabc-49d1-8b6b-4741ad97cf0b",
+      "part-of-speech": "noun",
+      "english": "May",
+      "marathi": "मे",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[me]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24e7d701-ff82-4fa4-a601-f9c4a1a41cd4",
+      "part-of-speech": "noun",
+      "english": "June",
+      "marathi": "जून",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[dʒun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fd728e9-e27f-48b8-a97b-b665ea84ffe7",
+      "part-of-speech": "noun",
+      "english": "July",
+      "marathi": "जुलै",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈdʒuləi̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb4d9bdc-2935-4647-a822-0a5d3414e6f2",
+      "part-of-speech": "noun",
+      "english": "August",
+      "marathi": "ऑगस्ट",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɔɡəsʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "195e3037-437a-4220-8d30-461d7f8310fe",
+      "part-of-speech": "noun",
+      "english": "September",
+      "marathi": "सप्टेंबर",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsəpʈembəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5efd1d8-d320-4805-8407-6348b6ad94a3",
+      "part-of-speech": "noun",
+      "english": "October",
+      "marathi": "ऑक्टोबर",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɔkʈobəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50dcb821-4bfe-4dad-ad65-34361a7a98b6",
+      "part-of-speech": "noun",
+      "english": "November",
+      "marathi": "नोव्हेंबर",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈnoʋʱembəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9be6dad0-fd72-4170-b239-38f6ed09ee34",
+      "part-of-speech": "noun",
+      "english": "December",
+      "marathi": "डिसेंबर",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɖisembəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d39b236-9daf-4786-98b7-549917d17ccf",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "marathi": "उन्हाळा",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈunʱaɭa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7c05d8d3-fd05-4fbe-980a-42ef6d684e08",
+      "part-of-speech": "noun",
+      "english": "monsoon, rainy season",
+      "marathi": "पावसाळा",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpaʋsaɭa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4872a269-f198-42c4-a668-eb439bd528aa",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "marathi": "हिवाळा",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈɦiʋaɭa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e73f135a-6c2e-42d1-a9e0-8bdbc30cf78c",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "marathi": "वसंत",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʋəsənt̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "157bf88b-a750-4962-860c-dc062b6060fd",
+      "part-of-speech": "noun",
+      "english": "head",
+      "marathi": "डोके",
+      "gender": "neuter",
+      "plural": "डोकी",
+      "cefr": "A1",
+      "ipa": "[ˈɖoke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f480960-b056-44ef-82ef-45f927cdabd6",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "marathi": "डोळा",
+      "gender": "masculine",
+      "plural": "डोळे",
+      "cefr": "A1",
+      "ipa": "[ˈɖoɭa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59ed744b-a7d2-4885-b4f3-fc83a2da3066",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "marathi": "कान",
+      "gender": "masculine",
+      "plural": "कान",
+      "cefr": "A1",
+      "ipa": "[kan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a96a992-adf6-4b0b-82dd-f925bfd18188",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "marathi": "नाक",
+      "gender": "neuter",
+      "plural": "नाके",
+      "cefr": "A1",
+      "ipa": "[nak]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a36affaa-b2dc-4fce-800e-5b70b9f9f005",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "marathi": "तोंड",
+      "gender": "neuter",
+      "plural": "तोंडे",
+      "cefr": "A1",
+      "ipa": "[t̪oɳɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9340afb1-e067-4723-aa31-bc5d34ab7c31",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "marathi": "दात",
+      "gender": "masculine",
+      "plural": "दात",
+      "cefr": "A1",
+      "ipa": "[d̪at̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac921787-9381-4153-93ea-05e90d430593",
+      "part-of-speech": "noun",
+      "english": "hand; arm",
+      "marathi": "हात",
+      "gender": "masculine",
+      "plural": "हात",
+      "cefr": "A1",
+      "ipa": "[ɦat̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28ee5944-1dfe-4cda-b15e-5852729fdf49",
+      "part-of-speech": "noun",
+      "english": "foot; leg",
+      "marathi": "पाय",
+      "gender": "masculine",
+      "plural": "पाय",
+      "cefr": "A1",
+      "ipa": "[paj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb86dff9-185d-4be1-99d0-68aa44369700",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "marathi": "हृदय",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈɦɾud̪əj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7c7c41b-2bda-44ca-a2f5-d44d77e41225",
+      "part-of-speech": "noun",
+      "english": "hair",
+      "marathi": "केस",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[kes]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "872ec2a2-224a-4e90-ae61-10d0044f944a",
+      "part-of-speech": "noun",
+      "english": "face",
+      "marathi": "चेहरा",
+      "gender": "masculine",
+      "plural": "चेहरे",
+      "cefr": "A2",
+      "ipa": "[ˈtʃeɦɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d0a58d5-5102-46d3-86f4-b591c774aae8",
+      "part-of-speech": "noun",
+      "english": "body",
+      "marathi": "शरीर",
+      "gender": "neuter",
+      "plural": "शरीरे",
+      "cefr": "A2",
+      "ipa": "[ˈʃəɾiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6b43529-9f3d-4edf-92c4-b0f9540d3fd4",
+      "part-of-speech": "noun",
+      "english": "finger",
+      "marathi": "बोट",
+      "gender": "neuter",
+      "plural": "बोटे",
+      "cefr": "A2",
+      "ipa": "[boʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2070b739-f865-4a8c-99b8-d41c908ebaf8",
+      "part-of-speech": "noun",
+      "english": "back",
+      "marathi": "पाठ",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[paʈʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24655e61-9733-44d1-b097-6212071b1845",
+      "part-of-speech": "noun",
+      "english": "water",
+      "marathi": "पाणी",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈpaɳi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5ed73a8-8b4e-4a2f-9f7a-dfbec229c652",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "marathi": "दूध",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[d̪ud̪ʱ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e39fcdc7-0261-4185-94b1-e27b3a80d60d",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "marathi": "चहा",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtsəɦa]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59ece3e2-bb49-4653-9f07-fa68c43d0c80",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "marathi": "कॉफी",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈkɔpʰi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6746c4a1-0a97-453e-96b1-e7dcd27150c5",
+      "part-of-speech": "noun",
+      "english": "juice",
+      "marathi": "रस",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ɾəs]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fdf6eca7-a59a-43cf-8163-7e61a080dc22",
+      "part-of-speech": "noun",
+      "english": "cooked rice",
+      "marathi": "भात",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[bʱat̪]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9dfe3a6b-4cbc-4af4-9c57-141ae1eff621",
+      "part-of-speech": "noun",
+      "english": "rice (uncooked)",
+      "marathi": "तांदूळ",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈt̪and̪uɭ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa72e011-40e8-4805-b6e0-15d865424730",
+      "part-of-speech": "noun",
+      "english": "chapati (flatbread)",
+      "marathi": "पोळी",
+      "gender": "feminine",
+      "plural": "पोळ्या",
+      "cefr": "A1",
+      "ipa": "[ˈpoɭi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14a1542f-1a90-45fc-a309-02f69ee5fd7d",
+      "part-of-speech": "noun",
+      "english": "bhakri (millet flatbread)",
+      "marathi": "भाकरी",
+      "gender": "feminine",
+      "plural": "भाकऱ्या",
+      "cefr": "A2",
+      "ipa": "[ˈbʱakɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c118d321-858e-4836-9785-2cea5b76451e",
+      "part-of-speech": "noun",
+      "english": "bread roll",
+      "marathi": "पाव",
+      "gender": "masculine",
+      "plural": "पाव",
+      "cefr": "A1",
+      "ipa": "[paʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa3a7ab4-0332-4733-a3a1-4eb12de7724f",
+      "part-of-speech": "noun",
+      "english": "dal (lentils)",
+      "marathi": "वरण",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈʋəɾəɳ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d35094cc-1c27-42bd-95cf-78e619bd764e",
+      "part-of-speech": "noun",
+      "english": "mutton, meat",
+      "marathi": "मटण",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈməʈəɳ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "997bbf34-b5f3-4e8e-9670-3c0c134b5c6d",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "marathi": "मासा",
+      "gender": "masculine",
+      "plural": "मासे",
+      "cefr": "A1",
+      "ipa": "[ˈmasa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15bb89db-1e0c-4dbd-8410-e2ddd09ac559",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "marathi": "अंडे",
+      "gender": "neuter",
+      "plural": "अंडी",
+      "cefr": "A1",
+      "ipa": "[ˈəɳɖe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "556c7107-2efa-47ef-af09-c5b1ec4d5fe8",
+      "part-of-speech": "noun",
+      "english": "chicken",
+      "marathi": "कोंबडी",
+      "gender": "feminine",
+      "plural": "कोंबड्या",
+      "cefr": "A1",
+      "ipa": "[ˈkombɖi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "281cefdc-deec-4a96-b481-85f899c518da",
+      "part-of-speech": "noun",
+      "english": "vegetable; vegetable dish",
+      "marathi": "भाजी",
+      "gender": "feminine",
+      "plural": "भाज्या",
+      "cefr": "A1",
+      "ipa": "[ˈbʱadʒi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c2d7488-adf9-419e-a5d4-2364ff12d38d",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "marathi": "फळ",
+      "gender": "neuter",
+      "plural": "फळे",
+      "cefr": "A1",
+      "ipa": "[pʰəɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea0ffce0-5494-4d50-b151-25afa3623abe",
+      "part-of-speech": "noun",
+      "english": "potato",
+      "marathi": "बटाटा",
+      "gender": "masculine",
+      "plural": "बटाटे",
+      "cefr": "A1",
+      "ipa": "[ˈbəʈaʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad8e09cf-0ceb-4783-8f51-acf62198a6e6",
+      "part-of-speech": "noun",
+      "english": "onion",
+      "marathi": "कांदा",
+      "gender": "masculine",
+      "plural": "कांदे",
+      "cefr": "A1",
+      "ipa": "[ˈkand̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f2bc12d-74d9-4b74-a6dd-657d63c646d1",
+      "part-of-speech": "noun",
+      "english": "tomato",
+      "marathi": "टोमॅटो",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʈomæʈo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37fd97d4-398a-4ec8-86db-72a776280633",
+      "part-of-speech": "noun",
+      "english": "mango",
+      "marathi": "आंबा",
+      "gender": "masculine",
+      "plural": "आंबे",
+      "cefr": "A1",
+      "ipa": "[ˈamba]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eafc8fa6-be9d-40dd-b041-90e84f2569c5",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "marathi": "केळे",
+      "gender": "neuter",
+      "plural": "केळी",
+      "cefr": "A1",
+      "ipa": "[ˈkeɭe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9c8c863-ee95-4889-b19b-aacf9089959e",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "marathi": "मीठ",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[miʈʰ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57968820-afed-4a53-b86e-57cf55bd1c88",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "marathi": "साखर",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsakʰəɾ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05d650db-36bc-4c3f-8eaf-8364a0d9aa30",
+      "part-of-speech": "noun",
+      "english": "oil",
+      "marathi": "तेल",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[t̪el]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "993f4d44-cec9-4a3d-97f2-e99769dfdcb7",
+      "part-of-speech": "noun",
+      "english": "chili",
+      "marathi": "मिरची",
+      "gender": "feminine",
+      "plural": "मिरच्या",
+      "cefr": "A1",
+      "ipa": "[ˈmiɾtʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e525444c-5c16-437f-99df-1d47664a5d22",
+      "part-of-speech": "noun",
+      "english": "meal, food",
+      "marathi": "जेवण",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈdʒeʋəɳ]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d646524-c501-4bda-8dfa-9e015b4e6542",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "marathi": "न्याहारी",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈnjaɦaɾi]",
+      "context": "also नाश्ता",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2cf81b8-e465-4fb8-b494-1e73ff6544f3",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "marathi": "चमचा",
+      "gender": "masculine",
+      "plural": "चमचे",
+      "cefr": "A2",
+      "ipa": "[ˈtsəmtsa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9a5812d-1d8b-49e9-832a-1560e8e7ec53",
+      "part-of-speech": "noun",
+      "english": "plate",
+      "marathi": "ताट",
+      "gender": "neuter",
+      "plural": "ताटे",
+      "cefr": "A2",
+      "ipa": "[t̪aʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08a10787-f8a7-412f-b638-ca748c9c5b04",
+      "part-of-speech": "noun",
+      "english": "glass",
+      "marathi": "पेला",
+      "gender": "masculine",
+      "plural": "पेले",
+      "cefr": "A1",
+      "ipa": "[ˈpela]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81d37476-ac3e-4d55-9bfc-58dbb3c5bd4a",
+      "part-of-speech": "noun",
+      "english": "cup",
+      "marathi": "कप",
+      "gender": "masculine",
+      "plural": "कप",
+      "cefr": "A1",
+      "ipa": "[kəp]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c73f6f4-302b-4988-a1d0-95532e87dbfb",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "marathi": "सुरी",
+      "gender": "feminine",
+      "plural": "सुऱ्या",
+      "cefr": "A2",
+      "ipa": "[ˈsuɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff0fa5d5-de95-44d4-86c0-67de25c97398",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "marathi": "बाटली",
+      "gender": "feminine",
+      "plural": "बाटल्या",
+      "cefr": "A2",
+      "ipa": "[ˈbaʈli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75572901-710f-46fc-8a06-f25fa98c0c6c",
+      "part-of-speech": "noun",
+      "english": "bill, check",
+      "marathi": "बिल",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[bil]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a905844-d865-48eb-a9c9-764709722c1f",
+      "part-of-speech": "noun",
+      "english": "vada pav",
+      "marathi": "वडापाव",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʋəɖapaʋ]",
+      "context": "Mumbai's potato-fritter sandwich",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d6ac03c-d7b0-4540-9235-c1c91c83e8bf",
+      "part-of-speech": "noun",
+      "english": "house; home",
+      "marathi": "घर",
+      "gender": "neuter",
+      "plural": "घरे",
+      "cefr": "A1",
+      "ipa": "[ɡʱəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c09919b-6418-4d5e-8bd7-d16dfbe89a8c",
+      "part-of-speech": "noun",
+      "english": "room",
+      "marathi": "खोली",
+      "gender": "feminine",
+      "plural": "खोल्या",
+      "cefr": "A1",
+      "ipa": "[ˈkʰoli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e55e538-5172-49e1-ab38-a2457dd0ff3e",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "marathi": "स्वयंपाकघर",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsʋəjəmpakɡʱəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf8af401-67bb-4781-bfe2-4e3e1810dcce",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "marathi": "बाथरूम",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈbat̪ʰɾum]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d83b6625-279e-49d4-a4e7-3e8360a23bc3",
+      "part-of-speech": "noun",
+      "english": "door",
+      "marathi": "दार",
+      "gender": "neuter",
+      "plural": "दारे",
+      "cefr": "A1",
+      "ipa": "[d̪aɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9db34349-7248-4494-bb21-7a676ef6b0cb",
+      "part-of-speech": "noun",
+      "english": "window",
+      "marathi": "खिडकी",
+      "gender": "feminine",
+      "plural": "खिडक्या",
+      "cefr": "A1",
+      "ipa": "[ˈkʰiɖki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fbf262cc-6c17-4747-8096-3f7eda9c10b1",
+      "part-of-speech": "noun",
+      "english": "table",
+      "marathi": "टेबल",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈʈebəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f10face-ec5d-4623-9f60-81ae1d3bc147",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "marathi": "खुर्ची",
+      "gender": "feminine",
+      "plural": "खुर्च्या",
+      "cefr": "A1",
+      "ipa": "[ˈkʰuɾtʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d8e9f89-ce19-4c35-bc78-9e752be1faa8",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "marathi": "पलंग",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpələŋɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c15a8564-cf99-4933-bec3-4210b4f9cfe0",
+      "part-of-speech": "noun",
+      "english": "key",
+      "marathi": "किल्ली",
+      "gender": "feminine",
+      "plural": "किल्ल्या",
+      "cefr": "A1",
+      "ipa": "[ˈkilːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24dc9e25-4e94-40d1-9656-8972c06cae5e",
+      "part-of-speech": "noun",
+      "english": "wall",
+      "marathi": "भिंत",
+      "gender": "feminine",
+      "plural": "भिंती",
+      "cefr": "A2",
+      "ipa": "[bʱint̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a00c2f15-44ca-401b-b872-328f1a7a7952",
+      "part-of-speech": "noun",
+      "english": "ground, floor; land",
+      "marathi": "जमीन",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈdzəmin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bb05d83-92ed-4020-b25f-a10ae1d14821",
+      "part-of-speech": "noun",
+      "english": "garden",
+      "marathi": "बाग",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[baɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "086c940b-ef17-46b3-92d6-36a28292851c",
+      "part-of-speech": "noun",
+      "english": "city",
+      "marathi": "शहर",
+      "gender": "neuter",
+      "plural": "शहरे",
+      "cefr": "A1",
+      "ipa": "[ˈʃəɦəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a04caf1e-78e2-4fd7-961d-f9aeef54f0e7",
+      "part-of-speech": "noun",
+      "english": "village; hometown",
+      "marathi": "गाव",
+      "gender": "neuter",
+      "plural": "गावे",
+      "cefr": "A1",
+      "ipa": "[ɡaʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5cf7e27-a594-4bcc-878e-f68b69edb6ee",
+      "part-of-speech": "noun",
+      "english": "place; seat",
+      "marathi": "जागा",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈdzaɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf52ff08-2995-4f2f-9d2f-c32ff0733b6a",
+      "part-of-speech": "noun",
+      "english": "road, street",
+      "marathi": "रस्ता",
+      "gender": "masculine",
+      "plural": "रस्ते",
+      "cefr": "A1",
+      "ipa": "[ˈɾəst̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "efffa49a-85ac-4827-b72f-d6c306af6de9",
+      "part-of-speech": "noun",
+      "english": "country",
+      "marathi": "देश",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[d̪eʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "568cae68-c97c-4d2c-94a7-b253a91faf77",
+      "part-of-speech": "noun",
+      "english": "world",
+      "marathi": "जग",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[dzəɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2be0e34e-0648-4fb8-a763-36bbef9f9cab",
+      "part-of-speech": "noun",
+      "english": "sea",
+      "marathi": "समुद्र",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsəmud̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d680210-774f-4a6a-99ae-dac1330d2309",
+      "part-of-speech": "noun",
+      "english": "river",
+      "marathi": "नदी",
+      "gender": "feminine",
+      "plural": "नद्या",
+      "cefr": "A1",
+      "ipa": "[ˈnəd̪i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5574d91e-4a8a-41a1-b9df-8d1f8cddb5c6",
+      "part-of-speech": "noun",
+      "english": "hill, mountain",
+      "marathi": "डोंगर",
+      "gender": "masculine",
+      "plural": "डोंगर",
+      "cefr": "A1",
+      "ipa": "[ˈɖoŋɡəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6398e857-7f3a-4e0a-b4e8-41fac7490179",
+      "part-of-speech": "noun",
+      "english": "forest",
+      "marathi": "जंगल",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈdzəŋɡəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca1f799f-c579-4c34-ba5d-039c77952b64",
+      "part-of-speech": "noun",
+      "english": "sky",
+      "marathi": "आकाश",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈakaʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "31ccd802-f817-455b-a0d4-33c6042a0dc7",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "marathi": "सूर्य",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsuɾjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "186cd80f-8a65-4404-addc-45fbcef2d3fb",
+      "part-of-speech": "noun",
+      "english": "moon",
+      "marathi": "चंद्र",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈtsənd̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18a61c03-9fd2-494e-b35a-7d4cfb0cddd8",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "marathi": "पाऊस",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpaus]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e1abdc2-61d6-4428-b8f2-9fb0dc9c40b4",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "marathi": "वारा",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʋaɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92b216ff-ae16-4689-b3c8-4d8a99433e35",
+      "part-of-speech": "noun",
+      "english": "air; weather",
+      "marathi": "हवा",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈɦəʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd5129dd-7a22-40fe-a46d-4fc5ac96d2a2",
+      "part-of-speech": "noun",
+      "english": "tree",
+      "marathi": "झाड",
+      "gender": "neuter",
+      "plural": "झाडे",
+      "cefr": "A1",
+      "ipa": "[dzʱaɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f0a5419-828b-44c5-a515-592e8f98c983",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "marathi": "फूल",
+      "gender": "neuter",
+      "plural": "फुले",
+      "cefr": "A1",
+      "ipa": "[pʰul]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd43957b-4683-4cf8-aede-407b0c62f6b1",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "marathi": "कुत्रा",
+      "gender": "masculine",
+      "plural": "कुत्रे",
+      "cefr": "A1",
+      "ipa": "[ˈkut̪ɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "934d9732-6cfb-4c93-8e8a-7268210d3beb",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "marathi": "मांजर",
+      "gender": "feminine",
+      "plural": "मांजरी",
+      "cefr": "A1",
+      "ipa": "[ˈmandzəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "931e9abe-8290-4e10-91d8-0e859c41b233",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "marathi": "गाय",
+      "gender": "feminine",
+      "plural": "गायी",
+      "cefr": "A2",
+      "ipa": "[ɡaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a500413f-ce52-4383-8a95-d5cb68656708",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "marathi": "पक्षी",
+      "gender": "masculine",
+      "plural": "पक्षी",
+      "cefr": "A2",
+      "ipa": "[ˈpəkʂi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2631873e-18b8-4f4d-9e73-758536540606",
+      "part-of-speech": "noun",
+      "english": "store",
+      "marathi": "दुकान",
+      "gender": "neuter",
+      "plural": "दुकाने",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ukan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d235fa4c-5a7e-4121-b4dd-deaeb1e81a68",
+      "part-of-speech": "noun",
+      "english": "market",
+      "marathi": "बाजार",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈbadzaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d279091f-f137-45bb-adfa-c38b65239162",
+      "part-of-speech": "noun",
+      "english": "school",
+      "marathi": "शाळा",
+      "gender": "feminine",
+      "plural": "शाळा",
+      "cefr": "A1",
+      "ipa": "[ˈʃaɭa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da01d713-06b4-42e1-b8bb-69f145ce97f9",
+      "part-of-speech": "noun",
+      "english": "hospital, clinic",
+      "marathi": "दवाखाना",
+      "gender": "masculine",
+      "plural": "दवाखाने",
+      "cefr": "A1",
+      "ipa": "[ˈd̪əʋakʰana]",
+      "context": "a large hospital: रुग्णालय",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8014ec2-075b-41f1-8cf4-41b88dfcc2da",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "marathi": "बँक",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[bæŋk]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa0af5b9-d374-452e-abdb-9af71ef157c7",
+      "part-of-speech": "noun",
+      "english": "restaurant; hotel",
+      "marathi": "हॉटेल",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈɦɔʈel]",
+      "context": "in Maharashtra हॉटेल usually means a place to eat",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d3e42bb-b2f6-4c7f-bbd8-445cea1946c2",
+      "part-of-speech": "noun",
+      "english": "temple",
+      "marathi": "मंदिर",
+      "gender": "neuter",
+      "plural": "मंदिरे",
+      "cefr": "A2",
+      "ipa": "[ˈmənd̪iɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d46bcf22-9867-4260-820d-04f77ddef959",
+      "part-of-speech": "noun",
+      "english": "office",
+      "marathi": "ऑफिस",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈɔpʰis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf0b332a-4536-42f6-b969-114867af2587",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "marathi": "काम",
+      "gender": "neuter",
+      "plural": "कामे",
+      "cefr": "A1",
+      "ipa": "[kam]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d687c432-4df7-4ec5-854b-464b6b33fb2a",
+      "part-of-speech": "noun",
+      "english": "money",
+      "marathi": "पैसे",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈpəi̯se]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66603161-0e85-41a0-8ee5-e4f59f0c75ed",
+      "part-of-speech": "noun",
+      "english": "price",
+      "marathi": "किंमत",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈkimːət̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8366c70f-70d3-4e9e-8c90-2583ebdab86e",
+      "part-of-speech": "noun",
+      "english": "station",
+      "marathi": "स्टेशन",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈsʈeʃən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4538a1ab-576f-4831-b250-cc06d18a3462",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "marathi": "विमानतळ",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʋimant̪əɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a4ce805-ec6f-403f-84aa-fb0bd552b4b2",
+      "part-of-speech": "noun",
+      "english": "university",
+      "marathi": "विद्यापीठ",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈʋid̪japiʈʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3c3242d-11db-4e41-8570-46fb8c81d997",
+      "part-of-speech": "noun",
+      "english": "train; railway",
+      "marathi": "रेल्वे",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈɾelʋe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4573bbd0-69fc-4b2f-963d-6dafd9e2294e",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "marathi": "बस",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[bəs]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d12dea4-4c90-48bc-860b-6b46d850d079",
+      "part-of-speech": "noun",
+      "english": "car; vehicle; train",
+      "marathi": "गाडी",
+      "gender": "feminine",
+      "plural": "गाड्या",
+      "cefr": "A1",
+      "ipa": "[ˈɡaɖi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1cbbb73d-09c8-469f-a8c8-dbab86964cd8",
+      "part-of-speech": "noun",
+      "english": "auto-rickshaw",
+      "marathi": "रिक्षा",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈɾikʂa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "47f26635-1c1c-41c7-afd6-dfb4025849dc",
+      "part-of-speech": "noun",
+      "english": "airplane",
+      "marathi": "विमान",
+      "gender": "neuter",
+      "plural": "विमाने",
+      "cefr": "A1",
+      "ipa": "[ˈʋiman]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42137681-de9e-4dae-a405-e4ab93b5c0d4",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "marathi": "सायकल",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsajkəl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "330b9ac7-0c33-4f9a-b53f-67231d0a8ecd",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "marathi": "तिकीट",
+      "gender": "neuter",
+      "plural": "तिकिटे",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ikiʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6088715-5c28-46a5-8944-99272eb35c0f",
+      "part-of-speech": "noun",
+      "english": "map",
+      "marathi": "नकाशा",
+      "gender": "masculine",
+      "plural": "नकाशे",
+      "cefr": "A2",
+      "ipa": "[ˈnəkaʃa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6b1d792-277f-442d-b7d0-644218012e25",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "marathi": "कपडे",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkəpɖe]",
+      "countability": "plural-only",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2da4bb4e-098c-4692-982c-08e8923fe7d8",
+      "part-of-speech": "noun",
+      "english": "shirt",
+      "marathi": "शर्ट",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ʃəɾʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a13184c-f2f2-4a83-bf8b-ff9587d9db39",
+      "part-of-speech": "noun",
+      "english": "pants",
+      "marathi": "पँट",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[pæɳʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "172277cc-ba19-4a7e-9fa8-e6e464cbb845",
+      "part-of-speech": "noun",
+      "english": "sari",
+      "marathi": "साडी",
+      "gender": "feminine",
+      "plural": "साड्या",
+      "cefr": "A1",
+      "ipa": "[ˈsaɖi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11341ad5-97a9-46ba-9cb4-e4c56ca56691",
+      "part-of-speech": "noun",
+      "english": "shoe",
+      "marathi": "बूट",
+      "gender": "masculine",
+      "plural": "बूट",
+      "cefr": "A1",
+      "ipa": "[buʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "49b3e269-8c9f-4fe6-b29c-25f8690e2470",
+      "part-of-speech": "noun",
+      "english": "bag",
+      "marathi": "पिशवी",
+      "gender": "feminine",
+      "plural": "पिशव्या",
+      "cefr": "A1",
+      "ipa": "[ˈpiʃʋi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70af9bee-af9c-4c2b-a272-03bb75984f30",
+      "part-of-speech": "noun",
+      "english": "book",
+      "marathi": "पुस्तक",
+      "gender": "neuter",
+      "plural": "पुस्तके",
+      "cefr": "A1",
+      "ipa": "[ˈpust̪ək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cf3371f-418b-47fb-a597-12e98993e852",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "marathi": "पेन",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[pen]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fb6f739-b1da-4cb7-b3ba-5c31a33aaa23",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "marathi": "कागद",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈkaɡəd̪]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6b205a9-d1c0-4af5-981c-745d8fd9fb9f",
+      "part-of-speech": "noun",
+      "english": "telephone",
+      "marathi": "फोन",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[pʰon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8cc0cf9-b484-4a37-a677-47a069778f1d",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "marathi": "संगणक",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈsəŋɡənək]",
+      "context": "everyday: कॉम्प्युटर",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1251f86a-788d-4903-b864-dc736e1dc5a6",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "marathi": "पत्र",
+      "gender": "neuter",
+      "plural": "पत्रे",
+      "cefr": "A2",
+      "ipa": "[ˈpət̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b2ccbdc-4d55-4306-93ee-2e6554e6ed9a",
+      "part-of-speech": "noun",
+      "english": "newspaper",
+      "marathi": "वर्तमानपत्र",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈʋəɾt̪əmanpət̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c04bdd1c-46be-4375-8953-9d6ec060f045",
+      "part-of-speech": "noun",
+      "english": "question",
+      "marathi": "प्रश्न",
+      "gender": "masculine",
+      "plural": "प्रश्न",
+      "cefr": "A1",
+      "ipa": "[ˈpɾəʃnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "286b4340-1888-4309-8404-88b1c7656e9f",
+      "part-of-speech": "noun",
+      "english": "answer; north",
+      "marathi": "उत्तर",
+      "gender": "neuter",
+      "plural": "उत्तरे",
+      "cefr": "A1",
+      "ipa": "[ˈut̪ːəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c43464da-ba77-42d7-9d0f-14cfaabe96d5",
+      "part-of-speech": "noun",
+      "english": "word",
+      "marathi": "शब्द",
+      "gender": "masculine",
+      "plural": "शब्द",
+      "cefr": "A1",
+      "ipa": "[ˈʃəbd̪ə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2ad8af2-0e75-4187-be17-50912291fe56",
+      "part-of-speech": "noun",
+      "english": "language",
+      "marathi": "भाषा",
+      "gender": "feminine",
+      "plural": "भाषा",
+      "cefr": "A1",
+      "ipa": "[ˈbʱaʂa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa0191e1-4620-4a59-9e28-5001b595b034",
+      "part-of-speech": "noun",
+      "english": "Marathi (language)",
+      "marathi": "मराठी",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈməɾaʈʰi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4260c552-c9d9-4d23-a9ad-17352bbb648b",
+      "part-of-speech": "noun",
+      "english": "English (language)",
+      "marathi": "इंग्रजी",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈiŋɡɾədʒi]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e96f1fd-4ab9-4991-b00a-446305e71123",
+      "part-of-speech": "noun",
+      "english": "song",
+      "marathi": "गाणे",
+      "gender": "neuter",
+      "plural": "गाणी",
+      "cefr": "A1",
+      "ipa": "[ˈɡaɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67d1abd4-a5af-4cd3-9d2b-913f0f022742",
+      "part-of-speech": "noun",
+      "english": "picture",
+      "marathi": "चित्र",
+      "gender": "neuter",
+      "plural": "चित्रे",
+      "cefr": "A1",
+      "ipa": "[ˈtʃit̪ɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7670229a-0cdd-48f8-9c87-96f54134b146",
+      "part-of-speech": "noun",
+      "english": "movie",
+      "marathi": "चित्रपट",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈtʃit̪ɾəpəʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "72498bcd-aeeb-47ba-a295-a93ba3e562f9",
+      "part-of-speech": "noun",
+      "english": "game, sport",
+      "marathi": "खेळ",
+      "gender": "masculine",
+      "plural": "खेळ",
+      "cefr": "A1",
+      "ipa": "[kʰeɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e972d1cd-e7e0-4d14-8910-8f671472d51a",
+      "part-of-speech": "noun",
+      "english": "color",
+      "marathi": "रंग",
+      "gender": "masculine",
+      "plural": "रंग",
+      "cefr": "A1",
+      "ipa": "[ɾəŋɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7bee4df4-35b5-4a9d-bc46-9594d5865945",
+      "part-of-speech": "noun",
+      "english": "thing, object",
+      "marathi": "वस्तू",
+      "gender": "feminine",
+      "plural": "वस्तू",
+      "cefr": "A1",
+      "ipa": "[ˈʋəst̪u]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98d255e9-9323-4450-8378-ba188b8c5742",
+      "part-of-speech": "noun",
+      "english": "gift; meeting",
+      "marathi": "भेट",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[bʱeʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4526b135-afb3-48be-9688-033a805c7672",
+      "part-of-speech": "noun",
+      "english": "vacation, day off",
+      "marathi": "सुट्टी",
+      "gender": "feminine",
+      "plural": "सुट्ट्या",
+      "cefr": "A2",
+      "ipa": "[ˈsuʈːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7654b7b1-d29a-4f1f-90bd-7d8ae338d5ad",
+      "part-of-speech": "noun",
+      "english": "festival",
+      "marathi": "सण",
+      "gender": "masculine",
+      "plural": "सण",
+      "cefr": "A2",
+      "ipa": "[səɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7192d41-9db5-4a2e-a5c7-fc8e976af0f5",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "marathi": "वाढदिवस",
+      "gender": "masculine",
+      "cefr": "A1",
+      "ipa": "[ˈʋaɖʱd̪iʋəs]",
+      "context": "वाढदिवसाच्या शुभेच्छा: happy birthday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c566a275-2c2d-400f-9817-b0d0c0e8150e",
+      "part-of-speech": "noun",
+      "english": "story; thing, matter",
+      "marathi": "गोष्ट",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ɡoʂʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "89c7de2b-d67f-474f-b2ee-d8a9434dc007",
+      "part-of-speech": "noun",
+      "english": "news item",
+      "marathi": "बातमी",
+      "gender": "feminine",
+      "plural": "बातम्या",
+      "cefr": "A2",
+      "ipa": "[ˈbat̪mi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c90604d-27dd-4868-8a08-68ac19507603",
+      "part-of-speech": "noun",
+      "english": "exam",
+      "marathi": "परीक्षा",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈpəɾikʂa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68da2903-65c3-40c6-8645-65f4513f3be2",
+      "part-of-speech": "noun",
+      "english": "light",
+      "marathi": "प्रकाश",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈpɾəkaʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21e7b0ba-d1ef-446f-8e18-4e00113c9bd9",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "marathi": "आग",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[aɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2db154f8-470a-4e67-96c1-9cfc1a93d048",
+      "part-of-speech": "noun",
+      "english": "end",
+      "marathi": "शेवट",
+      "gender": "masculine",
+      "cefr": "A2",
+      "ipa": "[ˈʃeʋəʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7327a11f-84e6-4e0d-8efc-a01516abd30a",
+      "part-of-speech": "noun",
+      "english": "beginning",
+      "marathi": "सुरुवात",
+      "gender": "feminine",
+      "cefr": "A2",
+      "ipa": "[ˈsuɾuʋat̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e1af308-7669-40a4-aa96-3d66177a7fba",
+      "part-of-speech": "noun",
+      "english": "number",
+      "marathi": "संख्या",
+      "gender": "feminine",
+      "cefr": "A1",
+      "ipa": "[ˈsəŋkʰja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f347f981-1f66-48af-bc9d-aecdb29859e3",
+      "part-of-speech": "noun",
+      "english": "life",
+      "marathi": "आयुष्य",
+      "gender": "neuter",
+      "cefr": "A1",
+      "ipa": "[ˈajuʂjə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53430458-2a1f-41c9-a157-1a4119e3fc9f",
+      "part-of-speech": "noun",
+      "english": "love",
+      "marathi": "प्रेम",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[pɾem]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb7c21d8-dda4-4fdc-8364-6a19987f5ca4",
+      "part-of-speech": "noun",
+      "english": "health",
+      "marathi": "आरोग्य",
+      "gender": "neuter",
+      "cefr": "A2",
+      "ipa": "[ˈaɾoɡjə]",
+      "countability": "mass",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f41cfcd8-d771-45cd-a47b-0333f0e9e36b",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "marathi": "औषध",
+      "gender": "neuter",
+      "plural": "औषधे",
+      "cefr": "A2",
+      "ipa": "[ˈəu̯ʂəd̪ʱ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45cf97bc-db2f-4944-a192-00058f681050",
+      "part-of-speech": "noun",
+      "english": "one",
+      "marathi": "एक",
+      "cefr": "A1",
+      "ipa": "[ek]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e03dd787-e920-4aab-8b5a-cc589ffb133a",
+      "part-of-speech": "noun",
+      "english": "two",
+      "marathi": "दोन",
+      "cefr": "A1",
+      "ipa": "[d̪on]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b8327b0-765a-4f98-86fe-a0a03912aedb",
+      "part-of-speech": "noun",
+      "english": "three",
+      "marathi": "तीन",
+      "cefr": "A1",
+      "ipa": "[t̪in]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "125c90d9-7ffd-4d29-884d-625dbcf2b2f8",
+      "part-of-speech": "noun",
+      "english": "four",
+      "marathi": "चार",
+      "cefr": "A1",
+      "ipa": "[tsaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6642db62-32e7-433e-a112-11dad7e44db1",
+      "part-of-speech": "noun",
+      "english": "five",
+      "marathi": "पाच",
+      "cefr": "A1",
+      "ipa": "[pats]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f73fc823-1027-4886-abff-d429cc849a14",
+      "part-of-speech": "noun",
+      "english": "six",
+      "marathi": "सहा",
+      "cefr": "A1",
+      "ipa": "[ˈsəɦa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b685874-64c0-4048-bbe6-7147326d7301",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "marathi": "सात",
+      "cefr": "A1",
+      "ipa": "[sat̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7c44caa-fa57-4927-97a3-500e78a4f9d1",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "marathi": "आठ",
+      "cefr": "A1",
+      "ipa": "[aʈʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfce8edf-3006-469b-b12a-4e6ac8b2e486",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "marathi": "नऊ",
+      "cefr": "A1",
+      "ipa": "[nəu̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d247fbf1-4025-4c6c-b2d2-b15807c3d812",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "marathi": "दहा",
+      "cefr": "A1",
+      "ipa": "[ˈd̪əɦa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8fab0253-69af-4cf2-bf38-966dca541cec",
+      "part-of-speech": "noun",
+      "english": "eleven",
+      "marathi": "अकरा",
+      "cefr": "A1",
+      "ipa": "[ˈəkɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e99a9be-4ffd-4019-a204-6f11ed7bba8d",
+      "part-of-speech": "noun",
+      "english": "twelve",
+      "marathi": "बारा",
+      "cefr": "A1",
+      "ipa": "[ˈbaɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51acb1ee-034d-409f-bf58-bbfe721ea304",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "marathi": "वीस",
+      "cefr": "A1",
+      "ipa": "[ʋis]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73bef345-862c-47b5-8b25-92455d4c6d00",
+      "part-of-speech": "noun",
+      "english": "thirty",
+      "marathi": "तीस",
+      "cefr": "A1",
+      "ipa": "[t̪is]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e462f644-b681-4160-b824-7e4dcd393a42",
+      "part-of-speech": "noun",
+      "english": "hundred",
+      "marathi": "शंभर",
+      "cefr": "A1",
+      "ipa": "[ˈʃəmbʱəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "709610a1-afd1-48e3-8014-ef7f764d3563",
+      "part-of-speech": "noun",
+      "english": "thousand",
+      "marathi": "हजार",
+      "cefr": "A2",
+      "ipa": "[ˈɦədzaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7cb06f6-6166-4f3f-a2e1-78c370692ddb",
+      "part-of-speech": "noun",
+      "english": "half",
+      "marathi": "अर्धा",
+      "cefr": "A1",
+      "ipa": "[ˈəɾd̪ʱa]",
+      "context": "साडेतीन: three and a half",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee5a64d1-f030-4aa9-905d-9a5bd321a8af",
+      "part-of-speech": "pronoun",
+      "english": "I",
+      "marathi": "मी",
+      "cefr": "A1",
+      "ipa": "[mi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "671d1f73-349e-49fe-ba67-8e7ef6458417",
+      "part-of-speech": "pronoun",
+      "english": "you (familiar)",
+      "marathi": "तू",
+      "cefr": "A1",
+      "ipa": "[t̪u]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bab75f0-b610-40aa-8b44-d641e042fd2a",
+      "part-of-speech": "pronoun",
+      "english": "you (polite; plural)",
+      "marathi": "तुम्ही",
+      "cefr": "A1",
+      "ipa": "[ˈt̪umʱi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41bc1c04-255f-47f0-9008-cde96b7c5852",
+      "part-of-speech": "pronoun",
+      "english": "we (including you); you (very polite)",
+      "marathi": "आपण",
+      "cefr": "A1",
+      "ipa": "[ˈapəɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ba940b0-43d3-4b24-85ab-a5e3ff159d1e",
+      "part-of-speech": "pronoun",
+      "english": "we (not including you)",
+      "marathi": "आम्ही",
+      "cefr": "A1",
+      "ipa": "[ˈamʱi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c1c125a3-97fb-4ba4-aaef-0b0d157fb5a9",
+      "part-of-speech": "pronoun",
+      "english": "he; that (masculine)",
+      "marathi": "तो",
+      "cefr": "A1",
+      "ipa": "[t̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2d5f752-4888-4424-b7d3-47fc3a5c8e7c",
+      "part-of-speech": "pronoun",
+      "english": "she; that (feminine)",
+      "marathi": "ती",
+      "cefr": "A1",
+      "ipa": "[t̪i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "842efa99-3366-4021-8117-a3316c2d365b",
+      "part-of-speech": "pronoun",
+      "english": "it; that (neuter); they",
+      "marathi": "ते",
+      "cefr": "A1",
+      "ipa": "[t̪e]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecafb7bb-fcd5-49fe-ae00-3fbf88cf5e53",
+      "part-of-speech": "pronoun",
+      "english": "this (masculine)",
+      "marathi": "हा",
+      "cefr": "A1",
+      "ipa": "[ɦa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86b4e03f-3853-43c2-9690-1457c430a6aa",
+      "part-of-speech": "pronoun",
+      "english": "this (feminine)",
+      "marathi": "ही",
+      "cefr": "A1",
+      "ipa": "[ɦi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c56b95fe-feff-4537-8ba1-26f212d479e6",
+      "part-of-speech": "pronoun",
+      "english": "this (neuter); these",
+      "marathi": "हे",
+      "cefr": "A1",
+      "ipa": "[ɦe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b7133388-6bd2-4202-ac41-8221bb1f119b",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "marathi": "काय",
+      "cefr": "A1",
+      "ipa": "[kaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f822f625-336d-4aba-82e1-2126eb8df88b",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "marathi": "कोण",
+      "cefr": "A1",
+      "ipa": "[koɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "346192f0-5a76-4dc6-990e-978012cfa987",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "marathi": "कोणता",
+      "cefr": "A1",
+      "ipa": "[ˈkoɳt̪a]",
+      "context": "feminine: कोणती, neuter: कोणते",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c233cdbe-76f5-419c-90ab-a1829eea5277",
+      "part-of-speech": "pronoun",
+      "english": "all, everyone",
+      "marathi": "सगळे",
+      "cefr": "A1",
+      "ipa": "[ˈsəɡɭe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e288e63-0e09-480c-94c7-950568430fb8",
+      "part-of-speech": "pronoun",
+      "english": "something",
+      "marathi": "काहीतरी",
+      "cefr": "A2",
+      "ipa": "[ˈkaɦit̪əɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce0fb133-bdbf-4bb1-918f-3acb4d6c0951",
+      "part-of-speech": "pronoun",
+      "english": "someone",
+      "marathi": "कोणीतरी",
+      "cefr": "A2",
+      "ipa": "[ˈkoɳit̪əɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ef5d3c47-d153-4b38-8449-7112d03b16d0",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "marathi": "काही नाही",
+      "cefr": "A2",
+      "ipa": "[ˈkaɦi ˈnaɦi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "429c3fb2-9b52-4e7f-bd98-b05c77d726b1",
+      "part-of-speech": "pronoun",
+      "english": "nobody",
+      "marathi": "कोणी नाही",
+      "cefr": "A2",
+      "ipa": "[ˈkoɳi ˈnaɦi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "faf1d28e-5a9b-4aaf-b4fc-049d478488c9",
+      "part-of-speech": "verb",
+      "english": "to be",
+      "marathi": "असणे",
+      "cefr": "A1",
+      "ipa": "[ˈəsəɳe]",
+      "context": "present: मी आहे, तू आहेस, तो आहे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c08ae863-a4d1-44cd-bc97-9037927f99cb",
+      "part-of-speech": "verb",
+      "english": "to become; to happen",
+      "marathi": "होणे",
+      "cefr": "A1",
+      "ipa": "[ˈɦoɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2922b597-7b35-4ea2-a986-966861364a91",
+      "part-of-speech": "verb",
+      "english": "to do, make",
+      "marathi": "करणे",
+      "cefr": "A1",
+      "ipa": "[ˈkəɾəɳe]",
+      "context": "मी करतो (m) / करते (f): I do",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8ff90b7-3c4c-4618-85d3-3e6643738e0f",
+      "part-of-speech": "verb",
+      "english": "to want, need (impersonal)",
+      "marathi": "पाहिजे",
+      "cefr": "A1",
+      "ipa": "[ˈpaɦidʒe]",
+      "context": "मला चहा पाहिजे: I want tea",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79ff3bc6-6ee3-4157-8ea6-0097434fd6e1",
+      "part-of-speech": "verb",
+      "english": "to go",
+      "marathi": "जाणे",
+      "cefr": "A1",
+      "ipa": "[ˈdzaɳe]",
+      "context": "मी जातो (m) / जाते (f): I go",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c89b9cea-d757-4975-94db-886adeafe343",
+      "part-of-speech": "verb",
+      "english": "to come",
+      "marathi": "येणे",
+      "cefr": "A1",
+      "ipa": "[ˈjeɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "034c0241-6e6a-409d-828d-544c46da481b",
+      "part-of-speech": "verb",
+      "english": "to see",
+      "marathi": "पाहणे",
+      "cefr": "A1",
+      "ipa": "[ˈpaɦəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d4f2c92-6a09-46f2-a7cb-a93c7db3a6b7",
+      "part-of-speech": "verb",
+      "english": "to look, watch",
+      "marathi": "बघणे",
+      "cefr": "A1",
+      "ipa": "[ˈbəɡʱəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "239b89c4-c0c5-4855-b233-f6fb0eb6e1b1",
+      "part-of-speech": "verb",
+      "english": "to hear, listen",
+      "marathi": "ऐकणे",
+      "cefr": "A1",
+      "ipa": "[ˈəi̯kəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec4d31bc-90f7-4326-afa1-be70ebe97fd4",
+      "part-of-speech": "verb",
+      "english": "to speak, talk",
+      "marathi": "बोलणे",
+      "cefr": "A1",
+      "ipa": "[ˈboləɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e277dc5-1b8f-4e8b-9933-9b64bcda48b8",
+      "part-of-speech": "verb",
+      "english": "to say, tell",
+      "marathi": "सांगणे",
+      "cefr": "A1",
+      "ipa": "[ˈsaŋɡəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e21977a-8aa2-4f8e-868f-fa5d41bdb3e2",
+      "part-of-speech": "verb",
+      "english": "to ask",
+      "marathi": "विचारणे",
+      "cefr": "A1",
+      "ipa": "[ˈʋitsaɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3aa18ed-93dd-4302-b83b-b1e01f8bcf95",
+      "part-of-speech": "verb",
+      "english": "to answer",
+      "marathi": "उत्तर देणे",
+      "cefr": "A1",
+      "ipa": "[ˈut̪ːəɾ ˈd̪eɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e6218e0-f624-47ca-abc5-7e7a1873b207",
+      "part-of-speech": "verb",
+      "english": "to eat",
+      "marathi": "खाणे",
+      "cefr": "A1",
+      "ipa": "[ˈkʰaɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b80640f9-592b-4950-9910-f4fbee35e934",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "marathi": "पिणे",
+      "cefr": "A1",
+      "ipa": "[ˈpiɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dfde829-1303-404e-b046-14bd40022976",
+      "part-of-speech": "verb",
+      "english": "to sleep",
+      "marathi": "झोपणे",
+      "cefr": "A1",
+      "ipa": "[ˈdzʱopəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce30f5d8-b309-44f9-9b18-a71563436214",
+      "part-of-speech": "verb",
+      "english": "to live, stay",
+      "marathi": "राहणे",
+      "cefr": "A1",
+      "ipa": "[ˈɾaɦəɳe]",
+      "context": "मी पुण्यात राहतो: I live in Pune",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8024c65d-0b71-4839-aaea-339c21311326",
+      "part-of-speech": "verb",
+      "english": "to live, be alive",
+      "marathi": "जगणे",
+      "cefr": "A2",
+      "ipa": "[ˈdzəɡəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc47cd46-dd9c-415a-b41d-975da0d79948",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "marathi": "प्रेम करणे",
+      "cefr": "A1",
+      "ipa": "[pɾem ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dc08399-530e-4597-b317-d2f0a4402981",
+      "part-of-speech": "verb",
+      "english": "to like (be liked)",
+      "marathi": "आवडणे",
+      "cefr": "A1",
+      "ipa": "[ˈaʋəɖəɳe]",
+      "context": "मला आंबा आवडतो: I like mangoes",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11e8a641-92e2-44c1-aa42-c5de6b67fb7a",
+      "part-of-speech": "verb",
+      "english": "to learn",
+      "marathi": "शिकणे",
+      "cefr": "A1",
+      "ipa": "[ˈʃikəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "143f4f7e-a8b8-4439-951d-2ee4e2224dca",
+      "part-of-speech": "verb",
+      "english": "to read",
+      "marathi": "वाचणे",
+      "cefr": "A1",
+      "ipa": "[ˈʋatsəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1325aaa-af40-4bb7-ad69-7dafd04380a6",
+      "part-of-speech": "verb",
+      "english": "to write",
+      "marathi": "लिहिणे",
+      "cefr": "A1",
+      "ipa": "[ˈliɦiɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "082e9d1f-fe4c-4f12-80b7-c3289426d214",
+      "part-of-speech": "verb",
+      "english": "to buy",
+      "marathi": "विकत घेणे",
+      "cefr": "A1",
+      "ipa": "[ˈʋikət̪ ˈɡʱeɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e10c0fae-fca4-4617-8f0c-799487de5e0a",
+      "part-of-speech": "verb",
+      "english": "to give",
+      "marathi": "देणे",
+      "cefr": "A1",
+      "ipa": "[ˈd̪eɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "540d345d-ca4c-45f6-9510-2d04b562dec8",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "marathi": "घेणे",
+      "cefr": "A1",
+      "ipa": "[ˈɡʱeɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c623d1e-75e6-40b2-96f8-05bc168b07cc",
+      "part-of-speech": "verb",
+      "english": "to open",
+      "marathi": "उघडणे",
+      "cefr": "A1",
+      "ipa": "[ˈuɡʱəɖəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "706904f0-5dec-4931-9464-4f3194b818fa",
+      "part-of-speech": "verb",
+      "english": "to close",
+      "marathi": "बंद करणे",
+      "cefr": "A1",
+      "ipa": "[bənd̪ ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f17bbb2e-7989-42e7-a493-00ca04fe2269",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "marathi": "स्वयंपाक करणे",
+      "cefr": "A1",
+      "ipa": "[ˈsʋəjəmpak ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04959dbe-46bf-40a5-a499-1e1083504234",
+      "part-of-speech": "verb",
+      "english": "to travel",
+      "marathi": "प्रवास करणे",
+      "cefr": "A1",
+      "ipa": "[ˈpɾəʋas ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "daddcd15-060d-49e0-ab93-a1f29e5fa08a",
+      "part-of-speech": "verb",
+      "english": "to drive",
+      "marathi": "चालवणे",
+      "cefr": "A2",
+      "ipa": "[ˈtsaləʋəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f819c4c-12eb-4709-8629-79bcc4460f1f",
+      "part-of-speech": "verb",
+      "english": "to understand",
+      "marathi": "समजणे",
+      "cefr": "A1",
+      "ipa": "[ˈsəmədzəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "edfdba88-7bfe-4770-8a17-4b412576d595",
+      "part-of-speech": "verb",
+      "english": "to think",
+      "marathi": "विचार करणे",
+      "cefr": "A1",
+      "ipa": "[ˈʋitsaɾ ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da7fbcb7-f672-46fb-99ee-d318414998bb",
+      "part-of-speech": "verb",
+      "english": "to begin",
+      "marathi": "सुरू करणे",
+      "cefr": "A2",
+      "ipa": "[ˈsuɾu ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f350982-a5dd-4af8-aba6-d47a587c3840",
+      "part-of-speech": "verb",
+      "english": "to finish",
+      "marathi": "संपवणे",
+      "cefr": "A2",
+      "ipa": "[ˈsəmpəʋəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfae2477-3a12-40c0-a0db-35fd24b4eaaf",
+      "part-of-speech": "verb",
+      "english": "to play",
+      "marathi": "खेळणे",
+      "cefr": "A1",
+      "ipa": "[ˈkʰeɭəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7fc2d65e-9ff6-428d-b19a-989dda621bb3",
+      "part-of-speech": "verb",
+      "english": "to swim",
+      "marathi": "पोहणे",
+      "cefr": "A1",
+      "ipa": "[ˈpoɦəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f5aaa48-9786-46b5-b009-d14d8caabd43",
+      "part-of-speech": "verb",
+      "english": "to run",
+      "marathi": "धावणे",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ʱaʋəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e581745f-cd3d-430a-b6d0-ddf71231b823",
+      "part-of-speech": "verb",
+      "english": "to sit",
+      "marathi": "बसणे",
+      "cefr": "A1",
+      "ipa": "[ˈbəsəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d59f7c7a-1e85-48e7-8e81-699985db9b51",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "marathi": "उभे राहणे",
+      "cefr": "A2",
+      "ipa": "[ˈubʱe ˈɾaɦəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4193cbee-e8f2-42f8-9580-0f0196da5dca",
+      "part-of-speech": "verb",
+      "english": "to wait",
+      "marathi": "वाट पाहणे",
+      "cefr": "A1",
+      "ipa": "[ʋaʈ ˈpaɦəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c358520a-a6ad-4a54-9233-27771b2a42ce",
+      "part-of-speech": "verb",
+      "english": "to look for",
+      "marathi": "शोधणे",
+      "cefr": "A1",
+      "ipa": "[ˈʃod̪ʱəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a7401da-6d5e-4278-9608-0aeb30ce9b96",
+      "part-of-speech": "verb",
+      "english": "to be found, turn up",
+      "marathi": "सापडणे",
+      "cefr": "A2",
+      "ipa": "[ˈsapəɖəɳe]",
+      "context": "मला किल्ली सापडली: I found the key",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9a6edd0-31d1-4164-b5a3-ca44048455a1",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "marathi": "मदत करणे",
+      "cefr": "A1",
+      "ipa": "[ˈməd̪ət̪ ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "021b429d-7717-4080-a35f-fd41c3060733",
+      "part-of-speech": "verb",
+      "english": "to bring",
+      "marathi": "आणणे",
+      "cefr": "A2",
+      "ipa": "[ˈaɳəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6cd7298b-73d7-46df-be8b-1c3de8a3c348",
+      "part-of-speech": "verb",
+      "english": "to put, keep",
+      "marathi": "ठेवणे",
+      "cefr": "A2",
+      "ipa": "[ˈʈʰeʋəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b214be48-521c-4063-b8f8-01c36d8f5f9d",
+      "part-of-speech": "verb",
+      "english": "to wash",
+      "marathi": "धुणे",
+      "cefr": "A2",
+      "ipa": "[ˈd̪ʱuɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "473ded68-0825-46cc-81cd-f72498f935ba",
+      "part-of-speech": "verb",
+      "english": "to call (on the phone)",
+      "marathi": "फोन करणे",
+      "cefr": "A1",
+      "ipa": "[pʰon ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce8eba88-8914-4dbc-9033-b520b0caac9a",
+      "part-of-speech": "verb",
+      "english": "to dance",
+      "marathi": "नाचणे",
+      "cefr": "A1",
+      "ipa": "[ˈnatsəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5376c36-d2e1-4778-b1d0-3dcc9f5a7a4d",
+      "part-of-speech": "verb",
+      "english": "to sing",
+      "marathi": "गाणे म्हणणे",
+      "cefr": "A1",
+      "ipa": "[ˈɡaɳe ˈmʱəɳəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cb583c3-f2c4-47b1-99e3-82b1c8ce0332",
+      "part-of-speech": "verb",
+      "english": "to come back, return",
+      "marathi": "परत येणे",
+      "cefr": "A2",
+      "ipa": "[ˈpəɾət̪ ˈjeɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c288d0c8-3781-4cc7-acca-0699d559caf9",
+      "part-of-speech": "verb",
+      "english": "to forget",
+      "marathi": "विसरणे",
+      "cefr": "A2",
+      "ipa": "[ˈʋisəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2bafa7ce-8ce9-4aba-bbec-08d25ae6e203",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "marathi": "वापरणे",
+      "cefr": "A2",
+      "ipa": "[ˈʋapəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e851f5b1-f062-44ad-a009-54b6eee2da23",
+      "part-of-speech": "verb",
+      "english": "to try",
+      "marathi": "प्रयत्न करणे",
+      "cefr": "A2",
+      "ipa": "[ˈpɾəjət̪nə ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d68ec5b-c0bd-4f13-8846-3043a4b790fb",
+      "part-of-speech": "verb",
+      "english": "to laugh",
+      "marathi": "हसणे",
+      "cefr": "A2",
+      "ipa": "[ˈɦəsəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "589435a1-d538-44ab-b95d-44998934984a",
+      "part-of-speech": "verb",
+      "english": "to cry",
+      "marathi": "रडणे",
+      "cefr": "A2",
+      "ipa": "[ˈɾəɖəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afedb7e9-b879-4cbf-82a4-4014add230e7",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "marathi": "चालणे",
+      "cefr": "A1",
+      "ipa": "[ˈtsaləɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84065be0-c92a-4aaa-9c4d-5e06ea57924b",
+      "part-of-speech": "verb",
+      "english": "to send",
+      "marathi": "पाठवणे",
+      "cefr": "A2",
+      "ipa": "[ˈpaʈʰəʋəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6405bee4-8186-4b8b-9814-3c4150978c56",
+      "part-of-speech": "verb",
+      "english": "to win",
+      "marathi": "जिंकणे",
+      "cefr": "A2",
+      "ipa": "[ˈdʒiŋkəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9b92ae0-198f-44c0-b730-00f6d8338349",
+      "part-of-speech": "verb",
+      "english": "to get up",
+      "marathi": "उठणे",
+      "cefr": "A2",
+      "ipa": "[ˈuʈʰəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5eee7717-2c44-413c-8b20-d5e91d5e0921",
+      "part-of-speech": "verb",
+      "english": "to meet",
+      "marathi": "भेटणे",
+      "cefr": "A2",
+      "ipa": "[ˈbʱeʈəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d08bee93-7480-4f0c-b172-bd42410a4b1b",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "marathi": "चांगला",
+      "cefr": "A1",
+      "ipa": "[ˈtsaŋɡla]",
+      "context": "feminine: चांगली, neuter: चांगले",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e0691ad-34fc-48d2-a830-11da83f7adc7",
+      "part-of-speech": "adjective",
+      "english": "bad",
+      "marathi": "वाईट",
+      "cefr": "A1",
+      "ipa": "[ˈʋaiʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a95fe41-8763-4777-897a-7aca370a2c87",
+      "part-of-speech": "adjective",
+      "english": "big; older",
+      "marathi": "मोठा",
+      "cefr": "A1",
+      "ipa": "[ˈmoʈʰa]",
+      "context": "feminine: मोठी, neuter: मोठे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e6eb4a9-e299-482b-91c1-71e9933450c6",
+      "part-of-speech": "adjective",
+      "english": "small; young",
+      "marathi": "लहान",
+      "cefr": "A1",
+      "ipa": "[ˈləɦan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fc91a793-3055-44d6-a0a6-e7a1d88bdbe6",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "marathi": "नवीन",
+      "cefr": "A1",
+      "ipa": "[ˈnəʋin]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "51c90812-7340-4c36-9157-452b21c10c4b",
+      "part-of-speech": "adjective",
+      "english": "old (not new)",
+      "marathi": "जुना",
+      "cefr": "A1",
+      "ipa": "[ˈdzuna]",
+      "context": "feminine: जुनी, neuter: जुने",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77e1bf0b-264b-430c-928c-ffd14a886a95",
+      "part-of-speech": "adjective",
+      "english": "old (person)",
+      "marathi": "म्हातारा",
+      "cefr": "A2",
+      "ipa": "[ˈmʱat̪aɾa]",
+      "context": "feminine: म्हातारी",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb923440-40dd-4eb7-9f16-c8c8ee829dc8",
+      "part-of-speech": "adjective",
+      "english": "beautiful",
+      "marathi": "सुंदर",
+      "cefr": "A1",
+      "ipa": "[ˈsund̪əɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdb5e213-461f-4539-b891-f365bfc4283e",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "marathi": "उंच",
+      "cefr": "A1",
+      "ipa": "[untʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "796711e6-0d28-4a0d-859c-7c6d3f35bc93",
+      "part-of-speech": "adjective",
+      "english": "long; far",
+      "marathi": "लांब",
+      "cefr": "A1",
+      "ipa": "[lamb]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bda2937e-25e3-425d-aa83-974ddb7952d0",
+      "part-of-speech": "adjective",
+      "english": "fat, thick",
+      "marathi": "जाड",
+      "cefr": "A2",
+      "ipa": "[dzaɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfd293a3-1f7c-4efe-9fee-1d33b16d3618",
+      "part-of-speech": "adjective",
+      "english": "thin",
+      "marathi": "बारीक",
+      "cefr": "A2",
+      "ipa": "[ˈbaɾik]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7540447-0f73-4543-b26d-2ba82c08a1f6",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "marathi": "महाग",
+      "cefr": "A1",
+      "ipa": "[ˈməɦaɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40256e6e-6a26-46e8-b3e4-ed2b92d6a3f8",
+      "part-of-speech": "adjective",
+      "english": "cheap",
+      "marathi": "स्वस्त",
+      "cefr": "A1",
+      "ipa": "[sʋəst̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "935a0232-ae96-427e-8f17-6b0a1f0693f2",
+      "part-of-speech": "adjective",
+      "english": "hot, warm",
+      "marathi": "गरम",
+      "cefr": "A1",
+      "ipa": "[ˈɡəɾəm]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1fc12af8-5627-4c0c-8ba6-09a0192fc531",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "marathi": "थंड",
+      "cefr": "A1",
+      "ipa": "[t̪ʰəɳɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c786193-bc1d-48a0-8662-f7cb203a6313",
+      "part-of-speech": "adjective",
+      "english": "fast",
+      "marathi": "जलद",
+      "cefr": "A2",
+      "ipa": "[ˈdzələd̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b045848e-2cef-42f2-ad36-aaf22ebfcf02",
+      "part-of-speech": "adjective",
+      "english": "happy",
+      "marathi": "आनंदी",
+      "cefr": "A1",
+      "ipa": "[ˈanənd̪i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35165b44-782e-45a7-b084-0478f9ac180a",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "marathi": "दुःखी",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ukʰːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1d640986-9b4b-41db-aa04-24bd834dd6af",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "marathi": "थकलेला",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ʰəklela]",
+      "context": "feminine: थकलेली",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5647a9d8-b86b-4d3c-a1a9-5a4cd77986b5",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "marathi": "भुकेला",
+      "cefr": "A2",
+      "ipa": "[ˈbʱukela]",
+      "context": "everyday: मला भूक लागली आहे, I'm hungry",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4cd9db50-38b4-4455-ba12-c85d26736a12",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "marathi": "तहानलेला",
+      "cefr": "A2",
+      "ipa": "[ˈt̪əɦanlela]",
+      "context": "everyday: मला तहान लागली आहे, I'm thirsty",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5c1e69c-47eb-4732-9f31-6dde5fccf745",
+      "part-of-speech": "adjective",
+      "english": "ill, sick",
+      "marathi": "आजारी",
+      "cefr": "A1",
+      "ipa": "[ˈadzaɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86d63f4b-2e8c-4a0e-9051-03c7307765e9",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "marathi": "सोपा",
+      "cefr": "A1",
+      "ipa": "[ˈsopa]",
+      "context": "feminine: सोपी, neuter: सोपे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "008a7531-7b6f-4eba-907f-ef49bf52ae71",
+      "part-of-speech": "adjective",
+      "english": "difficult",
+      "marathi": "अवघड",
+      "cefr": "A1",
+      "ipa": "[ˈəʋɡʱəɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5774be11-3327-4e21-8a07-bce15343ea62",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "marathi": "जड",
+      "cefr": "A2",
+      "ipa": "[dzəɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bf4bd7a-88f4-4916-9da8-3128fc73f6f3",
+      "part-of-speech": "adjective",
+      "english": "light",
+      "marathi": "हलका",
+      "cefr": "A2",
+      "ipa": "[ˈɦəlka]",
+      "context": "feminine: हलकी, neuter: हलके",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8658d6e8-b34f-466b-b55f-f8c59bcc409d",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "marathi": "महत्त्वाचा",
+      "cefr": "A2",
+      "ipa": "[ˈməɦət̪ːʋatsa]",
+      "context": "feminine: महत्त्वाची, neuter: महत्त्वाचे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b078c67-cf14-4e16-8fe2-722001bc0211",
+      "part-of-speech": "adjective",
+      "english": "fun, funny",
+      "marathi": "मजेदार",
+      "cefr": "A1",
+      "ipa": "[ˈmədzed̪aɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a574f2e-f663-412c-b640-f7b36c966638",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "marathi": "स्वच्छ",
+      "cefr": "A2",
+      "ipa": "[sʋətstsʰ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b458535-e961-41ad-8d30-c8862604d3e0",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "marathi": "घाण",
+      "cefr": "A2",
+      "ipa": "[ɡʱaɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b50fe90-0e49-4b4b-ae65-18d109519110",
+      "part-of-speech": "adjective",
+      "english": "empty",
+      "marathi": "रिकामा",
+      "cefr": "A2",
+      "ipa": "[ˈɾikama]",
+      "context": "feminine: रिकामी, neuter: रिकामे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e545fc8-5fb3-4607-9903-a237c651514f",
+      "part-of-speech": "adjective",
+      "english": "closed",
+      "marathi": "बंद",
+      "cefr": "A2",
+      "ipa": "[bənd̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd9b85d2-1ac8-4e2d-96aa-485457eac7e7",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "marathi": "लाल",
+      "cefr": "A1",
+      "ipa": "[lal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "232ae61d-7e47-4198-a025-af958deb0b02",
+      "part-of-speech": "adjective",
+      "english": "blue",
+      "marathi": "निळा",
+      "cefr": "A1",
+      "ipa": "[ˈniɭa]",
+      "context": "feminine: निळी, neuter: निळे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "551a0d5d-2ee3-4452-861d-b0885d107d6c",
+      "part-of-speech": "adjective",
+      "english": "green",
+      "marathi": "हिरवा",
+      "cefr": "A1",
+      "ipa": "[ˈɦiɾʋa]",
+      "context": "feminine: हिरवी, neuter: हिरवे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a6b679e-a59c-4833-89d1-3a837d2f8716",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "marathi": "पिवळा",
+      "cefr": "A1",
+      "ipa": "[ˈpiʋɭa]",
+      "context": "feminine: पिवळी, neuter: पिवळे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83f02360-dca7-4995-9651-6e84ff4ef637",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "marathi": "काळा",
+      "cefr": "A1",
+      "ipa": "[ˈkaɭa]",
+      "context": "feminine: काळी, neuter: काळे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0dfb2878-76b8-4d98-9e20-e7cd19e6aa61",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "marathi": "पांढरा",
+      "cefr": "A1",
+      "ipa": "[ˈpaɳɖʱɾa]",
+      "context": "feminine: पांढरी, neuter: पांढरे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b68a6ca-b1f1-4c64-8ff8-db289d428abc",
+      "part-of-speech": "adjective",
+      "english": "gray",
+      "marathi": "राखाडी",
+      "cefr": "A2",
+      "ipa": "[ˈɾakʰaɖi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d8263a3-c79c-48cb-84de-f2d31d45e9a9",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "marathi": "तपकिरी",
+      "cefr": "A1",
+      "ipa": "[ˈt̪əpkiɾi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bdb24b9-79b4-4b55-a73f-b882e01da579",
+      "part-of-speech": "adjective",
+      "english": "soft",
+      "marathi": "मऊ",
+      "cefr": "A2",
+      "ipa": "[məu̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c9715e4-418d-4ba2-bd92-ac642160b5ed",
+      "part-of-speech": "adjective",
+      "english": "hard",
+      "marathi": "कठीण",
+      "cefr": "A2",
+      "ipa": "[ˈkəʈʰiɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d75ff985-4a85-496a-9b6a-e50b6ce0779b",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "marathi": "गोड",
+      "cefr": "A1",
+      "ipa": "[ɡoɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9133fa72-d6ed-4cb3-aca5-063c7cf6039a",
+      "part-of-speech": "adjective",
+      "english": "spicy",
+      "marathi": "तिखट",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ikʰəʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ba1db4d-6c2d-41f8-b3f3-877c21b6dfbf",
+      "part-of-speech": "adjective",
+      "english": "delicious",
+      "marathi": "चविष्ट",
+      "cefr": "A1",
+      "ipa": "[ˈtsəʋiʂʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50345f96-ca49-4d38-adf3-1bd34e02a0a0",
+      "part-of-speech": "adjective",
+      "english": "fresh",
+      "marathi": "ताजा",
+      "cefr": "A2",
+      "ipa": "[ˈt̪adza]",
+      "context": "feminine: ताजी, neuter: ताजे",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cadc6dff-9378-4eae-aae4-d3d4cedbe1e4",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "marathi": "श्रीमंत",
+      "cefr": "A2",
+      "ipa": "[ˈʃɾimənt̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7451c591-06c5-49b7-8bed-4be43e8afdb3",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "marathi": "गरीब",
+      "cefr": "A2",
+      "ipa": "[ˈɡəɾib]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "09be88b2-66de-4206-aeba-cf9bec47ad90",
+      "part-of-speech": "adjective",
+      "english": "clever",
+      "marathi": "हुशार",
+      "cefr": "A2",
+      "ipa": "[ˈɦuʃaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1404b5d9-4fe0-44cc-83ad-3b7fdbf25236",
+      "part-of-speech": "adjective",
+      "english": "calm, quiet",
+      "marathi": "शांत",
+      "cefr": "A2",
+      "ipa": "[ʃant̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c036d472-8b5f-4add-ad91-539abad57437",
+      "part-of-speech": "adjective",
+      "english": "famous",
+      "marathi": "प्रसिद्ध",
+      "cefr": "A2",
+      "ipa": "[ˈpɾəsid̪d̪ʱə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2ea1e8cb-054d-433c-a84b-f7c2b73f6608",
+      "part-of-speech": "adjective",
+      "english": "foreign",
+      "marathi": "परदेशी",
+      "cefr": "A2",
+      "ipa": "[ˈpəɾd̪eʃi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8297fe1d-27b5-458a-a483-eabcad7cf753",
+      "part-of-speech": "adjective",
+      "english": "ready",
+      "marathi": "तयार",
+      "cefr": "A1",
+      "ipa": "[ˈt̪əjaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3723d98d-407d-4523-89a3-4c2942ce0c4a",
+      "part-of-speech": "adverb",
+      "english": "today",
+      "marathi": "आज",
+      "cefr": "A1",
+      "ipa": "[adz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6633b5f-dc75-4b3e-9bf5-ad059c8bfaa8",
+      "part-of-speech": "adverb",
+      "english": "tomorrow",
+      "marathi": "उद्या",
+      "cefr": "A1",
+      "ipa": "[ˈud̪ja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b1f3054-8ef4-490a-bae6-4dae944f1331",
+      "part-of-speech": "adverb",
+      "english": "yesterday",
+      "marathi": "काल",
+      "cefr": "A1",
+      "ipa": "[kal]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "222a2969-c730-4a77-bde3-d95b36fd975c",
+      "part-of-speech": "adverb",
+      "english": "now",
+      "marathi": "आता",
+      "cefr": "A1",
+      "ipa": "[ˈat̪a]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "88406d2c-633a-4e00-bfa0-4d04d1c87510",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "marathi": "नेहमी",
+      "cefr": "A1",
+      "ipa": "[ˈneɦmi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91e42c22-8e89-4acb-8b56-e5e42e9c1bdb",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "marathi": "कधीच नाही",
+      "cefr": "A1",
+      "ipa": "[ˈkəd̪ʱitʃ ˈnaɦi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8adb566b-64ec-46e7-b846-5032a0659cc7",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "marathi": "कधीकधी",
+      "cefr": "A1",
+      "ipa": "[ˈkəd̪ʱikəd̪ʱi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9047379b-6f50-4b16-84e0-654918a05491",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "marathi": "इथे",
+      "cefr": "A1",
+      "ipa": "[ˈit̪ʰe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c2d65f3-4926-45fc-81cd-961e6d9d9ecf",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "marathi": "तिथे",
+      "cefr": "A1",
+      "ipa": "[ˈt̪it̪ʰe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53568bcb-2c73-40fa-a843-d61a1a3546f3",
+      "part-of-speech": "adverb",
+      "english": "far",
+      "marathi": "दूर",
+      "cefr": "A1",
+      "ipa": "[d̪uɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "615ca1ac-ff20-42b0-a28f-2d89a3fa3e4e",
+      "part-of-speech": "adverb",
+      "english": "to the right",
+      "marathi": "उजवीकडे",
+      "cefr": "A1",
+      "ipa": "[ˈudzʋikəɖe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "32ddf961-1dbb-426f-892b-ef47e5cf93f1",
+      "part-of-speech": "adverb",
+      "english": "to the left",
+      "marathi": "डावीकडे",
+      "cefr": "A1",
+      "ipa": "[ˈɖaʋikəɖe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcf8ceda-9623-41ac-9ed6-149242c76e1e",
+      "part-of-speech": "adverb",
+      "english": "straight on",
+      "marathi": "सरळ",
+      "cefr": "A2",
+      "ipa": "[ˈsəɾəɭ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6abd380c-4682-4a43-8cab-ff59b3e71663",
+      "part-of-speech": "adverb",
+      "english": "very; a lot",
+      "marathi": "खूप",
+      "cefr": "A1",
+      "ipa": "[kʰup]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29052eaa-8059-4c7f-94e2-a0b49a4fb1ea",
+      "part-of-speech": "adverb",
+      "english": "a little",
+      "marathi": "थोडे",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ʰoɖe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0de81346-8234-41cf-be68-5bc9928b5884",
+      "part-of-speech": "adverb",
+      "english": "more; too much",
+      "marathi": "जास्त",
+      "cefr": "A1",
+      "ipa": "[dzast̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "769291b6-f603-42bc-813e-455cb92f791c",
+      "part-of-speech": "adverb",
+      "english": "quickly; early",
+      "marathi": "लवकर",
+      "cefr": "A1",
+      "ipa": "[ˈləʋkəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55272c56-7db3-4171-a17e-6e3660900d17",
+      "part-of-speech": "adverb",
+      "english": "slowly; softly",
+      "marathi": "हळू",
+      "cefr": "A1",
+      "ipa": "[ˈɦəɭu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55d8f768-dfff-4633-8ecd-63cae0b3605d",
+      "part-of-speech": "adverb",
+      "english": "only",
+      "marathi": "फक्त",
+      "cefr": "A1",
+      "ipa": "[ˈpʰəkt̪ə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "881a3cb4-7be6-4d0c-b1db-f40278eb6320",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "marathi": "सोबत",
+      "cefr": "A1",
+      "ipa": "[ˈsobət̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c40ea2fc-e365-45dc-b863-61817c3a1133",
+      "part-of-speech": "adverb",
+      "english": "late",
+      "marathi": "उशिरा",
+      "cefr": "A2",
+      "ipa": "[ˈuʃiɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d887074a-ebc1-4176-adb1-bffd67da6073",
+      "part-of-speech": "adverb",
+      "english": "maybe",
+      "marathi": "कदाचित",
+      "cefr": "A1",
+      "ipa": "[ˈkəd̪atsit̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "517dfaa4-5220-4bb5-863c-9ec8f3acb918",
+      "part-of-speech": "adverb",
+      "english": "of course, certainly",
+      "marathi": "नक्कीच",
+      "cefr": "A1",
+      "ipa": "[ˈnəkːitʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa59ff99-df45-4144-8dec-689fe2cee256",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "marathi": "कुठे",
+      "cefr": "A1",
+      "ipa": "[ˈkuʈʰe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "701463cb-3287-4249-bff7-c1619756536a",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "marathi": "केव्हा",
+      "cefr": "A1",
+      "ipa": "[ˈkeʋʱa]",
+      "context": "also कधी",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb919af3-d717-40aa-b62d-046286329ea3",
+      "part-of-speech": "adverb",
+      "english": "how",
+      "marathi": "कसे",
+      "cefr": "A1",
+      "ipa": "[ˈkəse]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bb44ea3-2b16-4da8-982c-7c252cef2890",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "marathi": "का",
+      "cefr": "A1",
+      "ipa": "[ka]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "123ad849-b80e-424b-8d4f-483035ff962e",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "marathi": "किती",
+      "cefr": "A1",
+      "ipa": "[ˈkit̪i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23c722a7-b154-43b0-ba1c-764ee63374d6",
+      "part-of-speech": "postposition",
+      "english": "in, inside",
+      "marathi": "मध्ये",
+      "cefr": "A1",
+      "ipa": "[ˈməd̪ʱje]",
+      "context": "after the noun: घरामध्ये, in the house",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba8d10d9-568e-4648-9233-2229ec494a0a",
+      "part-of-speech": "postposition",
+      "english": "on, above",
+      "marathi": "वर",
+      "cefr": "A1",
+      "ipa": "[ʋəɾ]",
+      "context": "टेबलावर: on the table",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c46a001-1959-40f4-8114-eff5245c0180",
+      "part-of-speech": "postposition",
+      "english": "under, below",
+      "marathi": "खाली",
+      "cefr": "A2",
+      "ipa": "[ˈkʰali]",
+      "context": "टेबलाखाली: under the table",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fdbf1184-c047-40ff-accf-4acce588e499",
+      "part-of-speech": "postposition",
+      "english": "near",
+      "marathi": "जवळ",
+      "cefr": "A1",
+      "ipa": "[ˈdzəʋəɭ]",
+      "context": "घराजवळ: near the house",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ba9d15f-cdc4-4d82-a8fe-d6bd032c04b4",
+      "part-of-speech": "postposition",
+      "english": "with",
+      "marathi": "बरोबर",
+      "cefr": "A1",
+      "ipa": "[ˈbəɾobəɾ]",
+      "context": "माझ्याबरोबर: with me",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "633ea7b4-d955-416e-a5f8-c70a646d09bd",
+      "part-of-speech": "postposition",
+      "english": "without",
+      "marathi": "शिवाय",
+      "cefr": "A2",
+      "ipa": "[ˈʃiʋaj]",
+      "context": "साखरेशिवाय: without sugar",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9911b8a2-b97e-47da-a41b-fd23758f301e",
+      "part-of-speech": "postposition",
+      "english": "for",
+      "marathi": "साठी",
+      "cefr": "A1",
+      "ipa": "[ˈsaʈʰi]",
+      "context": "तुझ्यासाठी: for you",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04b2d316-4077-47c2-a3f4-a4937350b18d",
+      "part-of-speech": "postposition",
+      "english": "from; since",
+      "marathi": "पासून",
+      "cefr": "A1",
+      "ipa": "[ˈpasun]",
+      "context": "पुण्यापासून: from Pune",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7ee1796-b8df-4f9f-ab1b-d6c5e6f8f92b",
+      "part-of-speech": "postposition",
+      "english": "until; as far as",
+      "marathi": "पर्यंत",
+      "cefr": "A2",
+      "ipa": "[ˈpəɾjənt̪]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56f67fdc-89dc-4a7e-aae2-f02f98692399",
+      "part-of-speech": "postposition",
+      "english": "before",
+      "marathi": "आधी",
+      "cefr": "A1",
+      "ipa": "[ˈad̪ʱi]",
+      "context": "जेवणाआधी: before the meal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a3dfbf0d-14d0-47d1-b63d-58d9c9ea51fa",
+      "part-of-speech": "postposition",
+      "english": "after",
+      "marathi": "नंतर",
+      "cefr": "A1",
+      "ipa": "[ˈnənt̪əɾ]",
+      "context": "जेवणानंतर: after the meal",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36a0caf3-aa54-4a96-96e6-c9a0779d1411",
+      "part-of-speech": "postposition",
+      "english": "toward; at (someone's place)",
+      "marathi": "कडे",
+      "cefr": "A2",
+      "ipa": "[ˈkəɖe]",
+      "context": "माझ्याकडे: at my place; I have",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e86e3452-fcc4-465d-800e-cfa34014b3ed",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "marathi": "आणि",
+      "cefr": "A1",
+      "ipa": "[ˈaɳi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d60cd957-4f9c-4faa-a6de-64ae2a3b7a51",
+      "part-of-speech": "conjunction",
+      "english": "but; also",
+      "marathi": "पण",
+      "cefr": "A1",
+      "ipa": "[pəɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a65bfe5a-0b11-46ef-a376-ba7afc382ba1",
+      "part-of-speech": "conjunction",
+      "english": "or",
+      "marathi": "किंवा",
+      "cefr": "A1",
+      "ipa": "[ˈkinʋa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52b35ccd-7fb7-43a6-be9e-6db379def516",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "marathi": "कारण",
+      "cefr": "A1",
+      "ipa": "[ˈkaɾəɳ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed426be1-da00-4dac-8bf7-9e00b8bc5c05",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "marathi": "की",
+      "cefr": "A2",
+      "ipa": "[ki]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9757e9a7-8f23-4472-8924-0eb1a0e5c0d9",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "marathi": "जर",
+      "cefr": "A1",
+      "ipa": "[dzəɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c688cf79-8f68-48a8-b872-4dd0ead9178e",
+      "part-of-speech": "conjunction",
+      "english": "when",
+      "marathi": "जेव्हा",
+      "cefr": "A1",
+      "ipa": "[ˈdʒeʋʱa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03b3a518-08b4-4054-924c-d1a2ef5d3a49",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "marathi": "म्हणून",
+      "cefr": "A1",
+      "ipa": "[ˈmʱəɳun]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18ae8b27-3974-4784-99f1-0e96b76fa650",
+      "part-of-speech": "interjection",
+      "english": "yes",
+      "marathi": "हो",
+      "cefr": "A1",
+      "ipa": "[ɦo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83d3ce28-9ad0-4bbe-a964-617b77dd250d",
+      "part-of-speech": "interjection",
+      "english": "no; not",
+      "marathi": "नाही",
+      "cefr": "A1",
+      "ipa": "[ˈnaɦi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0089e9ff-ca6a-42bb-a255-2ad13dbff880",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "marathi": "नमस्कार",
+      "cefr": "A1",
+      "ipa": "[ˈnəməskaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afb5906d-df4a-49df-87d6-140654238d8d",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "marathi": "धन्यवाद",
+      "cefr": "A1",
+      "ipa": "[ˈd̪ʱənjəʋad̪]",
+      "context": "everyday: थँक्यू",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7582934-158b-4905-bcea-d5a23cc5800e",
+      "part-of-speech": "interjection",
+      "english": "please",
+      "marathi": "कृपया",
+      "cefr": "A1",
+      "ipa": "[ˈkɾupəja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca53ca26-08e3-46f8-ad5f-e5b5e2c72079",
+      "part-of-speech": "interjection",
+      "english": "sorry, excuse me",
+      "marathi": "माफ करा",
+      "cefr": "A1",
+      "ipa": "[mapʰ ˈkəɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58ee4470-96db-484f-9060-4101badc3a0d",
+      "part-of-speech": "interjection",
+      "english": "how are you? (polite)",
+      "marathi": "कसे आहात",
+      "cefr": "A1",
+      "ipa": "[ˈkəse ˈaɦat̪]",
+      "context": "familiar: कसा आहेस? (to a man), कशी आहेस? (to a woman)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9f037e74-ebd9-4263-bca8-cf70b3a6bc93",
+      "part-of-speech": "interjection",
+      "english": "I'm fine",
+      "marathi": "मी ठीक आहे",
+      "cefr": "A1",
+      "ipa": "[mi ʈʰik ˈaɦe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "068bebfc-d229-4dea-8e90-737971723995",
+      "part-of-speech": "interjection",
+      "english": "OK, all right",
+      "marathi": "ठीक आहे",
+      "cefr": "A1",
+      "ipa": "[ʈʰik ˈaɦe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "297cd2ab-a01d-4aaa-b268-668ca0e0b5e9",
+      "part-of-speech": "interjection",
+      "english": "see you again",
+      "marathi": "पुन्हा भेटू",
+      "cefr": "A1",
+      "ipa": "[ˈpunʱa ˈbʱeʈu]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}

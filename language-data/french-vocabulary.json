@@ -195,11 +195,11 @@
     {
       "id": "1855eb26-561c-448a-b829-2ddd1e0723db",
       "part-of-speech": "adverb",
-      "english": "more (in comparisons: plus grand, bigger)",
+      "english": "more (in comparisons)",
       "french": "plus",
       "cefr": "A1",
       "ipa": "/ply | plys/",
-      "context": "no s before a consonant: plus grand /ply ɡʁɑ̃/; linked with a z before a vowel: plus âgé /ply.z‿a.ʒe/; s said when it means 'more' on its own: j'en veux plus /plys/",
+      "context": "plus grand: bigger; no s before a consonant: plus grand /ply ɡʁɑ̃/; linked with a z before a vowel: plus âgé /ply.z‿a.ʒe/; s said when it means 'more' on its own: j'en veux plus /plys/",
       "register": [
         "All"
       ]
@@ -4355,19 +4355,6 @@
       ]
     },
     {
-      "id": "90153ad6-b707-44d6-80da-f2a17ffa899d",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of cœur",
-      "french": "coeur",
-      "gender": "masculine",
-      "plural": "coeurs",
-      "cefr": "A1",
-      "ipa": "/kœʁ/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "24894637-7af7-4f61-98df-f4d607d7eee6",
       "part-of-speech": "noun",
       "english": "dog",
@@ -5889,19 +5876,6 @@
       "plural": "listes",
       "cefr": "A2",
       "ipa": "/list/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "24fbe9ae-6d79-4de4-9a30-18f850dee43f",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of sœur",
-      "french": "soeur",
-      "gender": "feminine",
-      "plural": "soeurs",
-      "cefr": "A2",
-      "ipa": "/sœʁ/",
       "register": [
         "All"
       ]
@@ -11629,12 +11603,13 @@
     {
       "id": "53d75173-2d87-4331-924b-0940208a78ac",
       "part-of-speech": "noun",
-      "english": "weekend; synonym of fin de semaine",
+      "english": "weekend",
       "french": "week-end",
       "gender": "masculine",
       "plural": "week-ends",
       "cefr": "B1",
       "ipa": "/wi.kɛnd/",
+      "context": "in Quebec: fin de semaine",
       "register": [
         "All"
       ]
@@ -22055,10 +22030,11 @@
     {
       "id": "438030f7-fc07-4cc4-951c-af9732a6b046",
       "part-of-speech": "adjective",
-      "english": "Pertaining to the Cree; feminine of cri",
+      "english": "Cree (feminine)",
       "french": "crie",
       "cefr": "B1",
       "ipa": "/kʁi/",
+      "context": "masculine: cri",
       "register": [
         "All"
       ]
@@ -24517,11 +24493,12 @@
     {
       "id": "1578c758-78ef-424c-8926-79dfd8893360",
       "part-of-speech": "noun",
-      "english": "only used in for intérieur",
+      "english": "heart of hearts, inner self",
       "french": "for",
       "gender": "masculine",
       "cefr": "B1",
       "ipa": "/fɔʁ/",
+      "context": "only in for intérieur: deep down",
       "register": [
         "All"
       ]
@@ -25052,17 +25029,6 @@
       ]
     },
     {
-      "id": "1b28948a-ded1-4d82-a8b4-a48c39cc818d",
-      "part-of-speech": "adjective",
-      "english": "synonym of français (“French”)",
-      "french": "french",
-      "cefr": "B2",
-      "ipa": "/fʁɛnʃ/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "58e3b48b-89be-42e8-8465-297232516df4",
       "part-of-speech": "noun",
       "english": "reception (action of receiving)",
@@ -25220,19 +25186,6 @@
       ]
     },
     {
-      "id": "f7bf416f-bcfd-4473-b92b-a1fbc4013105",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of œuvre",
-      "french": "oeuvre",
-      "gender": "feminine",
-      "plural": "oeuvres",
-      "cefr": "B2",
-      "ipa": "/œvʁ/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "28b1da7b-8106-424d-9f16-eb26af62ae41",
       "part-of-speech": "noun",
       "english": "influence",
@@ -25287,12 +25240,13 @@
     {
       "id": "43008d3f-50b3-4d6c-ad91-b9165c3083f5",
       "part-of-speech": "noun",
-      "english": "ellipsis of partie finale:",
+      "english": "final (match)",
       "french": "finale",
       "gender": "feminine",
       "plural": "finales",
       "cefr": "B2",
       "ipa": "/fi.nal/",
+      "context": "short for partie finale",
       "register": [
         "All"
       ]
@@ -27350,10 +27304,11 @@
     {
       "id": "4a668c2d-e25a-4cae-a222-30b851f835cb",
       "part-of-speech": "verb",
-      "english": "synonym of niquer",
+      "english": "to screw, have sex with (vulgar)",
       "french": "ken",
       "cefr": "B2",
       "ipa": "/kɛn/",
+      "context": "synonym of niquer",
       "register": [
         "populaire"
       ]
@@ -33968,12 +33923,13 @@
     {
       "id": "e93238ff-c38e-42d6-9f7b-87149d79d804",
       "part-of-speech": "noun",
-      "english": "goer (used in the plural phrase \"allants et venants\" - \"comers and goers\")",
+      "english": "goer",
       "french": "allant",
       "gender": "masculine",
       "plural": "allants",
       "cefr": "B2",
       "ipa": "/a.lɑ̃/",
+      "context": "allants et venants: comers and goers",
       "register": [
         "All"
       ]
@@ -36330,12 +36286,13 @@
     {
       "id": "d1263d20-c011-4d71-a6dd-2e3b7988de5a",
       "part-of-speech": "noun",
-      "english": "ellipsis of voiture familiale: a family car",
+      "english": "family car",
       "french": "familiale",
       "gender": "feminine",
       "plural": "familiales",
       "cefr": "B2",
       "ipa": "/fa.mi.ljal/",
+      "context": "short for voiture familiale",
       "register": [
         "All"
       ]
@@ -41985,19 +41942,6 @@
       "plural": "corruptions",
       "cefr": "B2",
       "ipa": "/kɔ.ʁyp.sjɔ̃/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "4ce8552b-3174-46ba-b868-b5b20f23bd0c",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of œuf",
-      "french": "oeuf",
-      "gender": "masculine",
-      "plural": "oeufs",
-      "cefr": "B2",
-      "ipa": "/œf/",
       "register": [
         "All"
       ]
@@ -48689,19 +48633,6 @@
       ]
     },
     {
-      "id": "90b48286-a617-41b5-a7e6-92dbe0fa51d3",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of vœu",
-      "french": "voeu",
-      "gender": "masculine",
-      "plural": "voeux",
-      "cefr": "C1",
-      "ipa": "/vø/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "c93c7c95-4df3-4cf5-8eae-825edb90e9de",
       "part-of-speech": "noun",
       "english": "editor; publisher",
@@ -49538,19 +49469,6 @@
       ]
     },
     {
-      "id": "7db26b4b-db27-4fa7-a051-d444a18cfb82",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of bœuf",
-      "french": "boeuf",
-      "gender": "masculine",
-      "plural": "boeufs",
-      "cefr": "C1",
-      "ipa": "/bœf/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "aea43319-9914-4b11-8be6-ca74bf581012",
       "part-of-speech": "verb",
       "english": "to blame somebody for something (place blame upon)",
@@ -50102,12 +50020,13 @@
     {
       "id": "9e1e2c6b-5106-4190-b513-c2b04b547f34",
       "part-of-speech": "noun",
-      "english": "ellipsis of école maternelle: nursery school, kindergarten",
+      "english": "nursery school, kindergarten",
       "french": "maternelle",
       "gender": "feminine",
       "plural": "maternelles",
       "cefr": "C1",
       "ipa": "/ma.tɛʁ.nɛl/",
+      "context": "short for école maternelle",
       "register": [
         "All"
       ]
@@ -51791,12 +51710,13 @@
     {
       "id": "4443e461-3822-4944-8b54-f845d630e9cc",
       "part-of-speech": "noun",
-      "english": "cellular phone, mobile phone; ellipsis of téléphone cellulaire",
+      "english": "cell phone",
       "french": "cellulaire",
       "gender": "masculine",
       "plural": "cellulaires",
       "cefr": "C1",
       "ipa": "/sɛ.ly.lɛʁ/",
+      "context": "short for téléphone cellulaire (Quebec)",
       "register": [
         "All"
       ]
@@ -52912,12 +52832,13 @@
     {
       "id": "3a345619-c244-4a88-be0c-1570deeb5c3e",
       "part-of-speech": "noun",
-      "english": "ellipsis of courrier recommandé: recorded delivery, registered mail",
+      "english": "registered mail",
       "french": "recommandé",
       "gender": "masculine",
       "plural": "recommandés",
       "cefr": "C1",
       "ipa": "/ʁə.kɔ.mɑ̃.de/",
+      "context": "short for courrier recommandé",
       "register": [
         "All"
       ]
@@ -54332,12 +54253,13 @@
     {
       "id": "68276728-f6e3-4709-bd42-fb5df6a16325",
       "part-of-speech": "noun",
-      "english": "cook (“person, occupation”): female equivalent of cuisinier",
+      "english": "cook (female); stove",
       "french": "cuisinière",
       "gender": "feminine",
       "plural": "cuisinières",
       "cefr": "C1",
       "ipa": "/kɥi.zi.njɛʁ/",
+      "context": "masculine: cuisinier",
       "register": [
         "All"
       ]
@@ -55050,19 +54972,6 @@
       "plural": "librairies",
       "cefr": "C1",
       "ipa": "/li.bʁɛ.ʁi/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "2fcd321d-aa67-4fb7-87fd-afe5a188e089",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of nœud",
-      "french": "noeud",
-      "gender": "masculine",
-      "plural": "noeuds",
-      "cefr": "C1",
-      "ipa": "/nø/",
       "register": [
         "All"
       ]
@@ -56126,12 +56035,13 @@
     {
       "id": "49ac1c52-6aea-4476-bb27-41b4f74886c6",
       "part-of-speech": "noun",
-      "english": "synonym of hamburger (“burger”)",
+      "english": "burger",
       "french": "burger",
       "gender": "masculine",
       "plural": "burgers",
       "cefr": "C1",
       "ipa": "/bœʁ.ɡœʁ/",
+      "context": "also hamburger",
       "register": [
         "All"
       ]
@@ -60653,12 +60563,13 @@
     {
       "id": "b24eeaaf-25d4-4ea3-b1e0-d274eb9dcded",
       "part-of-speech": "noun",
-      "english": "ellipsis of patate douce; sweet potato",
+      "english": "sweet potato",
       "french": "patate",
       "gender": "feminine",
       "plural": "patates",
       "cefr": "C1",
       "ipa": "/pa.tat/",
+      "context": "short for patate douce",
       "register": [
         "All"
       ]
@@ -61741,11 +61652,12 @@
     {
       "id": "da063a20-4f62-4b6b-8568-6fb34e7ed310",
       "part-of-speech": "noun",
-      "english": "only used in à l'encontre de",
+      "english": "against, contrary to",
       "french": "encontre",
       "gender": "masculine",
       "cefr": "C1",
       "ipa": "/ɑ̃.kɔ̃tʁ/",
+      "context": "only in à l'encontre de",
       "register": [
         "All"
       ]
@@ -61841,18 +61753,6 @@
       "french": "dévoiler",
       "cefr": "C1",
       "ipa": "/de.vwa.le/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "323557d5-8da7-4197-b76d-546c07295a79",
-      "part-of-speech": "noun",
-      "english": "obsolete spelling of tête",
-      "french": "teste",
-      "gender": "feminine",
-      "plural": "testes",
-      "cefr": "C1",
       "register": [
         "All"
       ]
@@ -65583,11 +65483,12 @@
     {
       "id": "1561f79c-bc50-440b-ba99-8dbde954fe8b",
       "part-of-speech": "noun",
-      "english": "short for tacos français (“French tacos”)",
+      "english": "French tacos (grilled wrap)",
       "french": "tacos",
       "gender": "masculine",
       "cefr": "C1",
       "ipa": "/ta.kos/",
+      "context": "short for tacos français",
       "register": [
         "All"
       ]
@@ -67157,16 +67058,6 @@
       "ipa": "/plɑ̃.ke/",
       "register": [
         "familier"
-      ]
-    },
-    {
-      "id": "3c72a214-a654-46b1-8921-223f82ce7a55",
-      "part-of-speech": "verb",
-      "english": "obsolete spelling of arrêter",
-      "french": "arreter",
-      "cefr": "C1",
-      "register": [
-        "All"
       ]
     },
     {
@@ -76023,11 +75914,12 @@
     {
       "id": "afb56441-3fbd-4dc3-9a57-fabec75185ad",
       "part-of-speech": "noun",
-      "english": "synonym of développeur (“dev”)",
+      "english": "dev, developer",
       "french": "dev",
       "gender": "masculine",
       "plural": "devs",
       "cefr": "C1",
+      "context": "short for développeur",
       "register": [
         "All"
       ]
@@ -79388,12 +79280,13 @@
     {
       "id": "af20ca92-27a6-419c-8836-2b057f40e656",
       "part-of-speech": "noun",
-      "english": "teacher (in a school); female equivalent of instituteur",
+      "english": "elementary school teacher (female)",
       "french": "institutrice",
       "gender": "feminine",
       "plural": "institutrices",
       "cefr": "C1",
       "ipa": "/ɛ̃s.ti.ty.tʁis/",
+      "context": "masculine: instituteur",
       "register": [
         "All"
       ]
@@ -80528,19 +80421,6 @@
       ]
     },
     {
-      "id": "7bcc1ed3-8728-4f0e-800d-562c9f35ae13",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of chœur",
-      "french": "choeur",
-      "gender": "masculine",
-      "plural": "choeurs",
-      "cefr": "C1",
-      "ipa": "/kœʁ/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "4b3816f9-5073-41c3-b1c0-1bba9e93095e",
       "part-of-speech": "noun",
       "english": "instructor, teacher, trainer",
@@ -80667,13 +80547,14 @@
     {
       "id": "936d992e-5ced-4957-8945-9ab1d3de5944",
       "part-of-speech": "noun",
-      "english": "heiress; female equivalent of héritier",
+      "english": "heiress",
       "french": "héritière",
       "gender": "feminine",
       "plural": "héritières",
       "hMuet": true,
       "cefr": "C1",
       "ipa": "/e.ʁi.tjɛʁ/",
+      "context": "masculine: héritier",
       "register": [
         "All"
       ]
@@ -81530,19 +81411,6 @@
       ]
     },
     {
-      "id": "90b2adf2-27b6-4b35-93a6-8ba1a78784de",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of belle-sœur",
-      "french": "belle-soeur",
-      "gender": "feminine",
-      "plural": "belle-soeurs",
-      "cefr": "C1",
-      "ipa": "/bɛl.sœʁ/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "dcac70f5-a93a-46d5-b16a-0368fb103954",
       "part-of-speech": "noun",
       "english": "light, illumination",
@@ -81725,12 +81593,13 @@
     {
       "id": "c1afaff5-028c-43b9-95c2-507611760dbb",
       "part-of-speech": "noun",
-      "english": "a female twin; female equivalent of jumeau",
+      "english": "twin (female)",
       "french": "jumelle",
       "gender": "feminine",
       "plural": "jumelles",
       "cefr": "C1",
       "ipa": "/ʒy.mɛl/",
+      "context": "masculine: jumeau",
       "register": [
         "All"
       ]
@@ -81862,12 +81731,13 @@
     {
       "id": "c3e89846-801b-4b63-b18c-be3f5641464a",
       "part-of-speech": "noun",
-      "english": "short for plante annuelle",
+      "english": "annual (plant)",
       "french": "annuelle",
       "gender": "feminine",
       "plural": "annuelles",
       "cefr": "C1",
       "ipa": "/a.nɥɛl/",
+      "context": "short for plante annuelle",
       "register": [
         "All"
       ]
@@ -85075,11 +84945,12 @@
     {
       "id": "cdb7596c-12cf-49e5-91c4-44dcf7edd18e",
       "part-of-speech": "noun",
-      "english": "only used in au fur et à mesure (“gradually, as you go along”)",
+      "english": "gradually, as you go along",
       "french": "fur",
       "gender": "masculine",
       "cefr": "C2",
       "ipa": "/fyʁ/",
+      "context": "only in au fur et à mesure",
       "register": [
         "All"
       ]
@@ -86439,18 +86310,6 @@
       ]
     },
     {
-      "id": "edee06c2-d4f8-49e1-919b-01467d03582e",
-      "part-of-speech": "noun",
-      "english": "nonstandard spelling of sœurette",
-      "french": "soeurette",
-      "gender": "feminine",
-      "plural": "soeurettes",
-      "cefr": "C2",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "a586742e-8f51-4b08-a0c1-79c1ccd9358d",
       "part-of-speech": "adjective",
       "english": "broken, broken down, busted",
@@ -86606,17 +86465,6 @@
       "plural": "bicyclettes",
       "cefr": "C2",
       "ipa": "/bi.si.klɛt/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "b1549b90-4db0-42da-b356-3d16ce76cf1f",
-      "part-of-speech": "verb",
-      "english": "obsolete spelling of débarrasser",
-      "french": "débarasser",
-      "cefr": "C2",
-      "ipa": "/de.ba.ʁa.se/",
       "register": [
         "All"
       ]
@@ -89307,10 +89155,11 @@
     {
       "id": "8467f42b-eee4-442c-aa1c-3fdc254ac62c",
       "part-of-speech": "adjective",
-      "english": "tenth, 10ᵗʰ; abbreviation of dixième",
+      "english": "tenth",
       "french": "10e",
       "cefr": "C2",
       "ipa": "/di.zjɛm/",
+      "context": "abbreviation of dixième",
       "register": [
         "All"
       ]
@@ -93499,9 +93348,10 @@
     {
       "id": "3f25117f-fe32-4443-a280-ca779e6c65ee",
       "part-of-speech": "adverb",
-      "english": "only used in par-ci, par-là (“here and there”)",
+      "english": "here and there",
       "french": "par-ci",
       "cefr": "C2",
+      "context": "only in par-ci, par-là",
       "register": [
         "All"
       ]
@@ -96555,12 +96405,13 @@
     {
       "id": "af3640e6-7331-4c62-ac42-eecfb8c9994d",
       "part-of-speech": "noun",
-      "english": "only used in sans conteste (“no doubt”)",
+      "english": "without doubt, indisputably",
       "french": "conteste",
       "gender": "feminine",
       "plural": "contestes",
       "cefr": "C2",
       "ipa": "/kɔ̃.tɛst/",
+      "context": "only in sans conteste",
       "register": [
         "All"
       ]
@@ -96704,11 +96555,12 @@
     {
       "id": "8c0a9bb5-cd9a-43d5-8c34-ac3823328c83",
       "part-of-speech": "noun",
-      "english": "synonym of mathématiques",
+      "english": "mathematics; mathematical",
       "french": "mathématique",
       "gender": "feminine",
       "cefr": "C2",
       "ipa": "/ma.te.ma.tik/",
+      "context": "usually plural: les mathématiques",
       "register": [
         "All"
       ]
@@ -101018,17 +100870,6 @@
       "plural": "hors-jeux",
       "cefr": "C2",
       "ipa": "/ɔʁ.ʒø/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "278f1810-a883-48a7-817a-1b60d080faa4",
-      "part-of-speech": "adverb",
-      "english": "archaic spelling of ici",
-      "french": "içi",
-      "cefr": "C2",
-      "ipa": "/i.si/",
       "register": [
         "All"
       ]
@@ -105459,10 +105300,11 @@
     {
       "id": "48518882-160f-48c0-bbf4-3f1a9e0e5acf",
       "part-of-speech": "noun",
-      "english": "SUV (sport utility vehicle) initialism of véhicule utilitaire sport",
+      "english": "SUV",
       "french": "VUS",
       "cefr": "B1",
       "gender": "feminine",
+      "context": "véhicule utilitaire sport (Quebec)",
       "register": [
         "All"
       ]

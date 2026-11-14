@@ -3454,10 +3454,11 @@
     {
       "id": "3d284bb1-21ba-4650-91a4-d2257194154f",
       "part-of-speech": "adverb",
-      "english": "better (comparative degree of hyvin (“well”))",
+      "english": "better (adverb)",
       "finnish": "paremmin",
       "cefr": "A2",
       "ipa": "[ˈpɑremːin]",
+      "context": "comparative of hyvin, well",
       "register": [
         "All"
       ]
@@ -5604,10 +5605,11 @@
     {
       "id": "1f71f98f-a215-40ab-a47d-546eebabe7c4",
       "part-of-speech": "noun",
-      "english": "Mr.; abbreviation of herra",
+      "english": "Mr.",
       "finnish": "hra",
       "cefr": "A2",
       "ipa": "[hrɑ]",
+      "context": "abbreviation of herra",
       "register": [
         "All"
       ]
@@ -6645,10 +6647,11 @@
     {
       "id": "06b68602-f4dd-4eb8-bd7e-f4cd46a03bc1",
       "part-of-speech": "noun",
-      "english": "genitive/instructive singular of puoli",
+      "english": "half, side (genitive form)",
       "finnish": "puolen",
       "cefr": "B1",
       "ipa": "[ˈpuo̯len]",
+      "context": "genitive/instructive of puoli",
       "register": [
         "All"
       ]
@@ -8676,10 +8679,11 @@
     {
       "id": "6be79459-8c4f-41ef-b632-fd0eb6ea1c44",
       "part-of-speech": "adjective",
-      "english": "good; used only as fortifier in the exclamation hyvänen aika (“good heavens”)",
+      "english": "goodness (in \"good heavens!\")",
       "finnish": "hyvänen",
       "cefr": "B1",
       "ipa": "[ˈhyʋænen]",
+      "context": "only in hyvänen aika!",
       "register": [
         "All"
       ]
@@ -13013,10 +13017,11 @@
     {
       "id": "a2c6c82c-5a28-4b40-84e0-623a07f5d27c",
       "part-of-speech": "adverb",
-      "english": "best (superlative degree of hyvin (“well”))",
+      "english": "best (adverb)",
       "finnish": "parhaiten",
       "cefr": "B2",
       "ipa": "[ˈpɑrhɑi̯ten]",
+      "context": "superlative of hyvin, well",
       "register": [
         "All"
       ]
@@ -13080,11 +13085,12 @@
     {
       "id": "1af3624c-a02f-4224-a033-5e453c4b9f78",
       "part-of-speech": "noun",
-      "english": "A rank in the Finnish police, above komisario and below apulaispoliisipäällikkö, roughly equal to captain in the US police force and chief inspector in the UK.",
+      "english": "police captain, chief inspector",
       "finnish": "ylikomisario",
       "cefr": "B2",
       "ipa": "[ˈylikomisɑrio]",
       "plural": "ylikomisariot",
+      "context": "rank above komisario, below apulaispoliisipäällikkö",
       "register": [
         "All"
       ]
@@ -13435,10 +13441,11 @@
     {
       "id": "29b9fe1b-408d-4b2c-a1e5-9d1ed815bd2b",
       "part-of-speech": "noun",
-      "english": "Mrs; abbreviation of rouva (“mistress, madame”)",
+      "english": "Mrs.",
       "finnish": "rva",
       "cefr": "B2",
       "ipa": "[rʋɑ]",
+      "context": "abbreviation of rouva",
       "register": [
         "All"
       ]
@@ -17335,10 +17342,11 @@
     {
       "id": "f4f34e17-9fc5-4e31-8c15-62911149e002",
       "part-of-speech": "noun",
-      "english": "genitive/accusative/instructive singular of jalka",
+      "english": "on foot; foot (genitive form)",
       "finnish": "jalan",
       "cefr": "B2",
       "ipa": "[ˈjɑlɑn]",
+      "context": "genitive of jalka",
       "register": [
         "All"
       ]
@@ -18183,10 +18191,11 @@
     {
       "id": "f4b92928-f1b4-484f-a480-4aba400ef87c",
       "part-of-speech": "noun",
-      "english": "Ms; abbreviation of neiti (“miss”)",
+      "english": "Ms., Miss",
       "finnish": "nti",
       "cefr": "B2",
       "ipa": "[nti]",
+      "context": "abbreviation of neiti",
       "register": [
         "All"
       ]
@@ -23822,10 +23831,11 @@
     {
       "id": "120bc125-ffeb-4022-b4e6-565b2722d339",
       "part-of-speech": "adverb",
-      "english": "More emphatic form of myös.",
+      "english": "also, too (emphatic)",
       "finnish": "myöskin",
       "cefr": "C1",
       "ipa": "[ˈmyø̯skin]",
+      "context": "emphatic form of myös",
       "register": [
         "All"
       ]
@@ -25560,10 +25570,11 @@
     {
       "id": "2afe4ca8-ae9c-4c24-b79b-8786c02061d6",
       "part-of-speech": "adjective",
-      "english": "only used in joka ikinen",
+      "english": "every single",
       "finnish": "ikinen",
       "cefr": "C1",
       "ipa": "[ˈikinen]",
+      "context": "only in joka ikinen",
       "register": [
         "All"
       ]
@@ -28897,10 +28908,11 @@
     {
       "id": "e54a7436-8a62-468f-8987-56f22fb3eb3c",
       "part-of-speech": "noun",
-      "english": "A baby carriage or a wagon usually drawn by horses, including stagecoaches (inflection identical to that of the plural of vaunu)",
+      "english": "baby carriage; horse-drawn carriage",
       "finnish": "vaunut",
       "cefr": "C1",
       "ipa": "[ˈʋɑu̯nut]",
+      "context": "plural in form, like vaunu",
       "register": [
         "All"
       ]
@@ -34312,10 +34324,11 @@
     {
       "id": "04cdc668-448e-4d2e-bf35-2e1da51dbb85",
       "part-of-speech": "adverb",
-      "english": "away (motion away from something: compare to ylös (“up”) and ylöspäin (“upward”))",
+      "english": "away (from)",
       "finnish": "poispäin",
       "cefr": "C1",
       "ipa": "[ˈpoi̯spæi̯n]",
+      "context": "compare ylös, up, and ylöspäin, upward",
       "register": [
         "All"
       ]
@@ -36511,10 +36524,11 @@
     {
       "id": "dbc06b51-5a70-4dec-a22a-977f0e906f58",
       "part-of-speech": "verb",
-      "english": "to reach out (usually with käsi (“hand”)) (to extend one's hand(s) forward)",
+      "english": "to reach out, hold out, extend",
       "finnish": "ojentaa",
       "cefr": "C1",
       "ipa": "[ˈojentɑː]",
+      "context": "usually with käsi, hand",
       "register": [
         "All"
       ]
@@ -39227,11 +39241,12 @@
     {
       "id": "fe80e2d1-52b6-45b1-97de-1b72942657e4",
       "part-of-speech": "noun",
-      "english": "club (often informal group of people, who meet more or less regularly around a common interest or hobby; sometimes associated as yhdistys)",
+      "english": "club (informal group)",
       "finnish": "kerho",
       "cefr": "C1",
       "ipa": "[ˈkerho]",
       "plural": "kerhot",
+      "context": "a formal association is a yhdistys",
       "register": [
         "All"
       ]
@@ -39365,10 +39380,11 @@
     {
       "id": "9e7ab774-6937-42d2-bb62-d1f6f52328ea",
       "part-of-speech": "adverb",
-      "english": "Colloquial form of oikeasti",
+      "english": "really, seriously (colloquial)",
       "finnish": "oikeesti",
       "cefr": "C1",
       "ipa": "[ˈoi̯keːsti]",
+      "context": "colloquial form of oikeasti",
       "register": [
         "All"
       ]
@@ -41520,10 +41536,11 @@
     {
       "id": "fc007cea-220b-4838-a055-6349753e5789",
       "part-of-speech": "adverb",
-      "english": "only used in käydä päinsä",
+      "english": "be acceptable, be OK",
       "finnish": "päinsä",
       "cefr": "C2",
       "ipa": "[ˈpæi̯nsæ]",
+      "context": "only in käydä päinsä",
       "register": [
         "All"
       ]
@@ -45952,9 +45969,10 @@
     {
       "id": "7483146d-d1ec-481b-8ff9-a53407914650",
       "part-of-speech": "verb",
-      "english": "d., abbreviation of kuollut (“dead”)",
+      "english": "d. (died)",
       "finnish": "k.",
       "cefr": "C2",
+      "context": "abbreviation of kuollut, dead",
       "register": [
         "All"
       ]
@@ -46033,10 +46051,11 @@
     {
       "id": "34f132c9-9543-40c6-98ce-0a0da10951ce",
       "part-of-speech": "adverb",
-      "english": "Apocopic form of aina",
+      "english": "always (colloquial)",
       "finnish": "ain",
       "cefr": "C2",
       "ipa": "[ɑi̯n]",
+      "context": "short form of aina",
       "register": [
         "All"
       ]
@@ -47277,11 +47296,12 @@
     {
       "id": "d4d57481-9f0b-4657-9a86-7b606bfef4ec",
       "part-of-speech": "noun",
-      "english": "chairman, speaker (title used of the chair of certain bodies instead of the more common puheenjohtaja (“chairman”))",
+      "english": "speaker, chair (of a parliament)",
       "finnish": "puhemies",
       "cefr": "C2",
       "ipa": "[ˈpuhemies]",
       "plural": "puhemiehet",
+      "context": "the usual word for chairman is puheenjohtaja",
       "register": [
         "All"
       ]
@@ -48540,10 +48560,11 @@
     {
       "id": "dc41b7d6-76dc-4f96-9323-93ad5eb302bc",
       "part-of-speech": "adverb",
-      "english": "only used in mennä mönkään",
+      "english": "go wrong, fail",
       "finnish": "mönkään",
       "cefr": "C2",
       "ipa": "[ˈmøŋkæːn]",
+      "context": "only in mennä mönkään",
       "register": [
         "All"
       ]
@@ -53013,11 +53034,12 @@
     {
       "id": "b6f690df-505c-41d6-b839-5bc0406be61b",
       "part-of-speech": "noun",
-      "english": "life sentence; life (especially with tuomita (“to sentence”), i.e. sentence for life)",
+      "english": "life sentence",
       "finnish": "elinkautinen",
       "cefr": "C2",
       "ipa": "[ˈeliŋkɑu̯tinen]",
       "plural": "elinkautiset",
+      "context": "tuomita elinkautiseen: to sentence to life",
       "register": [
         "All"
       ]
@@ -55326,10 +55348,11 @@
     {
       "id": "9fd5c57a-8c9d-4663-a03a-16d16809c01e",
       "part-of-speech": "verb",
-      "english": "continuative of hypätä (“to jump, hop”); to jump (around), hop (around), skip; to jump (up and down), bounce",
+      "english": "to jump around, hop, bounce",
       "finnish": "hyppiä",
       "cefr": "C2",
       "ipa": "[ˈhypːiæ]",
+      "context": "continuative of hypätä, to jump",
       "register": [
         "All"
       ]
@@ -55627,11 +55650,12 @@
     {
       "id": "ca03386c-3cec-449e-a69d-cd450824fff5",
       "part-of-speech": "noun",
-      "english": "detective inspector (official translation); a detective rank in Finnish police, equal in seniority to komisario (“inspector”).",
+      "english": "detective inspector",
       "finnish": "rikoskomisario",
       "cefr": "C2",
       "ipa": "[ˈrikoskomisɑrio]",
       "plural": "rikoskomisariot",
+      "context": "equal in rank to komisario",
       "register": [
         "All"
       ]
@@ -57757,11 +57781,12 @@
     {
       "id": "1f95e500-7603-48f9-83d5-a64ca5929261",
       "part-of-speech": "noun",
-      "english": "Used in the idiom ei halunnut olla pekkaa pahempi (“did not want to be worse than others”).",
+      "english": "everyman (in an idiom)",
       "finnish": "pekka",
       "cefr": "C2",
       "ipa": "[ˈpekːɑ]",
       "plural": "pekat",
+      "context": "ei halunnut olla pekkaa pahempi: didn't want to be worse than the rest",
       "register": [
         "All"
       ]
@@ -60294,10 +60319,11 @@
     {
       "id": "cbb86c91-8831-4f5e-a7f1-7f69aa03a9f1",
       "part-of-speech": "adverb",
-      "english": "escape, runner (quick escape away from a scene) (used with the verb ottaa (“to take”) in the idiomatic expression ottaa hatkat, which may often be translated with to leave, quit, flee, run away or with an idiom like to take to one's heels or take to the hills.)",
+      "english": "escape, run (for it)",
       "finnish": "hatkat",
       "cefr": "C2",
       "ipa": "[ˈhɑtkɑt]",
+      "context": "ottaa hatkat: to take off, run away",
       "register": [
         "All"
       ]
@@ -61897,11 +61923,12 @@
     {
       "id": "dba5a102-73c3-4e77-b9ac-307f93fcdc5a",
       "part-of-speech": "noun",
-      "english": "Time spent in the military service; from the color of the uniform (often in the form armeijan harmaat (“the greys of the Army”))",
+      "english": "military service (\"the grays\")",
       "finnish": "harmaat",
       "cefr": "C2",
       "ipa": "[ˈhɑrmɑːt]",
       "plural": "harmaat",
+      "context": "often armeijan harmaat",
       "register": [
         "All"
       ]
@@ -64372,10 +64399,11 @@
     {
       "id": "d9344747-cb45-4648-ae9e-705a78be2317",
       "part-of-speech": "adverb",
-      "english": "by surprise, with awe; only in the expression lyödä ällikällä (“to dumbfound, strike with awe”)",
+      "english": "dumbfounded, by surprise",
       "finnish": "ällikällä",
       "cefr": "C2",
       "ipa": "[ˈælːikælːæ]",
+      "context": "only in lyödä ällikällä, to dumbfound",
       "register": [
         "All"
       ]
@@ -68904,10 +68932,11 @@
     {
       "id": "0e5ac9f0-4b67-40f3-8836-2b080f05b83b",
       "part-of-speech": "verb",
-      "english": "contraction of en + mä, literally “I don't”",
+      "english": "I don't (colloquial)",
       "finnish": "emmä",
       "cefr": "C2",
       "ipa": "[ˈemːæ]",
+      "context": "contraction of en + mä",
       "register": [
         "All"
       ]

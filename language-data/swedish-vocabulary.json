@@ -4992,9 +4992,10 @@
     {
       "id": "1aa340a0-47c7-4719-86c3-d66cab390976",
       "part-of-speech": "verb",
-      "english": "to marry (followed by med)",
+      "english": "to marry",
       "swedish": "gifta",
       "cefr": "A2",
+      "context": "gifta sig med: to marry someone",
       "register": [
         "All"
       ]
@@ -5711,9 +5712,10 @@
     {
       "id": "250f41d8-8f81-4466-8fc5-5521a4b0c05b",
       "part-of-speech": "interjection",
-      "english": "shut up (short for håll käften)",
+      "english": "shut up (rude)",
       "swedish": "käften",
       "cefr": "A2",
+      "context": "short for håll käften",
       "register": [
         "All"
       ]
@@ -6173,10 +6175,11 @@
     {
       "id": "f1e37760-3eed-4bd1-bae0-c2656cd399b0",
       "part-of-speech": "adverb",
-      "english": "synonym of väl",
+      "english": "surely, I suppose",
       "swedish": "la",
       "cefr": "A2",
       "ipa": "/la/",
+      "context": "synonym of väl",
       "register": [
         "All"
       ]
@@ -6878,9 +6881,10 @@
     {
       "id": "117be4a5-30a5-40de-a7fc-8cb253d40fe4",
       "part-of-speech": "verb",
-      "english": "passive infinitive of kalla",
+      "english": "to be called",
       "swedish": "kallas",
       "cefr": "A2",
+      "context": "passive of kalla",
       "register": [
         "All"
       ]
@@ -10005,10 +10009,11 @@
     {
       "id": "441f5f75-e067-495a-9cc7-c10814e5293b",
       "part-of-speech": "verb",
-      "english": "passive infinitive of förstå",
+      "english": "of course",
       "swedish": "förstås",
       "cefr": "A2",
       "ipa": "[fɶˈʂtɔs]",
+      "context": "also the passive of förstå, to be understood",
       "register": [
         "All"
       ]
@@ -10182,9 +10187,10 @@
     {
       "id": "7dc52e32-be16-4544-8261-b6ccb712ee00",
       "part-of-speech": "interjection",
-      "english": "thanks! (short for \"man tackar,\" \"jag tackar,\" or the like)",
+      "english": "thanks!",
       "swedish": "tackar",
       "cefr": "A2",
+      "context": "short for jag tackar, man tackar",
       "register": [
         "All"
       ]

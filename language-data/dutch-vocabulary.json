@@ -6100,10 +6100,11 @@
     {
       "id": "fd8f39eb-8b86-48ce-b683-db7a358d13d1",
       "part-of-speech": "adverb",
-      "english": "too (te duur: too expensive)",
+      "english": "too (excessively)",
       "dutch": "te",
       "cefr": "A2",
       "ipa": "[tə]",
+      "context": "te duur: too expensive",
       "register": [
         "All"
       ]
