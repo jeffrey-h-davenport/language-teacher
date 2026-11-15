@@ -1095,7 +1095,10 @@
       "countability": "mass",
       "context": "spoken in most countries: مية mayya",
       "register": [
-        "All"
+        "كلاسيكي",
+        "أدبي",
+        "رسمي",
+        "محايد"
       ]
     },
     {
@@ -1307,7 +1310,10 @@
       "countability": "mass",
       "context": "spoken: رز ruzz",
       "register": [
-        "All"
+        "كلاسيكي",
+        "أدبي",
+        "رسمي",
+        "محايد"
       ]
     },
     {
@@ -1320,7 +1326,10 @@
       "ipa": "[ħaˈsaːʔ]",
       "context": "spoken: شوربة shuurba",
       "register": [
-        "All"
+        "كلاسيكي",
+        "أدبي",
+        "رسمي",
+        "محايد"
       ]
     },
     {
@@ -1683,7 +1692,10 @@
       "ipa": "[ˈnaːfiða]",
       "context": "spoken: شباك shubbaak",
       "register": [
-        "All"
+        "كلاسيكي",
+        "أدبي",
+        "رسمي",
+        "محايد"
       ]
     },
     {
@@ -2448,7 +2460,10 @@
       "ipa": "[ˈħaːfila]",
       "context": "spoken: باص baaS",
       "register": [
-        "All"
+        "كلاسيكي",
+        "أدبي",
+        "رسمي",
+        "محايد"
       ]
     },
     {
@@ -2806,11 +2821,12 @@
     {
       "id": "a954310e-23ea-4725-9a79-d6cfcb6ee623",
       "part-of-speech": "noun",
-      "english": "Arabic (language)",
+      "english": "Arabic",
       "arabic": "العربية",
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "[ʔalʕaraˈbijːa]",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2818,11 +2834,12 @@
     {
       "id": "4cf9c6d9-d5e6-4938-82bf-2aa496ec377b",
       "part-of-speech": "noun",
-      "english": "English (language)",
+      "english": "English",
       "arabic": "الإنجليزية",
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "[ʔalʔindʒliːˈzijːa]",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -4261,11 +4278,11 @@
     {
       "id": "a1bdc748-b4e0-4862-86a0-66b454c84fac",
       "part-of-speech": "verb",
-      "english": "to call (on the phone)",
+      "english": "to call",
       "arabic": "اتصل",
       "cefr": "A1",
       "ipa": "[ʔitˈtɑsˤɑla]",
-      "context": "present: يتصل ب yattaSilu bi",
+      "context": "present: يتصل ب yattaSilu bi; on the phone",
       "register": [
         "All"
       ]
@@ -4561,11 +4578,11 @@
     {
       "id": "18b99ea4-fa60-4e7f-8e8f-792797d69e27",
       "part-of-speech": "adjective",
-      "english": "big; old (person)",
+      "english": "big; old",
       "arabic": "كبير",
       "cefr": "A1",
       "ipa": "[kaˈbiːr]",
-      "context": "feminine: كبيرة kabiira",
+      "context": "feminine: كبيرة kabiira; person",
       "register": [
         "All"
       ]
@@ -4597,11 +4614,11 @@
     {
       "id": "efe3fef1-0228-4eaf-8d12-2ff63e199727",
       "part-of-speech": "adjective",
-      "english": "old (not new)",
+      "english": "old",
       "arabic": "قديم",
       "cefr": "A1",
       "ipa": "[qɑˈdiːm]",
-      "context": "feminine: قديمة qadiima",
+      "context": "feminine: قديمة qadiima; not new",
       "register": [
         "All"
       ]
@@ -5384,11 +5401,11 @@
     {
       "id": "deb5af48-e5d8-4a5d-bb93-24c14a9ba1d2",
       "part-of-speech": "adverb",
-      "english": "never (with a negative)",
+      "english": "never",
       "arabic": "أبدا",
       "cefr": "A1",
       "ipa": "[ˈʔabadan]",
-      "context": "لا أدخن أبدا: I never smoke",
+      "context": "لا أدخن أبدا: I never smoke; with a negative",
       "register": [
         "All"
       ]
@@ -5753,11 +5770,11 @@
     {
       "id": "85175d46-2821-4420-96a4-57bc83175241",
       "part-of-speech": "preposition",
-      "english": "at (someone's place); have",
+      "english": "at; have",
       "arabic": "عند",
       "cefr": "A1",
       "ipa": "[ˈʕinda]",
-      "context": "عندي سيارة: I have a car",
+      "context": "عندي سيارة: I have a car; someone's place",
       "register": [
         "All"
       ]
@@ -5912,11 +5929,11 @@
     {
       "id": "468cbe7c-0117-4e34-ba58-27fa603db02e",
       "part-of-speech": "conjunction",
-      "english": "that; to (before a verb)",
+      "english": "that; to",
       "arabic": "أن",
       "cefr": "A2",
       "ipa": "[ʔan]",
-      "context": "أريد أن أذهب: I want to go",
+      "context": "أريد أن أذهب: I want to go; before a verb",
       "register": [
         "All"
       ]

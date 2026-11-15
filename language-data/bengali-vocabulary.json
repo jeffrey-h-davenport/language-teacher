@@ -958,11 +958,12 @@
     {
       "id": "9618d4ca-95c7-49c6-96f6-0f067b9d71fe",
       "part-of-speech": "noun",
-      "english": "rice (uncooked)",
+      "english": "rice",
       "bengali": "চাল",
       "cefr": "A2",
       "ipa": "[tʃal]",
       "countability": "mass",
+      "context": "uncooked",
       "register": [
         "All"
       ]
@@ -1360,11 +1361,11 @@
     {
       "id": "ca72a9b7-0adf-4f33-8f3d-d745c899a950",
       "part-of-speech": "noun",
-      "english": "home, apartment (where you live)",
+      "english": "home, apartment",
       "bengali": "বাসা",
       "cefr": "A1",
       "ipa": "[ˈbaʃa]",
-      "context": "mostly Bangladesh",
+      "context": "mostly Bangladesh; where you live",
       "register": [
         "All"
       ]
@@ -1869,11 +1870,12 @@
     {
       "id": "1acb08c3-1005-474e-8228-5fa3c7ab9448",
       "part-of-speech": "noun",
-      "english": "money; taka (currency)",
+      "english": "money; taka",
       "bengali": "টাকা",
       "cefr": "A1",
       "ipa": "[ˈʈaka]",
       "countability": "mass",
+      "context": "currency",
       "register": [
         "All"
       ]
@@ -2079,10 +2081,11 @@
     {
       "id": "087b5a62-700c-4ee8-9308-143fdb770acd",
       "part-of-speech": "noun",
-      "english": "lungi (men's wrap)",
+      "english": "lungi",
       "bengali": "লুঙ্গি",
       "cefr": "A2",
       "ipa": "[ˈluŋi]",
+      "context": "men's wrap",
       "register": [
         "All"
       ]
@@ -2224,11 +2227,12 @@
     {
       "id": "63448d2e-9e6e-400b-9651-99385287b514",
       "part-of-speech": "noun",
-      "english": "Bengali (language)",
+      "english": "Bengali",
       "bengali": "বাংলা",
       "cefr": "A1",
       "ipa": "[ˈbaŋla]",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2236,11 +2240,12 @@
     {
       "id": "b4e20f30-68e9-4df7-9ddd-2e3894dfc60f",
       "part-of-speech": "noun",
-      "english": "English (language)",
+      "english": "English",
       "bengali": "ইংরেজি",
       "cefr": "A1",
       "ipa": "[ˈiŋredʒi]",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2735,7 +2740,9 @@
       "ipa": "[t̪ui̯]",
       "context": "with close friends and small children",
       "register": [
-        "All"
+        "ঘরোয়া",
+        "অপভাষা",
+        "অশ্লীল"
       ]
     },
     {
@@ -2758,7 +2765,9 @@
       "cefr": "A2",
       "ipa": "[ˈt̪ini]",
       "register": [
-        "All"
+        "সাধু",
+        "আনুষ্ঠানিক",
+        "চলিত"
       ]
     },
     {
@@ -2930,11 +2939,11 @@
     {
       "id": "8743ad85-ef25-4c06-8a9a-3c4cde4cb629",
       "part-of-speech": "verb",
-      "english": "to stay, live; to be (somewhere)",
+      "english": "to stay, live; to be",
       "bengali": "থাকা",
       "cefr": "A1",
       "ipa": "[ˈt̪ʰaka]",
-      "context": "আমি ঢাকায় থাকি: I live in Dhaka",
+      "context": "আমি ঢাকায় থাকি: I live in Dhaka; somewhere",
       "register": [
         "All"
       ]
@@ -3423,10 +3432,11 @@
     {
       "id": "59a3ace8-14e9-450b-b140-2aa33168d275",
       "part-of-speech": "verb",
-      "english": "to call (on the phone)",
+      "english": "to call",
       "bengali": "ফোন করা",
       "cefr": "A1",
       "ipa": "[pʰon ˈkɔra]",
+      "context": "on the phone",
       "register": [
         "All"
       ]
@@ -3906,7 +3916,9 @@
       "ipa": "[ˈkʰud̪ʱart̪o]",
       "context": "everyday: ক্ষিধে লেগেছে, I'm hungry",
       "register": [
-        "All"
+        "সাধু",
+        "আনুষ্ঠানিক",
+        "চলিত"
       ]
     },
     {
@@ -4254,10 +4266,11 @@
     {
       "id": "06e7dcb5-33d6-4f9e-a2dd-aca49881e192",
       "part-of-speech": "adjective",
-      "english": "Bengali (person, culture)",
+      "english": "Bengali",
       "bengali": "বাঙালি",
       "cefr": "A1",
       "ipa": "[ˈbaŋali]",
+      "context": "person, culture",
       "register": [
         "All"
       ]
@@ -4810,7 +4823,9 @@
       "ipa": "[ˈebɔŋ]",
       "context": "more formal; in speech usually আর",
       "register": [
-        "All"
+        "সাধু",
+        "আনুষ্ঠানিক",
+        "চলিত"
       ]
     },
     {

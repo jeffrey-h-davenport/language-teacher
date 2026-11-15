@@ -648,10 +648,11 @@
     {
       "id": "5c104303-7d36-45ed-9a70-4d6316f87847",
       "part-of-speech": "pronoun",
-      "english": "I (plain)",
+      "english": "I",
       "korean": "나",
       "cefr": "A1",
       "ipa": "/na/",
+      "context": "plain",
       "register": [
         "All"
       ]
@@ -664,7 +665,10 @@
       "cefr": "A1",
       "ipa": "/nʌ/",
       "register": [
-        "All"
+        "예사말",
+        "구어",
+        "속어",
+        "비속어"
       ]
     },
     {
@@ -675,7 +679,8 @@
       "cefr": "A1",
       "ipa": "/taŋsin/",
       "register": [
-        "All"
+        "문어",
+        "예사말"
       ]
     },
     {
@@ -1346,7 +1351,9 @@
       "cefr": "A1",
       "ipa": "/tɕwesoŋhamnita/",
       "register": [
-        "All"
+        "문어",
+        "높임말",
+        "예사말"
       ]
     },
     {
@@ -1357,7 +1364,10 @@
       "cefr": "A1",
       "ipa": "/mianhɛ/",
       "register": [
-        "All"
+        "예사말",
+        "구어",
+        "속어",
+        "비속어"
       ]
     },
     {
@@ -2529,10 +2539,11 @@
     {
       "id": "590caa0a-f514-48c0-894f-2f0072438bc6",
       "part-of-speech": "adjective",
-      "english": "old (of things)",
+      "english": "old",
       "korean": "오래되다",
       "cefr": "A1",
       "ipa": "/olɛtweta/",
+      "context": "of things",
       "register": [
         "All"
       ]
@@ -2776,7 +2787,8 @@
       "cefr": "A1",
       "ipa": "/kɯlʌna/",
       "register": [
-        "All"
+        "문어",
+        "예사말"
       ]
     },
     {

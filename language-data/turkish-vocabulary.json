@@ -21,10 +21,11 @@
     {
       "id": "36928a32-7ce3-4683-9ce8-7175ef456f87",
       "part-of-speech": "pronoun",
-      "english": "you (singular, informal)",
+      "english": "you (singular)",
       "turkish": "sen",
       "cefr": "A1",
       "ipa": "/sen/",
+      "context": "singular, informal",
       "register": [
         "All"
       ]
@@ -54,10 +55,11 @@
     {
       "id": "89c23611-aa36-49f6-b8a3-aacf06e5cbb1",
       "part-of-speech": "pronoun",
-      "english": "you (plural, or formal singular)",
+      "english": "you (plural)",
       "turkish": "siz",
       "cefr": "A1",
       "ipa": "/siz/",
+      "context": "plural, or formal singular",
       "register": [
         "All"
       ]
@@ -1792,10 +1794,11 @@
     {
       "id": "27951698-d3f0-4f18-b2c2-88bac1a1b444",
       "part-of-speech": "adjective",
-      "english": "open; light (color)",
+      "english": "open; light",
       "turkish": "açık",
       "cefr": "A1",
       "ipa": "/atʃɯk/",
+      "context": "color",
       "register": [
         "All"
       ]
@@ -1924,10 +1927,11 @@
     {
       "id": "08e0bd86-2ccb-4e85-b1c2-eb44c0da214d",
       "part-of-speech": "adverb",
-      "english": "most (superlative)",
+      "english": "most",
       "turkish": "en",
       "cefr": "A1",
       "ipa": "/en/",
+      "context": "superlative",
       "register": [
         "All"
       ]
@@ -2628,10 +2632,11 @@
     {
       "id": "8387fd55-203d-41e9-92a2-d7e4597aa9c0",
       "part-of-speech": "verb",
-      "english": "to spend (money)",
+      "english": "to spend",
       "turkish": "harcamak",
       "cefr": "A2",
       "ipa": "/hardʒamak/",
+      "context": "money",
       "register": [
         "All"
       ]
@@ -2705,10 +2710,11 @@
     {
       "id": "3a77a646-1d3e-4111-89c8-1eeb08196b68",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "turkish": "taşınmak",
       "cefr": "A2",
       "ipa": "/taʃɯnmak/",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -3788,10 +3794,11 @@
     {
       "id": "0e5edb32-903e-4950-9a7d-0820fe680e66",
       "part-of-speech": "adjective",
-      "english": "free (unoccupied)",
+      "english": "free",
       "turkish": "serbest",
       "cefr": "A2",
       "ipa": "/serbest/",
+      "context": "unoccupied",
       "register": [
         "All"
       ]
@@ -3898,10 +3905,11 @@
     {
       "id": "93bd172e-cf94-4779-a0cf-d27f26586863",
       "part-of-speech": "conjunction",
-      "english": "that (introduces a clause)",
+      "english": "that",
       "turkish": "ki",
       "cefr": "A2",
       "ipa": "/ki/",
+      "context": "introduces a clause",
       "register": [
         "All"
       ]

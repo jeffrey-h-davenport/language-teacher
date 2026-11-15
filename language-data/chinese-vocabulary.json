@@ -49,7 +49,9 @@
       "cefr": "A1",
       "ipa": "[nin]",
       "register": [
-        "All"
+        "书面语",
+        "敬辞",
+        "中性"
       ],
       "tone": [
         2
@@ -374,10 +376,11 @@
     {
       "id": "d6a098a8-41e2-4998-a358-d1a39845f441",
       "part-of-speech": "pronoun",
-      "english": "how many (small numbers)",
+      "english": "how many",
       "chinese": "几",
       "cefr": "A1",
       "ipa": "[tɕi]",
+      "context": "small numbers",
       "register": [
         "All"
       ],
@@ -2490,10 +2493,11 @@
     {
       "id": "8c646548-d269-4369-970f-99d7559b3d3c",
       "part-of-speech": "noun",
-      "english": "grandfather (paternal)",
+      "english": "grandfather",
       "chinese": "爷爷",
       "cefr": "A1",
       "ipa": "[jɛjɛ]",
+      "context": "paternal",
       "register": [
         "All"
       ],
@@ -2509,10 +2513,11 @@
     {
       "id": "c90b51fd-0c8a-42be-bc03-1406dd7aacee",
       "part-of-speech": "noun",
-      "english": "grandmother (paternal)",
+      "english": "grandmother",
       "chinese": "奶奶",
       "cefr": "A1",
       "ipa": "[nai̯nai̯]",
+      "context": "paternal",
       "register": [
         "All"
       ],
@@ -3037,10 +3042,11 @@
     {
       "id": "23d965e5-8ca2-418d-b40a-4849cf475ea9",
       "part-of-speech": "adverb",
-      "english": "too (excessively)",
+      "english": "too",
       "chinese": "太",
       "cefr": "A1",
       "ipa": "[tʰai̯]",
+      "context": "excessively",
       "register": [
         "All"
       ],
@@ -3334,7 +3340,9 @@
       "cefr": "A1",
       "ipa": "[tsau̯]",
       "register": [
-        "All"
+        "口语",
+        "俚语",
+        "詈语"
       ],
       "tone": [
         3
@@ -3663,10 +3671,11 @@
     {
       "id": "61aee685-e5b9-489e-8cd2-e1ce64321759",
       "part-of-speech": "preposition",
-      "english": "than (comparison)",
+      "english": "than",
       "chinese": "比",
       "cefr": "A1",
       "ipa": "[pi]",
+      "context": "comparison",
       "register": [
         "All"
       ],
@@ -3925,10 +3934,11 @@
     {
       "id": "b9fbeeb9-d54b-4007-a5e7-eca15c72fb57",
       "part-of-speech": "verb",
-      "english": "to spend (money, time)",
+      "english": "to spend",
       "chinese": "花",
       "cefr": "A2",
       "ipa": "[xwa]",
+      "context": "money, time",
       "register": [
         "All"
       ],
@@ -4168,10 +4178,11 @@
     {
       "id": "d9f03064-fedb-49b0-b67f-fa88c72d4e1a",
       "part-of-speech": "verb",
-      "english": "to visit (a place)",
+      "english": "to visit",
       "chinese": "参观",
       "cefr": "A2",
       "ipa": "[tsʰankwan]",
+      "context": "a place",
       "register": [
         "All"
       ],
@@ -4206,10 +4217,11 @@
     {
       "id": "62d01ea3-fcfc-44e5-856e-2aed25a24f6f",
       "part-of-speech": "verb",
-      "english": "to meet (each other)",
+      "english": "to meet",
       "chinese": "见面",
       "cefr": "A2",
       "ipa": "[tɕjɛnmjɛn]",
+      "context": "each other",
       "register": [
         "All"
       ],
@@ -4225,10 +4237,11 @@
     {
       "id": "130e038e-9513-4ff4-b02c-a5b2bd85cf07",
       "part-of-speech": "verb",
-      "english": "to send, to give (a gift)",
+      "english": "to send, to give",
       "chinese": "送",
       "cefr": "A2",
       "ipa": "[sʊŋ]",
+      "context": "a gift",
       "register": [
         "All"
       ],
@@ -4327,10 +4340,11 @@
     {
       "id": "71fd8995-e23c-4963-abf7-fca4668d6bf9",
       "part-of-speech": "verb",
-      "english": "to take off (clothes)",
+      "english": "to take off",
       "chinese": "脱",
       "cefr": "A2",
       "ipa": "[tʰwo]",
+      "context": "clothes",
       "register": [
         "All"
       ],
@@ -6137,10 +6151,11 @@
     {
       "id": "36d66370-6a7d-41a0-9724-7e3e8de20f3b",
       "part-of-speech": "adjective",
-      "english": "free, available (of time)",
+      "english": "free, available",
       "chinese": "空",
       "cefr": "A2",
       "ipa": "[kʰʊŋ]",
+      "context": "of time",
       "register": [
         "All"
       ],

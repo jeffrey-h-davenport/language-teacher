@@ -903,13 +903,14 @@
     {
       "id": "85868af9-0148-47a9-a887-b2cb7b40aec8",
       "part-of-speech": "noun",
-      "english": "vacation (school, university)",
+      "english": "vacation (school)",
       "russian": "каникулы",
       "gender": "feminine",
       "plural": "каникулы",
       "cefr": "A2",
       "ipa": "[kɐˈnʲikʊɫɨ]",
       "countability": "plural-only",
+      "context": "school, university",
       "register": [
         "All"
       ]
@@ -1428,12 +1429,13 @@
     {
       "id": "9cfe7961-c47a-4d77-8a06-0e040bc96ff0",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "russian": "апельсин",
       "gender": "masculine",
       "plural": "апельсины",
       "cefr": "A1",
       "ipa": "[ɐpʲɪlʲˈsʲin]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -3418,11 +3420,11 @@
     {
       "id": "b252cb1c-9678-4ff1-a203-6db50552b1ee",
       "part-of-speech": "verb",
-      "english": "to be pleasing (to like)",
+      "english": "to be pleasing",
       "russian": "нравиться",
       "cefr": "A1",
       "ipa": "[ˈnravʲɪtsə]",
-      "context": "мне нравится чай: I like tea",
+      "context": "мне нравится чай: I like tea; to like",
       "register": [
         "All"
       ]
@@ -3683,10 +3685,11 @@
     {
       "id": "9bb34f6e-be7d-44a1-9caf-b971c64d6ec7",
       "part-of-speech": "verb",
-      "english": "to lie (be lying)",
+      "english": "to lie",
       "russian": "лежать",
       "cefr": "A1",
       "ipa": "[lʲɪˈʐatʲ]",
+      "context": "be lying",
       "register": [
         "All"
       ]
@@ -4188,10 +4191,11 @@
     {
       "id": "fd15615e-2703-4085-a462-fbafb373dac7",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "russian": "переезжать",
       "cefr": "A2",
       "ipa": "[pʲɪrʲɪjɪˈʐːatʲ]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -4342,10 +4346,11 @@
     {
       "id": "90c7b0cc-192a-40ce-b9bd-85933c2d0987",
       "part-of-speech": "adjective",
-      "english": "hot (to the touch)",
+      "english": "hot",
       "russian": "горячий",
       "cefr": "A1",
       "ipa": "[ɡɐˈrʲatɕɪj]",
+      "context": "to the touch",
       "register": [
         "All"
       ]
@@ -4793,10 +4798,11 @@
     {
       "id": "c28f8909-bf8c-4a83-a71c-c6c969110bfa",
       "part-of-speech": "adjective",
-      "english": "blue (dark blue)",
+      "english": "blue",
       "russian": "синий",
       "cefr": "A1",
       "ipa": "[ˈsʲinʲɪj]",
+      "context": "dark blue",
       "register": [
         "All"
       ]
@@ -5304,10 +5310,11 @@
     {
       "id": "e6ed7591-e0a9-4ce5-9d20-671e367e3a2b",
       "part-of-speech": "adverb",
-      "english": "too (much)",
+      "english": "too",
       "russian": "слишком",
       "cefr": "A2",
       "ipa": "[ˈslʲiʂkəm]",
+      "context": "much",
       "register": [
         "All"
       ]
@@ -5470,11 +5477,11 @@
     {
       "id": "62898149-9586-4fb8-8201-af3926fb9e87",
       "part-of-speech": "adverb",
-      "english": "it is necessary (to need to)",
+      "english": "it is necessary",
       "russian": "нужно",
       "cefr": "A1",
       "ipa": "[ˈnuʐnə]",
-      "context": "мне нужно идти: I need to go",
+      "context": "мне нужно идти: I need to go; to need to",
       "register": [
         "All"
       ]
@@ -5549,10 +5556,11 @@
     {
       "id": "b0d31bfe-1af9-4672-9c51-12d97f0064cc",
       "part-of-speech": "pronoun",
-      "english": "it (neuter)",
+      "english": "it",
       "russian": "оно",
       "cefr": "A1",
       "ipa": "[ɐˈno]",
+      "context": "neuter",
       "register": [
         "All"
       ]
@@ -5571,11 +5579,11 @@
     {
       "id": "9f5fe962-60b0-4001-96a9-1d2e2b09f654",
       "part-of-speech": "pronoun",
-      "english": "you (plural or formal)",
+      "english": "you",
       "russian": "вы",
       "cefr": "A1",
       "ipa": "[vɨ]",
-      "context": "written Вы when addressing one person politely in letters",
+      "context": "written Вы when addressing one person politely in letters; plural or formal",
       "register": [
         "All"
       ]
@@ -5653,11 +5661,11 @@
     {
       "id": "d4c8f56a-fbbd-4b2d-904f-ef7a3c829f01",
       "part-of-speech": "pronoun",
-      "english": "your (plural or formal)",
+      "english": "your",
       "russian": "ваш",
       "cefr": "A1",
       "ipa": "[vaʂ]",
-      "context": "ваша (f), ваше (n), ваши (pl)",
+      "context": "ваша (f), ваше (n), ваши (pl); plural or formal",
       "register": [
         "All"
       ]
@@ -5734,10 +5742,11 @@
     {
       "id": "90f6cfde-c1a1-4c67-ba5e-3340ade1fdfe",
       "part-of-speech": "pronoun",
-      "english": "which, who (relative)",
+      "english": "which, who",
       "russian": "который",
       "cefr": "A2",
       "ipa": "[kɐˈtorɨj]",
+      "context": "relative",
       "register": [
         "All"
       ]
@@ -5932,11 +5941,11 @@
     {
       "id": "52bcc0c2-1391-498f-bb13-f3fd90a02ce9",
       "part-of-speech": "preposition",
-      "english": "at, by; (to have)",
+      "english": "at, by",
       "russian": "у",
       "cefr": "A1",
       "ipa": "[u]",
-      "context": "+ genitive; у меня есть …: I have …",
+      "context": "+ genitive; у меня есть …: I have …; to have",
       "register": [
         "All"
       ]
@@ -6004,11 +6013,11 @@
     {
       "id": "fc3cc901-81cc-4112-ba93-c29349025e95",
       "part-of-speech": "preposition",
-      "english": "through; in (time)",
+      "english": "through; in",
       "russian": "через",
       "cefr": "A2",
       "ipa": "[ˈtɕerʲɪs]",
-      "context": "+ accusative; через час: in an hour",
+      "context": "+ accusative; через час: in an hour; time",
       "register": [
         "All"
       ]
@@ -6097,11 +6106,11 @@
     {
       "id": "667c457c-98cf-498e-8c14-3aa284818c29",
       "part-of-speech": "conjunction",
-      "english": "and, but (contrasting)",
+      "english": "and, but",
       "russian": "а",
       "cefr": "A1",
       "ipa": "[a]",
-      "context": "я врач, а он учитель: I'm a doctor, and he's a teacher",
+      "context": "я врач, а он учитель: I'm a doctor, and he's a teacher; contrasting",
       "register": [
         "All"
       ]
@@ -6191,7 +6200,11 @@
       "cefr": "A2",
       "ipa": "[pɐˈka]",
       "register": [
-        "All"
+        "нейтральное",
+        "разговорное",
+        "просторечное",
+        "жаргонное",
+        "грубое"
       ]
     },
     {
@@ -6225,7 +6238,11 @@
       "cefr": "A1",
       "ipa": "[prʲɪˈvʲet]",
       "register": [
-        "All"
+        "нейтральное",
+        "разговорное",
+        "просторечное",
+        "жаргонное",
+        "грубое"
       ]
     },
     {
@@ -6303,7 +6320,11 @@
       "cefr": "A1",
       "ipa": "[pɐˈka]",
       "register": [
-        "All"
+        "нейтральное",
+        "разговорное",
+        "просторечное",
+        "жаргонное",
+        "грубое"
       ]
     },
     {
@@ -6370,7 +6391,11 @@
       "cefr": "A2",
       "ipa": "[ˈɫadnə]",
       "register": [
-        "All"
+        "нейтральное",
+        "разговорное",
+        "просторечное",
+        "жаргонное",
+        "грубое"
       ]
     },
     {
@@ -6382,7 +6407,11 @@
       "ipa": "[dɐˈvaj]",
       "context": "formal or plural: давайте",
       "register": [
-        "All"
+        "нейтральное",
+        "разговорное",
+        "просторечное",
+        "жаргонное",
+        "грубое"
       ]
     },
     {

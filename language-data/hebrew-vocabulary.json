@@ -1178,12 +1178,13 @@
     {
       "id": "90003e01-d780-4f4a-b914-8b008ecaff50",
       "part-of-speech": "noun",
-      "english": "chicken (meat)",
+      "english": "chicken",
       "hebrew": "עוף",
       "gender": "masculine",
       "cefr": "A1",
       "ipa": "[of]",
       "countability": "mass",
+      "context": "meat",
       "register": [
         "All"
       ]
@@ -2752,12 +2753,13 @@
     {
       "id": "2ebf4845-32a9-49de-b091-3fe6cf51b669",
       "part-of-speech": "noun",
-      "english": "Hebrew (language)",
+      "english": "Hebrew",
       "hebrew": "עברית",
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "[ivˈʁit]",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2765,12 +2767,13 @@
     {
       "id": "d6853043-a8ae-484d-a3c5-7d0168ac27b8",
       "part-of-speech": "noun",
-      "english": "English (language)",
+      "english": "English",
       "hebrew": "אנגלית",
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "[anɡˈlit]",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -3878,11 +3881,11 @@
     {
       "id": "7b6b84b6-3b7a-4b33-b606-db257ea86796",
       "part-of-speech": "verb",
-      "english": "to live (reside)",
+      "english": "to live",
       "hebrew": "לגור",
       "cefr": "A1",
       "ipa": "[laˈɡuʁ]",
-      "context": "root ג-ו-ר; present: גר",
+      "context": "root ג-ו-ר; present: גר; reside",
       "register": [
         "All"
       ]
@@ -4046,11 +4049,11 @@
     {
       "id": "21f50925-90be-45f6-a076-c4eb83dbe3d8",
       "part-of-speech": "verb",
-      "english": "to travel, go (by vehicle)",
+      "english": "to travel, go",
       "hebrew": "לנסוע",
       "cefr": "A1",
       "ipa": "[linˈsoa]",
-      "context": "root נ-ס-ע",
+      "context": "root נ-ס-ע; by vehicle",
       "register": [
         "All"
       ]
@@ -4274,11 +4277,11 @@
     {
       "id": "6edae425-8ca6-42ce-8c81-774ef267c0b0",
       "part-of-speech": "verb",
-      "english": "to call (on the phone)",
+      "english": "to call",
       "hebrew": "להתקשר",
       "cefr": "A1",
       "ipa": "[lehitkaˈʃeʁ]",
-      "context": "root ק-ש-ר",
+      "context": "root ק-ש-ר; on the phone",
       "register": [
         "All"
       ]
@@ -5851,10 +5854,11 @@
     {
       "id": "57ac8dea-a490-46f6-8246-d71a4a345466",
       "part-of-speech": "adverb",
-      "english": "home (homewards)",
+      "english": "home",
       "hebrew": "הביתה",
       "cefr": "A2",
       "ipa": "[haˈbajta]",
+      "context": "homewards",
       "register": [
         "All"
       ]
@@ -6008,11 +6012,11 @@
     {
       "id": "eeb42dbe-a4e5-4028-adfb-9598b994ee62",
       "part-of-speech": "preposition",
-      "english": "at (someone's place)",
+      "english": "at",
       "hebrew": "אצל",
       "cefr": "A2",
       "ipa": "[ˈetsel]",
-      "context": "אצל אמא: at Mom's",
+      "context": "אצל אמא: at Mom's; someone's place",
       "register": [
         "All"
       ]
@@ -6087,11 +6091,11 @@
     {
       "id": "319ae5b1-4423-4537-a8ee-9f8d9c1a3a59",
       "part-of-speech": "preposition",
-      "english": "of (belonging to)",
+      "english": "of",
       "hebrew": "של",
       "cefr": "A1",
       "ipa": "[ʃel]",
-      "context": "הספר של דני: Danny's book",
+      "context": "הספר של דני: Danny's book; belonging to",
       "register": [
         "All"
       ]
@@ -6329,7 +6333,9 @@
       "ipa": "[ma niʃˈma]",
       "context": "literally \"what is heard?\"",
       "register": [
-        "All"
+        "דיבורי",
+        "סלנג",
+        "גס"
       ]
     },
     {
@@ -6352,7 +6358,9 @@
       "ipa": "[ˈjofi]",
       "context": "literally \"beauty\"",
       "register": [
-        "All"
+        "דיבורי",
+        "סלנג",
+        "גס"
       ]
     },
     {

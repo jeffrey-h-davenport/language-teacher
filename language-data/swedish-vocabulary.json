@@ -42,10 +42,11 @@
     {
       "id": "eb442ba8-6f6f-4a0f-9540-a07e4397d84d",
       "part-of-speech": "adverb",
-      "english": "too (to an excessive degree)",
+      "english": "too",
       "swedish": "för",
       "cefr": "A1",
       "ipa": "/føːr/",
+      "context": "to an excessive degree",
       "register": [
         "All"
       ]
@@ -183,10 +184,11 @@
     {
       "id": "f57a7300-d22f-456f-a5fe-b3f344a49fed",
       "part-of-speech": "verb",
-      "english": "will, be going to, (except not formal in tone, but a literal match for meaning) shall, is to; (in the past tense \"skulle\") were to; was to (Usually not sensible translations, but will provide the right intuition in some tricky cases – see below.)",
+      "english": "will, be going to, shall, is to; were to; was to",
       "swedish": "ska",
       "cefr": "A1",
       "ipa": "/skɑː/",
+      "context": "except not formal in tone, but a literal match for meaning; in the past tense \"skulle\"; was to: Usually not sensible translations, but will provide the right intuition in some tricky cases – see below.",
       "register": [
         "All"
       ]
@@ -216,10 +218,11 @@
     {
       "id": "06ffc88b-3a30-4838-a41a-16c804174439",
       "part-of-speech": "adjective",
-      "english": "lost (not knowing place or directions)",
+      "english": "lost",
       "swedish": "vill",
       "cefr": "A1",
       "ipa": "/vɪl/",
+      "context": "not knowing place or directions",
       "register": [
         "All"
       ]
@@ -238,10 +241,11 @@
     {
       "id": "e518d87d-1205-4155-b322-48f6d228b7a7",
       "part-of-speech": "adverb",
-      "english": "now (at this moment)",
+      "english": "now",
       "swedish": "nu",
       "cefr": "A1",
       "ipa": "/nʉː/",
+      "context": "at this moment",
       "register": [
         "All"
       ]
@@ -360,10 +364,11 @@
     {
       "id": "50ee6c56-549f-4583-a6fb-6a6b0449d104",
       "part-of-speech": "interjection",
-      "english": "ha! (same as the English)",
+      "english": "ha!",
       "swedish": "ha",
       "cefr": "A1",
       "ipa": "/hɑː/",
+      "context": "same as the English",
       "register": [
         "All"
       ]
@@ -371,10 +376,11 @@
     {
       "id": "3f106e9c-0e74-47ad-aa87-ba1587cdf219",
       "part-of-speech": "adjective",
-      "english": "good (having pleasing or suitable qualities)",
+      "english": "good",
       "swedish": "bra",
       "cefr": "A1",
       "ipa": "/brɑː/",
+      "context": "having pleasing or suitable qualities",
       "register": [
         "All"
       ]
@@ -393,11 +399,12 @@
     {
       "id": "3ffd32dd-fe9a-4a45-8689-a61f9fdc0ebe",
       "part-of-speech": "noun",
-      "english": "a sheep (animal)",
+      "english": "a sheep",
       "swedish": "får",
       "cefr": "A1",
       "gender": "neuter",
       "ipa": "/foːr/",
+      "context": "animal",
       "register": [
         "All"
       ]
@@ -405,11 +412,12 @@
     {
       "id": "c5bf8d99-9d02-43b3-9eb3-48f0c3e825fd",
       "part-of-speech": "noun",
-      "english": "a man (adult male human)",
+      "english": "a man",
       "swedish": "man",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/ˈmɑːn/",
+      "context": "adult male human",
       "register": [
         "All"
       ]
@@ -428,10 +436,11 @@
     {
       "id": "17d5db2d-94da-4031-8291-158e1aa3cb57",
       "part-of-speech": "adverb",
-      "english": "out (to out)",
+      "english": "out",
       "swedish": "ut",
       "cefr": "A1",
       "ipa": "/ʉːt/",
+      "context": "to out",
       "register": [
         "All"
       ]
@@ -461,10 +470,11 @@
     {
       "id": "c5af75cb-33ca-4577-8789-e80e0590c57d",
       "part-of-speech": "verb",
-      "english": "to do (be occupied with an activity)",
+      "english": "to do",
       "swedish": "göra",
       "cefr": "A1",
       "ipa": "/²jøːra/",
+      "context": "be occupied with an activity",
       "register": [
         "All"
       ]
@@ -477,7 +487,10 @@
       "cefr": "A1",
       "ipa": "/ɔˈkɛj/",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -488,7 +501,10 @@
       "cefr": "A1",
       "ipa": "/ɔˈkɛj/",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -499,16 +515,20 @@
       "cefr": "A1",
       "ipa": "/ɔˈkɛj/",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "d1147e8f-cff3-417f-8df2-178f092e2e2d",
       "part-of-speech": "adverb",
-      "english": "why (for what reason)",
+      "english": "why",
       "swedish": "varför",
       "cefr": "A1",
       "ipa": "/¹varfœr/",
+      "context": "for what reason",
       "register": [
         "All"
       ]
@@ -527,10 +547,11 @@
     {
       "id": "e93d62c5-5ac1-409f-9178-1fa1cff2318f",
       "part-of-speech": "adverb",
-      "english": "up (similar senses to English, though compare uppe)",
+      "english": "up (similar senses to English)",
       "swedish": "upp",
       "cefr": "A1",
       "ipa": "/ɵp/",
+      "context": "similar senses to English, though compare uppe",
       "register": [
         "All"
       ]
@@ -616,10 +637,11 @@
     {
       "id": "914802f4-a092-4adc-9e0f-6a523b64d755",
       "part-of-speech": "verb",
-      "english": "to see (not be blind)",
+      "english": "to see",
       "swedish": "se",
       "cefr": "A1",
       "ipa": "/seː/",
+      "context": "not be blind",
       "register": [
         "All"
       ]
@@ -767,10 +789,11 @@
     {
       "id": "68de6c95-ce10-42b0-9b3e-7093cb09a120",
       "part-of-speech": "verb",
-      "english": "to wash (one's hands)",
+      "english": "to wash",
       "swedish": "två",
       "cefr": "A1",
       "ipa": "/tvoː/",
+      "context": "one's hands",
       "register": [
         "All"
       ]
@@ -778,10 +801,11 @@
     {
       "id": "8cf29490-ac09-43b2-b740-fe116fe3c661",
       "part-of-speech": "adverb",
-      "english": "back, in return; (to a previous condition or place)",
+      "english": "back, in return",
       "swedish": "tillbaka",
       "cefr": "A1",
       "ipa": "/tɪlˈbɑːka/",
+      "context": "to a previous condition or place",
       "register": [
         "All"
       ]
@@ -862,18 +886,21 @@
       "ipa": "/faːn/",
       "countability": "mass",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "0b8d1e90-b255-45a3-9b6d-9c7d03b90bf4",
       "part-of-speech": "adverb",
-      "english": "A (positive or negative) intensifier.",
+      "english": "A intensifier.",
       "swedish": "fan",
       "cefr": "A1",
       "ipa": "/faːn/",
+      "context": "positive or negative",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -884,18 +911,20 @@
       "cefr": "A1",
       "ipa": "/faːn/",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "23c2843d-37bc-43f2-bc90-656c897138b7",
       "part-of-speech": "noun",
-      "english": "a year (time period)",
+      "english": "a year",
       "swedish": "år",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "år",
       "ipa": "/ˈoːr/",
+      "context": "time period",
       "register": [
         "All"
       ]
@@ -949,12 +978,13 @@
     {
       "id": "88ca72c4-52cb-44a0-97c1-567369e5917c",
       "part-of-speech": "noun",
-      "english": "A point where two or more objects meet (e.g. the joint of two bones).",
+      "english": "A point where two or more objects meet.",
       "swedish": "mot",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "mot",
       "ipa": "/muːt/",
+      "context": "e.g. the joint of two bones",
       "register": [
         "All"
       ]
@@ -1051,11 +1081,12 @@
     {
       "id": "d6464a9e-23fb-4891-8fb1-dbc27bcefeb7",
       "part-of-speech": "noun",
-      "english": "a saw (tool with a toothed blade used for cutting hard substances, in particular wood or metal)",
+      "english": "a saw",
       "swedish": "såg",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/soːɡ/",
+      "context": "tool with a toothed blade used for cutting hard substances, in particular wood or metal",
       "register": [
         "All"
       ]
@@ -1063,12 +1094,13 @@
     {
       "id": "d7f9174c-24e3-4117-9c45-f23fe5a77915",
       "part-of-speech": "noun",
-      "english": "a hit (popular song, or some other popular or successful thing)",
+      "english": "a hit",
       "swedish": "hit",
       "cefr": "A1",
       "gender": "common",
       "plural": "hits",
       "ipa": "/hiːt/",
+      "context": "popular song, or some other popular or successful thing",
       "register": [
         "All"
       ]
@@ -1076,10 +1108,11 @@
     {
       "id": "9e65dcb2-3720-41b4-b3dc-493b0deec069",
       "part-of-speech": "adverb",
-      "english": "to here, hither, (often in practice, in translations) here",
+      "english": "to here, hither, here",
       "swedish": "hit",
       "cefr": "A1",
       "ipa": "/hiːt/",
+      "context": "often in practice, in translations",
       "register": [
         "All"
       ]
@@ -1087,10 +1120,11 @@
     {
       "id": "a47e214d-51fd-4109-a81c-6ae487550933",
       "part-of-speech": "verb",
-      "english": "to talk, to speak (informally)",
+      "english": "to talk, to speak",
       "swedish": "prata",
       "cefr": "A1",
       "ipa": "/ˈprɑːˌta/",
+      "context": "informally",
       "register": [
         "All"
       ]
@@ -1098,12 +1132,13 @@
     {
       "id": "a4bc9123-9fcf-4f6d-a2ea-42a60aadd5fc",
       "part-of-speech": "noun",
-      "english": "a comma (punctuation mark)",
+      "english": "a comma",
       "swedish": "komma",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "komman",
       "ipa": "/²kɔma/",
+      "context": "punctuation mark",
       "register": [
         "All"
       ]
@@ -1111,10 +1146,11 @@
     {
       "id": "ce7fc2dc-b517-4831-83a4-0e42ea7da1f1",
       "part-of-speech": "verb",
-      "english": "to come (to move nearer)",
+      "english": "to come",
       "swedish": "komma",
       "cefr": "A1",
       "ipa": "/²kɔma/",
+      "context": "to move nearer",
       "register": [
         "All"
       ]
@@ -1134,11 +1170,12 @@
     {
       "id": "8b1ab3cc-6298-433a-b7ad-6502b7ccb7a7",
       "part-of-speech": "noun",
-      "english": "a self, (one's own) personality (the essential qualities that make a person or a thing distinct from all others)",
+      "english": "a self, personality",
       "swedish": "själv",
       "cefr": "A1",
       "gender": "neuter",
       "ipa": "/ˈɧɛlːv/",
+      "context": "one's own; (one's own) personality: the essential qualities that make a person or a thing distinct from all others",
       "register": [
         "All"
       ]
@@ -1179,13 +1216,14 @@
     {
       "id": "81d4fe2b-0615-4c36-8faa-88802b176a3f",
       "part-of-speech": "noun",
-      "english": "wrong (incorrectness or moral wrongness), (sometimes, by rephrasing) a mistake",
+      "english": "wrong, a mistake",
       "swedish": "fel",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "fel",
       "ipa": "/feːl/",
       "countability": "mass",
+      "context": "wrong: incorrectness or moral wrongness; sometimes, by rephrasing",
       "register": [
         "All"
       ]
@@ -1228,10 +1266,11 @@
     {
       "id": "e0849d2b-4383-41d3-a851-3a3a24494084",
       "part-of-speech": "adverb",
-      "english": "home (to one's home)",
+      "english": "home",
       "swedish": "hem",
       "cefr": "A1",
       "ipa": "/hɛm/",
+      "context": "to one's home",
       "register": [
         "All"
       ]
@@ -1251,12 +1290,13 @@
     {
       "id": "72ccab9a-bd04-4df6-8574-47bb64553ff5",
       "part-of-speech": "noun",
-      "english": "a life (time alive)",
+      "english": "a life",
       "swedish": "liv",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "liv",
       "ipa": "/liːv/",
+      "context": "time alive",
       "register": [
         "All"
       ]
@@ -1275,9 +1315,10 @@
     {
       "id": "dcb2b81b-1650-4b44-9a20-db76234218a4",
       "part-of-speech": "adverb",
-      "english": "with certainty, certainly (often after someone has expressed doubt)",
+      "english": "with certainty, certainly",
       "swedish": "visst",
       "cefr": "A1",
+      "context": "often after someone has expressed doubt",
       "register": [
         "All"
       ]
@@ -1309,12 +1350,13 @@
     {
       "id": "14c0e5db-61c5-4a17-97ad-850336d1168d",
       "part-of-speech": "noun",
-      "english": "a manner (characteristic way of behaving)",
+      "english": "a manner",
       "swedish": "sätt",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "sätt",
       "ipa": "/sɛt/",
+      "context": "characteristic way of behaving",
       "register": [
         "All"
       ]
@@ -1322,9 +1364,10 @@
     {
       "id": "fef62723-592e-4e2c-bae2-4734f92bf37d",
       "part-of-speech": "verb",
-      "english": "to tell (convey – a story, account, information, etc.)",
+      "english": "to tell",
       "swedish": "berätta",
       "cefr": "A1",
+      "context": "convey – a story, account, information, etc.",
       "register": [
         "All"
       ]
@@ -1343,10 +1386,11 @@
     {
       "id": "6daf7feb-a40a-4b33-b69b-e9692e3345d0",
       "part-of-speech": "verb",
-      "english": "to know; to be certain about, to have knowledge or (correct) information about",
+      "english": "to know; to be certain about, to have knowledge or information about",
       "swedish": "veta",
       "cefr": "A1",
       "ipa": "/²veːta/",
+      "context": "correct",
       "register": [
         "All"
       ]
@@ -1368,10 +1412,11 @@
     {
       "id": "797bd583-2af4-4433-8ecc-6a3953d9a47e",
       "part-of-speech": "verb",
-      "english": "to stop (come to an end), to end (come to an end)",
+      "english": "to stop, to end",
       "swedish": "sluta",
       "cefr": "A1",
       "ipa": "/²slʉːta/",
+      "context": "to stop: come to an end; to end: come to an end",
       "register": [
         "All"
       ]
@@ -1434,12 +1479,13 @@
     {
       "id": "c80c8461-de97-44c2-b125-9c99a72ce5b0",
       "part-of-speech": "noun",
-      "english": "a child (person who has not reached adulthood)",
+      "english": "a child",
       "swedish": "barn",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "barn",
       "ipa": "/bɑːrn/",
+      "context": "person who has not reached adulthood",
       "register": [
         "All"
       ]
@@ -1471,12 +1517,13 @@
     {
       "id": "5117f2a1-394e-4b7b-b0ac-4e16daeb21a6",
       "part-of-speech": "noun",
-      "english": "a veil, a curtain (often in religious contexts)",
+      "english": "a veil, a curtain",
       "swedish": "förlåt",
       "cefr": "A1",
       "gender": "common",
       "plural": "förlåter",
       "ipa": "[ˌfœ̞ˈɭoːt]",
+      "context": "often in religious contexts",
       "register": [
         "All"
       ]
@@ -1484,10 +1531,11 @@
     {
       "id": "7e238c6a-15b0-474a-8be6-8d61fb84e496",
       "part-of-speech": "interjection",
-      "english": "I'm sorry (when apologizing for having acted in a (morally) bad way)",
+      "english": "I'm sorry",
       "swedish": "förlåt",
       "cefr": "A1",
       "ipa": "[ˌfœ̞ˈɭoːt]",
+      "context": "when apologizing for having acted in a (morally) bad way",
       "register": [
         "All"
       ]
@@ -1519,12 +1567,13 @@
     {
       "id": "8350e0e1-5f70-44e7-ab53-ba3a4b064f14",
       "part-of-speech": "noun",
-      "english": "a helpful (person or thing)",
+      "english": "a helpful",
       "swedish": "hjälp",
       "cefr": "A1",
       "gender": "common",
       "ipa": "[jɛlp]",
       "countability": "mass",
+      "context": "person or thing",
       "register": [
         "All"
       ]
@@ -1532,10 +1581,11 @@
     {
       "id": "b5310a76-f39b-4baa-a1cb-79b10a797ff8",
       "part-of-speech": "interjection",
-      "english": "help! (cry of distress)",
+      "english": "help!",
       "swedish": "hjälp",
       "cefr": "A1",
       "ipa": "/jɛlp/",
+      "context": "cry of distress",
       "register": [
         "All"
       ]
@@ -1543,10 +1593,11 @@
     {
       "id": "c38e22de-246f-4966-8c5f-f839b1c61ce0",
       "part-of-speech": "adverb",
-      "english": "just (quite recently, only moments ago)",
+      "english": "just",
       "swedish": "just",
       "cefr": "A1",
       "ipa": "/jɵst/",
+      "context": "quite recently, only moments ago",
       "register": [
         "All"
       ]
@@ -1624,10 +1675,11 @@
     {
       "id": "a87ea019-9a54-4211-9ee2-e1f91c5b9823",
       "part-of-speech": "adverb",
-      "english": "please (when pleading)",
+      "english": "please",
       "swedish": "snälla",
       "cefr": "A1",
       "ipa": "/ˈsnɛlːˌa/",
+      "context": "when pleading",
       "register": [
         "All"
       ]
@@ -1635,10 +1687,11 @@
     {
       "id": "635a44f5-79b8-4802-ad19-aa172d6e3316",
       "part-of-speech": "verb",
-      "english": "to find (locate; discover)",
+      "english": "to find",
       "swedish": "hitta",
       "cefr": "A1",
       "ipa": "/ˈhɪtːˌa/",
+      "context": "locate; discover",
       "register": [
         "All"
       ]
@@ -1700,9 +1753,10 @@
     {
       "id": "ed2ea820-06f3-4a77-ac6d-75a5010f6188",
       "part-of-speech": "noun",
-      "english": "an alignment (cf. ensa, enslinje)",
+      "english": "an alignment",
       "swedish": "ens",
       "cefr": "A1",
+      "context": "cf. ensa, enslinje",
       "register": [
         "All"
       ]
@@ -1710,9 +1764,10 @@
     {
       "id": "3a15544d-d13b-4d91-bf1a-0f7c67509d2d",
       "part-of-speech": "adverb",
-      "english": "even (negatively comparatively as in not even..., did you even [bother to]...)",
+      "english": "even",
       "swedish": "ens",
       "cefr": "A1",
+      "context": "negatively comparatively as in not even..., did you even [bother to]...",
       "register": [
         "All"
       ]
@@ -1720,10 +1775,11 @@
     {
       "id": "3cbddfc7-04a9-4646-b25a-68d064df13bb",
       "part-of-speech": "verb",
-      "english": "to excuse (provide an excuse for)",
+      "english": "to excuse",
       "swedish": "ursäkta",
       "cefr": "A1",
       "ipa": "/ʉ̟ːˈʂɛkta/",
+      "context": "provide an excuse for",
       "register": [
         "All"
       ]
@@ -1788,10 +1844,11 @@
     {
       "id": "1f4c190d-5e4d-4b18-8e17-4865b919e550",
       "part-of-speech": "adverb",
-      "english": "away, gone, lost (of a thing)",
+      "english": "away, gone, lost",
       "swedish": "borta",
       "cefr": "A1",
       "ipa": "/²bɔʈːa/",
+      "context": "of a thing",
       "register": [
         "All"
       ]
@@ -1799,10 +1856,11 @@
     {
       "id": "67441d1e-e488-4103-991d-5dc4c6041c72",
       "part-of-speech": "interjection",
-      "english": "hello (greeting)",
+      "english": "hello",
       "swedish": "hallå",
       "cefr": "A1",
       "ipa": "/haˈloː/",
+      "context": "greeting",
       "register": [
         "All"
       ]
@@ -1871,12 +1929,13 @@
     {
       "id": "05825f2e-441f-4855-bacd-01aa7449d7c1",
       "part-of-speech": "noun",
-      "english": "a thing (concrete or abstract – also of events, like in English)",
+      "english": "a thing (concrete or abstract – also of events)",
       "swedish": "sak",
       "cefr": "A1",
       "gender": "common",
       "plural": "saker",
       "ipa": "/sɑːk/",
+      "context": "concrete or abstract – also of events, like in English",
       "register": [
         "All"
       ]
@@ -1941,24 +2000,27 @@
     {
       "id": "fb6ac799-c824-4e93-95e4-5187ec46cd69",
       "part-of-speech": "adjective",
-      "english": "damn, goddamn, bloody, fucking (generic intensifier)",
+      "english": "damn, goddamn, bloody, fucking",
       "swedish": "jävla",
       "cefr": "A1",
       "ipa": "/ˈjɛːvˌla/",
+      "context": "generic intensifier",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "3f3cc712-981e-4f01-9b7a-d4e6cb04bb93",
       "part-of-speech": "noun",
-      "english": "Hell (place where sinners go after death according to some religions)",
+      "english": "Hell",
       "swedish": "helvete",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "helveten",
       "ipa": "/ˈhɛlˌvɛtɛ/",
       "countability": "mass",
+      "context": "place where sinners go after death according to some religions",
       "register": [
         "All"
       ]
@@ -1977,10 +2039,11 @@
     {
       "id": "6fa00bd4-9c55-4900-a5bb-588f897210e4",
       "part-of-speech": "adverb",
-      "english": "very, really (to a very high degree)",
+      "english": "very, really",
       "swedish": "väldigt",
       "cefr": "A1",
       "ipa": "/²vɛlːdɪt/",
+      "context": "to a very high degree",
       "register": [
         "All"
       ]
@@ -1998,9 +2061,10 @@
     {
       "id": "b77f6e34-5b94-420e-aef7-99f8eece24b0",
       "part-of-speech": "interjection",
-      "english": "my God, good Lord (a mild expletive)",
+      "english": "my God, good Lord",
       "swedish": "herregud",
       "cefr": "A1",
+      "context": "a mild expletive",
       "register": [
         "All"
       ]
@@ -2019,9 +2083,10 @@
     {
       "id": "313f2adf-d618-49b2-bb25-d428fea08548",
       "part-of-speech": "adverb",
-      "english": "to there, thither, (often in practice, in translations) there",
+      "english": "to there, thither, there",
       "swedish": "dit",
       "cefr": "A1",
+      "context": "often in practice, in translations",
       "register": [
         "All"
       ]
@@ -2087,12 +2152,13 @@
     {
       "id": "21c97bc0-e10b-473c-8081-3752a211ba80",
       "part-of-speech": "noun",
-      "english": "a question (request for information)",
+      "english": "a question",
       "swedish": "fråga",
       "cefr": "A1",
       "gender": "common",
       "plural": "frågor",
       "ipa": "/ˈfroːˌɡa/",
+      "context": "request for information",
       "register": [
         "All"
       ]
@@ -2111,12 +2177,13 @@
     {
       "id": "26c04502-df8a-4798-bfc1-bab414482e61",
       "part-of-speech": "noun",
-      "english": "a choir (singing group)",
+      "english": "a choir",
       "swedish": "kör",
       "cefr": "A1",
       "gender": "common",
       "plural": "körer",
       "ipa": "/ɕœːr/",
+      "context": "singing group",
       "register": [
         "All"
       ]
@@ -2124,12 +2191,13 @@
     {
       "id": "1c73a0f8-0065-4eb2-8237-0f3054ca9cfc",
       "part-of-speech": "noun",
-      "english": "a name (of a person or something else)",
+      "english": "a name",
       "swedish": "namn",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "namn",
       "ipa": "/namn/",
+      "context": "of a person or something else",
       "register": [
         "All"
       ]
@@ -2137,11 +2205,12 @@
     {
       "id": "6312eb2d-5395-4d55-85a8-8fd072a8126b",
       "part-of-speech": "noun",
-      "english": "a belief (that something is true or real (without being perfectly certain))",
+      "english": "a belief",
       "swedish": "tro",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/truː/",
+      "context": "that something is true or real (without being perfectly certain)",
       "register": [
         "All"
       ]
@@ -2149,10 +2218,11 @@
     {
       "id": "73e4b0bb-5914-4239-9b79-4d29e5b6c980",
       "part-of-speech": "verb",
-      "english": "to believe, (in the sense of \"to believe\") to think (think that something is true or real (without being perfectly certain))",
+      "english": "to believe, to think",
       "swedish": "tro",
       "cefr": "A1",
       "ipa": "/truː/",
+      "context": "in the sense of \"to believe\"; (in the sense of \"to believe\") to think: think that something is true or real (without being perfectly certain)",
       "register": [
         "All"
       ]
@@ -2160,10 +2230,11 @@
     {
       "id": "4729f13f-4a77-4501-ab90-72c843c5271f",
       "part-of-speech": "interjection",
-      "english": "yes; used as a disagreement to a negative statement or a negatively phrased question (has no English equivalent, but equivalent to French si and German doch)",
+      "english": "yes; used as a disagreement to a negative statement or a negatively phrased question",
       "swedish": "jo",
       "cefr": "A1",
       "ipa": "/juː/",
+      "context": "has no English equivalent, but equivalent to French si and German doch",
       "register": [
         "All"
       ]
@@ -2264,10 +2335,11 @@
     {
       "id": "fa16372a-fd54-40a3-b554-05a4521cf1a3",
       "part-of-speech": "adverb",
-      "english": "then, after this (that), afterwards; next in order",
+      "english": "then, after this, afterwards; next in order",
       "swedish": "sedan",
       "cefr": "A1",
       "ipa": "/seːdan/",
+      "context": "that",
       "register": [
         "All"
       ]
@@ -2400,10 +2472,11 @@
     {
       "id": "8c65fe8b-6b81-4398-8f86-807c7acf33bb",
       "part-of-speech": "verb",
-      "english": "to hold (grasp or grip)",
+      "english": "to hold",
       "swedish": "hålla",
       "cefr": "A1",
       "ipa": "/²hɔla/",
+      "context": "grasp or grip",
       "register": [
         "All"
       ]
@@ -2497,12 +2570,13 @@
     {
       "id": "99e2a67b-2556-4923-a57b-94316b040873",
       "part-of-speech": "noun",
-      "english": "sex (intercourse, sexual activity)",
+      "english": "sex",
       "swedish": "sex",
       "cefr": "A1",
       "gender": "neuter",
       "ipa": "/sɛks/",
       "countability": "mass",
+      "context": "intercourse, sexual activity",
       "register": [
         "All"
       ]
@@ -2531,10 +2605,11 @@
     {
       "id": "7f1d4db6-c9af-4463-9c69-3474793933fc",
       "part-of-speech": "noun",
-      "english": "a part (of a whole); share",
+      "english": "a part; share",
       "swedish": "del",
       "cefr": "A1",
       "gender": "common",
+      "context": "of a whole",
       "register": [
         "All"
       ]
@@ -2565,10 +2640,11 @@
     {
       "id": "db83a524-5819-478c-b084-830429c773b6",
       "part-of-speech": "verb",
-      "english": "to stitch (together), to sew (quickly and loosely)",
+      "english": "to stitch, to sew",
       "swedish": "nästa",
       "cefr": "A1",
       "ipa": "/²nɛsːta/",
+      "context": "to stitch: together; to sew: quickly and loosely",
       "register": [
         "All"
       ]
@@ -2619,10 +2695,11 @@
     {
       "id": "565a3674-6d33-446f-8301-9d89b6ba20b2",
       "part-of-speech": "noun",
-      "english": "a (way of) thinking",
+      "english": "a thinking",
       "swedish": "tänk",
       "cefr": "A1",
       "gender": "neuter",
+      "context": "way of",
       "register": [
         "All"
       ]
@@ -2630,9 +2707,10 @@
     {
       "id": "4184c61c-13d2-4106-9118-ae2845dd3a84",
       "part-of-speech": "interjection",
-      "english": "Expresses (mild) thoughtful amazement.",
+      "english": "Expresses thoughtful amazement.",
       "swedish": "tänk",
       "cefr": "A1",
+      "context": "mild",
       "register": [
         "All"
       ]
@@ -2697,9 +2775,10 @@
     {
       "id": "f7a545f9-7582-4078-a476-e9241fd4749d",
       "part-of-speech": "adjective",
-      "english": "caught (unable to move freely), captured",
+      "english": "caught, captured",
       "swedish": "fast",
       "cefr": "A1",
+      "context": "unable to move freely",
       "register": [
         "All"
       ]
@@ -2707,9 +2786,10 @@
     {
       "id": "4003ab0e-270d-4c4b-8d25-cc6180ddbcd1",
       "part-of-speech": "adverb",
-      "english": "fixed, firmly, steadily (synonymous with the adjective)",
+      "english": "fixed, firmly, steadily",
       "swedish": "fast",
       "cefr": "A1",
+      "context": "synonymous with the adjective",
       "register": [
         "All"
       ]
@@ -2727,14 +2807,16 @@
     {
       "id": "6ade0c5f-bbf8-498e-b1d6-32544614c9dc",
       "part-of-speech": "noun",
-      "english": "shit (excrement)",
+      "english": "shit",
       "swedish": "skit",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/ˈɧiːt/",
       "countability": "mass",
+      "context": "excrement",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -2745,16 +2827,18 @@
       "cefr": "A1",
       "ipa": "/ˈɧiːt/",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "a79f3579-ff85-4a2d-832a-65e2e6d84078",
       "part-of-speech": "adverb",
-      "english": "today (on the current day)",
+      "english": "today",
       "swedish": "idag",
       "cefr": "A1",
       "ipa": "/ɪˈdɑː(ɡ)/",
+      "context": "on the current day",
       "register": [
         "All"
       ]
@@ -2775,9 +2859,10 @@
     {
       "id": "ee5cb082-ce58-4464-96ba-74d5aed80784",
       "part-of-speech": "adverb",
-      "english": "around; aimlessly (about movement)",
+      "english": "around; aimlessly",
       "swedish": "runt",
       "cefr": "A1",
+      "context": "about movement",
       "register": [
         "All"
       ]
@@ -2795,11 +2880,12 @@
     {
       "id": "262e4186-e6f7-4612-b62a-0a6773ec7fe6",
       "part-of-speech": "noun",
-      "english": "a fall (the act of falling)",
+      "english": "a fall",
       "swedish": "fall",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "fall",
+      "context": "the act of falling",
       "register": [
         "All"
       ]
@@ -2820,10 +2906,11 @@
     {
       "id": "206f733a-c0a0-4e9f-a880-c3c343c9c3df",
       "part-of-speech": "verb",
-      "english": "to fire (a weapon, a rocket)",
+      "english": "to fire",
       "swedish": "fyra",
       "cefr": "A1",
       "ipa": "/ˈfyːˌra/",
+      "context": "a weapon, a rocket",
       "register": [
         "All"
       ]
@@ -2831,10 +2918,11 @@
     {
       "id": "83de94a2-af07-44b3-81a6-ceee0b35b387",
       "part-of-speech": "verb",
-      "english": "to pull (on something, possibly causing it to move)",
+      "english": "to pull",
       "swedish": "dra",
       "cefr": "A1",
       "ipa": "/drɑː/",
+      "context": "on something, possibly causing it to move",
       "register": [
         "All"
       ]
@@ -2876,11 +2964,12 @@
     {
       "id": "35323cd2-b16d-417b-93b9-061b2bf4a745",
       "part-of-speech": "noun",
-      "english": "a tala (currency of Samoa)",
+      "english": "a tala",
       "swedish": "tala",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/ˈtɑːˌla/",
+      "context": "currency of Samoa",
       "register": [
         "All"
       ]
@@ -2888,10 +2977,11 @@
     {
       "id": "7f6f1cc0-bd53-4571-a95f-16bc7927944d",
       "part-of-speech": "verb",
-      "english": "to speak, to talk (make speech)",
+      "english": "to speak, to talk",
       "swedish": "tala",
       "cefr": "A1",
       "ipa": "/ˈtɑːˌla/",
+      "context": "make speech",
       "register": [
         "All"
       ]
@@ -2952,10 +3042,11 @@
     {
       "id": "05d6d7cb-0852-404b-8792-aee217b4a962",
       "part-of-speech": "adjective",
-      "english": "in (currently in fashion)",
+      "english": "in",
       "swedish": "inne",
       "cefr": "A1",
       "ipa": "/ˈinˌnɛ/",
+      "context": "currently in fashion",
       "register": [
         "All"
       ]
@@ -2963,10 +3054,11 @@
     {
       "id": "e71b2062-7608-49cd-a230-97188583d663",
       "part-of-speech": "adverb",
-      "english": "inside, (sometimes) indoors",
+      "english": "inside, indoors",
       "swedish": "inne",
       "cefr": "A1",
       "ipa": "/ˈinˌnɛ/",
+      "context": "sometimes",
       "register": [
         "All"
       ]
@@ -3016,9 +3108,10 @@
     {
       "id": "2f3f39dd-1367-4f3c-9fe3-d1c3b9e0fd24",
       "part-of-speech": "verb",
-      "english": "to get, to fetch, to retrieve (go get and bring (back) somewhere)",
+      "english": "to get, to fetch, to retrieve",
       "swedish": "hämta",
       "cefr": "A1",
+      "context": "go get and bring (back) somewhere",
       "register": [
         "All"
       ]
@@ -3037,10 +3130,11 @@
     {
       "id": "fee992e7-f03b-41c9-8999-64db69c64b6c",
       "part-of-speech": "verb",
-      "english": "to bode (well or ill)",
+      "english": "to bode",
       "swedish": "båda",
       "cefr": "A1",
       "ipa": "/ˈboːˌda/",
+      "context": "well or ill",
       "register": [
         "All"
       ]
@@ -3142,11 +3236,12 @@
     {
       "id": "ae377b19-e22e-45fa-90a2-24d53385c705",
       "part-of-speech": "noun",
-      "english": "a car (automobile)",
+      "english": "a car",
       "swedish": "bil",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/biːl/",
+      "context": "automobile",
       "register": [
         "All"
       ]
@@ -3176,9 +3271,10 @@
     {
       "id": "9011868f-6433-4d3a-8d71-bc0d8b8df7e2",
       "part-of-speech": "verb",
-      "english": "to open (similar senses to English)",
+      "english": "to open",
       "swedish": "öppna",
       "cefr": "A1",
+      "context": "similar senses to English",
       "register": [
         "All"
       ]
@@ -3208,11 +3304,12 @@
     {
       "id": "6fa3eeea-3711-443d-9381-c15c79ba83d6",
       "part-of-speech": "noun",
-      "english": "a bro, brother (usually friendly or familiar term of address for a male)",
+      "english": "a bro, brother",
       "swedish": "bror",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/ˈbruːr/",
+      "context": "usually friendly or familiar term of address for a male",
       "register": [
         "All"
       ]
@@ -3244,10 +3341,11 @@
     {
       "id": "0d9dfaac-230f-4853-9d1d-30e2645aa909",
       "part-of-speech": "adverb",
-      "english": "sometimes (on certain occasions, but not always)",
+      "english": "sometimes",
       "swedish": "ibland",
       "cefr": "A1",
       "ipa": "/ɪˈblanː(d)/",
+      "context": "on certain occasions, but not always",
       "register": [
         "All"
       ]
@@ -3255,9 +3353,10 @@
     {
       "id": "93051c97-5fba-4c97-9503-d22a6eb67e11",
       "part-of-speech": "verb",
-      "english": "to save (prevent from dying or going under more broadly, like in English)",
+      "english": "to save",
       "swedish": "rädda",
       "cefr": "A1",
+      "context": "prevent from dying or going under more broadly, like in English",
       "register": [
         "All"
       ]
@@ -3299,10 +3398,11 @@
     {
       "id": "a82d8b86-ae0a-4d56-8871-cbe61a18bbe6",
       "part-of-speech": "adjective",
-      "english": "happy, glad (feeling or causing happiness)",
+      "english": "happy, glad",
       "swedish": "glad",
       "cefr": "A1",
       "ipa": "/ɡlɑː(d)/",
+      "context": "feeling or causing happiness",
       "register": [
         "All"
       ]
@@ -3320,9 +3420,10 @@
     {
       "id": "affacc1d-dc63-40b6-aea9-d09b63018562",
       "part-of-speech": "verb",
-      "english": "to nourish, nurture (give nourishment to)",
+      "english": "to nourish, nurture",
       "swedish": "nära",
       "cefr": "A1",
+      "context": "give nourishment to",
       "register": [
         "All"
       ]
@@ -3365,10 +3466,11 @@
     {
       "id": "5435b54f-0841-4ae2-acde-9a22c08d21f8",
       "part-of-speech": "adjective",
-      "english": "more and most (in numbers)",
+      "english": "more and most",
       "swedish": "fler",
       "cefr": "A1",
       "ipa": "/fleːr/",
+      "context": "in numbers",
       "register": [
         "All"
       ]
@@ -3401,9 +3503,10 @@
     {
       "id": "e8cbde55-12c8-4005-8ebb-3a83c215833e",
       "part-of-speech": "verb",
-      "english": "to think (think to oneself, have a thought (process) in one's head)",
+      "english": "to think",
       "swedish": "tänka",
       "cefr": "A1",
+      "context": "think to oneself, have a thought (process) in one's head",
       "register": [
         "All"
       ]
@@ -3411,12 +3514,13 @@
     {
       "id": "99fa032a-7756-4a45-a5fd-3dd95ae9bec2",
       "part-of-speech": "noun",
-      "english": "boron (chemical element)",
+      "english": "boron",
       "swedish": "bor",
       "cefr": "A1",
       "gender": "neuter",
       "ipa": "/buːr/",
       "countability": "mass",
+      "context": "chemical element",
       "register": [
         "All"
       ]
@@ -3424,10 +3528,11 @@
     {
       "id": "b6bd4034-0890-441f-ae28-aece3656a3d8",
       "part-of-speech": "adverb",
-      "english": "gladly, happily, with keenness, (when synonymous with \"gladly\") willingly/readily",
+      "english": "gladly, happily, with keenness, willingly/readily",
       "swedish": "gärna",
       "cefr": "A1",
       "ipa": "/²jɛːrna/",
+      "context": "when synonymous with \"gladly\"",
       "register": [
         "All"
       ]
@@ -3547,11 +3652,12 @@
     {
       "id": "b69ca36d-54bf-4d05-a70b-ebe6ee373791",
       "part-of-speech": "noun",
-      "english": "a chance (opportunity or possibility)",
+      "english": "a chance",
       "swedish": "chans",
       "cefr": "A1",
       "plural": "chanser",
       "ipa": "/xans/",
+      "context": "opportunity or possibility",
       "register": [
         "All"
       ]
@@ -3593,12 +3699,13 @@
     {
       "id": "5230982a-0198-4673-86ee-7a56d615eb2a",
       "part-of-speech": "noun",
-      "english": "a room (in a building)",
+      "english": "a room",
       "swedish": "rum",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "rum",
       "ipa": "/rɵm/",
+      "context": "in a building",
       "register": [
         "All"
       ]
@@ -3629,12 +3736,13 @@
     {
       "id": "9232e79c-97f1-4731-8e1f-999a5cecba55",
       "part-of-speech": "noun",
-      "english": "a word (unit of language)",
+      "english": "a word",
       "swedish": "ord",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "ord",
       "ipa": "/ˈuːrd/",
+      "context": "unit of language",
       "register": [
         "All"
       ]
@@ -3706,10 +3814,11 @@
     {
       "id": "82d0375d-5769-4a77-a104-a2bd0abb458a",
       "part-of-speech": "adverb",
-      "english": "time (to do something)",
+      "english": "time",
       "swedish": "dags",
       "cefr": "A1",
       "ipa": "/daks/",
+      "context": "to do something",
       "register": [
         "All"
       ]
@@ -3804,13 +3913,14 @@
     {
       "id": "fce044b7-bcc5-4852-a3b2-aee7b356643c",
       "part-of-speech": "noun",
-      "english": "bathing; swimming (see the usage notes for bada, which also apply here)",
+      "english": "bathing; swimming",
       "swedish": "bad",
       "cefr": "A1",
       "gender": "neuter",
       "plural": "bad",
       "ipa": "/bɑːd/",
       "countability": "mass",
+      "context": "see the usage notes for bada, which also apply here",
       "register": [
         "All"
       ]
@@ -3828,10 +3938,11 @@
     {
       "id": "dafea972-7b21-4a7b-89bf-c9d36b77fa2f",
       "part-of-speech": "adjective",
-      "english": "quiet, silent (making or with no or little sound)",
+      "english": "quiet, silent",
       "swedish": "tyst",
       "cefr": "A1",
       "ipa": "/ˈtʏsːt/",
+      "context": "making or with no or little sound",
       "register": [
         "All"
       ]
@@ -3882,10 +3993,11 @@
     {
       "id": "feb3f6db-8ea2-46aa-975c-e5def58dae3a",
       "part-of-speech": "adjective",
-      "english": "crazy, mad, insane [with av ‘with’] (of a person or situation)",
+      "english": "crazy, mad, insane [with av ‘with’]",
       "swedish": "galen",
       "cefr": "A1",
       "ipa": "/²ɡɑːlɛn/",
+      "context": "of a person or situation",
       "register": [
         "All"
       ]
@@ -3893,10 +4005,11 @@
     {
       "id": "35f5d1e8-3ef2-4eb0-8199-dd07d4613e77",
       "part-of-speech": "verb",
-      "english": "to live, to be alive (concretely or figuratively)",
+      "english": "to live, to be alive",
       "swedish": "leva",
       "cefr": "A1",
       "ipa": "/²leːva/",
+      "context": "concretely or figuratively",
       "register": [
         "All"
       ]
@@ -3904,11 +4017,12 @@
     {
       "id": "145d653d-027d-4940-9b4a-04dd02976496",
       "part-of-speech": "noun",
-      "english": "a sister (woman or girl having the same parents)",
+      "english": "a sister",
       "swedish": "syster",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/²sʏsːtɛr/",
+      "context": "woman or girl having the same parents",
       "register": [
         "All"
       ]
@@ -4020,9 +4134,10 @@
     {
       "id": "9b48a7db-66fe-4261-88f0-9175b640a8ec",
       "part-of-speech": "interjection",
-      "english": "Expression of mild surprise (upon learning something); oh, really",
+      "english": "Expression of mild surprise; oh, really",
       "swedish": "jaså",
       "cefr": "A1",
+      "context": "upon learning something",
       "register": [
         "All"
       ]
@@ -4050,11 +4165,12 @@
     {
       "id": "d3329621-2f5d-4231-9315-82d078d38df1",
       "part-of-speech": "noun",
-      "english": "a feint (movement made to confuse an opponent, something feigned to confuse someone)",
+      "english": "a feint",
       "swedish": "fint",
       "cefr": "A1",
       "gender": "common",
       "plural": "finter",
+      "context": "movement made to confuse an opponent, something feigned to confuse someone",
       "register": [
         "All"
       ]
@@ -4107,10 +4223,11 @@
     {
       "id": "c1d5bfbe-9c00-4ad0-9d97-f5cb81e63b26",
       "part-of-speech": "adjective",
-      "english": "long (in length, distance, or time)",
+      "english": "long",
       "swedish": "lång",
       "cefr": "A1",
       "ipa": "/lɔŋː/",
+      "context": "in length, distance, or time",
       "register": [
         "All"
       ]
@@ -4129,9 +4246,10 @@
     {
       "id": "6da11770-38a7-475f-96aa-703b818ed57a",
       "part-of-speech": "verb",
-      "english": "to work (to do a specific task)",
+      "english": "to work",
       "swedish": "jobba",
       "cefr": "A1",
+      "context": "to do a specific task",
       "register": [
         "All"
       ]
@@ -4290,10 +4408,11 @@
     {
       "id": "ff7b048b-4466-4d45-be0a-d802a4af8c33",
       "part-of-speech": "adjective",
-      "english": "plane (flat)",
+      "english": "plane",
       "swedish": "plan",
       "cefr": "A1",
       "ipa": "/plɑːn/",
+      "context": "flat",
       "register": [
         "All"
       ]
@@ -4407,10 +4526,11 @@
     {
       "id": "0c71f8b1-8135-4084-83c6-7e89cdfa177f",
       "part-of-speech": "verb",
-      "english": "send (make something go somewhere)",
+      "english": "send",
       "swedish": "skicka",
       "cefr": "A1",
       "ipa": "/ˈɧɪkˌa/",
+      "context": "make something go somewhere",
       "register": [
         "All"
       ]
@@ -4431,10 +4551,11 @@
     {
       "id": "88612d53-d7e1-4e27-95fe-a321cdcbbaa7",
       "part-of-speech": "verb",
-      "english": "to repair, to patch (e.g. shoes)",
+      "english": "to repair, to patch",
       "swedish": "flicka",
       "cefr": "A1",
       "ipa": "/ˈflɪkːˌa/",
+      "context": "e.g. shoes",
       "register": [
         "All"
       ]
@@ -4442,9 +4563,10 @@
     {
       "id": "933f5b7b-fb0d-4679-b0ab-e4a7a7a2cd99",
       "part-of-speech": "adjective",
-      "english": "further (continuing further)",
+      "english": "further",
       "swedish": "vidare",
       "cefr": "A1",
+      "context": "continuing further",
       "register": [
         "All"
       ]
@@ -4452,9 +4574,10 @@
     {
       "id": "a8b7d815-2c20-4296-bcfc-cbddfa6acf99",
       "part-of-speech": "adverb",
-      "english": "on, further, along (continuing along, concretely or abstractly)",
+      "english": "on, further, along",
       "swedish": "vidare",
       "cefr": "A1",
+      "context": "continuing along, concretely or abstractly",
       "register": [
         "All"
       ]
@@ -4485,10 +4608,11 @@
     {
       "id": "fe3f6264-5074-4c63-b00e-c15a45db3393",
       "part-of-speech": "verb",
-      "english": "to trust (have confidence in)",
+      "english": "to trust",
       "swedish": "lita",
       "cefr": "A1",
       "ipa": "/liːta/",
+      "context": "have confidence in",
       "register": [
         "All"
       ]
@@ -4496,10 +4620,11 @@
     {
       "id": "46f7b3d8-ac3c-4e1a-b872-19453053d2b3",
       "part-of-speech": "verb",
-      "english": "to drive ((of) a (motorized) vehicle)",
+      "english": "to drive",
       "swedish": "köra",
       "cefr": "A1",
       "ipa": "/²kœ̞ːra/",
+      "context": "(of) a (motorized) vehicle",
       "register": [
         "All"
       ]
@@ -4540,10 +4665,11 @@
     {
       "id": "0cd040ab-ef65-4e38-aa54-5d534db79ac7",
       "part-of-speech": "adverb",
-      "english": "up (in a more elevated position relative to the speaker or another object of comparison)",
+      "english": "up (in a more elevated position relative to…)",
       "swedish": "uppe",
       "cefr": "A1",
       "ipa": "/²ɵpɛ/",
+      "context": "in a more elevated position relative to the speaker or another object of comparison",
       "register": [
         "All"
       ]
@@ -4551,10 +4677,11 @@
     {
       "id": "24539a81-c2eb-4611-9d3f-2c823fd3d5f3",
       "part-of-speech": "verb",
-      "english": "to use (employ, apply)",
+      "english": "to use",
       "swedish": "använda",
       "cefr": "A1",
       "ipa": "/ˈanˌvɛnda/",
+      "context": "employ, apply",
       "register": [
         "All"
       ]
@@ -4609,11 +4736,12 @@
     {
       "id": "4216c94a-4a1d-4586-b692-1edcde93af95",
       "part-of-speech": "noun",
-      "english": "a Mr., Mister, gentleman, sir (respectful term of address or title for an adult male)",
+      "english": "a Mr., Mister, gentleman, sir",
       "swedish": "herr",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/ˈhɛr/",
+      "context": "respectful term of address or title for an adult male",
       "register": [
         "All"
       ]
@@ -4632,10 +4760,11 @@
     {
       "id": "8c8b6fb4-9cb1-47ac-b698-767ffcc72943",
       "part-of-speech": "noun",
-      "english": "a miss (failure to hit)",
+      "english": "a miss",
       "swedish": "miss",
       "cefr": "A1",
       "gender": "common",
+      "context": "failure to hit",
       "register": [
         "All"
       ]
@@ -4675,11 +4804,12 @@
     {
       "id": "52533df2-45c8-4891-bcc6-2ec51cf9b17e",
       "part-of-speech": "noun",
-      "english": "a captain (military officer)",
+      "english": "a captain",
       "swedish": "kapten",
       "cefr": "A1",
       "gender": "common",
       "plural": "kaptener",
+      "context": "military officer",
       "register": [
         "All"
       ]
@@ -4687,12 +4817,13 @@
     {
       "id": "12005910-cc98-485b-8eca-3fc5772d478e",
       "part-of-speech": "noun",
-      "english": "love (strong affection, romantically or more generally, like in English)",
+      "english": "love",
       "swedish": "kärlek",
       "cefr": "A1",
       "gender": "common",
       "ipa": "/ˈɕɛːrˌleːk/",
       "countability": "mass",
+      "context": "strong affection, romantically or more generally, like in English",
       "register": [
         "All"
       ]
@@ -4747,10 +4878,11 @@
     {
       "id": "cd173337-a13b-43ba-a427-06d38f54f67c",
       "part-of-speech": "adjective",
-      "english": "calm, tranquil (of a person, weather, mood, situation, etc.)",
+      "english": "calm, tranquil",
       "swedish": "lugn",
       "cefr": "A1",
       "ipa": "/lɵŋn/",
+      "context": "of a person, weather, mood, situation, etc.",
       "register": [
         "All"
       ]
@@ -4819,7 +4951,10 @@
       "gender": "common",
       "ipa": "/¹kɔmpɪs/",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -4849,10 +4984,11 @@
     {
       "id": "f73d905d-71d8-4a60-b71a-5d943d544817",
       "part-of-speech": "adjective",
-      "english": "full (containing the maximum possible amount)",
+      "english": "full",
       "swedish": "full",
       "cefr": "A1",
       "ipa": "/ˈfɵlː/",
+      "context": "containing the maximum possible amount",
       "register": [
         "All"
       ]
@@ -4864,7 +5000,10 @@
       "swedish": "jaha",
       "cefr": "A1",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -4903,21 +5042,25 @@
     {
       "id": "cfd98a1b-6784-4098-b522-38f2b7624902",
       "part-of-speech": "interjection",
-      "english": "hey, yo (a colloquial greeting)",
+      "english": "hey, yo",
       "swedish": "tja",
       "cefr": "A1",
       "ipa": "/(t)ɕɑː/",
+      "context": "a colloquial greeting",
       "register": [
-        "All"
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "c362be7e-290e-4ec4-8ddb-b22daa3b091f",
       "part-of-speech": "verb",
-      "english": "to place lying (to lay) somewhere, to place/put in a lying position (not in a standing position); in particular used like the English put for things that either lie down flat or where the eventual orientation does not matter, such as in a heap",
+      "english": "to place lying somewhere, to place/put in a lying position; in particular used like the English put for things that either lie down flat or where the eventual orientation does not matter, such as in a heap",
       "swedish": "lägga",
       "cefr": "A2",
       "ipa": "/²lɛɡa/",
+      "context": "to place lying: to lay; to place/put in a lying position: not in a standing position",
       "register": [
         "All"
       ]
@@ -5026,10 +5169,11 @@
     {
       "id": "d09465d7-ee89-4529-ab38-0ea8c3b483c8",
       "part-of-speech": "verb",
-      "english": "to seed (a player into a competition), more commonly seeda",
+      "english": "to seed, more commonly seeda",
       "swedish": "sida",
       "cefr": "A2",
       "ipa": "/²siːda/",
+      "context": "a player into a competition",
       "register": [
         "All"
       ]
@@ -5072,10 +5216,11 @@
     {
       "id": "2b7bc120-11ef-4b65-b658-da7ace8421dd",
       "part-of-speech": "verb",
-      "english": "to make more or less sharp folds (veck) (in something soft, like fabric, paper, or skin, deliberately or inadvertently); to fold, to crease, to pleat, etc.",
+      "english": "to make more or less sharp folds; to fold, to crease, to pleat, etc.",
       "swedish": "vecka",
       "cefr": "A2",
       "ipa": "/²vɛkːa/",
+      "context": "to make more or less sharp folds: veck; to make more or less sharp folds (veck): in something soft, like fabric, paper, or skin, deliberately or inadvertently",
       "register": [
         "All"
       ]
@@ -5089,7 +5234,9 @@
       "gender": "common",
       "plural": "typer",
       "register": [
-        "All"
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -5099,7 +5246,9 @@
       "swedish": "typ",
       "cefr": "A2",
       "register": [
-        "All"
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -5118,11 +5267,12 @@
     {
       "id": "3bb65d93-eac9-465b-ab90-2654595a4e11",
       "part-of-speech": "noun",
-      "english": "a mistake (an error)",
+      "english": "a mistake",
       "swedish": "misstag",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "misstag",
+      "context": "an error",
       "register": [
         "All"
       ]
@@ -5198,10 +5348,11 @@
     {
       "id": "46d17cdf-16d9-466b-8ad5-92ca140f9a4c",
       "part-of-speech": "interjection",
-      "english": "absolutely, yes, certainly (expression indicating strong agreement)",
+      "english": "absolutely, yes, certainly",
       "swedish": "absolut",
       "cefr": "A2",
       "ipa": "/absɔˈlʉːt/",
+      "context": "expression indicating strong agreement",
       "register": [
         "All"
       ]
@@ -5230,10 +5381,11 @@
     {
       "id": "fb5443a6-f127-4c42-a555-72a0d8d3c9c2",
       "part-of-speech": "adverb",
-      "english": "any (at all, to any extent)",
+      "english": "any",
       "swedish": "nå",
       "cefr": "A2",
       "ipa": "/noː/",
+      "context": "at all, to any extent",
       "register": [
         "All"
       ]
@@ -5252,10 +5404,11 @@
     {
       "id": "7c7d423d-a519-4948-8001-9806947d6bdc",
       "part-of-speech": "interjection",
-      "english": "well? (encouragement to actually provide an answer or reaction to a question)",
+      "english": "well?",
       "swedish": "nå",
       "cefr": "A2",
       "ipa": "/noː/",
+      "context": "encouragement to actually provide an answer or reaction to a question",
       "register": [
         "All"
       ]
@@ -5317,10 +5470,11 @@
     {
       "id": "7929dee1-ff5e-408e-8ce7-e9dd692e86de",
       "part-of-speech": "interjection",
-      "english": "here you are, there you are (said when handing something over to someone)",
+      "english": "here you are, there you are",
       "swedish": "varsågod",
       "cefr": "A2",
       "ipa": "/ˈvɑːrsɔˈɡuː(d)/",
+      "context": "said when handing something over to someone",
       "register": [
         "All"
       ]
@@ -5374,12 +5528,13 @@
     {
       "id": "9f532af1-26ac-45a8-a00c-9f812ab3f358",
       "part-of-speech": "noun",
-      "english": "a person, (in the plural, in tone) people",
+      "english": "a person, people",
       "swedish": "person",
       "cefr": "A2",
       "gender": "common",
       "plural": "personer",
       "ipa": "/pɛrˈsuːn/",
+      "context": "in the plural, in tone",
       "register": [
         "All"
       ]
@@ -5398,10 +5553,11 @@
     {
       "id": "a04dd341-bf96-45eb-8be3-02e4cbde6397",
       "part-of-speech": "verb",
-      "english": "to sit (be in a position with the upper body upright and the legs resting)",
+      "english": "to sit",
       "swedish": "sitta",
       "cefr": "A2",
       "ipa": "/²sɪta/",
+      "context": "be in a position with the upper body upright and the legs resting",
       "register": [
         "All"
       ]
@@ -5432,12 +5588,13 @@
     {
       "id": "092c1e6c-9d64-49f2-bd63-201ed62bb6e9",
       "part-of-speech": "noun",
-      "english": "A tome, a volume (in a series of books), a (thick) book.",
+      "english": "A tome, a volume, a book.",
       "swedish": "tom",
       "cefr": "A2",
       "gender": "common",
       "plural": "tomer",
       "ipa": "/toːm/",
+      "context": "a volume: in a series of books; a: thick",
       "register": [
         "All"
       ]
@@ -5486,9 +5643,10 @@
     {
       "id": "43299a9e-d8e5-4458-a76f-3361a0e32e16",
       "part-of-speech": "adjective",
-      "english": "exact (precisely agreeing)",
+      "english": "exact",
       "swedish": "exakt",
       "cefr": "A2",
+      "context": "precisely agreeing",
       "register": [
         "All"
       ]
@@ -5516,10 +5674,11 @@
     {
       "id": "d277ee66-bd16-4930-8158-f5d60705ba1b",
       "part-of-speech": "adverb",
-      "english": "actually, really, in truth, \"in actual reality\" (in truth, contrary to a previous claim or what one might think or the like)",
+      "english": "actually, really, in truth, \"in actual reality\"",
       "swedish": "egentligen",
       "cefr": "A2",
       "ipa": "/ɪˈjɛntlɪ(ɡ)ɛn/",
+      "context": "in truth, contrary to a previous claim or what one might think or the like",
       "register": [
         "All"
       ]
@@ -5541,10 +5700,11 @@
     {
       "id": "a1d1ce7a-01b7-4fa1-acac-40ba363dd022",
       "part-of-speech": "verb",
-      "english": "to close (a door, gate, or the like)",
+      "english": "to close",
       "swedish": "lycka",
       "cefr": "A2",
       "ipa": "/²lʏkːa/",
+      "context": "a door, gate, or the like",
       "register": [
         "All"
       ]
@@ -5564,11 +5724,12 @@
     {
       "id": "4dc019f1-ffd2-45ce-8dd7-4f19b4bf03d2",
       "part-of-speech": "noun",
-      "english": "a crotch (area where the legs split from the torso)",
+      "english": "a crotch",
       "swedish": "skrev",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "skrev",
+      "context": "area where the legs split from the torso",
       "register": [
         "All"
       ]
@@ -5609,12 +5770,13 @@
     {
       "id": "99ad17cc-f506-444c-ad86-46637c558e5f",
       "part-of-speech": "noun",
-      "english": "a mass (substance)",
+      "english": "a mass",
       "swedish": "massa",
       "cefr": "A2",
       "gender": "common",
       "plural": "massor",
       "ipa": "/masːa/",
+      "context": "substance",
       "register": [
         "All"
       ]
@@ -5633,11 +5795,12 @@
     {
       "id": "dcaa7488-4f0c-44fc-b294-423ff6bf16ed",
       "part-of-speech": "noun",
-      "english": "a body (of a human, whether living or dead, like in English)",
+      "english": "a body",
       "swedish": "kropp",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈkrɔp/",
+      "context": "of a human, whether living or dead, like in English",
       "register": [
         "All"
       ]
@@ -5645,11 +5808,12 @@
     {
       "id": "4a54893c-97b1-43df-a6db-d8997ca64429",
       "part-of-speech": "noun",
-      "english": "a dwelling (of an animal), especially a bird's nest",
+      "english": "a dwelling, especially a bird's nest",
       "swedish": "bo",
       "cefr": "A2",
       "gender": "neuter",
       "ipa": "[buː]",
+      "context": "of an animal",
       "register": [
         "All"
       ]
@@ -5657,10 +5821,11 @@
     {
       "id": "5526e33e-97c4-46c4-825f-b67e9fcfc9cd",
       "part-of-speech": "verb",
-      "english": "to live, to dwell, to reside (to have permanent residence)",
+      "english": "to live, to dwell, to reside",
       "swedish": "bo",
       "cefr": "A2",
       "ipa": "[buː]",
+      "context": "to have permanent residence",
       "register": [
         "All"
       ]
@@ -5679,10 +5844,11 @@
     {
       "id": "e4abf58d-4a8b-4677-80a5-4ae6f10cd8f7",
       "part-of-speech": "adjective",
-      "english": "sick, ill (having a disease)",
+      "english": "sick, ill",
       "swedish": "sjuk",
       "cefr": "A2",
       "ipa": "/ɧʉːk/",
+      "context": "having a disease",
       "register": [
         "All"
       ]
@@ -5690,10 +5856,11 @@
     {
       "id": "a2eb991d-8598-4c25-850b-1f0166381fd0",
       "part-of-speech": "adjective",
-      "english": "former, last, previous (the one in a sequence before the present)",
+      "english": "former, last, previous",
       "swedish": "förra",
       "cefr": "A2",
       "ipa": "[²fœ̞rːa]",
+      "context": "the one in a sequence before the present",
       "register": [
         "All"
       ]
@@ -5712,10 +5879,10 @@
     {
       "id": "250f41d8-8f81-4466-8fc5-5521a4b0c05b",
       "part-of-speech": "interjection",
-      "english": "shut up (rude)",
+      "english": "shut up",
       "swedish": "käften",
       "cefr": "A2",
-      "context": "short for håll käften",
+      "context": "short for håll käften; rude",
       "register": [
         "All"
       ]
@@ -5729,7 +5896,8 @@
       "gender": "neuter",
       "plural": "stick",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -5739,7 +5907,8 @@
       "swedish": "stick",
       "cefr": "A2",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -5778,11 +5947,12 @@
     {
       "id": "b66cea88-850b-4719-9ef1-6aa27f31846f",
       "part-of-speech": "noun",
-      "english": "a poison, venom, toxin (toxic substance)",
+      "english": "a poison, venom, toxin",
       "swedish": "gift",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "gifter",
+      "context": "toxic substance",
       "register": [
         "All"
       ]
@@ -5811,11 +5981,12 @@
     {
       "id": "a3639b37-79ef-4ddc-bf20-a4e653cdb397",
       "part-of-speech": "noun",
-      "english": "a scathe; damage (abstract measure of something not being intact), an injury, a harm, a wound",
+      "english": "a scathe; damage, an injury, a harm, a wound",
       "swedish": "skada",
       "cefr": "A2",
       "gender": "common",
       "plural": "skador",
+      "context": "abstract measure of something not being intact",
       "register": [
         "All"
       ]
@@ -5854,11 +6025,12 @@
     {
       "id": "af46bf40-49b7-4599-8a03-cd9ed0ec8bd2",
       "part-of-speech": "noun",
-      "english": "a proof (any effort, process, or operation designed to establish or discover a fact or truth)",
+      "english": "a proof",
       "swedish": "bevis",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "bevis",
+      "context": "any effort, process, or operation designed to establish or discover a fact or truth",
       "register": [
         "All"
       ]
@@ -5866,12 +6038,13 @@
     {
       "id": "ecf00afb-472a-4f0d-aa65-54a1bbe2c23f",
       "part-of-speech": "noun",
-      "english": "coffee (a tree, its beans, a drink, a cup of coffee, a ceremony for serving coffee and bread)",
+      "english": "coffee",
       "swedish": "kaffe",
       "cefr": "A2",
       "gender": "neuter",
       "ipa": "/²kafːɛ/",
       "countability": "mass",
+      "context": "a tree, its beans, a drink, a cup of coffee, a ceremony for serving coffee and bread",
       "register": [
         "All"
       ]
@@ -5892,11 +6065,15 @@
     {
       "id": "766bad82-9c96-438e-94b5-0fd7020e18b6",
       "part-of-speech": "interjection",
-      "english": "oh, wow, gosh (expresses surprise, at something positive or negative)",
+      "english": "oh, wow, gosh",
       "swedish": "oj",
       "cefr": "A2",
+      "context": "expresses surprise, at something positive or negative",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -5935,10 +6112,11 @@
     {
       "id": "01fbb318-efc2-401a-b6e8-5859d397529f",
       "part-of-speech": "verb",
-      "english": "to shoot ((a projectile with) a weapon), (often, idiomatically – see the usage notes below) to fire ((a projectile with) a weapon)",
+      "english": "to shoot, to fire",
       "swedish": "skjuta",
       "cefr": "A2",
       "ipa": "/²ɧʉːta/",
+      "context": "to shoot: (a projectile with) a weapon; often, idiomatically – see the usage notes below; idiomatically – see the usage notes below) to fire: (a projectile with) a weapon",
       "register": [
         "All"
       ]
@@ -5969,12 +6147,13 @@
     {
       "id": "a35407fe-fee4-47a2-b3bd-3fd1b120e3dd",
       "part-of-speech": "noun",
-      "english": "an order (command)",
+      "english": "an order",
       "swedish": "order",
       "cefr": "A2",
       "gender": "common",
       "plural": "ordrar",
       "ipa": "/ˈɔrdɛr/",
+      "context": "command",
       "register": [
         "All"
       ]
@@ -5982,9 +6161,10 @@
     {
       "id": "a694248f-c963-4b01-9417-03e0441ebd84",
       "part-of-speech": "verb",
-      "english": "search; look throughout (a place) for something",
+      "english": "search; look throughout for something",
       "swedish": "leta",
       "cefr": "A2",
+      "context": "a place",
       "register": [
         "All"
       ]
@@ -6047,12 +6227,13 @@
     {
       "id": "7a15ff66-c04f-4000-9003-97c7cef3bcc2",
       "part-of-speech": "noun",
-      "english": "police (organization that enforces the law)",
+      "english": "police",
       "swedish": "polis",
       "cefr": "A2",
       "gender": "common",
       "plural": "poliser",
       "countability": "mass",
+      "context": "organization that enforces the law",
       "register": [
         "All"
       ]
@@ -6080,11 +6261,12 @@
     {
       "id": "eb2c3315-6b0d-4d93-98f4-d3a291614d01",
       "part-of-speech": "noun",
-      "english": "a moment, an instant, a blink of an eye (very brief period of time)",
+      "english": "a moment, an instant, a blink of an eye",
       "swedish": "ögonblick",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "ögonblick",
+      "context": "very brief period of time",
       "register": [
         "All"
       ]
@@ -6103,10 +6285,11 @@
     {
       "id": "ce376071-f775-49c9-b297-3a40d7dbade4",
       "part-of-speech": "interjection",
-      "english": "Expresses skepticism or surprise (incredulity).",
+      "english": "Expresses skepticism or surprise.",
       "swedish": "ofta",
       "cefr": "A2",
       "ipa": "/²ɔfːta/",
+      "context": "incredulity",
       "register": [
         "All"
       ]
@@ -6114,12 +6297,13 @@
     {
       "id": "9e51a926-cb9b-40ca-a736-5b391148a98f",
       "part-of-speech": "noun",
-      "english": "a soft drink or (more rarely) beer",
+      "english": "a soft drink or beer",
       "swedish": "dricka",
       "cefr": "A2",
       "gender": "common",
       "plural": "drickor",
       "ipa": "/²drɪkːa/",
+      "context": "more rarely",
       "register": [
         "All"
       ]
@@ -6230,10 +6414,11 @@
     {
       "id": "eb35d67f-57d6-4707-915f-42b39a2d8163",
       "part-of-speech": "verb",
-      "english": "to read (text)",
+      "english": "to read",
       "swedish": "läsa",
       "cefr": "A2",
       "ipa": "/ˈlɛːˌsa/",
+      "context": "text",
       "register": [
         "All"
       ]
@@ -6241,12 +6426,13 @@
     {
       "id": "d2ac88d7-d145-4b5a-a99b-d3022e490326",
       "part-of-speech": "noun",
-      "english": "a work, job (economic role for which a person is paid)",
+      "english": "a work, job",
       "swedish": "arbete",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "arbeten",
       "ipa": "/ˈarˌbeːtɛ/",
+      "context": "economic role for which a person is paid",
       "register": [
         "All"
       ]
@@ -6254,11 +6440,12 @@
     {
       "id": "b0b7df45-72bf-4f79-aabf-4710e9ea5821",
       "part-of-speech": "noun",
-      "english": "an instance of traveling, \"a travel\"; a trip, a journey, a voyage, (in the plural) travels, etc.",
+      "english": "an instance of traveling, \"a travel\"; a trip, a journey, a voyage, travels, etc.",
       "swedish": "resa",
       "cefr": "A2",
       "gender": "common",
       "plural": "resor",
+      "context": "in the plural",
       "register": [
         "All"
       ]
@@ -6276,11 +6463,12 @@
     {
       "id": "a3de91c5-11a7-4802-933a-1cdd1ac0ea70",
       "part-of-speech": "noun",
-      "english": "a country, a land (independent political entity)",
+      "english": "a country, a land",
       "swedish": "land",
       "cefr": "A2",
       "gender": "neuter",
       "ipa": "/land/",
+      "context": "independent political entity",
       "register": [
         "All"
       ]
@@ -6358,10 +6546,11 @@
     {
       "id": "df46e2a7-7091-4214-a26d-8d20b1e9d136",
       "part-of-speech": "adjective",
-      "english": "bad (similar senses to English, but see subsenses and usage notes)",
+      "english": "bad",
       "swedish": "dålig",
       "cefr": "A2",
       "ipa": "/²doː.lɪ(ɡ)/",
+      "context": "similar senses to English, but see subsenses and usage notes",
       "register": [
         "All"
       ]
@@ -6380,9 +6569,10 @@
     {
       "id": "46001f96-c088-4954-9049-a06c797adc62",
       "part-of-speech": "adjective",
-      "english": "forced (by circumstances)",
+      "english": "forced",
       "swedish": "tvungen",
       "cefr": "A2",
+      "context": "by circumstances",
       "register": [
         "All"
       ]
@@ -6415,9 +6605,10 @@
     {
       "id": "3685bd3c-c7cd-4ce2-8f5b-a5026ae5d8c4",
       "part-of-speech": "adverb",
-      "english": "everywhere (at all places)",
+      "english": "everywhere",
       "swedish": "överallt",
       "cefr": "A2",
+      "context": "at all places",
       "register": [
         "All"
       ]
@@ -6436,10 +6627,11 @@
     {
       "id": "dc2b4756-8fe6-45ca-a992-320300caad04",
       "part-of-speech": "noun",
-      "english": "a running (back and forth)",
+      "english": "a running",
       "swedish": "spring",
       "cefr": "A2",
       "gender": "neuter",
+      "context": "back and forth",
       "register": [
         "All"
       ]
@@ -6447,11 +6639,12 @@
     {
       "id": "13c4c307-09e8-4a3e-80a1-383311a1e2b3",
       "part-of-speech": "noun",
-      "english": "an hour (time period of sixty minutes)",
+      "english": "an hour",
       "swedish": "timme",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/²tɪmɛ/",
+      "context": "time period of sixty minutes",
       "register": [
         "All"
       ]
@@ -6485,21 +6678,24 @@
     {
       "id": "391096d5-a111-4629-a592-fc6542073630",
       "part-of-speech": "noun",
-      "english": "a son of a bitch, a bastard, a motherfucker (sometimes used as a term of endearment)",
+      "english": "a son of a bitch, a bastard, a motherfucker",
       "swedish": "jävel",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈjɛːˌvɛl/",
+      "context": "sometimes used as a term of endearment",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
       "id": "31fc57ed-c040-4806-9e83-cc4343c37d18",
       "part-of-speech": "verb",
-      "english": "to place upright somewhere, to place in a standing position (not in a lying position)",
+      "english": "to place upright somewhere, to place in a standing position",
       "swedish": "ställa",
       "cefr": "A2",
+      "context": "not in a lying position",
       "register": [
         "All"
       ]
@@ -6545,9 +6741,10 @@
     {
       "id": "81aa673a-4e09-44bc-b740-9f490dd697e5",
       "part-of-speech": "verb",
-      "english": "to fistfight (battle with fists, (repeatedly) punch), (usually more idiomatic) to fight",
+      "english": "to fistfight, to fight",
       "swedish": "slåss",
       "cefr": "A2",
+      "context": "to fistfight: battle with fists, (repeatedly) punch; usually more idiomatic",
       "register": [
         "All"
       ]
@@ -6588,10 +6785,11 @@
     {
       "id": "d8ba6573-5177-4ad0-ac9e-30ebcac1dc6b",
       "part-of-speech": "adverb",
-      "english": "before (at an earlier time); in the past",
+      "english": "before; in the past",
       "swedish": "förr",
       "cefr": "A2",
       "ipa": "[ˈfœ̞rː]",
+      "context": "at an earlier time",
       "register": [
         "All"
       ]
@@ -6635,11 +6833,12 @@
     {
       "id": "69a93dae-e56b-454c-acad-28aa3eb79087",
       "part-of-speech": "noun",
-      "english": "a man, a gentleman, a sir (a respected man)",
+      "english": "a man, a gentleman, a sir",
       "swedish": "herre",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/²hɛrːɛ/",
+      "context": "a respected man",
       "register": [
         "All"
       ]
@@ -6742,10 +6941,11 @@
     {
       "id": "8885f15f-5a47-4752-b844-1335860612b4",
       "part-of-speech": "interjection",
-      "english": "finally! (Used to express sudden pleasure, joy, or great excitement in regard to an announcement or a message.)",
+      "english": "finally!",
       "swedish": "äntligen",
       "cefr": "A2",
       "ipa": "/ˈɛntˌlɪ(ɡ)ɛn/",
+      "context": "Used to express sudden pleasure, joy, or great excitement in regard to an announcement or a message.",
       "register": [
         "All"
       ]
@@ -6753,9 +6953,10 @@
     {
       "id": "8db48d64-44a4-4b67-86e4-7df3426b2486",
       "part-of-speech": "adjective",
-      "english": "strong (capable of producing great physical force)",
+      "english": "strong",
       "swedish": "stark",
       "cefr": "A2",
+      "context": "capable of producing great physical force",
       "register": [
         "All"
       ]
@@ -6763,10 +6964,11 @@
     {
       "id": "3d879980-25c9-456b-b93e-05505798e211",
       "part-of-speech": "adjective",
-      "english": "free (unconstrained)",
+      "english": "free",
       "swedish": "fri",
       "cefr": "A2",
       "ipa": "/friː/",
+      "context": "unconstrained",
       "register": [
         "All"
       ]
@@ -6786,9 +6988,10 @@
     {
       "id": "ac4c90b0-795e-4d04-b6c1-317a16a833e2",
       "part-of-speech": "verb",
-      "english": "to breathe (repeatedly draw air into, and expel it from, the lungs)",
+      "english": "to breathe",
       "swedish": "andas",
       "cefr": "A2",
+      "context": "repeatedly draw air into, and expel it from, the lungs",
       "register": [
         "All"
       ]
@@ -6806,9 +7009,10 @@
     {
       "id": "7c7acc81-f956-4144-8843-a9afdd2ccfd1",
       "part-of-speech": "verb",
-      "english": "to lose (a competition, fight, or the like)",
+      "english": "to lose",
       "swedish": "förlora",
       "cefr": "A2",
+      "context": "a competition, fight, or the like",
       "register": [
         "All"
       ]
@@ -6816,10 +7020,11 @@
     {
       "id": "e802f421-464f-49d6-993e-c8de1e52cb55",
       "part-of-speech": "verb",
-      "english": "to love (romantically or otherwise – same tone as in English)",
+      "english": "to love",
       "swedish": "älska",
       "cefr": "A2",
       "ipa": "/ˈɛlˌska/",
+      "context": "romantically or otherwise – same tone as in English",
       "register": [
         "All"
       ]
@@ -6860,10 +7065,11 @@
     {
       "id": "483842ff-2c6a-4ba3-a937-6ae04749b7f2",
       "part-of-speech": "verb",
-      "english": "to move (a part of the body)",
+      "english": "to move",
       "swedish": "röra",
       "cefr": "A2",
       "ipa": "/ˈrøːˌra/",
+      "context": "a part of the body",
       "register": [
         "All"
       ]
@@ -6926,9 +7132,10 @@
     {
       "id": "4533bffd-d0b2-4d2c-bf5b-27d968312479",
       "part-of-speech": "verb",
-      "english": "to let go (of); release (one's grip of)",
+      "english": "to let go (of); release",
       "swedish": "släppa",
       "cefr": "A2",
+      "context": "release: one's grip of",
       "register": [
         "All"
       ]
@@ -6983,12 +7190,13 @@
     {
       "id": "b0c226c3-cff4-483c-9dcb-3fae134e482a",
       "part-of-speech": "noun",
-      "english": "a thing (governing assembly) concerning all free men within a certain geographic area",
+      "english": "a thing concerning all free men within a certain geographic area",
       "swedish": "allting",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "allting",
       "ipa": "/ˈaltɪŋ/",
+      "context": "governing assembly",
       "register": [
         "All"
       ]
@@ -7029,11 +7237,12 @@
     {
       "id": "a1d8f0fc-e855-40b6-90d1-6347341d6911",
       "part-of-speech": "noun",
-      "english": "a bang (act of sexual intercourse)",
+      "english": "a bang",
       "swedish": "skjut",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "skjut",
+      "context": "act of sexual intercourse",
       "register": [
         "All"
       ]
@@ -7055,12 +7264,13 @@
     {
       "id": "db46a463-0c69-4ff8-86b1-7b2e71bb52f3",
       "part-of-speech": "noun",
-      "english": "white (egg white)",
+      "english": "white",
       "swedish": "vita",
       "cefr": "A2",
       "gender": "common",
       "plural": "vitor",
       "countability": "mass",
+      "context": "egg white",
       "register": [
         "All"
       ]
@@ -7079,12 +7289,13 @@
     {
       "id": "d71de275-99bc-4bb0-833d-507f7cfa3672",
       "part-of-speech": "noun",
-      "english": "a Dane (inhabitant of ancient Denmark)",
+      "english": "a Dane",
       "swedish": "dan",
       "cefr": "A2",
       "gender": "common",
       "plural": "daner",
       "ipa": "/dɑːn/",
+      "context": "inhabitant of ancient Denmark",
       "register": [
         "All"
       ]
@@ -7103,12 +7314,13 @@
     {
       "id": "de2463f4-7a00-4d52-8518-a4ae729a1992",
       "part-of-speech": "noun",
-      "english": "black (color/colour)",
+      "english": "black",
       "swedish": "svart",
       "cefr": "A2",
       "gender": "neuter",
       "ipa": "/¹svart/",
       "countability": "mass",
+      "context": "color/colour",
       "register": [
         "All"
       ]
@@ -7116,10 +7328,11 @@
     {
       "id": "5ba0f6f9-1495-4bc7-91f5-240379ac9e89",
       "part-of-speech": "adjective",
-      "english": "black (color/colour)",
+      "english": "black",
       "swedish": "svart",
       "cefr": "A2",
       "ipa": "/¹svart/",
+      "context": "color/colour",
       "register": [
         "All"
       ]
@@ -7151,10 +7364,11 @@
     {
       "id": "1e6c2df1-30f1-4fc2-bb91-5ca9dda84343",
       "part-of-speech": "adjective",
-      "english": "interesting (arousing or holding the attention of)",
+      "english": "interesting",
       "swedish": "intressant",
       "cefr": "A2",
       "ipa": "/ɪntrɛˈsanːt/",
+      "context": "arousing or holding the attention of",
       "register": [
         "All"
       ]
@@ -7184,10 +7398,11 @@
     {
       "id": "55e62f81-6c78-46cb-bebb-f7ce3385545f",
       "part-of-speech": "interjection",
-      "english": "gee, geez, gosh, my goodness (expresses surprise or frustration and sometimes mild disbelief)",
+      "english": "gee, geez, gosh, my goodness",
       "swedish": "jösses",
       "cefr": "A2",
       "ipa": "/²jœsːɛs/",
+      "context": "expresses surprise or frustration and sometimes mild disbelief",
       "register": [
         "All"
       ]
@@ -7195,9 +7410,10 @@
     {
       "id": "db3cac0f-5307-40e3-9574-3d1df3a8d62a",
       "part-of-speech": "adjective",
-      "english": "living, live (not dead)",
+      "english": "living, live",
       "swedish": "levande",
       "cefr": "A2",
+      "context": "not dead",
       "register": [
         "All"
       ]
@@ -7205,9 +7421,10 @@
     {
       "id": "2e343394-3368-4c09-89e6-9ed745ebd7e6",
       "part-of-speech": "adjective",
-      "english": "careful, (through being synonymous with careful in various contexts) cautious, gentle, prudent, etc.",
+      "english": "careful, cautious, gentle, prudent, etc.",
       "swedish": "försiktig",
       "cefr": "A2",
+      "context": "through being synonymous with careful in various contexts",
       "register": [
         "All"
       ]
@@ -7248,11 +7465,12 @@
     {
       "id": "f7dd6979-92a3-4947-8580-1f57763153e0",
       "part-of-speech": "noun",
-      "english": "a ewe (female sheep)",
+      "english": "a ewe",
       "swedish": "tacka",
       "cefr": "A2",
       "gender": "common",
       "plural": "tackor",
+      "context": "female sheep",
       "register": [
         "All"
       ]
@@ -7282,12 +7500,13 @@
     {
       "id": "af0a5fd1-55e8-4086-ba31-78a60d6cd4d5",
       "part-of-speech": "noun",
-      "english": "a message (communication)",
+      "english": "a message",
       "swedish": "meddelande",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "meddelanden",
       "ipa": "/ˈmeː(d)ˌdeːlandɛ/",
+      "context": "communication",
       "register": [
         "All"
       ]
@@ -7317,11 +7536,12 @@
     {
       "id": "b875f1d6-4aa7-417b-90fd-b5236a49c61b",
       "part-of-speech": "noun",
-      "english": "a beer (a kind or brand of beer)",
+      "english": "a beer",
       "swedish": "öl",
       "cefr": "A2",
       "gender": "neuter",
       "ipa": "/øːl/",
+      "context": "a kind or brand of beer",
       "register": [
         "All"
       ]
@@ -7363,13 +7583,14 @@
     {
       "id": "42d87a69-425e-4ef3-94c9-4a10c1d51ab3",
       "part-of-speech": "noun",
-      "english": "ground (surface of the Earth (or some other planet, etc.), or the area (immediately) beneath it)",
+      "english": "ground",
       "swedish": "mark",
       "cefr": "A2",
       "gender": "common",
       "plural": "marker",
       "ipa": "/mark/",
       "countability": "mass",
+      "context": "surface of the Earth (or some other planet, etc.), or the area (immediately) beneath it",
       "register": [
         "All"
       ]
@@ -7402,10 +7623,11 @@
     {
       "id": "3bf0fd50-9072-4e99-98c1-a5d51bbdd28d",
       "part-of-speech": "adjective",
-      "english": "left (on the left-hand side)",
+      "english": "left",
       "swedish": "vänster",
       "cefr": "A2",
       "ipa": "/ˈvɛnːstɛr/",
+      "context": "on the left-hand side",
       "register": [
         "All"
       ]
@@ -7423,10 +7645,11 @@
     {
       "id": "1039e487-ff0b-44c7-920c-c409560ae23a",
       "part-of-speech": "verb",
-      "english": "to wake up (become awake – compare väcka)",
+      "english": "to wake up",
       "swedish": "vakna",
       "cefr": "A2",
       "ipa": "/²vɑːkna/",
+      "context": "become awake – compare väcka",
       "register": [
         "All"
       ]
@@ -7478,10 +7701,11 @@
     {
       "id": "5b030e7b-bcf1-42b0-bfa7-cab7f70b3377",
       "part-of-speech": "adjective",
-      "english": "good-looking; handsome (of a person – equally idiomatic for men and women)",
+      "english": "good-looking; handsome",
       "swedish": "snygg",
       "cefr": "A2",
       "ipa": "/snʏɡ/",
+      "context": "of a person – equally idiomatic for men and women",
       "register": [
         "All"
       ]
@@ -7536,11 +7760,12 @@
     {
       "id": "11d2b896-368e-402e-991a-964d6acc9f45",
       "part-of-speech": "noun",
-      "english": "a meeting (gathering for a purpose, to discuss, make decisions, etc.)",
+      "english": "a meeting",
       "swedish": "möte",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "möten",
+      "context": "gathering for a purpose, to discuss, make decisions, etc.",
       "register": [
         "All"
       ]
@@ -7548,11 +7773,12 @@
     {
       "id": "0225f2e9-a506-4bd5-be64-69b0def6c6a3",
       "part-of-speech": "noun",
-      "english": "a fire (continued chemical exothermic reaction where a gaseous material reacts, and which creates enough heat to evaporate more combustible material)",
+      "english": "a fire",
       "swedish": "eld",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈɛld/",
+      "context": "continued chemical exothermic reaction where a gaseous material reacts, and which creates enough heat to evaporate more combustible material",
       "register": [
         "All"
       ]
@@ -7560,11 +7786,12 @@
     {
       "id": "e4b85e30-2fe6-482e-ad02-d339c1dd84ce",
       "part-of-speech": "noun",
-      "english": "a bowl (container)",
+      "english": "a bowl",
       "swedish": "skål",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/skoːl/",
+      "context": "container",
       "register": [
         "All"
       ]
@@ -7572,10 +7799,11 @@
     {
       "id": "672645b4-9fd9-4e38-aeab-94b1ad5b788a",
       "part-of-speech": "interjection",
-      "english": "cheers (as a toast)",
+      "english": "cheers",
       "swedish": "skål",
       "cefr": "A2",
       "ipa": "/skoːl/",
+      "context": "as a toast",
       "register": [
         "All"
       ]
@@ -7650,10 +7878,11 @@
     {
       "id": "bc26e09e-2e06-4bcb-8b4b-66fc89120118",
       "part-of-speech": "adjective",
-      "english": "good; talented; capable (showing good ability, in a sense that includes both being good at something and being well-behaved)",
+      "english": "good; talented; capable",
       "swedish": "duktig",
       "cefr": "A2",
       "ipa": "/²dɵkːtɪɡ/",
+      "context": "showing good ability, in a sense that includes both being good at something and being well-behaved",
       "register": [
         "All"
       ]
@@ -7673,11 +7902,12 @@
     {
       "id": "eb6dc530-e035-47dd-8b21-d0855282ce11",
       "part-of-speech": "noun",
-      "english": "Morse (Morse code)",
+      "english": "Morse",
       "swedish": "morse",
       "cefr": "A2",
       "ipa": "/²mɔrse/",
       "countability": "mass",
+      "context": "Morse code",
       "register": [
         "All"
       ]
@@ -7696,9 +7926,10 @@
     {
       "id": "c97dea06-9aeb-4de2-9dc6-0f5479b59701",
       "part-of-speech": "adverb",
-      "english": "apparently (seemingly)",
+      "english": "apparently",
       "swedish": "tydligen",
       "cefr": "A2",
+      "context": "seemingly",
       "register": [
         "All"
       ]
@@ -7706,11 +7937,12 @@
     {
       "id": "9dd2cd54-ef75-4928-9fe2-341ba65a252e",
       "part-of-speech": "noun",
-      "english": "a contact (connection)",
+      "english": "a contact",
       "swedish": "kontakt",
       "cefr": "A2",
       "gender": "common",
       "plural": "kontakter",
+      "context": "connection",
       "register": [
         "All"
       ]
@@ -7761,9 +7993,10 @@
     {
       "id": "0e123a2b-bee3-44f7-824b-10fd09c5614b",
       "part-of-speech": "adjective",
-      "english": "right (opposite of left; on the east side when facing north)",
+      "english": "right",
       "swedish": "höger",
       "cefr": "A2",
+      "context": "opposite of left; on the east side when facing north",
       "register": [
         "All"
       ]
@@ -7863,11 +8096,12 @@
     {
       "id": "7c7fc7ad-4dc3-4e4d-a66e-dfbf24bb0e91",
       "part-of-speech": "noun",
-      "english": "a (wood) splinter",
+      "english": "a splinter",
       "swedish": "sticka",
       "cefr": "A2",
       "gender": "common",
       "plural": "stickor",
+      "context": "wood",
       "register": [
         "All"
       ]
@@ -7885,10 +8119,11 @@
     {
       "id": "ef93cdea-4821-443f-893f-1da35cc6f35e",
       "part-of-speech": "adjective",
-      "english": "fantastic (great, amazing)",
+      "english": "fantastic",
       "swedish": "fantastisk",
       "cefr": "A2",
       "ipa": "/fan¹tastɪsk/",
+      "context": "great, amazing",
       "register": [
         "All"
       ]
@@ -7907,11 +8142,12 @@
     {
       "id": "89a1fca0-07d8-4dd6-9ee3-48491d64bd4b",
       "part-of-speech": "noun",
-      "english": "a henry (unit of inductance)",
+      "english": "a henry",
       "swedish": "henry",
       "cefr": "A2",
       "gender": "common",
       "plural": "henry",
+      "context": "unit of inductance",
       "register": [
         "All"
       ]
@@ -7919,11 +8155,12 @@
     {
       "id": "560e93dc-ed03-45a7-9740-270e6b3170be",
       "part-of-speech": "noun",
-      "english": "a stop (interruption of travel)",
+      "english": "a stop",
       "swedish": "stopp",
       "cefr": "A2",
       "gender": "common",
       "plural": "stopp",
+      "context": "interruption of travel",
       "register": [
         "All"
       ]
@@ -7931,11 +8168,12 @@
     {
       "id": "f7b7693f-8b07-4d89-9134-5803253ef6ca",
       "part-of-speech": "noun",
-      "english": "a girlfriend (female romantic partner)",
+      "english": "a girlfriend",
       "swedish": "flickvän",
       "cefr": "A2",
       "gender": "common",
       "plural": "flickvänner",
+      "context": "female romantic partner",
       "register": [
         "All"
       ]
@@ -7987,14 +8225,18 @@
     {
       "id": "66723647-c5c1-43f4-9ce7-62d6635001cb",
       "part-of-speech": "noun",
-      "english": "a thing (concrete or abstract – also of events, like in English)",
+      "english": "a thing (concrete or abstract – also of events)",
       "swedish": "grej",
       "cefr": "A2",
       "gender": "common",
       "plural": "grejer",
       "ipa": "/ɡrɛj/",
+      "context": "concrete or abstract – also of events, like in English",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -8013,11 +8255,12 @@
     {
       "id": "080e3da9-cf48-4476-b6e2-7100e8026f8f",
       "part-of-speech": "noun",
-      "english": "a dream (imaginary events seen in the mind while sleeping)",
+      "english": "a dream",
       "swedish": "dröm",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/drœmː/",
+      "context": "imaginary events seen in the mind while sleeping",
       "register": [
         "All"
       ]
@@ -8067,12 +8310,13 @@
     {
       "id": "1ab78322-d8fe-4c12-b451-cee5155a48b2",
       "part-of-speech": "noun",
-      "english": "a step (with the foot, sometimes figuratively)",
+      "english": "a step",
       "swedish": "steg",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "steg",
       "ipa": "/ˈsteːɡ/",
+      "context": "with the foot, sometimes figuratively",
       "register": [
         "All"
       ]
@@ -8080,10 +8324,11 @@
     {
       "id": "169f5fbf-10fa-47d6-adaf-527ede9f1c4c",
       "part-of-speech": "verb",
-      "english": "to break, to demolish; to (deliberately) make something cease working",
+      "english": "to break, to demolish; to make something cease working",
       "swedish": "förstöra",
       "cefr": "A2",
       "ipa": "/fœʂʈœːra/",
+      "context": "deliberately",
       "register": [
         "All"
       ]
@@ -8188,10 +8433,11 @@
     {
       "id": "cfe54bd2-85df-43ab-af87-58a4918e36e7",
       "part-of-speech": "adjective",
-      "english": "sweet (of the taste of sugar)",
+      "english": "sweet",
       "swedish": "söt",
       "cefr": "A2",
       "ipa": "/søːt/",
+      "context": "of the taste of sugar",
       "register": [
         "All"
       ]
@@ -8216,7 +8462,8 @@
       "swedish": "jävlar",
       "cefr": "A2",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -8233,10 +8480,11 @@
     {
       "id": "b32954fb-69dc-4844-8909-c63c2c27ed8b",
       "part-of-speech": "verb",
-      "english": "to solve (a problem)",
+      "english": "to solve",
       "swedish": "lösa",
       "cefr": "A2",
       "ipa": "/²løːsa/",
+      "context": "a problem",
       "register": [
         "All"
       ]
@@ -8310,12 +8558,13 @@
     {
       "id": "a0b019e3-5183-420d-8919-14cb98450ec2",
       "part-of-speech": "noun",
-      "english": "safety, security (not being in danger)",
+      "english": "safety, security",
       "swedish": "säkerhet",
       "cefr": "A2",
       "gender": "common",
       "plural": "säkerheter",
       "countability": "mass",
+      "context": "not being in danger",
       "register": [
         "All"
       ]
@@ -8439,9 +8688,10 @@
     {
       "id": "75744e54-0dcd-4fde-a621-82c6bfefd4fe",
       "part-of-speech": "verb",
-      "english": "to throw (make an object fly through the air)",
+      "english": "to throw",
       "swedish": "kasta",
       "cefr": "A2",
+      "context": "make an object fly through the air",
       "register": [
         "All"
       ]
@@ -8472,12 +8722,13 @@
     {
       "id": "b0d45965-6f88-4602-bc92-688ca5ca09ea",
       "part-of-speech": "noun",
-      "english": "a bar (place where mainly alcoholic drinks are served)",
+      "english": "a bar",
       "swedish": "bar",
       "cefr": "A2",
       "gender": "common",
       "plural": "barer",
       "ipa": "/bɑːr/",
+      "context": "place where mainly alcoholic drinks are served",
       "register": [
         "All"
       ]
@@ -8485,10 +8736,11 @@
     {
       "id": "62f7fd48-fc7c-4980-8729-624201d698a1",
       "part-of-speech": "adjective",
-      "english": "bare, uncovered; not covered by e.g. clothes (about people), fur (about certain animals) or a snow cover (about the ground)",
+      "english": "bare, uncovered; not covered by e.g. clothes, fur or a snow cover",
       "swedish": "bar",
       "cefr": "A2",
       "ipa": "/bɑːr/",
+      "context": "not covered by e.g. clothes: about people; fur: about certain animals; fur (about certain animals) or a snow cover: about the ground",
       "register": [
         "All"
       ]
@@ -8506,13 +8758,14 @@
     {
       "id": "d52b9d4f-62c1-4e7a-9622-165c451ca765",
       "part-of-speech": "noun",
-      "english": "glass (material)",
+      "english": "glass",
       "swedish": "glas",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "glas",
       "ipa": "/ɡlɑːs/",
       "countability": "mass",
+      "context": "material",
       "register": [
         "All"
       ]
@@ -8533,10 +8786,11 @@
     {
       "id": "b330c60d-850c-44a0-ba62-104e5a651d82",
       "part-of-speech": "noun",
-      "english": "a nod (movement of the head to indicate agreement)",
+      "english": "a nod",
       "swedish": "nick",
       "cefr": "A2",
       "gender": "common",
+      "context": "movement of the head to indicate agreement",
       "register": [
         "All"
       ]
@@ -8544,11 +8798,12 @@
     {
       "id": "f0b4fac5-0edc-4d76-921e-c297601103af",
       "part-of-speech": "noun",
-      "english": "a ride ((fancier) vehicle)",
+      "english": "a ride",
       "swedish": "åk",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "åk",
+      "context": "(fancier) vehicle",
       "register": [
         "All"
       ]
@@ -8556,12 +8811,13 @@
     {
       "id": "9735ed93-e5c5-4951-8501-17de1b4a2217",
       "part-of-speech": "noun",
-      "english": "Miss ((title for an) unmarried woman (of any class – see usage notes below))",
+      "english": "Miss",
       "swedish": "fröken",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈfrøːkɛn/",
       "countability": "mass",
+      "context": "(title for an) unmarried woman (of any class – see usage notes below)",
       "register": [
         "All"
       ]
@@ -8569,11 +8825,12 @@
     {
       "id": "c1f71781-73ac-4613-955d-fa8382e097b6",
       "part-of-speech": "noun",
-      "english": "a spouse, a husband, a married man (mostly referring to a specific relation)",
+      "english": "a spouse, a husband, a married man",
       "swedish": "make",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈmɑːˌkɛ/",
+      "context": "mostly referring to a specific relation",
       "register": [
         "All"
       ]
@@ -8591,11 +8848,12 @@
     {
       "id": "5eda7246-5827-49a4-890f-9041aac83d07",
       "part-of-speech": "noun",
-      "english": "a boyfriend (male romantic partner)",
+      "english": "a boyfriend",
       "swedish": "pojkvän",
       "cefr": "A2",
       "gender": "common",
       "plural": "pojkvänner",
+      "context": "male romantic partner",
       "register": [
         "All"
       ]
@@ -8603,11 +8861,12 @@
     {
       "id": "9da8208e-9642-43cb-ac6b-816f675905da",
       "part-of-speech": "noun",
-      "english": "a minute (SI unit of time)",
+      "english": "a minute",
       "swedish": "minut",
       "cefr": "A2",
       "gender": "common",
       "plural": "minuter",
+      "context": "SI unit of time",
       "register": [
         "All"
       ]
@@ -8662,9 +8921,10 @@
     {
       "id": "12274e13-9ec6-4352-92d0-821c3c4bec2e",
       "part-of-speech": "verb",
-      "english": "to prove (to demonstrate that something is true; to give proof for)",
+      "english": "to prove",
       "swedish": "bevisa",
       "cefr": "A2",
+      "context": "to demonstrate that something is true; to give proof for",
       "register": [
         "All"
       ]
@@ -8686,10 +8946,11 @@
     {
       "id": "368f602d-0286-4ca5-aced-e1dacc4eddae",
       "part-of-speech": "adjective",
-      "english": "light, bright (full of light)",
+      "english": "light, bright",
       "swedish": "ljus",
       "cefr": "A2",
       "ipa": "/jʉːs/",
+      "context": "full of light",
       "register": [
         "All"
       ]
@@ -8697,10 +8958,11 @@
     {
       "id": "d8a5b76d-816c-46fd-8146-fc872a106142",
       "part-of-speech": "adverb",
-      "english": "just, quite recently (moments ago)",
+      "english": "just, quite recently",
       "swedish": "nyss",
       "cefr": "A2",
       "ipa": "/nʏs/",
+      "context": "moments ago",
       "register": [
         "All"
       ]
@@ -8718,11 +8980,12 @@
     {
       "id": "04416340-b39b-4926-b0b7-41e53434bc57",
       "part-of-speech": "noun",
-      "english": "a drink ((mixed) alcoholic beverage)",
+      "english": "a drink",
       "swedish": "drink",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/drɪŋk/",
+      "context": "(mixed) alcoholic beverage",
       "register": [
         "All"
       ]
@@ -8730,12 +8993,13 @@
     {
       "id": "63a161fc-d0a4-4dd3-ad92-813b4958d724",
       "part-of-speech": "noun",
-      "english": "a letter (written communication)",
+      "english": "a letter",
       "swedish": "brev",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "brev",
       "ipa": "/breːv/",
+      "context": "written communication",
       "register": [
         "All"
       ]
@@ -8753,9 +9017,10 @@
     {
       "id": "b760db7c-3805-48a4-88d1-c1a99fe7ce81",
       "part-of-speech": "verb",
-      "english": "to guess (to reach an unqualified conclusion)",
+      "english": "to guess",
       "swedish": "gissa",
       "cefr": "A2",
+      "context": "to reach an unqualified conclusion",
       "register": [
         "All"
       ]
@@ -8827,11 +9092,12 @@
     {
       "id": "1db194a6-ee72-47ab-929f-183f9782a26f",
       "part-of-speech": "noun",
-      "english": "a pistol (gun)",
+      "english": "a pistol",
       "swedish": "pistol",
       "cefr": "A2",
       "gender": "common",
       "plural": "pistoler",
+      "context": "gun",
       "register": [
         "All"
       ]
@@ -8839,12 +9105,13 @@
     {
       "id": "60b1ef5c-f2eb-4a42-a707-7b4989990dd8",
       "part-of-speech": "noun",
-      "english": "a voice (sound uttered by the mouth, especially that uttered by human beings in speech or song)",
+      "english": "a voice",
       "swedish": "röst",
       "cefr": "A2",
       "gender": "common",
       "plural": "röster",
       "ipa": "/rœst/",
+      "context": "sound uttered by the mouth, especially that uttered by human beings in speech or song",
       "register": [
         "All"
       ]
@@ -8885,9 +9152,10 @@
     {
       "id": "acabf168-92c0-4fb6-a3b5-3e29e0660f09",
       "part-of-speech": "adverb",
-      "english": "on board; being on (a, the same) ship",
+      "english": "on board; being on ship",
       "swedish": "ombord",
       "cefr": "A2",
+      "context": "a, the same",
       "register": [
         "All"
       ]
@@ -8939,9 +9207,10 @@
     {
       "id": "4c1a878f-3e25-492b-bcc3-55a3e816be2a",
       "part-of-speech": "interjection",
-      "english": "welcome (greeting given upon the arrival of multiple people at once)",
+      "english": "welcome",
       "swedish": "välkomna",
       "cefr": "A2",
+      "context": "greeting given upon the arrival of multiple people at once",
       "register": [
         "All"
       ]
@@ -8949,12 +9218,13 @@
     {
       "id": "5c35acd3-6de1-42a7-979b-7a0512ec2486",
       "part-of-speech": "noun",
-      "english": "an apartment, flat (domicile occupying part of a building)",
+      "english": "an apartment, flat",
       "swedish": "lägenhet",
       "cefr": "A2",
       "gender": "common",
       "plural": "lägenheter",
       "ipa": "/²lɛːɡɛnheːt/",
+      "context": "domicile occupying part of a building",
       "register": [
         "All"
       ]
@@ -8972,9 +9242,10 @@
     {
       "id": "9b70ccbd-c322-4e12-a3d9-5470ce213be5",
       "part-of-speech": "adjective",
-      "english": "poor (to be pitied)",
+      "english": "poor",
       "swedish": "stackars",
       "cefr": "A2",
+      "context": "to be pitied",
       "register": [
         "All"
       ]
@@ -8982,12 +9253,13 @@
     {
       "id": "10cb333b-00d3-4500-ad72-a8f1e1513efc",
       "part-of-speech": "noun",
-      "english": "control (to be in control)",
+      "english": "control",
       "swedish": "kontroll",
       "cefr": "A2",
       "gender": "common",
       "plural": "kontroller",
       "countability": "mass",
+      "context": "to be in control",
       "register": [
         "All"
       ]
@@ -9157,10 +9429,11 @@
     {
       "id": "cfa967b5-f710-41fe-b365-9b9cd7b3f0b2",
       "part-of-speech": "verb",
-      "english": "to fly (with wings, on an airplane, through the air, etc. – generally, like in English)",
+      "english": "to fly",
       "swedish": "flyga",
       "cefr": "A2",
       "ipa": "/ˈflyːˌɡa/",
+      "context": "with wings, on an airplane, through the air, etc. – generally, like in English",
       "register": [
         "All"
       ]
@@ -9181,9 +9454,10 @@
     {
       "id": "50539940-2ca1-4ea8-a830-9b53841fe395",
       "part-of-speech": "adverb",
-      "english": "by the way (incidentally)",
+      "english": "by the way",
       "swedish": "förresten",
       "cefr": "A2",
+      "context": "incidentally",
       "register": [
         "All"
       ]
@@ -9201,11 +9475,12 @@
     {
       "id": "619aeb2c-6abb-4643-951d-ce15422f8479",
       "part-of-speech": "noun",
-      "english": "a young, a baby (offspring of animals)",
+      "english": "a young, a baby",
       "swedish": "unge",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/²ˈɵŋːɛ/",
+      "context": "offspring of animals",
       "register": [
         "All"
       ]
@@ -9235,12 +9510,13 @@
     {
       "id": "784c672c-0e6b-455e-aecc-703a73fcdeca",
       "part-of-speech": "noun",
-      "english": "an accident (unfortunate mishap)",
+      "english": "an accident",
       "swedish": "olycka",
       "cefr": "A2",
       "gender": "common",
       "plural": "olyckor",
       "ipa": "/²uːˌlʏkːa/",
+      "context": "unfortunate mishap",
       "register": [
         "All"
       ]
@@ -9248,10 +9524,11 @@
     {
       "id": "2339bd33-5eae-492b-ab52-22efcd90d6b6",
       "part-of-speech": "noun",
-      "english": "a stack (e.g. of hay), a pile (e.g. of manure)",
+      "english": "a stack, a pile",
       "swedish": "stack",
       "cefr": "A2",
       "gender": "common",
+      "context": "a stack: e.g. of hay; a pile: e.g. of manure",
       "register": [
         "All"
       ]
@@ -9265,7 +9542,8 @@
       "gender": "neuter",
       "countability": "mass",
       "register": [
-        "All"
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -9296,10 +9574,11 @@
     {
       "id": "0485e1c0-5631-4f9c-9d37-401b67d3bd56",
       "part-of-speech": "adjective",
-      "english": "half, ½; with one of two equal parts (50 %)",
+      "english": "half, ½; with one of two equal parts",
       "swedish": "halv",
       "cefr": "A2",
       "ipa": "/ˈhalv/",
+      "context": "50 %",
       "register": [
         "All"
       ]
@@ -9327,9 +9606,10 @@
     {
       "id": "371731d0-52fc-4e64-97fa-b03fb30cc846",
       "part-of-speech": "adverb",
-      "english": "forward, ahead (as a direction)",
+      "english": "forward, ahead",
       "swedish": "framåt",
       "cefr": "A2",
+      "context": "as a direction",
       "register": [
         "All"
       ]
@@ -9372,11 +9652,12 @@
     {
       "id": "d1dd30db-3bec-40a8-8ffa-d7e636faf2e5",
       "part-of-speech": "noun",
-      "english": "respect (admiration for a person or entity because of perceived merit)",
+      "english": "respect",
       "swedish": "respekt",
       "cefr": "A2",
       "gender": "common",
       "countability": "mass",
+      "context": "admiration for a person or entity because of perceived merit",
       "register": [
         "All"
       ]
@@ -9406,11 +9687,12 @@
     {
       "id": "7b05a19b-2614-4f75-84bb-2d8f013326cd",
       "part-of-speech": "noun",
-      "english": "a reindeer (Rangifer tarandus)",
+      "english": "a reindeer",
       "swedish": "ren",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/reːn/",
+      "context": "Rangifer tarandus",
       "register": [
         "All"
       ]
@@ -9418,10 +9700,11 @@
     {
       "id": "f5603cbc-ec51-457c-8b3a-a9a849a27393",
       "part-of-speech": "adjective",
-      "english": "clean (not dirty)",
+      "english": "clean",
       "swedish": "ren",
       "cefr": "A2",
       "ipa": "/reːn/",
+      "context": "not dirty",
       "register": [
         "All"
       ]
@@ -9429,12 +9712,13 @@
     {
       "id": "e61c0efa-29f1-4387-a342-6ef1e081e799",
       "part-of-speech": "noun",
-      "english": "hope (belief that something hoped for may be or come true)",
+      "english": "hope",
       "swedish": "hopp",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "hopp",
       "countability": "mass",
+      "context": "belief that something hoped for may be or come true",
       "register": [
         "All"
       ]
@@ -9442,9 +9726,10 @@
     {
       "id": "2cebdbf7-276e-426c-a33c-ad1b6b9571d4",
       "part-of-speech": "adjective",
-      "english": "nervous (anxious)",
+      "english": "nervous",
       "swedish": "nervös",
       "cefr": "A2",
+      "context": "anxious",
       "register": [
         "All"
       ]
@@ -9463,10 +9748,11 @@
     {
       "id": "f16c6987-8368-421e-9f9e-ed0277655137",
       "part-of-speech": "verb",
-      "english": "to play (like children)",
+      "english": "to play",
       "swedish": "leka",
       "cefr": "A2",
       "ipa": "/ˈleːˌka/",
+      "context": "like children",
       "register": [
         "All"
       ]
@@ -9495,12 +9781,13 @@
     {
       "id": "bfce2db0-5e94-433d-815f-f3eac1b4d1dc",
       "part-of-speech": "noun",
-      "english": "a team (at a job, or more generally)",
+      "english": "a team",
       "swedish": "team",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "team",
       "ipa": "/tiːm/",
+      "context": "at a job, or more generally",
       "register": [
         "All"
       ]
@@ -9508,11 +9795,12 @@
     {
       "id": "3a7189be-85e6-404d-9087-f14843da0414",
       "part-of-speech": "noun",
-      "english": "a stand (device to hold something upright or aloft)",
+      "english": "a stand",
       "swedish": "ställ",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "ställ",
+      "context": "device to hold something upright or aloft",
       "register": [
         "All"
       ]
@@ -9520,9 +9808,10 @@
     {
       "id": "5b1393b0-6eae-4b60-824f-612d396fe400",
       "part-of-speech": "adverb",
-      "english": "beside (next to someone or something implied from context)",
+      "english": "beside",
       "swedish": "bredvid",
       "cefr": "A2",
+      "context": "next to someone or something implied from context",
       "register": [
         "All"
       ]
@@ -9576,10 +9865,11 @@
     {
       "id": "5dc6c5ac-ef69-4073-bfcc-e65b65fe1b5b",
       "part-of-speech": "adjective",
-      "english": "pregnant (carrying an unborn child, generally only applied to humans)",
+      "english": "pregnant",
       "swedish": "gravid",
       "cefr": "A2",
       "ipa": "/ɡraˈviːd/",
+      "context": "carrying an unborn child, generally only applied to humans",
       "register": [
         "All"
       ]
@@ -9600,9 +9890,10 @@
     {
       "id": "bf9c2e93-6046-4627-a216-b03f4cadec97",
       "part-of-speech": "verb",
-      "english": "to count (enumerate consecutive numbers)",
+      "english": "to count",
       "swedish": "räkna",
       "cefr": "A2",
+      "context": "enumerate consecutive numbers",
       "register": [
         "All"
       ]
@@ -9670,11 +9961,12 @@
     {
       "id": "c5abcdf5-394f-4363-a540-f949cb9ea7f5",
       "part-of-speech": "noun",
-      "english": "a law (the body of rules established in a community by its authorities)",
+      "english": "a law",
       "swedish": "lag",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/lɑːɡ/",
+      "context": "the body of rules established in a community by its authorities",
       "register": [
         "All"
       ]
@@ -9716,11 +10008,12 @@
     {
       "id": "fc7f95a6-3f2f-4996-9697-19f2b2ae638d",
       "part-of-speech": "noun",
-      "english": "a bed (piece of furniture to sleep in)",
+      "english": "a bed",
       "swedish": "säng",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/sɛŋː/",
+      "context": "piece of furniture to sleep in",
       "register": [
         "All"
       ]
@@ -9728,11 +10021,12 @@
     {
       "id": "a81f3562-77f4-40d6-a81d-9a56a280a3d4",
       "part-of-speech": "noun",
-      "english": "a force (similar senses to English, though less often of groups of people)",
+      "english": "a force",
       "swedish": "kraft",
       "cefr": "A2",
       "gender": "common",
       "plural": "krafter",
+      "context": "similar senses to English, though less often of groups of people",
       "register": [
         "All"
       ]
@@ -9751,10 +10045,11 @@
     {
       "id": "c1eb4d51-5c30-4410-bc86-250441ec7ecb",
       "part-of-speech": "verb",
-      "english": "to close, cancel (put an end to), terminate",
+      "english": "to close, cancel, terminate",
       "swedish": "avsluta",
       "cefr": "A2",
       "ipa": "/²ɑːvsˌlʉːta/",
+      "context": "put an end to",
       "register": [
         "All"
       ]
@@ -9813,9 +10108,10 @@
     {
       "id": "1068d413-ff57-45c1-a050-8ecd791f56d8",
       "part-of-speech": "adverb",
-      "english": "probably (in all likelihood)",
+      "english": "probably",
       "swedish": "förmodligen",
       "cefr": "A2",
+      "context": "in all likelihood",
       "register": [
         "All"
       ]
@@ -9834,13 +10130,14 @@
     {
       "id": "7c3dab98-ccc6-46fa-978a-0f6c897296f3",
       "part-of-speech": "noun",
-      "english": "tea (the tree, its dried leaves and the drink made from them)",
+      "english": "tea",
       "swedish": "te",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "teer",
       "ipa": "/teː/",
       "countability": "mass",
+      "context": "the tree, its dried leaves and the drink made from them",
       "register": [
         "All"
       ]
@@ -9848,10 +10145,11 @@
     {
       "id": "7ca8e1f9-6d27-4ea9-aec1-ca8e98e97b2e",
       "part-of-speech": "verb",
-      "english": "to appear (a certain way)",
+      "english": "to appear",
       "swedish": "te",
       "cefr": "A2",
       "ipa": "/teː/",
+      "context": "a certain way",
       "register": [
         "All"
       ]
@@ -9859,11 +10157,12 @@
     {
       "id": "27c5201a-b50e-4943-a758-1db7bcb78ab6",
       "part-of-speech": "noun",
-      "english": "a hero, a person (of any sex) of great bravery",
+      "english": "a hero, a person of great bravery",
       "swedish": "hjälte",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈjɛlˌtɛ/",
+      "context": "of any sex",
       "register": [
         "All"
       ]
@@ -9905,10 +10204,11 @@
     {
       "id": "7f3a7eca-9249-4f9d-8f06-aadf267eb239",
       "part-of-speech": "adjective",
-      "english": "white (having a white color)",
+      "english": "white",
       "swedish": "vit",
       "cefr": "A2",
       "ipa": "/ˈviːt/",
+      "context": "having a white color",
       "register": [
         "All"
       ]
@@ -9916,10 +10216,11 @@
     {
       "id": "0e05172e-3e26-4ad6-b6c8-dcf398b2aed5",
       "part-of-speech": "noun",
-      "english": "a surprise (something not expected)",
+      "english": "a surprise",
       "swedish": "överraskning",
       "cefr": "A2",
       "gender": "common",
+      "context": "something not expected",
       "register": [
         "All"
       ]
@@ -9927,11 +10228,12 @@
     {
       "id": "80a0750a-caac-43fb-97b5-72224aaec7d1",
       "part-of-speech": "noun",
-      "english": "a piece (forming a part of some whole)",
+      "english": "a piece",
       "swedish": "bit",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/biːt/",
+      "context": "forming a part of some whole",
       "register": [
         "All"
       ]
@@ -9973,10 +10275,11 @@
     {
       "id": "530ae1c0-44c9-41c7-a5f7-df1fcbc1cceb",
       "part-of-speech": "adjective",
-      "english": "looking like, resembling (in appearance or other characteristics)",
+      "english": "looking like, resembling",
       "swedish": "lik",
       "cefr": "A2",
       "ipa": "/ˈliːk/",
+      "context": "in appearance or other characteristics",
       "register": [
         "All"
       ]
@@ -9984,13 +10287,14 @@
     {
       "id": "3237da74-0bea-4cc2-98a7-305a05c758c6",
       "part-of-speech": "noun",
-      "english": "English (language)",
+      "english": "English",
       "swedish": "engelska",
       "cefr": "A2",
       "gender": "common",
       "plural": "engelskor",
       "ipa": "/eŋelska/",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -10021,11 +10325,12 @@
     {
       "id": "1ef9bfa7-6c31-4012-896b-0db896f2a287",
       "part-of-speech": "noun",
-      "english": "a responsibility (the state of being responsible)",
+      "english": "a responsibility",
       "swedish": "ansvar",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "ansvar",
+      "context": "the state of being responsible",
       "register": [
         "All"
       ]
@@ -10070,9 +10375,10 @@
     {
       "id": "f416c801-905a-4355-ac24-2042adfeaeff",
       "part-of-speech": "verb",
-      "english": "to become less tense or firm (usually of something concrete), to loosen, to go limp, to start to sag",
+      "english": "to become less tense or firm, to loosen, to go limp, to start to sag",
       "swedish": "slappna",
       "cefr": "A2",
+      "context": "usually of something concrete",
       "register": [
         "All"
       ]
@@ -10091,11 +10397,12 @@
     {
       "id": "979d0a11-eda0-402d-ae00-51bfb55eddfe",
       "part-of-speech": "noun",
-      "english": "an are (square decametre, 100 m²)",
+      "english": "an are",
       "swedish": "ar",
       "cefr": "A2",
       "gender": "common",
       "plural": "ar",
+      "context": "square decametre, 100 m²",
       "register": [
         "All"
       ]
@@ -10103,11 +10410,12 @@
     {
       "id": "de062493-4edd-44a2-9409-55681b057aaf",
       "part-of-speech": "noun",
-      "english": "a venture, an enterprise, a company (in non-legal context, any business, without respect to incorporation)",
+      "english": "a venture, an enterprise, a company",
       "swedish": "företag",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "företag",
+      "context": "in non-legal context, any business, without respect to incorporation",
       "register": [
         "All"
       ]
@@ -10115,9 +10423,10 @@
     {
       "id": "9610c68c-eced-4317-8cc9-a22dda50965d",
       "part-of-speech": "adjective",
-      "english": "prepared, made (from a substance)",
+      "english": "prepared, made",
       "swedish": "beredd",
       "cefr": "A2",
+      "context": "from a substance",
       "register": [
         "All"
       ]
@@ -10145,10 +10454,11 @@
     {
       "id": "4ea010b0-ab1b-4883-b080-dc30c04dbae0",
       "part-of-speech": "verb",
-      "english": "to promise (to commit to something)",
+      "english": "to promise",
       "swedish": "lova",
       "cefr": "A2",
       "ipa": "/²loːˌva/",
+      "context": "to commit to something",
       "register": [
         "All"
       ]
@@ -10167,9 +10477,10 @@
     {
       "id": "47b955f5-4e62-4fd5-9565-6091835b5900",
       "part-of-speech": "verb",
-      "english": "to grasp, take (hold in one's hand); the concrete meaning of grasp",
+      "english": "to grasp, take; the concrete meaning of grasp",
       "swedish": "fatta",
       "cefr": "A2",
+      "context": "hold in one's hand",
       "register": [
         "All"
       ]
@@ -10198,11 +10509,12 @@
     {
       "id": "a1a2c6ed-aef7-43aa-bbc9-2f6b2495c60c",
       "part-of-speech": "noun",
-      "english": "a baby (very young human)",
+      "english": "a baby",
       "swedish": "baby",
       "cefr": "A2",
       "gender": "common",
       "plural": "babys",
+      "context": "very young human",
       "register": [
         "All"
       ]
@@ -10267,22 +10579,24 @@
     {
       "id": "8cf702e3-e27e-48d8-8d0f-98f30b1d8edd",
       "part-of-speech": "verb",
-      "english": "to fuck (have sex (with))",
+      "english": "to fuck",
       "swedish": "knulla",
       "cefr": "A2",
       "ipa": "/²knɵlːa/",
+      "context": "have sex (with)",
       "register": [
-        "All"
+        "vulgärt"
       ]
     },
     {
       "id": "f1b2ffc1-763b-4d28-8f69-1a85c752b190",
       "part-of-speech": "noun",
-      "english": "a monster (similar senses to English)",
+      "english": "a monster",
       "swedish": "monster",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "monster",
+      "context": "similar senses to English",
       "register": [
         "All"
       ]
@@ -10290,12 +10604,13 @@
     {
       "id": "2d5831af-5551-4ebb-b3d3-4d11e96e64d3",
       "part-of-speech": "noun",
-      "english": "boredom, aversion (towards something one has had too much of)",
+      "english": "boredom, aversion",
       "swedish": "leda",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈleːˌda/",
       "countability": "mass",
+      "context": "towards something one has had too much of",
       "register": [
         "All"
       ]
@@ -10303,10 +10618,11 @@
     {
       "id": "84326fff-1231-4c5c-9b40-5a91325dc34a",
       "part-of-speech": "verb",
-      "english": "to (gently) lead; to guide, to conduct",
+      "english": "to lead; to guide, to conduct",
       "swedish": "leda",
       "cefr": "A2",
       "ipa": "/ˈleːˌda/",
+      "context": "gently",
       "register": [
         "All"
       ]
@@ -10372,9 +10688,10 @@
     {
       "id": "1173064d-899d-4e23-a6bf-6de0073902ad",
       "part-of-speech": "verb",
-      "english": "to close, to shut (a door, hatch, border, space, or the like)",
+      "english": "to close, to shut",
       "swedish": "stänga",
       "cefr": "A2",
+      "context": "a door, hatch, border, space, or the like",
       "register": [
         "All"
       ]
@@ -10441,9 +10758,10 @@
     {
       "id": "8cf3f395-7758-4abb-8a35-f50e364e126b",
       "part-of-speech": "verb",
-      "english": "to remember, to recall (recollect)",
+      "english": "to remember, to recall",
       "swedish": "minnas",
       "cefr": "A2",
+      "context": "recollect",
       "register": [
         "All"
       ]
@@ -10496,9 +10814,10 @@
     {
       "id": "6070a239-279c-4b7e-9ecd-a0e102818826",
       "part-of-speech": "verb",
-      "english": "to reverse, to move or drive a vehicle backwards (in the direction one has the back)",
+      "english": "to reverse, to move or drive a vehicle backwards",
       "swedish": "backa",
       "cefr": "A2",
+      "context": "in the direction one has the back",
       "register": [
         "All"
       ]
@@ -10518,9 +10837,10 @@
     {
       "id": "999d595d-b511-4df7-8f7b-b3730012e728",
       "part-of-speech": "verb",
-      "english": "to run (move quickly on legs)",
+      "english": "to run",
       "swedish": "springa",
       "cefr": "A2",
+      "context": "move quickly on legs",
       "register": [
         "All"
       ]
@@ -10565,7 +10885,10 @@
       "swedish": "wow",
       "cefr": "A2",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -10593,13 +10916,14 @@
     {
       "id": "e8c72b87-caa3-492f-b244-c260b8319755",
       "part-of-speech": "noun",
-      "english": "paper (material)",
+      "english": "paper",
       "swedish": "papper",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "papper",
       "ipa": "/²papːɛr/",
       "countability": "mass",
+      "context": "material",
       "register": [
         "All"
       ]
@@ -10618,12 +10942,13 @@
     {
       "id": "28bc853f-dcaf-4139-aa8e-3b7f7f4d0935",
       "part-of-speech": "noun",
-      "english": "order (arrangement, disposition, sequence)",
+      "english": "order",
       "swedish": "ordning",
       "cefr": "A2",
       "gender": "common",
       "ipa": "/ˈoːrdˌnɪŋː/",
       "countability": "mass",
+      "context": "arrangement, disposition, sequence",
       "register": [
         "All"
       ]
@@ -10776,11 +11101,12 @@
     {
       "id": "173d54ca-24e8-4e74-8c9e-a15e39af61d9",
       "part-of-speech": "noun",
-      "english": "a second (SI unit of time)",
+      "english": "a second",
       "swedish": "sekund",
       "cefr": "A2",
       "gender": "common",
       "plural": "sekunder",
+      "context": "SI unit of time",
       "register": [
         "All"
       ]
@@ -10788,10 +11114,11 @@
     {
       "id": "cc6ebfb5-2ffd-4b59-9037-c023660060fd",
       "part-of-speech": "adjective",
-      "english": "open (not closed)",
+      "english": "open",
       "swedish": "öppen",
       "cefr": "A2",
       "ipa": "/²œpɛn/",
+      "context": "not closed",
       "register": [
         "All"
       ]
@@ -10812,9 +11139,10 @@
     {
       "id": "47816eb3-5e68-4139-8143-468b6830c171",
       "part-of-speech": "adjective",
-      "english": "deserted, desolate, empty (void of people or human activity)",
+      "english": "deserted, desolate, empty",
       "swedish": "öde",
       "cefr": "A2",
+      "context": "void of people or human activity",
       "register": [
         "All"
       ]
@@ -10822,12 +11150,13 @@
     {
       "id": "1fc73673-a846-4ade-990e-fd5d9b8e0bfa",
       "part-of-speech": "noun",
-      "english": "a price (monetary or other cost)",
+      "english": "a price",
       "swedish": "pris",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "priser",
       "ipa": "/priːs/",
+      "context": "monetary or other cost",
       "register": [
         "All"
       ]
@@ -10847,12 +11176,13 @@
     {
       "id": "b4a6937a-de5c-4782-a04a-e9f62a6ca4e3",
       "part-of-speech": "noun",
-      "english": "a cousin (the child of a person's aunt or uncle)",
+      "english": "a cousin",
       "swedish": "kusin",
       "cefr": "A2",
       "gender": "common",
       "plural": "kusiner",
       "ipa": "/kɵˈsiːn/",
+      "context": "the child of a person's aunt or uncle",
       "register": [
         "All"
       ]
@@ -10880,9 +11210,10 @@
     {
       "id": "6d73a084-e05d-4449-afac-946cde19c528",
       "part-of-speech": "adjective",
-      "english": "special (distinguished by a unique or unusual quality)",
+      "english": "special",
       "swedish": "speciell",
       "cefr": "A2",
+      "context": "distinguished by a unique or unusual quality",
       "register": [
         "All"
       ]
@@ -10890,11 +11221,12 @@
     {
       "id": "66d8e203-4736-4244-8714-81c981a477de",
       "part-of-speech": "noun",
-      "english": "a female American (female born in, being a citizen of, or inhabiting the United States of America)",
+      "english": "a female American",
       "swedish": "amerikanska",
       "cefr": "A2",
       "gender": "common",
       "plural": "amerikanskor",
+      "context": "female born in, being a citizen of, or inhabiting the United States of America",
       "register": [
         "All"
       ]
@@ -10902,9 +11234,10 @@
     {
       "id": "bad2999d-fb94-4112-ba65-2da71898c507",
       "part-of-speech": "adverb",
-      "english": "hardly, scarcely (certainly not)",
+      "english": "hardly, scarcely",
       "swedish": "knappast",
       "cefr": "A2",
+      "context": "certainly not",
       "register": [
         "All"
       ]
@@ -10932,9 +11265,10 @@
     {
       "id": "25840cae-50ff-4735-ae56-ed273734a31c",
       "part-of-speech": "adjective",
-      "english": "innocent (not guilty)",
+      "english": "innocent",
       "swedish": "oskyldig",
       "cefr": "A2",
+      "context": "not guilty",
       "register": [
         "All"
       ]
@@ -10990,10 +11324,11 @@
     {
       "id": "baaf74a1-c7a9-4547-a534-8a29cc3cc555",
       "part-of-speech": "verb",
-      "english": "to concern, to bother (one's head or the like with something)",
+      "english": "to concern, to bother",
       "swedish": "bry",
       "cefr": "A2",
       "ipa": "/bryː/",
+      "context": "one's head or the like with something",
       "register": [
         "All"
       ]
@@ -11025,11 +11360,12 @@
     {
       "id": "8fc5830e-12a5-4590-a39b-aedb4ddd9b11",
       "part-of-speech": "noun",
-      "english": "a hole (opening straight through or partway through something)",
+      "english": "a hole",
       "swedish": "hål",
       "cefr": "A2",
       "gender": "neuter",
       "plural": "hål",
+      "context": "opening straight through or partway through something",
       "register": [
         "All"
       ]
@@ -11037,9 +11373,10 @@
     {
       "id": "96a3aac4-c890-4c15-89ac-dd587cdd36cc",
       "part-of-speech": "adjective",
-      "english": "shot (which has been hit by a shot but not necessarily killed)",
+      "english": "shot",
       "swedish": "skjuten",
       "cefr": "A2",
+      "context": "which has been hit by a shot but not necessarily killed",
       "register": [
         "All"
       ]
@@ -11116,9 +11453,10 @@
     {
       "id": "0da30ffb-2d68-4512-9f0e-70fb8d3e13cc",
       "part-of-speech": "adverb",
-      "english": "at the front (of for example a bus)",
+      "english": "at the front",
       "swedish": "framme",
       "cefr": "A2",
+      "context": "of for example a bus",
       "register": [
         "All"
       ]
@@ -11136,12 +11474,13 @@
     {
       "id": "b8ea0312-8f75-4d07-9e9f-eb9325fa5a58",
       "part-of-speech": "noun",
-      "english": "a (male or female) teacher",
+      "english": "a teacher",
       "swedish": "lärare",
       "cefr": "A2",
       "gender": "common",
       "plural": "lärare",
       "ipa": "/²lɛːrarɛ/",
+      "context": "male or female",
       "register": [
         "All"
       ]
@@ -11163,7 +11502,10 @@
       "swedish": "OK",
       "cefr": "A2",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -11173,7 +11515,10 @@
       "swedish": "OK",
       "cefr": "A2",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {
@@ -11183,7 +11528,10 @@
       "swedish": "OK",
       "cefr": "A2",
       "register": [
-        "All"
+        "neutralt",
+        "vardagligt",
+        "slang",
+        "vulgärt"
       ]
     },
     {

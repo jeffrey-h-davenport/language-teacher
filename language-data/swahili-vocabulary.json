@@ -1128,12 +1128,12 @@
     {
       "id": "cd3c9c92-8b94-4c2e-8d1f-2cafa5b1d5b5",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "swahili": "chungwa",
       "plural": "machungwa",
       "cefr": "A1",
       "ipa": "[ˈtʃuŋɡwɑ]",
-      "context": "class 5/6 (ji-/ma-)",
+      "context": "class 5/6 (ji-/ma-); fruit",
       "register": [
         "All"
       ]
@@ -1191,11 +1191,11 @@
     {
       "id": "bdfec7ea-0474-44e4-a320-3c251bc40261",
       "part-of-speech": "noun",
-      "english": "ugali (maize porridge)",
+      "english": "ugali",
       "swahili": "ugali",
       "cefr": "A1",
       "ipa": "[uˈɠɑli]",
-      "context": "class 11 (u-)",
+      "context": "class 11 (u-); maize porridge",
       "register": [
         "All"
       ]
@@ -1639,12 +1639,12 @@
     {
       "id": "51ae0e27-edd3-4f2a-b536-3a8c7e23166a",
       "part-of-speech": "noun",
-      "english": "minibus (public transport)",
+      "english": "minibus",
       "swahili": "daladala",
       "plural": "daladala",
       "cefr": "A2",
       "ipa": "[ɗɑlɑˈɗɑlɑ]",
-      "context": "class 9/10 (same form in the plural); the word used in Tanzania (in Kenya: matatu)",
+      "context": "class 9/10 (same form in the plural); the word used in Tanzania (in Kenya: matatu); public transport",
       "register": [
         "All"
       ]
@@ -3674,10 +3674,11 @@
     {
       "id": "c627269d-a64c-4b26-bb4d-148faba5f2c3",
       "part-of-speech": "verb",
-      "english": "to marry (said of a man)",
+      "english": "to marry",
       "swahili": "kuoa",
       "cefr": "A2",
       "ipa": "[kuˈɔɑ]",
+      "context": "said of a man",
       "register": [
         "All"
       ]
@@ -3685,10 +3686,11 @@
     {
       "id": "ad5e10ec-820b-4a41-9f78-fb0beca38fe7",
       "part-of-speech": "verb",
-      "english": "to get married (said of a woman)",
+      "english": "to get married",
       "swahili": "kuolewa",
       "cefr": "A2",
       "ipa": "[kuɔˈlɛwɑ]",
+      "context": "said of a woman",
       "register": [
         "All"
       ]
@@ -3917,10 +3919,11 @@
     {
       "id": "a0909fdc-c6df-4575-a882-bb976f1ae749",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "swahili": "kuhama",
       "cefr": "A2",
       "ipa": "[kuˈhɑmɑ]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -3999,11 +4002,11 @@
     {
       "id": "f9fbedd4-22c3-4f41-b209-b7cd9e54f4eb",
       "part-of-speech": "adjective",
-      "english": "old (of people)",
+      "english": "old",
       "swahili": "-zee",
       "cefr": "A1",
       "ipa": "[ˈzɛɛ]",
-      "context": "takes the noun's class prefix: mtu mzee, kitabu kizee",
+      "context": "takes the noun's class prefix: mtu mzee, kitabu kizee; of people",
       "register": [
         "All"
       ]
@@ -4011,11 +4014,11 @@
     {
       "id": "e692f84d-2e26-428c-9a18-36c233c4ad88",
       "part-of-speech": "adjective",
-      "english": "old, worn (of things)",
+      "english": "old, worn",
       "swahili": "-kuukuu",
       "cefr": "A2",
       "ipa": "[kuuˈkuu]",
-      "context": "takes the noun's class prefix: mtu mkuukuu, kitabu kikuukuu",
+      "context": "takes the noun's class prefix: mtu mkuukuu, kitabu kikuukuu; of things",
       "register": [
         "All"
       ]
@@ -4287,11 +4290,11 @@
     {
       "id": "2c90a1aa-6bf3-45c1-bbb8-0a68a568595c",
       "part-of-speech": "adjective",
-      "english": "ill, sick (of a person)",
+      "english": "ill, sick",
       "swahili": "mgonjwa",
       "cefr": "A1",
       "ipa": "[m̩ˈɠɔɲɟwɑ]",
-      "context": "also a noun: patient (plural wagonjwa)",
+      "context": "also a noun: patient (plural wagonjwa); of a person",
       "register": [
         "All"
       ]
@@ -5057,11 +5060,11 @@
     {
       "id": "f7d91b56-125e-4e17-8fe6-af93d741309b",
       "part-of-speech": "pronoun",
-      "english": "this (person)",
+      "english": "this",
       "swahili": "huyu",
       "cefr": "A1",
       "ipa": "[ˈhuju]",
-      "context": "for things it changes with the class: hiki kitabu, hii nyumba",
+      "context": "for things it changes with the class: hiki kitabu, hii nyumba; person",
       "register": [
         "All"
       ]
@@ -5069,11 +5072,11 @@
     {
       "id": "99e756d4-f04c-40e6-a5a2-16d5fffdf7ab",
       "part-of-speech": "pronoun",
-      "english": "that (person)",
+      "english": "that",
       "swahili": "yule",
       "cefr": "A1",
       "ipa": "[ˈjulɛ]",
-      "context": "for things: kile kitabu, ile nyumba",
+      "context": "for things: kile kitabu, ile nyumba; person",
       "register": [
         "All"
       ]
@@ -5152,11 +5155,11 @@
     {
       "id": "b42ca8e0-58f0-41ea-a8c4-4813186879d7",
       "part-of-speech": "preposition",
-      "english": "by, with; at (someone's place); for",
+      "english": "by, with; at; for",
       "swahili": "kwa",
       "cefr": "A1",
       "ipa": "[kwɑ]",
-      "context": "kwa basi: by bus",
+      "context": "kwa basi: by bus; someone's place",
       "register": [
         "All"
       ]
@@ -5450,11 +5453,11 @@
     {
       "id": "d45868dc-3773-45b4-868f-2ae4e28bfd33",
       "part-of-speech": "interjection",
-      "english": "hello (often to visitors)",
+      "english": "hello",
       "swahili": "jambo",
       "cefr": "A1",
       "ipa": "[ˈʄɑmbɔ]",
-      "context": "among Swahili speakers: hujambo? — reply: sijambo",
+      "context": "among Swahili speakers: hujambo? — reply: sijambo; often to visitors",
       "register": [
         "All"
       ]
@@ -5480,7 +5483,9 @@
       "ipa": "[ˈmɑmbɔ]",
       "context": "reply: poa (cool, fine)",
       "register": [
-        "All"
+        "mazungumzo",
+        "Sheng",
+        "matusi"
       ]
     },
     {
@@ -5498,10 +5503,11 @@
     {
       "id": "8d026adf-0691-4e4a-9ff9-4bd59c699c73",
       "part-of-speech": "interjection",
-      "english": "fine, good (in reply)",
+      "english": "fine, good",
       "swahili": "nzuri",
       "cefr": "A1",
       "ipa": "[ˈnzuɾi]",
+      "context": "in reply",
       "register": [
         "All"
       ]
@@ -5554,11 +5560,11 @@
     {
       "id": "cb565694-2521-4cd2-9bfe-4973ef87a31f",
       "part-of-speech": "interjection",
-      "english": "sorry (sympathy)",
+      "english": "sorry",
       "swahili": "pole",
       "cefr": "A1",
       "ipa": "[ˈpɔlɛ]",
-      "context": "said when someone is hurt or having a hard time",
+      "context": "said when someone is hurt or having a hard time; sympathy",
       "register": [
         "All"
       ]

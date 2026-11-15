@@ -300,6 +300,33 @@ const REGISTER_OPTIONS = {
   'zh': [['书面语', 'written, formal'], ['敬辞', 'honorific'], ['谦辞', 'humble'], ['中性', 'neutral'], ['口语', 'colloquial'],
          ['方言', 'dialect'], ['俚语', 'slang'], ['詈语', 'abusive']],
 }
+// Where each language's formality scale is neutral, and which of its
+// registers are categories rather than levels on that scale. A word is
+// marked with every register in which it sounds natural; 'All' is shorthand
+// for all of them. A word restricted to one side of the scale covers a
+// contiguous stretch of it: an elevated word runs from the top down to its
+// level, a colloquial word from its level down to the bottom.
+const REGISTER_NEUTRAL = {
+  de: 'normalsprachlich', fr: 'courant', es: 'estándar', pt: 'corrente', it: 'neutro', ro: 'neutru', nl: 'neutraal',
+  sv: 'neutralt', no: 'nøytralt', da: 'neutralt', fi: 'yleiskieli', cs: 'spisovná', pl: 'neutralny', ru: 'нейтральное',
+  uk: 'нейтральне', sh: 'neutralni', hu: 'semleges', tr: 'standart', ar: 'محايد', he: 'תקני', hi: 'मानक', mr: 'प्रमाण',
+  bn: 'চলিত', id: 'baku', sw: 'sanifu', ja: '普通', ko: '예사말', zh: '中性',
+}
+const REGISTER_CATEGORIES = {
+  ja: ['尊敬語', '謙譲語'], ko: ['높임말'], zh: ['敬辞', '谦辞', '方言'], bn: ['আঞ্চলিক'],
+}
+// A word's registers as shown on a card: a contiguous run on the scale is
+// written as its two ends ("umgangssprachlich – vulgär"), categories after.
+function formatRegisters(langCode, registers) {
+  const scale = (REGISTER_OPTIONS[langCode] || []).map(([v]) => v).filter(v => !(REGISTER_CATEGORIES[langCode] || []).includes(v))
+  const onScale = registers.filter(r => scale.includes(r)).sort((a, b) => scale.indexOf(a) - scale.indexOf(b))
+  const others  = registers.filter(r => !scale.includes(r))
+  const idx = onScale.map(r => scale.indexOf(r))
+  const contiguous = idx.length > 2 && idx.every((v, i) => i === 0 || v === idx[i - 1] + 1)
+  const levels = contiguous ? [`${onScale[0]} – ${onScale[onScale.length - 1]}`] : onScale
+  return [...levels, ...others].join(', ')
+}
+
 // A register value's English gloss for the current language ('' if unknown).
 function registerGloss(langCode, value) {
   const hit = (REGISTER_OPTIONS[langCode] || []).find(([v]) => v === value)
@@ -846,7 +873,7 @@ function displayQuestion(q) {
   const registers = word.register && word.register.length ? word.register : ['All']
   const showRegister = !showNative && !(registers.length === 1 && registers[0] === 'All')
   $('word-register').classList.toggle('hidden', !showRegister)
-  $('word-register').textContent = showRegister ? registers.join(', ') : ''
+  $('word-register').textContent = showRegister ? formatRegisters(currentLangCode(), registers) : ''
   $('word-register').title = showRegister ? registers.map(r => registerGloss(currentLangCode(), r)).filter(Boolean).join(', ') : ''
 
   if (!showNative && word.ipa) renderPronunciationInto($('word-ipa'), word)
@@ -1320,7 +1347,7 @@ function displayIntroCard() {
   const registers = word.register && word.register.length ? word.register : ['All']
   const showRegister = !(registers.length === 1 && registers[0] === 'All')
   $('intro-register').classList.toggle('hidden', !showRegister)
-  $('intro-register').textContent = showRegister ? registers.join(', ') : ''
+  $('intro-register').textContent = showRegister ? formatRegisters(currentLangCode(), registers) : ''
   $('intro-register').title = showRegister ? registers.map(r => registerGloss(currentLangCode(), r)).filter(Boolean).join(', ') : ''
 
   renderPronunciationInto($('intro-ipa'), word)
@@ -1885,7 +1912,8 @@ function applySearch() {
     if (status === 'notstarted' && (w.learned || w.score > 0))     return false
     if (register) {
       const wordRegisters = w.register && w.register.length ? w.register : ['All']
-      if (!wordRegisters.includes(register)) return false
+      // 'All' means natural in every register, so it matches any filter
+      if (!wordRegisters.includes(register) && !wordRegisters.includes('All')) return false
     }
     return true
   })

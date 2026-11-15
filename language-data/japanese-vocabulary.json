@@ -786,10 +786,11 @@
     {
       "id": "0a88601c-30ac-4161-b6af-ac82b2f222c9",
       "part-of-speech": "noun",
-      "english": "tea (green tea)",
+      "english": "tea",
       "japanese": "お茶",
       "cefr": "A1",
       "ipa": "[otɕa]",
+      "context": "green tea",
       "register": [
         "All"
       ]
@@ -852,10 +853,11 @@
     {
       "id": "336630b3-95f9-4488-a884-c6153e679c59",
       "part-of-speech": "noun",
-      "english": "chicken (meat)",
+      "english": "chicken",
       "japanese": "鶏肉",
       "cefr": "A2",
       "ipa": "[toɾiɲikɯ]",
+      "context": "meat",
       "register": [
         "All"
       ]
@@ -940,10 +942,11 @@
     {
       "id": "b932cfe2-edd9-4a08-bc23-c3937ac0075c",
       "part-of-speech": "noun",
-      "english": "rice (uncooked)",
+      "english": "rice",
       "japanese": "米",
       "cefr": "A2",
       "ipa": "[komeꜜ]",
+      "context": "uncooked",
       "register": [
         "All"
       ]
@@ -2023,10 +2026,11 @@
     {
       "id": "5e1cbab4-3584-4f94-9f0f-7fae047b4caa",
       "part-of-speech": "noun",
-      "english": "Japanese (language)",
+      "english": "Japanese",
       "japanese": "日本語",
       "cefr": "A1",
       "ipa": "[ɲihoŋɡo]",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2034,10 +2038,11 @@
     {
       "id": "05f22998-b9fa-433c-8151-d9042b7b2cec",
       "part-of-speech": "noun",
-      "english": "English (language)",
+      "english": "English",
       "japanese": "英語",
       "cefr": "A1",
       "ipa": "[eːɡo]",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2112,10 +2117,11 @@
     {
       "id": "9b604fb2-f646-4737-8a86-c4a840703a05",
       "part-of-speech": "noun",
-      "english": "problem; question (on a test)",
+      "english": "problem; question",
       "japanese": "問題",
       "cefr": "A2",
       "ipa": "[moɴdai]",
+      "context": "on a test",
       "register": [
         "All"
       ]
@@ -2327,11 +2333,11 @@
     {
       "id": "37e4e5d2-4066-40af-b811-ddf68bbc7253",
       "part-of-speech": "verb",
-      "english": "to be, exist (people, animals)",
+      "english": "to be, exist",
       "japanese": "いる",
       "cefr": "A1",
       "ipa": "[iɾɯ]",
-      "context": "ru-verb; polite: います",
+      "context": "ru-verb; polite: います; people, animals",
       "register": [
         "All"
       ]
@@ -2639,11 +2645,11 @@
     {
       "id": "048772a3-c623-43cd-8b22-68089d39ffec",
       "part-of-speech": "verb",
-      "english": "to live (reside)",
+      "english": "to live",
       "japanese": "住む",
       "cefr": "A1",
       "ipa": "[sɯꜜmɯ]",
-      "context": "u-verb; polite: 住みます; \"I live in …\" is …に住んでいます",
+      "context": "u-verb; polite: 住みます; \"I live in …\" is …に住んでいます; reside",
       "register": [
         "All"
       ]
@@ -2723,11 +2729,11 @@
     {
       "id": "a4dc735f-59a0-4df6-8c8f-b74976b72316",
       "part-of-speech": "verb",
-      "english": "to ride, get on (a vehicle)",
+      "english": "to ride, get on",
       "japanese": "乗る",
       "cefr": "A1",
       "ipa": "[noɾɯ]",
-      "context": "u-verb; polite: 乗ります; 電車に乗る: to take the train",
+      "context": "u-verb; polite: 乗ります; 電車に乗る: to take the train; a vehicle",
       "register": [
         "All"
       ]
@@ -2735,11 +2741,11 @@
     {
       "id": "acbb68f2-aee6-4a46-97dc-b329429131b4",
       "part-of-speech": "verb",
-      "english": "to get off (a vehicle)",
+      "english": "to get off",
       "japanese": "降りる",
       "cefr": "A1",
       "ipa": "[oɾiꜜɾɯ]",
-      "context": "ru-verb; polite: 降ります",
+      "context": "ru-verb; polite: 降ります; a vehicle",
       "register": [
         "All"
       ]
@@ -2963,11 +2969,11 @@
     {
       "id": "92e286ea-d405-49c4-b8a7-468655660484",
       "part-of-speech": "verb",
-      "english": "to wear, put on (clothes)",
+      "english": "to wear, put on",
       "japanese": "着る",
       "cefr": "A1",
       "ipa": "[kiɾɯ]",
-      "context": "ru-verb; polite: 着ます; shoes and pants use 履く (はく)",
+      "context": "ru-verb; polite: 着ます; shoes and pants use 履く (はく); clothes",
       "register": [
         "All"
       ]
@@ -3143,11 +3149,11 @@
     {
       "id": "1abd0a80-7dc9-4d83-adf3-18c928c5194e",
       "part-of-speech": "verb",
-      "english": "to fall (rain, snow)",
+      "english": "to fall",
       "japanese": "降る",
       "cefr": "A2",
       "ipa": "[ɸɯꜜɾɯ]",
-      "context": "u-verb; polite: 降ります; 雨が降る: it rains",
+      "context": "u-verb; polite: 降ります; 雨が降る: it rains; rain, snow",
       "register": [
         "All"
       ]
@@ -3239,11 +3245,11 @@
     {
       "id": "f31b119e-33a0-41f4-acbe-953d30881776",
       "part-of-speech": "adjective",
-      "english": "old (of things)",
+      "english": "old",
       "japanese": "古い",
       "cefr": "A1",
       "ipa": "[ɸɯɾɯꜜi]",
-      "context": "i-adjective; for people: 年を取った",
+      "context": "i-adjective; for people: 年を取った; of things",
       "register": [
         "All"
       ]
@@ -3299,11 +3305,11 @@
     {
       "id": "cf0c5718-7630-41ff-860a-37a58010d524",
       "part-of-speech": "adjective",
-      "english": "hot (weather)",
+      "english": "hot",
       "japanese": "暑い",
       "cefr": "A1",
       "ipa": "[atsɯꜜi]",
-      "context": "i-adjective; hot to the touch: 熱い (same sound)",
+      "context": "i-adjective; hot to the touch: 熱い (same sound); weather",
       "register": [
         "All"
       ]
@@ -3707,11 +3713,11 @@
     {
       "id": "657547c6-27c3-4eb9-b601-25375c39806b",
       "part-of-speech": "adjective",
-      "english": "wanted (to want something)",
+      "english": "wanted",
       "japanese": "欲しい",
       "cefr": "A1",
       "ipa": "[hoɕiꜜː]",
-      "context": "i-adjective; 水が欲しい: I want water",
+      "context": "i-adjective; 水が欲しい: I want water; to want something",
       "register": [
         "All"
       ]
@@ -3755,11 +3761,11 @@
     {
       "id": "04197874-48a3-4edd-84fd-b26e7b69c26e",
       "part-of-speech": "adjective",
-      "english": "liked (to like)",
+      "english": "liked",
       "japanese": "好き",
       "cefr": "A1",
       "ipa": "[sɯ̥kiꜜ]",
-      "context": "na-adjective: 好きな + noun; 猫が好きです: I like cats",
+      "context": "na-adjective: 好きな + noun; 猫が好きです: I like cats; to like",
       "register": [
         "All"
       ]
@@ -3767,11 +3773,11 @@
     {
       "id": "672cfc4f-696f-4e5c-aab3-255ec81261a6",
       "part-of-speech": "adjective",
-      "english": "disliked (to dislike)",
+      "english": "disliked",
       "japanese": "嫌い",
       "cefr": "A1",
       "ipa": "[kiɾai]",
-      "context": "na-adjective: 嫌いな + noun",
+      "context": "na-adjective: 嫌いな + noun; to dislike",
       "register": [
         "All"
       ]
@@ -3803,11 +3809,11 @@
     {
       "id": "452ac33c-11ce-4454-8e57-5d1ffa3d3658",
       "part-of-speech": "adjective",
-      "english": "free (not busy)",
+      "english": "free",
       "japanese": "暇",
       "cefr": "A1",
       "ipa": "[hima]",
-      "context": "na-adjective: 暇な + noun",
+      "context": "na-adjective: 暇な + noun; not busy",
       "register": [
         "All"
       ]
@@ -4055,10 +4061,11 @@
     {
       "id": "2101de4d-f3f2-41b9-a923-7e2940f534b3",
       "part-of-speech": "adverb",
-      "english": "already; (not) any more",
+      "english": "already; any more",
       "japanese": "もう",
       "cefr": "A1",
       "ipa": "[moꜜː]",
+      "context": "not",
       "register": [
         "All"
       ]
@@ -4066,10 +4073,11 @@
     {
       "id": "a57fed01-75ce-4923-a710-f28fc80be402",
       "part-of-speech": "adverb",
-      "english": "still; (not) yet",
+      "english": "still; yet",
       "japanese": "まだ",
       "cefr": "A1",
       "ipa": "[maꜜda]",
+      "context": "not",
       "register": [
         "All"
       ]
@@ -4250,7 +4258,9 @@
       "ipa": "[naꜜze]",
       "context": "everyday: どうして",
       "register": [
-        "All"
+        "文語",
+        "丁寧語",
+        "普通"
       ]
     },
     {
@@ -4267,10 +4277,11 @@
     {
       "id": "a1563ff9-5762-4e02-8b0a-6a5925e2edf4",
       "part-of-speech": "adverb",
-      "english": "how much (price)",
+      "english": "how much",
       "japanese": "いくら",
       "cefr": "A1",
       "ipa": "[iꜜkɯɾa]",
+      "context": "price",
       "register": [
         "All"
       ]
@@ -4402,11 +4413,11 @@
     {
       "id": "06f07f18-500b-4d4d-9ec1-d419894f1e40",
       "part-of-speech": "pronoun",
-      "english": "this (+ noun)",
+      "english": "this",
       "japanese": "この",
       "cefr": "A1",
       "ipa": "[kono]",
-      "context": "この本: this book",
+      "context": "この本: this book; + noun",
       "register": [
         "All"
       ]
@@ -4414,10 +4425,11 @@
     {
       "id": "b4294bf7-d554-4620-90fb-64b59785e9dd",
       "part-of-speech": "pronoun",
-      "english": "that (+ noun)",
+      "english": "that",
       "japanese": "その",
       "cefr": "A1",
       "ipa": "[sono]",
+      "context": "+ noun",
       "register": [
         "All"
       ]
@@ -4436,10 +4448,11 @@
     {
       "id": "e8df9e6f-9912-48ed-930b-0591511470d3",
       "part-of-speech": "pronoun",
-      "english": "there (near you)",
+      "english": "there",
       "japanese": "そこ",
       "cefr": "A1",
       "ipa": "[soko]",
+      "context": "near you",
       "register": [
         "All"
       ]
@@ -4550,11 +4563,11 @@
     {
       "id": "c38d930e-2667-45ff-8dfb-a591d6b22f02",
       "part-of-speech": "preposition",
-      "english": "to; at (a time); in",
+      "english": "to; at; in",
       "japanese": "に",
       "cefr": "A1",
       "ipa": "[ɲi]",
-      "context": "particle, after the word: 駅に行く, 七時に",
+      "context": "particle, after the word: 駅に行く, 七時に; a time",
       "register": [
         "All"
       ]
@@ -4562,11 +4575,11 @@
     {
       "id": "3f848598-a8a8-43ee-87cb-aa1b4466b322",
       "part-of-speech": "preposition",
-      "english": "at (where something happens); by (means)",
+      "english": "at; by",
       "japanese": "で",
       "cefr": "A1",
       "ipa": "[de]",
-      "context": "particle, after the word: 家で食べる, バスで",
+      "context": "particle, after the word: 家で食べる, バスで; at: where something happens; by: means",
       "register": [
         "All"
       ]
@@ -4646,10 +4659,11 @@
     {
       "id": "9e7c28aa-b8d8-46d9-abae-fc31c7b0c703",
       "part-of-speech": "conjunction",
-      "english": "and (then)",
+      "english": "and",
       "japanese": "そして",
       "cefr": "A1",
       "ipa": "[soɕi̥te]",
+      "context": "then",
       "register": [
         "All"
       ]
@@ -4740,7 +4754,9 @@
       "ipa": "[ohajoː ɡozaimaꜜsɯ̥]",
       "context": "casual: おはよう",
       "register": [
-        "All"
+        "文語",
+        "丁寧語",
+        "普通"
       ]
     },
     {
@@ -4763,7 +4779,9 @@
       "ipa": "[ojasɯminasaꜜi]",
       "context": "casual: おやすみ",
       "register": [
-        "All"
+        "文語",
+        "丁寧語",
+        "普通"
       ]
     },
     {
@@ -4780,12 +4798,15 @@
     {
       "id": "270ae627-6528-4542-a42d-105d626b7c42",
       "part-of-speech": "interjection",
-      "english": "bye, see you (casual)",
+      "english": "bye, see you",
       "japanese": "じゃあね",
       "cefr": "A1",
       "ipa": "[dʑaː ne]",
+      "context": "casual",
       "register": [
-        "All"
+        "くだけた",
+        "俗語",
+        "卑語"
       ]
     },
     {
@@ -4836,10 +4857,11 @@
     {
       "id": "eda91c0e-eb4b-4c6c-9886-1859bb115599",
       "part-of-speech": "interjection",
-      "english": "please (asking for something)",
+      "english": "please",
       "japanese": "お願いします",
       "cefr": "A1",
       "ipa": "[oneɡai ɕimaꜜsɯ̥]",
+      "context": "asking for something",
       "register": [
         "All"
       ]
@@ -4869,10 +4891,11 @@
     {
       "id": "48e4e458-9cdd-49c7-88ea-5ddb6dbbb2bb",
       "part-of-speech": "interjection",
-      "english": "hello (on the phone)",
+      "english": "hello",
       "japanese": "もしもし",
       "cefr": "A1",
       "ipa": "[moꜜɕimoɕi]",
+      "context": "on the phone",
       "register": [
         "All"
       ]
@@ -4891,10 +4914,11 @@
     {
       "id": "9a8c10de-23b0-42a9-8225-3aec542814f5",
       "part-of-speech": "interjection",
-      "english": "welcome (in stores, restaurants)",
+      "english": "welcome",
       "japanese": "いらっしゃいませ",
       "cefr": "A2",
       "ipa": "[iɾaɕɕaimaꜜse]",
+      "context": "in stores, restaurants",
       "register": [
         "All"
       ]

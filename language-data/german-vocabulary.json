@@ -202,7 +202,8 @@
       "plural": "Menscher",
       "cefr": "A1",
       "register": [
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -1761,13 +1762,16 @@
     {
       "id": "bda6f18f-4c9c-4b1c-9ca7-b52c69aaf40f",
       "part-of-speech": "noun",
-      "english": "dude, buddy (to an old friend)",
+      "english": "dude, buddy",
       "german": "altes Haus",
       "gender": "neuter",
       "cefr": "B2",
-      "context": "friendly form of address: Na, altes Haus, wie geht's?",
+      "context": "friendly form of address: Na, altes Haus, wie geht's?; to an old friend",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -2408,7 +2412,7 @@
     {
       "id": "d025571a-8d90-4281-9fcf-6f19b16fd223",
       "part-of-speech": "noun",
-      "english": "dough",
+      "english": "money",
       "german": "Geld",
       "gender": "neuter",
       "plural": "Gelder",
@@ -2560,7 +2564,7 @@
     {
       "id": "5b9290ed-63a8-49ef-a8ab-b55fe049e8f5",
       "part-of-speech": "adjective",
-      "english": "cool",
+      "english": "modern",
       "german": "modern",
       "cefr": "A2",
       "register": [
@@ -2787,7 +2791,7 @@
     {
       "id": "de24f374-c365-4710-bfc8-721093fd758d",
       "part-of-speech": "adjective",
-      "english": "bygone",
+      "english": "past, bygone",
       "german": "vergangen",
       "cefr": "B2",
       "register": [
@@ -4501,7 +4505,10 @@
       "german": "toll",
       "cefr": "A2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -4694,7 +4701,9 @@
       "plural": "Alte",
       "cefr": "A1",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -5316,11 +5325,12 @@
     {
       "id": "dd354abd-10b6-4c64-8929-868ba6caeda8",
       "part-of-speech": "noun",
-      "english": "nut (hardware)",
+      "english": "nut",
       "german": "Mutter",
       "gender": "feminine",
       "plural": "Muttern",
       "cefr": "B1",
+      "context": "hardware",
       "register": [
         "All"
       ]
@@ -6135,7 +6145,7 @@
     {
       "id": "db233308-5eb5-4df9-ab36-1135a42c1773",
       "part-of-speech": "noun",
-      "english": "eve",
+      "english": "evening",
       "german": "Abend",
       "gender": "masculine",
       "plural": "Abende",
@@ -7729,7 +7739,10 @@
       "plural": "Jobs",
       "cefr": "A1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -8342,11 +8355,12 @@
     {
       "id": "ee7f19b9-7d11-435a-947e-c1e2a1e0ff1f",
       "part-of-speech": "noun",
-      "english": "command structure (military)",
+      "english": "command structure",
       "german": "Führung",
       "gender": "feminine",
       "plural": "Führungen",
       "cefr": "A2",
+      "context": "military",
       "register": [
         "All"
       ]
@@ -10069,7 +10083,10 @@
       "german": "stecken",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -12629,7 +12646,7 @@
       "plural": "Arbeitnehmer",
       "cefr": "C2",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -14827,11 +14844,12 @@
     {
       "id": "61ce14da-2929-490c-beb7-323644466ecf",
       "part-of-speech": "noun",
-      "english": "stay; stop (on a journey)",
+      "english": "stay; stop",
       "german": "Aufenthalt",
       "gender": "masculine",
       "plural": "Aufenthalte",
       "cefr": "B2",
+      "context": "on a journey",
       "register": [
         "All"
       ]
@@ -15027,9 +15045,10 @@
     {
       "id": "e5ffd737-4a83-4c0d-a5da-8f8094cf3c5d",
       "part-of-speech": "verb",
-      "english": "be",
+      "english": "read, say (of a text)",
       "german": "lauten",
       "cefr": "C1",
+      "context": "Der Satz lautet: … — the sentence reads …",
       "register": [
         "gehoben"
       ]
@@ -15077,7 +15096,11 @@
       "plural": "Infos",
       "cefr": "C1",
       "register": [
-        "All"
+        "normalsprachlich",
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -15363,7 +15386,7 @@
       "plural": "Senioren",
       "cefr": "C1",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -17133,9 +17156,10 @@
     {
       "id": "67299f93-1548-4f66-8eb0-f9af61787731",
       "part-of-speech": "verb",
-      "english": "to administer (a drug, poison, remedy to somebody)",
+      "english": "to administer",
       "german": "eingeben",
       "cefr": "C1",
+      "context": "a drug, poison, remedy to somebody",
       "register": [
         "All"
       ]
@@ -18079,11 +18103,12 @@
     {
       "id": "eaac4d6a-73ba-4360-ad7d-6acf34f00905",
       "part-of-speech": "noun",
-      "english": "argument, dispute; examination (of a subject)",
+      "english": "argument, dispute; examination",
       "german": "Auseinandersetzung",
       "gender": "feminine",
       "plural": "Auseinandersetzungen",
       "cefr": "C1",
+      "context": "of a subject",
       "register": [
         "All"
       ]
@@ -18808,7 +18833,7 @@
     {
       "id": "9d709efa-a0e0-4164-9631-7fccdfbce17f",
       "part-of-speech": "noun",
-      "english": "morrow",
+      "english": "morning",
       "german": "Morgen",
       "gender": "neuter",
       "cefr": "A1",
@@ -19966,7 +19991,10 @@
       "plural": "Songs",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -20821,8 +20849,7 @@
       "plural": "Damen",
       "cefr": "A1",
       "register": [
-        "normalsprachlich",
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -21464,7 +21491,9 @@
       "plural": "Eier",
       "cefr": "A1",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -22599,9 +22628,10 @@
     {
       "id": "647c4bc4-dd83-43a2-8919-e2b421bbe335",
       "part-of-speech": "verb",
-      "english": "bring, cause (a physical or emotion state)",
+      "english": "bring, cause",
       "german": "bereiten",
       "cefr": "B1",
+      "context": "a physical or emotion state",
       "register": [
         "All"
       ]
@@ -22609,13 +22639,13 @@
     {
       "id": "66e97e02-946e-4900-99a1-b30b539c5163",
       "part-of-speech": "verb",
-      "english": "break in (a horse)",
+      "english": "break in",
       "german": "bereiten",
       "cefr": "B1",
+      "context": "equestrian; a horse",
       "register": [
         "All"
-      ],
-      "context": "equestrian"
+      ]
     },
     {
       "id": "53ea14ea-13f9-487e-9de9-949e3fe1ebf1",
@@ -22779,7 +22809,9 @@
       "cefr": "A2",
       "context": "criminality",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -23628,7 +23660,7 @@
     {
       "id": "a773ff44-5c92-4acb-8f8e-fb1775849bdd",
       "part-of-speech": "noun",
-      "english": "cash",
+      "english": "cash register, checkout",
       "german": "Kasse",
       "gender": "feminine",
       "plural": "Kassen",
@@ -24063,7 +24095,7 @@
     {
       "id": "7e6bafd9-5b12-4744-b83d-c1a0c1fdb574",
       "part-of-speech": "noun",
-      "english": "bitch",
+      "english": "cat",
       "german": "Katze",
       "gender": "feminine",
       "plural": "Katzen",
@@ -24857,7 +24889,7 @@
     {
       "id": "7f0f93fa-f773-415e-b65a-338485929997",
       "part-of-speech": "noun",
-      "english": "lab",
+      "english": "lab, laboratory",
       "german": "Labor",
       "gender": "neuter",
       "plural": "Labore",
@@ -25631,9 +25663,10 @@
     {
       "id": "8df1bf12-d118-4f7a-ac0e-f473afe9e915",
       "part-of-speech": "verb",
-      "english": "remain (located, scheduled, set to)",
+      "english": "remain (located)",
       "german": "feststehen",
       "cefr": "B1",
+      "context": "located, scheduled, set to",
       "register": [
         "All"
       ]
@@ -27721,9 +27754,10 @@
     {
       "id": "486f98a4-3adf-4317-8db9-feaeed43dd1f",
       "part-of-speech": "verb",
-      "english": "fall into (a situation)",
+      "english": "fall into",
       "german": "geraten in",
       "cefr": "B1",
+      "context": "a situation",
       "register": [
         "All"
       ]
@@ -29383,7 +29417,10 @@
       "plural": "Bauern",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -29903,7 +29940,10 @@
       "plural": "Profis",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -30082,7 +30122,10 @@
       "german": "locker",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -30276,15 +30319,13 @@
     {
       "id": "30db64b0-2519-4d76-980a-75774762cb9c",
       "part-of-speech": "verb",
-      "english": "hold",
+      "english": "lift, raise",
       "german": "heben",
-      "cefr": "B1",
+      "cefr": "A2",
+      "context": "colloquial: einen heben, have a drink",
       "register": [
-        "umgangssprachlich",
-        "salopp",
-        "derb"
-      ],
-      "context": "regional"
+        "All"
+      ]
     },
     {
       "id": "5366bf79-1e19-49eb-92e6-1322fed183a1",
@@ -33485,7 +33526,7 @@
     {
       "id": "29083cf0-2a91-4559-86f9-bd51b5e0f28b",
       "part-of-speech": "noun",
-      "english": "bike",
+      "english": "motorcycle",
       "german": "Motorrad",
       "gender": "neuter",
       "plural": "Motorräder",
@@ -34040,7 +34081,10 @@
       "german": "cool",
       "cefr": "A2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -35311,7 +35355,7 @@
     {
       "id": "f5476e80-7512-40c4-bb25-6feabd26c3ed",
       "part-of-speech": "verb",
-      "english": "cease",
+      "english": "stop, cease",
       "german": "aufhören",
       "cefr": "A2",
       "register": [
@@ -36803,7 +36847,8 @@
       "register": [
         "umgangssprachlich",
         "salopp",
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -37234,7 +37279,7 @@
     {
       "id": "78fa304d-8350-48e6-93c0-491fb13f5e9e",
       "part-of-speech": "noun",
-      "english": "boob",
+      "english": "breast, chest",
       "german": "Brust",
       "gender": "feminine",
       "plural": "Brüste",
@@ -42084,7 +42129,10 @@
       "plural": "Deals",
       "cefr": "A2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -42319,7 +42367,11 @@
       "plural": "Mamas",
       "cefr": "A1",
       "register": [
-        "All"
+        "normalsprachlich",
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -43816,7 +43868,10 @@
       "plural": "Käse",
       "cefr": "A2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -43826,7 +43881,10 @@
       "german": "kriegen",
       "cefr": "A1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -45383,7 +45441,8 @@
       "german": "fressen",
       "cefr": "B1",
       "register": [
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -45616,7 +45675,9 @@
       "plural": "Wohnsitze",
       "cefr": "B1",
       "register": [
-        "All"
+        "gehoben",
+        "bildungssprachlich",
+        "normalsprachlich"
       ]
     },
     {
@@ -46993,7 +47054,10 @@
       "german": "gucken",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -48112,7 +48176,7 @@
     {
       "id": "6c4dc935-d2f0-47e9-90d4-6bad9abaf7e7",
       "part-of-speech": "noun",
-      "english": "abatement",
+      "english": "decree; remission",
       "german": "Erlass",
       "gender": "masculine",
       "plural": "Erlasse",
@@ -49087,7 +49151,7 @@
     {
       "id": "1ebccf74-355b-4f87-81c1-532f2796cedc",
       "part-of-speech": "verb",
-      "english": "apply oneself to a task",
+      "english": "be incumbent on, be the duty of",
       "german": "obliegen",
       "cefr": "C2",
       "register": [
@@ -50362,7 +50426,10 @@
       "plural": "Citys",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -50540,7 +50607,10 @@
       "plural": "Streifen",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -52829,9 +52899,10 @@
     {
       "id": "af6c34ca-1dd0-4b5e-97d3-c1c46a5b9b61",
       "part-of-speech": "verb",
-      "english": "be",
+      "english": "fare, get on",
       "german": "ergehen",
       "cefr": "C2",
+      "context": "Wie ist es dir ergangen? How did you get on?",
       "register": [
         "gehoben"
       ]
@@ -54026,11 +54097,11 @@
     {
       "id": "41cddb56-330e-472f-92f8-77c0ec85215c",
       "part-of-speech": "adjective",
-      "english": "referential",
+      "english": "regarding, concerning",
       "german": "bezüglich",
       "cefr": "B2",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -54786,7 +54857,10 @@
       "plural": "Leder",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -56733,7 +56807,10 @@
       "plural": "Storys",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -59200,7 +59277,7 @@
     {
       "id": "09fe99ee-cb1d-4f59-9aac-de93048ac8db",
       "part-of-speech": "adjective",
-      "english": "arcane",
+      "english": "mysterious, secretive",
       "german": "geheimnisvoll",
       "cefr": "C1",
       "register": [
@@ -59322,15 +59399,15 @@
     {
       "id": "6271c09e-dd38-4dee-95ae-a874e2e474d4",
       "part-of-speech": "noun",
-      "english": "car",
+      "english": "old car, jalopy",
       "german": "Schüssel",
       "gender": "feminine",
       "plural": "Schüsseln",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich",
         "salopp",
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -59616,7 +59693,10 @@
       "german": "loslegen",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -59686,11 +59766,12 @@
     {
       "id": "03c9f6ee-b8f6-48fd-9fae-ce1f38308b7f",
       "part-of-speech": "noun",
-      "english": "shoot (plant)",
+      "english": "shoot",
       "german": "Reis",
       "gender": "neuter",
       "plural": "Reiser",
       "cefr": "B1",
+      "context": "plant",
       "register": [
         "All"
       ]
@@ -60018,9 +60099,9 @@
       "plural": "Hämmer",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich",
         "salopp",
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -63219,15 +63300,14 @@
     {
       "id": "adddc428-a3b9-4328-878d-7a8e67bb8e30",
       "part-of-speech": "noun",
-      "english": "syphillis",
-      "german": "Franzosen",
-      "gender": "feminine",
+      "english": "Frenchman",
+      "german": "Franzose",
+      "gender": "masculine",
       "plural": "Franzosen",
-      "cefr": "B2",
+      "cefr": "A2",
       "register": [
-        "gehoben"
-      ],
-      "context": "archaic"
+        "All"
+      ]
     },
     {
       "id": "a8d4592f-156b-49d8-86a5-964f7cfab821",
@@ -63334,7 +63414,7 @@
     {
       "id": "7abd8ef8-3dda-49a9-b34c-f6c2f0b2b084",
       "part-of-speech": "noun",
-      "english": "buddy",
+      "english": "comrade",
       "german": "Kamerad",
       "gender": "masculine",
       "plural": "Kameraden",
@@ -63443,7 +63523,10 @@
       "gender": "feminine",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -64349,7 +64432,8 @@
       "plural": "Schocke",
       "cefr": "B1",
       "register": [
-        "All"
+        "gehoben",
+        "bildungssprachlich"
       ]
     },
     {
@@ -64361,7 +64445,8 @@
       "plural": "Schocke",
       "cefr": "B1",
       "register": [
-        "All"
+        "gehoben",
+        "bildungssprachlich"
       ],
       "context": "archaic"
     },
@@ -65871,7 +65956,7 @@
     {
       "id": "be9e6600-a0f6-4be6-8250-c8790c568177",
       "part-of-speech": "verb",
-      "english": "abstain",
+      "english": "fail (to work), break down",
       "german": "versagen",
       "cefr": "B2",
       "register": [
@@ -65939,11 +66024,12 @@
     {
       "id": "196e212f-a393-4e52-b895-f022ec4a92e2",
       "part-of-speech": "noun",
-      "english": "alto (voice)",
+      "english": "alto",
       "german": "Alt",
       "gender": "masculine",
       "plural": "Alte",
       "cefr": "C1",
+      "context": "voice",
       "register": [
         "All"
       ]
@@ -66802,7 +66888,10 @@
       "plural": "Vierbeiner",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -67061,7 +67150,10 @@
       "german": "lässig",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -69917,7 +70009,7 @@
     {
       "id": "923a4fc0-2099-4cc5-92a0-c02801fbf796",
       "part-of-speech": "noun",
-      "english": "cop",
+      "english": "police official",
       "german": "Polizeibeamter",
       "gender": "masculine",
       "plural": "Polizeibeamte",
@@ -70158,7 +70250,10 @@
       "german": "abliefern",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -71793,10 +71888,7 @@
       "german": "schalten und walten",
       "cefr": "B1",
       "register": [
-        "normalsprachlich",
-        "umgangssprachlich",
-        "salopp",
-        "derb"
+        "All"
       ]
     },
     {
@@ -72813,7 +72905,10 @@
       "german": "nerven",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -72830,7 +72925,7 @@
     {
       "id": "1e1c5997-17e8-481b-937b-f8d38971be53",
       "part-of-speech": "noun",
-      "english": "cock",
+      "english": "noodle",
       "german": "Nudel",
       "gender": "feminine",
       "plural": "Nudeln",
@@ -72874,7 +72969,7 @@
     {
       "id": "88430623-0073-4de0-907b-afc6f9b6a5ce",
       "part-of-speech": "noun",
-      "english": "chick",
+      "english": "doll",
       "german": "Puppe",
       "gender": "feminine",
       "plural": "Puppen",
@@ -74032,7 +74127,7 @@
       "plural": "Prominente",
       "cefr": "C2",
       "register": [
-        "normalsprachlich"
+        "All"
       ]
     },
     {
@@ -74458,7 +74553,10 @@
       "german": "ergattern",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -75716,7 +75814,10 @@
       "german": "checken",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -75752,7 +75853,9 @@
       "plural": "Domizile",
       "cefr": "C2",
       "register": [
-        "All"
+        "gehoben",
+        "bildungssprachlich",
+        "normalsprachlich"
       ]
     },
     {
@@ -75911,7 +76014,10 @@
       "plural": "Mädel",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -76638,9 +76744,10 @@
     {
       "id": "b6d9cbd6-119f-48de-83ca-27741fd223e5",
       "part-of-speech": "verb",
-      "english": "to get ready (a ship)",
+      "english": "to get ready",
       "german": "klarmachen",
       "cefr": "C1",
+      "context": "a ship",
       "register": [
         "All"
       ]
@@ -77465,7 +77572,10 @@
       "german": "schnuppern",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -77573,7 +77683,7 @@
     {
       "id": "301e7c9e-2a86-466a-8548-8851cc0d0828",
       "part-of-speech": "adjective",
-      "english": "inalienable",
+      "english": "indispensable",
       "german": "unabdingbar",
       "cefr": "C2",
       "register": [
@@ -77673,7 +77783,10 @@
       "german": "abgehen",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -78221,7 +78334,10 @@
       "german": "spinnen",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -79145,7 +79261,7 @@
     {
       "id": "c9e43ca0-30bf-4156-ab16-d18eb049de0d",
       "part-of-speech": "verb",
-      "english": "beckon",
+      "english": "wave",
       "german": "winken",
       "cefr": "B1",
       "register": [
@@ -79334,7 +79450,10 @@
       "plural": "Bummel",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -79605,7 +79724,10 @@
       "plural": "Kumpel",
       "cefr": "A2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -80147,7 +80269,10 @@
       "plural": "Dates",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -81564,7 +81689,10 @@
       "plural": "Promis",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -81820,7 +81948,7 @@
       "plural": "Urine",
       "cefr": "C1",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -82016,7 +82144,7 @@
     {
       "id": "71c13ae6-039e-4bde-bb09-9dd156b44599",
       "part-of-speech": "verb",
-      "english": "lament",
+      "english": "regret, be sorry about",
       "german": "bedauern",
       "cefr": "B2",
       "register": [
@@ -83950,7 +84078,10 @@
       "gender": "feminine",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -84463,7 +84594,8 @@
       "cefr": "B1",
       "register": [
         "salopp",
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -84919,7 +85051,10 @@
       "plural": "Pillen",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -85145,7 +85280,10 @@
       "german": "vormachen",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -85532,7 +85670,7 @@
     {
       "id": "a7f76298-abfd-4398-b5b6-c93443ebc22c",
       "part-of-speech": "noun",
-      "english": "cock",
+      "english": "rooster; faucet",
       "german": "Hahn",
       "gender": "masculine",
       "plural": "Hähne",
@@ -85877,7 +86015,10 @@
       "plural": "Rehas",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -85911,7 +86052,9 @@
       "plural": "Schnitten",
       "cefr": "C1",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -85921,7 +86064,10 @@
       "german": "shoppen",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -86097,7 +86243,7 @@
     {
       "id": "abf7e7f9-088d-483c-bc57-ace4097cb29b",
       "part-of-speech": "adjective",
-      "english": "essentially",
+      "english": "essential, indispensable",
       "german": "unerlässlich",
       "cefr": "C2",
       "register": [
@@ -87620,13 +87766,16 @@
     {
       "id": "e57731d7-7ee6-4f7f-9dac-7c60cc4baf72",
       "part-of-speech": "noun",
-      "english": "aeroplane",
+      "english": "plane, airplane",
       "german": "Flieger",
       "gender": "masculine",
       "plural": "Flieger",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -87917,7 +88066,10 @@
       "plural": "Pleiten",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -91844,7 +91996,7 @@
       "german": "lauter",
       "cefr": "B1",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -91934,7 +92086,10 @@
       "german": "nervig",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -92168,7 +92323,10 @@
       "german": "spendieren",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -92819,7 +92977,7 @@
     {
       "id": "cdddb03d-56cf-4ece-84be-e97147f1e3ed",
       "part-of-speech": "noun",
-      "english": "fag",
+      "english": "homosexual",
       "german": "Homosexueller",
       "gender": "masculine",
       "plural": "Homosexuelle",
@@ -92978,7 +93136,10 @@
       "german": "krass",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -93796,7 +93957,9 @@
       "german": "bestreben",
       "cefr": "C2",
       "register": [
-        "All"
+        "gehoben",
+        "bildungssprachlich",
+        "normalsprachlich"
       ]
     },
     {
@@ -94747,7 +94910,7 @@
     {
       "id": "9ad3be62-40f4-42ac-90f4-4abfc6d14f34",
       "part-of-speech": "adjective",
-      "english": "awesome",
+      "english": "overwhelming",
       "german": "überwältigend",
       "cefr": "C1",
       "register": [
@@ -97254,7 +97417,7 @@
       "plural": "Schwänze",
       "cefr": "B1",
       "register": [
-        "derb"
+        "vulgär"
       ]
     },
     {
@@ -97797,7 +97960,9 @@
       "gender": "masculine",
       "cefr": "B1",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -98640,9 +98805,10 @@
     {
       "id": "04b4ceca-d2e0-49b0-a9bf-853d9c859f45",
       "part-of-speech": "verb",
-      "english": "appreciate (someone, something)",
+      "english": "appreciate (someone)",
       "german": "wertschätzen",
       "cefr": "C2",
+      "context": "someone, something",
       "register": [
         "All"
       ]
@@ -99321,7 +99487,10 @@
       "german": "klauen",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -99592,7 +99761,9 @@
       "german": "saugen",
       "cefr": "C1",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -102023,7 +102194,9 @@
       "gender": "neuter",
       "cefr": "C2",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -102110,13 +102283,13 @@
     {
       "id": "649b4b7b-b6d6-46ad-b2e5-a5502e032b76",
       "part-of-speech": "noun",
-      "english": "cock",
+      "english": "penis",
       "german": "Penis",
       "gender": "masculine",
       "plural": "Penisse",
       "cefr": "B2",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -103254,13 +103427,16 @@
     {
       "id": "c8ec0350-26fd-473d-aae7-76fda5da90ad",
       "part-of-speech": "noun",
-      "english": "fag-end",
+      "english": "cigarette butt; cigarette",
       "german": "Kippe",
       "gender": "feminine",
       "plural": "Kippen",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -104200,7 +104376,9 @@
       "plural": "Dicke",
       "cefr": "B2",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -104339,7 +104517,10 @@
       "german": "geil",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -104571,7 +104752,7 @@
     {
       "id": "0fd8addd-3a46-4b7a-a70d-020fc457d1a9",
       "part-of-speech": "noun",
-      "english": "cat",
+      "english": "tomcat; hangover",
       "german": "Kater",
       "gender": "masculine",
       "plural": "Kater",
@@ -105762,7 +105943,10 @@
       "german": "hauen",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -107218,7 +107402,10 @@
       "german": "fies",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -108375,7 +108562,7 @@
       "gender": "feminine",
       "cefr": "C2",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -108660,7 +108847,10 @@
       "plural": "Buden",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -108672,7 +108862,10 @@
       "plural": "Clous",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -110692,7 +110885,10 @@
       "german": "holländisch",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -110716,7 +110912,10 @@
       "plural": "Insider",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -110835,25 +111034,16 @@
     {
       "id": "5fc9eebd-0a71-4ccc-a577-e7fcb382f3be",
       "part-of-speech": "noun",
-      "english": "blockhead",
+      "english": "loser",
       "german": "Loser",
       "gender": "masculine",
       "plural": "Loser",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
-      ]
-    },
-    {
-      "id": "3a7234c0-9406-4817-8251-a2565c3b5bee",
-      "part-of-speech": "noun",
-      "english": "libertine",
-      "german": "Loser",
-      "gender": "masculine",
-      "plural": "Losen",
-      "cefr": "B2",
-      "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -111553,11 +111743,14 @@
     {
       "id": "ad13d40c-3912-4f7b-87a1-d8a7ff848f1a",
       "part-of-speech": "verb",
-      "english": "football",
+      "english": "gamble; play (video games)",
       "german": "zocken",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -112104,10 +112297,11 @@
     {
       "id": "9e8549d6-6dad-4b46-aef6-612a3eced6f4",
       "part-of-speech": "noun",
-      "english": "perfume (generally only in the sense of “odorous substance”, not “pleasant smell”)",
+      "english": "perfume",
       "german": "Parfüm",
       "cefr": "C1",
       "plural": "Parfüms",
+      "context": "generally only in the sense of “odorous substance”, not “pleasant smell”",
       "register": [
         "All"
       ]
@@ -112155,10 +112349,11 @@
     {
       "id": "ad53fc5e-f232-42d1-a29b-102416177d3f",
       "part-of-speech": "noun",
-      "english": "nominalization of andere: the other / different one (male or unspecified)",
+      "english": "nominalization of andere: the other / different one",
       "german": "Anderer",
       "cefr": "A2",
       "plural": "Andere",
+      "context": "male or unspecified",
       "register": [
         "All"
       ]
@@ -112170,7 +112365,7 @@
       "german": "zunächst",
       "cefr": "B2",
       "register": [
-        "gehoben"
+        "All"
       ]
     },
     {
@@ -112180,7 +112375,7 @@
       "german": "zunächst einmal",
       "cefr": "B2",
       "register": [
-        "normalsprachlich"
+        "All"
       ]
     },
     {
@@ -112192,7 +112387,8 @@
       "register": [
         "umgangssprachlich",
         "salopp",
-        "derb"
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -112291,9 +112487,10 @@
     {
       "id": "d1158caf-d445-4e49-a179-46e0f5370e71",
       "part-of-speech": "adjective",
-      "english": "little, few (a small amount, a small number)",
+      "english": "little, few",
       "german": "wenig",
       "cefr": "A1",
+      "context": "a small amount, a small number",
       "register": [
         "All"
       ]
@@ -112335,11 +112532,12 @@
     {
       "id": "61e3ac06-e8b3-4fe2-96bd-4c9cf974b4cf",
       "part-of-speech": "noun",
-      "english": "drawer container (in a kitchen; for flour, sugar etc.)",
+      "english": "drawer container",
       "german": "Schütte",
       "cefr": "C2",
       "gender": "feminine",
       "plural": "Schütten",
+      "context": "in a kitchen; for flour, sugar etc.",
       "register": [
         "All"
       ]
@@ -112371,11 +112569,12 @@
     {
       "id": "7236ecb1-1ae4-4c28-8729-09fa137d4709",
       "part-of-speech": "noun",
-      "english": "laura, lavra (cluster of cells or caves for hermits, with a church and sometimes a refectory at the centre)",
+      "english": "laura, lavra",
       "german": "Lawra",
       "cefr": "C2",
       "gender": "feminine",
       "plural": "Lawraen",
+      "context": "cluster of cells or caves for hermits, with a church and sometimes a refectory at the centre",
       "register": [
         "All"
       ]
@@ -112393,9 +112592,10 @@
     {
       "id": "a0938d45-6380-457d-a88f-5c8264ca083e",
       "part-of-speech": "adverb",
-      "english": "once, one time (one and only one time)",
+      "english": "once, one time",
       "german": "einmal",
       "cefr": "A1",
+      "context": "one and only one time",
       "register": [
         "All"
       ]
@@ -112433,7 +112633,7 @@
     {
       "id": "a0ed0c55-8f4f-4489-8d4e-2012f5159743",
       "part-of-speech": "noun",
-      "english": "nominalization of andere: the other / different thing",
+      "english": "something else",
       "german": "Anderes",
       "cefr": "A1",
       "plural": "Andere",
@@ -112444,10 +112644,11 @@
     {
       "id": "8488b458-b076-4145-8594-e3825aaae3e1",
       "part-of-speech": "noun",
-      "english": "smell (sense of)",
+      "english": "smell",
       "german": "Geruchssinn",
       "cefr": "C2",
       "plural": "Geruchssinne",
+      "context": "sense of",
       "register": [
         "All"
       ]
@@ -112465,9 +112666,10 @@
     {
       "id": "e24a66e2-4428-4860-957e-eb12d91e02e5",
       "part-of-speech": "noun",
-      "english": "marquis, marquess (kind of nobleman, chiefly in a French-speaking country)",
+      "english": "marquis, marquess",
       "german": "Marquis",
       "cefr": "C1",
+      "context": "kind of nobleman, chiefly in a French-speaking country",
       "register": [
         "All"
       ]
@@ -112546,10 +112748,11 @@
     {
       "id": "80ecbed7-e10b-4533-a478-2eab3434804b",
       "part-of-speech": "noun",
-      "english": "double bass (a large stringed instrument)",
+      "english": "double bass",
       "german": "Kontrabass",
       "cefr": "C2",
       "plural": "Kontrabässe",
+      "context": "a large stringed instrument",
       "register": [
         "All"
       ]
@@ -112557,11 +112760,12 @@
     {
       "id": "3d534a7c-3135-44ec-86b8-2f616431dffc",
       "part-of-speech": "noun",
-      "english": "Frankfurter (native or inhabitant of the city of Frankfurt, state of Hesse, Germany) (usually male)",
+      "english": "Frankfurter",
       "german": "Frankfurter",
       "cefr": "C2",
       "gender": "masculine",
       "plural": "Frankfurtern",
+      "context": "Frankfurter: native or inhabitant of the city of Frankfurt, state of Hesse, Germany; Germany): usually male",
       "register": [
         "All"
       ]
@@ -112569,9 +112773,10 @@
     {
       "id": "e18e9f2e-9fbc-4103-be2d-c5cba1cb8a44",
       "part-of-speech": "adverb",
-      "english": "almost, nearly, virtually (qualifying a property or amount)",
+      "english": "almost, nearly, virtually",
       "german": "nahezu",
       "cefr": "C1",
+      "context": "qualifying a property or amount",
       "register": [
         "All"
       ]
@@ -112590,10 +112795,11 @@
     {
       "id": "b310044a-6192-4a34-9a38-11f845d249c6",
       "part-of-speech": "noun",
-      "english": "terrier (a small breed of dog)",
+      "english": "terrier",
       "german": "Terrier",
       "cefr": "C2",
       "plural": "Terriern",
+      "context": "a small breed of dog",
       "register": [
         "All"
       ]
@@ -112632,9 +112838,10 @@
     {
       "id": "4f145558-d0a5-4059-a73d-344f337b10fc",
       "part-of-speech": "adverb",
-      "english": "barely, hardly (qualifying verbs or adjectives)",
+      "english": "barely, hardly",
       "german": "kaum",
       "cefr": "A2",
+      "context": "qualifying verbs or adjectives",
       "register": [
         "All"
       ]
@@ -112704,10 +112911,11 @@
     {
       "id": "b52cb88b-5bf3-47fa-b1ea-2d48715428a0",
       "part-of-speech": "noun",
-      "english": "reeve, sheriff, bailiff (official in charge of a rural district)",
+      "english": "reeve, sheriff, bailiff",
       "german": "Drost",
       "cefr": "C2",
       "plural": "Droste",
+      "context": "official in charge of a rural district",
       "register": [
         "All"
       ]
@@ -112727,9 +112935,10 @@
     {
       "id": "95e84588-61fb-4ae2-b453-ab7fb7bb3fdf",
       "part-of-speech": "adverb",
-      "english": "forth (in the direction of the speaker)",
+      "english": "forth",
       "german": "hervor",
       "cefr": "B2",
+      "context": "in the direction of the speaker",
       "register": [
         "All"
       ]
@@ -112793,11 +113002,12 @@
     {
       "id": "80de439d-139b-4775-bd08-3720615d3134",
       "part-of-speech": "noun",
-      "english": "four (digit or figure 4)",
+      "english": "four",
       "german": "Vier",
       "cefr": "A1",
       "gender": "feminine",
       "plural": "Vieren",
+      "context": "digit or figure 4",
       "register": [
         "All"
       ]
@@ -112837,9 +113047,10 @@
     {
       "id": "27492fd8-59b5-42b8-8de9-98f6375d9115",
       "part-of-speech": "adverb",
-      "english": "there (to that place)",
+      "english": "there",
       "german": "dahin",
       "cefr": "A2",
+      "context": "to that place",
       "register": [
         "All"
       ]
@@ -112857,9 +113068,10 @@
     {
       "id": "4d365efd-a3ca-4a02-b7cd-729b29a0c6c5",
       "part-of-speech": "adverb",
-      "english": "soon (near in time)",
+      "english": "soon",
       "german": "bald",
       "cefr": "A1",
+      "context": "near in time",
       "register": [
         "All"
       ]
@@ -112910,10 +113122,11 @@
     {
       "id": "c48e568f-43d0-4b32-b468-afef9c2e5907",
       "part-of-speech": "noun",
-      "english": "cape (headland)",
+      "english": "cape",
       "german": "Kap",
       "cefr": "C2",
       "plural": "Kaps",
+      "context": "headland",
       "register": [
         "All"
       ]
@@ -113023,10 +113236,11 @@
     {
       "id": "7aa26089-66a3-4363-8692-3251caeece09",
       "part-of-speech": "noun",
-      "english": "The Messiah / messiah (Jesus Christ, Jesus the Messiah, Jesus the Christ).",
+      "english": "The Messiah / messiah.",
       "german": "Messias",
       "cefr": "C1",
       "plural": "Messiasse",
+      "context": "Jesus Christ, Jesus the Messiah, Jesus the Christ",
       "register": [
         "All"
       ]
@@ -113141,11 +113355,12 @@
     {
       "id": "2b215763-fcfa-492d-ac93-af2e9a338044",
       "part-of-speech": "noun",
-      "english": "empress (wife or widow of an emperor)",
+      "english": "empress",
       "german": "Kaiserin",
       "cefr": "C1",
       "gender": "feminine",
       "plural": "Kaiserinnen",
+      "context": "wife or widow of an emperor",
       "register": [
         "All"
       ]
@@ -113175,9 +113390,10 @@
     {
       "id": "081f3513-8d04-416b-9e40-1cde59ff882c",
       "part-of-speech": "adverb",
-      "english": "pronominal adverb of bei (replaces bei + demonstrative or personal pronoun, unless referring to people)",
+      "english": "pronominal adverb of bei",
       "german": "dabei",
       "cefr": "A1",
+      "context": "replaces bei + demonstrative or personal pronoun, unless referring to people",
       "register": [
         "All"
       ]
@@ -113195,13 +113411,17 @@
     {
       "id": "cf903d3a-e453-4cc2-a2d3-4c4acc295d63",
       "part-of-speech": "noun",
-      "english": "trousers (UK); pants (US)",
+      "english": "pants",
       "german": "Buxe",
       "cefr": "C2",
       "gender": "feminine",
       "plural": "Buxen",
+      "context": "trousers: UK",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -113230,11 +113450,12 @@
     {
       "id": "8fd7b6e1-3425-4861-9814-f49de2ef2f89",
       "part-of-speech": "noun",
-      "english": "ten (number)",
+      "english": "ten",
       "german": "Zehn",
       "cefr": "A2",
       "gender": "feminine",
       "plural": "Zehnen",
+      "context": "number",
       "register": [
         "All"
       ]
@@ -113264,10 +113485,11 @@
     {
       "id": "69f3eca8-c114-4480-a025-03f70eacb3a6",
       "part-of-speech": "noun",
-      "english": "CD (compact disc)",
+      "english": "CD",
       "german": "CD",
       "cefr": "C1",
       "plural": "CDs",
+      "context": "compact disc",
       "register": [
         "All"
       ]
@@ -113445,10 +113667,11 @@
     {
       "id": "0a39d63d-6845-4e7b-9f76-63f50111d61f",
       "part-of-speech": "noun",
-      "english": "prior (high-ranking member of a monastery)",
+      "english": "prior",
       "german": "Prior",
       "cefr": "C2",
       "plural": "Prioren",
+      "context": "high-ranking member of a monastery",
       "register": [
         "All"
       ]
@@ -113456,11 +113679,12 @@
     {
       "id": "c1d85a77-4176-41e3-a8db-dcd9f9a5b491",
       "part-of-speech": "noun",
-      "english": "ulna (bone of the forearm)",
+      "english": "ulna",
       "german": "Elle",
       "cefr": "C1",
       "gender": "feminine",
       "plural": "Ellen",
+      "context": "bone of the forearm",
       "register": [
         "All"
       ]
@@ -113468,9 +113692,10 @@
     {
       "id": "12b843e4-2bf3-4554-9a5d-bb3369553f8d",
       "part-of-speech": "adverb",
-      "english": "since then, by now, in the meantime (contrasting between the current state and a known past state)",
+      "english": "since then, by now, in the meantime",
       "german": "inzwischen",
       "cefr": "B1",
+      "context": "contrasting between the current state and a known past state",
       "register": [
         "All"
       ]
@@ -113526,9 +113751,10 @@
     {
       "id": "052bc605-4be9-43a9-ae2f-37db18a8e64d",
       "part-of-speech": "adverb",
-      "english": "Introduces a comitative sentence, denoting a simultaneous event with the main clause. It frequently corresponds to English present participles (-ing) in adverbial use.",
+      "english": "Introduces a comitative sentence, denoting a simultaneous event with the main clause. It frequently corresponds to English present participles in adverbial use.",
       "german": "wobei",
       "cefr": "B2",
+      "context": "-ing",
       "register": [
         "All"
       ]
@@ -113580,10 +113806,11 @@
     {
       "id": "8768af3b-6a65-462e-90c5-5275dcab2a17",
       "part-of-speech": "noun",
-      "english": "lord, Lord (British nobleman)",
+      "english": "lord, Lord",
       "german": "Lord",
       "cefr": "B1",
       "plural": "Lords",
+      "context": "British nobleman",
       "register": [
         "All"
       ]
@@ -113622,9 +113849,10 @@
     {
       "id": "383ecbd3-70e6-4db0-991e-a653b1dc72c5",
       "part-of-speech": "verb",
-      "english": "to wed; to marry (officially join two people in marriage)",
+      "english": "to wed; to marry",
       "german": "verheiraten",
       "cefr": "C2",
+      "context": "officially join two people in marriage",
       "register": [
         "All"
       ]
@@ -113643,10 +113871,11 @@
     {
       "id": "443b4571-5945-4c06-9f9d-fc02a1659288",
       "part-of-speech": "noun",
-      "english": "a game (instance or way of playing)",
+      "english": "a game",
       "german": "Spiel",
       "cefr": "A1",
       "plural": "Spiele",
+      "context": "instance or way of playing",
       "register": [
         "All"
       ]
@@ -113799,7 +114028,10 @@
       "countability": "mass",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -113883,7 +114115,9 @@
       "plural": "Zicken",
       "cefr": "B2",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -113997,7 +114231,10 @@
       "german": "müffelnd",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -114037,11 +114274,12 @@
     {
       "id": "c16bcb5f-ad8b-442a-8ab3-a0ac085a255c",
       "part-of-speech": "noun",
-      "english": "skewer (for shish kebab)",
+      "english": "skewer",
       "german": "Schaschlikspieß",
       "gender": "masculine",
       "plural": "Schaschlikspieße",
       "cefr": "C1",
+      "context": "for shish kebab",
       "register": [
         "All"
       ]
@@ -114073,12 +114311,15 @@
     {
       "id": "433c5af7-aef8-4c72-8fe0-0a7afd883805",
       "part-of-speech": "noun",
-      "english": "shot of schnapps (colloquial)",
+      "english": "shot of schnapps",
       "german": "Klare",
       "gender": "masculine",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -114150,7 +114391,10 @@
       "countability": "mass",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -114437,7 +114681,10 @@
       "german": "kramen",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -114761,7 +115008,10 @@
       "plural": "Männerklos",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -114825,7 +115075,10 @@
       "german": "qualmen",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -114989,7 +115242,10 @@
       "plural": "Deppen",
       "cefr": "B1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -115031,11 +115287,12 @@
     {
       "id": "e6decf8c-4ef9-4238-a01a-617384bb3f18",
       "part-of-speech": "noun",
-      "english": "iron ball (as in ball and chain)",
+      "english": "iron ball",
       "german": "Eisenkugel",
       "gender": "feminine",
       "plural": "Eisenkugeln",
       "cefr": "C1",
+      "context": "as in ball and chain",
       "register": [
         "All"
       ]
@@ -115229,9 +115486,10 @@
     {
       "id": "2cb1dcbe-99ee-477e-ba6e-69dad0da08f3",
       "part-of-speech": "adjective",
-      "english": "uncomfortable, unpleasant (atmosphere)",
+      "english": "uncomfortable, unpleasant",
       "german": "ungemütlich",
       "cefr": "B1",
+      "context": "atmosphere",
       "register": [
         "All"
       ]
@@ -115263,11 +115521,12 @@
     {
       "id": "db96a30f-1f64-492c-b5a8-30bc0904dacd",
       "part-of-speech": "noun",
-      "english": "hint, touch (of an emotion)",
+      "english": "hint, touch",
       "german": "Anflug",
       "gender": "masculine",
       "plural": "Anflüge",
       "cefr": "C1",
+      "context": "of an emotion",
       "register": [
         "All"
       ]
@@ -115299,11 +115558,12 @@
     {
       "id": "fa3cf244-03d1-485c-9c63-3665b64dfa3c",
       "part-of-speech": "noun",
-      "english": "collar (for an animal)",
+      "english": "collar",
       "german": "Halsband",
       "gender": "neuter",
       "plural": "Halsbänder",
       "cefr": "B2",
+      "context": "for an animal",
       "register": [
         "All"
       ]
@@ -115311,23 +115571,28 @@
     {
       "id": "4bc48f2b-1c2b-4b07-9c7d-b2537ac1ef96",
       "part-of-speech": "noun",
-      "english": "mistress (informal, of a female pet owner)",
+      "english": "owner (of a pet, female)",
       "german": "Frauchen",
       "gender": "neuter",
       "plural": "Frauchen",
       "cefr": "B2",
+      "context": "a dog's or cat's female owner; masculine: Herrchen",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
       "id": "5916fcef-6405-46af-8261-7d8b2352340d",
       "part-of-speech": "noun",
-      "english": "little basket (e.g. pet bed)",
+      "english": "little basket",
       "german": "Körbchen",
       "gender": "neuter",
       "plural": "Körbchen",
       "cefr": "B2",
+      "context": "e.g. pet bed",
       "register": [
         "All"
       ]
@@ -115365,7 +115630,10 @@
       "countability": "mass",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -115405,9 +115673,10 @@
     {
       "id": "1dd4909e-63de-49c9-886f-36e939af7733",
       "part-of-speech": "verb",
-      "english": "turn out (well/badly)",
+      "english": "turn out",
       "german": "ausgehen",
       "cefr": "B1",
+      "context": "well/badly",
       "register": [
         "All"
       ]
@@ -115445,9 +115714,10 @@
     {
       "id": "19e0502d-7b3b-423f-ab75-32d0222b7973",
       "part-of-speech": "verb",
-      "english": "hold out (towards someone); counter, object",
+      "english": "hold out; counter, object",
       "german": "entgegenhalten",
       "cefr": "B2",
+      "context": "towards someone",
       "register": [
         "All"
       ]
@@ -115475,19 +115745,23 @@
     {
       "id": "00076d46-4a24-4680-9b1d-c0e5c34f6b7c",
       "part-of-speech": "verb",
-      "english": "make fun of, tease (colloquial)",
+      "english": "make fun of, tease",
       "german": "veräppeln",
       "cefr": "C1",
       "register": [
-        "salopp"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
       "id": "f65b4c8e-e5fc-4b43-a319-69b450a2f18f",
       "part-of-speech": "verb",
-      "english": "yap (of a small dog)",
+      "english": "yap",
       "german": "kläffen",
       "cefr": "C1",
+      "context": "of a small dog",
       "register": [
         "All"
       ]
@@ -115525,9 +115799,10 @@
     {
       "id": "a89253e4-060a-4f3f-b39e-49f3ad030e9b",
       "part-of-speech": "verb",
-      "english": "prick up (ears)",
+      "english": "prick up",
       "german": "spitzen",
       "cefr": "B2",
+      "context": "ears",
       "register": [
         "All"
       ]
@@ -115565,9 +115840,10 @@
     {
       "id": "a87ee860-c660-4a9a-918e-dd93d446f486",
       "part-of-speech": "adjective",
-      "english": "mild, lenient (e.g. getting off lightly)",
+      "english": "mild, lenient",
       "german": "glimpflich",
       "cefr": "C1",
+      "context": "e.g. getting off lightly",
       "register": [
         "All"
       ]
@@ -115639,11 +115915,12 @@
     {
       "id": "5d490154-7e13-48e0-ba36-d8467d5ec678",
       "part-of-speech": "noun",
-      "english": "yelp, howl (of a dog)",
+      "english": "yelp, howl",
       "german": "Jaulen",
       "gender": "neuter",
       "countability": "mass",
       "cefr": "B2",
+      "context": "of a dog",
       "register": [
         "All"
       ]
@@ -115699,11 +115976,12 @@
     {
       "id": "c6762b45-a164-4f0d-b6be-119085611d86",
       "part-of-speech": "noun",
-      "english": "curl (of hair)",
+      "english": "curl",
       "german": "Locke",
       "gender": "feminine",
       "plural": "Locken",
       "cefr": "B1",
+      "context": "of hair",
       "register": [
         "All"
       ]
@@ -115747,11 +116025,12 @@
     {
       "id": "b3d4999b-8618-42b6-b515-65dcf86c1553",
       "part-of-speech": "noun",
-      "english": "dining room, main room (of a restaurant/pub)",
+      "english": "dining room, main room",
       "german": "Gastraum",
       "gender": "masculine",
       "plural": "Gasträume",
       "cefr": "B2",
+      "context": "of a restaurant/pub",
       "register": [
         "All"
       ]
@@ -115819,13 +116098,15 @@
     {
       "id": "20121098-5000-4e9f-b588-f26733b762db",
       "part-of-speech": "noun",
-      "english": "guy, twit (colloquial)",
+      "english": "guy, twit",
       "german": "Heini",
       "gender": "masculine",
       "plural": "Heinis",
       "cefr": "C1",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -115931,9 +116212,10 @@
     {
       "id": "f1802e55-fbb6-4d85-87b2-34cce45be2f7",
       "part-of-speech": "verb",
-      "english": "scratch/pet gently (e.g. behind the ears)",
+      "english": "scratch/pet gently",
       "german": "kraulen",
       "cefr": "B2",
+      "context": "e.g. behind the ears",
       "register": [
         "All"
       ]
@@ -116121,11 +116403,12 @@
     {
       "id": "a6d37bb4-7851-404c-a3b4-8a1d712f0367",
       "part-of-speech": "noun",
-      "english": "strand (of hair)",
+      "english": "strand",
       "german": "Strähne",
       "gender": "feminine",
       "plural": "Strähnen",
       "cefr": "B1",
+      "context": "of hair",
       "register": [
         "All"
       ]
@@ -116133,11 +116416,12 @@
     {
       "id": "31ba1ecf-23ac-4d3e-b901-6b3633096766",
       "part-of-speech": "noun",
-      "english": "bob (hairstyle)",
+      "english": "bob",
       "german": "Bob",
       "gender": "masculine",
       "plural": "Bobs",
       "cefr": "B1",
+      "context": "hairstyle",
       "register": [
         "All"
       ]
@@ -116252,11 +116536,15 @@
     {
       "id": "c0139ee5-0df9-42dd-9a9b-c437c2d68a5d",
       "part-of-speech": "verb",
-      "english": "patch up, tend to (informal, medical)",
+      "english": "patch up, tend to",
       "german": "verarzten",
       "cefr": "C1",
+      "context": "informal, medical",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -116433,9 +116721,10 @@
     {
       "id": "27b092ab-1f8f-4a73-a2be-15f41f39bf1f",
       "part-of-speech": "verb",
-      "english": "find, discover (e.g. a body)",
+      "english": "find, discover",
       "german": "auffinden",
       "cefr": "B2",
+      "context": "e.g. a body",
       "register": [
         "All"
       ]
@@ -116497,7 +116786,10 @@
       "german": "von wegen!",
       "cefr": "B2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -116815,7 +117107,10 @@
       "german": "Zeit schinden",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -116847,7 +117142,10 @@
       "plural": "Schrottkisten",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -116881,7 +117179,9 @@
       "plural": "Sauereien",
       "cefr": "B2",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -117029,7 +117329,10 @@
       "german": "miesepetrig",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -117761,11 +118064,12 @@
     {
       "id": "332023cb-ce26-4735-9d73-b4effb944b1b",
       "part-of-speech": "noun",
-      "english": "two-piece (outfit)",
+      "english": "two-piece",
       "german": "Zweiteiler",
       "gender": "masculine",
       "plural": "Zweiteiler",
       "cefr": "C2",
+      "context": "outfit",
       "register": [
         "All"
       ]
@@ -117892,11 +118196,12 @@
     {
       "id": "f8ba0368-337b-4d69-9077-30a0ef9eeafa",
       "part-of-speech": "noun",
-      "english": "fit (of clothing)",
+      "english": "fit",
       "german": "Passform",
       "gender": "feminine",
       "plural": "Passformen",
       "cefr": "C1",
+      "context": "of clothing",
       "register": [
         "All"
       ]
@@ -117997,10 +118302,11 @@
     {
       "id": "e03d122a-a537-436b-bc61-31af11343ba9",
       "part-of-speech": "noun",
-      "english": "burgundy (colour)",
+      "english": "burgundy",
       "german": "Burgunderrot",
       "gender": "neuter",
       "cefr": "C2",
+      "context": "colour",
       "register": [
         "All"
       ]
@@ -118044,7 +118350,10 @@
       "german": "aufpeppen",
       "cefr": "C1",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -118180,9 +118489,10 @@
     {
       "id": "c75897d6-5e23-4f57-9493-2431d1ce564c",
       "part-of-speech": "adjective",
-      "english": "close-meshed; close, tight (e.g. monitoring)",
+      "english": "close-meshed; close, tight",
       "german": "engmaschig",
       "cefr": "C2",
+      "context": "e.g. monitoring",
       "register": [
         "All"
       ]
@@ -118408,11 +118718,12 @@
     {
       "id": "09f4e3c1-b044-4c95-a1d4-0dbfa64db5b7",
       "part-of-speech": "noun",
-      "english": "wildcard (entry)",
+      "english": "wildcard",
       "german": "Wildcard",
       "gender": "feminine",
       "plural": "Wildcards",
       "cefr": "C2",
+      "context": "entry",
       "register": [
         "All"
       ]
@@ -118499,7 +118810,7 @@
     {
       "id": "cfad7eda-7213-4d97-b72a-4034b71e7ef8",
       "part-of-speech": "verb",
-      "english": "get into, end up in (a situation)",
+      "english": "get into, end up in",
       "german": "geraten",
       "cefr": "B2",
       "context": "in eine Situation geraten: to get into a situation",
@@ -118571,9 +118882,10 @@
     {
       "id": "68fc26db-4b09-4b67-abc8-d1e1826fb738",
       "part-of-speech": "verb",
-      "english": "catch; cushion, absorb (e.g. emotions)",
+      "english": "catch; cushion, absorb",
       "german": "auffangen",
       "cefr": "C1",
+      "context": "e.g. emotions",
       "register": [
         "All"
       ]
@@ -119483,10 +119795,10 @@
     {
       "id": "3de58b60-9445-4c1f-8787-66595d197f03",
       "part-of-speech": "verb",
-      "english": "apply (e.g. cream, make-up); serve",
+      "english": "apply; serve",
       "german": "auftragen",
       "cefr": "B2",
-      "context": "of clothing, dick auftragen: to look bulky",
+      "context": "of clothing, dick auftragen: to look bulky; e.g. cream, make-up",
       "register": [
         "All"
       ]
@@ -119504,9 +119816,10 @@
     {
       "id": "7c8e0435-b8f1-4526-ac06-70c7501b6909",
       "part-of-speech": "verb",
-      "english": "roll up (sleeves, trouser legs)",
+      "english": "roll up",
       "german": "hochkrempeln",
       "cefr": "C1",
+      "context": "sleeves, trouser legs",
       "register": [
         "All"
       ]
@@ -119612,11 +119925,12 @@
     {
       "id": "6d4d9f6d-35db-4ac9-b993-fb275ba2b18a",
       "part-of-speech": "noun",
-      "english": "loafer (shoe)",
+      "english": "loafer",
       "german": "Loafer",
       "gender": "masculine",
       "plural": "Loafer",
       "cefr": "C2",
+      "context": "shoe",
       "register": [
         "All"
       ]
@@ -119636,11 +119950,12 @@
     {
       "id": "6362cd96-b614-4e6c-8a8c-08f27d069b3b",
       "part-of-speech": "noun",
-      "english": "upper (of a shoe)",
+      "english": "upper",
       "german": "Obermaterial",
       "gender": "neuter",
       "plural": "Obermaterialien",
       "cefr": "C2",
+      "context": "of a shoe",
       "register": [
         "All"
       ]
@@ -120040,10 +120355,10 @@
     {
       "id": "e1263db7-e68a-48dd-bbef-109070452c9c",
       "part-of-speech": "preposition",
-      "english": "at, on (vertical surface); to",
+      "english": "at, on; to",
       "german": "an",
       "cefr": "A1",
-      "context": "+ dative (location) or accusative (movement)",
+      "context": "+ dative (location) or accusative (movement); vertical surface",
       "register": [
         "All"
       ]
@@ -120051,10 +120366,10 @@
     {
       "id": "5d4e0540-6178-4772-9698-2822fc35994d",
       "part-of-speech": "preposition",
-      "english": "on (top of); onto",
+      "english": "on; onto",
       "german": "auf",
       "cefr": "A1",
-      "context": "+ dative (location) or accusative (movement)",
+      "context": "+ dative (location) or accusative (movement); top of",
       "register": [
         "All"
       ]
@@ -120128,10 +120443,10 @@
     {
       "id": "7ff418bf-04db-4843-9bd0-b8ad27c92a66",
       "part-of-speech": "preposition",
-      "english": "at (someone's place), near; with",
+      "english": "at, near; with",
       "german": "bei",
       "cefr": "A1",
-      "context": "+ dative",
+      "context": "+ dative; someone's place",
       "register": [
         "All"
       ]
@@ -120139,10 +120454,10 @@
     {
       "id": "4df545e4-20ca-4370-80a6-aca93ca1e30c",
       "part-of-speech": "preposition",
-      "english": "with; by (transport)",
+      "english": "with; by",
       "german": "mit",
       "cefr": "A1",
-      "context": "+ dative",
+      "context": "+ dative; transport",
       "register": [
         "All"
       ]
@@ -120150,10 +120465,10 @@
     {
       "id": "a1d9500f-fa69-4ef2-acf2-be8e2d19d664",
       "part-of-speech": "preposition",
-      "english": "to (cities, countries); after; according to",
+      "english": "to; after; according to",
       "german": "nach",
       "cefr": "A1",
-      "context": "+ dative",
+      "context": "+ dative; cities, countries",
       "register": [
         "All"
       ]
@@ -120161,10 +120476,10 @@
     {
       "id": "3ab87238-3aa7-4733-9a44-b462837be5ab",
       "part-of-speech": "preposition",
-      "english": "since, for (time up to now)",
+      "english": "since, for",
       "german": "seit",
       "cefr": "A1",
-      "context": "+ dative",
+      "context": "+ dative; time up to now",
       "register": [
         "All"
       ]
@@ -120183,10 +120498,10 @@
     {
       "id": "c4a557ae-adc7-4fab-941b-5d99cb1fe8f8",
       "part-of-speech": "preposition",
-      "english": "to (a person or place)",
+      "english": "to",
       "german": "zu",
       "cefr": "A1",
-      "context": "+ dative",
+      "context": "+ dative; a person or place",
       "register": [
         "All"
       ]
@@ -120194,10 +120509,10 @@
     {
       "id": "55226e1b-3082-4118-a67e-d8320843110a",
       "part-of-speech": "preposition",
-      "english": "from (a time or place) on",
+      "english": "from on",
       "german": "ab",
       "cefr": "A2",
-      "context": "+ dative",
+      "context": "+ dative; a time or place",
       "register": [
         "All"
       ]
@@ -120304,10 +120619,10 @@
     {
       "id": "1c932cfe-aab8-403a-a93c-52c5ae855811",
       "part-of-speech": "preposition",
-      "english": "through; by (means of)",
+      "english": "through; by",
       "german": "durch",
       "cefr": "A2",
-      "context": "+ accusative",
+      "context": "+ accusative; means of",
       "register": [
         "All"
       ]
@@ -120326,10 +120641,10 @@
     {
       "id": "b93d7e0b-eb47-4669-970e-cdfea7b91fb9",
       "part-of-speech": "preposition",
-      "english": "against; around (time)",
+      "english": "against; around",
       "german": "gegen",
       "cefr": "A2",
-      "context": "+ accusative",
+      "context": "+ accusative; time",
       "register": [
         "All"
       ]
@@ -120348,10 +120663,10 @@
     {
       "id": "b9725c22-a289-4ed6-981d-a3d3261d3eed",
       "part-of-speech": "preposition",
-      "english": "around; at (clock time)",
+      "english": "around; at",
       "german": "um",
       "cefr": "A1",
-      "context": "+ accusative",
+      "context": "+ accusative; clock time",
       "register": [
         "All"
       ]
@@ -120930,10 +121245,10 @@
     {
       "id": "8cfedb37-939a-4952-b791-4f180404d4d2",
       "part-of-speech": "conjunction",
-      "english": "when (single event in the past); than; as",
+      "english": "when; than; as",
       "german": "als",
       "cefr": "A1",
-      "context": "verb goes to the end of the clause (when); after a comparative: than",
+      "context": "verb goes to the end of the clause (when); after a comparative: than; single event in the past",
       "register": [
         "All"
       ]
@@ -120974,10 +121289,10 @@
     {
       "id": "ea2f731b-0daa-4ecb-9d22-eb8676284e1b",
       "part-of-speech": "conjunction",
-      "english": "since, as (giving a reason)",
+      "english": "since, as",
       "german": "da",
       "cefr": "B1",
-      "context": "verb goes to the end of the clause",
+      "context": "verb goes to the end of the clause; giving a reason",
       "register": [
         "All"
       ]
@@ -121029,10 +121344,10 @@
     {
       "id": "3d943cb4-50b5-4b05-b3ee-bda2dfb32039",
       "part-of-speech": "conjunction",
-      "english": "since (time)",
+      "english": "since",
       "german": "seitdem",
       "cefr": "B1",
-      "context": "verb goes to the end of the clause; also seit",
+      "context": "verb goes to the end of the clause; also seit; time",
       "register": [
         "All"
       ]
@@ -121183,10 +121498,10 @@
     {
       "id": "c292d04d-3644-428a-91ee-68c0ba3f51a6",
       "part-of-speech": "conjunction",
-      "english": "without (someone doing)",
+      "english": "without",
       "german": "ohne dass",
       "cefr": "B2",
-      "context": "verb goes to the end of the clause",
+      "context": "verb goes to the end of the clause; someone doing",
       "register": [
         "All"
       ]
@@ -121194,10 +121509,10 @@
     {
       "id": "4fce1141-f74b-47d8-89c9-db3f20b179ad",
       "part-of-speech": "conjunction",
-      "english": "instead of (someone doing)",
+      "english": "instead of",
       "german": "anstatt dass",
       "cefr": "B2",
-      "context": "verb goes to the end of the clause",
+      "context": "verb goes to the end of the clause; someone doing",
       "register": [
         "All"
       ]
@@ -121216,10 +121531,10 @@
     {
       "id": "8c69f0eb-8967-492c-ba3e-47703f21476a",
       "part-of-speech": "conjunction",
-      "english": "for … to (too … for)",
+      "english": "for … to",
       "german": "als dass",
       "cefr": "C1",
-      "context": "verb goes to the end of the clause (zu müde, als dass …)",
+      "context": "verb goes to the end of the clause (zu müde, als dass …); too … for",
       "register": [
         "All"
       ]
@@ -121300,10 +121615,10 @@
     {
       "id": "6e46a045-83b4-4005-a59a-dc92a0a76558",
       "part-of-speech": "conjunction",
-      "english": "the … the (je mehr, desto besser)",
+      "english": "the … the",
       "german": "je … desto",
       "cefr": "B1",
-      "context": "also je … umso",
+      "context": "also je … umso; je mehr, desto besser",
       "register": [
         "All"
       ]
@@ -121336,7 +121651,9 @@
       "cefr": "C1",
       "context": "verb goes to the end of the clause",
       "register": [
-        "All"
+        "gehoben",
+        "bildungssprachlich",
+        "normalsprachlich"
       ]
     },
     {
@@ -121358,16 +121675,19 @@
       "german": "sich aalen",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
       "id": "97d4519e-4da2-45d4-ba6c-dc8f1216042d",
       "part-of-speech": "adjective",
-      "english": "slippery, slick (of a person)",
+      "english": "slippery, slick",
       "german": "aalglatt",
       "cefr": "C2",
-      "context": "abwertend",
+      "context": "abwertend; of a person",
       "register": [
         "All"
       ]
@@ -121375,7 +121695,7 @@
     {
       "id": "4aa11005-8e3f-4512-b1c7-27a400ea6a29",
       "part-of-speech": "noun",
-      "english": "carrion; beast, swine (insult)",
+      "english": "carrion; beast, swine",
       "german": "Aas",
       "gender": "neuter",
       "plural": "Aase",
@@ -121393,7 +121713,10 @@
       "cefr": "C2",
       "context": "mit dem Geld aasen: waste money",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -121488,7 +121811,10 @@
       "german": "affig",
       "cefr": "C2",
       "register": [
-        "umgangssprachlich"
+        "umgangssprachlich",
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -121550,9 +121876,10 @@
     {
       "id": "d3d4e7e4-5718-447a-8ae1-81a5fce8171c",
       "part-of-speech": "adverb",
-      "english": "all (of them), one and all",
+      "english": "all, one and all",
       "german": "allesamt",
       "cefr": "C1",
+      "context": "of them",
       "register": [
         "All"
       ]
@@ -121834,11 +122161,12 @@
     {
       "id": "da215d83-442d-4fd5-9f5a-7b7bfd71663a",
       "part-of-speech": "noun",
-      "english": "watercolor (painting)",
+      "english": "watercolor",
       "german": "Aquarell",
       "gender": "neuter",
       "plural": "Aquarelle",
       "cefr": "C2",
+      "context": "painting",
       "register": [
         "All"
       ]
@@ -121846,10 +122174,10 @@
     {
       "id": "7a2214f2-ff9c-4cf2-9774-ec7ea582561e",
       "part-of-speech": "adjective",
-      "english": "bad, severe; very (regional)",
+      "english": "bad, severe; very",
       "german": "arg",
       "cefr": "C1",
-      "context": "im Argen liegen: be in a bad way",
+      "context": "im Argen liegen: be in a bad way; regional",
       "register": [
         "All"
       ]
@@ -121901,11 +122229,12 @@
     {
       "id": "10ca3f74-55f8-4d98-a7ad-2e20eae1a21d",
       "part-of-speech": "noun",
-      "english": "fitting (faucet, valve); instrument",
+      "english": "fitting; instrument",
       "german": "Armatur",
       "gender": "feminine",
       "plural": "Armaturen",
       "cefr": "C2",
+      "context": "faucet, valve",
       "register": [
         "All"
       ]
@@ -121957,9 +122286,10 @@
     {
       "id": "0770bf94-f6e9-49d1-ac9b-61f7a51d48ac",
       "part-of-speech": "verb",
-      "english": "graze (of deer)",
+      "english": "graze",
       "german": "äsen",
       "cefr": "C2",
+      "context": "of deer",
       "register": [
         "All"
       ]
@@ -121972,7 +122302,9 @@
       "cefr": "C2",
       "context": "sich abasten: wear oneself out",
       "register": [
-        "salopp"
+        "salopp",
+        "derb",
+        "vulgär"
       ]
     },
     {
@@ -122031,11 +122363,11 @@
     {
       "id": "59496a08-9267-47b7-8c5c-38066b37f28f",
       "part-of-speech": "noun",
-      "english": "exterior; (outward) appearance",
+      "english": "exterior; appearance",
       "german": "Äußere",
       "gender": "neuter",
       "cefr": "C1",
-      "context": "das Äußere; without the article: Äußeres",
+      "context": "das Äußere; without the article: Äußeres; outward",
       "register": [
         "All"
       ]

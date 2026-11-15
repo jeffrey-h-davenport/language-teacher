@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.43.2 — 2026-11-15
+- French: de plus en plus is now two entries like plus — "increasingly, -er and -er" /də ply.z‿ɑ̃ ply/ (de plus en plus grand, bigger and bigger) and "more and more (an amount)" /də ply.z‿ɑ̃ plys/ (il mange de plus en plus)
+- French: added plus … que "-er than, more … than" /ply … kə/ (plus grand que moi) and plus que "more than (an amount)" /plys kə/ (il travaille plus que moi)
+- French: plusieurs now means "several" (it had "several, many, a lot")
+
+## 1.43.1 — 2026-11-15
+- French: plus is now two entries, told apart by meaning and pronunciation — "more, -er (comparing qualities)" /ply/ (plus grand, bigger) and "more (an amount)" /plys/ (il travaille plus, he works more) — replacing one entry with a long note about when the s is said
+- French: même plus de is an adverb, not an adjective; notes on the plus phrases no longer repeat the pronunciation shown above them
+
+## 1.43.0 — 2026-11-15
+- Registers now record every register in which a word sounds natural, not a single style label. "All" means natural everywhere (most words); a restricted word covers a stretch of its language's scale — a colloquial word from its level down (umgangssprachlich – vulgär), an elevated word from the top down (gehoben – normalsprachlich), a vulgar word only at the bottom. Cards show the range compactly, and the Browse register filter includes words marked All
+- Every word in every language has at least one register. About 950 words are restricted, found by reviewing each language: casual greetings (ciao, привет, cześć, szia…), slang and swearing (Finnish, Czech, Spanish, Swedish, French), and formal-only words with an everyday alternative (Polish ponieważ, Indonesian Anda, Arabic حساء, Marathi संगणक…). Honorific categories stay alongside the range (Korean 죄송합니다, Chinese 您)
+- French tags reviewed again: everyday words no longer marked familier (vite, vélo, auto…), and formal words also natural in neutral writing now include courant
+- Wrong meanings corrected along the way — German: Geld "money" (was "dough"), Katze "cat" (was "bitch"), Nudel "noodle", Puppe "doll", Brust "breast, chest", Hahn "rooster; faucet", Homosexueller "homosexual", Abend "evening", Morgen "morning", winken "wave", versagen "fail", and others; Czech kamarád "friend, pal" (was "buddy"); Spanish chica "girl, young woman"
+
+## 1.42.0 — 2026-11-15
+- Shorter, cleaner English meanings in every language: explanations in parentheses moved into the word's note, which stays hidden in the quiz until asked for — "drawer (part of furniture)" is now "drawer", "cow (female domesticated ox or other bovine…)" is now "cow". About 7,900 meanings changed, most in the older Czech, Finnish, French, Spanish and Swedish lists; Czech word forms follow their root ("of the drawer"). Parentheses that are part of the meaning stay: "(female)", "(to a man)", "(formal)" on words for "you", "(something)", a lone "(of)", and short labels that tell two words with the same English apart ("old (of things)" / "old (of people)")
+- Style labels in meanings — "(colloquial)", "(slang)", "(literary)", "(formal)" — became the word's register in that language's own terms
+- Registers checked: German had everyday words tagged gehoben (Arbeitnehmer, Urin, zunächst…) and contradictory tags on others; French had ordinary words tagged soutenu or familier and obscenities under populaire rather than vulgaire. Both corrected
+- German meanings fixed along the way: heben "lift, raise" (was "hold"), Penis, lauten "read, say", ergehen "fare", bezüglich "regarding", unerlässlich "essential", zocken "gamble", Flieger "airplane"; the archaic Franzosen "syphilis" became der Franzose "Frenchman"; a duplicate Loser removed
+
 ## 1.41.2 — 2026-11-15
 - Much faster with large word lists: opening Czech takes about 1 second instead of about 8, and starting a session is near-instant. Checking whether a word form's root is learned no longer searches every word in the list for each candidate — the app builds lookup tables once when a language loads
 

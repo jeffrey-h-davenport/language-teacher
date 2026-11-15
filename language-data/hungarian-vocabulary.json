@@ -507,11 +507,12 @@
     {
       "id": "1a4e8dea-222d-4981-94d5-b609672daf5e",
       "part-of-speech": "noun",
-      "english": "late morning (before noon)",
+      "english": "late morning",
       "hungarian": "délelőtt",
       "plural": "délelőttök",
       "cefr": "A2",
       "ipa": "[ˈdeːlɛløːt]",
+      "context": "before noon",
       "register": [
         "All"
       ]
@@ -1196,11 +1197,12 @@
     {
       "id": "82d76fc7-b69d-42e1-be8c-c25b919bfe52",
       "part-of-speech": "noun",
-      "english": "pepper (vegetable); paprika",
+      "english": "pepper; paprika",
       "hungarian": "paprika",
       "plural": "paprikák",
       "cefr": "A1",
       "ipa": "[ˈpɒprikɒ]",
+      "context": "vegetable",
       "register": [
         "All"
       ]
@@ -1460,11 +1462,12 @@
     {
       "id": "ecfe4a6b-4f33-40e6-a3ce-b554c7ffa585",
       "part-of-speech": "noun",
-      "english": "bottle; glass (the material)",
+      "english": "bottle; glass",
       "hungarian": "üveg",
       "plural": "üvegek",
       "cefr": "A2",
       "ipa": "[ˈyvɛɡ]",
+      "context": "the material",
       "register": [
         "All"
       ]
@@ -1484,11 +1487,12 @@
     {
       "id": "756ef532-db9d-4bb2-a6e3-3ed9505fc13e",
       "part-of-speech": "noun",
-      "english": "goulash (beef soup)",
+      "english": "goulash",
       "hungarian": "gulyás",
       "plural": "gulyások",
       "cefr": "A1",
       "ipa": "[ˈɡujaːʃ]",
+      "context": "beef soup",
       "register": [
         "All"
       ]
@@ -2192,11 +2196,12 @@
     {
       "id": "cf092cb3-9ce3-4033-950e-788202d03983",
       "part-of-speech": "noun",
-      "english": "stop (bus, tram)",
+      "english": "stop",
       "hungarian": "megálló",
       "plural": "megállók",
       "cefr": "A2",
       "ipa": "[ˈmɛɡaːlːoː]",
+      "context": "bus, tram",
       "register": [
         "All"
       ]
@@ -2902,11 +2907,12 @@
     {
       "id": "50b25f0f-74a9-4af4-aa84-839f3f4dfa5a",
       "part-of-speech": "noun",
-      "english": "love (romantic)",
+      "english": "love",
       "hungarian": "szerelem",
       "cefr": "A2",
       "ipa": "[ˈsɛrɛlɛm]",
       "countability": "mass",
+      "context": "romantic",
       "register": [
         "All"
       ]
@@ -3501,10 +3507,11 @@
     {
       "id": "eaad0f72-d51d-4e2d-916c-840462a7d9fb",
       "part-of-speech": "verb",
-      "english": "to ask (a question)",
+      "english": "to ask",
       "hungarian": "kérdezni",
       "cefr": "A1",
       "ipa": "[ˈkeːrdɛzni]",
+      "context": "a question",
       "register": [
         "All"
       ]
@@ -5538,11 +5545,11 @@
     {
       "id": "3c645bae-e04c-4fdb-9a3a-c532ca2cd32a",
       "part-of-speech": "adverb",
-      "english": "home (homewards)",
+      "english": "home",
       "hungarian": "haza",
       "cefr": "A2",
       "ipa": "[ˈhɒzɒ]",
-      "context": "Megyek haza: I'm going home",
+      "context": "Megyek haza: I'm going home; homewards",
       "register": [
         "All"
       ]
@@ -5747,11 +5754,11 @@
     {
       "id": "0ef75b4c-9fd0-4877-9e8d-7af3f29f07f9",
       "part-of-speech": "postposition",
-      "english": "since; for (time)",
+      "english": "since; for",
       "hungarian": "óta",
       "cefr": "A2",
       "ipa": "[ˈoːtɒ]",
-      "context": "2010 óta: since 2010",
+      "context": "2010 óta: since 2010; time",
       "register": [
         "All"
       ]
@@ -5897,7 +5904,10 @@
       "ipa": "[ˈsiɒ]",
       "context": "to several people: sziasztok",
       "register": [
-        "All"
+        "semleges",
+        "bizalmas",
+        "szleng",
+        "durva"
       ]
     },
     {
@@ -5908,7 +5918,10 @@
       "cefr": "A1",
       "ipa": "[ˈhɛlːoː]",
       "register": [
-        "All"
+        "semleges",
+        "bizalmas",
+        "szleng",
+        "durva"
       ]
     },
     {
@@ -6039,10 +6052,11 @@
     {
       "id": "92dce1f5-c6d8-4b99-ac0f-1ed6dcf1f835",
       "part-of-speech": "interjection",
-      "english": "here you are; pardon?; yes? (answering)",
+      "english": "here you are; pardon?; yes?",
       "hungarian": "tessék",
       "cefr": "A1",
       "ipa": "[ˈtɛʃːeːk]",
+      "context": "answering",
       "register": [
         "All"
       ]

@@ -51,7 +51,9 @@
       "ipa": "[ˈanda]",
       "context": "always capitalized",
       "register": [
-        "All"
+        "sastra",
+        "hormat",
+        "baku"
       ]
     },
     {
@@ -178,11 +180,11 @@
     {
       "id": "08f6928a-d249-4434-882c-e0f9abaa0ad1",
       "part-of-speech": "conjunction",
-      "english": "which, who, that (relative)",
+      "english": "which, who, that",
       "indonesian": "yang",
       "cefr": "A1",
       "ipa": "[jaŋ]",
-      "context": "rumah yang besar: the big house",
+      "context": "rumah yang besar: the big house; relative",
       "register": [
         "All"
       ]
@@ -402,12 +404,14 @@
     {
       "id": "ea103f37-01d1-4e15-ad61-f4abf87220a3",
       "part-of-speech": "noun",
-      "english": "woman (formal)",
+      "english": "woman",
       "indonesian": "wanita",
       "cefr": "A2",
       "ipa": "[waˈnita]",
       "register": [
-        "All"
+        "sastra",
+        "hormat",
+        "baku"
       ]
     },
     {
@@ -1386,10 +1390,11 @@
     {
       "id": "c468c04a-dc33-48e6-b53e-380652787ae8",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "indonesian": "jeruk",
       "cefr": "A1",
       "ipa": "[ˈdʒərʊʔ]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -2455,7 +2460,7 @@
     {
       "id": "ad2d479b-b4bf-486d-8a2f-0c31b5320b1e",
       "part-of-speech": "verb",
-      "english": "to be (there); to exist; to have",
+      "english": "to be; to exist; to have",
       "indonesian": "ada",
       "cefr": "A1",
       "ipa": "[ˈada]",
@@ -2467,12 +2472,15 @@
     {
       "id": "8d26fd3b-e924-4cb7-bd44-1b241e28eec0",
       "part-of-speech": "verb",
-      "english": "to be (formal: X is Y)",
+      "english": "to be",
       "indonesian": "adalah",
       "cefr": "A2",
       "ipa": "[aˈdalah]",
+      "context": "formal: X is Y",
       "register": [
-        "All"
+        "sastra",
+        "hormat",
+        "baku"
       ]
     },
     {
@@ -2610,11 +2618,11 @@
     {
       "id": "b19ef147-be9c-4382-b4b0-baf7d67ca65c",
       "part-of-speech": "verb",
-      "english": "to go up; to ride, take (transport)",
+      "english": "to go up; to ride, take",
       "indonesian": "naik",
       "cefr": "A1",
       "ipa": "[ˈnaɪʔ]",
-      "context": "naik bus: take the bus",
+      "context": "naik bus: take the bus; transport",
       "register": [
         "All"
       ]
@@ -2782,7 +2790,9 @@
       "cefr": "A1",
       "ipa": "[ˈbilaŋ]",
       "register": [
-        "All"
+        "cakapan",
+        "gaul",
+        "kasar"
       ]
     },
     {
@@ -2832,10 +2842,11 @@
     {
       "id": "f99916d4-638d-4d9b-98ff-c788b46c15bf",
       "part-of-speech": "verb",
-      "english": "to watch (TV, a movie)",
+      "english": "to watch",
       "indonesian": "menonton",
       "cefr": "A1",
       "ipa": "[məˈnɔntɔn]",
+      "context": "TV, a movie",
       "register": [
         "All"
       ]
@@ -2865,10 +2876,11 @@
     {
       "id": "fb24c49f-4570-43b0-ba05-c2fab471e913",
       "part-of-speech": "verb",
-      "english": "to know (a fact)",
+      "english": "to know",
       "indonesian": "tahu",
       "cefr": "A1",
       "ipa": "[ˈtahu]",
+      "context": "a fact",
       "register": [
         "All"
       ]
@@ -3371,10 +3383,11 @@
     {
       "id": "ab1cecc5-e722-4722-beb6-8837b614c9b9",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "indonesian": "pindah",
       "cefr": "A2",
       "ipa": "[ˈpindah]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -3635,10 +3648,11 @@
     {
       "id": "3d92d406-15ad-4735-81c3-2a8d0764cc89",
       "part-of-speech": "adjective",
-      "english": "beautiful (scenery, things)",
+      "english": "beautiful",
       "indonesian": "indah",
       "cefr": "A2",
       "ipa": "[ˈindah]",
+      "context": "scenery, things",
       "register": [
         "All"
       ]
@@ -3668,10 +3682,11 @@
     {
       "id": "35dc1454-00b7-4205-ad7e-214e92f10c1e",
       "part-of-speech": "adjective",
-      "english": "old (not new); long (time)",
+      "english": "old; long",
       "indonesian": "lama",
       "cefr": "A1",
       "ipa": "[ˈlama]",
+      "context": "old: not new; long: time",
       "register": [
         "All"
       ]
@@ -3679,10 +3694,11 @@
     {
       "id": "3b20e560-d505-451b-99a4-43938d05a956",
       "part-of-speech": "adjective",
-      "english": "old (of people)",
+      "english": "old",
       "indonesian": "tua",
       "cefr": "A1",
       "ipa": "[ˈtua]",
+      "context": "of people",
       "register": [
         "All"
       ]
@@ -3915,7 +3931,9 @@
       "cefr": "A1",
       "ipa": "[ˈtʃapɛʔ]",
       "register": [
-        "All"
+        "cakapan",
+        "gaul",
+        "kasar"
       ]
     },
     {
@@ -4064,10 +4082,11 @@
     {
       "id": "106839ad-d244-4366-a837-cdbb00b6b7bc",
       "part-of-speech": "adjective",
-      "english": "busy (of a person)",
+      "english": "busy",
       "indonesian": "sibuk",
       "cefr": "A1",
       "ipa": "[ˈsibʊʔ]",
+      "context": "of a person",
       "register": [
         "All"
       ]
@@ -4251,10 +4270,11 @@
     {
       "id": "5622fa4a-3e5d-479e-b958-6fe7a2652e55",
       "part-of-speech": "adjective",
-      "english": "light (not heavy)",
+      "english": "light",
       "indonesian": "ringan",
       "cefr": "A2",
       "ipa": "[ˈriŋan]",
+      "context": "not heavy",
       "register": [
         "All"
       ]
@@ -4543,7 +4563,9 @@
       "cefr": "A1",
       "ipa": "[kəˈnapa]",
       "register": [
-        "All"
+        "cakapan",
+        "gaul",
+        "kasar"
       ]
     },
     {
@@ -4628,10 +4650,11 @@
     {
       "id": "7774d7db-5065-4aef-b177-d0ab0b217f8a",
       "part-of-speech": "adverb",
-      "english": "will (future)",
+      "english": "will",
       "indonesian": "akan",
       "cefr": "A1",
       "ipa": "[ˈakan]",
+      "context": "future",
       "register": [
         "All"
       ]
@@ -4674,10 +4697,11 @@
     {
       "id": "00ef3feb-51ef-44f2-8340-e6c1c4d8d716",
       "part-of-speech": "adverb",
-      "english": "too (much)",
+      "english": "too",
       "indonesian": "terlalu",
       "cefr": "A2",
       "ipa": "[tərˈlalu]",
+      "context": "much",
       "register": [
         "All"
       ]
@@ -4707,11 +4731,11 @@
     {
       "id": "8d7981c7-7233-4c3a-9ac7-eeb1c6fc4298",
       "part-of-speech": "adverb",
-      "english": "ever, once (in the past)",
+      "english": "ever, once",
       "indonesian": "pernah",
       "cefr": "A2",
       "ipa": "[ˈpərnah]",
-      "context": "tidak pernah: never",
+      "context": "tidak pernah: never; in the past",
       "register": [
         "All"
       ]
@@ -5040,10 +5064,11 @@
     {
       "id": "1af73a02-4bbd-4f0b-a421-a111528081d5",
       "part-of-speech": "preposition",
-      "english": "at, on (time)",
+      "english": "at, on",
       "indonesian": "pada",
       "cefr": "A2",
       "ipa": "[ˈpada]",
+      "context": "time",
       "register": [
         "All"
       ]
@@ -5239,12 +5264,14 @@
     {
       "id": "7f49c6ba-bc8d-4014-b888-dc8a6fe0b83c",
       "part-of-speech": "conjunction",
-      "english": "if (formal)",
+      "english": "if",
       "indonesian": "jika",
       "cefr": "A2",
       "ipa": "[ˈdʒika]",
       "register": [
-        "All"
+        "sastra",
+        "hormat",
+        "baku"
       ]
     },
     {
@@ -5361,10 +5388,11 @@
     {
       "id": "74c59626-58b0-4435-a723-254db7ff2a3f",
       "part-of-speech": "interjection",
-      "english": "good day (midday)",
+      "english": "good day",
       "indonesian": "selamat siang",
       "cefr": "A1",
       "ipa": "[səˈlamat ˈsiaŋ]",
+      "context": "midday",
       "register": [
         "All"
       ]
@@ -5505,10 +5533,11 @@
     {
       "id": "074a2ab7-dc69-445b-8702-8963c9014618",
       "part-of-speech": "interjection",
-      "english": "please (asking for help); help!",
+      "english": "please; help!",
       "indonesian": "tolong",
       "cefr": "A1",
       "ipa": "[ˈtolɔŋ]",
+      "context": "asking for help",
       "register": [
         "All"
       ]
@@ -5516,10 +5545,11 @@
     {
       "id": "8c97a781-b4d9-45f1-a71e-75e579702376",
       "part-of-speech": "interjection",
-      "english": "please (go ahead)",
+      "english": "please",
       "indonesian": "silakan",
       "cefr": "A1",
       "ipa": "[siˈlakan]",
+      "context": "go ahead",
       "register": [
         "All"
       ]
@@ -5532,7 +5562,9 @@
       "cefr": "A1",
       "ipa": "[ˈajo]",
       "register": [
-        "All"
+        "cakapan",
+        "gaul",
+        "kasar"
       ]
     },
     {

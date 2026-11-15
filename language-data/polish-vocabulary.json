@@ -1166,12 +1166,13 @@
     {
       "id": "67400695-dc0f-4342-9d21-b9801e8f8541",
       "part-of-speech": "noun",
-      "english": "television (set)",
+      "english": "television",
       "polish": "telewizor",
       "gender": "masculine",
       "plural": "telewizory",
       "cefr": "A1",
       "ipa": "[tɛlɛˈvʲizɔr]",
+      "context": "set",
       "register": [
         "All"
       ]
@@ -1439,12 +1440,13 @@
     {
       "id": "277e7c9e-617e-4541-a9be-238ce1cf5030",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "polish": "pomarańcza",
       "gender": "feminine",
       "plural": "pomarańcze",
       "cefr": "A1",
       "ipa": "[pɔmaˈraɲtʂa]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -2703,12 +2705,13 @@
     {
       "id": "badabda9-718d-4027-9ac4-828a63ba7322",
       "part-of-speech": "noun",
-      "english": "zloty (currency)",
+      "english": "zloty",
       "polish": "złoty",
       "gender": "masculine",
       "plural": "złote",
       "cefr": "A1",
       "ipa": "[ˈzwɔtɨ]",
+      "context": "currency",
       "register": [
         "All"
       ]
@@ -3415,10 +3418,11 @@
     {
       "id": "38e94e21-4129-4f8f-a436-4e7c340c0c02",
       "part-of-speech": "verb",
-      "english": "to know (a person, place)",
+      "english": "to know (a person)",
       "polish": "znać",
       "cefr": "A1",
       "ipa": "[znatɕ]",
+      "context": "a person, place",
       "register": [
         "All"
       ]
@@ -3611,10 +3615,11 @@
     {
       "id": "bb63b1a8-9fd9-4acb-ad09-84788aef3f3e",
       "part-of-speech": "verb",
-      "english": "to study (at university)",
+      "english": "to study",
       "polish": "studiować",
       "cefr": "A1",
       "ipa": "[stuˈdʲɔvatɕ]",
+      "context": "at university",
       "register": [
         "All"
       ]
@@ -3678,11 +3683,11 @@
     {
       "id": "080f9f09-6753-4e11-a7f8-28fa8c3630e2",
       "part-of-speech": "verb",
-      "english": "to live (reside)",
+      "english": "to live",
       "polish": "mieszkać",
       "cefr": "A1",
       "ipa": "[ˈmʲɛʂkatɕ]",
-      "context": "mieszkam w Krakowie: I live in Kraków",
+      "context": "mieszkam w Krakowie: I live in Kraków; reside",
       "register": [
         "All"
       ]
@@ -3746,10 +3751,11 @@
     {
       "id": "fa2d48a9-3861-493d-8d72-7125faa5280c",
       "part-of-speech": "verb",
-      "english": "to lie (be lying)",
+      "english": "to lie",
       "polish": "leżeć",
       "cefr": "A1",
       "ipa": "[ˈlɛʐɛtɕ]",
+      "context": "be lying",
       "register": [
         "All"
       ]
@@ -3908,10 +3914,11 @@
     {
       "id": "0ce814b8-e482-4795-96c5-a79b7920ec2b",
       "part-of-speech": "verb",
-      "english": "to play (a game, an instrument)",
+      "english": "to play",
       "polish": "grać",
       "cefr": "A1",
       "ipa": "[ɡratɕ]",
+      "context": "a game, an instrument",
       "register": [
         "All"
       ]
@@ -3919,10 +3926,11 @@
     {
       "id": "72a9232f-369a-4097-93ef-01a4d648c829",
       "part-of-speech": "verb",
-      "english": "to play (of children); to have fun",
+      "english": "to play; to have fun",
       "polish": "bawić się",
       "cefr": "A2",
       "ipa": "[ˈbavʲitɕ ɕɛ]",
+      "context": "of children",
       "register": [
         "All"
       ]
@@ -5578,10 +5586,11 @@
     {
       "id": "78488d99-3a9f-4668-a888-598b237ca4b0",
       "part-of-speech": "pronoun",
-      "english": "they (women, things, animals)",
+      "english": "they (women)",
       "polish": "one",
       "cefr": "A1",
       "ipa": "[ˈɔnɛ]",
+      "context": "women, things, animals",
       "register": [
         "All"
       ]
@@ -5589,11 +5598,11 @@
     {
       "id": "44848f91-6042-4a53-80be-968f2dd8043d",
       "part-of-speech": "pronoun",
-      "english": "you (formal, to a man); sir",
+      "english": "you; sir",
       "polish": "pan",
       "cefr": "A1",
       "ipa": "[pan]",
-      "context": "verbs use the third person: czy pan mówi po angielsku?",
+      "context": "verbs use the third person: czy pan mówi po angielsku?; formal, to a man",
       "register": [
         "All"
       ]
@@ -5601,11 +5610,11 @@
     {
       "id": "58130cab-c546-4507-ab03-6d6fa14c2809",
       "part-of-speech": "pronoun",
-      "english": "you (formal, to a woman); madam",
+      "english": "you; madam",
       "polish": "pani",
       "cefr": "A1",
       "ipa": "[ˈpaɲi]",
-      "context": "verbs use the third person",
+      "context": "verbs use the third person; formal, to a woman",
       "register": [
         "All"
       ]
@@ -5706,11 +5715,11 @@
     {
       "id": "adc5e77b-c0ca-4e40-9fd8-624758ad761e",
       "part-of-speech": "pronoun",
-      "english": "that (over there)",
+      "english": "that",
       "polish": "tamten",
       "cefr": "A1",
       "ipa": "[ˈtamtɛn]",
-      "context": "tamta (f), tamto (n)",
+      "context": "tamta (f), tamto (n); over there",
       "register": [
         "All"
       ]
@@ -5878,11 +5887,11 @@
     {
       "id": "73043d3c-61db-43af-8f8e-950e8aa7e81e",
       "part-of-speech": "preposition",
-      "english": "from (a person, time)",
+      "english": "from",
       "polish": "od",
       "cefr": "A1",
       "ipa": "[ɔt]",
-      "context": "+ genitive",
+      "context": "+ genitive; a person, time",
       "register": [
         "All"
       ]
@@ -5914,11 +5923,11 @@
     {
       "id": "8212c7de-dd74-45c6-a4fc-b540b48f5869",
       "part-of-speech": "preposition",
-      "english": "about; at (time)",
+      "english": "about; at",
       "polish": "o",
       "cefr": "A1",
       "ipa": "[ɔ]",
-      "context": "+ locative: o czym?; o piątej: at five",
+      "context": "+ locative: o czym?; o piątej: at five; time",
       "register": [
         "All"
       ]
@@ -5926,11 +5935,11 @@
     {
       "id": "9a470db2-a2b5-4f33-91dc-c04d1adf7122",
       "part-of-speech": "preposition",
-      "english": "at (someone's place)",
+      "english": "at",
       "polish": "u",
       "cefr": "A1",
       "ipa": "[u]",
-      "context": "+ genitive: u lekarza",
+      "context": "+ genitive: u lekarza; someone's place",
       "register": [
         "All"
       ]
@@ -5962,11 +5971,11 @@
     {
       "id": "68dc22e9-dd26-4903-9c38-079222e672dc",
       "part-of-speech": "preposition",
-      "english": "above; by (a river, sea)",
+      "english": "above; by",
       "polish": "nad",
       "cefr": "A2",
       "ipa": "[nat]",
-      "context": "+ instrumental: nad morzem (at the seaside)",
+      "context": "+ instrumental: nad morzem (at the seaside); a river, sea",
       "register": [
         "All"
       ]
@@ -6057,11 +6066,11 @@
     {
       "id": "0e55c311-908e-405f-9e00-0a56cae18b73",
       "part-of-speech": "conjunction",
-      "english": "and, but (contrasting)",
+      "english": "and, but",
       "polish": "a",
       "cefr": "A1",
       "ipa": "[a]",
-      "context": "ja jestem lekarzem, a on nauczycielem",
+      "context": "ja jestem lekarzem, a on nauczycielem; contrasting",
       "register": [
         "All"
       ]
@@ -6108,7 +6117,9 @@
       "ipa": "[pɔˈɲɛvaʂ]",
       "context": "more formal than bo",
       "register": [
-        "All"
+        "książkowy",
+        "urzędowy",
+        "neutralny"
       ]
     },
     {
@@ -6207,7 +6218,10 @@
       "cefr": "A1",
       "ipa": "[tʂɛɕtɕ]",
       "register": [
-        "All"
+        "neutralny",
+        "potoczny",
+        "środowiskowy",
+        "wulgarny"
       ]
     },
     {
@@ -6262,7 +6276,10 @@
       "cefr": "A1",
       "ipa": "[na ˈraʑɛ]",
       "register": [
-        "All"
+        "neutralny",
+        "potoczny",
+        "środowiskowy",
+        "wulgarny"
       ]
     },
     {

@@ -1229,12 +1229,13 @@
     {
       "id": "9c163c94-5296-45e5-964c-113ae8a10510",
       "part-of-speech": "noun",
-      "english": "chicken (meat)",
+      "english": "chicken",
       "serbocroatian": "piletina",
       "gender": "feminine",
       "cefr": "A2",
       "ipa": "[ˈpǐletina]",
       "countability": "mass",
+      "context": "meat",
       "register": [
         "All"
       ]
@@ -2511,13 +2512,13 @@
     {
       "id": "30252d5e-f57e-4086-aa18-4483cf155d5d",
       "part-of-speech": "noun",
-      "english": "road, way; journey; time (occasion)",
+      "english": "road, way; journey; time",
       "serbocroatian": "put",
       "gender": "masculine",
       "plural": "putovi",
       "cefr": "A1",
       "ipa": "[pûːt]",
-      "context": "prvi put: the first time; Serbian plural: putevi",
+      "context": "prvi put: the first time; Serbian plural: putevi; occasion",
       "register": [
         "All"
       ]
@@ -3431,10 +3432,11 @@
     {
       "id": "58bf2fa9-0b0c-46e8-a019-2f13ab74307d",
       "part-of-speech": "pronoun",
-      "english": "you (informal singular)",
+      "english": "you",
       "serbocroatian": "ti",
       "cefr": "A1",
       "ipa": "[tî]",
+      "context": "informal singular",
       "register": [
         "All"
       ]
@@ -3543,11 +3545,11 @@
     {
       "id": "46c9446e-bd3f-4898-b30f-3d27d5a532f7",
       "part-of-speech": "pronoun",
-      "english": "her (possessive)",
+      "english": "her",
       "serbocroatian": "njezin",
       "cefr": "A1",
       "ipa": "[ˈɲězin]",
-      "context": "Serbian: njen",
+      "context": "Serbian: njen; possessive",
       "register": [
         "All"
       ]
@@ -3946,11 +3948,11 @@
     {
       "id": "72233be1-0ce8-417f-bf0e-7c0ca187bdfb",
       "part-of-speech": "verb",
-      "english": "to like (be pleasing)",
+      "english": "to like",
       "serbocroatian": "sviđati se",
       "cefr": "A1",
       "ipa": "[ˈsʋǐːdʑati se]",
-      "context": "Sviđa mi se: I like it",
+      "context": "Sviđa mi se: I like it; be pleasing",
       "register": [
         "All"
       ]
@@ -6030,11 +6032,11 @@
     {
       "id": "bc3bbb3c-61ac-4243-a1f9-47f551594d27",
       "part-of-speech": "preposition",
-      "english": "at (someone's place)",
+      "english": "at",
       "serbocroatian": "kod",
       "cefr": "A1",
       "ipa": "[kod]",
-      "context": "+ genitive; kod kuće: at home",
+      "context": "+ genitive; kod kuće: at home; someone's place",
       "register": [
         "All"
       ]
@@ -6042,11 +6044,11 @@
     {
       "id": "eded6878-5129-42d9-9153-89cd2d322613",
       "part-of-speech": "preposition",
-      "english": "along, around; for (fetching)",
+      "english": "along, around; for",
       "serbocroatian": "po",
       "cefr": "A2",
       "ipa": "[po]",
-      "context": "+ locative or accusative",
+      "context": "+ locative or accusative; fetching",
       "register": [
         "All"
       ]
@@ -6149,10 +6151,11 @@
     {
       "id": "05a6dfaf-46c3-43f2-ba47-72cbaea1bf5b",
       "part-of-speech": "conjunction",
-      "english": "and, but (contrast)",
+      "english": "and, but",
       "serbocroatian": "a",
       "cefr": "A1",
       "ipa": "[a]",
+      "context": "contrast",
       "register": [
         "All"
       ]
@@ -6276,7 +6279,10 @@
       "ipa": "[bôːk]",
       "context": "Croatian; Serbian and Bosnian: zdravo",
       "register": [
-        "All"
+        "neutralni",
+        "razgovorni",
+        "žargonski",
+        "vulgarni"
       ]
     },
     {
