@@ -1374,12 +1374,13 @@
     {
       "id": "4c39a174-c01a-4f04-b06d-1d5895602337",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "romanian": "portocală",
       "gender": "feminine",
       "plural": "portocale",
       "cefr": "A1",
       "ipa": "[portoˈkalə]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -2607,12 +2608,13 @@
     {
       "id": "1143226f-19b1-4454-b81e-0703a451c7d2",
       "part-of-speech": "noun",
-      "english": "hat (warm)",
+      "english": "hat",
       "romanian": "căciulă",
       "gender": "feminine",
       "plural": "căciuli",
       "cefr": "A2",
       "ipa": "[kəˈtʃulə]",
+      "context": "warm",
       "register": [
         "All"
       ]
@@ -2660,12 +2662,13 @@
     {
       "id": "88cc729f-84d0-4e94-9fd5-82e077236c37",
       "part-of-speech": "noun",
-      "english": "leu (currency)",
+      "english": "leu",
       "romanian": "leu",
       "gender": "masculine",
       "plural": "lei",
       "cefr": "A1",
       "ipa": "[lew]",
+      "context": "currency",
       "register": [
         "All"
       ]
@@ -3333,10 +3336,11 @@
     {
       "id": "4841ea73-459f-4698-aa6a-868cfa3f4c4f",
       "part-of-speech": "verb",
-      "english": "to know (a person, place)",
+      "english": "to know (a person)",
       "romanian": "cunoaște",
       "cefr": "A1",
       "ipa": "[kuˈno̯aʃte]",
+      "context": "a person, place",
       "register": [
         "All"
       ]
@@ -3368,11 +3372,11 @@
     {
       "id": "408c578e-7d47-417a-80a1-cc1cb32b8a12",
       "part-of-speech": "verb",
-      "english": "to be pleasing (to like)",
+      "english": "to be pleasing",
       "romanian": "plăcea",
       "cefr": "A1",
       "ipa": "[pləˈtʃa]",
-      "context": "îmi place cafeaua: I like coffee",
+      "context": "îmi place cafeaua: I like coffee; to like",
       "register": [
         "All"
       ]
@@ -3579,11 +3583,11 @@
     {
       "id": "90727e55-a27e-40cc-9abd-e9f94499954c",
       "part-of-speech": "verb",
-      "english": "to live (reside)",
+      "english": "to live",
       "romanian": "locui",
       "cefr": "A1",
       "ipa": "[lokuˈi]",
-      "context": "locuiesc în București: I live in Bucharest",
+      "context": "locuiesc în București: I live in Bucharest; reside",
       "register": [
         "All"
       ]
@@ -3636,11 +3640,11 @@
     {
       "id": "38b35355-a610-4f6e-8df6-1d925868b0d9",
       "part-of-speech": "verb",
-      "english": "to walk (a dog)",
+      "english": "to walk",
       "romanian": "plimba",
       "cefr": "A1",
       "ipa": "[plimˈba]",
-      "context": "a se plimba: to go for a walk",
+      "context": "a se plimba: to go for a walk; a dog",
       "register": [
         "All"
       ]
@@ -5333,11 +5337,11 @@
     {
       "id": "aa192e5e-5bf5-4853-86c1-6f1b064f7b1d",
       "part-of-speech": "pronoun",
-      "english": "they (men or mixed); her (possessive)",
+      "english": "they; her",
       "romanian": "ei",
       "cefr": "A1",
       "ipa": "[jej]",
-      "context": "ele: they (women only)",
+      "context": "ele: they (women only); they: men or mixed; her: possessive",
       "register": [
         "All"
       ]
@@ -5639,11 +5643,11 @@
     {
       "id": "945f7d13-8b40-498a-a246-eee3358b7627",
       "part-of-speech": "preposition",
-      "english": "over; in (time)",
+      "english": "over; in",
       "romanian": "peste",
       "cefr": "A2",
       "ipa": "[ˈpeste]",
-      "context": "peste o oră: in an hour",
+      "context": "peste o oră: in an hour; time",
       "register": [
         "All"
       ]
@@ -5855,7 +5859,11 @@
       "cefr": "A1",
       "ipa": "[ˈbunə]",
       "register": [
-        "All"
+        "neutru",
+        "familiar",
+        "popular",
+        "argotic",
+        "vulgar"
       ]
     },
     {
@@ -5921,7 +5929,11 @@
       "cefr": "A1",
       "ipa": "[pa]",
       "register": [
-        "All"
+        "neutru",
+        "familiar",
+        "popular",
+        "argotic",
+        "vulgar"
       ]
     },
     {

@@ -871,13 +871,14 @@
     {
       "id": "d65935a8-34f3-4143-8eda-189cd8b324a6",
       "part-of-speech": "noun",
-      "english": "vacation (school, university)",
+      "english": "vacation (school)",
       "ukrainian": "канікули",
       "gender": "feminine",
       "plural": "канікули",
       "cefr": "A2",
       "ipa": "[kɑˈnʲikulɪ]",
       "countability": "plural-only",
+      "context": "school, university",
       "register": [
         "All"
       ]
@@ -1396,12 +1397,13 @@
     {
       "id": "1b42ed72-2ca2-483f-b290-486cbba16bec",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "ukrainian": "апельсин",
       "gender": "masculine",
       "plural": "апельсини",
       "cefr": "A1",
       "ipa": "[ɑpɛlʲˈsɪn]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -2673,12 +2675,13 @@
     {
       "id": "38b0c603-d344-4adb-a5ca-30bb0c78d0c3",
       "part-of-speech": "noun",
-      "english": "hryvnia (currency)",
+      "english": "hryvnia",
       "ukrainian": "гривня",
       "gender": "feminine",
       "plural": "гривні",
       "cefr": "A1",
       "ipa": "[ˈɦrɪwnʲɑ]",
+      "context": "currency",
       "register": [
         "All"
       ]
@@ -3408,11 +3411,11 @@
     {
       "id": "f1bafcc6-f599-4e0a-b337-567c3f39a002",
       "part-of-speech": "verb",
-      "english": "to be pleasing (to like)",
+      "english": "to be pleasing",
       "ukrainian": "подобатися",
       "cefr": "A1",
       "ipa": "[pɔdɔˈbɑtɪsʲɑ]",
-      "context": "мені подобається кава: I like coffee",
+      "context": "мені подобається кава: I like coffee; to like",
       "register": [
         "All"
       ]
@@ -3537,10 +3540,11 @@
     {
       "id": "86ec2fe6-ae56-45ea-9229-6f16bc8b1f0b",
       "part-of-speech": "verb",
-      "english": "to study (at a school)",
+      "english": "to study",
       "ukrainian": "вчитися",
       "cefr": "A1",
       "ipa": "[ˈwtʃɪtɪsʲɑ]",
+      "context": "at a school",
       "register": [
         "All"
       ]
@@ -3661,10 +3665,11 @@
     {
       "id": "e5e7d5df-05e9-4580-8a3a-e9565784aded",
       "part-of-speech": "verb",
-      "english": "to lie (be lying)",
+      "english": "to lie",
       "ukrainian": "лежати",
       "cefr": "A1",
       "ipa": "[lɛˈʒɑtɪ]",
+      "context": "be lying",
       "register": [
         "All"
       ]
@@ -4693,10 +4698,11 @@
     {
       "id": "c5914e46-cac4-42a2-b581-1ad96a9b5d14",
       "part-of-speech": "adjective",
-      "english": "blue (dark blue)",
+      "english": "blue",
       "ukrainian": "синій",
       "cefr": "A1",
       "ipa": "[ˈsɪnʲij]",
+      "context": "dark blue",
       "register": [
         "All"
       ]
@@ -5335,11 +5341,11 @@
     {
       "id": "6a30b91e-23d1-44cd-98d7-b5d112abc947",
       "part-of-speech": "adverb",
-      "english": "it is necessary (to need to)",
+      "english": "it is necessary",
       "ukrainian": "треба",
       "cefr": "A1",
       "ipa": "[ˈtrɛbɑ]",
-      "context": "мені треба йти: I need to go",
+      "context": "мені треба йти: I need to go; to need to",
       "register": [
         "All"
       ]
@@ -5403,10 +5409,11 @@
     {
       "id": "8fc6fe3a-cace-4182-9c38-255bae96b1f4",
       "part-of-speech": "pronoun",
-      "english": "it (neuter)",
+      "english": "it",
       "ukrainian": "воно",
       "cefr": "A1",
       "ipa": "[ʋɔˈnɔ]",
+      "context": "neuter",
       "register": [
         "All"
       ]
@@ -5425,10 +5432,11 @@
     {
       "id": "b8aedd6b-69f3-480d-b5f6-4c1759ad211a",
       "part-of-speech": "pronoun",
-      "english": "you (plural or formal)",
+      "english": "you",
       "ukrainian": "ви",
       "cefr": "A1",
       "ipa": "[ʋɪ]",
+      "context": "plural or formal",
       "register": [
         "All"
       ]
@@ -5505,11 +5513,11 @@
     {
       "id": "a925e938-0f34-4b94-8746-47e558f78c6e",
       "part-of-speech": "pronoun",
-      "english": "your (plural or formal)",
+      "english": "your",
       "ukrainian": "ваш",
       "cefr": "A1",
       "ipa": "[ʋɑʃ]",
-      "context": "ваша (f), ваше (n), ваші (pl)",
+      "context": "ваша (f), ваше (n), ваші (pl); plural or formal",
       "register": [
         "All"
       ]
@@ -5822,11 +5830,11 @@
     {
       "id": "cb24f8dc-7884-481c-895b-8987acaddd93",
       "part-of-speech": "preposition",
-      "english": "through; in (time)",
+      "english": "through; in",
       "ukrainian": "через",
       "cefr": "A2",
       "ipa": "[ˈtʃɛrɛz]",
-      "context": "+ accusative; через годину: in an hour",
+      "context": "+ accusative; через годину: in an hour; time",
       "register": [
         "All"
       ]
@@ -5892,11 +5900,11 @@
     {
       "id": "85309a32-b95f-4ead-b64a-b860883510f6",
       "part-of-speech": "conjunction",
-      "english": "and, but (contrasting)",
+      "english": "and, but",
       "ukrainian": "а",
       "cefr": "A1",
       "ipa": "[ɑ]",
-      "context": "я лікар, а він учитель: I'm a doctor, and he's a teacher",
+      "context": "я лікар, а він учитель: I'm a doctor, and he's a teacher; contrasting",
       "register": [
         "All"
       ]
@@ -6020,7 +6028,11 @@
       "cefr": "A1",
       "ipa": "[prɪˈʋit]",
       "register": [
-        "All"
+        "нейтральне",
+        "розмовне",
+        "просторічне",
+        "жаргонне",
+        "вульгарне"
       ]
     },
     {
@@ -6088,7 +6100,11 @@
       "ipa": "[buˈʋɑj]",
       "context": "to several people or formally: бувайте",
       "register": [
-        "All"
+        "нейтральне",
+        "розмовне",
+        "просторічне",
+        "жаргонне",
+        "вульгарне"
       ]
     },
     {

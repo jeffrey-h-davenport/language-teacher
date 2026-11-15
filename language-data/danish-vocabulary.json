@@ -1419,12 +1419,13 @@
     {
       "id": "21c115e4-e524-4b6a-9e42-35de2ba2a3b1",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "danish": "appelsin",
       "gender": "common",
       "plural": "appelsiner",
       "cefr": "A1",
       "ipa": "[ɑbəlˈsiˀn]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -2642,12 +2643,13 @@
     {
       "id": "102825dc-6fac-456f-8c75-f6dcf3e97d9e",
       "part-of-speech": "noun",
-      "english": "hat (knitted)",
+      "english": "hat",
       "danish": "hue",
       "gender": "common",
       "plural": "huer",
       "cefr": "A2",
       "ipa": "[ˈhuːə]",
+      "context": "knitted",
       "register": [
         "All"
       ]
@@ -2695,12 +2697,13 @@
     {
       "id": "609a4a39-2267-40ee-b707-6dd6f0de8a63",
       "part-of-speech": "noun",
-      "english": "krone (currency); crown",
+      "english": "krone; crown",
       "danish": "krone",
       "gender": "common",
       "plural": "kroner",
       "cefr": "A1",
       "ipa": "[ˈkʰʁoːnə]",
+      "context": "currency",
       "register": [
         "All"
       ]
@@ -3392,10 +3395,11 @@
     {
       "id": "6d63e205-3f18-41d2-884d-a924bf74b872",
       "part-of-speech": "verb",
-      "english": "to know (a person, place)",
+      "english": "to know (a person)",
       "danish": "kende",
       "cefr": "A1",
       "ipa": "[ˈkʰɛnə]",
+      "context": "a person, place",
       "register": [
         "All"
       ]
@@ -3686,11 +3690,11 @@
     {
       "id": "b8c01570-2073-42dd-b376-a0b732d78759",
       "part-of-speech": "verb",
-      "english": "to live (reside)",
+      "english": "to live",
       "danish": "bo",
       "cefr": "A1",
       "ipa": "[ˈboˀ]",
-      "context": "jeg bor i København: I live in Copenhagen",
+      "context": "jeg bor i København: I live in Copenhagen; reside",
       "register": [
         "All"
       ]
@@ -3764,10 +3768,11 @@
     {
       "id": "ec2ac8a6-6e6c-41b2-948e-c379b2263c69",
       "part-of-speech": "verb",
-      "english": "to lie (be lying)",
+      "english": "to lie",
       "danish": "ligge",
       "cefr": "A1",
       "ipa": "[ˈleɡə]",
+      "context": "be lying",
       "register": [
         "All"
       ]
@@ -3942,10 +3947,11 @@
     {
       "id": "2ff23b2b-2917-4956-be42-652267baa90e",
       "part-of-speech": "verb",
-      "english": "to play (a game, an instrument)",
+      "english": "to play (a game)",
       "danish": "spille",
       "cefr": "A1",
       "ipa": "[ˈsbelə]",
+      "context": "a game, an instrument",
       "register": [
         "All"
       ]
@@ -4327,10 +4333,11 @@
     {
       "id": "86ccd7a9-df97-417f-adde-6a72c9cfcc9a",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "danish": "flytte",
       "cefr": "A2",
       "ipa": "[ˈfløːdə]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -5497,10 +5504,11 @@
     {
       "id": "44a2fe6f-46aa-4179-9e5b-0c1b1687e512",
       "part-of-speech": "adverb",
-      "english": "too (for dyrt: too expensive)",
+      "english": "too",
       "danish": "for",
       "cefr": "A2",
       "ipa": "[fʌ]",
+      "context": "for dyrt: too expensive",
       "register": [
         "All"
       ]
@@ -5686,7 +5694,7 @@
     {
       "id": "d9fd7110-f8fe-42fb-bedd-0382b9a59e22",
       "part-of-speech": "pronoun",
-      "english": "it (en-words); that",
+      "english": "it; that (en-words)",
       "danish": "den",
       "cefr": "A1",
       "ipa": "[ˈdɛn]",
@@ -5697,7 +5705,7 @@
     {
       "id": "ddfff140-5250-4a8a-8dd7-ab04237240f8",
       "part-of-speech": "pronoun",
-      "english": "it (et-words); that",
+      "english": "it; that (et-words)",
       "danish": "det",
       "cefr": "A1",
       "ipa": "[ˈde]",
@@ -6075,10 +6083,11 @@
     {
       "id": "2c6bc02f-2fe1-4400-8934-be778c88dea1",
       "part-of-speech": "preposition",
-      "english": "about; in (time)",
+      "english": "about; in",
       "danish": "om",
       "cefr": "A1",
       "ipa": "[ʌm]",
+      "context": "time",
       "register": [
         "All"
       ]
@@ -6097,11 +6106,11 @@
     {
       "id": "fb73e380-bf38-4c77-861f-c1b414392f6d",
       "part-of-speech": "preposition",
-      "english": "at (someone's place)",
+      "english": "at",
       "danish": "hos",
       "cefr": "A1",
       "ipa": "[hʌs]",
-      "context": "hos lægen: at the doctor's",
+      "context": "hos lægen: at the doctor's; someone's place",
       "register": [
         "All"
       ]
@@ -6340,10 +6349,11 @@
     {
       "id": "95584e55-157c-44c4-a88d-5f04e8aa5dfb",
       "part-of-speech": "conjunction",
-      "english": "when (in the past)",
+      "english": "when",
       "danish": "da",
       "cefr": "A2",
       "ipa": "[da]",
+      "context": "in the past",
       "register": [
         "All"
       ]
@@ -6477,7 +6487,10 @@
       "cefr": "A1",
       "ipa": "[hɑj ˈhɑj]",
       "register": [
-        "All"
+        "neutralt",
+        "uformelt",
+        "slang",
+        "vulgært"
       ]
     },
     {
@@ -6538,10 +6551,11 @@
     {
       "id": "55d855cd-aa04-43d5-b85a-acfcd25c43a7",
       "part-of-speech": "interjection",
-      "english": "enjoy your meal; you're welcome (after a meal)",
+      "english": "enjoy your meal; you're welcome",
       "danish": "velbekomme",
       "cefr": "A2",
       "ipa": "[ˈvɛlbeˌkʰʌmˀə]",
+      "context": "after a meal",
       "register": [
         "All"
       ]

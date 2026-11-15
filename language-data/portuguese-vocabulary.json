@@ -520,13 +520,13 @@
     {
       "id": "7ca07688-f1d6-4ef5-8ada-1247e370e952",
       "part-of-speech": "noun",
-      "english": "hour; time (of day)",
+      "english": "hour; time",
       "portuguese": "hora",
       "gender": "feminine",
       "plural": "horas",
       "cefr": "A1",
       "ipa": "[ˈɔɾɐ]",
-      "context": "que horas são?: what time is it?",
+      "context": "que horas são?: what time is it?; of day",
       "register": [
         "All"
       ]
@@ -1309,12 +1309,13 @@
     {
       "id": "8fff9e50-1549-4dce-800a-c011443e91c6",
       "part-of-speech": "noun",
-      "english": "chicken (food)",
+      "english": "chicken",
       "portuguese": "frango",
       "gender": "masculine",
       "plural": "frangos",
       "cefr": "A1",
       "ipa": "[ˈfɾɐ̃ɡu]",
+      "context": "food",
       "register": [
         "All"
       ]
@@ -1413,12 +1414,13 @@
     {
       "id": "7f8a59c2-daf9-4b8f-a6c8-78a954107542",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "portuguese": "laranja",
       "gender": "feminine",
       "plural": "laranjas",
       "cefr": "A1",
       "ipa": "[lɐˈɾɐ̃ʒɐ]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -1740,12 +1742,13 @@
     {
       "id": "2bb6c58f-a990-4c67-b249-87886a9d84ec",
       "part-of-speech": "noun",
-      "english": "square (in a town)",
+      "english": "square",
       "portuguese": "praça",
       "gender": "feminine",
       "plural": "praças",
       "cefr": "A2",
       "ipa": "[ˈpɾasɐ]",
+      "context": "in a town",
       "register": [
         "All"
       ]
@@ -3287,11 +3290,11 @@
     {
       "id": "8e53a868-6001-42cd-af67-48db3815353b",
       "part-of-speech": "verb",
-      "english": "to be (permanent: identity, origin)",
+      "english": "to be (identity)",
       "portuguese": "ser",
       "cefr": "A1",
       "ipa": "[ˈseɾ]",
-      "context": "sou, és, é, somos, são",
+      "context": "sou, és, é, somos, são; permanent: identity, origin",
       "register": [
         "All"
       ]
@@ -3299,11 +3302,11 @@
     {
       "id": "474f5e44-af81-433e-b310-b7a5cbacee9d",
       "part-of-speech": "verb",
-      "english": "to be (temporary: state, location)",
+      "english": "to be (state)",
       "portuguese": "estar",
       "cefr": "A1",
       "ipa": "[ɨʃˈtaɾ]",
-      "context": "estou, estás, está, estamos, estão",
+      "context": "estou, estás, está, estamos, estão; temporary: state, location",
       "register": [
         "All"
       ]
@@ -3424,10 +3427,11 @@
     {
       "id": "be4f82dd-18f3-4dc6-839f-89340f5f0691",
       "part-of-speech": "verb",
-      "english": "to know (a fact); to know how to",
+      "english": "to know; to know how to",
       "portuguese": "saber",
       "cefr": "A1",
       "ipa": "[sɐˈβeɾ]",
+      "context": "a fact",
       "register": [
         "All"
       ]
@@ -3435,10 +3439,11 @@
     {
       "id": "eccace41-9a30-4b8a-9ee3-18d8db2999bd",
       "part-of-speech": "verb",
-      "english": "to know (a person, place); to meet",
+      "english": "to know; to meet",
       "portuguese": "conhecer",
       "cefr": "A1",
       "ipa": "[kuɲɨˈseɾ]",
+      "context": "a person, place",
       "register": [
         "All"
       ]
@@ -3525,11 +3530,11 @@
     {
       "id": "e91ed543-e1f6-4137-8303-42313a774417",
       "part-of-speech": "verb",
-      "english": "to take; to have (a drink, meal)",
+      "english": "to take; to have",
       "portuguese": "tomar",
       "cefr": "A1",
       "ipa": "[tuˈmaɾ]",
-      "context": "tomar um café: to have a coffee",
+      "context": "tomar um café: to have a coffee; a drink, meal",
       "register": [
         "All"
       ]
@@ -3715,11 +3720,11 @@
     {
       "id": "95cadaed-ea63-4dba-8a25-a0225428bd0d",
       "part-of-speech": "verb",
-      "english": "to think (opinion); to find",
+      "english": "to think; to find",
       "portuguese": "achar",
       "cefr": "A1",
       "ipa": "[ɐˈʃaɾ]",
-      "context": "acho que sim: I think so",
+      "context": "acho que sim: I think so; opinion",
       "register": [
         "All"
       ]
@@ -3827,11 +3832,11 @@
     {
       "id": "5c392f84-3c88-415d-886d-7331abdddb90",
       "part-of-speech": "verb",
-      "english": "to walk; to go (by transport)",
+      "english": "to walk; to go",
       "portuguese": "andar",
       "cefr": "A1",
       "ipa": "[ɐ̃ˈdaɾ]",
-      "context": "andar de autocarro: to go by bus",
+      "context": "andar de autocarro: to go by bus; by transport",
       "register": [
         "All"
       ]
@@ -4006,10 +4011,11 @@
     {
       "id": "bdca905d-7afc-486f-883f-13483b7f2d59",
       "part-of-speech": "verb",
-      "english": "to play (a game, sport)",
+      "english": "to play (a game)",
       "portuguese": "jogar",
       "cefr": "A1",
       "ipa": "[ʒuˈɣaɾ]",
+      "context": "a game, sport",
       "register": [
         "All"
       ]
@@ -4028,10 +4034,11 @@
     {
       "id": "81063732-ccb3-4131-8408-4e2ea06840da",
       "part-of-speech": "verb",
-      "english": "to touch; to play (an instrument)",
+      "english": "to touch; to play",
       "portuguese": "tocar",
       "cefr": "A2",
       "ipa": "[tuˈkaɾ]",
+      "context": "an instrument",
       "register": [
         "All"
       ]
@@ -4160,11 +4167,11 @@
     {
       "id": "2b4701dd-81d3-435c-a283-53803094f334",
       "part-of-speech": "verb",
-      "english": "to stay; to be (located); to become",
+      "english": "to stay; to be; to become",
       "portuguese": "ficar",
       "cefr": "A1",
       "ipa": "[fiˈkaɾ]",
-      "context": "onde fica?: where is it?",
+      "context": "onde fica?: where is it?; located",
       "register": [
         "All"
       ]
@@ -4260,10 +4267,11 @@
     {
       "id": "14700cd9-fab4-45f0-a8c1-833a86c454d5",
       "part-of-speech": "verb",
-      "english": "to change; to move (house)",
+      "english": "to change; to move",
       "portuguese": "mudar",
       "cefr": "A2",
       "ipa": "[muˈðaɾ]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -4293,10 +4301,11 @@
     {
       "id": "970bad59-fc3f-4ae2-967b-27df3b0814e1",
       "part-of-speech": "verb",
-      "english": "to lose; to miss (a train)",
+      "english": "to lose; to miss",
       "portuguese": "perder",
       "cefr": "A2",
       "ipa": "[pɨɾˈðeɾ]",
+      "context": "a train",
       "register": [
         "All"
       ]
@@ -4381,10 +4390,11 @@
     {
       "id": "14a57864-0a44-4138-b595-9d1abd689807",
       "part-of-speech": "verb",
-      "english": "to put on, wear (clothes)",
+      "english": "to put on, wear",
       "portuguese": "vestir",
       "cefr": "A2",
       "ipa": "[vɨʃˈtiɾ]",
+      "context": "clothes",
       "register": [
         "All"
       ]
@@ -4669,10 +4679,11 @@
     {
       "id": "787b6b96-89d9-46ad-a9ee-539925bef615",
       "part-of-speech": "adjective",
-      "english": "short (height), low",
+      "english": "short, low",
       "portuguese": "baixo",
       "cefr": "A1",
       "ipa": "[ˈbajʃu]",
+      "context": "height",
       "register": [
         "All"
       ]
@@ -4691,10 +4702,11 @@
     {
       "id": "4e712bfc-f40a-4c3a-9d28-0dc44099ec30",
       "part-of-speech": "adjective",
-      "english": "short (length)",
+      "english": "short",
       "portuguese": "curto",
       "cefr": "A1",
       "ipa": "[ˈkuɾtu]",
+      "context": "length",
       "register": [
         "All"
       ]
@@ -5144,10 +5156,11 @@
     {
       "id": "3c3d133c-9716-4523-9e16-15794f9b322a",
       "part-of-speech": "adjective",
-      "english": "light (not heavy)",
+      "english": "light",
       "portuguese": "leve",
       "cefr": "A2",
       "ipa": "[ˈlɛvɨ]",
+      "context": "not heavy",
       "register": [
         "All"
       ]
@@ -5964,10 +5977,11 @@
     {
       "id": "75e43b5c-00f5-45b9-a0d1-c8bec9cd5b95",
       "part-of-speech": "pronoun",
-      "english": "they (masculine or mixed)",
+      "english": "they",
       "portuguese": "eles",
       "cefr": "A1",
       "ipa": "[ˈelɨʃ]",
+      "context": "masculine or mixed",
       "register": [
         "All"
       ]
@@ -6576,7 +6590,11 @@
       "cefr": "A1",
       "ipa": "[ˈtʃaw]",
       "register": [
-        "All"
+        "corrente",
+        "coloquial",
+        "popular",
+        "calão",
+        "vulgar"
       ]
     },
     {
@@ -6660,10 +6678,11 @@
     {
       "id": "6e9a1754-e296-4069-b8aa-56f6b10ab520",
       "part-of-speech": "interjection",
-      "english": "excuse me (to get past)",
+      "english": "excuse me",
       "portuguese": "com licença",
       "cefr": "A1",
       "ipa": "[kõ liˈsẽsɐ]",
+      "context": "to get past",
       "register": [
         "All"
       ]

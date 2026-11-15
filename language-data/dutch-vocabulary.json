@@ -258,12 +258,13 @@
     {
       "id": "823a0392-50c4-4448-99aa-85c1eacf364e",
       "part-of-speech": "noun",
-      "english": "family (household)",
+      "english": "family",
       "dutch": "gezin",
       "gender": "neuter",
       "plural": "gezinnen",
       "cefr": "A2",
       "ipa": "[ɣəˈzɪn]",
+      "context": "household",
       "register": [
         "All"
       ]
@@ -1483,12 +1484,13 @@
     {
       "id": "b6d92c0e-d062-47df-8ca3-255f68fa2b2d",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "dutch": "sinaasappel",
       "gender": "common",
       "plural": "sinaasappels",
       "cefr": "A1",
       "ipa": "[ˈsinaːsɑpəl]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -1834,12 +1836,13 @@
     {
       "id": "0aa27fa6-0375-496d-bbde-01717297e89c",
       "part-of-speech": "noun",
-      "english": "square (in a town)",
+      "english": "square",
       "dutch": "plein",
       "gender": "neuter",
       "plural": "pleinen",
       "cefr": "A2",
       "ipa": "[plɛin]",
+      "context": "in a town",
       "register": [
         "All"
       ]
@@ -1860,12 +1863,13 @@
     {
       "id": "b446c6f1-4e69-487c-9097-2ae18fdbf1fb",
       "part-of-speech": "noun",
-      "english": "canal (in a city)",
+      "english": "canal",
       "dutch": "gracht",
       "gender": "common",
       "plural": "grachten",
       "cefr": "A2",
       "ipa": "[ɣʁɑxt]",
+      "context": "in a city",
       "register": [
         "All"
       ]
@@ -3199,12 +3203,13 @@
     {
       "id": "7dc48256-d233-44c5-b7be-27ce12b602f5",
       "part-of-speech": "noun",
-      "english": "number (phone, house)",
+      "english": "number",
       "dutch": "nummer",
       "gender": "neuter",
       "plural": "nummers",
       "cefr": "A1",
       "ipa": "[ˈnʏməɻ]",
+      "context": "phone, house",
       "register": [
         "All"
       ]
@@ -3604,10 +3609,11 @@
     {
       "id": "cfe0c80c-95d1-49f2-880a-b302841d42f2",
       "part-of-speech": "verb",
-      "english": "to know (a person, place)",
+      "english": "to know (a person)",
       "dutch": "kennen",
       "cefr": "A1",
       "ipa": "[ˈkɛnə]",
+      "context": "a person, place",
       "register": [
         "All"
       ]
@@ -3803,10 +3809,11 @@
     {
       "id": "6d640865-d7c6-448f-bb16-8bcfdc5571f8",
       "part-of-speech": "verb",
-      "english": "to study (at university)",
+      "english": "to study",
       "dutch": "studeren",
       "cefr": "A1",
       "ipa": "[styˈdeɪʁə]",
+      "context": "at university",
       "register": [
         "All"
       ]
@@ -3836,11 +3843,11 @@
     {
       "id": "46cc4fa1-6adc-4026-a378-bf3ca619f62a",
       "part-of-speech": "verb",
-      "english": "to find; to think (opinion)",
+      "english": "to find; to think",
       "dutch": "vinden",
       "cefr": "A1",
       "ipa": "[ˈvɪndə]",
-      "context": "ik vind het leuk: I like it",
+      "context": "ik vind het leuk: I like it; opinion",
       "register": [
         "All"
       ]
@@ -3949,10 +3956,11 @@
     {
       "id": "242fdf2f-daeb-4998-a49d-56b813bbb305",
       "part-of-speech": "verb",
-      "english": "to lie (be lying)",
+      "english": "to lie",
       "dutch": "liggen",
       "cefr": "A1",
       "ipa": "[ˈlɪɣə]",
+      "context": "be lying",
       "register": [
         "All"
       ]
@@ -4054,7 +4062,9 @@
       "ipa": "[ˈoʊpənə]",
       "context": "everyday: opendoen",
       "register": [
-        "All"
+        "verheven",
+        "formeel",
+        "neutraal"
       ]
     },
     {
@@ -4066,7 +4076,9 @@
       "ipa": "[ˈslœytə]",
       "context": "everyday: dichtdoen",
       "register": [
-        "All"
+        "verheven",
+        "formeel",
+        "neutraal"
       ]
     },
     {
@@ -4239,10 +4251,11 @@
     {
       "id": "2e737794-9cf5-4a8d-a502-d3afe9c78ea5",
       "part-of-speech": "verb",
-      "english": "to put, lay (flat)",
+      "english": "to put, lay",
       "dutch": "leggen",
       "cefr": "A2",
       "ipa": "[ˈlɛɣə]",
+      "context": "flat",
       "register": [
         "All"
       ]
@@ -4250,10 +4263,11 @@
     {
       "id": "6ee24a2d-eee7-4351-b617-8d7b3fce691d",
       "part-of-speech": "verb",
-      "english": "to put, set (upright)",
+      "english": "to put, set",
       "dutch": "zetten",
       "cefr": "A2",
       "ipa": "[ˈzɛtə]",
+      "context": "upright",
       "register": [
         "All"
       ]
@@ -4382,10 +4396,11 @@
     {
       "id": "2bf15c79-4a24-4ae0-8caf-656b0571c7fb",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "dutch": "verhuizen",
       "cefr": "A2",
       "ipa": "[vəɻˈɦœyzə]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -4415,10 +4430,11 @@
     {
       "id": "a7fed81b-375e-40e4-ab24-70642f96ee69",
       "part-of-speech": "verb",
-      "english": "to arrange (to meet)",
+      "english": "to arrange",
       "dutch": "afspreken",
       "cefr": "A2",
       "ipa": "[ˈɑfspʁeɪkə]",
+      "context": "to meet",
       "register": [
         "All"
       ]
@@ -4492,10 +4508,11 @@
     {
       "id": "ab8f0955-a0dc-4a6b-871e-aad325201ee9",
       "part-of-speech": "verb",
-      "english": "to put on (clothes)",
+      "english": "to put on",
       "dutch": "aantrekken",
       "cefr": "A2",
       "ipa": "[ˈaːntʁɛkə]",
+      "context": "clothes",
       "register": [
         "All"
       ]
@@ -4503,10 +4520,11 @@
     {
       "id": "72b44eef-6412-416c-8943-63f8892bc787",
       "part-of-speech": "verb",
-      "english": "to take off (clothes)",
+      "english": "to take off",
       "dutch": "uittrekken",
       "cefr": "A2",
       "ipa": "[ˈœytʁɛkə]",
+      "context": "clothes",
       "register": [
         "All"
       ]
@@ -5053,10 +5071,11 @@
     {
       "id": "fe8faa4f-6f76-4612-a964-89c02e439c20",
       "part-of-speech": "adjective",
-      "english": "kind, nice (of people)",
+      "english": "kind, nice",
       "dutch": "aardig",
       "cefr": "A1",
       "ipa": "[ˈaːɻdəx]",
+      "context": "of people",
       "register": [
         "All"
       ]
@@ -5163,10 +5182,11 @@
     {
       "id": "266ca1a1-214f-4c1a-a3d9-cccd8682c7c6",
       "part-of-speech": "adjective",
-      "english": "free; off (work)",
+      "english": "free; off",
       "dutch": "vrij",
       "cefr": "A1",
       "ipa": "[vʁɛi]",
+      "context": "work",
       "register": [
         "All"
       ]
@@ -6100,11 +6120,11 @@
     {
       "id": "fd8f39eb-8b86-48ce-b683-db7a358d13d1",
       "part-of-speech": "adverb",
-      "english": "too (excessively)",
+      "english": "too",
       "dutch": "te",
       "cefr": "A2",
       "ipa": "[tə]",
-      "context": "te duur: too expensive",
+      "context": "te duur: too expensive; excessively",
       "register": [
         "All"
       ]
@@ -6371,10 +6391,11 @@
     {
       "id": "c289ea04-7240-4f41-a218-d8da61f74215",
       "part-of-speech": "pronoun",
-      "english": "this (het-words)",
+      "english": "this",
       "dutch": "dit",
       "cefr": "A1",
       "ipa": "[dɪt]",
+      "context": "het-words",
       "register": [
         "All"
       ]
@@ -6382,10 +6403,11 @@
     {
       "id": "f14bcbf2-309a-4127-abc5-4edb2d9c7587",
       "part-of-speech": "pronoun",
-      "english": "that (het-words)",
+      "english": "that",
       "dutch": "dat",
       "cefr": "A1",
       "ipa": "[dɑt]",
+      "context": "het-words",
       "register": [
         "All"
       ]
@@ -6393,10 +6415,11 @@
     {
       "id": "b04a3da0-2c5e-4f3f-b943-42c4bcf18ae9",
       "part-of-speech": "pronoun",
-      "english": "this, these (de-words, plurals)",
+      "english": "this, these",
       "dutch": "deze",
       "cefr": "A1",
       "ipa": "[ˈdeɪzə]",
+      "context": "de-words, plurals",
       "register": [
         "All"
       ]
@@ -6404,10 +6427,11 @@
     {
       "id": "8be31817-cc0c-45b5-bf00-8e112114221a",
       "part-of-speech": "pronoun",
-      "english": "that, those (de-words, plurals)",
+      "english": "that, those",
       "dutch": "die",
       "cefr": "A1",
       "ipa": "[di]",
+      "context": "de-words, plurals",
       "register": [
         "All"
       ]
@@ -6526,10 +6550,11 @@
     {
       "id": "4228b08b-c34b-48be-b10e-40fd43c6799f",
       "part-of-speech": "preposition",
-      "english": "at, on (attached to); to",
+      "english": "at, on; to",
       "dutch": "aan",
       "cefr": "A1",
       "ipa": "[aːn]",
+      "context": "attached to",
       "register": [
         "All"
       ]
@@ -6702,10 +6727,11 @@
     {
       "id": "7381ab31-6ca8-4dfd-8c1b-4df8a6f5f888",
       "part-of-speech": "preposition",
-      "english": "at (clock time); around",
+      "english": "at; around",
       "dutch": "om",
       "cefr": "A1",
       "ipa": "[ɔm]",
+      "context": "clock time",
       "register": [
         "All"
       ]
@@ -6885,11 +6911,11 @@
     {
       "id": "d20833c0-5c5b-49dd-b015-1d6d0b7d493a",
       "part-of-speech": "conjunction",
-      "english": "when (in the past)",
+      "english": "when",
       "dutch": "toen",
       "cefr": "A2",
       "ipa": "[tun]",
-      "context": "verb goes to the end of the clause",
+      "context": "verb goes to the end of the clause; in the past",
       "register": [
         "All"
       ]
@@ -6935,7 +6961,10 @@
       "cefr": "A1",
       "ipa": "[ɦɔi]",
       "register": [
-        "All"
+        "neutraal",
+        "informeel",
+        "spreektaal",
+        "plat"
       ]
     },
     {
@@ -6957,7 +6986,9 @@
       "cefr": "A1",
       "ipa": "[dui]",
       "register": [
-        "All"
+        "informeel",
+        "spreektaal",
+        "plat"
       ]
     },
     {
@@ -7007,10 +7038,11 @@
     {
       "id": "1c7ce725-6055-476e-af70-0e3614228c0e",
       "part-of-speech": "interjection",
-      "english": "good night (sleep well)",
+      "english": "good night",
       "dutch": "welterusten",
       "cefr": "A1",
       "ipa": "[ʋɛltəˈʁʏstə]",
+      "context": "sleep well",
       "register": [
         "All"
       ]

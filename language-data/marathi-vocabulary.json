@@ -1085,12 +1085,13 @@
     {
       "id": "9dfe3a6b-4cbc-4af4-9c57-141ae1eff621",
       "part-of-speech": "noun",
-      "english": "rice (uncooked)",
+      "english": "rice",
       "marathi": "तांदूळ",
       "gender": "masculine",
       "cefr": "A2",
       "ipa": "[ˈt̪and̪uɭ]",
       "countability": "mass",
+      "context": "uncooked",
       "register": [
         "All"
       ]
@@ -1098,12 +1099,13 @@
     {
       "id": "aa72e011-40e8-4805-b6e0-15d865424730",
       "part-of-speech": "noun",
-      "english": "chapati (flatbread)",
+      "english": "chapati",
       "marathi": "पोळी",
       "gender": "feminine",
       "plural": "पोळ्या",
       "cefr": "A1",
       "ipa": "[ˈpoɭi]",
+      "context": "flatbread",
       "register": [
         "All"
       ]
@@ -1111,12 +1113,13 @@
     {
       "id": "14a1542f-1a90-45fc-a309-02f69ee5fd7d",
       "part-of-speech": "noun",
-      "english": "bhakri (millet flatbread)",
+      "english": "bhakri",
       "marathi": "भाकरी",
       "gender": "feminine",
       "plural": "भाकऱ्या",
       "cefr": "A2",
       "ipa": "[ˈbʱakɾi]",
+      "context": "millet flatbread",
       "register": [
         "All"
       ]
@@ -1137,12 +1140,13 @@
     {
       "id": "aa3a7ab4-0332-4733-a3a1-4eb12de7724f",
       "part-of-speech": "noun",
-      "english": "dal (lentils)",
+      "english": "dal",
       "marathi": "वरण",
       "gender": "neuter",
       "cefr": "A1",
       "ipa": "[ˈʋəɾəɳ]",
       "countability": "mass",
+      "context": "lentils",
       "register": [
         "All"
       ]
@@ -2320,7 +2324,9 @@
       "ipa": "[ˈsəŋɡənək]",
       "context": "everyday: कॉम्प्युटर",
       "register": [
-        "All"
+        "ग्रांथिक",
+        "औपचारिक",
+        "प्रमाण"
       ]
     },
     {
@@ -2403,12 +2409,13 @@
     {
       "id": "fa0191e1-4620-4a59-9e28-5001b595b034",
       "part-of-speech": "noun",
-      "english": "Marathi (language)",
+      "english": "Marathi",
       "marathi": "मराठी",
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "[ˈməɾaʈʰi]",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2416,12 +2423,13 @@
     {
       "id": "4260c552-c9d9-4d23-a9ad-17352bbb648b",
       "part-of-speech": "noun",
-      "english": "English (language)",
+      "english": "English",
       "marathi": "इंग्रजी",
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "[ˈiŋɡɾədʒi]",
       "countability": "mass",
+      "context": "language",
       "register": [
         "All"
       ]
@@ -2926,10 +2934,11 @@
     {
       "id": "41bc1c04-255f-47f0-9008-cde96b7c5852",
       "part-of-speech": "pronoun",
-      "english": "we (including you); you (very polite)",
+      "english": "we; you (very polite)",
       "marathi": "आपण",
       "cefr": "A1",
       "ipa": "[ˈapəɳ]",
+      "context": "we: including you",
       "register": [
         "All"
       ]
@@ -2937,10 +2946,11 @@
     {
       "id": "6ba940b0-43d3-4b24-85ab-a5e3ff159d1e",
       "part-of-speech": "pronoun",
-      "english": "we (not including you)",
+      "english": "we",
       "marathi": "आम्ही",
       "cefr": "A1",
       "ipa": "[ˈamʱi]",
+      "context": "not including you",
       "register": [
         "All"
       ]
@@ -2970,10 +2980,11 @@
     {
       "id": "842efa99-3366-4021-8117-a3316c2d365b",
       "part-of-speech": "pronoun",
-      "english": "it; that (neuter); they",
+      "english": "it; that; they",
       "marathi": "ते",
       "cefr": "A1",
       "ipa": "[t̪e]",
+      "context": "neuter",
       "register": [
         "All"
       ]
@@ -3003,10 +3014,11 @@
     {
       "id": "c56b95fe-feff-4537-8ba1-26f212d479e6",
       "part-of-speech": "pronoun",
-      "english": "this (neuter); these",
+      "english": "this; these",
       "marathi": "हे",
       "cefr": "A1",
       "ipa": "[ɦe]",
+      "context": "neuter",
       "register": [
         "All"
       ]
@@ -3138,11 +3150,11 @@
     {
       "id": "a8ff90b7-3c4c-4618-85d3-3e6643738e0f",
       "part-of-speech": "verb",
-      "english": "to want, need (impersonal)",
+      "english": "to want, need",
       "marathi": "पाहिजे",
       "cefr": "A1",
       "ipa": "[ˈpaɦidʒe]",
-      "context": "मला चहा पाहिजे: I want tea",
+      "context": "मला चहा पाहिजे: I want tea; impersonal",
       "register": [
         "All"
       ]
@@ -3317,11 +3329,11 @@
     {
       "id": "3dc08399-530e-4597-b317-d2f0a4402981",
       "part-of-speech": "verb",
-      "english": "to like (be liked)",
+      "english": "to like",
       "marathi": "आवडणे",
       "cefr": "A1",
       "ipa": "[ˈaʋəɖəɳe]",
-      "context": "मला आंबा आवडतो: I like mangoes",
+      "context": "मला आंबा आवडतो: I like mangoes; be liked",
       "register": [
         "All"
       ]
@@ -3627,10 +3639,11 @@
     {
       "id": "473ded68-0825-46cc-81cd-f72498f935ba",
       "part-of-speech": "verb",
-      "english": "to call (on the phone)",
+      "english": "to call",
       "marathi": "फोन करणे",
       "cefr": "A1",
       "ipa": "[pʰon ˈkəɾəɳe]",
+      "context": "on the phone",
       "register": [
         "All"
       ]
@@ -4012,7 +4025,9 @@
       "ipa": "[ˈbʱukela]",
       "context": "everyday: मला भूक लागली आहे, I'm hungry",
       "register": [
-        "All"
+        "ग्रांथिक",
+        "औपचारिक",
+        "प्रमाण"
       ]
     },
     {
@@ -4024,7 +4039,9 @@
       "ipa": "[ˈt̪əɦanlela]",
       "context": "everyday: मला तहान लागली आहे, I'm thirsty",
       "register": [
-        "All"
+        "ग्रांथिक",
+        "औपचारिक",
+        "प्रमाण"
       ]
     },
     {
@@ -4832,11 +4849,11 @@
     {
       "id": "36a0caf3-aa54-4a96-96e6-c9a0779d1411",
       "part-of-speech": "postposition",
-      "english": "toward; at (someone's place)",
+      "english": "toward; at",
       "marathi": "कडे",
       "cefr": "A2",
       "ipa": "[ˈkəɖe]",
-      "context": "माझ्याकडे: at my place; I have",
+      "context": "माझ्याकडे: at my place; I have; someone's place",
       "register": [
         "All"
       ]
@@ -4971,7 +4988,9 @@
       "ipa": "[ˈd̪ʱənjəʋad̪]",
       "context": "everyday: थँक्यू",
       "register": [
-        "All"
+        "ग्रांथिक",
+        "औपचारिक",
+        "प्रमाण"
       ]
     },
     {

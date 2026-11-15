@@ -1405,12 +1405,13 @@
     {
       "id": "64719303-7209-4b34-889a-d7e73459c2c8",
       "part-of-speech": "noun",
-      "english": "orange (fruit)",
+      "english": "orange",
       "norwegian": "appelsin",
       "gender": "masculine",
       "plural": "appelsiner",
       "cefr": "A1",
       "ipa": "[ɑpəlˈsiːn]",
+      "context": "fruit",
       "register": [
         "All"
       ]
@@ -2681,12 +2682,13 @@
     {
       "id": "bd1c3ebc-5d63-47a9-8cc1-a1f6b1030954",
       "part-of-speech": "noun",
-      "english": "hat (knitted)",
+      "english": "hat",
       "norwegian": "lue",
       "gender": "feminine",
       "plural": "luer",
       "cefr": "A2",
       "ipa": "[²lʉːə]",
+      "context": "knitted",
       "register": [
         "All"
       ]
@@ -2734,12 +2736,13 @@
     {
       "id": "2cdf066c-9c86-40fc-8baa-32f19f6548ff",
       "part-of-speech": "noun",
-      "english": "krone (currency); crown",
+      "english": "krone; crown",
       "norwegian": "krone",
       "gender": "feminine",
       "plural": "kroner",
       "cefr": "A1",
       "ipa": "[²kɾuːnə]",
+      "context": "currency",
       "register": [
         "All"
       ]
@@ -3430,10 +3433,11 @@
     {
       "id": "4a0921b6-e190-4985-a357-e8b4c7ba3e89",
       "part-of-speech": "verb",
-      "english": "to know (a person, place)",
+      "english": "to know (a person)",
       "norwegian": "kjenne",
       "cefr": "A1",
       "ipa": "[²çɛnːə]",
+      "context": "a person, place",
       "register": [
         "All"
       ]
@@ -3725,11 +3729,11 @@
     {
       "id": "3ed8973a-49cf-4d2f-a319-ebb7c8a0212f",
       "part-of-speech": "verb",
-      "english": "to live (reside)",
+      "english": "to live",
       "norwegian": "bo",
       "cefr": "A1",
       "ipa": "[buː]",
-      "context": "jeg bor i Oslo: I live in Oslo",
+      "context": "jeg bor i Oslo: I live in Oslo; reside",
       "register": [
         "All"
       ]
@@ -3803,10 +3807,11 @@
     {
       "id": "49e812a4-ea8e-49db-b57b-526ecb18dc7f",
       "part-of-speech": "verb",
-      "english": "to lie (be lying)",
+      "english": "to lie",
       "norwegian": "ligge",
       "cefr": "A1",
       "ipa": "[²lɪɡːə]",
+      "context": "be lying",
       "register": [
         "All"
       ]
@@ -4344,10 +4349,11 @@
     {
       "id": "484b2c6d-dc88-4a5e-972a-e62c1441b9b2",
       "part-of-speech": "verb",
-      "english": "to move (house)",
+      "english": "to move",
       "norwegian": "flytte",
       "cefr": "A2",
       "ipa": "[²flʏtːə]",
+      "context": "house",
       "register": [
         "All"
       ]
@@ -5524,10 +5530,11 @@
     {
       "id": "9a04f356-d26e-4de3-8982-8688b6cb7ae7",
       "part-of-speech": "adverb",
-      "english": "too (for dyrt: too expensive)",
+      "english": "too",
       "norwegian": "for",
       "cefr": "A2",
       "ipa": "[fɔɾ]",
+      "context": "for dyrt: too expensive",
       "register": [
         "All"
       ]
@@ -5780,10 +5787,11 @@
     {
       "id": "65bc639b-793a-421e-a592-905015a3c1c7",
       "part-of-speech": "pronoun",
-      "english": "you (object)",
+      "english": "you",
       "norwegian": "deg",
       "cefr": "A1",
       "ipa": "[dæɪ]",
+      "context": "object",
       "register": [
         "All"
       ]
@@ -6081,10 +6089,11 @@
     {
       "id": "2703831b-eaf1-4548-8d51-693aaa88c0cf",
       "part-of-speech": "preposition",
-      "english": "about; in (time)",
+      "english": "about; in",
       "norwegian": "om",
       "cefr": "A1",
       "ipa": "[ɔmː]",
+      "context": "time",
       "register": [
         "All"
       ]
@@ -6103,11 +6112,11 @@
     {
       "id": "b5e4fc7e-7b74-40ec-81ef-0a131777015f",
       "part-of-speech": "preposition",
-      "english": "at (someone's place)",
+      "english": "at",
       "norwegian": "hos",
       "cefr": "A1",
       "ipa": "[hʊs]",
-      "context": "hos legen: at the doctor's",
+      "context": "hos legen: at the doctor's; someone's place",
       "register": [
         "All"
       ]
@@ -6346,10 +6355,11 @@
     {
       "id": "28763215-cd07-4114-b290-613b8f2ff9df",
       "part-of-speech": "conjunction",
-      "english": "when (in the past)",
+      "english": "when",
       "norwegian": "da",
       "cefr": "A2",
       "ipa": "[dɑː]",
+      "context": "in the past",
       "register": [
         "All"
       ]
@@ -6483,7 +6493,10 @@
       "cefr": "A1",
       "ipa": "[ˈhɑː de]",
       "register": [
-        "All"
+        "nøytralt",
+        "muntlig",
+        "slang",
+        "vulgært"
       ]
     },
     {
@@ -6533,10 +6546,11 @@
     {
       "id": "13113157-0610-4972-92ec-7dc0548d60d4",
       "part-of-speech": "interjection",
-      "english": "here you are; you're welcome; please (go ahead)",
+      "english": "here you are; you're welcome; please",
       "norwegian": "vær så god",
       "cefr": "A1",
       "ipa": "[²væːʂəˌɡuː]",
+      "context": "go ahead",
       "register": [
         "All"
       ]
