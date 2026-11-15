@@ -235,17 +235,77 @@ const ARTICLES = {
   'ro': { masculine: 'un',  feminine: 'o',   neuter: 'un' },
 }
 
-// Register (formality level) choices by language code, highest to lowest.
+// Register choices by language code, from most elevated to most informal —
+// each language's own established system, taken from the usage labels of its
+// standard dictionary (Duden, Le Robert, DLE, SSJČ, Kielitoimiston sanakirja,
+// Svensk ordbok, NAOB, Den Danske Ordbog, Van Dale, Treccani, Priberam, PWN,
+// Ozhegov, SUM, DEX, HJP, ÉrtSz, TDK, KBBI, 現代漢語詞典, 표준국어대사전 …).
+// Each value is stored on words in the language's own term and carries an
+// English gloss for the editor, the Browse filter and card tooltips.
 // 'All' is universal and always prepended — it's the default, and selecting
 // it clears any specific selections (and vice versa).
 const REGISTER_OPTIONS = {
-  'de': ['gehoben', 'normalsprachlich', 'umgangssprachlich', 'salopp', 'derb'],
-  'fr': ['soutenu', 'courant', 'familier', 'populaire'],
-  'es': ['culto', 'estándar', 'coloquial', 'jerga', 'vulgar'],
-  'cs': ['spisovná', 'hovorová', 'obecná'],
-  'fi': ['kirjakieli', 'yleiskieli', 'puhekieli'],
-  'sv': ['myndighetssvenska', 'standardtext', 'vardagligt tal'],
+  'de': [['gehoben', 'elevated'], ['bildungssprachlich', 'educated'], ['normalsprachlich', 'neutral'], ['umgangssprachlich', 'colloquial'],
+         ['salopp', 'slangy, casual'], ['derb', 'coarse'], ['vulgär', 'vulgar']],
+  'fr': [['littéraire', 'literary'], ['soutenu', 'formal'], ['courant', 'neutral'], ['familier', 'colloquial'],
+         ['populaire', 'working-class, casual'], ['argotique', 'slang'], ['vulgaire', 'vulgar']],
+  'es': [['culto', 'formal, educated'], ['estándar', 'neutral'], ['coloquial', 'colloquial'], ['jergal', 'slang'], ['vulgar', 'vulgar']],
+  'pt': [['literário', 'literary'], ['formal', 'formal'], ['corrente', 'neutral'], ['coloquial', 'colloquial'],
+         ['popular', 'working-class, casual'], ['calão', 'slang'], ['vulgar', 'vulgar']],
+  'it': [['letterario', 'literary'], ['sostenuto', 'formal'], ['neutro', 'neutral'], ['colloquiale', 'colloquial'],
+         ['familiare', 'familiar'], ['popolare', 'working-class, casual'], ['gergale', 'slang'], ['volgare', 'vulgar']],
+  'ro': [['livresc', 'bookish'], ['oficial', 'official'], ['neutru', 'neutral'], ['familiar', 'colloquial'],
+         ['popular', 'folk, casual'], ['argotic', 'slang'], ['vulgar', 'vulgar']],
+  'nl': [['verheven', 'elevated'], ['formeel', 'formal'], ['neutraal', 'neutral'], ['informeel', 'informal'],
+         ['spreektaal', 'colloquial'], ['plat', 'coarse, vulgar']],
+  'sv': [['högtidligt', 'elevated'], ['formellt', 'formal'], ['neutralt', 'neutral'], ['vardagligt', 'colloquial'],
+         ['slang', 'slang'], ['vulgärt', 'vulgar']],
+  'no': [['høytidelig', 'elevated'], ['formelt', 'formal'], ['nøytralt', 'neutral'], ['muntlig', 'colloquial'],
+         ['slang', 'slang'], ['vulgært', 'vulgar']],
+  'da': [['højtideligt', 'elevated'], ['formelt', 'formal'], ['neutralt', 'neutral'], ['uformelt', 'informal'],
+         ['slang', 'slang'], ['vulgært', 'vulgar']],
+  'fi': [['ylätyyli', 'elevated'], ['kirjakieli', 'formal written'], ['yleiskieli', 'neutral'], ['arkikieli', 'colloquial'],
+         ['slangi', 'slang'], ['alatyyli', 'vulgar']],
+  'cs': [['knižní', 'bookish'], ['spisovná', 'standard'], ['hovorová', 'colloquial standard'], ['obecná', 'common Czech, casual'],
+         ['slangová', 'slang'], ['vulgární', 'vulgar']],
+  'pl': [['książkowy', 'bookish'], ['urzędowy', 'official'], ['neutralny', 'neutral'], ['potoczny', 'colloquial'],
+         ['środowiskowy', 'slang, jargon'], ['wulgarny', 'vulgar']],
+  'ru': [['книжное', 'bookish'], ['официальное', 'official'], ['нейтральное', 'neutral'], ['разговорное', 'colloquial'],
+         ['просторечное', 'substandard'], ['жаргонное', 'slang'], ['грубое', 'coarse, vulgar']],
+  'uk': [['книжне', 'bookish'], ['офіційне', 'official'], ['нейтральне', 'neutral'], ['розмовне', 'colloquial'],
+         ['просторічне', 'substandard'], ['жаргонне', 'slang'], ['вульгарне', 'vulgar']],
+  'sh': [['knjiški', 'bookish'], ['službeni', 'official'], ['neutralni', 'neutral'], ['razgovorni', 'colloquial'],
+         ['žargonski', 'slang'], ['vulgarni', 'vulgar']],
+  'hu': [['választékos', 'refined'], ['hivatalos', 'official'], ['semleges', 'neutral'], ['bizalmas', 'familiar'],
+         ['szleng', 'slang'], ['durva', 'coarse, vulgar']],
+  'tr': [['edebî', 'literary'], ['resmî', 'formal'], ['standart', 'neutral'], ['konuşma dili', 'colloquial'],
+         ['argo', 'slang'], ['kaba', 'vulgar']],
+  'ar': [['كلاسيكي', 'Classical'], ['أدبي', 'literary'], ['رسمي', 'formal'], ['محايد', 'neutral'],
+         ['عامي', 'colloquial'], ['سوقي', 'vulgar']],
+  'he': [['ספרותי', 'literary'], ['רשמי', 'formal'], ['תקני', 'neutral'], ['דיבורי', 'colloquial'],
+         ['סלנג', 'slang'], ['גס', 'vulgar']],
+  'hi': [['साहित्यिक', 'literary'], ['औपचारिक', 'formal'], ['मानक', 'standard'], ['बोलचाल', 'colloquial'],
+         ['अपशब्द', 'vulgar, abusive']],
+  'mr': [['ग्रांथिक', 'bookish'], ['औपचारिक', 'formal'], ['प्रमाण', 'standard'], ['बोलीभाषा', 'colloquial'],
+         ['अपशब्द', 'vulgar, abusive']],
+  'bn': [['সাধু', 'sadhu (formal literary)'], ['আনুষ্ঠানিক', 'formal'], ['চলিত', 'standard colloquial'], ['ঘরোয়া', 'informal'],
+         ['আঞ্চলিক', 'regional'], ['অপভাষা', 'slang'], ['অশ্লীল', 'vulgar']],
+  'id': [['sastra', 'literary'], ['hormat', 'respectful'], ['baku', 'standard'], ['cakapan', 'colloquial'],
+         ['gaul', 'slang'], ['kasar', 'coarse']],
+  'sw': [['kifasihi', 'literary'], ['rasmi', 'formal'], ['sanifu', 'standard'], ['mazungumzo', 'colloquial'],
+         ['Sheng', 'Sheng (urban slang)'], ['matusi', 'vulgar']],
+  'ja': [['文語', 'literary'], ['尊敬語', 'honorific'], ['謙譲語', 'humble'], ['丁寧語', 'polite'], ['普通', 'neutral'],
+         ['くだけた', 'casual'], ['俗語', 'slang'], ['卑語', 'vulgar']],
+  'ko': [['문어', 'written'], ['높임말', 'honorific'], ['예사말', 'neutral'], ['구어', 'spoken'], ['속어', 'slang'], ['비속어', 'vulgar']],
+  'zh': [['书面语', 'written, formal'], ['敬辞', 'honorific'], ['谦辞', 'humble'], ['中性', 'neutral'], ['口语', 'colloquial'],
+         ['方言', 'dialect'], ['俚语', 'slang'], ['詈语', 'abusive']],
 }
+// A register value's English gloss for the current language ('' if unknown).
+function registerGloss(langCode, value) {
+  const hit = (REGISTER_OPTIONS[langCode] || []).find(([v]) => v === value)
+  return hit ? hit[1] : ''
+}
+function currentLangCode() { return currentMeta?.languageCode?.toLowerCase() }
 
 // ── Helpers ──────────────────────────────────────────
 function $(id) { return document.getElementById(id) }
@@ -558,10 +618,10 @@ function currentCefrLevel() {
 }
 
 // ── Session Selection ─────────────────────────────────
-// Czech noun, pronoun, and adjective declensions carry a `baseId` linking
-// them back to their base (nominative singular) word. Before a declined form
-// is freshly introduced:
-//   1) its base word must already be learned (no non-nominatives before nominatives)
+// Declined and conjugated forms carry a `baseId` linking them back to their
+// dictionary word (the nominative singular, or for verbs the infinitive).
+// Before a form is freshly introduced:
+//   1) its base word must already be learned (no endings before the word itself)
 //   2) if it's a plural case, the matching singular case must already be
 //      learned too (no plural forms before their corresponding singular forms)
 //   3) if it's a gendered form (adjectives, and gender-declining pronouns like
@@ -571,11 +631,11 @@ function currentCefrLevel() {
 // form it's missing — never for an unrelated word. Resolution recurses since
 // satisfying rule 3 can surface a form that itself still needs rule 2 (or
 // vice versa) before it's a valid next step.
-const GATED_DECLENSION_TYPES = ['noun-declension', 'pronoun-declension', 'adjective-declension']
+const GATED_DECLENSION_TYPES = ['noun-declension', 'pronoun-declension', 'adjective-declension', 'verb-conjugation']
 
 function resolveDeclensionGate(word) {
   if (!GATED_DECLENSION_TYPES.includes(word['part-of-speech']) || !word.baseId) return word
-  const base = allWords.find(w => w.id === word.baseId)
+  const base = wordById(word.baseId)
   if (!base) return word
 
   if (!base.learned) return base
@@ -585,13 +645,13 @@ function resolveDeclensionGate(word) {
   const genderMatch = grammar.match(/^(masc|fem|neut)\.,\s*(.+)$/)
   if (genderMatch && genderMatch[1] !== 'masc') {
     const mascGrammar = `masc., ${genderMatch[2]}`
-    const mascCounterpart = allWords.find(w => w.baseId === word.baseId && w.grammar === mascGrammar)
+    const mascCounterpart = formOf(word.baseId, mascGrammar)
     if (mascCounterpart && !mascCounterpart.learned) return resolveDeclensionGate(mascCounterpart)
   }
 
   if (grammar.endsWith(' pl') && grammar !== 'nominative pl') {
     const sgGrammar = grammar.slice(0, -3) + ' sg'
-    const sgCounterpart = allWords.find(w => w.baseId === word.baseId && w.grammar === sgGrammar)
+    const sgCounterpart = formOf(word.baseId, sgGrammar)
     if (sgCounterpart && !sgCounterpart.learned) return resolveDeclensionGate(sgCounterpart)
   }
 
@@ -660,17 +720,37 @@ function pickSessionWords() {
 // baseId (stored in the vocabulary file). The reverse index — dictionary word
 // → its forms — is built once per load, and rebuilt lazily after the editor
 // adds words.
+// Alongside it, two lookup tables — words by id, and forms by (baseId,
+// grammar) — so the session-selection rules don't scan every word for each
+// candidate. With Czech's ~135,000 entries those scans made choosing a
+// session's words take several seconds.
 let wordFamilies = null
-function familyIndex() {
-  if (!wordFamilies) {
-    wordFamilies = new Map()
-    for (const w of allWords) {
-      if (!w.baseId) continue
-      if (!wordFamilies.has(w.baseId)) wordFamilies.set(w.baseId, [])
-      wordFamilies.get(w.baseId).push(w)
-    }
+let wordsById = null
+let formsByBaseAndGrammar = null
+function buildWordIndexes() {
+  wordFamilies = new Map()
+  wordsById = new Map()
+  formsByBaseAndGrammar = new Map()
+  for (const w of allWords) {
+    wordsById.set(w.id, w)
+    if (!w.baseId) continue
+    if (!wordFamilies.has(w.baseId)) wordFamilies.set(w.baseId, [])
+    wordFamilies.get(w.baseId).push(w)
+    const key = w.baseId + '\u0000' + (w.grammar || '')
+    if (!formsByBaseAndGrammar.has(key)) formsByBaseAndGrammar.set(key, w)
   }
+}
+function familyIndex() {
+  if (!wordFamilies) buildWordIndexes()
   return wordFamilies
+}
+function wordById(id) {
+  if (!wordFamilies) buildWordIndexes()
+  return wordsById.get(id)
+}
+function formOf(baseId, grammar) {
+  if (!wordFamilies) buildWordIndexes()
+  return formsByBaseAndGrammar.get(baseId + '\u0000' + grammar)
 }
 
 // The other members of a form's family: its sibling forms plus the
@@ -678,7 +758,7 @@ function familyIndex() {
 // that aren't forms of anything.
 function familyOf(word) {
   if (!word.baseId) return []
-  const base = allWords.find(w => w.id === word.baseId)
+  const base = wordById(word.baseId)
   const members = [...(familyIndex().get(word.baseId) || [])]
   if (base) members.push(base)
   return members.filter(w => w.id !== word.id)
@@ -767,6 +847,7 @@ function displayQuestion(q) {
   const showRegister = !showNative && !(registers.length === 1 && registers[0] === 'All')
   $('word-register').classList.toggle('hidden', !showRegister)
   $('word-register').textContent = showRegister ? registers.join(', ') : ''
+  $('word-register').title = showRegister ? registers.map(r => registerGloss(currentLangCode(), r)).filter(Boolean).join(', ') : ''
 
   if (!showNative && word.ipa) renderPronunciationInto($('word-ipa'), word)
   else $('word-ipa').innerHTML = ''
@@ -875,7 +956,7 @@ function updateHeader() {
 // ── Answer Handling ───────────────────────────────────
 function handleChoice(btn, chosen) {
   const correct = chosen.id === currentQ.word.id
-  const word    = allWords.find(w => w.id === currentQ.word.id)
+  const word    = wordById(currentQ.word.id)
 
   const prevScore = word.score
   if (correct) {
@@ -944,7 +1025,7 @@ function handleChoice(btn, chosen) {
 
 // ── Mark Current Word as Learned ─────────────────────
 function markCurrentAsLearned() {
-  const word = allWords.find(w => w.id === currentQ.word.id)
+  const word = wordById(currentQ.word.id)
   word.score    = learnedThreshold()
   word.learned  = true
   word.lastSeen = new Date().toISOString()
@@ -1019,7 +1100,7 @@ function renderRegisterCheckboxes(word) {
 
   const selected = new Set(word.register?.length ? word.register : ['All'])
   box.innerHTML = ''
-  for (const value of ['All', ...options]) {
+  for (const [value, gloss] of [['All', ''], ...options]) {
     const label = document.createElement('label')
     label.className = 'checkbox-label'
     const input = document.createElement('input')
@@ -1027,7 +1108,7 @@ function renderRegisterCheckboxes(word) {
     input.value = value
     input.checked = selected.has(value)
     const span = document.createElement('span')
-    span.textContent = value
+    span.textContent = gloss ? `${value} — ${gloss}` : value
     label.appendChild(input)
     label.appendChild(span)
     box.appendChild(label)
@@ -1075,7 +1156,7 @@ function updateHMuetVisibility() {
 }
 
 function saveEdit() {
-  const word = allWords.find(w => w.id === currentQ.word.id)
+  const word = wordById(currentQ.word.id)
   const tf   = targetFieldName()
   const pos  = $('edit-pos').value
 
@@ -1093,6 +1174,7 @@ function saveEdit() {
 
   const grammar = $('edit-grammar').value.trim()
   if (grammar) word.grammar = grammar; else delete word.grammar
+  wordFamilies = null   // the grammar label is part of the form lookup key
 
   if (REGISTER_OPTIONS[currentMeta?.languageCode?.toLowerCase()]) {
     word.register = getSelectedRegisters()
@@ -1239,6 +1321,7 @@ function displayIntroCard() {
   const showRegister = !(registers.length === 1 && registers[0] === 'All')
   $('intro-register').classList.toggle('hidden', !showRegister)
   $('intro-register').textContent = showRegister ? registers.join(', ') : ''
+  $('intro-register').title = showRegister ? registers.map(r => registerGloss(currentLangCode(), r)).filter(Boolean).join(', ') : ''
 
   renderPronunciationInto($('intro-ipa'), word)
   const countabilityTag = { mass: ' · mass', collective: ' · collective', 'plural-only': ' · plural only' }
@@ -1765,7 +1848,7 @@ function renderSearchRegisterOptions() {
   select.classList.remove('hidden')
   const prevValue = select.value
   select.innerHTML = '<option value="">All registers</option>' +
-    ['All', ...options].map(v => `<option value="${escHtml(v)}">${escHtml(v)}</option>`).join('')
+    [['All', ''], ...options].map(([v, gloss]) => `<option value="${escHtml(v)}">${escHtml(gloss ? `${v} — ${gloss}` : v)}</option>`).join('')
   if ([...select.options].some(o => o.value === prevValue)) select.value = prevValue
 }
 
