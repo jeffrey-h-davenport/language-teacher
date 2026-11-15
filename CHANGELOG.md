@@ -1,5 +1,31 @@
 # Changelog
 
+## 1.41.2 — 2026-11-15
+- Much faster with large word lists: opening Czech takes about 1 second instead of about 8, and starting a session is near-instant. Checking whether a word form's root is learned no longer searches every word in the list for each candidate — the app builds lookup tables once when a language loads
+
+## 1.41.1 — 2026-11-14
+- German: der Zugriff ("access") now has the note "computing, information systems"
+
+## 1.41.0 — 2026-11-14
+- Every language now has its own set of registers, from most elevated to most informal, taken from the usage labels of its standard dictionary — e.g. German gehoben … umgangssprachlich … derb, French soutenu … familier … argotique, Russian книжное … разговорное … жаргонное, Japanese 尊敬語 and 謙譲語, Bengali সাধু and চলিত. Previously only six languages had registers, and only German and French used them
+- Each register shows its English meaning in the Browse filter and the editor ("gehoben — elevated"), and as a tooltip on word cards
+- Spanish, Czech, Finnish and Swedish registers (defined but never used) were replaced with their dictionaries' standard labels; German and French keep all their existing values and gain the missing levels (bildungssprachlich, vulgär; littéraire, argotique, vulgaire)
+
+## 1.40.3 — 2026-11-14
+- Swedish: höra now simply means "to hear"
+
+## 1.40.2 — 2026-11-14
+- Czech: plac is now "square, open space (colloquial)", so it no longer shares "place" with místo
+
+## 1.40.1 — 2026-11-14
+- Czech: místo now simply means "place"
+
+## 1.40.0 — 2026-11-14
+- Verb conjugations now wait for their verb: a past or conditional form (jsem otočil, "I turned") is only introduced once the infinitive (otočit) is learned — the same rule noun, adjective and pronoun forms already followed. Until then, the session teaches the infinitive instead
+
+## 1.39.3 — 2026-11-14
+- Czech: tělo now simply means "body" (note: anatomy), and its forms read "bodies", "of the body" and so on
+
 ## 1.39.2 — 2026-11-14
 - Czech: plural forms no longer share their English with the singular, which had left some quiz questions with two right answers (pozor and pozory were both "attention"). Countable nouns now have real plurals (časy "times", světy "worlds", piva "beers"); plurals with a meaning of their own say so (pozornosti "attentions, small gifts", díky "thanks", vody "waters", techniky "techniques"); and the rarely used plurals of 243 uncountable nouns (pozor, zdraví, krev, štěstí, počasí…) were removed — 1,701 forms
 - Czech: corrected the meanings of země (country; land; earth), vlna (wave; wool), motýlek (little butterfly; bow tie), dík (thank-you) and don (title of respect); added the missing space in 350 meanings like "attention(mental focus)"

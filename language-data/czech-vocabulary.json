@@ -1193,7 +1193,7 @@
     {
       "id": "1d3b0b04-1c6d-4da8-be1e-256be9a01cd8",
       "part-of-speech": "noun-declension",
-      "english": "places (location, position)",
+      "english": "places",
       "czech": "místa",
       "cefr": "A1",
       "grammar": "nominative pl",
@@ -1206,7 +1206,7 @@
     {
       "id": "402c8ed2-c620-46bf-bccb-8c1a1019477e",
       "part-of-speech": "noun-declension",
-      "english": "of the place (location, position)",
+      "english": "of the place",
       "czech": "místa",
       "cefr": "A1",
       "grammar": "genitive sg",
@@ -1219,7 +1219,7 @@
     {
       "id": "4b211d33-132b-4d79-9041-3990e8129451",
       "part-of-speech": "noun-declension",
-      "english": "of the places (location, position)",
+      "english": "of the places",
       "czech": "míst",
       "cefr": "A1",
       "grammar": "genitive pl",
@@ -1232,7 +1232,7 @@
     {
       "id": "2dc99f1a-6bd1-4586-8aaa-58e966ade1c4",
       "part-of-speech": "noun-declension",
-      "english": "to the place (location, position)",
+      "english": "to the place",
       "czech": "místu",
       "cefr": "A1",
       "grammar": "dative sg",
@@ -1245,7 +1245,7 @@
     {
       "id": "afa859ff-a44c-464a-a06b-70d4afd75c68",
       "part-of-speech": "noun-declension",
-      "english": "to the places (location, position)",
+      "english": "to the places",
       "czech": "místům",
       "cefr": "A1",
       "grammar": "dative pl",
@@ -1258,7 +1258,7 @@
     {
       "id": "e7767c27-6c8a-46f3-8f7f-391328e04fcd",
       "part-of-speech": "noun-declension",
-      "english": "(have the) place (location, position)",
+      "english": "(have the) place",
       "czech": "místo",
       "cefr": "A1",
       "grammar": "accusative sg",
@@ -1271,7 +1271,7 @@
     {
       "id": "a2627f63-9d26-4d65-a282-3937f94a5746",
       "part-of-speech": "noun-declension",
-      "english": "(have the) places (location, position)",
+      "english": "(have the) places",
       "czech": "místa",
       "cefr": "A1",
       "grammar": "accusative pl",
@@ -1284,7 +1284,7 @@
     {
       "id": "f0b86266-03b6-4347-8f37-2369a343eaf2",
       "part-of-speech": "noun-declension",
-      "english": "place (location, position)!",
+      "english": "place!",
       "czech": "místo",
       "cefr": "A1",
       "grammar": "vocative sg",
@@ -1297,7 +1297,7 @@
     {
       "id": "a80a7c89-aa85-4b72-b73b-2801c89a1895",
       "part-of-speech": "noun-declension",
-      "english": "places (location, position)!",
+      "english": "places!",
       "czech": "místa",
       "cefr": "A1",
       "grammar": "vocative pl",
@@ -1310,7 +1310,7 @@
     {
       "id": "c1ad1d6e-aee2-438a-ac49-aee96a8f4226",
       "part-of-speech": "noun-declension",
-      "english": "about the place (location, position)",
+      "english": "about the place",
       "czech": "místě",
       "cefr": "A1",
       "grammar": "locative sg",
@@ -1323,7 +1323,7 @@
     {
       "id": "913c9ce7-f3db-48b7-b246-dd98acfc2c87",
       "part-of-speech": "noun-declension",
-      "english": "about the places (location, position)",
+      "english": "about the places",
       "czech": "místech",
       "cefr": "A1",
       "grammar": "locative pl",
@@ -1336,7 +1336,7 @@
     {
       "id": "b1c8a061-d142-4030-8ec1-00b5b0c04449",
       "part-of-speech": "noun-declension",
-      "english": "with the place (location, position)",
+      "english": "with the place",
       "czech": "místem",
       "cefr": "A1",
       "grammar": "instrumental sg",
@@ -1349,7 +1349,7 @@
     {
       "id": "3f4ffeb1-e66f-46a9-b78d-25ba0b5c91a4",
       "part-of-speech": "noun-declension",
-      "english": "with the places (location, position)",
+      "english": "with the places",
       "czech": "místy",
       "cefr": "A1",
       "grammar": "instrumental pl",
@@ -8705,7 +8705,7 @@
     {
       "id": "3cc30f0f-db43-4cd5-82af-ae6d7f5106c3",
       "part-of-speech": "noun-declension",
-      "english": "bodies (physical structure of a living human or animal)",
+      "english": "bodies",
       "czech": "těla",
       "cefr": "A1",
       "grammar": "nominative pl",
@@ -8718,7 +8718,7 @@
     {
       "id": "6883f938-c58f-4e7f-abe1-602b2278f19f",
       "part-of-speech": "noun-declension",
-      "english": "of the body (physical structure of a living human or animal)",
+      "english": "of the body",
       "czech": "těla",
       "cefr": "A1",
       "grammar": "genitive sg",
@@ -8731,7 +8731,7 @@
     {
       "id": "885228b5-83eb-42b4-8125-0d193f3e5ea2",
       "part-of-speech": "noun-declension",
-      "english": "of the bodies (physical structure of a living human or animal)",
+      "english": "of the bodies",
       "czech": "těl",
       "cefr": "A1",
       "grammar": "genitive pl",
@@ -8744,7 +8744,7 @@
     {
       "id": "86b4ce1d-7685-466f-a2a5-e5d5de82c058",
       "part-of-speech": "noun-declension",
-      "english": "to the body (physical structure of a living human or animal)",
+      "english": "to the body",
       "czech": "tělu",
       "cefr": "A1",
       "grammar": "dative sg",
@@ -8757,7 +8757,7 @@
     {
       "id": "9c2e36f0-8cb4-4703-9065-7b138db1e533",
       "part-of-speech": "noun-declension",
-      "english": "to the bodies (physical structure of a living human or animal)",
+      "english": "to the bodies",
       "czech": "tělům",
       "cefr": "A1",
       "grammar": "dative pl",
@@ -8770,7 +8770,7 @@
     {
       "id": "cc47e608-7bb4-43f7-8c8f-70bd16567bfa",
       "part-of-speech": "noun-declension",
-      "english": "(have the) body (physical structure of a living human or animal)",
+      "english": "(have the) body",
       "czech": "tělo",
       "cefr": "A1",
       "grammar": "accusative sg",
@@ -8783,7 +8783,7 @@
     {
       "id": "a2348a9f-739e-4404-acc7-ed42955bab7f",
       "part-of-speech": "noun-declension",
-      "english": "(have the) bodies (physical structure of a living human or animal)",
+      "english": "(have the) bodies",
       "czech": "těla",
       "cefr": "A1",
       "grammar": "accusative pl",
@@ -8796,7 +8796,7 @@
     {
       "id": "753556d7-1262-4de7-adcd-aa43fac05ba9",
       "part-of-speech": "noun-declension",
-      "english": "body (physical structure of a living human or animal)!",
+      "english": "body!",
       "czech": "tělo",
       "cefr": "A1",
       "grammar": "vocative sg",
@@ -8809,7 +8809,7 @@
     {
       "id": "7b3e0ae1-56a5-4701-b03e-feec0a0f29d9",
       "part-of-speech": "noun-declension",
-      "english": "bodies (physical structure of a living human or animal)!",
+      "english": "bodies!",
       "czech": "těla",
       "cefr": "A1",
       "grammar": "vocative pl",
@@ -8822,7 +8822,7 @@
     {
       "id": "15a453c7-4c2f-4a1a-ac94-f9da01ee4210",
       "part-of-speech": "noun-declension",
-      "english": "about the body (physical structure of a living human or animal)",
+      "english": "about the body",
       "czech": "těle",
       "cefr": "A1",
       "grammar": "locative sg",
@@ -8835,7 +8835,7 @@
     {
       "id": "4331c773-fdad-4573-bcd5-8a7677eb52ee",
       "part-of-speech": "noun-declension",
-      "english": "about the bodies (physical structure of a living human or animal)",
+      "english": "about the bodies",
       "czech": "tělech",
       "cefr": "A1",
       "grammar": "locative pl",
@@ -8848,7 +8848,7 @@
     {
       "id": "9a78d278-292a-401e-ac38-78c026f48acb",
       "part-of-speech": "noun-declension",
-      "english": "with the body (physical structure of a living human or animal)",
+      "english": "with the body",
       "czech": "tělem",
       "cefr": "A1",
       "grammar": "instrumental sg",
@@ -8861,7 +8861,7 @@
     {
       "id": "2900bcbb-cfd7-467c-9e2b-1ec58ebb6051",
       "part-of-speech": "noun-declension",
-      "english": "with the bodies (physical structure of a living human or animal)",
+      "english": "with the bodies",
       "czech": "těly",
       "cefr": "A1",
       "grammar": "instrumental pl",
@@ -513794,7 +513794,7 @@
     {
       "id": "68a6b34d-7688-48e8-9f0e-f0910c89ccd1",
       "part-of-speech": "noun-declension",
-      "english": "places",
+      "english": "squares, open spaces (colloquial)",
       "czech": "placy",
       "cefr": "C2",
       "grammar": "nominative pl",
@@ -513807,7 +513807,7 @@
     {
       "id": "ef155367-d5e0-4705-8555-bbb77427a3d8",
       "part-of-speech": "noun-declension",
-      "english": "of the place",
+      "english": "of the square, open space (colloquial)",
       "czech": "placu",
       "cefr": "C2",
       "grammar": "genitive sg",
@@ -513820,7 +513820,7 @@
     {
       "id": "1f11c35e-7c35-4728-8430-1374fe036cbc",
       "part-of-speech": "noun-declension",
-      "english": "of the places",
+      "english": "of the squares, open spaces (colloquial)",
       "czech": "placů",
       "cefr": "C2",
       "grammar": "genitive pl",
@@ -513833,7 +513833,7 @@
     {
       "id": "8b842679-6af7-49c4-874a-ffebfb610033",
       "part-of-speech": "noun-declension",
-      "english": "to the place",
+      "english": "to the square, open space (colloquial)",
       "czech": "placu",
       "cefr": "C2",
       "grammar": "dative sg",
@@ -513846,7 +513846,7 @@
     {
       "id": "32424ace-cd8c-407f-afd3-c73573a53ebb",
       "part-of-speech": "noun-declension",
-      "english": "to the places",
+      "english": "to the squares, open spaces (colloquial)",
       "czech": "placům",
       "cefr": "C2",
       "grammar": "dative pl",
@@ -513859,7 +513859,7 @@
     {
       "id": "2e0407ed-9636-4e8e-9386-8c2b03858571",
       "part-of-speech": "noun-declension",
-      "english": "(have the) place",
+      "english": "(have the) square, open space (colloquial)",
       "czech": "plac",
       "cefr": "C2",
       "grammar": "accusative sg",
@@ -513872,7 +513872,7 @@
     {
       "id": "081bbf10-b258-4eed-9b16-588487309880",
       "part-of-speech": "noun-declension",
-      "english": "(have the) places",
+      "english": "(have the) squares, open spaces (colloquial)",
       "czech": "placy",
       "cefr": "C2",
       "grammar": "accusative pl",
@@ -513885,7 +513885,7 @@
     {
       "id": "ce8b5cf4-6030-4efc-97b9-9c7b5f93c1fc",
       "part-of-speech": "noun-declension",
-      "english": "place!",
+      "english": "square, open space (colloquial)!",
       "czech": "place",
       "cefr": "C2",
       "grammar": "vocative sg",
@@ -513898,7 +513898,7 @@
     {
       "id": "460d79be-f0ac-459a-8b10-9e8846de2beb",
       "part-of-speech": "noun-declension",
-      "english": "places!",
+      "english": "squares, open spaces (colloquial)!",
       "czech": "placy",
       "cefr": "C2",
       "grammar": "vocative pl",
@@ -513911,7 +513911,7 @@
     {
       "id": "37ece048-c677-4f46-846e-971ec920f371",
       "part-of-speech": "noun-declension",
-      "english": "about the place",
+      "english": "about the square, open space (colloquial)",
       "czech": "place / placu",
       "cefr": "C2",
       "grammar": "locative sg",
@@ -513924,7 +513924,7 @@
     {
       "id": "42ec7217-151c-461b-bb96-3394b99ee8ac",
       "part-of-speech": "noun-declension",
-      "english": "about the places",
+      "english": "about the squares, open spaces (colloquial)",
       "czech": "placech",
       "cefr": "C2",
       "grammar": "locative pl",
@@ -513937,7 +513937,7 @@
     {
       "id": "8e527e02-f8fe-4da4-86b9-cde0cfc2c015",
       "part-of-speech": "noun-declension",
-      "english": "with the place",
+      "english": "with the square, open space (colloquial)",
       "czech": "placem",
       "cefr": "C2",
       "grammar": "instrumental sg",
@@ -513950,7 +513950,7 @@
     {
       "id": "bab87f6b-dd0f-41b1-8a95-c19cac3d34fa",
       "part-of-speech": "noun-declension",
-      "english": "with the places",
+      "english": "with the squares, open spaces (colloquial)",
       "czech": "placy",
       "cefr": "C2",
       "grammar": "instrumental pl",
@@ -1416456,7 +1416456,7 @@
     {
       "id": "82f2b4d2-7437-423b-aa6d-cad8f42c27ba",
       "part-of-speech": "noun",
-      "english": "place (location, position)",
+      "english": "place",
       "czech": "místo",
       "gender": "neuter",
       "plural": "místa",
@@ -1418130,12 +1418130,13 @@
     {
       "id": "de9c1973-9624-4984-8893-f7896e54dd0a",
       "part-of-speech": "noun",
-      "english": "body (physical structure of a living human or animal)",
+      "english": "body",
       "czech": "tělo",
       "gender": "neuter",
       "plural": "těla",
       "ipa": "[ˈcɛlo]",
       "cefr": "A1",
+      "context": "anatomy",
       "register": [
         "All"
       ]
@@ -1484769,7 +1484770,7 @@
     {
       "id": "9b216e2c-4232-458e-bf16-72f6f1751c07",
       "part-of-speech": "noun",
-      "english": "place",
+      "english": "square, open space (colloquial)",
       "czech": "plac",
       "gender": "masculine",
       "plural": "placy",
