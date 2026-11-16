@@ -434,27 +434,54 @@ function targetFieldName() {
 }
 
 // Tone lives separately from ipa (word.tone: one small integer per syllable,
-// 0 = neutral, 1-4 = the four tones) so ipa stays a plain, language-agnostic
-// pronunciation string everywhere else in the app. Dense contexts (the
-// Browse table) get this plain-text digit form instead of the full glyph
-// below — legible at a glance in a data table without SVG clutter.
-const TONE_DIGIT = { 0: '', 1: '¹', 2: '²', 3: '³', 4: '⁴' }
+// word.ipaSyllables: the ipa chunk each tone belongs to) so ipa stays a
+// plain pronunciation string everywhere else in the app. Each tonal
+// language has its own glyph set below:
+//   zh — 0 = neutral, 1-4 = Mandarin's four tones
+//   vi — 1 ngang, 2 huyền, 3 sắc, 4 hỏi, 5 ngã, 6 nặng (Hanoi)
+// Dense contexts (the Browse table) get a plain-text form instead of the
+// SVG glyphs: Mandarin tone digits after the word, or Vietnamese Chao
+// pitch letters after each syllable.
+const TONE_SETS = {
+  zh: {
+    text: { 0: '', 1: '¹', 2: '²', 3: '³', 4: '⁴' },
+    glyphs: {
+      1: { color: '#3B7DD8', d: 'M4,9 L26,9' },
+      2: { color: '#2FA66B', d: 'M4,16 L26,4' },
+      3: { color: '#8B5CF6', d: 'M4,8 C11,19 19,19 26,4' },
+      4: { color: '#E24C4C', d: 'M4,4 L26,18' },
+    },
+  },
+  vi: {
+    perSyllable: true,   // syllables are written apart, each with its own pitch letters
+    text: { 1: '˧˧', 2: '˨˩', 3: '˧˦', 4: '˧˩', 5: '˦ˀ˥', 6: '˧˨ʔ' },
+    glyphs: {
+      1: { color: '#3B7DD8', d: 'M4,10 L26,10' },                 // ngang: mid, level
+      2: { color: '#0E9AA7', d: 'M4,11 L26,17' },                 // huyền: low, falling gently
+      3: { color: '#2FA66B', d: 'M4,13 L26,4' },                  // sắc: rising
+      4: { color: '#8B5CF6', d: 'M4,9 C12,19 19,19 26,13' },      // hỏi: dipping
+      5: { color: '#E08A1E', d: 'M4,11 L12,8 M17,9 L26,3' },      // ngã: rising, broken by a catch
+      6: { color: '#E24C4C', d: 'M4,11 L17,17 M23,17 L23,17' },   // nặng: low, cut off by a stop
+    },
+  },
+}
+function toneSet(lang = currentMeta?.languageCode) {
+  return TONE_SETS[lang] || TONE_SETS.zh
+}
 function formatPronunciation(word) {
   if (!word.ipa) return ''
   if (!word.tone || !word.tone.length) return word.ipa
-  return word.ipa + word.tone.map(t => TONE_DIGIT[t] || '').join('')
+  const set = toneSet()
+  if (set.perSyllable && word.ipaSyllables?.length === word.tone.length) {
+    return '[' + word.ipaSyllables.map((syl, i) => syl + (set.text[word.tone[i]] || '')).join(' ') + ']'
+  }
+  return word.ipa + word.tone.map(t => set.text[t] || '').join('')
 }
 
-// ── Tone glyphs (Mandarin) ──────────────────────────
+// ── Tone glyphs (Mandarin, Vietnamese) ──────────────
 // A contour sparkline over each syllable's own ipa chunk, colored per tone —
-// the character conveys meaning, not sound, so the glyph rides with the
-// pronunciation text (word.ipaSyllables), not with the character itself.
-const TONE_GLYPH = {
-  1: { color: '#3B7DD8', d: 'M4,9 L26,9' },
-  2: { color: '#2FA66B', d: 'M4,16 L26,4' },
-  3: { color: '#8B5CF6', d: 'M4,8 C11,19 19,19 26,4' },
-  4: { color: '#E24C4C', d: 'M4,4 L26,18' },
-}
+// the glyph rides with the pronunciation text (word.ipaSyllables), not with
+// the written word itself.
 const SVG_NS = 'http://www.w3.org/2000/svg'
 
 function toneSvg(tone) {
@@ -462,7 +489,7 @@ function toneSvg(tone) {
   svg.setAttribute('viewBox', '0 0 30 20')
   svg.setAttribute('width', '20')
   svg.setAttribute('height', '13')
-  const glyph = TONE_GLYPH[tone]
+  const glyph = toneSet().glyphs[tone]
   if (!glyph) {
     const circle = document.createElementNS(SVG_NS, 'circle')
     circle.setAttribute('cx', '15')
@@ -485,11 +512,12 @@ function toneSvg(tone) {
 // Builds the "[ ni² xau̯³ ]"-style bracket as real DOM (needed for the SVG
 // glyphs — a CSS ::after/attr() tooltip can only hold plain text). Returns
 // null for any word without per-syllable tone data, so callers fall back
-// to plain ipa text — every language except Chinese, unchanged.
+// to plain ipa text — every language except Chinese and Vietnamese.
 function buildToneBracket(word) {
   if (!word.ipaSyllables || !word.tone || word.ipaSyllables.length !== word.tone.length) return null
   const wrap = document.createElement('span')
   wrap.className = 'tone-bracket'
+  if (toneSet().perSyllable) wrap.classList.add('tone-bracket-spaced')
   wrap.appendChild(document.createTextNode('['))
   word.ipaSyllables.forEach((syllable, i) => {
     const group = document.createElement('span')
@@ -503,7 +531,7 @@ function buildToneBracket(word) {
 }
 
 // Fills `container` with a word's pronunciation — the tone-glyph bracket
-// when available (Chinese), otherwise plain ipa text (unchanged behavior
+// when available (Chinese, Vietnamese), otherwise plain ipa text (unchanged behavior
 // for every other language).
 function renderPronunciationInto(container, word) {
   container.innerHTML = ''
@@ -1595,7 +1623,7 @@ function renderScriptGuide() {
       cell.className = 'script-char-cell'
       const char = document.createElement('div')
       char.className = 'script-char'
-      // charGlyph/ipaGlyph (optional, Chinese-only) carry the same
+      // charGlyph/ipaGlyph (optional, tonal languages) carry the same
       // {ipaSyllables, tone} shape buildToneBracket already draws for the
       // quiz screens — reused here so the guide shows the real contour
       // notation instead of a separately-maintained description of it.

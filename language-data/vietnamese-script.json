@@ -8,138 +8,166 @@
       "heading": "About the pronunciations",
       "text": [
         "Pronunciations follow the Hanoi (Northern) standard, written as exact (bracketed) IPA. Vietnamese is written in the Latin alphabet (chữ Quốc ngữ), one syllable at a time: a word like gia đình \"family\" is two written syllables.",
-        "Every syllable has a tone, marked on its main vowel, and the tone changes the meaning: ma \"ghost\", má \"cheek\", mà \"but\". In the pronunciations the tone is shown after each syllable with pitch bars, from ˥ (high) to ˩ (low); ˀ is a catch in the throat and ʔ a glottal stop.",
+        "Every syllable has a tone, marked on its main vowel, and the tone changes the meaning: ma \"ghost\", má \"cheek\", mà \"but\". In the pronunciations each syllable's tone is drawn as a small colored line above it (see The six tones below). In the Browse table it is written instead as pitch bars after the syllable, from ˥ (high) to ˩ (low).",
         "Vietnamese has no strong word stress, but in words of more than one syllable the last syllable is a little stronger, so it carries the stress mark (ˈ).",
         "Many words differ in the South (Saigon): r, d and gi are said like English y or r instead of z, the hỏi and ngã tones merge, and some everyday words change (heo for lợn \"pig\"). The notes on those words give the Southern form."
       ]
     },
     {
       "heading": "The six tones",
-      "table": {
-        "columns": [
-          "Tone",
-          "Mark",
-          "Pitch",
-          "How it sounds",
-          "Example"
-        ],
-        "rows": [
-          [
-            "ngang (level)",
-            "none",
-            "˧˧",
-            "mid and flat",
-            "ba [ɓaː˧˧]"
-          ],
-          [
-            "huyền (falling)",
-            "à",
-            "˨˩",
-            "low and falling gently, a little breathy",
-            "bà [ɓaː˨˩]"
-          ],
-          [
-            "sắc (rising)",
-            "á",
-            "˧˦",
-            "rising sharply, like a surprised \"huh?\"",
-            "cá [kaː˧˦]"
-          ],
-          [
-            "hỏi (dipping)",
-            "ả",
-            "˧˩",
-            "falling low, then (in careful speech) rising again",
-            "bảy [ɓaj˧˩]"
-          ],
-          [
-            "ngã (broken)",
-            "ã",
-            "˦ˀ˥",
-            "rising, broken by a catch in the throat",
-            "mũi [muj˦ˀ˥]"
-          ],
-          [
-            "nặng (heavy)",
-            "ạ",
-            "˧˨ʔ",
-            "short, low and cut off with a glottal stop",
-            "mẹ [mɛ˧˨ʔ]"
-          ]
-        ]
-      }
+      "text": "Each syllable's tone is drawn as a small colored line above it in the pronunciations: the line traces the pitch, high at the top and low at the bottom.",
+      "items": [
+        {
+          "char": "ba",
+          "ipaGlyph": {
+            "ipaSyllables": [
+              "ɓaː"
+            ],
+            "tone": [
+              1
+            ]
+          },
+          "ipaSuffix": "'three'",
+          "note": "ngang (level), no mark — mid and flat"
+        },
+        {
+          "char": "bà",
+          "ipaGlyph": {
+            "ipaSyllables": [
+              "ɓaː"
+            ],
+            "tone": [
+              2
+            ]
+          },
+          "ipaSuffix": "'grandma'",
+          "note": "huyền (falling), à — low, falling gently, a little breathy"
+        },
+        {
+          "char": "cá",
+          "ipaGlyph": {
+            "ipaSyllables": [
+              "kaː"
+            ],
+            "tone": [
+              3
+            ]
+          },
+          "ipaSuffix": "'fish'",
+          "note": "sắc (rising), á — rising sharply, like a surprised \"huh?\""
+        },
+        {
+          "char": "bảy",
+          "ipaGlyph": {
+            "ipaSyllables": [
+              "ɓaj"
+            ],
+            "tone": [
+              4
+            ]
+          },
+          "ipaSuffix": "'seven'",
+          "note": "hỏi (dipping), ả — falls low, then rises again in careful speech"
+        },
+        {
+          "char": "mũi",
+          "ipaGlyph": {
+            "ipaSyllables": [
+              "muj"
+            ],
+            "tone": [
+              5
+            ]
+          },
+          "ipaSuffix": "'nose'",
+          "note": "ngã (broken), ã — rises, broken in the middle by a catch in the throat"
+        },
+        {
+          "char": "mẹ",
+          "ipaGlyph": {
+            "ipaSyllables": [
+              "mɛ"
+            ],
+            "tone": [
+              6
+            ]
+          },
+          "ipaSuffix": "'mother'",
+          "note": "nặng (heavy), ạ — short and low, cut off with a glottal stop"
+        }
+      ]
     },
     {
       "heading": "Vowels",
       "items": [
         {
           "char": "a",
-          "ipa": "ba [ɓaː˧˧]",
+          "ipa": "ba [ɓaː]",
           "note": "long a, as in \"father\""
         },
         {
           "char": "ă",
-          "ipa": "ăn [ʔan˧˧]",
+          "ipa": "ăn [ʔan]",
           "note": "short a, cut off quickly"
         },
         {
           "char": "â",
-          "ipa": "chân [t͡ɕən˧˧]",
+          "ipa": "chân [t͡ɕən]",
           "note": "short \"uh\", as in \"but\""
         },
         {
           "char": "e",
-          "ipa": "mẹ [mɛ˧˨ʔ]",
+          "ipa": "mẹ [mɛ]",
           "note": "open e, as in \"bed\""
         },
         {
           "char": "ê",
-          "ipa": "đến [ɗen˧˦]",
+          "ipa": "đến [ɗen]",
           "note": "closed e, like \"ay\" in \"say\" without the glide"
         },
         {
           "char": "i / y",
-          "ipa": "gì [zi˨˩] · kỳ nghỉ [ki˨˩ ˈŋi˧˩]",
+          "ipa": "gì [zi] · kỳ nghỉ [ki ˈŋi]",
           "note": "ee, as in \"see\""
         },
         {
           "char": "o",
-          "ipa": "to [tɔ˧˧]",
+          "ipa": "to [tɔ]",
           "note": "open o, as in \"law\""
         },
         {
           "char": "ô",
-          "ipa": "tôi [toj˧˧]",
+          "ipa": "tôi [toj]",
           "note": "closed o, like \"oh\" without the glide"
         },
         {
           "char": "ơ",
-          "ipa": "phở [fəː˧˩]",
+          "ipa": "phở [fəː]",
           "note": "long \"uh\", as in \"fur\" without the r"
         },
         {
           "char": "u",
-          "ipa": "bụng [ɓuwŋ͡m˧˨ʔ]",
+          "ipa": "bụng [ɓuwŋ͡m]",
           "note": "oo, as in \"food\""
         },
         {
           "char": "ư",
-          "ipa": "từ [tɨ˨˩]",
+          "ipa": "từ [tɨ]",
           "note": "like u but with spread, unrounded lips"
         },
         {
           "char": "iê / ia / yê",
-          "ipa": "tiền [tiən˨˩] · dĩa [ziə˦ˀ˥]",
+          "ipa": "tiền [tiən] · dĩa [ziə]",
           "note": "ee sliding into \"uh\""
         },
         {
           "char": "uô / ua",
-          "ipa": "muốn [muən˧˦] · mua [muə˧˧]",
+          "ipa": "muốn [muən] · mua [muə]",
           "note": "oo sliding into \"uh\""
         },
         {
           "char": "ươ / ưa",
-          "ipa": "nước [nɨək̚˧˦] · mưa [mɨə˧˧]",
+          "ipa": "nước [nɨək̚] · mưa [mɨə]",
           "note": "ư sliding into \"uh\""
         }
       ]
@@ -149,77 +177,77 @@
       "items": [
         {
           "char": "b",
-          "ipa": "bàn [ɓaːn˨˩]",
+          "ipa": "bàn [ɓaːn]",
           "note": "an implosive b, made by pulling air in slightly"
         },
         {
           "char": "đ",
-          "ipa": "đi [ɗi˧˧]",
+          "ipa": "đi [ɗi]",
           "note": "an implosive d, the tongue on the gums"
         },
         {
           "char": "d, gi, r",
-          "ipa": "dao [zaːw˧˧] · giờ [zəː˨˩] · rau [zaw˧˧]",
+          "ipa": "dao [zaːw] · giờ [zəː] · rau [zaw]",
           "note": "all z in Hanoi; in the South d and gi are y, and r is an r"
         },
         {
           "char": "s, x",
-          "ipa": "sáu [saw˧˦] · xe [sɛ˧˧]",
+          "ipa": "sáu [saw] · xe [sɛ]",
           "note": "both s in Hanoi; in the South s is closer to \"sh\""
         },
         {
           "char": "ch, tr",
-          "ipa": "chợ [t͡ɕəː˧˨ʔ] · trà [t͡ɕaː˨˩]",
+          "ipa": "chợ [t͡ɕəː] · trà [t͡ɕaː]",
           "note": "both like a soft \"ch\" in Hanoi; in the South tr is like \"tr\" in \"tree\""
         },
         {
           "char": "c, k, q",
-          "ipa": "cá [kaː˧˦] · kính [kiŋ̟˧˦] · quá [kwaː˧˦]",
+          "ipa": "cá [kaː] · kính [kiŋ̟] · quá [kwaː]",
           "note": "k without a puff of air; q always comes as qu [kw]"
         },
         {
           "char": "kh",
-          "ipa": "khó [xɔ˧˦]",
+          "ipa": "khó [xɔ]",
           "note": "a rough h, as in German \"Bach\""
         },
         {
           "char": "g, gh",
-          "ipa": "gà [ɣaː˨˩] · ghế [ɣe˧˦]",
+          "ipa": "gà [ɣaː] · ghế [ɣe]",
           "note": "a soft g, made with the back of the tongue barely touching"
         },
         {
           "char": "ng, ngh",
-          "ipa": "ngủ [ŋu˧˩] · nghe [ŋɛ˧˧]",
+          "ipa": "ngủ [ŋu] · nghe [ŋɛ]",
           "note": "ng as in \"singer\", but at the start of the syllable"
         },
         {
           "char": "nh",
-          "ipa": "nhà [ɲaː˨˩]",
+          "ipa": "nhà [ɲaː]",
           "note": "ny, as in \"canyon\""
         },
         {
           "char": "ph",
-          "ipa": "phở [fəː˧˩]",
+          "ipa": "phở [fəː]",
           "note": "f"
         },
         {
           "char": "th",
-          "ipa": "thịt [tʰit̚˧˨ʔ]",
+          "ipa": "thịt [tʰit̚]",
           "note": "t with a puff of air, as in \"top\""
         },
         {
           "char": "t",
-          "ipa": "tám [taːm˧˦]",
+          "ipa": "tám [taːm]",
           "note": "t without a puff of air, as in \"stop\""
         },
         {
           "char": "v",
-          "ipa": "vợ [vəː˧˨ʔ]",
+          "ipa": "vợ [vəː]",
           "note": "v"
         },
         {
           "char": "(no consonant)",
-          "ipa": "ăn [ʔan˧˧]",
+          "ipa": "ăn [ʔan]",
           "note": "a syllable written with a vowel first starts with a glottal stop [ʔ]"
         }
       ]
@@ -230,27 +258,27 @@
       "items": [
         {
           "char": "-p, -t, -c",
-          "ipa": "giúp [zup̚˧˦] · tốt [tot̚˧˦] · nước [nɨək̚˧˦]",
+          "ipa": "giúp [zup̚] · tốt [tot̚] · nước [nɨək̚]",
           "note": "unreleased p, t, k"
         },
         {
           "char": "-ch",
-          "ipa": "sách [sajk̟̚˧˦]",
+          "ipa": "sách [sajk̟̚]",
           "note": "an unreleased k made farther forward; after a it sounds like \"-aik\""
         },
         {
           "char": "-nh",
-          "ipa": "anh [ʔajŋ̟˧˧]",
+          "ipa": "anh [ʔajŋ̟]",
           "note": "ng made farther forward; after a it sounds like \"-aing\""
         },
         {
           "char": "-ng, -c after o, ô, u",
-          "ipa": "không [xəwŋ͡m˧˧] · học [hawk͡p̚˧˨ʔ]",
+          "ipa": "không [xəwŋ͡m] · học [hawk͡p̚]",
           "note": "ng or k with the lips closed at the same time"
         },
         {
           "char": "-i / -y, -o / -u",
-          "ipa": "tôi [toj˧˧] · màu [maw˨˩]",
+          "ipa": "tôi [toj] · màu [maw]",
           "note": "glides: y and w"
         }
       ]
@@ -261,93 +289,83 @@
       "items": [
         {
           "char": "ɓ",
-          "ipa": "bàn [ɓaːn˨˩]",
+          "ipa": "bàn [ɓaːn]",
           "note": "implosive b"
         },
         {
           "char": "ɗ",
-          "ipa": "đi [ɗi˧˧]",
+          "ipa": "đi [ɗi]",
           "note": "implosive d"
         },
         {
           "char": "ʔ",
-          "ipa": "ăn [ʔan˧˧]",
+          "ipa": "ăn [ʔan]",
           "note": "glottal stop, the break in \"uh-oh\""
         },
         {
           "char": "ɣ",
-          "ipa": "gà [ɣaː˨˩]",
+          "ipa": "gà [ɣaː]",
           "note": "soft g, with the tongue barely touching"
         },
         {
           "char": "x",
-          "ipa": "khó [xɔ˧˦]",
+          "ipa": "khó [xɔ]",
           "note": "as in German \"Bach\""
         },
         {
           "char": "ŋ",
-          "ipa": "ngủ [ŋu˧˩]",
+          "ipa": "ngủ [ŋu]",
           "note": "ng as in \"sing\""
         },
         {
           "char": "ɲ",
-          "ipa": "nhà [ɲaː˨˩]",
+          "ipa": "nhà [ɲaː]",
           "note": "ny as in \"canyon\""
         },
         {
           "char": "t͡ɕ",
-          "ipa": "chợ [t͡ɕəː˧˨ʔ]",
+          "ipa": "chợ [t͡ɕəː]",
           "note": "soft ch"
         },
         {
           "char": "tʰ",
-          "ipa": "thịt [tʰit̚˧˨ʔ]",
+          "ipa": "thịt [tʰit̚]",
           "note": "t with a puff of air"
         },
         {
           "char": "ŋ̟ / k̟̚",
-          "ipa": "anh [ʔajŋ̟˧˧] · sách [sajk̟̚˧˦]",
+          "ipa": "anh [ʔajŋ̟] · sách [sajk̟̚]",
           "note": "ng and k made farther forward"
         },
         {
           "char": "ŋ͡m / k͡p̚",
-          "ipa": "không [xəwŋ͡m˧˧] · học [hawk͡p̚˧˨ʔ]",
+          "ipa": "không [xəwŋ͡m] · học [hawk͡p̚]",
           "note": "ng or k with the lips closed"
         },
         {
           "char": "̚",
-          "ipa": "tốt [tot̚˧˦]",
+          "ipa": "tốt [tot̚]",
           "note": "unreleased: no burst of air at the end"
         },
         {
           "char": "ɨ",
-          "ipa": "từ [tɨ˨˩]",
+          "ipa": "từ [tɨ]",
           "note": "oo with spread lips"
         },
         {
           "char": "ə / əː",
-          "ipa": "chân [t͡ɕən˧˧] · phở [fəː˧˩]",
+          "ipa": "chân [t͡ɕən] · phở [fəː]",
           "note": "short and long \"uh\""
         },
         {
           "char": "ɛ / ɔ",
-          "ipa": "mẹ [mɛ˧˨ʔ] · to [tɔ˧˧]",
+          "ipa": "mẹ [mɛ] · to [tɔ]",
           "note": "open e and o"
         },
         {
           "char": "ː",
-          "ipa": "ba [ɓaː˧˧]",
+          "ipa": "ba [ɓaː]",
           "note": "long vowel"
-        },
-        {
-          "char": "˥ ˦ ˧ ˨ ˩",
-          "ipa": "bà [ɓaː˨˩]",
-          "note": "pitch, from high (˥) to low (˩)"
-        },
-        {
-          "char": "ˀ",
-          "ipa": "mũi [muj˦ˀ˥]",
-          "note": "creaky catch in the middle of the ngã tone"
         }
       ]
     }
