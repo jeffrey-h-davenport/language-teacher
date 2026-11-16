@@ -1,0 +1,7068 @@
+{
+  "meta": {
+    "language": "Vietnamese",
+    "languageCode": "vi",
+    "nativeLanguage": "English",
+    "targetField": "vietnamese",
+    "learnedThreshold": 10
+  },
+  "words": [
+    {
+      "id": "f5a46bc2-e558-45e7-a1bf-f22634f74d2a",
+      "part-of-speech": "pronoun",
+      "english": "I, me",
+      "vietnamese": "tôi",
+      "cefr": "A1",
+      "ipa": "[toj˧˧]",
+      "context": "neutral and polite, safe with strangers",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a0b09e6-ba6a-4928-adbb-f146fe209088",
+      "part-of-speech": "pronoun",
+      "english": "I, me (between friends)",
+      "vietnamese": "mình",
+      "cefr": "A1",
+      "ipa": "[miŋ̟˨˩]",
+      "context": "warm and casual; can also mean \"we, us\" including the listener",
+      "register": [
+        "trung tính",
+        "khẩu ngữ",
+        "thông tục"
+      ]
+    },
+    {
+      "id": "ff83a081-170d-42cc-a9b4-091a2100e471",
+      "part-of-speech": "pronoun",
+      "english": "you (to someone your own age)",
+      "vietnamese": "bạn",
+      "cefr": "A1",
+      "ipa": "[ɓaːn˧˨ʔ]",
+      "context": "the neutral choice with peers and strangers your age",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd1e10d3-0b9a-4742-9d17-ad6a55a9dea0",
+      "part-of-speech": "pronoun",
+      "english": "you (to a man a bit older than you)",
+      "vietnamese": "anh",
+      "cefr": "A1",
+      "ipa": "[ʔajŋ̟˧˧]",
+      "context": "also \"older brother\"; a man says it for \"I\" to someone younger",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8a2ec8c-086f-47a6-a67f-bf6e5d5acac3",
+      "part-of-speech": "pronoun",
+      "english": "you (to a woman a bit older than you)",
+      "vietnamese": "chị",
+      "cefr": "A1",
+      "ipa": "[t͡ɕi˧˨ʔ]",
+      "context": "also \"older sister\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b479150-c332-4c95-9246-74026a5a256e",
+      "part-of-speech": "pronoun",
+      "english": "you (to someone younger than you)",
+      "vietnamese": "em",
+      "cefr": "A1",
+      "ipa": "[ʔɛm˧˧]",
+      "context": "also \"younger sibling\"; a younger person says it for \"I\"; also used to a girlfriend or wife",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c83da0a4-bd1a-4aec-9bc3-70e4a17c8814",
+      "part-of-speech": "pronoun",
+      "english": "you (to an elderly man), sir",
+      "vietnamese": "ông",
+      "cefr": "A1",
+      "ipa": "[ʔəwŋ͡m˧˧]",
+      "context": "also \"grandfather\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a644f0b-a427-4bca-8a67-84ba49af782e",
+      "part-of-speech": "pronoun",
+      "english": "you (to an elderly woman), ma'am",
+      "vietnamese": "bà",
+      "cefr": "A1",
+      "ipa": "[ɓaː˨˩]",
+      "context": "also \"grandmother\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3bdf871-67bd-4324-ac92-1b00e7489d2c",
+      "part-of-speech": "pronoun",
+      "english": "you (to a female teacher or a young woman)",
+      "vietnamese": "cô",
+      "cefr": "A1",
+      "ipa": "[ko˧˧]",
+      "context": "also \"aunt\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1deb2538-a84b-4168-9cc2-ae16e39b18e7",
+      "part-of-speech": "pronoun",
+      "english": "you (to a man about your parents' age)",
+      "vietnamese": "chú",
+      "cefr": "A2",
+      "ipa": "[t͡ɕu˧˦]",
+      "context": "also \"uncle (father's younger brother)\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65343e67-5840-4578-b39c-9d65c139e8f8",
+      "part-of-speech": "pronoun",
+      "english": "you (to someone older than your parents)",
+      "vietnamese": "bác",
+      "cefr": "A2",
+      "ipa": "[ɓaːk̚˧˦]",
+      "context": "also \"uncle or aunt older than your parent\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "067c1248-9b43-4399-963a-e0eaf5bfcf9f",
+      "part-of-speech": "pronoun",
+      "english": "I (a child or young person to an elder)",
+      "vietnamese": "cháu",
+      "cefr": "A2",
+      "ipa": "[t͡ɕaw˧˦]",
+      "context": "also \"grandchild, niece, nephew\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0b580702-2d9a-4069-9c20-6e864ee921ca",
+      "part-of-speech": "pronoun",
+      "english": "he, she, it (casual)",
+      "vietnamese": "nó",
+      "cefr": "A1",
+      "ipa": "[nɔ˧˦]",
+      "context": "for animals, things and children; rude for an adult",
+      "register": [
+        "trung tính",
+        "khẩu ngữ",
+        "thông tục"
+      ]
+    },
+    {
+      "id": "66517aec-0a15-4efb-ba61-139189f75cc0",
+      "part-of-speech": "pronoun",
+      "english": "he, him",
+      "vietnamese": "anh ấy",
+      "cefr": "A1",
+      "ipa": "[ʔajŋ̟˧˧ ˈʔəj˧˦]",
+      "context": "the usual word for a young man",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "467c244d-a67f-43a1-841c-9f8b083a03a1",
+      "part-of-speech": "pronoun",
+      "english": "she, her",
+      "vietnamese": "cô ấy",
+      "cefr": "A1",
+      "ipa": "[ko˧˧ ˈʔəj˧˦]",
+      "context": "the usual word for a young woman",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afec01af-97c7-4386-b559-eee06e5e86fd",
+      "part-of-speech": "pronoun",
+      "english": "she, her (a woman a bit older than the speaker)",
+      "vietnamese": "chị ấy",
+      "cefr": "A2",
+      "ipa": "[t͡ɕi˧˨ʔ ˈʔəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b95e255a-f1d9-4f8f-aedf-6555aeabc3e1",
+      "part-of-speech": "pronoun",
+      "english": "he, him (an older man)",
+      "vietnamese": "ông ấy",
+      "cefr": "A1",
+      "ipa": "[ʔəwŋ͡m˧˧ ˈʔəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2821ed2-f098-45b8-80df-b0d69a480a74",
+      "part-of-speech": "pronoun",
+      "english": "she, her (an older woman)",
+      "vietnamese": "bà ấy",
+      "cefr": "A1",
+      "ipa": "[ɓaː˨˩ ˈʔəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86c160cb-0d67-46af-8bd1-52718cf2c1df",
+      "part-of-speech": "pronoun",
+      "english": "they, them",
+      "vietnamese": "họ",
+      "cefr": "A1",
+      "ipa": "[hɔ˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8296e444-519d-459c-b064-eddafefd79b0",
+      "part-of-speech": "pronoun",
+      "english": "we, us (not including you)",
+      "vietnamese": "chúng tôi",
+      "cefr": "A1",
+      "ipa": "[t͡ɕuwŋ͡m˧˦ ˈtoj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92a629c4-8bf3-4a12-98e7-7302660465a3",
+      "part-of-speech": "pronoun",
+      "english": "we, us (including you)",
+      "vietnamese": "chúng ta",
+      "cefr": "A1",
+      "ipa": "[t͡ɕuwŋ͡m˧˦ ˈtaː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e38dfaac-75d1-48b7-ae0c-6360cf43cc52",
+      "part-of-speech": "pronoun",
+      "english": "you all (to a group of peers)",
+      "vietnamese": "các bạn",
+      "cefr": "A1",
+      "ipa": "[kaːk̚˧˦ ˈɓaːn˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e48882d5-7af6-47d6-9f77-1cd73d4d3e2d",
+      "part-of-speech": "pronoun",
+      "english": "you (rude or very familiar)",
+      "vietnamese": "mày",
+      "cefr": "A2",
+      "ipa": "[maj˨˩]",
+      "context": "only between close friends of the same age; otherwise insulting",
+      "register": [
+        "khẩu ngữ",
+        "thông tục"
+      ]
+    },
+    {
+      "id": "71fa4046-b4ea-443e-922e-bbeda7930300",
+      "part-of-speech": "pronoun",
+      "english": "I, me (rude or very familiar)",
+      "vietnamese": "tao",
+      "cefr": "A2",
+      "ipa": "[taːw˧˧]",
+      "context": "goes with mày; only between close friends",
+      "register": [
+        "khẩu ngữ",
+        "thông tục"
+      ]
+    },
+    {
+      "id": "4a3f798e-b8dd-4f98-9588-5439212f6ed4",
+      "part-of-speech": "pronoun",
+      "english": "who",
+      "vietnamese": "ai",
+      "cefr": "A1",
+      "ipa": "[ʔaːj˧˧]",
+      "context": "ai đó: someone",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8894ada-4270-4156-ba90-1d57877fce42",
+      "part-of-speech": "pronoun",
+      "english": "what",
+      "vietnamese": "gì",
+      "cefr": "A1",
+      "ipa": "[zi˨˩]",
+      "context": "at the end of a question: anh tên là gì?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1fceba29-4b5e-48a2-8dec-8b7555015af6",
+      "part-of-speech": "pronoun",
+      "english": "which",
+      "vietnamese": "nào",
+      "cefr": "A1",
+      "ipa": "[naːw˨˩]",
+      "context": "follows the noun: cái nào? which one?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08c5be1d-0916-4ef5-90af-91e0a1961fb6",
+      "part-of-speech": "adverb",
+      "english": "where",
+      "vietnamese": "đâu",
+      "cefr": "A1",
+      "ipa": "[ɗəw˧˧]",
+      "context": "anh đi đâu? where are you going?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "171c9c6e-f55c-465b-a1da-4b504d2e628c",
+      "part-of-speech": "adverb",
+      "english": "how much, how many",
+      "vietnamese": "bao nhiêu",
+      "cefr": "A1",
+      "ipa": "[ɓaːw˧˧ ˈɲiəw˧˧]",
+      "context": "for any amount: bao nhiêu tiền? how much money?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f31fadd-cd69-4a89-bc5c-67ecce34de07",
+      "part-of-speech": "adverb",
+      "english": "how many (a small number)",
+      "vietnamese": "mấy",
+      "cefr": "A1",
+      "ipa": "[məj˧˦]",
+      "context": "for numbers under ten, and for time: mấy giờ? what time?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4537d777-3d8e-49a0-9eb6-f4af35a70358",
+      "part-of-speech": "adverb",
+      "english": "why",
+      "vietnamese": "tại sao",
+      "cefr": "A1",
+      "ipa": "[taːj˧˨ʔ ˈsaːw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c95b2b6-36de-49c9-983b-f59a2245fa54",
+      "part-of-speech": "adverb",
+      "english": "for what reason",
+      "vietnamese": "vì sao",
+      "cefr": "A2",
+      "ipa": "[vi˨˩ ˈsaːw˧˧]",
+      "context": "a little more formal than tại sao",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5eda1b6b-3e1a-4bef-8c0e-92f4ed48d172",
+      "part-of-speech": "adverb",
+      "english": "how, in what way",
+      "vietnamese": "thế nào",
+      "cefr": "A1",
+      "ipa": "[tʰe˧˦ ˈnaːw˨˩]",
+      "context": "in the South: như thế nào, sao",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01da02fe-5bf4-4578-98e8-93b794ae39a3",
+      "part-of-speech": "adverb",
+      "english": "when",
+      "vietnamese": "khi nào",
+      "cefr": "A1",
+      "ipa": "[xi˧˧ ˈnaːw˨˩]",
+      "context": "at the start of a question it asks about the future, at the end about the past",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24d84ccb-1da5-4091-863e-82f9275bb51f",
+      "part-of-speech": "adverb",
+      "english": "ever",
+      "vietnamese": "bao giờ",
+      "cefr": "A2",
+      "ipa": "[ɓaːw˧˧ ˈzəː˨˩]",
+      "context": "chưa bao giờ: never yet; also asks \"when?\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb8d35c8-7939-4b52-9a24-f53c579df64d",
+      "part-of-speech": "pronoun",
+      "english": "this",
+      "vietnamese": "này",
+      "cefr": "A1",
+      "ipa": "[naj˨˩]",
+      "context": "follows the noun: cái này, this one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bb910e4-fda8-4481-a7c3-7bbae11b6625",
+      "part-of-speech": "pronoun",
+      "english": "that",
+      "vietnamese": "đó",
+      "cefr": "A1",
+      "ipa": "[ɗɔ˧˦]",
+      "context": "follows the noun: cái đó, that one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "559fc4f5-485e-4de4-8d25-6b18a1b2773b",
+      "part-of-speech": "pronoun",
+      "english": "that (over there)",
+      "vietnamese": "kia",
+      "cefr": "A1",
+      "ipa": "[kiə˧˧]",
+      "context": "farther away than đó: cái kia",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0c29397-7767-4045-a916-484f1020a2c5",
+      "part-of-speech": "adverb",
+      "english": "here",
+      "vietnamese": "đây",
+      "cefr": "A1",
+      "ipa": "[ɗəj˧˧]",
+      "context": "đây là…: this is…",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0999977d-f03d-48e4-8162-ae89ad9aa0ae",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "vietnamese": "đấy",
+      "cefr": "A2",
+      "ipa": "[ɗəj˧˦]",
+      "context": "in the South: đó",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e265ce4f-13bc-4fec-a078-7819df75d4d5",
+      "part-of-speech": "adverb",
+      "english": "over there",
+      "vietnamese": "ở đằng kia",
+      "cefr": "A2",
+      "ipa": "[ʔəː˧˩ ɗaŋ˨˩ ˈkiə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b121bed-3287-4897-b2ee-707ac17bdd88",
+      "part-of-speech": "adverb",
+      "english": "not, no",
+      "vietnamese": "không",
+      "cefr": "A1",
+      "ipa": "[xəwŋ͡m˧˧]",
+      "context": "không + verb or adjective negates; at the end of a sentence it makes a yes-no question",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7df33a7-daf8-41c4-be16-12cde39811d5",
+      "part-of-speech": "adverb",
+      "english": "not yet",
+      "vietnamese": "chưa",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɨə˧˧]",
+      "context": "at the end of a sentence it asks \"yet?\": anh ăn chưa?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "880b89b7-4019-4bca-b3c4-fa16d521b63e",
+      "part-of-speech": "adverb",
+      "english": "did (marks the past)",
+      "vietnamese": "đã",
+      "cefr": "A1",
+      "ipa": "[ɗaː˦ˀ˥]",
+      "context": "placed before the verb; often left out when the time is clear",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a780c58c-9636-484d-b1af-9f5885a3a1d1",
+      "part-of-speech": "adverb",
+      "english": "currently, in the middle of (marks an ongoing action)",
+      "vietnamese": "đang",
+      "cefr": "A1",
+      "ipa": "[ɗaːŋ˧˧]",
+      "context": "placed before the verb: tôi đang ăn",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bf9e0a13-9054-4f08-b493-90263140d3e1",
+      "part-of-speech": "adverb",
+      "english": "will (marks the future)",
+      "vietnamese": "sẽ",
+      "cefr": "A1",
+      "ipa": "[sɛ˦ˀ˥]",
+      "context": "placed before the verb",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05bbec0d-11aa-465c-a77d-1bbe7bcb7d43",
+      "part-of-speech": "adverb",
+      "english": "already",
+      "vietnamese": "rồi",
+      "cefr": "A1",
+      "ipa": "[zoj˨˩]",
+      "context": "at the end: tôi ăn rồi, I've already eaten",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfc554bb-b585-47b6-a8c7-a17116d96b50",
+      "part-of-speech": "adverb",
+      "english": "still",
+      "vietnamese": "vẫn",
+      "cefr": "A2",
+      "ipa": "[vən˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfe4754f-6434-48ec-98f2-d77e627823f4",
+      "part-of-speech": "adverb",
+      "english": "also, too",
+      "vietnamese": "cũng",
+      "cefr": "A1",
+      "ipa": "[kuwŋ͡m˦ˀ˥]",
+      "context": "before the verb: tôi cũng thích",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfb67834-1149-4ae9-b8fd-b7fa5f427268",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "vietnamese": "rất",
+      "cefr": "A1",
+      "ipa": "[zət̚˧˦]",
+      "context": "before the adjective: rất đẹp",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "160be65c-2d7d-45aa-a177-f19b4b70134a",
+      "part-of-speech": "adverb",
+      "english": "really, so (after an adjective)",
+      "vietnamese": "lắm",
+      "cefr": "A1",
+      "ipa": "[lam˧˦]",
+      "context": "after the adjective: đẹp lắm",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "866d4697-b0ce-427a-988a-ab50a120210f",
+      "part-of-speech": "adverb",
+      "english": "too much, excessively",
+      "vietnamese": "quá",
+      "cefr": "A1",
+      "ipa": "[kwaː˧˦]",
+      "context": "before the adjective: too; after it: so (exclaiming)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c9771bb-d11b-4dce-8651-afb456645f83",
+      "part-of-speech": "adverb",
+      "english": "a bit, slightly",
+      "vietnamese": "hơi",
+      "cefr": "A2",
+      "ipa": "[həːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fd5a6c8-209a-4b06-b2da-4a131936d1e7",
+      "part-of-speech": "adverb",
+      "english": "only, just",
+      "vietnamese": "chỉ",
+      "cefr": "A1",
+      "ipa": "[t͡ɕi˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f44246cf-2578-466e-8b9b-3474dd89b3a0",
+      "part-of-speech": "adverb",
+      "english": "that's all, no more than that",
+      "vietnamese": "thôi",
+      "cefr": "A2",
+      "ipa": "[tʰoj˧˧]",
+      "context": "at the end of a sentence: một cái thôi, just one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab2c3893-3033-4622-9499-001913ba591d",
+      "part-of-speech": "adverb",
+      "english": "any more, else, further",
+      "vietnamese": "nữa",
+      "cefr": "A1",
+      "ipa": "[nɨə˦ˀ˥]",
+      "context": "after the verb or noun: ăn nữa không? any more to eat?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f5041b3-2821-4b8f-8c90-3338e05ec103",
+      "part-of-speech": "adverb",
+      "english": "again",
+      "vietnamese": "lại",
+      "cefr": "A2",
+      "ipa": "[laːj˧˨ʔ]",
+      "context": "after the verb: nói lại, say it again",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55a4fb38-84db-463b-8345-0ae8dce1a63d",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "vietnamese": "luôn luôn",
+      "cefr": "A1",
+      "ipa": "[luən˧˧ ˈluən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ec163c4-22a5-4ae9-a3da-882e1db7ccd4",
+      "part-of-speech": "adverb",
+      "english": "usually, often",
+      "vietnamese": "thường",
+      "cefr": "A1",
+      "ipa": "[tʰɨəŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df71251b-37cf-4fc4-baae-d1b9d9f4741f",
+      "part-of-speech": "adverb",
+      "english": "sometimes",
+      "vietnamese": "đôi khi",
+      "cefr": "A2",
+      "ipa": "[ɗoj˧˧ ˈxi˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c93c0b12-0645-456a-a4c1-bcad6dcfef44",
+      "part-of-speech": "adverb",
+      "english": "never",
+      "vietnamese": "không bao giờ",
+      "cefr": "A1",
+      "ipa": "[xəwŋ͡m˧˧ ɓaːw˧˧ ˈzəː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15df6d5d-d306-4f9c-a343-7b423a305551",
+      "part-of-speech": "adverb",
+      "english": "right away",
+      "vietnamese": "ngay",
+      "cefr": "A2",
+      "ipa": "[ŋaj˧˧]",
+      "context": "ngay bây giờ: right now",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4607f45-3882-430c-89b0-30ff4da45dec",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "vietnamese": "cùng nhau",
+      "cefr": "A2",
+      "ipa": "[kuwŋ͡m˨˩ ˈɲaw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ed09bc3-5d08-4c44-baf4-e7d50855b3a1",
+      "part-of-speech": "adverb",
+      "english": "more, -er (than)",
+      "vietnamese": "hơn",
+      "cefr": "A1",
+      "ipa": "[həːn˧˧]",
+      "context": "after the adjective: đắt hơn, more expensive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4f981b5-bd57-4842-89b7-2f37d35bf640",
+      "part-of-speech": "adverb",
+      "english": "most, -est",
+      "vietnamese": "nhất",
+      "cefr": "A1",
+      "ipa": "[ɲət̚˧˦]",
+      "context": "after the adjective: đẹp nhất, the most beautiful",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bbab5b6c-2cfe-427c-9453-369b85e1de96",
+      "part-of-speech": "interjection",
+      "english": "either is fine, that works",
+      "vietnamese": "cũng được",
+      "cefr": "A2",
+      "ipa": "[kuwŋ͡m˦ˀ˥ ˈɗɨək̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0d66e81-992b-467c-a3b0-523ba9f0d964",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "vietnamese": "và",
+      "cefr": "A1",
+      "ipa": "[vaː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d84812f3-e8dd-42a1-9201-b8cda5a084c6",
+      "part-of-speech": "conjunction",
+      "english": "or (in statements)",
+      "vietnamese": "hoặc",
+      "cefr": "A1",
+      "ipa": "[hwak̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beaa3168-a155-4d19-bbcf-22979659f343",
+      "part-of-speech": "conjunction",
+      "english": "or (in questions)",
+      "vietnamese": "hay",
+      "cefr": "A1",
+      "ipa": "[haj˧˧]",
+      "context": "anh uống trà hay cà phê?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b5ca30d-55b0-467b-a6e2-c4e501fc82bb",
+      "part-of-speech": "conjunction",
+      "english": "but",
+      "vietnamese": "nhưng",
+      "cefr": "A1",
+      "ipa": "[ɲɨŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8d06894-9bd3-455a-9659-9f458eefb4f4",
+      "part-of-speech": "conjunction",
+      "english": "because",
+      "vietnamese": "vì",
+      "cefr": "A1",
+      "ipa": "[vi˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cc4c085-5a02-4219-8063-0d07f46a5656",
+      "part-of-speech": "conjunction",
+      "english": "so, therefore",
+      "vietnamese": "nên",
+      "cefr": "A2",
+      "ipa": "[nen˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56565fde-1e4f-41b0-b33e-c3874a910568",
+      "part-of-speech": "conjunction",
+      "english": "if",
+      "vietnamese": "nếu",
+      "cefr": "A2",
+      "ipa": "[new˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5a379e09-5bba-4d3e-838f-759362aacb46",
+      "part-of-speech": "conjunction",
+      "english": "then",
+      "vietnamese": "thì",
+      "cefr": "A2",
+      "ipa": "[tʰi˨˩]",
+      "context": "nếu… thì…: if… then…",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1e3a4fde-b77b-4597-b629-09c5190549ea",
+      "part-of-speech": "conjunction",
+      "english": "when, while",
+      "vietnamese": "khi",
+      "cefr": "A2",
+      "ipa": "[xi˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e47dda0-408b-4156-900e-a6c0d87f30da",
+      "part-of-speech": "conjunction",
+      "english": "in order to",
+      "vietnamese": "để",
+      "cefr": "A2",
+      "ipa": "[ɗe˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0df462eb-c083-4602-ab2f-7c01eb76821d",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "vietnamese": "với",
+      "cefr": "A1",
+      "ipa": "[vəːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d10625fe-3422-4535-8e72-160e4fbb5f1a",
+      "part-of-speech": "preposition",
+      "english": "at",
+      "vietnamese": "ở",
+      "cefr": "A1",
+      "ipa": "[ʔəː˧˩]",
+      "context": "ở nhà: at home",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a696092b-8a01-4d4c-9dca-0f25e35f5850",
+      "part-of-speech": "preposition",
+      "english": "in, inside",
+      "vietnamese": "trong",
+      "cefr": "A1",
+      "ipa": "[t͡ɕawŋ͡m˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f2e35a9-2403-4131-884d-5fa6d1369888",
+      "part-of-speech": "preposition",
+      "english": "outside",
+      "vietnamese": "ngoài",
+      "cefr": "A2",
+      "ipa": "[ŋwaːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "244f7fc8-98cb-4fb3-bc0c-2d0297923005",
+      "part-of-speech": "preposition",
+      "english": "on, above",
+      "vietnamese": "trên",
+      "cefr": "A1",
+      "ipa": "[t͡ɕen˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be75cb61-bcbb-4866-89e2-914321343b18",
+      "part-of-speech": "preposition",
+      "english": "under, below",
+      "vietnamese": "dưới",
+      "cefr": "A1",
+      "ipa": "[zɨəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "040d4d15-9f9a-4265-ab80-a97d8e0d1b93",
+      "part-of-speech": "preposition",
+      "english": "before, in front of",
+      "vietnamese": "trước",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɨək̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2f19a7d-9c09-4386-b4a3-2e2ed83f3448",
+      "part-of-speech": "preposition",
+      "english": "after, behind",
+      "vietnamese": "sau",
+      "cefr": "A1",
+      "ipa": "[saw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2209da3-87a7-429c-821f-2136d900b96f",
+      "part-of-speech": "preposition",
+      "english": "between",
+      "vietnamese": "giữa",
+      "cefr": "A2",
+      "ipa": "[zɨə˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "456989b4-382f-4081-a010-ff41d59f4580",
+      "part-of-speech": "preposition",
+      "english": "next to, beside",
+      "vietnamese": "bên cạnh",
+      "cefr": "A2",
+      "ipa": "[ɓen˧˧ ˈkajŋ̟˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a771c11-c527-453a-8e47-4bac496cb8a3",
+      "part-of-speech": "preposition",
+      "english": "for (someone)",
+      "vietnamese": "cho",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɔ˧˧]",
+      "context": "mua cho mẹ: buy for Mom",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1aed54fc-0e0d-4eee-8477-170f70f97fb9",
+      "part-of-speech": "preposition",
+      "english": "from",
+      "vietnamese": "từ",
+      "cefr": "A1",
+      "ipa": "[tɨ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "330867f4-f000-46c0-9bf1-1cdbc0e5abdb",
+      "part-of-speech": "preposition",
+      "english": "to, until",
+      "vietnamese": "đến",
+      "cefr": "A1",
+      "ipa": "[ɗen˧˦]",
+      "context": "từ thứ hai đến thứ sáu: from Monday to Friday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a313ddf4-475f-4dfc-a3ec-3eb687e5bc87",
+      "part-of-speech": "preposition",
+      "english": "about",
+      "vietnamese": "về",
+      "cefr": "A2",
+      "ipa": "[ve˨˩]",
+      "context": "nói về: talk about",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d216155-df09-4b9d-9dba-9b44721238db",
+      "part-of-speech": "preposition",
+      "english": "by (means of), made of",
+      "vietnamese": "bằng",
+      "cefr": "A2",
+      "ipa": "[ɓaŋ˨˩]",
+      "context": "đi bằng xe buýt: go by bus",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "219db63e-1c2b-4834-8fac-1897f97a8c7c",
+      "part-of-speech": "preposition",
+      "english": "of, belonging to",
+      "vietnamese": "của",
+      "cefr": "A1",
+      "ipa": "[kuə˧˩]",
+      "context": "sách của tôi: my book",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37c882c7-481b-4c1f-8822-3b32990cab78",
+      "part-of-speech": "noun",
+      "english": "zero",
+      "vietnamese": "không",
+      "cefr": "A1",
+      "ipa": "[xəwŋ͡m˧˧]",
+      "context": "the same word as \"not\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6c9c1a2-c97b-4757-ac90-e84ecd4e9cde",
+      "part-of-speech": "noun",
+      "english": "one",
+      "vietnamese": "một",
+      "cefr": "A1",
+      "ipa": "[mot̚˧˨ʔ]",
+      "context": "after twenty it becomes mốt: hai mươi mốt",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24426237-fa97-4d14-b4e5-2e48666b696b",
+      "part-of-speech": "noun",
+      "english": "two",
+      "vietnamese": "hai",
+      "cefr": "A1",
+      "ipa": "[haːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b920960b-5f5b-4e61-873b-8b81d9652526",
+      "part-of-speech": "noun",
+      "english": "three",
+      "vietnamese": "ba",
+      "cefr": "A1",
+      "ipa": "[ɓaː˧˧]",
+      "context": "in the South it also means \"dad\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7708e428-b12c-4b70-8ae7-371d02a719bc",
+      "part-of-speech": "noun",
+      "english": "four",
+      "vietnamese": "bốn",
+      "cefr": "A1",
+      "ipa": "[ɓon˧˦]",
+      "context": "after twenty it is often tư: hai mươi tư",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "436e82c1-7e22-48ef-ba4c-8c03f83a28d5",
+      "part-of-speech": "noun",
+      "english": "five",
+      "vietnamese": "năm",
+      "cefr": "A1",
+      "ipa": "[nam˧˧]",
+      "context": "after ten it becomes lăm: mười lăm; the same word as \"year\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81e6d88e-e5d6-461b-86e4-277ae6b06ef5",
+      "part-of-speech": "noun",
+      "english": "six",
+      "vietnamese": "sáu",
+      "cefr": "A1",
+      "ipa": "[saw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d07c88f-5899-4e6f-b6ea-d2d0f104e440",
+      "part-of-speech": "noun",
+      "english": "seven",
+      "vietnamese": "bảy",
+      "cefr": "A1",
+      "ipa": "[ɓaj˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "043766fe-cded-4588-9207-a472f125ac0a",
+      "part-of-speech": "noun",
+      "english": "eight",
+      "vietnamese": "tám",
+      "cefr": "A1",
+      "ipa": "[taːm˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "42339ae8-e8bb-45c2-a07e-703ebd5d7ee5",
+      "part-of-speech": "noun",
+      "english": "nine",
+      "vietnamese": "chín",
+      "cefr": "A1",
+      "ipa": "[t͡ɕin˧˦]",
+      "context": "also an adjective: ripe, cooked",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1d7e10d-4162-42b8-b310-5088c56fe2e4",
+      "part-of-speech": "noun",
+      "english": "ten",
+      "vietnamese": "mười",
+      "cefr": "A1",
+      "ipa": "[mɨəj˨˩]",
+      "context": "after another number it becomes mươi: hai mươi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58b77d50-ab13-4c22-906e-259c6851c35f",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "vietnamese": "hai mươi",
+      "cefr": "A1",
+      "ipa": "[haːj˧˧ ˈmɨəj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8526446c-6983-48e6-84c2-04ef7e1a8eb2",
+      "part-of-speech": "noun",
+      "english": "one hundred",
+      "vietnamese": "một trăm",
+      "cefr": "A1",
+      "ipa": "[mot̚˧˨ʔ ˈt͡ɕam˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eadc1364-1a40-489d-bae6-5339ac349410",
+      "part-of-speech": "noun",
+      "english": "one thousand",
+      "vietnamese": "một nghìn",
+      "cefr": "A1",
+      "ipa": "[mot̚˧˨ʔ ˈŋin˨˩]",
+      "context": "in the South: một ngàn",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da873c3d-6560-4786-802b-76fb43014c66",
+      "part-of-speech": "noun",
+      "english": "one million",
+      "vietnamese": "một triệu",
+      "cefr": "A2",
+      "ipa": "[mot̚˧˨ʔ ˈt͡ɕiəw˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fd9bd47-1be8-474b-ab07-78693bbbde0b",
+      "part-of-speech": "noun",
+      "english": "number",
+      "vietnamese": "số",
+      "cefr": "A1",
+      "ipa": "[so˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "455edb3c-1a0b-43fc-97d9-fb8917f8631d",
+      "part-of-speech": "adjective",
+      "english": "first (in order)",
+      "vietnamese": "thứ nhất",
+      "cefr": "A2",
+      "ipa": "[tʰɨ˧˦ ˈɲət̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c933108-7d80-4615-8d99-35d1a1e035d9",
+      "part-of-speech": "adjective",
+      "english": "first, earliest",
+      "vietnamese": "đầu tiên",
+      "cefr": "A2",
+      "ipa": "[ɗəw˨˩ ˈtiən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "10b6a569-4c5c-4aad-91de-39237d97518f",
+      "part-of-speech": "adjective",
+      "english": "last, final",
+      "vietnamese": "cuối cùng",
+      "cefr": "A2",
+      "ipa": "[kuəj˧˦ ˈkuwŋ͡m˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83af2885-6b42-42fa-8a7b-c4b6af79f93d",
+      "part-of-speech": "noun",
+      "english": "day",
+      "vietnamese": "ngày",
+      "cefr": "A1",
+      "ipa": "[ŋaj˨˩]",
+      "context": "also \"date\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4fc04a58-ddd6-4dec-af41-fde2f90ba8bd",
+      "part-of-speech": "noun",
+      "english": "week",
+      "vietnamese": "tuần",
+      "cefr": "A1",
+      "ipa": "[twən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6054f05f-6b97-400c-900e-734ff5718dff",
+      "part-of-speech": "noun",
+      "english": "month",
+      "vietnamese": "tháng",
+      "cefr": "A1",
+      "ipa": "[tʰaːŋ˧˦]",
+      "context": "tháng một: January",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d0aee4a0-27db-4e07-b731-885d7d48beb4",
+      "part-of-speech": "noun",
+      "english": "year",
+      "vietnamese": "năm",
+      "cefr": "A1",
+      "ipa": "[nam˧˧]",
+      "context": "the same word as \"five\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf8d10d5-d000-4540-a592-d5fb8a4c6c5c",
+      "part-of-speech": "noun",
+      "english": "hour, o'clock",
+      "vietnamese": "giờ",
+      "cefr": "A1",
+      "ipa": "[zəː˨˩]",
+      "context": "mấy giờ rồi? what time is it?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "446cac1d-6353-4340-b391-30bf5aaec9c0",
+      "part-of-speech": "noun",
+      "english": "minute",
+      "vietnamese": "phút",
+      "cefr": "A1",
+      "ipa": "[fut̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1045bf59-35ec-46b5-9f8d-7eb26b2460f1",
+      "part-of-speech": "noun",
+      "english": "second (of time)",
+      "vietnamese": "giây",
+      "cefr": "A2",
+      "ipa": "[zəj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7df69cde-fff6-40f3-8ab7-b469ae3cde5f",
+      "part-of-speech": "noun",
+      "english": "time",
+      "vietnamese": "thời gian",
+      "cefr": "A1",
+      "ipa": "[tʰəːj˨˩ ˈzaːn˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c3e9a8d-0fbc-4ced-b1d2-92bc1b46dff7",
+      "part-of-speech": "noun",
+      "english": "occasion, instance",
+      "vietnamese": "lần",
+      "cefr": "A2",
+      "ipa": "[lən˨˩]",
+      "context": "một lần: once; hai lần: twice",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2fe21b57-fbed-4f17-be67-a40f0456ec47",
+      "part-of-speech": "noun",
+      "english": "today",
+      "vietnamese": "hôm nay",
+      "cefr": "A1",
+      "ipa": "[hom˧˧ ˈnaj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "613a07ea-99c3-4370-a5ff-4f85014585a4",
+      "part-of-speech": "noun",
+      "english": "tomorrow",
+      "vietnamese": "ngày mai",
+      "cefr": "A1",
+      "ipa": "[ŋaj˨˩ ˈmaːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b11c9b2d-2dde-4190-9401-9fc23fd6de91",
+      "part-of-speech": "noun",
+      "english": "yesterday",
+      "vietnamese": "hôm qua",
+      "cefr": "A1",
+      "ipa": "[hom˧˧ ˈkwaː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f65fc92a-50ee-4789-9e64-5f5335b72be7",
+      "part-of-speech": "noun",
+      "english": "now",
+      "vietnamese": "bây giờ",
+      "cefr": "A1",
+      "ipa": "[ɓəj˧˧ ˈzəː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b68a3be-57c4-4fb5-9b41-21c9876f806c",
+      "part-of-speech": "noun",
+      "english": "morning",
+      "vietnamese": "buổi sáng",
+      "cefr": "A1",
+      "ipa": "[ɓuəj˧˩ ˈsaːŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ec640d1-66e0-4d40-9c07-b1c36227166c",
+      "part-of-speech": "noun",
+      "english": "noon, midday",
+      "vietnamese": "buổi trưa",
+      "cefr": "A1",
+      "ipa": "[ɓuəj˧˩ ˈt͡ɕɨə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35c738f7-7b3a-4cc4-8a7f-6ce40afd72a7",
+      "part-of-speech": "noun",
+      "english": "afternoon",
+      "vietnamese": "buổi chiều",
+      "cefr": "A1",
+      "ipa": "[ɓuəj˧˩ ˈt͡ɕiəw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "52db1f5e-8955-48e9-b316-07653d582805",
+      "part-of-speech": "noun",
+      "english": "evening",
+      "vietnamese": "buổi tối",
+      "cefr": "A1",
+      "ipa": "[ɓuəj˧˩ ˈtoj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21df10a5-1f47-4039-afff-f0d4f3388bd1",
+      "part-of-speech": "noun",
+      "english": "night, nighttime",
+      "vietnamese": "ban đêm",
+      "cefr": "A1",
+      "ipa": "[ɓaːn˧˧ ˈɗem˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d74a38f-883b-4ccc-920a-87e8fcdf223d",
+      "part-of-speech": "noun",
+      "english": "weekend",
+      "vietnamese": "cuối tuần",
+      "cefr": "A1",
+      "ipa": "[kuəj˧˦ ˈtwən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8ffc06f-36a7-4577-a23a-3240ec8b01f9",
+      "part-of-speech": "noun",
+      "english": "this year",
+      "vietnamese": "năm nay",
+      "cefr": "A2",
+      "ipa": "[nam˧˧ ˈnaj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0a68261c-acb1-458e-bd01-9107490c999d",
+      "part-of-speech": "noun",
+      "english": "last year",
+      "vietnamese": "năm ngoái",
+      "cefr": "A2",
+      "ipa": "[nam˧˧ ˈŋwaːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a407c217-8904-4852-baff-23fa1d209d12",
+      "part-of-speech": "noun",
+      "english": "Monday",
+      "vietnamese": "thứ hai",
+      "cefr": "A1",
+      "ipa": "[tʰɨ˧˦ ˈhaːj˧˧]",
+      "context": "literally \"second day\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8919a7f3-d975-421f-aaad-8ea9c5b2be12",
+      "part-of-speech": "noun",
+      "english": "Tuesday",
+      "vietnamese": "thứ ba",
+      "cefr": "A1",
+      "ipa": "[tʰɨ˧˦ ˈɓaː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9e6d481e-281d-43cc-99c3-257bc57b9809",
+      "part-of-speech": "noun",
+      "english": "Wednesday",
+      "vietnamese": "thứ tư",
+      "cefr": "A1",
+      "ipa": "[tʰɨ˧˦ ˈtɨ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70cd3919-e83e-4a09-b1a5-cb3d7a22790a",
+      "part-of-speech": "noun",
+      "english": "Thursday",
+      "vietnamese": "thứ năm",
+      "cefr": "A1",
+      "ipa": "[tʰɨ˧˦ ˈnam˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "304ba0b6-5ad7-4ebd-a12e-cae1dbf3fb3a",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "vietnamese": "thứ sáu",
+      "cefr": "A1",
+      "ipa": "[tʰɨ˧˦ ˈsaw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfdf2d60-aaee-459f-b466-f8c9c24ec694",
+      "part-of-speech": "noun",
+      "english": "Saturday",
+      "vietnamese": "thứ bảy",
+      "cefr": "A1",
+      "ipa": "[tʰɨ˧˦ ˈɓaj˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41ffccd3-a1fa-4610-9488-21dfc51915c2",
+      "part-of-speech": "noun",
+      "english": "Sunday",
+      "vietnamese": "chủ nhật",
+      "cefr": "A1",
+      "ipa": "[t͡ɕu˧˩ ˈɲət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b47b76d-434f-4699-a39a-a28cbd0d2eaf",
+      "part-of-speech": "noun",
+      "english": "season",
+      "vietnamese": "mùa",
+      "cefr": "A2",
+      "ipa": "[muə˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f95a5603-9569-4760-b3d6-94fd5842c88a",
+      "part-of-speech": "noun",
+      "english": "spring",
+      "vietnamese": "mùa xuân",
+      "cefr": "A2",
+      "ipa": "[muə˨˩ ˈswən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ac320f69-b6dc-4125-bd33-f0b9ffa3360c",
+      "part-of-speech": "noun",
+      "english": "summer",
+      "vietnamese": "mùa hè",
+      "cefr": "A2",
+      "ipa": "[muə˨˩ ˈhɛ˨˩]",
+      "context": "in the South: mùa hạ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61adc1bc-4685-4aaf-86a9-b88c1881906a",
+      "part-of-speech": "noun",
+      "english": "fall, autumn",
+      "vietnamese": "mùa thu",
+      "cefr": "A2",
+      "ipa": "[muə˨˩ ˈtʰu˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30f89fd8-cb75-427a-907b-203776e17de0",
+      "part-of-speech": "noun",
+      "english": "winter",
+      "vietnamese": "mùa đông",
+      "cefr": "A2",
+      "ipa": "[muə˨˩ ˈɗəwŋ͡m˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1a2dfb5f-d33f-45b1-b4ab-91802fee363d",
+      "part-of-speech": "noun",
+      "english": "birthday",
+      "vietnamese": "sinh nhật",
+      "cefr": "A1",
+      "ipa": "[siŋ̟˧˧ ˈɲət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3ac98ba-e388-4781-9c4d-d53263656d63",
+      "part-of-speech": "noun",
+      "english": "Lunar New Year",
+      "vietnamese": "Tết",
+      "cefr": "A1",
+      "ipa": "[tet̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfd5b9c8-ab86-43eb-9e4b-1c0469bbbbef",
+      "part-of-speech": "adjective",
+      "english": "early",
+      "vietnamese": "sớm",
+      "cefr": "A2",
+      "ipa": "[səːm˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "994aad25-751d-4b17-bb35-ca5b57242fd3",
+      "part-of-speech": "adjective",
+      "english": "late",
+      "vietnamese": "muộn",
+      "cefr": "A2",
+      "ipa": "[muən˧˨ʔ]",
+      "context": "in the South: trễ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "afc6563a-42fa-447f-9092-13c54cec7bff",
+      "part-of-speech": "noun",
+      "english": "family",
+      "vietnamese": "gia đình",
+      "cefr": "A1",
+      "ipa": "[zaː˧˧ ˈɗiŋ̟˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "573389c5-cee3-49ef-a308-ac58e20ad363",
+      "part-of-speech": "noun",
+      "english": "father, dad",
+      "vietnamese": "bố",
+      "cefr": "A1",
+      "ipa": "[ɓo˧˦]",
+      "context": "in the South: ba",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b0bece4-4cb2-4838-9f8f-7b6edf2cf1e6",
+      "part-of-speech": "noun",
+      "english": "mother, mom",
+      "vietnamese": "mẹ",
+      "cefr": "A1",
+      "ipa": "[mɛ˧˨ʔ]",
+      "context": "in the South: má",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5accbed-3039-4f8f-afe0-17d2f5b5b156",
+      "part-of-speech": "noun",
+      "english": "parents",
+      "vietnamese": "bố mẹ",
+      "cefr": "A1",
+      "ipa": "[ɓo˧˦ ˈmɛ˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da20ca41-aee1-4086-97e1-e5ab0174f43a",
+      "part-of-speech": "noun",
+      "english": "child (someone's own)",
+      "vietnamese": "con",
+      "cefr": "A1",
+      "ipa": "[kɔn˧˧]",
+      "context": "also what a parent calls a child, and the child's \"I\" to a parent",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f5280733-8840-46e2-98f0-fe34634ec629",
+      "part-of-speech": "noun",
+      "english": "son, boy",
+      "vietnamese": "con trai",
+      "cefr": "A1",
+      "ipa": "[kɔn˧˧ ˈt͡ɕaːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4384e254-f5a4-4ae2-a21b-849dd5286484",
+      "part-of-speech": "noun",
+      "english": "daughter, girl",
+      "vietnamese": "con gái",
+      "cefr": "A1",
+      "ipa": "[kɔn˧˧ ˈɣaːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3001c3c8-4b52-42fb-8fcf-78c70c83888b",
+      "part-of-speech": "noun",
+      "english": "older brother",
+      "vietnamese": "anh trai",
+      "cefr": "A1",
+      "ipa": "[ʔajŋ̟˧˧ ˈt͡ɕaːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9600fa2-26c5-4da5-9894-a9850eba3a7e",
+      "part-of-speech": "noun",
+      "english": "older sister",
+      "vietnamese": "chị gái",
+      "cefr": "A1",
+      "ipa": "[t͡ɕi˧˨ʔ ˈɣaːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ecf657f-3866-4e2a-845b-3ffd7ef7767b",
+      "part-of-speech": "noun",
+      "english": "younger brother",
+      "vietnamese": "em trai",
+      "cefr": "A1",
+      "ipa": "[ʔɛm˧˧ ˈt͡ɕaːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b462e54-45db-4d92-a3ca-c285e6be155a",
+      "part-of-speech": "noun",
+      "english": "younger sister",
+      "vietnamese": "em gái",
+      "cefr": "A1",
+      "ipa": "[ʔɛm˧˧ ˈɣaːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b06da3ad-94a8-4460-b89f-40eb748ff9aa",
+      "part-of-speech": "noun",
+      "english": "brothers and sisters, siblings",
+      "vietnamese": "anh chị em",
+      "cefr": "A2",
+      "ipa": "[ʔajŋ̟˧˧ t͡ɕi˧˨ʔ ˈʔɛm˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5345eef8-3b88-478c-88ff-705f298acb9e",
+      "part-of-speech": "noun",
+      "english": "wife",
+      "vietnamese": "vợ",
+      "cefr": "A1",
+      "ipa": "[vəː˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "37fcd3f9-f61c-4806-8b4d-8d712e2b4d5f",
+      "part-of-speech": "noun",
+      "english": "husband",
+      "vietnamese": "chồng",
+      "cefr": "A1",
+      "ipa": "[t͡ɕəwŋ͡m˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92e57cb4-24a4-4456-b2bf-bd9b3cc992a5",
+      "part-of-speech": "noun",
+      "english": "grandfather",
+      "vietnamese": "ông",
+      "cefr": "A1",
+      "ipa": "[ʔəwŋ͡m˧˧]",
+      "context": "also the pronoun for an elderly man",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b29786c9-3154-4d2d-89b1-cfe54114df58",
+      "part-of-speech": "noun",
+      "english": "grandmother",
+      "vietnamese": "bà",
+      "cefr": "A1",
+      "ipa": "[ɓaː˨˩]",
+      "context": "also the pronoun for an elderly woman",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60e2a227-2d8a-4d76-8579-49615fd2af30",
+      "part-of-speech": "noun",
+      "english": "person, people",
+      "vietnamese": "người",
+      "cefr": "A1",
+      "ipa": "[ŋɨəj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2004447f-cbcf-43e8-ad74-37ceccdfebe1",
+      "part-of-speech": "noun",
+      "english": "man",
+      "vietnamese": "đàn ông",
+      "cefr": "A1",
+      "ipa": "[ɗaːn˨˩ ˈʔəwŋ͡m˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c0145fb5-a5b1-4baf-8c56-cec8d3507f79",
+      "part-of-speech": "noun",
+      "english": "woman",
+      "vietnamese": "phụ nữ",
+      "cefr": "A1",
+      "ipa": "[fu˧˨ʔ ˈnɨ˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c7d13de-b980-4047-b472-b447f087c71f",
+      "part-of-speech": "noun",
+      "english": "children (in general)",
+      "vietnamese": "trẻ em",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɛ˧˩ ˈʔɛm˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d33928b7-b1eb-455d-a85c-10060e181d1b",
+      "part-of-speech": "noun",
+      "english": "baby",
+      "vietnamese": "em bé",
+      "cefr": "A1",
+      "ipa": "[ʔɛm˧˧ ˈɓɛ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3dcddd92-c6ea-407c-8bb7-7e531b66398e",
+      "part-of-speech": "noun",
+      "english": "friend",
+      "vietnamese": "bạn",
+      "cefr": "A1",
+      "ipa": "[ɓaːn˧˨ʔ]",
+      "context": "also \"you\" to a peer",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "159fc7d0-1f42-40b4-b7ca-d9aa7b3aabd9",
+      "part-of-speech": "noun",
+      "english": "boyfriend",
+      "vietnamese": "bạn trai",
+      "cefr": "A2",
+      "ipa": "[ɓaːn˧˨ʔ ˈt͡ɕaːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b64ec4a4-4118-4ab8-8a03-0477accb4d04",
+      "part-of-speech": "noun",
+      "english": "girlfriend",
+      "vietnamese": "bạn gái",
+      "cefr": "A2",
+      "ipa": "[ɓaːn˧˨ʔ ˈɣaːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90d31478-8012-4a36-8856-895205c484b6",
+      "part-of-speech": "noun",
+      "english": "sweetheart, partner",
+      "vietnamese": "người yêu",
+      "cefr": "A2",
+      "ipa": "[ŋɨəj˨˩ ˈʔiəw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "764e2446-07b0-4ed7-8d07-31ce8948b957",
+      "part-of-speech": "noun",
+      "english": "neighbor",
+      "vietnamese": "hàng xóm",
+      "cefr": "A2",
+      "ipa": "[haːŋ˨˩ ˈsɔm˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6730467-2fb9-4c88-93cf-f7423880003a",
+      "part-of-speech": "noun",
+      "english": "guest, customer",
+      "vietnamese": "khách",
+      "cefr": "A2",
+      "ipa": "[xajk̟̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "429fb343-eaab-4403-8bf8-03731a2edf98",
+      "part-of-speech": "noun",
+      "english": "foreigner",
+      "vietnamese": "người nước ngoài",
+      "cefr": "A2",
+      "ipa": "[ŋɨəj˨˩ nɨək̚˧˦ ˈŋwaːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f08f7fb8-db04-4a81-905d-c32351bd7c93",
+      "part-of-speech": "noun",
+      "english": "teacher",
+      "vietnamese": "giáo viên",
+      "cefr": "A1",
+      "ipa": "[zaːw˧˦ ˈviən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c047f88-7810-4621-91e9-3d512959777a",
+      "part-of-speech": "noun",
+      "english": "student (at school)",
+      "vietnamese": "học sinh",
+      "cefr": "A1",
+      "ipa": "[hawk͡p̚˧˨ʔ ˈsiŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1f0ed69-9088-4890-a01b-6cf5a1519d46",
+      "part-of-speech": "noun",
+      "english": "college student",
+      "vietnamese": "sinh viên",
+      "cefr": "A1",
+      "ipa": "[siŋ̟˧˧ ˈviən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fcb7a8d6-972e-42d0-b724-5e041682a236",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "vietnamese": "bác sĩ",
+      "cefr": "A1",
+      "ipa": "[ɓaːk̚˧˦ ˈsi˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e1b2b1d-8e22-4fd3-9ddd-4777451a74fa",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "vietnamese": "y tá",
+      "cefr": "A2",
+      "ipa": "[ʔi˧˧ ˈtaː˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11df0afd-a0d3-4797-ad64-0786ba1bba1e",
+      "part-of-speech": "noun",
+      "english": "engineer",
+      "vietnamese": "kỹ sư",
+      "cefr": "A2",
+      "ipa": "[ki˦ˀ˥ ˈsɨ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25107127-4d2c-46af-8f53-be9190277b53",
+      "part-of-speech": "noun",
+      "english": "factory worker",
+      "vietnamese": "công nhân",
+      "cefr": "A2",
+      "ipa": "[kəwŋ͡m˧˧ ˈɲən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfed2909-3307-42c3-8043-0512d2b5b6aa",
+      "part-of-speech": "noun",
+      "english": "farmer",
+      "vietnamese": "nông dân",
+      "cefr": "A2",
+      "ipa": "[nəwŋ͡m˧˧ ˈzən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24a13054-aff6-4c36-9391-df66bca0c450",
+      "part-of-speech": "noun",
+      "english": "police officer",
+      "vietnamese": "cảnh sát",
+      "cefr": "A2",
+      "ipa": "[kajŋ̟˧˩ ˈsaːt̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b6e91e9-10f5-47d6-8925-9ae9744ac526",
+      "part-of-speech": "noun",
+      "english": "driver",
+      "vietnamese": "tài xế",
+      "cefr": "A2",
+      "ipa": "[taːj˨˩ ˈse˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54b81c0d-ea0d-46f9-8bf4-41ecf78c3dad",
+      "part-of-speech": "noun",
+      "english": "employee, staff member",
+      "vietnamese": "nhân viên",
+      "cefr": "A2",
+      "ipa": "[ɲən˧˧ ˈviən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a6eae11-9bc5-4796-8d9f-b952a4f54a04",
+      "part-of-speech": "noun",
+      "english": "singer",
+      "vietnamese": "ca sĩ",
+      "cefr": "A2",
+      "ipa": "[kaː˧˧ ˈsi˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4312f595-9b44-4976-b111-edbfcdcb5b0b",
+      "part-of-speech": "noun",
+      "english": "cook, chef",
+      "vietnamese": "đầu bếp",
+      "cefr": "A2",
+      "ipa": "[ɗəw˨˩ ˈɓep̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30d6178a-7e30-40ee-953e-6b555c373177",
+      "part-of-speech": "noun",
+      "english": "director, manager",
+      "vietnamese": "giám đốc",
+      "cefr": "A2",
+      "ipa": "[zaːm˧˦ ˈɗəwk͡p̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa2fd173-559c-4ecd-bc02-adcb6840fef9",
+      "part-of-speech": "noun",
+      "english": "body",
+      "vietnamese": "cơ thể",
+      "cefr": "A2",
+      "ipa": "[kəː˧˧ ˈtʰe˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b28108d2-ee03-40fb-971f-c4625baa34a8",
+      "part-of-speech": "noun",
+      "english": "head",
+      "vietnamese": "đầu",
+      "cefr": "A1",
+      "ipa": "[ɗəw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a13721d-f2d2-4356-97c9-a77ed5c071c1",
+      "part-of-speech": "noun",
+      "english": "hair (on the head)",
+      "vietnamese": "tóc",
+      "cefr": "A1",
+      "ipa": "[tawk͡p̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "973cef44-0bf4-425c-a91a-a571a181a36a",
+      "part-of-speech": "noun",
+      "english": "face",
+      "vietnamese": "mặt",
+      "cefr": "A1",
+      "ipa": "[mat̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f6015c4-b482-44ae-81b9-f95a976a5a70",
+      "part-of-speech": "noun",
+      "english": "eye",
+      "vietnamese": "mắt",
+      "cefr": "A1",
+      "ipa": "[mat̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d765ea10-2db6-4756-8959-130c9a352d1b",
+      "part-of-speech": "noun",
+      "english": "nose",
+      "vietnamese": "mũi",
+      "cefr": "A1",
+      "ipa": "[muj˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "faf969ce-459e-474d-9967-438c53706b82",
+      "part-of-speech": "noun",
+      "english": "mouth",
+      "vietnamese": "miệng",
+      "cefr": "A1",
+      "ipa": "[miəŋ˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1086f470-ecc2-4199-be40-cb58c478c2c3",
+      "part-of-speech": "noun",
+      "english": "ear",
+      "vietnamese": "tai",
+      "cefr": "A1",
+      "ipa": "[taːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45466f4d-4bc3-48c5-aaa6-0cf9d5869950",
+      "part-of-speech": "noun",
+      "english": "tooth",
+      "vietnamese": "răng",
+      "cefr": "A1",
+      "ipa": "[zaŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2a1d1098-4e23-4461-a6a3-0e4281c965bc",
+      "part-of-speech": "noun",
+      "english": "hand, arm",
+      "vietnamese": "tay",
+      "cefr": "A1",
+      "ipa": "[taj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b592bf84-e07f-41a1-a210-79b9f2d5b24e",
+      "part-of-speech": "noun",
+      "english": "foot, leg",
+      "vietnamese": "chân",
+      "cefr": "A1",
+      "ipa": "[t͡ɕən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e5eb2b9-9742-4b38-9006-1c5bfc751bc5",
+      "part-of-speech": "noun",
+      "english": "stomach, belly",
+      "vietnamese": "bụng",
+      "cefr": "A2",
+      "ipa": "[ɓuwŋ͡m˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00e74276-0eaa-4679-aa01-901a59cfa693",
+      "part-of-speech": "noun",
+      "english": "back (of the body)",
+      "vietnamese": "lưng",
+      "cefr": "A2",
+      "ipa": "[lɨŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d9382928-2aee-4f84-8a61-2b886a55b6d9",
+      "part-of-speech": "noun",
+      "english": "neck",
+      "vietnamese": "cổ",
+      "cefr": "A2",
+      "ipa": "[ko˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83bf0c7c-fa6c-40df-a382-f84a78bfc24d",
+      "part-of-speech": "noun",
+      "english": "heart",
+      "vietnamese": "tim",
+      "cefr": "A2",
+      "ipa": "[tim˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c899e48d-9552-4a09-9cba-192d13d8584d",
+      "part-of-speech": "noun",
+      "english": "illness, disease",
+      "vietnamese": "bệnh",
+      "cefr": "A2",
+      "ipa": "[ɓəjŋ̟˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf3e9ff3-96b6-4db8-b464-2df9acc1c05c",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "vietnamese": "bệnh viện",
+      "cefr": "A1",
+      "ipa": "[ɓəjŋ̟˧˨ʔ ˈviən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3317481b-ff1d-41b9-aa75-dd0b7c263817",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "vietnamese": "thuốc",
+      "cefr": "A1",
+      "ipa": "[tʰuək̚˧˦]",
+      "context": "also \"cigarette\" (thuốc lá)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abf2f0ca-f4a5-4db9-8ad4-acec35c1fa39",
+      "part-of-speech": "noun",
+      "english": "fever",
+      "vietnamese": "sốt",
+      "cefr": "A2",
+      "ipa": "[sot̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a2fd3d0-5880-487f-bed1-35f623165256",
+      "part-of-speech": "noun",
+      "english": "cooked rice, meal",
+      "vietnamese": "cơm",
+      "cefr": "A1",
+      "ipa": "[kəːm˧˧]",
+      "context": "ăn cơm: to eat (a meal)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "399babf7-4073-4226-bf02-9bbe04f5b6b0",
+      "part-of-speech": "noun",
+      "english": "uncooked rice",
+      "vietnamese": "gạo",
+      "cefr": "A2",
+      "ipa": "[ɣaːw˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c989b8b-ef9e-4a3e-8307-f321c181486d",
+      "part-of-speech": "noun",
+      "english": "rice noodle soup",
+      "vietnamese": "phở",
+      "cefr": "A1",
+      "ipa": "[fəː˧˩]",
+      "context": "the famous beef or chicken soup",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f09d7e24-b2f2-466b-b407-bda3bc53edd2",
+      "part-of-speech": "noun",
+      "english": "rice vermicelli",
+      "vietnamese": "bún",
+      "cefr": "A2",
+      "ipa": "[ɓun˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba169e51-a7f7-4d45-bc3e-3ad09fac7b1f",
+      "part-of-speech": "noun",
+      "english": "bread, baguette sandwich",
+      "vietnamese": "bánh mì",
+      "cefr": "A1",
+      "ipa": "[ɓajŋ̟˧˦ ˈmi˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29755adc-1f04-4d3f-9cdc-c071b16f1f91",
+      "part-of-speech": "noun",
+      "english": "wheat noodles",
+      "vietnamese": "mì",
+      "cefr": "A2",
+      "ipa": "[mi˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "427a1e7e-6752-4512-b912-79c9a3eed553",
+      "part-of-speech": "noun",
+      "english": "meat",
+      "vietnamese": "thịt",
+      "cefr": "A1",
+      "ipa": "[tʰit̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21d1a4f1-302d-453e-99af-fa46d0ded113",
+      "part-of-speech": "noun",
+      "english": "beef",
+      "vietnamese": "thịt bò",
+      "cefr": "A1",
+      "ipa": "[tʰit̚˧˨ʔ ˈɓɔ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b58d9214-2d9c-4723-883e-a130f40eb6a4",
+      "part-of-speech": "noun",
+      "english": "pork",
+      "vietnamese": "thịt lợn",
+      "cefr": "A1",
+      "ipa": "[tʰit̚˧˨ʔ ˈləːn˧˨ʔ]",
+      "context": "in the South: thịt heo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c94eb0c4-8726-417c-81de-b1847f49b5aa",
+      "part-of-speech": "noun",
+      "english": "chicken (meat)",
+      "vietnamese": "thịt gà",
+      "cefr": "A1",
+      "ipa": "[tʰit̚˧˨ʔ ˈɣaː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f3ddef1-904a-4da0-9845-90f170a1c4d5",
+      "part-of-speech": "noun",
+      "english": "fish",
+      "vietnamese": "cá",
+      "cefr": "A1",
+      "ipa": "[kaː˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16ae9167-d77a-48b4-acc4-584d6b775f22",
+      "part-of-speech": "noun",
+      "english": "shrimp",
+      "vietnamese": "tôm",
+      "cefr": "A2",
+      "ipa": "[tom˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "724bb687-041b-48ed-a9ba-612304367a67",
+      "part-of-speech": "noun",
+      "english": "egg",
+      "vietnamese": "trứng",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɨŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b6807a7b-3654-4dfe-9496-580d1648d473",
+      "part-of-speech": "noun",
+      "english": "vegetables, greens",
+      "vietnamese": "rau",
+      "cefr": "A1",
+      "ipa": "[zaw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5abc6fd3-0098-48c9-8392-60d9369b2b23",
+      "part-of-speech": "noun",
+      "english": "fruit",
+      "vietnamese": "hoa quả",
+      "cefr": "A1",
+      "ipa": "[hwaː˧˧ ˈkwaː˧˩]",
+      "context": "in the South: trái cây",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53d2830d-0a5c-44f3-9a0e-8523a9069858",
+      "part-of-speech": "noun",
+      "english": "banana",
+      "vietnamese": "chuối",
+      "cefr": "A1",
+      "ipa": "[t͡ɕuəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19c335ea-02c1-4ca7-8938-4de52ada95d6",
+      "part-of-speech": "noun",
+      "english": "orange (fruit)",
+      "vietnamese": "cam",
+      "cefr": "A1",
+      "ipa": "[kaːm˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fba5b831-b731-4526-9e39-728e4367fca9",
+      "part-of-speech": "noun",
+      "english": "apple",
+      "vietnamese": "táo",
+      "cefr": "A1",
+      "ipa": "[taːw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3103690b-aac6-490c-823f-c7789ae56559",
+      "part-of-speech": "noun",
+      "english": "mango",
+      "vietnamese": "xoài",
+      "cefr": "A2",
+      "ipa": "[swaːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dfb870fe-72cf-4e1d-8367-b0ed1e3243e9",
+      "part-of-speech": "noun",
+      "english": "watermelon",
+      "vietnamese": "dưa hấu",
+      "cefr": "A2",
+      "ipa": "[zɨə˧˧ ˈhəw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "16dd2ee3-15b3-4d8c-a13f-8ee1f1da2153",
+      "part-of-speech": "noun",
+      "english": "water",
+      "vietnamese": "nước",
+      "cefr": "A1",
+      "ipa": "[nɨək̚˧˦]",
+      "context": "also \"country\" and \"juice\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9612c3f4-0a3d-4e82-bc5f-14d19b7e9cfd",
+      "part-of-speech": "noun",
+      "english": "fish sauce",
+      "vietnamese": "nước mắm",
+      "cefr": "A2",
+      "ipa": "[nɨək̚˧˦ ˈmam˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1c28346-0a09-4ce8-b51d-053fb0691076",
+      "part-of-speech": "noun",
+      "english": "salt",
+      "vietnamese": "muối",
+      "cefr": "A2",
+      "ipa": "[muəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "795ef1ea-ba28-4716-9d0e-81124eb73c98",
+      "part-of-speech": "noun",
+      "english": "sugar",
+      "vietnamese": "đường",
+      "cefr": "A2",
+      "ipa": "[ɗɨəŋ˨˩]",
+      "context": "the same word as \"road\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aedb5ccc-08ec-4ead-95e7-032c63b10388",
+      "part-of-speech": "noun",
+      "english": "milk",
+      "vietnamese": "sữa",
+      "cefr": "A1",
+      "ipa": "[sɨə˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c5425ba-28d9-40f7-9856-06393f555d21",
+      "part-of-speech": "noun",
+      "english": "tea",
+      "vietnamese": "trà",
+      "cefr": "A1",
+      "ipa": "[t͡ɕaː˨˩]",
+      "context": "in the North also chè",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38c6da70-baed-4890-b778-552d8f2e0054",
+      "part-of-speech": "noun",
+      "english": "coffee",
+      "vietnamese": "cà phê",
+      "cefr": "A1",
+      "ipa": "[kaː˨˩ ˈfe˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b780bb54-3993-4286-b6fb-66bd9dffe038",
+      "part-of-speech": "noun",
+      "english": "beer",
+      "vietnamese": "bia",
+      "cefr": "A1",
+      "ipa": "[ɓiə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ab017a9-fab7-4ee5-b675-839b22d11dc8",
+      "part-of-speech": "noun",
+      "english": "liquor, alcohol",
+      "vietnamese": "rượu",
+      "cefr": "A2",
+      "ipa": "[zɨəw˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fde26b8d-7e9c-43af-9c7a-d86cf750d5e0",
+      "part-of-speech": "noun",
+      "english": "orange juice",
+      "vietnamese": "nước cam",
+      "cefr": "A2",
+      "ipa": "[nɨək̚˧˦ ˈkaːm˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d67b96fa-226a-4d8e-9cbc-9844868e91af",
+      "part-of-speech": "noun",
+      "english": "ice",
+      "vietnamese": "đá",
+      "cefr": "A2",
+      "ipa": "[ɗaː˧˦]",
+      "context": "also \"stone\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3a1778a9-8c23-4062-aece-d4ac361a5da6",
+      "part-of-speech": "noun",
+      "english": "soup (served with rice)",
+      "vietnamese": "canh",
+      "cefr": "A2",
+      "ipa": "[kajŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f3199e5-b69c-4b4d-bb99-958f52d7e127",
+      "part-of-speech": "noun",
+      "english": "breakfast",
+      "vietnamese": "bữa sáng",
+      "cefr": "A1",
+      "ipa": "[ɓɨə˦ˀ˥ ˈsaːŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2d21ea4e-df7d-4210-8cc8-1ee3e37ac347",
+      "part-of-speech": "noun",
+      "english": "lunch",
+      "vietnamese": "bữa trưa",
+      "cefr": "A1",
+      "ipa": "[ɓɨə˦ˀ˥ ˈt͡ɕɨə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9c7cbee8-6c9b-42fc-9464-621496b5e26b",
+      "part-of-speech": "noun",
+      "english": "dinner",
+      "vietnamese": "bữa tối",
+      "cefr": "A1",
+      "ipa": "[ɓɨə˦ˀ˥ ˈtoj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb689a2c-1b78-4bfa-94df-96a9969c84cb",
+      "part-of-speech": "noun",
+      "english": "dish (of food)",
+      "vietnamese": "món ăn",
+      "cefr": "A2",
+      "ipa": "[mɔn˧˦ ˈʔan˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36e0148f-6195-4f88-b5d1-50347f03c355",
+      "part-of-speech": "noun",
+      "english": "food",
+      "vietnamese": "đồ ăn",
+      "cefr": "A1",
+      "ipa": "[ɗo˨˩ ˈʔan˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee6302bb-4753-4c54-a52a-051f01fbe8b8",
+      "part-of-speech": "noun",
+      "english": "drink, beverage",
+      "vietnamese": "đồ uống",
+      "cefr": "A1",
+      "ipa": "[ɗo˨˩ ˈʔuəŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "29567e70-38d8-4a45-bc67-ba74c408df05",
+      "part-of-speech": "noun",
+      "english": "chopsticks",
+      "vietnamese": "đũa",
+      "cefr": "A2",
+      "ipa": "[ɗuə˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6831f7ca-cb93-4b4e-af37-9d48c1814662",
+      "part-of-speech": "noun",
+      "english": "bowl",
+      "vietnamese": "bát",
+      "cefr": "A2",
+      "ipa": "[ɓaːt̚˧˦]",
+      "context": "in the South: chén",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c413b63-a2b9-45d7-9d5a-3cb489f10f2f",
+      "part-of-speech": "noun",
+      "english": "spoon",
+      "vietnamese": "thìa",
+      "cefr": "A2",
+      "ipa": "[tʰiə˨˩]",
+      "context": "in the South: muỗng",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e620a52-bc30-4839-826b-85551b278f53",
+      "part-of-speech": "noun",
+      "english": "fork",
+      "vietnamese": "dĩa",
+      "cefr": "A2",
+      "ipa": "[ziə˦ˀ˥]",
+      "context": "in the South: nĩa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8451a854-62fc-4b79-9159-7ee53855baea",
+      "part-of-speech": "noun",
+      "english": "glass, cup",
+      "vietnamese": "cốc",
+      "cefr": "A2",
+      "ipa": "[kəwk͡p̚˧˦]",
+      "context": "in the South: ly",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66311d3b-c89e-428a-929d-56bcf40ef91d",
+      "part-of-speech": "noun",
+      "english": "bottle",
+      "vietnamese": "chai",
+      "cefr": "A2",
+      "ipa": "[t͡ɕaːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74a9bc47-4f33-4442-8017-2d67c06bc22a",
+      "part-of-speech": "noun",
+      "english": "knife",
+      "vietnamese": "dao",
+      "cefr": "A2",
+      "ipa": "[zaːw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24dd5ff2-1c14-4acc-a8eb-41466bb14215",
+      "part-of-speech": "noun",
+      "english": "house, home",
+      "vietnamese": "nhà",
+      "cefr": "A1",
+      "ipa": "[ɲaː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f616071a-bdc5-49b0-86e4-12dc3e05fbca",
+      "part-of-speech": "noun",
+      "english": "room",
+      "vietnamese": "phòng",
+      "cefr": "A1",
+      "ipa": "[fawŋ͡m˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7ec265c-7319-4065-afc0-bc8db12707ef",
+      "part-of-speech": "noun",
+      "english": "bedroom",
+      "vietnamese": "phòng ngủ",
+      "cefr": "A1",
+      "ipa": "[fawŋ͡m˨˩ ˈŋu˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b34fb45f-901b-4b31-9982-d2431a8d38ca",
+      "part-of-speech": "noun",
+      "english": "bathroom",
+      "vietnamese": "phòng tắm",
+      "cefr": "A1",
+      "ipa": "[fawŋ͡m˨˩ ˈtam˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5c25cdb2-7dc7-4530-ac9e-e9195f9abb08",
+      "part-of-speech": "noun",
+      "english": "kitchen",
+      "vietnamese": "nhà bếp",
+      "cefr": "A1",
+      "ipa": "[ɲaː˨˩ ˈɓep̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24b59ea4-8311-4ac5-afe4-921c389a7ea5",
+      "part-of-speech": "noun",
+      "english": "toilet, restroom",
+      "vietnamese": "nhà vệ sinh",
+      "cefr": "A1",
+      "ipa": "[ɲaː˨˩ ve˧˨ʔ ˈsiŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4574caf-9c18-420d-b2a5-323565c9dccb",
+      "part-of-speech": "noun",
+      "english": "door",
+      "vietnamese": "cửa",
+      "cefr": "A1",
+      "ipa": "[kɨə˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9205864a-c41c-4f0e-859e-029d491e8599",
+      "part-of-speech": "noun",
+      "english": "window",
+      "vietnamese": "cửa sổ",
+      "cefr": "A1",
+      "ipa": "[kɨə˧˩ ˈso˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "624b81c1-261c-467e-a2cf-99363348e121",
+      "part-of-speech": "noun",
+      "english": "table, desk",
+      "vietnamese": "bàn",
+      "cefr": "A1",
+      "ipa": "[ɓaːn˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c1d255c-76a7-43cc-aad0-ada536ea726a",
+      "part-of-speech": "noun",
+      "english": "chair",
+      "vietnamese": "ghế",
+      "cefr": "A1",
+      "ipa": "[ɣe˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7beddc6-84d2-4eed-bd8c-4d2863759ff8",
+      "part-of-speech": "noun",
+      "english": "bed",
+      "vietnamese": "giường",
+      "cefr": "A1",
+      "ipa": "[zɨəŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b13a29e6-75d3-4c64-a1a7-1d5e14c0503f",
+      "part-of-speech": "noun",
+      "english": "refrigerator",
+      "vietnamese": "tủ lạnh",
+      "cefr": "A2",
+      "ipa": "[tu˧˩ ˈlajŋ̟˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb855299-1a8b-493c-9b2a-ab42e6094139",
+      "part-of-speech": "noun",
+      "english": "TV, television",
+      "vietnamese": "ti vi",
+      "cefr": "A1",
+      "ipa": "[ti˧˧ ˈvi˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e76322b-cbe4-476d-880a-8d38aba64018",
+      "part-of-speech": "noun",
+      "english": "telephone, phone",
+      "vietnamese": "điện thoại",
+      "cefr": "A1",
+      "ipa": "[ɗiən˧˨ʔ ˈtʰwaːj˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7cd02c64-9b58-47e7-9d0c-5c4dba12a6e8",
+      "part-of-speech": "noun",
+      "english": "computer",
+      "vietnamese": "máy tính",
+      "cefr": "A1",
+      "ipa": "[maj˧˦ ˈtiŋ̟˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e63a19c1-87a2-4744-9d57-4e5103fb773d",
+      "part-of-speech": "noun",
+      "english": "lamp, light",
+      "vietnamese": "đèn",
+      "cefr": "A2",
+      "ipa": "[ɗɛn˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e221b1ec-ec03-466c-8f20-c0a50c93d5e9",
+      "part-of-speech": "noun",
+      "english": "key",
+      "vietnamese": "chìa khóa",
+      "cefr": "A2",
+      "ipa": "[t͡ɕiə˨˩ ˈxwaː˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a63c89e4-1f58-4b66-b0cc-6b78d1803a44",
+      "part-of-speech": "noun",
+      "english": "fan",
+      "vietnamese": "quạt",
+      "cefr": "A2",
+      "ipa": "[kwaːt̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7006a589-3569-4f70-9a2f-f9ee5e797ad9",
+      "part-of-speech": "noun",
+      "english": "air conditioner",
+      "vietnamese": "điều hòa",
+      "cefr": "A2",
+      "ipa": "[ɗiəw˨˩ ˈhwaː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71060a6b-521c-47e4-8eb0-03e3da8c0271",
+      "part-of-speech": "noun",
+      "english": "floor, story (of a building)",
+      "vietnamese": "tầng",
+      "cefr": "A2",
+      "ipa": "[təŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d6f80c1b-3ecf-487e-a202-ba219c2e673b",
+      "part-of-speech": "noun",
+      "english": "stairs",
+      "vietnamese": "cầu thang",
+      "cefr": "A2",
+      "ipa": "[kəw˨˩ ˈtʰaːŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6cbc0c6-8b8d-48ca-98be-44df6a5e590e",
+      "part-of-speech": "noun",
+      "english": "elevator",
+      "vietnamese": "thang máy",
+      "cefr": "A2",
+      "ipa": "[tʰaːŋ˧˧ ˈmaj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "761184bc-581b-4a20-9a8d-bff36cba70ec",
+      "part-of-speech": "noun",
+      "english": "clock, watch",
+      "vietnamese": "đồng hồ",
+      "cefr": "A2",
+      "ipa": "[ɗəwŋ͡m˨˩ ˈho˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3221ccf9-e4dd-47b2-b572-72bad61944e2",
+      "part-of-speech": "noun",
+      "english": "city",
+      "vietnamese": "thành phố",
+      "cefr": "A1",
+      "ipa": "[tʰajŋ̟˨˩ ˈfo˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a8e3655e-3baf-41ff-b1ab-705bb7866d02",
+      "part-of-speech": "noun",
+      "english": "countryside",
+      "vietnamese": "nông thôn",
+      "cefr": "A2",
+      "ipa": "[nəwŋ͡m˧˧ ˈtʰon˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eae78f8a-1902-48f5-b0b1-3068618b8807",
+      "part-of-speech": "noun",
+      "english": "village",
+      "vietnamese": "làng",
+      "cefr": "A2",
+      "ipa": "[laːŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b198637-585b-4a1b-8613-7887a7697f5a",
+      "part-of-speech": "noun",
+      "english": "road",
+      "vietnamese": "đường",
+      "cefr": "A1",
+      "ipa": "[ɗɨəŋ˨˩]",
+      "context": "the same word as \"sugar\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba46b4fe-4c8f-4d19-ba35-f1904f431cd7",
+      "part-of-speech": "noun",
+      "english": "street",
+      "vietnamese": "phố",
+      "cefr": "A1",
+      "ipa": "[fo˧˦]",
+      "context": "in names: phố Huế",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4c5d6894-294c-4b98-8d83-ae0940804301",
+      "part-of-speech": "noun",
+      "english": "school",
+      "vietnamese": "trường",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɨəŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04ebb2e5-46c5-4609-8793-082fa9efa5be",
+      "part-of-speech": "noun",
+      "english": "university",
+      "vietnamese": "trường đại học",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɨəŋ˨˩ ɗaːj˧˨ʔ ˈhawk͡p̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da246fab-e6f2-4341-9d9d-0bf278b34afe",
+      "part-of-speech": "noun",
+      "english": "market",
+      "vietnamese": "chợ",
+      "cefr": "A1",
+      "ipa": "[t͡ɕəː˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6e316a5-e19c-46ec-b0e7-19687bc6cf99",
+      "part-of-speech": "noun",
+      "english": "supermarket",
+      "vietnamese": "siêu thị",
+      "cefr": "A1",
+      "ipa": "[siəw˧˧ ˈtʰi˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a998c3f-bdbe-47ff-ab67-9c3f3508bbbc",
+      "part-of-speech": "noun",
+      "english": "store, shop",
+      "vietnamese": "cửa hàng",
+      "cefr": "A1",
+      "ipa": "[kɨə˧˩ ˈhaːŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98b30ee1-b683-459c-83a2-7e42c41509dc",
+      "part-of-speech": "noun",
+      "english": "restaurant",
+      "vietnamese": "nhà hàng",
+      "cefr": "A1",
+      "ipa": "[ɲaː˨˩ ˈhaːŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70d6b376-75c5-40d4-9dd2-b84e4e784905",
+      "part-of-speech": "noun",
+      "english": "café, coffee shop",
+      "vietnamese": "quán cà phê",
+      "cefr": "A1",
+      "ipa": "[kwaːn˧˦ kaː˨˩ ˈfe˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36027dfa-2ee4-4d27-8870-9b2c397c4c51",
+      "part-of-speech": "noun",
+      "english": "hotel",
+      "vietnamese": "khách sạn",
+      "cefr": "A1",
+      "ipa": "[xajk̟̚˧˦ ˈsaːn˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f81eaf4a-7714-42cf-a0c5-080ac6ead4d3",
+      "part-of-speech": "noun",
+      "english": "bank",
+      "vietnamese": "ngân hàng",
+      "cefr": "A1",
+      "ipa": "[ŋən˧˧ ˈhaːŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "70521a88-f60c-4bf8-91a8-974855eb2757",
+      "part-of-speech": "noun",
+      "english": "post office",
+      "vietnamese": "bưu điện",
+      "cefr": "A2",
+      "ipa": "[ɓɨw˧˧ ˈɗiən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cd5571c-807b-4605-bd50-a2521e7d843f",
+      "part-of-speech": "noun",
+      "english": "airport",
+      "vietnamese": "sân bay",
+      "cefr": "A1",
+      "ipa": "[sən˧˧ ˈɓaj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e67a41d-8d6f-41cb-9ab5-2fa8a158ef89",
+      "part-of-speech": "noun",
+      "english": "train station",
+      "vietnamese": "ga",
+      "cefr": "A2",
+      "ipa": "[ɣaː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e47f8a3-b3c4-4624-9799-b2f90e9c45c3",
+      "part-of-speech": "noun",
+      "english": "bus station",
+      "vietnamese": "bến xe",
+      "cefr": "A2",
+      "ipa": "[ɓen˧˦ ˈsɛ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c806f7d4-c110-4dcc-a4ed-5ceaba101b56",
+      "part-of-speech": "noun",
+      "english": "park",
+      "vietnamese": "công viên",
+      "cefr": "A1",
+      "ipa": "[kəwŋ͡m˧˧ ˈviən˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "860d22ba-dea0-49b0-931f-a5cd85082768",
+      "part-of-speech": "noun",
+      "english": "sea, beach",
+      "vietnamese": "biển",
+      "cefr": "A1",
+      "ipa": "[ɓiən˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cbe7cdbc-ceef-4d99-8604-c04cb856ceb4",
+      "part-of-speech": "noun",
+      "english": "mountain",
+      "vietnamese": "núi",
+      "cefr": "A1",
+      "ipa": "[nuj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a68a60c6-b04d-42f2-b751-8642c7c12243",
+      "part-of-speech": "noun",
+      "english": "river",
+      "vietnamese": "sông",
+      "cefr": "A1",
+      "ipa": "[səwŋ͡m˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6bebb85-266d-4964-ac63-4478d28170c4",
+      "part-of-speech": "noun",
+      "english": "lake",
+      "vietnamese": "hồ",
+      "cefr": "A2",
+      "ipa": "[ho˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7db2c5d-7bc7-4cf4-bd68-5665db26eacb",
+      "part-of-speech": "noun",
+      "english": "company",
+      "vietnamese": "công ty",
+      "cefr": "A1",
+      "ipa": "[kəwŋ͡m˧˧ ˈti˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bddabe96-c056-4592-93ec-c10a814e8544",
+      "part-of-speech": "noun",
+      "english": "office",
+      "vietnamese": "văn phòng",
+      "cefr": "A1",
+      "ipa": "[van˧˧ ˈfawŋ͡m˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aeed4489-5491-4e85-9484-1aa220807679",
+      "part-of-speech": "noun",
+      "english": "church",
+      "vietnamese": "nhà thờ",
+      "cefr": "A2",
+      "ipa": "[ɲaː˨˩ ˈtʰəː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b2cabcb-efbd-473f-838f-2436f04a5b55",
+      "part-of-speech": "noun",
+      "english": "Buddhist temple, pagoda",
+      "vietnamese": "chùa",
+      "cefr": "A2",
+      "ipa": "[t͡ɕuə˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe8e663c-e8a8-431b-b384-3aecde0654a4",
+      "part-of-speech": "noun",
+      "english": "country, nation",
+      "vietnamese": "đất nước",
+      "cefr": "A2",
+      "ipa": "[ɗət̚˧˦ ˈnɨək̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30807705-374d-4dcd-b82e-7b4dde067c98",
+      "part-of-speech": "noun",
+      "english": "world",
+      "vietnamese": "thế giới",
+      "cefr": "A2",
+      "ipa": "[tʰe˧˦ ˈzəːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8910805a-8200-44f8-bff0-1e872acf313f",
+      "part-of-speech": "noun",
+      "english": "language, voice",
+      "vietnamese": "tiếng",
+      "cefr": "A1",
+      "ipa": "[tiəŋ˧˦]",
+      "context": "tiếng Việt: Vietnamese",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6d712bf2-4003-4327-b1f9-7f40f302de7e",
+      "part-of-speech": "noun",
+      "english": "the Vietnamese language",
+      "vietnamese": "tiếng Việt",
+      "cefr": "A1",
+      "ipa": "[tiəŋ˧˦ ˈviət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b473e04-df08-4ba7-a935-0086c213c83c",
+      "part-of-speech": "noun",
+      "english": "the English language",
+      "vietnamese": "tiếng Anh",
+      "cefr": "A1",
+      "ipa": "[tiəŋ˧˦ ˈʔajŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "011f5a72-ada3-409e-886e-81e7eeec2100",
+      "part-of-speech": "noun",
+      "english": "vehicle",
+      "vietnamese": "xe",
+      "cefr": "A1",
+      "ipa": "[sɛ˧˧]",
+      "context": "also short for a car or motorbike",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "61078a4e-0fce-406a-bd3b-4636d5598498",
+      "part-of-speech": "noun",
+      "english": "car",
+      "vietnamese": "ô tô",
+      "cefr": "A1",
+      "ipa": "[ʔo˧˧ ˈto˧˧]",
+      "context": "in the South: xe hơi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f480ad2b-59bf-4c32-ac04-1f2c042e0975",
+      "part-of-speech": "noun",
+      "english": "motorbike, scooter",
+      "vietnamese": "xe máy",
+      "cefr": "A1",
+      "ipa": "[sɛ˧˧ ˈmaj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cf022dd9-3f3e-46ce-93fc-3d9d2cfc805e",
+      "part-of-speech": "noun",
+      "english": "bicycle",
+      "vietnamese": "xe đạp",
+      "cefr": "A1",
+      "ipa": "[sɛ˧˧ ˈɗaːp̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d51f746b-f3a2-49de-a349-8065b21f9013",
+      "part-of-speech": "noun",
+      "english": "bus",
+      "vietnamese": "xe buýt",
+      "cefr": "A1",
+      "ipa": "[sɛ˧˧ ˈɓwit̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ecc8c55-deb5-4757-8a2d-d969a999fc32",
+      "part-of-speech": "noun",
+      "english": "train",
+      "vietnamese": "tàu hỏa",
+      "cefr": "A2",
+      "ipa": "[taw˨˩ ˈhwaː˧˩]",
+      "context": "in the South: xe lửa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de7004fb-08e9-4d9b-90d0-39907222f62f",
+      "part-of-speech": "noun",
+      "english": "airplane",
+      "vietnamese": "máy bay",
+      "cefr": "A1",
+      "ipa": "[maj˧˦ ˈɓaj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ae633216-edb4-4142-bec3-6d036ccb17a5",
+      "part-of-speech": "noun",
+      "english": "boat",
+      "vietnamese": "thuyền",
+      "cefr": "A2",
+      "ipa": "[tʰwiən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71044173-9eca-42ae-a312-6d8183de5558",
+      "part-of-speech": "noun",
+      "english": "ticket",
+      "vietnamese": "vé",
+      "cefr": "A1",
+      "ipa": "[vɛ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4d94d919-4198-40b4-a232-ddb448daaf9b",
+      "part-of-speech": "noun",
+      "english": "map",
+      "vietnamese": "bản đồ",
+      "cefr": "A2",
+      "ipa": "[ɓaːn˧˩ ˈɗo˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ce7894c-902e-450e-99c1-4d61beb04a8f",
+      "part-of-speech": "noun",
+      "english": "passport",
+      "vietnamese": "hộ chiếu",
+      "cefr": "A2",
+      "ipa": "[ho˧˨ʔ ˈt͡ɕiəw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68211346-64c3-4318-84e1-29c8bdf8934c",
+      "part-of-speech": "noun",
+      "english": "luggage",
+      "vietnamese": "hành lý",
+      "cefr": "A2",
+      "ipa": "[hajŋ̟˨˩ ˈli˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "534cc9f2-f68e-4e3e-a84d-c60eca1d4b0c",
+      "part-of-speech": "noun",
+      "english": "intersection",
+      "vietnamese": "ngã tư",
+      "cefr": "A2",
+      "ipa": "[ŋaː˦ˀ˥ ˈtɨ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a98fb079-a4e3-4a6d-92ea-2e82c2ff2152",
+      "part-of-speech": "noun",
+      "english": "the left side",
+      "vietnamese": "bên trái",
+      "cefr": "A1",
+      "ipa": "[ɓen˧˧ ˈt͡ɕaːj˧˦]",
+      "context": "rẽ trái: turn left",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "613ce842-2022-4bc3-a1c7-70684a057e7c",
+      "part-of-speech": "noun",
+      "english": "the right side",
+      "vietnamese": "bên phải",
+      "cefr": "A1",
+      "ipa": "[ɓen˧˧ ˈfaːj˧˩]",
+      "context": "rẽ phải: turn right",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3f57ec3f-c033-45da-b087-91f0ba6aa827",
+      "part-of-speech": "noun",
+      "english": "sky, heaven",
+      "vietnamese": "trời",
+      "cefr": "A1",
+      "ipa": "[t͡ɕəːj˨˩]",
+      "context": "trời mưa: it's raining",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "224c5876-c779-4fee-800d-1db807317edc",
+      "part-of-speech": "noun",
+      "english": "weather",
+      "vietnamese": "thời tiết",
+      "cefr": "A1",
+      "ipa": "[tʰəːj˨˩ ˈtiət̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12411f28-69d3-4d55-9b2a-ceb5a2a479c1",
+      "part-of-speech": "noun",
+      "english": "rain",
+      "vietnamese": "mưa",
+      "cefr": "A1",
+      "ipa": "[mɨə˧˧]",
+      "context": "also a verb: to rain",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8ce47daa-ecff-4a78-a226-6fd478ce7ec0",
+      "part-of-speech": "noun",
+      "english": "sunshine",
+      "vietnamese": "nắng",
+      "cefr": "A2",
+      "ipa": "[naŋ˧˦]",
+      "context": "also an adjective: sunny",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaf6abc0-99c3-4c0a-b28f-1b19be92aa67",
+      "part-of-speech": "noun",
+      "english": "wind",
+      "vietnamese": "gió",
+      "cefr": "A2",
+      "ipa": "[zɔ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01ce76d5-f759-4a2a-adee-b6e891baec93",
+      "part-of-speech": "noun",
+      "english": "sun",
+      "vietnamese": "mặt trời",
+      "cefr": "A2",
+      "ipa": "[mat̚˧˨ʔ ˈt͡ɕəːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1c8d7be1-c621-430f-99b3-f5cab721447b",
+      "part-of-speech": "noun",
+      "english": "moon",
+      "vietnamese": "mặt trăng",
+      "cefr": "A2",
+      "ipa": "[mat̚˧˨ʔ ˈt͡ɕaŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6b37fe90-2314-4e4c-b05e-aae249ca060f",
+      "part-of-speech": "noun",
+      "english": "star",
+      "vietnamese": "sao",
+      "cefr": "A2",
+      "ipa": "[saːw˧˧]",
+      "context": "also means \"why\" in speech",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de50a007-006b-4ad8-ab35-ad9c6bce4741",
+      "part-of-speech": "noun",
+      "english": "tree, plant",
+      "vietnamese": "cây",
+      "cefr": "A1",
+      "ipa": "[kəj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4bdbc9ee-363c-4f35-ad7f-107fae5f9a36",
+      "part-of-speech": "noun",
+      "english": "flower",
+      "vietnamese": "hoa",
+      "cefr": "A1",
+      "ipa": "[hwaː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ce8b9d62-fa90-431d-b4eb-eee6c024d670",
+      "part-of-speech": "noun",
+      "english": "earth, soil, land",
+      "vietnamese": "đất",
+      "cefr": "A2",
+      "ipa": "[ɗət̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "268de861-912e-4bb0-bd4e-aa766df25914",
+      "part-of-speech": "noun",
+      "english": "fire",
+      "vietnamese": "lửa",
+      "cefr": "A2",
+      "ipa": "[lɨə˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f8cc4b03-2be9-438a-b112-582dee3bc05c",
+      "part-of-speech": "noun",
+      "english": "animal",
+      "vietnamese": "con vật",
+      "cefr": "A2",
+      "ipa": "[kɔn˧˧ ˈvət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "453b9e7f-20a4-4587-9dc6-233f3ebfb058",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "vietnamese": "chó",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɔ˧˦]",
+      "context": "classifier: con",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f41d4dd1-5c71-4218-b568-af0267550f3e",
+      "part-of-speech": "noun",
+      "english": "cat",
+      "vietnamese": "mèo",
+      "cefr": "A1",
+      "ipa": "[mɛw˨˩]",
+      "context": "classifier: con",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41c658df-7b7d-4c25-90e4-f7be78a13aa0",
+      "part-of-speech": "noun",
+      "english": "bird",
+      "vietnamese": "chim",
+      "cefr": "A1",
+      "ipa": "[t͡ɕim˧˧]",
+      "context": "classifier: con",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd276cac-b527-4668-8f93-179678866ecc",
+      "part-of-speech": "noun",
+      "english": "chicken (the bird)",
+      "vietnamese": "gà",
+      "cefr": "A1",
+      "ipa": "[ɣaː˨˩]",
+      "context": "classifier: con",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79ab5f12-46b0-442c-b881-2bd4534a2311",
+      "part-of-speech": "noun",
+      "english": "pig",
+      "vietnamese": "lợn",
+      "cefr": "A2",
+      "ipa": "[ləːn˧˨ʔ]",
+      "context": "in the South: heo",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26336f20-02b6-499d-b6e4-cad01f800988",
+      "part-of-speech": "noun",
+      "english": "cow",
+      "vietnamese": "bò",
+      "cefr": "A2",
+      "ipa": "[ɓɔ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad60fca0-7625-4984-a794-29b865d1d161",
+      "part-of-speech": "noun",
+      "english": "water buffalo",
+      "vietnamese": "trâu",
+      "cefr": "A2",
+      "ipa": "[t͡ɕəw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "57698893-ce01-47b8-94dd-1ff0f444fa27",
+      "part-of-speech": "noun",
+      "english": "horse",
+      "vietnamese": "ngựa",
+      "cefr": "A2",
+      "ipa": "[ŋɨə˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bbf4c0a-c97b-47d4-8e5b-369081a67dea",
+      "part-of-speech": "noun",
+      "english": "duck",
+      "vietnamese": "vịt",
+      "cefr": "A2",
+      "ipa": "[vit̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "863f62f6-fa08-4d62-bb63-f1b402b3dd43",
+      "part-of-speech": "noun",
+      "english": "mouse, rat",
+      "vietnamese": "chuột",
+      "cefr": "A2",
+      "ipa": "[t͡ɕuət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beb7ac34-f954-4fb2-83f9-3f89eb0b95d9",
+      "part-of-speech": "noun",
+      "english": "monkey",
+      "vietnamese": "khỉ",
+      "cefr": "A2",
+      "ipa": "[xi˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "65d9e5b0-48ae-48d8-b7e5-178ddcac3501",
+      "part-of-speech": "noun",
+      "english": "elephant",
+      "vietnamese": "voi",
+      "cefr": "A2",
+      "ipa": "[vɔj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6aa3135-70a1-445f-abc9-8f732a2a2c15",
+      "part-of-speech": "noun",
+      "english": "mosquito",
+      "vietnamese": "muỗi",
+      "cefr": "A2",
+      "ipa": "[muəj˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "beaafe9f-4b65-4b8d-8722-772d6c08ff4a",
+      "part-of-speech": "noun",
+      "english": "color",
+      "vietnamese": "màu",
+      "cefr": "A1",
+      "ipa": "[maw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "065b5aa8-4cdb-402c-aa32-be0115349618",
+      "part-of-speech": "adjective",
+      "english": "red",
+      "vietnamese": "đỏ",
+      "cefr": "A1",
+      "ipa": "[ɗɔ˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63892069-e710-4c2b-85a9-61f8aac1db30",
+      "part-of-speech": "adjective",
+      "english": "blue, green",
+      "vietnamese": "xanh",
+      "cefr": "A1",
+      "ipa": "[sajŋ̟˧˧]",
+      "context": "xanh dương: blue; xanh lá cây: green",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e6c997c-d0f3-4c3c-aab0-4cd1d272e242",
+      "part-of-speech": "adjective",
+      "english": "yellow",
+      "vietnamese": "vàng",
+      "cefr": "A1",
+      "ipa": "[vaːŋ˨˩]",
+      "context": "as a noun: gold",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ea550cc-78dd-4455-ae34-92858474e9e8",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "vietnamese": "trắng",
+      "cefr": "A1",
+      "ipa": "[t͡ɕaŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3813f3b5-dc92-47d0-b402-1be2fcd40ffa",
+      "part-of-speech": "adjective",
+      "english": "black",
+      "vietnamese": "đen",
+      "cefr": "A1",
+      "ipa": "[ɗɛn˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ba7d13a-d7bd-41b2-95cf-c6c6921c45a5",
+      "part-of-speech": "adjective",
+      "english": "brown",
+      "vietnamese": "nâu",
+      "cefr": "A2",
+      "ipa": "[nəw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28fa8cfb-ba69-4235-a288-4f4caa8a14a1",
+      "part-of-speech": "adjective",
+      "english": "pink",
+      "vietnamese": "hồng",
+      "cefr": "A2",
+      "ipa": "[həwŋ͡m˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fb655310-3f7b-4419-8560-53e183a22f4b",
+      "part-of-speech": "adjective",
+      "english": "purple",
+      "vietnamese": "tím",
+      "cefr": "A2",
+      "ipa": "[tim˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08ab967f-435a-41e3-b16d-f44f3d7853cb",
+      "part-of-speech": "adjective",
+      "english": "gray",
+      "vietnamese": "xám",
+      "cefr": "A2",
+      "ipa": "[saːm˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b540073-51d9-47b3-a6b7-84d47b9f50d9",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "vietnamese": "quần áo",
+      "cefr": "A1",
+      "ipa": "[kwən˨˩ ˈʔaːw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56c80e1d-3e0d-4a79-ac40-89272f39e630",
+      "part-of-speech": "noun",
+      "english": "shirt, top",
+      "vietnamese": "áo",
+      "cefr": "A1",
+      "ipa": "[ʔaːw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdf85fec-cf75-4edc-8ca2-5bccf5a30b14",
+      "part-of-speech": "noun",
+      "english": "pants",
+      "vietnamese": "quần",
+      "cefr": "A1",
+      "ipa": "[kwən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d45fa244-a1ce-47bb-9d3c-ee0bcb594b9b",
+      "part-of-speech": "noun",
+      "english": "skirt, dress",
+      "vietnamese": "váy",
+      "cefr": "A2",
+      "ipa": "[vaj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "946a7d74-5f4a-404e-9108-74cb3abbe2a8",
+      "part-of-speech": "noun",
+      "english": "shoes",
+      "vietnamese": "giày",
+      "cefr": "A1",
+      "ipa": "[zaj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a12b16af-b751-41d4-8aa9-6b983269b7cf",
+      "part-of-speech": "noun",
+      "english": "sandals, slippers",
+      "vietnamese": "dép",
+      "cefr": "A2",
+      "ipa": "[zɛp̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "855cf1e2-5f87-4087-a590-fb57eb1f0b5d",
+      "part-of-speech": "noun",
+      "english": "hat",
+      "vietnamese": "mũ",
+      "cefr": "A2",
+      "ipa": "[mu˦ˀ˥]",
+      "context": "in the South: nón",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98ec9152-f645-4627-b26b-c384061259a0",
+      "part-of-speech": "noun",
+      "english": "jacket, coat",
+      "vietnamese": "áo khoác",
+      "cefr": "A2",
+      "ipa": "[ʔaːw˧˦ ˈxwaːk̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "67f6637b-148d-44d3-ade5-06081e6cefed",
+      "part-of-speech": "noun",
+      "english": "traditional long tunic",
+      "vietnamese": "áo dài",
+      "cefr": "A2",
+      "ipa": "[ʔaːw˧˦ ˈzaːj˨˩]",
+      "context": "worn over pants, Vietnam's national dress",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "141dcfbe-1edf-4177-a4b7-c5e72f6570fc",
+      "part-of-speech": "noun",
+      "english": "glasses",
+      "vietnamese": "kính",
+      "cefr": "A2",
+      "ipa": "[kiŋ̟˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2e545f7-e842-4a07-8e16-b6a143640bcc",
+      "part-of-speech": "noun",
+      "english": "bag, pocket",
+      "vietnamese": "túi",
+      "cefr": "A2",
+      "ipa": "[tuj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c64d1776-72e9-40b5-b625-57cd29a92b00",
+      "part-of-speech": "noun",
+      "english": "wallet",
+      "vietnamese": "ví",
+      "cefr": "A2",
+      "ipa": "[vi˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e1f009c-be36-4136-bc1e-3eea612b5fe9",
+      "part-of-speech": "noun",
+      "english": "money",
+      "vietnamese": "tiền",
+      "cefr": "A1",
+      "ipa": "[tiən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "97c904a4-ee7f-4fc5-b016-de84845323cc",
+      "part-of-speech": "noun",
+      "english": "Vietnamese currency unit",
+      "vietnamese": "đồng",
+      "cefr": "A2",
+      "ipa": "[ɗəwŋ͡m˨˩]",
+      "context": "prices are usually said in thousands: năm mươi nghìn đồng",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfd95f7c-57c8-4c51-b416-db3f0b835ee9",
+      "part-of-speech": "noun",
+      "english": "price",
+      "vietnamese": "giá",
+      "cefr": "A1",
+      "ipa": "[zaː˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "358156c8-9e07-4c14-8b10-f63ae46d2d86",
+      "part-of-speech": "noun",
+      "english": "cash",
+      "vietnamese": "tiền mặt",
+      "cefr": "A2",
+      "ipa": "[tiən˨˩ ˈmat̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a9a192fe-da12-45bc-a2a0-c84335d07c6d",
+      "part-of-speech": "noun",
+      "english": "card",
+      "vietnamese": "thẻ",
+      "cefr": "A2",
+      "ipa": "[tʰɛ˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d18dabbc-3887-4224-bee2-de9c042f8794",
+      "part-of-speech": "noun",
+      "english": "name",
+      "vietnamese": "tên",
+      "cefr": "A1",
+      "ipa": "[ten˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b8e51685-4261-407a-a49b-0a9b4e628fcc",
+      "part-of-speech": "noun",
+      "english": "age, years old",
+      "vietnamese": "tuổi",
+      "cefr": "A1",
+      "ipa": "[tuəj˧˩]",
+      "context": "anh bao nhiêu tuổi?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3621146d-2ec1-44c5-8382-ef3eaf926274",
+      "part-of-speech": "noun",
+      "english": "address",
+      "vietnamese": "địa chỉ",
+      "cefr": "A2",
+      "ipa": "[ɗiə˧˨ʔ ˈt͡ɕi˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90f3068e-1496-45fe-b65d-1cde068cbcd2",
+      "part-of-speech": "noun",
+      "english": "question",
+      "vietnamese": "câu hỏi",
+      "cefr": "A1",
+      "ipa": "[kəw˧˧ ˈhɔj˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "01cfd3aa-4be6-464d-9aab-7f368fd46677",
+      "part-of-speech": "noun",
+      "english": "answer",
+      "vietnamese": "câu trả lời",
+      "cefr": "A1",
+      "ipa": "[kəw˧˧ t͡ɕaː˧˩ ˈləːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "199d371d-62d6-403e-96ab-26493b82fca6",
+      "part-of-speech": "noun",
+      "english": "lesson",
+      "vietnamese": "bài học",
+      "cefr": "A1",
+      "ipa": "[ɓaːj˨˩ ˈhawk͡p̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eaa4c2da-91fb-47b7-b07f-456829f02b83",
+      "part-of-speech": "noun",
+      "english": "exercise, homework",
+      "vietnamese": "bài tập",
+      "cefr": "A2",
+      "ipa": "[ɓaːj˨˩ ˈtəp̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f7a2d732-e6c5-4ab0-989d-fa4eba4cdb7c",
+      "part-of-speech": "noun",
+      "english": "book",
+      "vietnamese": "sách",
+      "cefr": "A1",
+      "ipa": "[sajk̟̚˧˦]",
+      "context": "classifier: quyển (in the South: cuốn)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "78df740f-0f44-4044-82e3-44dfcc7bae6d",
+      "part-of-speech": "noun",
+      "english": "notebook",
+      "vietnamese": "vở",
+      "cefr": "A2",
+      "ipa": "[vəː˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec4207c6-f81b-4480-b2ca-007aab8edd70",
+      "part-of-speech": "noun",
+      "english": "pen",
+      "vietnamese": "bút",
+      "cefr": "A1",
+      "ipa": "[ɓut̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2337d5eb-504d-43f0-afd4-4fef47bf9309",
+      "part-of-speech": "noun",
+      "english": "paper",
+      "vietnamese": "giấy",
+      "cefr": "A2",
+      "ipa": "[zəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "694f88af-af52-4032-b10f-56108a978a8a",
+      "part-of-speech": "noun",
+      "english": "word",
+      "vietnamese": "từ",
+      "cefr": "A1",
+      "ipa": "[tɨ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "216ec72b-cf47-4020-b466-9b137fe210a7",
+      "part-of-speech": "noun",
+      "english": "dictionary",
+      "vietnamese": "từ điển",
+      "cefr": "A2",
+      "ipa": "[tɨ˨˩ ˈɗiən˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b73fb05a-2537-432e-a874-d03c6fbec2a5",
+      "part-of-speech": "noun",
+      "english": "class, grade",
+      "vietnamese": "lớp",
+      "cefr": "A1",
+      "ipa": "[ləːp̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b178242c-d5db-4655-9e49-7da2e67b13aa",
+      "part-of-speech": "noun",
+      "english": "work, job",
+      "vietnamese": "công việc",
+      "cefr": "A1",
+      "ipa": "[kəwŋ͡m˧˧ ˈviək̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbf52de4-707c-4b53-96bb-d50274f49c25",
+      "part-of-speech": "noun",
+      "english": "photo, picture",
+      "vietnamese": "ảnh",
+      "cefr": "A1",
+      "ipa": "[ʔajŋ̟˧˩]",
+      "context": "in the South: hình",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "065b8885-0af7-4ae7-8ec3-519ece1c3977",
+      "part-of-speech": "noun",
+      "english": "movie",
+      "vietnamese": "phim",
+      "cefr": "A1",
+      "ipa": "[fim˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "003c1bba-7b94-40f1-9f80-ba086dc6fc2b",
+      "part-of-speech": "noun",
+      "english": "music",
+      "vietnamese": "nhạc",
+      "cefr": "A1",
+      "ipa": "[ɲaːk̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8deb3e76-292d-48b1-b677-08e117248ddb",
+      "part-of-speech": "noun",
+      "english": "song",
+      "vietnamese": "bài hát",
+      "cefr": "A2",
+      "ipa": "[ɓaːj˨˩ ˈhaːt̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38884f37-6b4c-4ee1-a756-08c5f8aa2970",
+      "part-of-speech": "noun",
+      "english": "game",
+      "vietnamese": "trò chơi",
+      "cefr": "A2",
+      "ipa": "[t͡ɕɔ˨˩ ˈt͡ɕəːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74dff673-c060-4797-b1b0-d69b5978922e",
+      "part-of-speech": "noun",
+      "english": "sports",
+      "vietnamese": "thể thao",
+      "cefr": "A2",
+      "ipa": "[tʰe˧˩ ˈtʰaːw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "24e69b02-65db-47a5-a4ca-a5fad64d5c90",
+      "part-of-speech": "noun",
+      "english": "soccer",
+      "vietnamese": "bóng đá",
+      "cefr": "A2",
+      "ipa": "[ɓawŋ͡m˧˦ ˈɗaː˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79d60ffe-c89b-4404-8cfd-0fdce76b8a30",
+      "part-of-speech": "noun",
+      "english": "hobby, interest",
+      "vietnamese": "sở thích",
+      "cefr": "A2",
+      "ipa": "[səː˧˩ ˈtʰik̟̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "26b18285-fc91-4731-b453-0334903ebb2f",
+      "part-of-speech": "noun",
+      "english": "vacation, holiday",
+      "vietnamese": "kỳ nghỉ",
+      "cefr": "A2",
+      "ipa": "[ki˨˩ ˈŋi˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50117609-dda2-4d2a-8a12-e6ab61b1cbfd",
+      "part-of-speech": "noun",
+      "english": "letter",
+      "vietnamese": "thư",
+      "cefr": "A2",
+      "ipa": "[tʰɨ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6ac8ed10-bf11-47cd-8af8-91c9ee464cb9",
+      "part-of-speech": "noun",
+      "english": "text message",
+      "vietnamese": "tin nhắn",
+      "cefr": "A2",
+      "ipa": "[tin˧˧ ˈɲan˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a2d74c5c-ecbb-43e0-8a6e-37cfc374858c",
+      "part-of-speech": "noun",
+      "english": "news",
+      "vietnamese": "tin tức",
+      "cefr": "A2",
+      "ipa": "[tin˧˧ ˈtɨk̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66f7f29e-ecd8-487f-b8c2-f2f244768659",
+      "part-of-speech": "noun",
+      "english": "problem, issue",
+      "vietnamese": "vấn đề",
+      "cefr": "A2",
+      "ipa": "[vən˧˦ ˈɗe˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5afacb91-30da-4292-a020-4b14764733d3",
+      "part-of-speech": "noun",
+      "english": "opinion",
+      "vietnamese": "ý kiến",
+      "cefr": "A2",
+      "ipa": "[ʔi˧˦ ˈkiən˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f49d29b-9430-43a3-8942-c06b5210baf5",
+      "part-of-speech": "noun",
+      "english": "life",
+      "vietnamese": "cuộc sống",
+      "cefr": "A2",
+      "ipa": "[kuək̚˧˨ʔ ˈsəwŋ͡m˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4e2119d5-f3ad-4248-9fac-cbc382c43592",
+      "part-of-speech": "noun",
+      "english": "gift, present",
+      "vietnamese": "quà",
+      "cefr": "A2",
+      "ipa": "[kwaː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7668e95e-6ffe-404b-9fe6-8e582c666270",
+      "part-of-speech": "noun",
+      "english": "party",
+      "vietnamese": "bữa tiệc",
+      "cefr": "A2",
+      "ipa": "[ɓɨə˦ˀ˥ ˈtiək̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "134d0f70-95f3-4110-b703-86f3cdd10749",
+      "part-of-speech": "noun",
+      "english": "wedding",
+      "vietnamese": "đám cưới",
+      "cefr": "A2",
+      "ipa": "[ɗaːm˧˦ ˈkɨəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "99b58320-6723-45cf-8c73-e1390b0101b8",
+      "part-of-speech": "noun",
+      "english": "thing, stuff",
+      "vietnamese": "đồ",
+      "cefr": "A2",
+      "ipa": "[ɗo˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "775ae38b-6835-42be-abf5-19dd6351227b",
+      "part-of-speech": "noun",
+      "english": "place, spot",
+      "vietnamese": "chỗ",
+      "cefr": "A2",
+      "ipa": "[t͡ɕo˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e5d35de-4cc5-45fe-a074-a9a1002db887",
+      "part-of-speech": "noun",
+      "english": "electricity",
+      "vietnamese": "điện",
+      "cefr": "A2",
+      "ipa": "[ɗiən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb58a634-1d6b-43de-bd72-c9dd89b3fe82",
+      "part-of-speech": "noun",
+      "english": "internet, network",
+      "vietnamese": "mạng",
+      "cefr": "A2",
+      "ipa": "[maːŋ˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e126d4b6-1f36-43e6-b003-8003f703593f",
+      "part-of-speech": "noun",
+      "english": "camera",
+      "vietnamese": "máy ảnh",
+      "cefr": "A2",
+      "ipa": "[maj˧˦ ˈʔajŋ̟˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eba0f7b0-32d1-44ae-952a-6fa75a054176",
+      "part-of-speech": "noun",
+      "english": "classifier for animals",
+      "vietnamese": "con",
+      "cefr": "A1",
+      "ipa": "[kɔn˧˧]",
+      "context": "con mèo: a cat; also for some things, such as con dao (knife)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "05c1c067-3bee-48cb-be87-362f441f6922",
+      "part-of-speech": "noun",
+      "english": "classifier for objects",
+      "vietnamese": "cái",
+      "cefr": "A1",
+      "ipa": "[kaːj˧˦]",
+      "context": "cái bàn: a table; cái này: this one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e63ef851-b0a0-4f50-86d0-605c41c63050",
+      "part-of-speech": "noun",
+      "english": "classifier for single items and vehicles",
+      "vietnamese": "chiếc",
+      "cefr": "A2",
+      "ipa": "[t͡ɕiək̚˧˦]",
+      "context": "chiếc xe: a vehicle; chiếc giày: a shoe",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30173eff-db10-4a81-924e-6587eca8ef72",
+      "part-of-speech": "noun",
+      "english": "classifier for books",
+      "vietnamese": "quyển",
+      "cefr": "A2",
+      "ipa": "[kwiən˧˩]",
+      "context": "in the South: cuốn",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "85158db7-81d6-4543-9a68-d0837da9579f",
+      "part-of-speech": "noun",
+      "english": "classifier for sheets",
+      "vietnamese": "tờ",
+      "cefr": "A2",
+      "ipa": "[təː˨˩]",
+      "context": "tờ giấy: a sheet of paper",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "960a95ec-54ec-42a5-9d4f-e328d10ccdd3",
+      "part-of-speech": "verb",
+      "english": "be (this is that)",
+      "vietnamese": "là",
+      "cefr": "A1",
+      "ipa": "[laː˨˩]",
+      "context": "links two nouns: tôi là sinh viên; not used before adjectives",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ced5f042-03db-42e7-a215-ba7a3662503f",
+      "part-of-speech": "verb",
+      "english": "have, there is",
+      "vietnamese": "có",
+      "cefr": "A1",
+      "ipa": "[kɔ˧˦]",
+      "context": "as an answer: yes",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c980516e-ca42-4974-a669-1329b7e696be",
+      "part-of-speech": "verb",
+      "english": "stay, be located",
+      "vietnamese": "ở",
+      "cefr": "A1",
+      "ipa": "[ʔəː˧˩]",
+      "context": "anh ở đâu? where do you live?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2b40a89e-9c96-4fd8-b65f-81229042fc78",
+      "part-of-speech": "verb",
+      "english": "live, be alive",
+      "vietnamese": "sống",
+      "cefr": "A2",
+      "ipa": "[səwŋ͡m˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d2f8bd8f-cc4f-4c34-ac20-76d5467bab0d",
+      "part-of-speech": "verb",
+      "english": "go",
+      "vietnamese": "đi",
+      "cefr": "A1",
+      "ipa": "[ɗi˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1c14215-2c50-49ad-99f2-fcc1b8e163f4",
+      "part-of-speech": "verb",
+      "english": "come, arrive",
+      "vietnamese": "đến",
+      "cefr": "A1",
+      "ipa": "[ɗen˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "debc2c75-dc44-45a7-9848-c722a7b57ad6",
+      "part-of-speech": "verb",
+      "english": "return, go back home",
+      "vietnamese": "về",
+      "cefr": "A1",
+      "ipa": "[ve˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0126e78-9a93-46f6-a9f3-086cfee1dcbf",
+      "part-of-speech": "verb",
+      "english": "go out, exit",
+      "vietnamese": "ra",
+      "cefr": "A2",
+      "ipa": "[zaː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64494168-ec3e-4808-8193-5098a075564d",
+      "part-of-speech": "verb",
+      "english": "go in, enter",
+      "vietnamese": "vào",
+      "cefr": "A2",
+      "ipa": "[vaːw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "699a089e-5762-491c-b7fe-3f3b04c0b9c0",
+      "part-of-speech": "verb",
+      "english": "go up, get on",
+      "vietnamese": "lên",
+      "cefr": "A2",
+      "ipa": "[len˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6bbc53b-56b1-443e-873c-92ddd7243301",
+      "part-of-speech": "verb",
+      "english": "go down, get off",
+      "vietnamese": "xuống",
+      "cefr": "A2",
+      "ipa": "[suəŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3ccaeb0-36b3-45e7-9132-b59f01ec169d",
+      "part-of-speech": "verb",
+      "english": "eat",
+      "vietnamese": "ăn",
+      "cefr": "A1",
+      "ipa": "[ʔan˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68b9077e-7bc8-42af-9de5-e8e87d39c01e",
+      "part-of-speech": "verb",
+      "english": "drink",
+      "vietnamese": "uống",
+      "cefr": "A1",
+      "ipa": "[ʔuəŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2bcc955-d165-465d-9a6f-3a4b3574e5d3",
+      "part-of-speech": "verb",
+      "english": "sleep",
+      "vietnamese": "ngủ",
+      "cefr": "A1",
+      "ipa": "[ŋu˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bdef642a-cfea-4d8e-9052-b0f0a8d9040f",
+      "part-of-speech": "verb",
+      "english": "wake up",
+      "vietnamese": "thức dậy",
+      "cefr": "A1",
+      "ipa": "[tʰɨk̚˧˦ ˈzəj˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "63314ad1-2fb7-464a-8b9b-287c2fa1b23c",
+      "part-of-speech": "verb",
+      "english": "do, make",
+      "vietnamese": "làm",
+      "cefr": "A1",
+      "ipa": "[laːm˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bfe0989e-9a6d-4dc2-8067-07d59d3c5df7",
+      "part-of-speech": "verb",
+      "english": "work",
+      "vietnamese": "làm việc",
+      "cefr": "A1",
+      "ipa": "[laːm˨˩ ˈviək̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1a8d349-094b-4fe5-bece-633d1476b3c4",
+      "part-of-speech": "verb",
+      "english": "study, learn",
+      "vietnamese": "học",
+      "cefr": "A1",
+      "ipa": "[hawk͡p̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6126775-d570-431e-8c03-60a538257c79",
+      "part-of-speech": "verb",
+      "english": "teach",
+      "vietnamese": "dạy",
+      "cefr": "A1",
+      "ipa": "[zaj˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f0dd11dc-89bc-4a3a-ac49-39e90f8d26e3",
+      "part-of-speech": "verb",
+      "english": "read",
+      "vietnamese": "đọc",
+      "cefr": "A1",
+      "ipa": "[ɗawk͡p̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea48673c-ff68-4623-b3d1-8cb9fb35f413",
+      "part-of-speech": "verb",
+      "english": "write",
+      "vietnamese": "viết",
+      "cefr": "A1",
+      "ipa": "[viət̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d12252e0-d57c-4f39-9104-ebe6ee67cc16",
+      "part-of-speech": "verb",
+      "english": "speak, say",
+      "vietnamese": "nói",
+      "cefr": "A1",
+      "ipa": "[nɔj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "80779cb2-ea5d-474f-a98b-1f6fd817a742",
+      "part-of-speech": "verb",
+      "english": "listen, hear",
+      "vietnamese": "nghe",
+      "cefr": "A1",
+      "ipa": "[ŋɛ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea36ed85-db7d-41ce-9b6c-ddbf6651fba2",
+      "part-of-speech": "verb",
+      "english": "look at",
+      "vietnamese": "nhìn",
+      "cefr": "A1",
+      "ipa": "[ɲin˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "356352a7-5b47-4bca-892d-d9490e849ace",
+      "part-of-speech": "verb",
+      "english": "see, feel",
+      "vietnamese": "thấy",
+      "cefr": "A1",
+      "ipa": "[tʰəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7f70d978-0429-4aa5-bf84-e220f81b68ed",
+      "part-of-speech": "verb",
+      "english": "watch",
+      "vietnamese": "xem",
+      "cefr": "A1",
+      "ipa": "[sɛm˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5b4b5f7-6f2f-4aa2-8e84-7da0df927651",
+      "part-of-speech": "verb",
+      "english": "understand",
+      "vietnamese": "hiểu",
+      "cefr": "A1",
+      "ipa": "[hiəw˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd9bbb58-0607-41b2-b6d9-0fdb469a8e3a",
+      "part-of-speech": "verb",
+      "english": "know",
+      "vietnamese": "biết",
+      "cefr": "A1",
+      "ipa": "[ɓiət̚˧˦]",
+      "context": "also \"know how to\": tôi biết bơi",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92549649-f49c-4c5d-b461-b375de91d9a8",
+      "part-of-speech": "verb",
+      "english": "want",
+      "vietnamese": "muốn",
+      "cefr": "A1",
+      "ipa": "[muən˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c4b5b844-8bf9-4d23-875d-489bf8c3197e",
+      "part-of-speech": "verb",
+      "english": "like",
+      "vietnamese": "thích",
+      "cefr": "A1",
+      "ipa": "[tʰik̟̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04db3196-cf3d-4b43-9339-040a4ca0c7e3",
+      "part-of-speech": "verb",
+      "english": "love",
+      "vietnamese": "yêu",
+      "cefr": "A1",
+      "ipa": "[ʔiəw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f3a3a987-0eb9-4017-ba1c-6ca73c8ac37b",
+      "part-of-speech": "verb",
+      "english": "need",
+      "vietnamese": "cần",
+      "cefr": "A1",
+      "ipa": "[kən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f658db5-1e2c-4de4-aff0-a012317a2f4b",
+      "part-of-speech": "verb",
+      "english": "must, have to",
+      "vietnamese": "phải",
+      "cefr": "A1",
+      "ipa": "[faːj˧˩]",
+      "context": "also \"right\" (the direction) and \"correct\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dec1e55f-514d-4925-95f0-871297b87738",
+      "part-of-speech": "verb",
+      "english": "can, be able to",
+      "vietnamese": "có thể",
+      "cefr": "A1",
+      "ipa": "[kɔ˧˦ ˈtʰe˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75a36cba-f4c7-415c-bac0-ba30e2421e60",
+      "part-of-speech": "verb",
+      "english": "may, be allowed to",
+      "vietnamese": "được",
+      "cefr": "A2",
+      "ipa": "[ɗɨək̚˧˨ʔ]",
+      "context": "after a verb: be able to (nói được)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fecaf83-6fc6-437b-89e0-d3949ae9fb0d",
+      "part-of-speech": "verb",
+      "english": "help",
+      "vietnamese": "giúp",
+      "cefr": "A1",
+      "ipa": "[zup̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa8aa580-976e-4c6f-a7b7-b8d415534293",
+      "part-of-speech": "verb",
+      "english": "wait (for)",
+      "vietnamese": "đợi",
+      "cefr": "A1",
+      "ipa": "[ɗəːj˧˨ʔ]",
+      "context": "in the South: chờ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ca614b6c-9233-4c61-8370-02697314d4db",
+      "part-of-speech": "verb",
+      "english": "ask",
+      "vietnamese": "hỏi",
+      "cefr": "A1",
+      "ipa": "[hɔj˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb69c555-0ec7-4c96-a869-1d6ea0845375",
+      "part-of-speech": "verb",
+      "english": "answer, reply",
+      "vietnamese": "trả lời",
+      "cefr": "A1",
+      "ipa": "[t͡ɕaː˧˩ ˈləːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd1bb85f-f8e5-4cd7-9864-c5c0b75530d3",
+      "part-of-speech": "verb",
+      "english": "call",
+      "vietnamese": "gọi",
+      "cefr": "A1",
+      "ipa": "[ɣɔj˧˨ʔ]",
+      "context": "gọi món: order food",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c429c86-6bd8-4210-b3f8-87b6ad985be4",
+      "part-of-speech": "verb",
+      "english": "phone, make a call",
+      "vietnamese": "gọi điện",
+      "cefr": "A2",
+      "ipa": "[ɣɔj˧˨ʔ ˈɗiən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f29f9236-b698-4d46-acd8-385b216e5a37",
+      "part-of-speech": "verb",
+      "english": "text, send a message",
+      "vietnamese": "nhắn tin",
+      "cefr": "A2",
+      "ipa": "[ɲan˧˦ ˈtin˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20293bfb-35c3-49ae-9d23-6c4c09cf0cac",
+      "part-of-speech": "verb",
+      "english": "send",
+      "vietnamese": "gửi",
+      "cefr": "A2",
+      "ipa": "[ɣɨj˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1f2a9d7c-9057-4a2c-ac9f-03c26334e3a4",
+      "part-of-speech": "verb",
+      "english": "receive",
+      "vietnamese": "nhận",
+      "cefr": "A2",
+      "ipa": "[ɲən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a6272f8-8db6-49d5-8c9f-852116480ab3",
+      "part-of-speech": "verb",
+      "english": "give",
+      "vietnamese": "cho",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɔ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc054e37-20de-496a-9970-3c023ee756ec",
+      "part-of-speech": "verb",
+      "english": "take, get",
+      "vietnamese": "lấy",
+      "cefr": "A1",
+      "ipa": "[ləj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "714a72a1-e13d-40c6-aac4-f06b08dcd22b",
+      "part-of-speech": "verb",
+      "english": "bring, carry",
+      "vietnamese": "mang",
+      "cefr": "A2",
+      "ipa": "[maːŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e69aac5-a1b7-4a67-8c0d-d9bf13dd9574",
+      "part-of-speech": "verb",
+      "english": "open",
+      "vietnamese": "mở",
+      "cefr": "A1",
+      "ipa": "[məː˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "aa8d2546-11c1-426c-95ef-3f5a496e132d",
+      "part-of-speech": "verb",
+      "english": "close, shut",
+      "vietnamese": "đóng",
+      "cefr": "A1",
+      "ipa": "[ɗawŋ͡m˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6f90f43a-28fe-49a6-887d-56c919690570",
+      "part-of-speech": "verb",
+      "english": "turn on",
+      "vietnamese": "bật",
+      "cefr": "A2",
+      "ipa": "[ɓət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ba194a7f-017e-48cb-9b9d-47a2bc09ea26",
+      "part-of-speech": "verb",
+      "english": "turn off",
+      "vietnamese": "tắt",
+      "cefr": "A2",
+      "ipa": "[tat̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d5fa4150-3f28-4df7-8b1f-d55207163ed3",
+      "part-of-speech": "verb",
+      "english": "begin, start",
+      "vietnamese": "bắt đầu",
+      "cefr": "A2",
+      "ipa": "[ɓat̚˧˦ ˈɗəw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "191f1146-da1a-4b6e-a676-e232b0c9ad60",
+      "part-of-speech": "verb",
+      "english": "end, finish",
+      "vietnamese": "kết thúc",
+      "cefr": "A2",
+      "ipa": "[ket̚˧˦ ˈtʰuwk͡p̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7ed184e-a0c2-4c09-8a84-aa6b34a6be99",
+      "part-of-speech": "verb",
+      "english": "play",
+      "vietnamese": "chơi",
+      "cefr": "A1",
+      "ipa": "[t͡ɕəːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76d47baa-0780-4dd3-a054-7494cb8eb504",
+      "part-of-speech": "verb",
+      "english": "sing",
+      "vietnamese": "hát",
+      "cefr": "A1",
+      "ipa": "[haːt̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fb0d28f-d8d4-4765-9384-6309d4ad75a3",
+      "part-of-speech": "verb",
+      "english": "dance, jump",
+      "vietnamese": "nhảy",
+      "cefr": "A2",
+      "ipa": "[ɲaj˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a1262b8a-2fe6-4dec-a123-d453ead3221a",
+      "part-of-speech": "verb",
+      "english": "swim",
+      "vietnamese": "bơi",
+      "cefr": "A1",
+      "ipa": "[ɓəːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "925a90b4-7588-4dcf-94cd-d92b97ee50ca",
+      "part-of-speech": "verb",
+      "english": "run",
+      "vietnamese": "chạy",
+      "cefr": "A1",
+      "ipa": "[t͡ɕaj˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c752a022-a61d-4493-8b43-8e60fa19677f",
+      "part-of-speech": "verb",
+      "english": "walk",
+      "vietnamese": "đi bộ",
+      "cefr": "A1",
+      "ipa": "[ɗi˧˧ ˈɓo˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c5b90695-f14c-4617-ade1-32d722bf03e5",
+      "part-of-speech": "verb",
+      "english": "sit",
+      "vietnamese": "ngồi",
+      "cefr": "A1",
+      "ipa": "[ŋoj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9abcfb4-97e2-426e-81a3-fb8748f61af5",
+      "part-of-speech": "verb",
+      "english": "stand",
+      "vietnamese": "đứng",
+      "cefr": "A1",
+      "ipa": "[ɗɨŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb3a7ebe-f323-4110-9dc1-bde276592784",
+      "part-of-speech": "verb",
+      "english": "lie down",
+      "vietnamese": "nằm",
+      "cefr": "A2",
+      "ipa": "[nam˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "15f56baa-4a66-4e5c-b509-b426ab53c109",
+      "part-of-speech": "verb",
+      "english": "cook",
+      "vietnamese": "nấu",
+      "cefr": "A1",
+      "ipa": "[nəw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c98dbeaa-200e-40c9-a009-6c2d508d5318",
+      "part-of-speech": "verb",
+      "english": "wash",
+      "vietnamese": "rửa",
+      "cefr": "A2",
+      "ipa": "[zɨə˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "497f05c9-0d1b-45d1-bb2e-71cbbc81d1b7",
+      "part-of-speech": "verb",
+      "english": "take a shower, bathe",
+      "vietnamese": "tắm",
+      "cefr": "A1",
+      "ipa": "[tam˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9014840b-93ee-4e2a-a545-22610a1cae8c",
+      "part-of-speech": "verb",
+      "english": "do the laundry",
+      "vietnamese": "giặt",
+      "cefr": "A2",
+      "ipa": "[zat̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30174f56-9f59-48b1-b589-1391ec33fd8c",
+      "part-of-speech": "verb",
+      "english": "wear, put on (clothes)",
+      "vietnamese": "mặc",
+      "cefr": "A2",
+      "ipa": "[mak̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "deb526e2-a846-41cd-90fc-513e01b6f41f",
+      "part-of-speech": "verb",
+      "english": "tidy up, clean",
+      "vietnamese": "dọn dẹp",
+      "cefr": "A2",
+      "ipa": "[zɔn˧˨ʔ ˈzɛp̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0fae5958-c9b5-4b9c-b8b9-03a11fd00e96",
+      "part-of-speech": "verb",
+      "english": "buy",
+      "vietnamese": "mua",
+      "cefr": "A1",
+      "ipa": "[muə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a864b7e9-50a7-48cd-b62f-f76b10ab4622",
+      "part-of-speech": "verb",
+      "english": "sell",
+      "vietnamese": "bán",
+      "cefr": "A1",
+      "ipa": "[ɓaːn˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6a15cb33-3380-428b-94f9-8915bc2d2977",
+      "part-of-speech": "verb",
+      "english": "pay, give back",
+      "vietnamese": "trả",
+      "cefr": "A2",
+      "ipa": "[t͡ɕaː˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "616f8a84-eeb3-4251-a8d5-5d31b57c93d9",
+      "part-of-speech": "verb",
+      "english": "rent, hire",
+      "vietnamese": "thuê",
+      "cefr": "A2",
+      "ipa": "[tʰwe˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e97f0834-d702-4fd1-8287-d8b0c8d6257f",
+      "part-of-speech": "verb",
+      "english": "haggle",
+      "vietnamese": "mặc cả",
+      "cefr": "A2",
+      "ipa": "[mak̚˧˨ʔ ˈkaː˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5bd1f255-e938-432b-bbb3-5cce944531d3",
+      "part-of-speech": "verb",
+      "english": "die",
+      "vietnamese": "chết",
+      "cefr": "A2",
+      "ipa": "[t͡ɕet̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "910fcb0f-76f0-4e0e-b37c-d870dbd16bbd",
+      "part-of-speech": "verb",
+      "english": "forget",
+      "vietnamese": "quên",
+      "cefr": "A2",
+      "ipa": "[kwen˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f18b3479-9513-4654-a55c-65449f1a81a4",
+      "part-of-speech": "verb",
+      "english": "remember, miss",
+      "vietnamese": "nhớ",
+      "cefr": "A1",
+      "ipa": "[ɲəː˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4968449d-66cc-4f7d-ac37-a474c09049c5",
+      "part-of-speech": "verb",
+      "english": "think",
+      "vietnamese": "nghĩ",
+      "cefr": "A1",
+      "ipa": "[ŋi˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03452c0f-bf4b-4be3-8807-38eda179bf1f",
+      "part-of-speech": "verb",
+      "english": "believe, trust",
+      "vietnamese": "tin",
+      "cefr": "A2",
+      "ipa": "[tin˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0c528228-e72e-4969-9af2-704342cea93e",
+      "part-of-speech": "verb",
+      "english": "try",
+      "vietnamese": "thử",
+      "cefr": "A2",
+      "ipa": "[tʰɨ˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4a122925-980e-41a0-97a9-21f3ed2be66c",
+      "part-of-speech": "verb",
+      "english": "look for",
+      "vietnamese": "tìm",
+      "cefr": "A1",
+      "ipa": "[tim˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4860c19-0f5c-4ffd-9c30-db39f317b3e2",
+      "part-of-speech": "verb",
+      "english": "find",
+      "vietnamese": "tìm thấy",
+      "cefr": "A2",
+      "ipa": "[tim˨˩ ˈtʰəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b437750-ce94-49e6-849c-5e07ff935866",
+      "part-of-speech": "verb",
+      "english": "lose (something), take (time)",
+      "vietnamese": "mất",
+      "cefr": "A2",
+      "ipa": "[mət̚˧˦]",
+      "context": "mất hai giờ: takes two hours",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "abc35d85-e3a0-4910-a834-81b06dab404a",
+      "part-of-speech": "verb",
+      "english": "use",
+      "vietnamese": "dùng",
+      "cefr": "A2",
+      "ipa": "[zuwŋ͡m˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee21038f-b886-4249-802c-87abbd8d6199",
+      "part-of-speech": "verb",
+      "english": "drive",
+      "vietnamese": "lái",
+      "cefr": "A2",
+      "ipa": "[laːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d078add5-922a-49b1-8dd2-c156eae72683",
+      "part-of-speech": "verb",
+      "english": "book, reserve, put",
+      "vietnamese": "đặt",
+      "cefr": "A2",
+      "ipa": "[ɗat̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68f3b9bd-af63-49fe-941b-7406e14c72e0",
+      "part-of-speech": "verb",
+      "english": "meet",
+      "vietnamese": "gặp",
+      "cefr": "A1",
+      "ipa": "[ɣap̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dd136fd-84b1-4c65-bb6e-bddd6d9c70d9",
+      "part-of-speech": "verb",
+      "english": "greet, say hello",
+      "vietnamese": "chào",
+      "cefr": "A1",
+      "ipa": "[t͡ɕaːw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19b3008b-f31e-4783-91e4-5f7efbff2986",
+      "part-of-speech": "verb",
+      "english": "thank",
+      "vietnamese": "cảm ơn",
+      "cefr": "A1",
+      "ipa": "[kaːm˧˩ ˈʔəːn˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd4e7fed-3680-46ab-ab65-839a5de15e42",
+      "part-of-speech": "verb",
+      "english": "stop",
+      "vietnamese": "dừng",
+      "cefr": "A2",
+      "ipa": "[zɨŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "43869e93-385c-4a21-b891-a8ecccd42b0f",
+      "part-of-speech": "verb",
+      "english": "turn (left or right)",
+      "vietnamese": "rẽ",
+      "cefr": "A2",
+      "ipa": "[zɛ˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e6e28137-ea1f-43ec-804a-8b888324d829",
+      "part-of-speech": "verb",
+      "english": "change, replace",
+      "vietnamese": "thay",
+      "cefr": "A2",
+      "ipa": "[tʰaj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f90e1d6-cece-41bc-bc8e-f42ae4820a4b",
+      "part-of-speech": "verb",
+      "english": "fix, repair",
+      "vietnamese": "sửa",
+      "cefr": "A2",
+      "ipa": "[sɨə˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "570ee0d7-5c7a-426a-9285-d726399dde21",
+      "part-of-speech": "verb",
+      "english": "draw, paint",
+      "vietnamese": "vẽ",
+      "cefr": "A2",
+      "ipa": "[vɛ˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4ecc8424-d8f1-4efd-b442-0286b8beb34f",
+      "part-of-speech": "verb",
+      "english": "take a photo",
+      "vietnamese": "chụp ảnh",
+      "cefr": "A2",
+      "ipa": "[t͡ɕup̚˧˨ʔ ˈʔajŋ̟˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e39e2ea-a89b-4a51-9dfa-a0e64ac360d6",
+      "part-of-speech": "verb",
+      "english": "travel",
+      "vietnamese": "du lịch",
+      "cefr": "A1",
+      "ipa": "[zu˧˧ ˈlik̟̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e3b5da1-b09e-4158-87c9-102fb7f67707",
+      "part-of-speech": "verb",
+      "english": "rest, take time off",
+      "vietnamese": "nghỉ",
+      "cefr": "A2",
+      "ipa": "[ŋi˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d272734b-670d-4ac5-94c1-82238495b6a0",
+      "part-of-speech": "verb",
+      "english": "cry",
+      "vietnamese": "khóc",
+      "cefr": "A2",
+      "ipa": "[xawk͡p̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8cc0c582-5c87-488e-81bf-359ccc1394a6",
+      "part-of-speech": "verb",
+      "english": "laugh, smile",
+      "vietnamese": "cười",
+      "cefr": "A2",
+      "ipa": "[kɨəj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "681d9fe3-259e-446e-9004-17628928f3cb",
+      "part-of-speech": "verb",
+      "english": "hurt, ache",
+      "vietnamese": "đau",
+      "cefr": "A1",
+      "ipa": "[ɗaw˧˧]",
+      "context": "as an adjective: painful, sore",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "196da68d-f695-4794-8e8c-56efb7fb0b50",
+      "part-of-speech": "verb",
+      "english": "chat, talk",
+      "vietnamese": "nói chuyện",
+      "cefr": "A1",
+      "ipa": "[nɔj˧˦ ˈt͡ɕwiən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd0102f8-bab2-4a6b-8035-5321d2a9e69b",
+      "part-of-speech": "verb",
+      "english": "marry",
+      "vietnamese": "cưới",
+      "cefr": "A2",
+      "ipa": "[kɨəj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e292659e-7241-4063-951b-63e1e7288a17",
+      "part-of-speech": "verb",
+      "english": "get married",
+      "vietnamese": "kết hôn",
+      "cefr": "A2",
+      "ipa": "[ket̚˧˦ ˈhon˧˧]",
+      "context": "more formal than cưới",
+      "register": [
+        "văn chương",
+        "trang trọng",
+        "trung tính"
+      ]
+    },
+    {
+      "id": "94538680-0b78-493c-a370-5dadf29438ef",
+      "part-of-speech": "verb",
+      "english": "win",
+      "vietnamese": "thắng",
+      "cefr": "A2",
+      "ipa": "[tʰaŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "617f8f92-2cb5-4eb6-84c7-6b8eab83b8ce",
+      "part-of-speech": "verb",
+      "english": "lose (a game)",
+      "vietnamese": "thua",
+      "cefr": "A2",
+      "ipa": "[tʰuə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e17e16a9-a3a7-435b-a19a-db3ca21f6acb",
+      "part-of-speech": "verb",
+      "english": "worry",
+      "vietnamese": "lo",
+      "cefr": "A2",
+      "ipa": "[lɔ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "21d0c67d-744a-4d93-a432-03228d879ea8",
+      "part-of-speech": "verb",
+      "english": "be afraid, fear",
+      "vietnamese": "sợ",
+      "cefr": "A2",
+      "ipa": "[səː˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eb21481e-239c-4188-af3c-298ee3b556e5",
+      "part-of-speech": "verb",
+      "english": "hope",
+      "vietnamese": "hy vọng",
+      "cefr": "A2",
+      "ipa": "[hi˧˧ ˈvawŋ͡m˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "75a8b37d-9ce0-45da-ac79-58f2e60653a9",
+      "part-of-speech": "verb",
+      "english": "wish (someone something)",
+      "vietnamese": "chúc",
+      "cefr": "A2",
+      "ipa": "[t͡ɕuwk͡p̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96a0a632-18c9-4b90-a18b-323ddf340827",
+      "part-of-speech": "verb",
+      "english": "invite",
+      "vietnamese": "mời",
+      "cefr": "A2",
+      "ipa": "[məːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1de7f88-b469-4bde-9d8c-0797fc5e15c5",
+      "part-of-speech": "verb",
+      "english": "agree",
+      "vietnamese": "đồng ý",
+      "cefr": "A2",
+      "ipa": "[ɗəwŋ͡m˨˩ ˈʔi˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "563449db-9c07-4ccc-abcc-d298755e0831",
+      "part-of-speech": "verb",
+      "english": "explain",
+      "vietnamese": "giải thích",
+      "cefr": "A2",
+      "ipa": "[zaːj˧˩ ˈtʰik̟̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41a4f2a6-2ad2-4419-a20d-7743cd35c69d",
+      "part-of-speech": "verb",
+      "english": "practice",
+      "vietnamese": "luyện tập",
+      "cefr": "A2",
+      "ipa": "[lwiən˧˨ʔ ˈtəp̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "59177270-9d7c-4f3f-902a-4738f62fddc6",
+      "part-of-speech": "verb",
+      "english": "count",
+      "vietnamese": "đếm",
+      "cefr": "A2",
+      "ipa": "[ɗem˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83dc3239-3c94-4ed9-a326-890e5fced214",
+      "part-of-speech": "adjective",
+      "english": "good",
+      "vietnamese": "tốt",
+      "cefr": "A1",
+      "ipa": "[tot̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c41399da-29ca-4c70-a453-13ae3662f7c1",
+      "part-of-speech": "adjective",
+      "english": "bad, ugly",
+      "vietnamese": "xấu",
+      "cefr": "A1",
+      "ipa": "[səw˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5dbdef8c-5812-4686-bac8-15d0873f2070",
+      "part-of-speech": "adjective",
+      "english": "beautiful, good-looking",
+      "vietnamese": "đẹp",
+      "cefr": "A1",
+      "ipa": "[ɗɛp̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e1fe01f7-e6ce-46ae-966c-80a7cb48649c",
+      "part-of-speech": "adjective",
+      "english": "pretty",
+      "vietnamese": "xinh",
+      "cefr": "A2",
+      "ipa": "[siŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "be741382-0610-4714-a8aa-5e64696d3c8a",
+      "part-of-speech": "adjective",
+      "english": "big",
+      "vietnamese": "to",
+      "cefr": "A1",
+      "ipa": "[tɔ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7114269c-c4f0-47d3-875f-749a1b5130a5",
+      "part-of-speech": "adjective",
+      "english": "large, grown-up",
+      "vietnamese": "lớn",
+      "cefr": "A1",
+      "ipa": "[ləːn˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "585cc9e8-5439-4569-870d-79458bb7dca5",
+      "part-of-speech": "adjective",
+      "english": "small",
+      "vietnamese": "nhỏ",
+      "cefr": "A1",
+      "ipa": "[ɲɔ˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cfc488e3-748f-48a1-a1c1-93cb85ec6bf2",
+      "part-of-speech": "adjective",
+      "english": "long",
+      "vietnamese": "dài",
+      "cefr": "A1",
+      "ipa": "[zaːj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbde8b56-6a3f-489e-9b7f-dac5dad6c8b8",
+      "part-of-speech": "adjective",
+      "english": "short (in length)",
+      "vietnamese": "ngắn",
+      "cefr": "A1",
+      "ipa": "[ŋan˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0411799e-eb58-443a-9bc2-6b20d27aca7f",
+      "part-of-speech": "adjective",
+      "english": "tall, high",
+      "vietnamese": "cao",
+      "cefr": "A1",
+      "ipa": "[kaːw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "30b1c8ee-2fd0-45c8-a92d-5441aa71b3e3",
+      "part-of-speech": "adjective",
+      "english": "short (in height), low",
+      "vietnamese": "thấp",
+      "cefr": "A1",
+      "ipa": "[tʰəp̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8bbc5a72-2bab-49e1-bc4b-9867e531f9a0",
+      "part-of-speech": "adjective",
+      "english": "new",
+      "vietnamese": "mới",
+      "cefr": "A1",
+      "ipa": "[məːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9f1d81d-c8d9-48af-9bed-e656fa97a6be",
+      "part-of-speech": "adjective",
+      "english": "old (not new)",
+      "vietnamese": "cũ",
+      "cefr": "A1",
+      "ipa": "[ku˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d54722b3-f1f0-4524-b41e-b45895564605",
+      "part-of-speech": "adjective",
+      "english": "old (not young)",
+      "vietnamese": "già",
+      "cefr": "A1",
+      "ipa": "[zaː˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8111921b-45b8-44f9-807f-2c586bb00778",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "vietnamese": "trẻ",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɛ˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2b94b74-bff4-4ba3-99aa-fb22bff389b8",
+      "part-of-speech": "adjective",
+      "english": "fast, quick",
+      "vietnamese": "nhanh",
+      "cefr": "A1",
+      "ipa": "[ɲajŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c06661d-5838-4d5a-a31b-434118ac6de8",
+      "part-of-speech": "adjective",
+      "english": "slow",
+      "vietnamese": "chậm",
+      "cefr": "A1",
+      "ipa": "[t͡ɕəm˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dd598868-db20-49be-9af1-3dd4b767bda9",
+      "part-of-speech": "adjective",
+      "english": "many, much, a lot",
+      "vietnamese": "nhiều",
+      "cefr": "A1",
+      "ipa": "[ɲiəw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e33c5b1-5521-4ed3-bc2e-d9357c55ce5d",
+      "part-of-speech": "adjective",
+      "english": "few, little",
+      "vietnamese": "ít",
+      "cefr": "A1",
+      "ipa": "[ʔit̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "08794890-fa64-43f9-bab6-62195a03f946",
+      "part-of-speech": "adjective",
+      "english": "correct, right",
+      "vietnamese": "đúng",
+      "cefr": "A1",
+      "ipa": "[ɗuwŋ͡m˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e19240b7-f18c-48f6-90cc-ea1092145561",
+      "part-of-speech": "adjective",
+      "english": "wrong",
+      "vietnamese": "sai",
+      "cefr": "A1",
+      "ipa": "[saːj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4dbc3a0f-5c94-4f07-931c-834fd63a1389",
+      "part-of-speech": "adjective",
+      "english": "easy",
+      "vietnamese": "dễ",
+      "cefr": "A1",
+      "ipa": "[ze˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "81882291-6330-4b83-aa13-4cb12b68eba2",
+      "part-of-speech": "adjective",
+      "english": "difficult, hard",
+      "vietnamese": "khó",
+      "cefr": "A1",
+      "ipa": "[xɔ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea330627-1ad2-4288-852e-48cc0c6b0464",
+      "part-of-speech": "adjective",
+      "english": "happy, glad",
+      "vietnamese": "vui",
+      "cefr": "A1",
+      "ipa": "[vuj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "18476405-44ad-47e7-9a40-c5bd7b123b27",
+      "part-of-speech": "adjective",
+      "english": "sad",
+      "vietnamese": "buồn",
+      "cefr": "A1",
+      "ipa": "[ɓuən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "91247599-ebc7-4e3a-bed2-c49cf43a17e8",
+      "part-of-speech": "adjective",
+      "english": "angry",
+      "vietnamese": "giận",
+      "cefr": "A2",
+      "ipa": "[zən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2e1bafce-e56d-44bb-a977-af1f8ef343e8",
+      "part-of-speech": "adjective",
+      "english": "busy",
+      "vietnamese": "bận",
+      "cefr": "A1",
+      "ipa": "[ɓən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3be3629-710e-467a-9f7b-1973ae9203b5",
+      "part-of-speech": "adjective",
+      "english": "free (not busy)",
+      "vietnamese": "rảnh",
+      "cefr": "A2",
+      "ipa": "[zajŋ̟˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b92293f4-b51a-416c-bdfb-a8747d520cee",
+      "part-of-speech": "adjective",
+      "english": "clean",
+      "vietnamese": "sạch",
+      "cefr": "A2",
+      "ipa": "[sajk̟̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7167ae50-9ace-4506-9b56-f1092405a159",
+      "part-of-speech": "adjective",
+      "english": "dirty",
+      "vietnamese": "bẩn",
+      "cefr": "A2",
+      "ipa": "[ɓən˧˩]",
+      "context": "in the South: dơ",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b743a36e-1a0d-413d-ad0f-f78a941d6916",
+      "part-of-speech": "adjective",
+      "english": "full (after eating)",
+      "vietnamese": "no",
+      "cefr": "A2",
+      "ipa": "[nɔ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "061eb634-6e1b-4e40-a7b7-2e5c41346676",
+      "part-of-speech": "adjective",
+      "english": "full (of something)",
+      "vietnamese": "đầy",
+      "cefr": "A2",
+      "ipa": "[ɗəj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cc498304-c9af-4877-93eb-00e5ff3a3591",
+      "part-of-speech": "adjective",
+      "english": "hungry",
+      "vietnamese": "đói",
+      "cefr": "A1",
+      "ipa": "[ɗɔj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74c2e2f3-35b2-4abe-a4f5-c9eb631fd4ec",
+      "part-of-speech": "adjective",
+      "english": "thirsty",
+      "vietnamese": "khát",
+      "cefr": "A1",
+      "ipa": "[xaːt̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea556671-234b-44ab-beb6-b942839e3ae3",
+      "part-of-speech": "adjective",
+      "english": "tired",
+      "vietnamese": "mệt",
+      "cefr": "A1",
+      "ipa": "[met̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3cfadc9b-fd69-4aa4-b79d-db1bf85a6e0b",
+      "part-of-speech": "adjective",
+      "english": "healthy, well, strong",
+      "vietnamese": "khỏe",
+      "cefr": "A1",
+      "ipa": "[xwɛ˧˩]",
+      "context": "anh có khỏe không? how are you?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "af03bd13-1138-4b8d-9347-d0de9a30457e",
+      "part-of-speech": "adjective",
+      "english": "sick, ill",
+      "vietnamese": "ốm",
+      "cefr": "A1",
+      "ipa": "[ʔom˧˦]",
+      "context": "in the South: bệnh (in the South ốm means \"thin\")",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "14b10e47-f652-4196-94c2-96938f7b8330",
+      "part-of-speech": "adjective",
+      "english": "near, close",
+      "vietnamese": "gần",
+      "cefr": "A1",
+      "ipa": "[ɣən˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76d6d468-595c-49b6-83ca-270cd48ccc6c",
+      "part-of-speech": "adjective",
+      "english": "far",
+      "vietnamese": "xa",
+      "cefr": "A1",
+      "ipa": "[saː˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2c5a92b-068f-40df-a114-5eeb642f73f8",
+      "part-of-speech": "adjective",
+      "english": "heavy",
+      "vietnamese": "nặng",
+      "cefr": "A2",
+      "ipa": "[naŋ˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0498a697-b0b0-4386-a603-db14c1803068",
+      "part-of-speech": "adjective",
+      "english": "light (not heavy)",
+      "vietnamese": "nhẹ",
+      "cefr": "A2",
+      "ipa": "[ɲɛ˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad32c9f6-85a0-4b54-a5d3-0a1820d4d7cb",
+      "part-of-speech": "adjective",
+      "english": "bright",
+      "vietnamese": "sáng",
+      "cefr": "A2",
+      "ipa": "[saːŋ˧˦]",
+      "context": "as a noun: morning",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "731a1de2-73ed-4009-bd68-e84bf934b3b8",
+      "part-of-speech": "adjective",
+      "english": "dark",
+      "vietnamese": "tối",
+      "cefr": "A2",
+      "ipa": "[toj˧˦]",
+      "context": "as a noun: evening",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28355486-2fc7-4a8c-9659-94e5fabe8ae6",
+      "part-of-speech": "adjective",
+      "english": "noisy",
+      "vietnamese": "ồn",
+      "cefr": "A2",
+      "ipa": "[ʔon˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ed1dc382-e146-40b6-8f50-2a95098222d7",
+      "part-of-speech": "adjective",
+      "english": "quiet, peaceful",
+      "vietnamese": "yên tĩnh",
+      "cefr": "A2",
+      "ipa": "[ʔiən˧˧ ˈtiŋ̟˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3edf95fe-b982-40cc-9dd0-c67f1257adba",
+      "part-of-speech": "adjective",
+      "english": "hot",
+      "vietnamese": "nóng",
+      "cefr": "A1",
+      "ipa": "[nawŋ͡m˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98c726fe-9947-459c-93c1-7dbf3e04a726",
+      "part-of-speech": "adjective",
+      "english": "cold",
+      "vietnamese": "lạnh",
+      "cefr": "A1",
+      "ipa": "[lajŋ̟˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "057a4616-1dc3-40ca-b9ce-8cf6b7eddabb",
+      "part-of-speech": "adjective",
+      "english": "cool",
+      "vietnamese": "mát",
+      "cefr": "A2",
+      "ipa": "[maːt̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "260d6357-70a6-4b1d-938c-c7ecaf4622fc",
+      "part-of-speech": "adjective",
+      "english": "warm",
+      "vietnamese": "ấm",
+      "cefr": "A2",
+      "ipa": "[ʔəm˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c47a2396-63db-4c9c-b482-9ed218401057",
+      "part-of-speech": "adjective",
+      "english": "delicious, tasty",
+      "vietnamese": "ngon",
+      "cefr": "A1",
+      "ipa": "[ŋɔn˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44416c23-635b-45aa-9017-a1b1cbdd124d",
+      "part-of-speech": "adjective",
+      "english": "sweet",
+      "vietnamese": "ngọt",
+      "cefr": "A2",
+      "ipa": "[ŋɔt̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3780df49-7baf-4ccd-b038-d7d63520f095",
+      "part-of-speech": "adjective",
+      "english": "salty",
+      "vietnamese": "mặn",
+      "cefr": "A2",
+      "ipa": "[man˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "04bb7587-2b4e-4fd9-90ca-c38a360fde46",
+      "part-of-speech": "adjective",
+      "english": "spicy",
+      "vietnamese": "cay",
+      "cefr": "A2",
+      "ipa": "[kaj˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d41c3f9-7b12-49b2-9a8b-2cf57c4f7b39",
+      "part-of-speech": "adjective",
+      "english": "sour",
+      "vietnamese": "chua",
+      "cefr": "A2",
+      "ipa": "[t͡ɕuə˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5276b015-6def-41c3-8604-abcf0cc02823",
+      "part-of-speech": "adjective",
+      "english": "bitter",
+      "vietnamese": "đắng",
+      "cefr": "A2",
+      "ipa": "[ɗaŋ˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46b693c9-4a38-4509-a58c-fbe0073ee3f3",
+      "part-of-speech": "adjective",
+      "english": "expensive",
+      "vietnamese": "đắt",
+      "cefr": "A1",
+      "ipa": "[ɗat̚˧˦]",
+      "context": "in the South: mắc",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "674b5562-86f1-4820-aa5d-3971e5d0aafa",
+      "part-of-speech": "adjective",
+      "english": "cheap, inexpensive",
+      "vietnamese": "rẻ",
+      "cefr": "A1",
+      "ipa": "[zɛ˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "646717d1-30e9-4939-890b-b901e9de197a",
+      "part-of-speech": "adjective",
+      "english": "smart, intelligent",
+      "vietnamese": "thông minh",
+      "cefr": "A2",
+      "ipa": "[tʰəwŋ͡m˧˧ ˈmiŋ̟˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83e6f8b2-fd42-48c5-b721-b0f995dbaacd",
+      "part-of-speech": "adjective",
+      "english": "hardworking",
+      "vietnamese": "chăm chỉ",
+      "cefr": "A2",
+      "ipa": "[t͡ɕam˧˧ ˈt͡ɕi˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "911e2f46-b376-4519-a887-85ae22e5a1c7",
+      "part-of-speech": "adjective",
+      "english": "lazy",
+      "vietnamese": "lười",
+      "cefr": "A2",
+      "ipa": "[lɨəj˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e2dbc8a-c9bf-4d46-a639-8236e529483a",
+      "part-of-speech": "adjective",
+      "english": "kind",
+      "vietnamese": "tốt bụng",
+      "cefr": "A2",
+      "ipa": "[tot̚˧˦ ˈɓuwŋ͡m˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "46daa20c-1ad9-45e9-8fa5-799766f7f643",
+      "part-of-speech": "adjective",
+      "english": "cute, adorable",
+      "vietnamese": "dễ thương",
+      "cefr": "A2",
+      "ipa": "[ze˦ˀ˥ ˈtʰɨəŋ˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5503f630-d86b-4b18-af4d-b747e45bbc05",
+      "part-of-speech": "adjective",
+      "english": "rich",
+      "vietnamese": "giàu",
+      "cefr": "A2",
+      "ipa": "[zaw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8e8a079b-df02-4ba6-9f5f-8810e82891d7",
+      "part-of-speech": "adjective",
+      "english": "poor",
+      "vietnamese": "nghèo",
+      "cefr": "A2",
+      "ipa": "[ŋɛw˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5e02fbb7-5f5a-4be3-b26d-09325f652065",
+      "part-of-speech": "adjective",
+      "english": "crowded",
+      "vietnamese": "đông",
+      "cefr": "A2",
+      "ipa": "[ɗəwŋ͡m˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "069360f2-d427-49f6-a2cc-0411ca46d4c2",
+      "part-of-speech": "adjective",
+      "english": "important",
+      "vietnamese": "quan trọng",
+      "cefr": "A2",
+      "ipa": "[kwaːn˧˧ ˈt͡ɕawŋ͡m˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5f484341-057e-49a7-bd35-8a11f5ccefcc",
+      "part-of-speech": "adjective",
+      "english": "special",
+      "vietnamese": "đặc biệt",
+      "cefr": "A2",
+      "ipa": "[ɗak̚˧˨ʔ ˈɓiət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d12ebea1-7dc2-479b-b008-0c0830640703",
+      "part-of-speech": "adjective",
+      "english": "normal, ordinary",
+      "vietnamese": "bình thường",
+      "cefr": "A2",
+      "ipa": "[ɓiŋ̟˨˩ ˈtʰɨəŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "11b61c28-42ff-46f3-a6ce-1fd304087a1b",
+      "part-of-speech": "adjective",
+      "english": "different, other",
+      "vietnamese": "khác",
+      "cefr": "A2",
+      "ipa": "[xaːk̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b4b796be-4b5d-4d75-962c-0f01b0750c76",
+      "part-of-speech": "adjective",
+      "english": "alike, similar",
+      "vietnamese": "giống",
+      "cefr": "A2",
+      "ipa": "[zəwŋ͡m˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3aabec3e-b0f6-4752-9f35-2db6a71a11dc",
+      "part-of-speech": "adjective",
+      "english": "interesting",
+      "vietnamese": "thú vị",
+      "cefr": "A2",
+      "ipa": "[tʰu˧˦ ˈvi˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "936bd5a0-8146-48ed-ba46-b922b244b22b",
+      "part-of-speech": "adjective",
+      "english": "bored, boring",
+      "vietnamese": "chán",
+      "cefr": "A2",
+      "ipa": "[t͡ɕaːn˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f422e57d-a462-4624-a8a8-f549c928c38f",
+      "part-of-speech": "adjective",
+      "english": "convenient",
+      "vietnamese": "tiện",
+      "cefr": "A2",
+      "ipa": "[tiən˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "947d6b3c-ff2c-444c-b6a2-803d61589f7f",
+      "part-of-speech": "adjective",
+      "english": "dangerous",
+      "vietnamese": "nguy hiểm",
+      "cefr": "A2",
+      "ipa": "[ŋwi˧˧ ˈhiəm˧˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53ca0be3-3571-403a-b3bf-8bd98104ac12",
+      "part-of-speech": "adjective",
+      "english": "safe",
+      "vietnamese": "an toàn",
+      "cefr": "A2",
+      "ipa": "[ʔaːn˧˧ ˈtwaːn˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b5233219-06d9-4fe8-b272-55b58ecdba7f",
+      "part-of-speech": "adjective",
+      "english": "wet",
+      "vietnamese": "ướt",
+      "cefr": "A2",
+      "ipa": "[ʔɨət̚˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "907acf4f-d889-4ccf-a867-05b0f19034d8",
+      "part-of-speech": "adjective",
+      "english": "dry",
+      "vietnamese": "khô",
+      "cefr": "A2",
+      "ipa": "[xo˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "554d1fce-d571-42ad-9689-1acaf9ca4bb1",
+      "part-of-speech": "interjection",
+      "english": "hello",
+      "vietnamese": "xin chào",
+      "cefr": "A1",
+      "ipa": "[sin˧˧ ˈt͡ɕaːw˨˩]",
+      "context": "chào alone is more casual",
+      "register": [
+        "văn chương",
+        "trang trọng",
+        "trung tính"
+      ]
+    },
+    {
+      "id": "302c48dc-cf94-4f23-9948-2553d8321fa9",
+      "part-of-speech": "interjection",
+      "english": "hi, bye",
+      "vietnamese": "chào",
+      "cefr": "A1",
+      "ipa": "[t͡ɕaːw˨˩]",
+      "context": "add the listener's pronoun: chào anh, chào chị",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68273547-3884-42b8-9259-61e07532ed6f",
+      "part-of-speech": "interjection",
+      "english": "goodbye",
+      "vietnamese": "tạm biệt",
+      "cefr": "A1",
+      "ipa": "[taːm˧˨ʔ ˈɓiət̚˧˨ʔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "902e8d42-6913-401e-a603-a10d9dc892cd",
+      "part-of-speech": "interjection",
+      "english": "thank you",
+      "vietnamese": "cảm ơn",
+      "cefr": "A1",
+      "ipa": "[kaːm˧˩ ˈʔəːn˧˧]",
+      "context": "add the listener's pronoun: cảm ơn anh",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a45c0112-fafc-4c6f-a904-9dd78e291705",
+      "part-of-speech": "interjection",
+      "english": "you're welcome",
+      "vietnamese": "không có gì",
+      "cefr": "A1",
+      "ipa": "[xəwŋ͡m˧˧ kɔ˧˦ ˈzi˨˩]",
+      "context": "literally \"it's nothing\"",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7ad94ff4-a9cb-4ae7-8887-ffe4e4b4a391",
+      "part-of-speech": "interjection",
+      "english": "sorry, excuse me",
+      "vietnamese": "xin lỗi",
+      "cefr": "A1",
+      "ipa": "[sin˧˧ ˈloj˦ˀ˥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b2ed2a67-c612-49c2-a6fa-857ebe3a3232",
+      "part-of-speech": "interjection",
+      "english": "yes (polite)",
+      "vietnamese": "vâng",
+      "cefr": "A1",
+      "ipa": "[vəŋ˧˧]",
+      "context": "mainly in the North",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "935db85a-36be-4fb2-9ddf-31dd1c819216",
+      "part-of-speech": "interjection",
+      "english": "yes (respectful)",
+      "vietnamese": "dạ",
+      "cefr": "A1",
+      "ipa": "[zaː˧˨ʔ]",
+      "context": "to elders and customers; also a polite \"yes?\" when called",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "96656bbe-983a-4b55-a9f5-2cd4a5d154f3",
+      "part-of-speech": "interjection",
+      "english": "yeah, uh-huh",
+      "vietnamese": "ừ",
+      "cefr": "A1",
+      "ipa": "[ʔɨ˨˩]",
+      "context": "only with friends, family and people younger than you",
+      "register": [
+        "trung tính",
+        "khẩu ngữ",
+        "thông tục"
+      ]
+    },
+    {
+      "id": "05c14fda-ddae-4ba2-9379-10c64b8eca57",
+      "part-of-speech": "interjection",
+      "english": "it's OK, no problem",
+      "vietnamese": "không sao",
+      "cefr": "A1",
+      "ipa": "[xəwŋ͡m˧˧ ˈsaːw˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "850261cf-9396-4614-9dbb-9c338e303a65",
+      "part-of-speech": "interjection",
+      "english": "OK, fine, all right",
+      "vietnamese": "được",
+      "cefr": "A1",
+      "ipa": "[ɗɨək̚˧˨ʔ]",
+      "context": "được không? is that OK?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7d12fc74-3d8c-4197-9b87-32b88c704300",
+      "part-of-speech": "interjection",
+      "english": "congratulations",
+      "vietnamese": "chúc mừng",
+      "cefr": "A2",
+      "ipa": "[t͡ɕuwk͡p̚˧˦ ˈmɨŋ˨˩]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c8c29a17-119f-4020-b073-dc921dd57f2a",
+      "part-of-speech": "interjection",
+      "english": "Happy New Year",
+      "vietnamese": "chúc mừng năm mới",
+      "cefr": "A1",
+      "ipa": "[t͡ɕuwk͡p̚˧˦ mɨŋ˨˩ nam˧˧ ˈməːj˧˦]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6dc71ba7-8cf6-4b23-a8f0-d6563b6b5050",
+      "part-of-speech": "interjection",
+      "english": "please (asking a favor)",
+      "vietnamese": "làm ơn",
+      "cefr": "A2",
+      "ipa": "[laːm˨˩ ˈʔəːn˧˧]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb9186ed-81f1-4fde-8d2b-0a468a470da5",
+      "part-of-speech": "interjection",
+      "english": "please (go ahead, help yourself)",
+      "vietnamese": "mời",
+      "cefr": "A2",
+      "ipa": "[məːj˨˩]",
+      "context": "mời anh ngồi: please have a seat",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2033ec59-ff19-4ea3-a899-70365b165bb2",
+      "part-of-speech": "interjection",
+      "english": "hey (to call someone)",
+      "vietnamese": "ơi",
+      "cefr": "A1",
+      "ipa": "[ʔəːj˧˧]",
+      "context": "after the name or pronoun: anh ơi! em ơi!",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "243b2c09-f688-4331-ab28-57c3d2675e99",
+      "part-of-speech": "interjection",
+      "english": "oh, oh my",
+      "vietnamese": "ôi",
+      "cefr": "A2",
+      "ipa": "[ʔoj˧˧]",
+      "register": [
+        "All"
+      ]
+    }
+  ]
+}
