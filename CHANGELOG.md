@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.45.1 — 2026-11-16
+- Vietnamese tones are now drawn the way Chinese tones are: a small colored contour line above each syllable of the pronunciation, with six shapes for ngang, huyền, sắc, hỏi, ngã and nặng. The Browse table shows them as pitch bars after each syllable
+- The Vietnamese Pronunciation Guide's tone section shows the six contour lines, each with an example word
+
 ## 1.44.0 — 2026-11-16
 - New language: Vietnamese — 627 A1–A2 words (355 A1, 272 A2) with Hanoi pronunciations in exact IPA, including each syllable's tone, classifiers in the notes (con, cái, chiếc, quyển, tờ), and the Southern word where it differs (heo, ba, má, ly …)
 - Vietnamese Pronunciation Guide: the six tones, vowels, initial consonants, unreleased endings, Northern vs. Southern sounds, and a key to the symbols

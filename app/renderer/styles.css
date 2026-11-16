@@ -877,7 +877,7 @@ html, body {
   opacity: 1;
 }
 
-/* ── Tone glyphs (Mandarin) ──────────────────────────
+/* ── Tone glyphs (Mandarin, Vietnamese) ──────────────────────────
    A contour sparkline over each syllable's IPA, colored per tone — the
    character conveys meaning, not sound, so this lives with the
    pronunciation text instead. */
@@ -899,6 +899,9 @@ html, body {
 .tone-syllable svg {
   display: block;
 }
+
+/* Vietnamese writes each syllable apart, so its syllables keep a space. */
+.tone-bracket-spaced > .tone-syllable + .tone-syllable { margin-left: 0.45em; }
 
 .word-ipa .tone-bracket { font-size: 1.1rem; }
 .choice-tooltip .tone-bracket { color: #fff; }
