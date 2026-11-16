@@ -198,11 +198,11 @@
     {
       "id": "1855eb26-561c-448a-b829-2ddd1e0723db",
       "part-of-speech": "adverb",
-      "english": "more, -er (comparing qualities)",
-      "french": "plus",
+      "english": "more + adjective",
+      "french": "plus + adjective",
       "cefr": "A1",
       "ipa": "/ply/",
-      "context": "plus grand: bigger; plus vite: faster; before a vowel the s links as z: plus âgé /ply.z‿a.ʒe/",
+      "context": "plus grand: bigger; plus difficile: more difficult; also before adverbs: plus vite, faster; before a vowel the s links as z: plus âgé /ply.z‿a.ʒe/",
       "register": [
         "All"
       ]
@@ -210,8 +210,8 @@
     {
       "id": "c6704ccd-9de2-4903-96db-024ad0bb5a41",
       "part-of-speech": "adverb",
-      "english": "more (an amount)",
-      "french": "plus",
+      "english": "verb + more",
+      "french": "verb + plus",
       "cefr": "A1",
       "ipa": "/plys/",
       "context": "il travaille plus: he works more; j'en veux plus: I want more",
@@ -234,8 +234,8 @@
     {
       "id": "6181ab90-e39f-4010-ab8f-9773c247a186",
       "part-of-speech": "adverb",
-      "english": "no more (of)",
-      "french": "plus de",
+      "english": "no more + noun",
+      "french": "plus de + noun",
       "cefr": "A2",
       "ipa": "/ply də/",
       "context": "Plus de pain ! (no more bread!), short for il n'y a plus de pain",
@@ -246,8 +246,8 @@
     {
       "id": "5e2d9432-faa7-4b91-8e91-256420814991",
       "part-of-speech": "adverb",
-      "english": "more (of)",
-      "french": "plus de",
+      "english": "more + noun",
+      "french": "plus de + noun",
       "cefr": "A2",
       "ipa": "/plys də/",
       "context": "Plus de pain ! (more bread!)",
@@ -299,8 +299,8 @@
     {
       "id": "fe29fc02-145c-41b3-a6f2-dde78b42f2ab",
       "part-of-speech": "adverb",
-      "english": "-er than, more … than",
-      "french": "plus … que",
+      "english": "more + adjective + than",
+      "french": "plus + adjective + que",
       "cefr": "A2",
       "ipa": "/ply … kə/",
       "context": "plus grand que moi: taller than me; plus intéressant que le film: more interesting than the movie",
@@ -311,8 +311,8 @@
     {
       "id": "671744d4-65bc-4169-99b3-bec6b3b0864c",
       "part-of-speech": "adverb",
-      "english": "more than (an amount)",
-      "french": "plus que",
+      "english": "verb + more than",
+      "french": "verb + plus que",
       "cefr": "A2",
       "ipa": "/plys kə/",
       "context": "il travaille plus que moi: he works more than me",
@@ -347,8 +347,8 @@
     {
       "id": "659ab0e4-f9da-4fe1-ab26-ec14358c07a4",
       "part-of-speech": "adverb",
-      "english": "increasingly, -er and -er",
-      "french": "de plus en plus",
+      "english": "more and more + adjective",
+      "french": "de plus en plus + adjective",
       "cefr": "A2",
       "ipa": "/də ply.z‿ɑ̃ ply/",
       "context": "de plus en plus grand: bigger and bigger; de plus en plus difficile: more and more difficult",
@@ -359,11 +359,192 @@
     {
       "id": "4fd8e1db-5957-4b13-af05-dc24157b6ce1",
       "part-of-speech": "adverb",
-      "english": "more and more (an amount)",
-      "french": "de plus en plus",
+      "english": "verb + more and more",
+      "french": "verb + de plus en plus",
       "cefr": "A2",
       "ipa": "/də ply.z‿ɑ̃ plys/",
       "context": "il mange de plus en plus: he eats more and more",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "40597eca-9241-4c90-8298-0c9310b33ce7",
+      "part-of-speech": "adverb",
+      "english": "the most + adjective",
+      "french": "le plus + adjective",
+      "cefr": "A2",
+      "ipa": "/lə ply/",
+      "context": "le plus grand: the biggest; le plus difficile: the most difficult; before a vowel the s links as z: le plus âgé /lə ply.z‿a.ʒe/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e53c1860-6b47-4aef-aca2-b4b5f5c84af1",
+      "part-of-speech": "adverb",
+      "english": "verb + the most",
+      "french": "verb + le plus",
+      "cefr": "A2",
+      "ipa": "/lə plys/",
+      "context": "c'est lui qui travaille le plus: he's the one who works the most",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bd168bfa-c19c-4890-902f-25fab62d02c5",
+      "part-of-speech": "adverb",
+      "english": "in addition, on top of that",
+      "french": "en plus",
+      "cefr": "A2",
+      "ipa": "/ɑ̃ plys/",
+      "context": "en plus, il pleut: on top of that, it's raining",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "702ef942-0d13-45ad-a910-f3d7c1fd73d6",
+      "part-of-speech": "adverb",
+      "english": "furthermore, moreover",
+      "french": "de plus",
+      "cefr": "B1",
+      "ipa": "/də plys/",
+      "context": "also: one more, extra (un jour de plus: one more day)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cdcf5a44-9bc0-484e-a7de-42ddcb62fca3",
+      "part-of-speech": "conjunction",
+      "english": "plus (in arithmetic)",
+      "french": "plus",
+      "cefr": "A1",
+      "ipa": "/plys/",
+      "context": "deux plus deux font quatre: two plus two is four",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bc9655fd-6831-406a-81e7-0f5f41d8082f",
+      "part-of-speech": "adverb",
+      "english": "more or less, somewhat",
+      "french": "plus ou moins",
+      "cefr": "A2",
+      "ipa": "/ply.z‿u mwɛ̃ | plys u mwɛ̃/",
+      "context": "c'est plus ou moins vrai: it's somewhat true; plus ou moins dix personnes: roughly ten people; the two pronunciations are interchangeable",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b9c9546-22ba-4df5-8a6a-38968139ebea",
+      "part-of-speech": "adverb",
+      "english": "more or less + noun (a choice of amount)",
+      "french": "plus ou moins de + noun",
+      "cefr": "A2",
+      "ipa": "/plys u mwɛ̃ də/",
+      "context": "tu veux plus ou moins de sucre ? do you want more or less sugar?",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bfd0a82-503e-45ac-b3ad-9b96d4dec8f2",
+      "part-of-speech": "adverb",
+      "english": "at most",
+      "french": "tout au plus",
+      "cefr": "B1",
+      "ipa": "/tu.t‿o plys/",
+      "context": "deux heures tout au plus: two hours at most",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c84c0f0a-2089-4a6e-908d-f873eaa79c94",
+      "part-of-speech": "adverb",
+      "english": "nothing more, just OK",
+      "french": "sans plus",
+      "cefr": "B2",
+      "ipa": "/sɑ̃ plys/",
+      "context": "c'était bien, sans plus: it was fine, nothing more",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "83b3ddb7-a9ec-4436-a8f8-08eca9bb4486",
+      "part-of-speech": "conjunction",
+      "english": "the more …, the more …",
+      "french": "plus …, plus …",
+      "cefr": "B1",
+      "ipa": "/plys … plys/",
+      "context": "plus je travaille, plus je gagne: the more I work, the more I earn",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0d4b355-87ce-4d4d-92b8-0448e4d242cf",
+      "part-of-speech": "adverb",
+      "english": "all the more",
+      "french": "d'autant plus",
+      "cefr": "B2",
+      "ipa": "/do.tɑ̃ plys/",
+      "context": "c'est d'autant plus important: it's all the more important",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3bf95beb-764c-4265-a8be-b3aba39cdae3",
+      "part-of-speech": "adverb",
+      "english": "as soon as possible",
+      "french": "au plus vite",
+      "cefr": "B1",
+      "ipa": "/o ply vit/",
+      "context": "réponds au plus vite: answer as soon as possible",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "28d29a04-99a7-41f9-ac04-3b9b97f445f4",
+      "part-of-speech": "adverb",
+      "english": "at the latest",
+      "french": "au plus tard",
+      "cefr": "B1",
+      "ipa": "/o ply taʁ/",
+      "context": "lundi au plus tard: by Monday at the latest",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4b1a01b8-8fc1-4aa8-b27f-4b2811f05525",
+      "part-of-speech": "noun",
+      "english": "pluperfect (past perfect tense)",
+      "french": "plus-que-parfait",
+      "gender": "masculine",
+      "cefr": "B1",
+      "ipa": "/plys.kə.paʁ.fɛ/",
+      "context": "j'avais mangé: I had eaten",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ccbd26e-bdb1-4226-b8dd-d95c61d208fa",
+      "part-of-speech": "adverb",
+      "english": "hardly … anymore",
+      "french": "ne … plus guère",
+      "cefr": "C1",
+      "ipa": "/nə … ply ɡɛʁ/",
+      "context": "goes around the verb: il ne sort plus guère (he hardly goes out anymore); mainly written",
       "register": [
         "All"
       ]
@@ -1456,6 +1637,150 @@
       "gender": "masculine",
       "cefr": "B1",
       "ipa": "/mwɛ̃/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad01c88d-51c5-4e83-8f10-d5654c78aa01",
+      "part-of-speech": "adverb",
+      "english": "less + adjective",
+      "french": "moins + adjective",
+      "cefr": "A1",
+      "ipa": "/mwɛ̃/",
+      "context": "moins cher: cheaper, less expensive; also before adverbs: moins vite, less quickly; before a vowel the s links as z: moins important /mwɛ̃.z‿ɛ̃.pɔʁ.tɑ̃/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "35ed310b-7899-4592-bfa9-d2936c8468aa",
+      "part-of-speech": "adverb",
+      "english": "verb + less",
+      "french": "verb + moins",
+      "cefr": "A2",
+      "ipa": "/mwɛ̃/",
+      "context": "il travaille moins: he works less",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c46930e7-768b-4c44-9c04-f8590840a4c5",
+      "part-of-speech": "adverb",
+      "english": "less + noun, fewer + noun",
+      "french": "moins de + noun",
+      "cefr": "A2",
+      "ipa": "/mwɛ̃ də/",
+      "context": "moins de sucre: less sugar; moins de gens: fewer people",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b3859b3d-f892-4ef6-946c-282153ed5d63",
+      "part-of-speech": "adverb",
+      "english": "less + adjective + than",
+      "french": "moins + adjective + que",
+      "cefr": "A2",
+      "ipa": "/mwɛ̃ … kə/",
+      "context": "moins cher que l'autre: cheaper than the other one",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "463b9994-492f-41c0-bc2d-63e2d748c170",
+      "part-of-speech": "adverb",
+      "english": "verb + less than",
+      "french": "verb + moins que",
+      "cefr": "A2",
+      "ipa": "/mwɛ̃ kə/",
+      "context": "il gagne moins que moi: he earns less than me",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "eebeb3fe-6fe5-4100-a2fd-a9491323416e",
+      "part-of-speech": "adverb",
+      "english": "the least + adjective",
+      "french": "le moins + adjective",
+      "cefr": "B1",
+      "ipa": "/lə mwɛ̃/",
+      "context": "le moins cher: the cheapest, the least expensive",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "df3f9945-3b63-4edf-bf3c-84397182ccfc",
+      "part-of-speech": "adverb",
+      "english": "verb + the least",
+      "french": "verb + le moins",
+      "cefr": "B1",
+      "ipa": "/lə mwɛ̃/",
+      "context": "c'est elle qui mange le moins: she's the one who eats the least",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92ccf5dc-57f3-4484-97f3-8f87432bb3c8",
+      "part-of-speech": "adverb",
+      "english": "less and less",
+      "french": "de moins en moins",
+      "cefr": "B1",
+      "ipa": "/də mwɛ̃.z‿ɑ̃ mwɛ̃/",
+      "context": "il pleut de moins en moins: it rains less and less; de moins en moins cher: cheaper and cheaper",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "205e6604-c14d-4e77-89e6-48e8d5baeefd",
+      "part-of-speech": "adverb",
+      "english": "at least",
+      "french": "au moins",
+      "cefr": "A2",
+      "ipa": "/o mwɛ̃/",
+      "context": "au moins dix euros: at least ten euros",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f8d2e9c-9009-4ad9-b91c-99dfe57a7e16",
+      "part-of-speech": "adverb",
+      "english": "at least, at any rate (correcting what was said)",
+      "french": "du moins",
+      "cefr": "B2",
+      "ipa": "/dy mwɛ̃/",
+      "context": "il est riche, du moins c'est ce qu'il dit: he's rich, or at least that's what he says",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9967ce28-36df-4f4c-8532-01b206bc9567",
+      "part-of-speech": "conjunction",
+      "english": "unless",
+      "french": "à moins que",
+      "cefr": "B1",
+      "ipa": "/a mwɛ̃ kə/",
+      "context": "takes the subjunctive, often with ne: à moins qu'il ne pleuve (unless it rains)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "093a5db1-7444-4518-af03-485ba472d401",
+      "part-of-speech": "conjunction",
+      "english": "minus (in arithmetic)",
+      "french": "moins",
+      "cefr": "A1",
+      "ipa": "/mwɛ̃/",
+      "context": "dix moins trois font sept: ten minus three is seven",
       "register": [
         "All"
       ]
@@ -20540,7 +20865,7 @@
     {
       "id": "9da0effa-0d30-44c5-a4e4-359edadf37a3",
       "part-of-speech": "adjective",
-      "english": "sad; saddened",
+      "english": "truly sorry",
       "french": "navré",
       "cefr": "B1",
       "ipa": "/na.vʁe/",
@@ -20663,8 +20988,8 @@
     {
       "id": "d2232d14-7477-48a0-a618-6de9429067ec",
       "part-of-speech": "adverb",
-      "english": "not anymore",
-      "french": "même plus de",
+      "english": "not even any + noun + anymore",
+      "french": "même plus de + noun",
       "cefr": "B1",
       "ipa": "/mɛm ply də/",
       "context": "Il n'y a même plus de pain (there isn't even any bread left)",
@@ -20675,8 +21000,8 @@
     {
       "id": "1db51b46-8676-4ed5-86a4-5b2d454a8acd",
       "part-of-speech": "adverb",
-      "english": "even more",
-      "french": "même plus de",
+      "english": "even more + noun",
+      "french": "même plus de + noun",
       "cefr": "B1",
       "ipa": "/mɛm plys də/",
       "context": "Il faut même plus de temps (it takes even more time)",

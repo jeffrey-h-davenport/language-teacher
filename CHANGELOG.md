@@ -1,5 +1,34 @@
 # Changelog
 
+## 1.44.0 — 2026-11-16
+- New language: Vietnamese — 627 A1–A2 words (355 A1, 272 A2) with Hanoi pronunciations in exact IPA, including each syllable's tone, classifiers in the notes (con, cái, chiếc, quyển, tờ), and the Southern word where it differs (heo, ba, má, ly …)
+- Vietnamese Pronunciation Guide: the six tones, vowels, initial consonants, unreleased endings, Northern vs. Southern sounds, and a key to the symbols
+- Vietnamese registers from Hoàng Phê's Từ điển tiếng Việt: văn chương (literary), trang trọng (formal), trung tính (neutral), khẩu ngữ (colloquial), thông tục (vulgar), plus phương ngữ (regional)
+
+## 1.43.10 — 2026-11-15
+- French: navré now means "truly sorry"
+
+## 1.43.9 — 2026-11-15
+- French: plus ou moins now means "more or less, somewhat", with examples for both uses (plus ou moins vrai: somewhat true; plus ou moins dix personnes: roughly ten people)
+
+## 1.43.8 — 2026-11-15
+- French: added moins "less" in all its common uses, in the same slot pattern as plus — moins + adjective, verb + moins, moins de + noun (less/fewer), moins + adjective + que, verb + moins que, le moins + adjective, verb + le moins, de moins en moins, au moins "at least", du moins "at least, at any rate", à moins que "unless", and moins in arithmetic "minus". Previously the list had only the noun "the minus sign"
+
+## 1.43.7 — 2026-11-15
+- French: plus ou moins is now "more or less, approximately", with a note that its two pronunciations are interchangeable; new entry plus ou moins de + noun "more or less + noun (a choice of amount)" /plys u mwɛ̃ də/ (tu veux plus ou moins de sucre ?)
+
+## 1.43.6 — 2026-11-15
+- French: every amount use of plus now names its slot, like the comparative ones — verb + plus "verb + more" /plys/, plus de + noun "more + noun" /plys/ and "no more + noun" /ply/, verb + plus que, verb + le plus, verb + de plus en plus, même plus de + noun — so quiz choices such as plus and plus de can no longer share a meaning like "more (an amount)"
+
+## 1.43.5 — 2026-11-15
+- French: added au plus tard "at the latest" /o ply taʁ/ (B1), plus-que-parfait "pluperfect" /plys.kə.paʁ.fɛ/ (B1) and ne … plus guère "hardly … anymore" /nə … ply ɡɛʁ/ (C1)
+
+## 1.43.4 — 2026-11-15
+- French: entries for the remaining common uses of plus, each with its own pronunciation — le plus + adjective "the most + adjective" /lə ply/ and le plus "the most (an amount)" /lə plys/, en plus "in addition", de plus "furthermore", plus in arithmetic, plus ou moins "more or less", tout au plus "at most", sans plus "nothing more", plus …, plus … "the more …, the more …", d'autant plus "all the more", au plus vite "as soon as possible"
+
+## 1.43.3 — 2026-11-15
+- French: the comparative uses of plus now say where they apply — "plus + adjective" = "more + adjective" /ply/, "de plus en plus + adjective" = "more and more + adjective", "plus + adjective + que" = "more + adjective + than" — alongside the amount entries (plus, de plus en plus, plus que), which keep the plain form
+
 ## 1.43.2 — 2026-11-15
 - French: de plus en plus is now two entries like plus — "increasingly, -er and -er" /də ply.z‿ɑ̃ ply/ (de plus en plus grand, bigger and bigger) and "more and more (an amount)" /də ply.z‿ɑ̃ plys/ (il mange de plus en plus)
 - French: added plus … que "-er than, more … than" /ply … kə/ (plus grand que moi) and plus que "more than (an amount)" /plys kə/ (il travaille plus que moi)

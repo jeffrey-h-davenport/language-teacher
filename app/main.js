@@ -52,6 +52,7 @@ const LANGUAGE_INFO = {
   swedish: { language: 'Swedish', languageCode: 'sv' },
   turkish: { language: 'Turkish', languageCode: 'tr' },
   ukrainian: { language: 'Ukrainian', languageCode: 'uk' },
+  vietnamese: { language: 'Vietnamese', languageCode: 'vi' },
 }
 
 function capitalize(s) { return s.charAt(0).toUpperCase() + s.slice(1) }

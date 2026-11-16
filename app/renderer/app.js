@@ -239,7 +239,7 @@ const ARTICLES = {
 // each language's own established system, taken from the usage labels of its
 // standard dictionary (Duden, Le Robert, DLE, SSJČ, Kielitoimiston sanakirja,
 // Svensk ordbok, NAOB, Den Danske Ordbog, Van Dale, Treccani, Priberam, PWN,
-// Ozhegov, SUM, DEX, HJP, ÉrtSz, TDK, KBBI, 現代漢語詞典, 표준국어대사전 …).
+// Ozhegov, SUM, DEX, HJP, ÉrtSz, TDK, KBBI, 現代漢語詞典, 표준국어대사전, Hoàng Phê's Từ điển tiếng Việt …).
 // Each value is stored on words in the language's own term and carries an
 // English gloss for the editor, the Browse filter and card tooltips.
 // 'All' is universal and always prepended — it's the default, and selecting
@@ -297,6 +297,8 @@ const REGISTER_OPTIONS = {
   'ja': [['文語', 'literary'], ['尊敬語', 'honorific'], ['謙譲語', 'humble'], ['丁寧語', 'polite'], ['普通', 'neutral'],
          ['くだけた', 'casual'], ['俗語', 'slang'], ['卑語', 'vulgar']],
   'ko': [['문어', 'written'], ['높임말', 'honorific'], ['예사말', 'neutral'], ['구어', 'spoken'], ['속어', 'slang'], ['비속어', 'vulgar']],
+  'vi': [['văn chương', 'literary'], ['trang trọng', 'formal'], ['trung tính', 'neutral'], ['khẩu ngữ', 'colloquial'],
+         ['thông tục', 'vulgar, coarse'], ['phương ngữ', 'regional']],
   'zh': [['书面语', 'written, formal'], ['敬辞', 'honorific'], ['谦辞', 'humble'], ['中性', 'neutral'], ['口语', 'colloquial'],
          ['方言', 'dialect'], ['俚语', 'slang'], ['詈语', 'abusive']],
 }
@@ -310,10 +312,10 @@ const REGISTER_NEUTRAL = {
   de: 'normalsprachlich', fr: 'courant', es: 'estándar', pt: 'corrente', it: 'neutro', ro: 'neutru', nl: 'neutraal',
   sv: 'neutralt', no: 'nøytralt', da: 'neutralt', fi: 'yleiskieli', cs: 'spisovná', pl: 'neutralny', ru: 'нейтральное',
   uk: 'нейтральне', sh: 'neutralni', hu: 'semleges', tr: 'standart', ar: 'محايد', he: 'תקני', hi: 'मानक', mr: 'प्रमाण',
-  bn: 'চলিত', id: 'baku', sw: 'sanifu', ja: '普通', ko: '예사말', zh: '中性',
+  bn: 'চলিত', id: 'baku', sw: 'sanifu', ja: '普通', ko: '예사말', zh: '中性', vi: 'trung tính',
 }
 const REGISTER_CATEGORIES = {
-  ja: ['尊敬語', '謙譲語'], ko: ['높임말'], zh: ['敬辞', '谦辞', '方言'], bn: ['আঞ্চলিক'],
+  ja: ['尊敬語', '謙譲語'], ko: ['높임말'], zh: ['敬辞', '谦辞', '方言'], bn: ['আঞ্চলিক'], vi: ['phương ngữ'],
 }
 // A word's registers as shown on a card: a contiguous run on the scale is
 // written as its two ends ("umgangssprachlich – vulgär"), categories after.
