@@ -2834,6 +2834,431 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "bdda9ba8-6672-49a4-bc3e-0cd24394ebcd",
+      "part-of-speech": "adverb",
+      "english": "together",
+      "korean": "함께",
+      "cefr": "A1",
+      "ipa": "/hamk͈e/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bd2c2a2-c811-44c1-b924-55c07b5b033d",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "korean": "걷다",
+      "cefr": "A1",
+      "ipa": "/kʌtta/",
+      "register": [
+        "All"
+      ],
+      "context": "걸어서: on foot"
+    },
+    {
+      "id": "f3c368a2-02ba-45cd-8514-ca425e03ada0",
+      "part-of-speech": "noun",
+      "english": "road, way",
+      "korean": "길",
+      "cefr": "A1",
+      "ipa": "/kil/",
+      "register": [
+        "All"
+      ],
+      "context": "가는 길에: on the way"
+    },
+    {
+      "id": "1fb863f5-bfb6-495e-b37e-f9031e3634da",
+      "part-of-speech": "noun",
+      "english": "store, shop",
+      "korean": "가게",
+      "cefr": "A1",
+      "ipa": "/kake/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "68244eeb-e5a5-4d01-acbd-7d78b9bf8eb2",
+      "part-of-speech": "noun",
+      "english": "front",
+      "korean": "앞",
+      "cefr": "A1",
+      "ipa": "/ap/",
+      "register": [
+        "All"
+      ],
+      "context": "가게 앞: in front of the store"
+    },
+    {
+      "id": "7688e82e-2c18-4871-92cd-4d9cafd71dd3",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "korean": "지나가다",
+      "cefr": "A2",
+      "ipa": "/tɕinakata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "23e9b75d-56eb-46e0-b10a-8a1e7970c4b8",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "korean": "항상",
+      "cefr": "A1",
+      "ipa": "/haŋsaŋ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dce59b77-9a9d-47aa-ab55-f8189202d8b9",
+      "part-of-speech": "pronoun",
+      "english": "there",
+      "korean": "거기",
+      "cefr": "A1",
+      "ipa": "/kʌki/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5e81f3f-4e6b-4af8-9bbc-2d583986192c",
+      "part-of-speech": "verb",
+      "english": "to stop by, to drop in",
+      "korean": "들르다",
+      "cefr": "A2",
+      "ipa": "/tɯllɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "839643e5-f7a4-43d1-a888-dfaf98e20f5d",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "korean": "탄산음료",
+      "cefr": "A2",
+      "ipa": "/tʰansanɯmnjo/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "22efdfc8-3772-4998-a77f-08a86c9e5443",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "korean": "감자칩",
+      "cefr": "A2",
+      "ipa": "/kamtɕatɕʰip/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5fc64a1-aaed-4262-8a8d-13a236d3f8ee",
+      "part-of-speech": "pronoun",
+      "english": "oneself, one's own",
+      "korean": "자기",
+      "cefr": "A2",
+      "ipa": "/tɕaki/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "90a7023e-34a3-4ed3-9685-2124d84838a8",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "korean": "개",
+      "cefr": "A1",
+      "ipa": "/kɛ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee4c37ab-679d-4012-ba26-38a08a50162b",
+      "part-of-speech": "adverb",
+      "english": "very",
+      "korean": "아주",
+      "cefr": "A1",
+      "ipa": "/atɕu/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "86ff66af-a79d-463a-bd96-2f8285a50bcb",
+      "part-of-speech": "noun",
+      "english": "fur, hair (of an animal)",
+      "korean": "털",
+      "cefr": "A2",
+      "ipa": "/tʰʌl/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9181cec2-5cd8-4617-88d0-7104a95a0240",
+      "part-of-speech": "adjective",
+      "english": "white",
+      "korean": "하얗다",
+      "cefr": "A1",
+      "ipa": "/hajatʰa/",
+      "register": [
+        "All"
+      ],
+      "context": "before a noun: 하얀"
+    },
+    {
+      "id": "7eba2a33-01ab-42e4-80ac-97e43fd84b84",
+      "part-of-speech": "noun",
+      "english": "female (animal)",
+      "korean": "암컷",
+      "cefr": "A2",
+      "ipa": "/amkʰʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fe407a6b-736f-44e2-a342-e220f3e0e5cf",
+      "part-of-speech": "noun",
+      "english": "male (animal)",
+      "korean": "수컷",
+      "cefr": "A2",
+      "ipa": "/sukʰʌt/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "56711b2c-b115-4bba-9ab7-8a4a5742d82c",
+      "part-of-speech": "adjective",
+      "english": "young",
+      "korean": "어리다",
+      "cefr": "A2",
+      "ipa": "/ʌrita/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "915c52ff-2387-41ac-a5e1-aa888c17eb1f",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "korean": "병원",
+      "cefr": "A1",
+      "ipa": "/pjʌŋwʌn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d3bfa597-053d-4c9e-97ef-b528704d3e36",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "korean": "간호사",
+      "cefr": "A1",
+      "ipa": "/kanhosa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c2631ece-b38b-43c1-ac40-e0aa662f8cb2",
+      "part-of-speech": "adjective",
+      "english": "sick; painful",
+      "korean": "아프다",
+      "cefr": "A1",
+      "ipa": "/apʰɯta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e0d387b6-6744-46b9-9509-19dab6bba6d4",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "korean": "돕다",
+      "cefr": "A1",
+      "ipa": "/topta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ab2297df-8e2f-4e76-b184-ca35120a4694",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "korean": "환자",
+      "cefr": "A2",
+      "ipa": "/hwantɕa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f168147f-3a4f-4b6e-a526-6c938d2e3752",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "korean": "낫다",
+      "cefr": "A2",
+      "ipa": "/natta/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0aed7d0d-6df1-4720-b260-a4542e75817c",
+      "part-of-speech": "noun",
+      "english": "doctor",
+      "korean": "의사",
+      "cefr": "A1",
+      "ipa": "/ɯisa/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "241789ee-8039-46ba-a5b6-84762ef92b14",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "korean": "약",
+      "cefr": "A1",
+      "ipa": "/jak/",
+      "register": [
+        "All"
+      ],
+      "context": "약을 먹다: to take medicine"
+    },
+    {
+      "id": "6ba74a20-111c-472a-9a35-d6c68524bb64",
+      "part-of-speech": "adverb",
+      "english": "well",
+      "korean": "잘",
+      "cefr": "A1",
+      "ipa": "/tɕal/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fa9ab128-aad4-4b8f-9d63-1de62e384ff6",
+      "part-of-speech": "adverb",
+      "english": "surely, without fail",
+      "korean": "꼭",
+      "cefr": "A2",
+      "ipa": "/k͈ok/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bbb2bd6-0277-4504-bc46-72fa8f15382e",
+      "part-of-speech": "verb",
+      "english": "to check, to make sure",
+      "korean": "확인하다",
+      "cefr": "A2",
+      "ipa": "/hwakinhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0d2674ee-5464-4186-b605-89e725727c54",
+      "part-of-speech": "noun",
+      "english": "software",
+      "korean": "소프트웨어",
+      "cefr": "A2",
+      "ipa": "/sopʰɯtʰɯwɛʌ/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee73e2c2-2bb1-484a-a117-6917e16965a3",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "korean": "테스트하다",
+      "cefr": "A2",
+      "ipa": "/tʰesɯtʰɯhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ee2c30d7-97fc-44ed-a089-aa0f5c6eaaa3",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "korean": "사용하다",
+      "cefr": "A2",
+      "ipa": "/sajoŋhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a780d1c5-5727-4283-905f-bfeb3d570550",
+      "part-of-speech": "noun",
+      "english": "before",
+      "korean": "전",
+      "cefr": "A1",
+      "ipa": "/tɕʌn/",
+      "register": [
+        "All"
+      ],
+      "context": "하기 전에: before doing"
+    },
+    {
+      "id": "45ffc02b-9b0b-42a8-8a55-7f8049934e5f",
+      "part-of-speech": "adverb",
+      "english": "properly",
+      "korean": "제대로",
+      "cefr": "A2",
+      "ipa": "/tɕetɛro/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77eafd5a-6a24-4bcf-9200-3c6ec56b4df9",
+      "part-of-speech": "verb",
+      "english": "to work, to operate",
+      "korean": "작동하다",
+      "cefr": "A2",
+      "ipa": "/tɕakt͈oŋhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b64aeb2-dcf1-4e3b-9efb-2510898902fb",
+      "part-of-speech": "adjective",
+      "english": "careful, meticulous",
+      "korean": "꼼꼼하다",
+      "cefr": "A2",
+      "ipa": "/k͈omk͈omhata/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e2ac24aa-30e3-45dd-bc71-e26c4092a57f",
+      "part-of-speech": "adjective",
+      "english": "thorough",
+      "korean": "철저하다",
+      "cefr": "A2",
+      "ipa": "/tɕʰʌltɕʌhata/",
+      "register": [
+        "All"
+      ],
+      "context": "철저하게: thoroughly"
     }
   ]
 }

@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "language": "Italian",
+    "languageCode": "it",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Il venerdì va a scuola con i suoi amici. Vanno a scuola a piedi e passano davanti al negozio. Si fermano sempre lì e comprano bibite e patatine. Mangiano e bevono mentre vanno a scuola.",
+      "questions": [
+        {
+          "question": "Quando va a scuola con i suoi amici?",
+          "choices": [
+            "Il lunedì",
+            "Il venerdì",
+            "La domenica",
+            "Ogni giorno"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Come vanno a scuola?",
+          "choices": [
+            "In autobus",
+            "In macchina",
+            "In bicicletta",
+            "A piedi"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Che cosa comprano al negozio?",
+          "choices": [
+            "Bibite e patatine",
+            "Pane e latte",
+            "Frutta e succo",
+            "Caffè e torta"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Dove mangiano e bevono?",
+          "choices": [
+            "A scuola",
+            "A casa",
+            "Mentre vanno a scuola",
+            "Nel negozio"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "il": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "venerdì": "3c297f4d-6447-4bc0-8d22-03f6f4e33fe1",
+        "va": "13da0427-1c68-4a82-b992-c346bdc859b4",
+        "a": "6bef17f5-a5f4-4ef4-b592-36af6cead3f9",
+        "scuola": "67bd5b9d-b4ea-4f8d-9ac6-863e29358cd5",
+        "con": "5460cc21-c6ba-4c2f-ad52-8ff27659fa94",
+        "i": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "suoi": "ed2e5544-cef8-49b0-8047-43a15d6058d4",
+        "amici": "b8ab379f-8dba-47a0-bbee-7a6f82a70430",
+        "vanno": "13da0427-1c68-4a82-b992-c346bdc859b4",
+        "piedi": "7a525218-b77d-43d5-bf4c-ad9aa02929b6",
+        "e": "04935b2b-2c8b-4e5b-ae12-7aeee82364ea",
+        "passano": "11160b68-6122-44c8-9fea-8154edf45b10",
+        "davanti": "0e28ac0d-6f79-47ce-94ba-5bf282d062bb",
+        "al": "6bef17f5-a5f4-4ef4-b592-36af6cead3f9",
+        "negozio": "edea25f3-ac5a-4f33-8572-01890d2a7af1",
+        "si": "c92583ec-6739-44f1-905d-8ed309199f31",
+        "fermano": "e7573628-04a6-4672-8ed0-5e3e000b69f2",
+        "sempre": "618e5985-c0e8-4790-b7ba-57f4ce248485",
+        "lì": "9e2eb54f-d7a8-48f4-bf2a-dc7b07178861",
+        "comprano": "dfd62c07-9a40-4c19-a734-fb6b6856d454",
+        "bibite": "23034194-4eee-4623-8213-2cafea80fe5a",
+        "patatine": "b077c22f-6e47-4e3c-88ee-70db67cfe147",
+        "mangiano": "663ba394-e445-4c18-8be7-ce657019fb63",
+        "bevono": "3dc00288-4e74-489b-afbc-31109084ca08",
+        "mentre": "24aa895a-0dcb-4565-bd1b-8bfd38617dd4"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Lei ama i suoi cani. Ha una cagna grande con il pelo lungo e bianco. Ha anche un cane maschio piccolo con il pelo corto e marrone. La cagna è più giovane del cane maschio.",
+      "questions": [
+        {
+          "question": "Quanti cani ha?",
+          "choices": [
+            "Uno",
+            "Tre",
+            "Due",
+            "Quattro"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Di che colore è il pelo della cagna?",
+          "choices": [
+            "Bianco",
+            "Marrone",
+            "Nero",
+            "Grigio"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Com'è il cane maschio?",
+          "choices": [
+            "Grande, con il pelo lungo e bianco",
+            "Piccolo, con il pelo lungo e bianco",
+            "Grande, con il pelo corto e marrone",
+            "Piccolo, con il pelo corto e marrone"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Chi è più giovane?",
+          "choices": [
+            "Il cane maschio",
+            "La cagna",
+            "Hanno la stessa età",
+            "Non si sa"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "lei": "72be3578-0608-46eb-b4c3-23518688ad07",
+        "ama": "1df25e11-80cd-4716-a2ba-19910d949ddb",
+        "i": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "suoi": "ed2e5544-cef8-49b0-8047-43a15d6058d4",
+        "cani": "2e3d6d08-54dd-4e2f-a4bb-5c41c10ba91a",
+        "ha": "6e79a73a-09d8-4c1e-a208-2afc25be5574",
+        "una": "94c8a4e6-9c8b-4b98-894f-eb01142a74a2",
+        "cagna": "84fc99f5-23a8-4545-8db8-a2ed1da4f09b",
+        "grande": "dfb338e9-21ee-4819-83ec-53145ca45eb2",
+        "con": "5460cc21-c6ba-4c2f-ad52-8ff27659fa94",
+        "il": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "pelo": "467b7cce-0df3-4f33-b762-aae690ad1e0d",
+        "lungo": "ef6b83e1-f195-4eec-8a35-94f0c4003922",
+        "e": "04935b2b-2c8b-4e5b-ae12-7aeee82364ea",
+        "bianco": "3221fc14-1ba2-48f3-a359-cab0711fc33f",
+        "anche": "f931f372-115f-47b0-b813-c874006c0823",
+        "un": "94c8a4e6-9c8b-4b98-894f-eb01142a74a2",
+        "cane": "2e3d6d08-54dd-4e2f-a4bb-5c41c10ba91a",
+        "maschio": "c1e8cfec-21b0-4490-9fa7-b3fcdbad5026",
+        "piccolo": "e5d6dbbe-7704-4751-a6bd-d31524d62f42",
+        "corto": "931b4ad8-16ba-4ccb-b157-fcc1b079c1b8",
+        "marrone": "390aa08a-c4c7-48e3-be4f-b746c72843f4",
+        "la": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "è": "bb0b9115-cd64-49d7-8bf9-6f806b699ce7",
+        "più": "7dbe420d-7d1d-46f6-8e4f-db485d669e3b",
+        "giovane": "36428377-f938-4fb7-9291-e4678812d551",
+        "del": "77026f98-1da5-4adc-b93a-66f67d16be6e"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "La loro madre lavora in un ospedale come infermiera. Aiuta le persone malate. Lavora con i medici per aiutare i pazienti a guarire. Si assicura che i pazienti prendano le medicine.",
+      "questions": [
+        {
+          "question": "Dove lavora la loro madre?",
+          "choices": [
+            "In una scuola",
+            "In un negozio",
+            "In una banca",
+            "In un ospedale"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Che lavoro fa?",
+          "choices": [
+            "Il medico",
+            "L'infermiera",
+            "L'insegnante",
+            "La cuoca"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Con chi lavora?",
+          "choices": [
+            "Con gli insegnanti",
+            "Con gli ingegneri",
+            "Con i medici",
+            "Con i poliziotti"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Di che cosa si assicura?",
+          "choices": [
+            "Che i pazienti prendano le medicine",
+            "Che i pazienti facciano colazione",
+            "Che i medici arrivino in orario",
+            "Che l'ospedale sia pulito"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "la": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "loro": "47945743-d85c-447d-81d8-0f2a0bfd1524",
+        "madre": "2cdcfa0f-5cf5-4f39-8457-0b395cdd6675",
+        "lavora": "e976e140-2f3d-4a16-9bbc-48ef741ae5e2",
+        "in": "93663378-b876-4fcf-b03e-42e28574efc6",
+        "un": "94c8a4e6-9c8b-4b98-894f-eb01142a74a2",
+        "ospedale": "c2329390-a403-424c-b681-fc4535c53db6",
+        "come": "84944915-df20-495d-be11-a5c30670eb23",
+        "infermiera": "e7266b07-b76b-4e44-b487-b4df1e82dd3d",
+        "aiuta": "cf9fd33f-9203-43ba-bf27-2cab18c5ab08",
+        "le": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "persone": "ba1758c1-af4b-452a-abc2-f02d47e0bad1",
+        "malate": "d46ace9b-e430-4f72-af0b-4f0b23fcab77",
+        "con": "5460cc21-c6ba-4c2f-ad52-8ff27659fa94",
+        "i": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "medici": "0c583d1e-99a2-471e-8615-b30b9cfab895",
+        "per": "5c1f4a6e-bb7d-4873-9e37-89e618589138",
+        "aiutare": "cf9fd33f-9203-43ba-bf27-2cab18c5ab08",
+        "pazienti": "7d82ff43-b854-4b8c-b984-22fa205cc6ee",
+        "a": "6bef17f5-a5f4-4ef4-b592-36af6cead3f9",
+        "guarire": "8a64e429-73c9-46c0-93dc-a41dab789651",
+        "si": "c92583ec-6739-44f1-905d-8ed309199f31",
+        "assicura": "f1aa57bc-8cca-49ff-82bc-c87bca105018",
+        "che": "417fc149-074d-4631-bc58-70c4bbeef5fd",
+        "prendano": "53472685-fdf5-4bb0-8e8c-db7e50c7f96c",
+        "medicine": "fb2bc5d3-9c40-4792-85d4-9a68b722204c"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Il loro padre lavora in un'azienda di software. Fa i test del software. Si assicura che il software funzioni bene prima che la gente lo usi. È molto attento e lo prova a fondo.",
+      "questions": [
+        {
+          "question": "Dove lavora il loro padre?",
+          "choices": [
+            "In un'azienda di software",
+            "In un ospedale",
+            "In una scuola",
+            "In un negozio"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Che cosa fa?",
+          "choices": [
+            "Vende computer",
+            "Ripara macchine",
+            "Fa i test del software",
+            "Insegna in una scuola"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Quando prova il software?",
+          "choices": [
+            "Dopo che la gente lo ha usato",
+            "Prima che la gente lo usi",
+            "Solo il venerdì",
+            "Di notte"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Come prova il software?",
+          "choices": [
+            "In fretta e senza attenzione",
+            "Solo qualche volta",
+            "Con i suoi figli",
+            "Con molta attenzione e a fondo"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "il": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "loro": "47945743-d85c-447d-81d8-0f2a0bfd1524",
+        "padre": "8c7ad11c-9cba-48a3-bd2d-2a89e6bfb9ee",
+        "lavora": "e976e140-2f3d-4a16-9bbc-48ef741ae5e2",
+        "in": "93663378-b876-4fcf-b03e-42e28574efc6",
+        "un'azienda": "343e749b-6bb7-4583-8ac2-a5548fd40f60",
+        "di": "77026f98-1da5-4adc-b93a-66f67d16be6e",
+        "software": "932c07c4-460d-46db-a50c-55e03dc04414",
+        "fa": "152781ab-299b-41af-b81b-6b4e77c26dbe",
+        "i": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "test": "89727ab7-0356-4576-9061-ba18c6eb5b7d",
+        "del": "77026f98-1da5-4adc-b93a-66f67d16be6e",
+        "si": "c92583ec-6739-44f1-905d-8ed309199f31",
+        "assicura": "f1aa57bc-8cca-49ff-82bc-c87bca105018",
+        "che": "417fc149-074d-4631-bc58-70c4bbeef5fd",
+        "funzioni": "5b54be89-9036-4d18-a95e-66ab909e1110",
+        "bene": "a2896cde-eff3-4d9c-a257-4bb14c7bf2ec",
+        "prima": "1926b70f-8fc2-4ece-8afd-c3708e413adc",
+        "la": "5d4de1da-5b46-4195-bb90-e028c957e470",
+        "gente": "e42d5715-09d4-4b26-a9f7-013a1cfce5a0",
+        "lo": "2c308573-c9f7-40f9-9519-a5e7fc033f8f",
+        "usi": "f69cdbcf-0fe5-42cc-b0f1-62d3cf407d00",
+        "è": "bb0b9115-cd64-49d7-8bf9-6f806b699ce7",
+        "molto": "66af8062-3f31-49f0-a0be-483bc2bb87b8",
+        "attento": "2181fcdc-017a-4c75-acdc-97c367a6a84b",
+        "e": "04935b2b-2c8b-4e5b-ae12-7aeee82364ea",
+        "prova": "3169900b-cbdb-48b5-b26c-367e904a5f88",
+        "a fondo": "04df861b-45fa-4fc6-9f2f-d5210f1424cf"
+      }
+    }
+  ]
+}

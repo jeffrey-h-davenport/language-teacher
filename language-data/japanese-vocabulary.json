@@ -4934,6 +4934,401 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "73ecaa10-28e6-45c0-a731-265815367a42",
+      "part-of-speech": "adverb",
+      "english": "every week",
+      "japanese": "毎週",
+      "cefr": "A1",
+      "ipa": "[maiɕɯː]",
+      "register": [
+        "All"
+      ],
+      "context": "毎週金曜日: every Friday"
+    },
+    {
+      "id": "56df38e6-0c2d-4987-b390-c087c5af761e",
+      "part-of-speech": "noun",
+      "english": "on the way, midway",
+      "japanese": "途中",
+      "cefr": "A2",
+      "ipa": "[totɕɯː]",
+      "register": [
+        "All"
+      ],
+      "context": "学校へ行く途中で: on the way to school"
+    },
+    {
+      "id": "6a1870d4-f749-40c3-a828-3755c3c11f20",
+      "part-of-speech": "noun",
+      "english": "front; before",
+      "japanese": "前",
+      "cefr": "A1",
+      "ipa": "[maꜜe]",
+      "register": [
+        "All"
+      ],
+      "context": "店の前: in front of the store; 使う前に: before using"
+    },
+    {
+      "id": "801297c6-61fa-4645-a371-1be0987e3b5a",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "japanese": "通る",
+      "cefr": "A2",
+      "ipa": "[toꜜːɾɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "u-verb; polite: 通ります"
+    },
+    {
+      "id": "b10e5c0b-9c3e-4966-92d6-39161edee3cc",
+      "part-of-speech": "verb",
+      "english": "to stop by, to drop in",
+      "japanese": "寄る",
+      "cefr": "A2",
+      "ipa": "[joɾɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "u-verb; polite: 寄ります"
+    },
+    {
+      "id": "e877480f-e62f-4d91-80be-29f961e7ac8c",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "japanese": "炭酸飲料",
+      "cefr": "A2",
+      "ipa": "[taɴsaɴiɴɾʲoꜜː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5170a3f7-6c3c-4a3b-a5b8-d0215f3abb61",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "japanese": "ポテトチップス",
+      "cefr": "A2",
+      "ipa": "[potetotɕiꜜppɯ̥sɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dbafa7c6-f5ad-419d-a527-151d785ef06b",
+      "part-of-speech": "noun",
+      "english": "plural suffix for people and animals",
+      "japanese": "たち",
+      "cefr": "A2",
+      "ipa": "[tatɕi]",
+      "register": [
+        "All"
+      ],
+      "context": "犬たち: dogs; 人たち: people"
+    },
+    {
+      "id": "21dcec28-8145-4e0f-8885-ada70067cbe9",
+      "part-of-speech": "adjective",
+      "english": "to love, to like very much",
+      "japanese": "大好き",
+      "cefr": "A1",
+      "ipa": "[daꜜisɯ̥ki]",
+      "register": [
+        "All"
+      ],
+      "context": "na-adjective; 犬が大好きです: I love dogs"
+    },
+    {
+      "id": "ecb688c3-86e5-4a1c-ac34-2bca5602dba8",
+      "part-of-speech": "verb",
+      "english": "to be (polite)",
+      "japanese": "です",
+      "cefr": "A1",
+      "ipa": "[deꜜsɯ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b47517a3-304c-4aae-960f-315dc54a6f4c",
+      "part-of-speech": "noun",
+      "english": "fur, hair",
+      "japanese": "毛",
+      "cefr": "A2",
+      "ipa": "[ke]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "53fc0c6f-4711-4367-9c01-9799ac5eeb55",
+      "part-of-speech": "noun",
+      "english": "female (animal)",
+      "japanese": "メス",
+      "cefr": "A2",
+      "ipa": "[meꜜsɯ̥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0de8dff4-c9c4-4e02-9839-43eb5e238595",
+      "part-of-speech": "noun",
+      "english": "male (animal)",
+      "japanese": "オス",
+      "cefr": "A2",
+      "ipa": "[oꜜsɯ̥]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "fd75b6c5-b557-41c0-b48c-918135f106f3",
+      "part-of-speech": "verb",
+      "english": "to keep (an animal), to have (a pet)",
+      "japanese": "飼う",
+      "cefr": "A2",
+      "ipa": "[kaꜜɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "u-verb; polite: 飼います"
+    },
+    {
+      "id": "bc1dba70-7f43-4fae-990c-2592270c6dae",
+      "part-of-speech": "postposition",
+      "english": "than",
+      "japanese": "より",
+      "cefr": "A1",
+      "ipa": "[joꜜɾi]",
+      "register": [
+        "All"
+      ],
+      "context": "オスの犬より若い: younger than the male dog"
+    },
+    {
+      "id": "d8459a39-2d13-4d67-baff-d5982058138e",
+      "part-of-speech": "pronoun",
+      "english": "they, them",
+      "japanese": "彼ら",
+      "cefr": "A1",
+      "ipa": "[kaꜜɾeɾa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5da3fdc-0290-4662-899a-85a9263dd3ee",
+      "part-of-speech": "noun",
+      "english": "mother",
+      "japanese": "母親",
+      "cefr": "A2",
+      "ipa": "[hahaoja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b9622a9-47fd-4fb6-b0dc-42094a894820",
+      "part-of-speech": "noun",
+      "english": "father",
+      "japanese": "父親",
+      "cefr": "A2",
+      "ipa": "[tɕitɕioja]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d6406e6-ecd0-43df-b96b-ec4ca3c9d883",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "japanese": "看護師",
+      "cefr": "A2",
+      "ipa": "[kaŋɡoꜜɕi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c895445a-e4a6-4f5c-a20e-cb39f1ca5225",
+      "part-of-speech": "postposition",
+      "english": "as",
+      "japanese": "として",
+      "cefr": "A2",
+      "ipa": "[toɕi̥te]",
+      "register": [
+        "All"
+      ],
+      "context": "看護師として: as a nurse"
+    },
+    {
+      "id": "e0ec121b-4046-4e5d-99fa-064b17d4a683",
+      "part-of-speech": "verb",
+      "english": "to help, to save",
+      "japanese": "助ける",
+      "cefr": "A2",
+      "ipa": "[tasɯ̥keꜜɾɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "ru-verb; polite: 助けます"
+    },
+    {
+      "id": "2a600a22-fd4c-46a2-b5b3-411d7f134866",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "japanese": "患者",
+      "cefr": "A2",
+      "ipa": "[kaɲdʑa]",
+      "register": [
+        "All"
+      ],
+      "context": "often with さん: 患者さん"
+    },
+    {
+      "id": "7a957b92-df79-42ee-a327-8f71be3946cc",
+      "part-of-speech": "verb",
+      "english": "to become",
+      "japanese": "なる",
+      "cefr": "A1",
+      "ipa": "[naꜜɾɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "u-verb; polite: なります; 元気になる: to get well"
+    },
+    {
+      "id": "2c0519e6-c07a-4443-a0c6-5bef26563eda",
+      "part-of-speech": "postposition",
+      "english": "so that",
+      "japanese": "ように",
+      "cefr": "A2",
+      "ipa": "[joːni]",
+      "register": [
+        "All"
+      ],
+      "context": "飲むように: so that they take it"
+    },
+    {
+      "id": "4a7e54f2-862d-419c-8d2f-caa2edf28077",
+      "part-of-speech": "verb",
+      "english": "to be careful, to make sure",
+      "japanese": "気をつける",
+      "cefr": "A2",
+      "ipa": "[ki o tsɯ̥keꜜɾɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "ru-verb; polite: 気をつけます"
+    },
+    {
+      "id": "3cfb09aa-e0ee-4b2d-b2c3-707cf684476a",
+      "part-of-speech": "noun",
+      "english": "software",
+      "japanese": "ソフトウェア",
+      "cefr": "A2",
+      "ipa": "[sofɯ̥toɰeꜜa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "77516355-a1da-4c56-8cc1-f09addd1a3c4",
+      "part-of-speech": "noun",
+      "english": "test",
+      "japanese": "テスト",
+      "cefr": "A2",
+      "ipa": "[teꜜsɯ̥to]",
+      "register": [
+        "All"
+      ],
+      "context": "テストする: to test"
+    },
+    {
+      "id": "022b3630-d1bc-4c15-905e-ef0dfd4b2b6e",
+      "part-of-speech": "noun",
+      "english": "people",
+      "japanese": "人々",
+      "cefr": "A2",
+      "ipa": "[çi̥tobiꜜto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45105861-0f8c-4dae-8426-45d9e4beac76",
+      "part-of-speech": "verb",
+      "english": "to move; to work, to run",
+      "japanese": "動く",
+      "cefr": "A2",
+      "ipa": "[ɯɡoꜜkɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "u-verb; polite: 動きます"
+    },
+    {
+      "id": "e796af06-1840-4c79-951b-4f91ccc61f29",
+      "part-of-speech": "noun",
+      "english": "thing; the fact that",
+      "japanese": "こと",
+      "cefr": "A2",
+      "ipa": "[kotoꜜ]",
+      "register": [
+        "All"
+      ],
+      "context": "動くこと: that it works"
+    },
+    {
+      "id": "cb459209-889f-4a25-b780-204ad4057dcb",
+      "part-of-speech": "verb",
+      "english": "to check, to make sure",
+      "japanese": "確かめる",
+      "cefr": "A2",
+      "ipa": "[taɕi̥kameꜜɾɯ]",
+      "register": [
+        "All"
+      ],
+      "context": "ru-verb; polite: 確かめます"
+    },
+    {
+      "id": "e740053b-7072-4a07-bef3-524235beb984",
+      "part-of-speech": "adjective",
+      "english": "careful, cautious",
+      "japanese": "慎重",
+      "cefr": "A2",
+      "ipa": "[ɕintɕoː]",
+      "register": [
+        "All"
+      ],
+      "context": "na-adjective: 慎重な人"
+    },
+    {
+      "id": "6e6e2bfa-5ea5-4ba2-8fd2-592251fd7f40",
+      "part-of-speech": "adjective",
+      "english": "thorough",
+      "japanese": "徹底的",
+      "cefr": "A2",
+      "ipa": "[tetteːteki]",
+      "register": [
+        "All"
+      ],
+      "context": "na-adjective; 徹底的に: thoroughly"
+    },
+    {
+      "id": "597d23a0-ef1a-47af-845f-3d63e385d8d1",
+      "part-of-speech": "adverb",
+      "english": "properly, neatly",
+      "japanese": "きちんと",
+      "cefr": "A2",
+      "ipa": "[kitɕiꜜnto]",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

@@ -5634,6 +5634,236 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "80612ec3-a1d0-4269-9798-6ebc264ceb31",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "swahili": "kupita",
+      "cefr": "A2",
+      "ipa": "[kuˈpitɑ]",
+      "register": [
+        "All"
+      ],
+      "context": "wakipita dukani: passing by the store"
+    },
+    {
+      "id": "fe42920b-9677-41b5-9af1-c6cff33448f5",
+      "part-of-speech": "noun",
+      "english": "time, occasion",
+      "swahili": "mara",
+      "cefr": "A1",
+      "ipa": "[ˈmɑrɑ]",
+      "register": [
+        "All"
+      ],
+      "context": "kila mara: every time, always"
+    },
+    {
+      "id": "50b56774-6fa8-465f-9bd3-18eb9b5d9952",
+      "part-of-speech": "noun",
+      "english": "soda, soft drink",
+      "swahili": "soda",
+      "cefr": "A1",
+      "ipa": "[ˈsɔdɑ]",
+      "register": [
+        "All"
+      ],
+      "plural": "soda",
+      "context": "class 9/10"
+    },
+    {
+      "id": "25d8e83b-d48c-4ae5-8505-48d517fc9b9c",
+      "part-of-speech": "noun",
+      "english": "chips, fries",
+      "swahili": "chipsi",
+      "cefr": "A2",
+      "ipa": "[ˈtʃipsi]",
+      "register": [
+        "All"
+      ],
+      "plural": "chipsi",
+      "context": "class 9/10"
+    },
+    {
+      "id": "9034687f-f6c4-40e4-a748-85721b9849f0",
+      "part-of-speech": "noun",
+      "english": "way, path, road",
+      "swahili": "njia",
+      "cefr": "A1",
+      "ipa": "[ˈɲiɑ]",
+      "register": [
+        "All"
+      ],
+      "plural": "njia",
+      "context": "class 9/10; njiani: on the way"
+    },
+    {
+      "id": "53b1fae1-4fb1-4571-8225-037d077b4850",
+      "part-of-speech": "adjective",
+      "english": "female (animal)",
+      "swahili": "jike",
+      "cefr": "A2",
+      "ipa": "[ˈdʒike]",
+      "register": [
+        "All"
+      ],
+      "context": "mbwa jike: female dog"
+    },
+    {
+      "id": "e3edee1f-b99a-488b-8613-82f6a0a97241",
+      "part-of-speech": "adjective",
+      "english": "having, with",
+      "swahili": "-enye",
+      "cefr": "A2",
+      "ipa": "[ˈeɲe]",
+      "register": [
+        "All"
+      ],
+      "context": "takes the noun's class prefix: mtu mwenye, kitu chenye"
+    },
+    {
+      "id": "177652f2-e25f-49d5-8aff-34bb7af75804",
+      "part-of-speech": "noun",
+      "english": "fur, hair (of an animal); feathers",
+      "swahili": "manyoya",
+      "cefr": "A2",
+      "ipa": "[mɑˈɲɔjɑ]",
+      "register": [
+        "All"
+      ],
+      "context": "class 6, used in the plural"
+    },
+    {
+      "id": "4e6c4cc6-0494-4157-93ff-3b105e412a8f",
+      "part-of-speech": "adjective",
+      "english": "male (animal)",
+      "swahili": "dume",
+      "cefr": "A2",
+      "ipa": "[ˈdume]",
+      "register": [
+        "All"
+      ],
+      "context": "mbwa dume: male dog"
+    },
+    {
+      "id": "d28dec1f-c44e-41fd-9264-1609601487d9",
+      "part-of-speech": "preposition",
+      "english": "of",
+      "swahili": "-a",
+      "cefr": "A1",
+      "ipa": "[ɑ]",
+      "register": [
+        "All"
+      ],
+      "context": "takes the noun's class prefix: ya, za, wa, cha"
+    },
+    {
+      "id": "4eb8a09a-5df3-4fa5-9ded-c93cb04e7494",
+      "part-of-speech": "verb",
+      "english": "is, are",
+      "swahili": "ni",
+      "cefr": "A1",
+      "ipa": "[ni]",
+      "register": [
+        "All"
+      ],
+      "context": "the same for all persons; negative: si"
+    },
+    {
+      "id": "1ae96ed8-5103-414e-911d-5b042f67fe35",
+      "part-of-speech": "preposition",
+      "english": "than",
+      "swahili": "kuliko",
+      "cefr": "A2",
+      "ipa": "[kuˈlikɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9b5d2563-7c50-4269-b853-0b64b73adcf1",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "swahili": "muuguzi",
+      "cefr": "A2",
+      "ipa": "[muːˈɡuzi]",
+      "register": [
+        "All"
+      ],
+      "plural": "wauguzi",
+      "context": "class 1/2 (m-/wa-)"
+    },
+    {
+      "id": "3a7d5494-5d5f-44b6-97a4-5f810662b868",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "swahili": "kupona",
+      "cefr": "A2",
+      "ipa": "[kuˈpɔnɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cb60f38f-154f-4a1b-8c70-48a3bf161888",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "swahili": "kuhakikisha",
+      "cefr": "A2",
+      "ipa": "[kuhɑkiˈkiʃɑ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94b640aa-1204-4b7d-842f-9d65e964c223",
+      "part-of-speech": "noun",
+      "english": "company",
+      "swahili": "kampuni",
+      "cefr": "A2",
+      "ipa": "[kɑmˈpuni]",
+      "register": [
+        "All"
+      ],
+      "plural": "kampuni",
+      "context": "class 9/10"
+    },
+    {
+      "id": "e98dbebb-5b24-4aa5-9330-0d42da86d5bd",
+      "part-of-speech": "noun",
+      "english": "program, software",
+      "swahili": "programu",
+      "cefr": "A2",
+      "ipa": "[prɔˈɡrɑmu]",
+      "register": [
+        "All"
+      ],
+      "plural": "programu",
+      "context": "programu za kompyuta: software"
+    },
+    {
+      "id": "261f4098-b4e8-4bf5-b5b1-f13d5773bdef",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "swahili": "mwangalifu",
+      "cefr": "A2",
+      "ipa": "[mwɑŋɡɑˈlifu]",
+      "register": [
+        "All"
+      ],
+      "context": "plural: waangalifu"
+    },
+    {
+      "id": "a3069784-8dd3-4b35-89b3-2ea8ecdaed16",
+      "part-of-speech": "adverb",
+      "english": "fully, thoroughly",
+      "swahili": "kikamilifu",
+      "cefr": "A2",
+      "ipa": "[kikɑmiˈlifu]",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

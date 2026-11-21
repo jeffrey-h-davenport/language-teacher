@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "language": "Norwegian",
+    "languageCode": "no",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "På fredager går han til skolen med vennene sine. De går forbi butikken på vei til skolen. De stopper alltid der og kjøper brus og potetgull. De spiser og drikker på veien til skolen.",
+      "questions": [
+        {
+          "question": "Når går han til skolen med vennene sine?",
+          "choices": [
+            "På mandager",
+            "På fredager",
+            "På søndager",
+            "Hver dag"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hvordan kommer de seg til skolen?",
+          "choices": [
+            "Med buss",
+            "Med bil",
+            "Med sykkel",
+            "De går"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hva kjøper de i butikken?",
+          "choices": [
+            "Brus og potetgull",
+            "Brød og melk",
+            "Frukt og juice",
+            "Kaffe og kake"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hvor spiser og drikker de?",
+          "choices": [
+            "På skolen",
+            "Hjemme",
+            "På veien til skolen",
+            "I butikken"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "på": "a9b9d428-30ad-4313-9872-7cc386fc0f8e",
+        "fredager": "c94b051b-c1d7-4a89-9170-19c9aa2bdf21",
+        "går": "49649a62-0699-47eb-a8e7-f7d5cd9cc989",
+        "han": "5450010f-d3fb-4114-a1d2-85e219f93585",
+        "til": "6dd9be95-f3a4-4339-8d05-6edef6a31cd9",
+        "skolen": "515dd885-870c-4804-8210-836dbb9f4778",
+        "med": "9b63761e-188f-4531-bc1b-2dd4ec629f3a",
+        "vennene": "6c93de86-85e1-4e29-af36-bbedc877acc5",
+        "sine": "922079da-f6e5-4b06-a62a-fc9ebca72823",
+        "de": "64dba186-f874-4425-8582-8659e0e2e2e2",
+        "forbi": "1336f715-cc2b-413b-be20-d66fa2514a37",
+        "butikken": "b1e1399a-86ad-48b6-9f02-b78a76580d2a",
+        "vei": "9abe4006-05c3-4f0c-b1fb-9d784ceafa33",
+        "stopper": "c50e7a85-7ff9-4199-a49b-99fa8b2a3438",
+        "alltid": "df3a00f8-b927-4e32-b4c1-4b4f5663bea6",
+        "der": "65d50ad3-fe77-47f3-a7f2-5134d2dd1998",
+        "og": "d23620fa-5043-4699-9c2e-aa383e510170",
+        "kjøper": "362cb843-3d04-4970-b74b-23aef2fbdd55",
+        "brus": "0ee66e39-adc6-43b9-93dd-2a0d7fbfe639",
+        "potetgull": "8c671373-292b-4fe0-afd4-c889710a30c9",
+        "spiser": "62e9c892-ea09-4acb-8796-e78d6ec0b7d2",
+        "drikker": "447547a5-5a03-4f46-b5cb-e99c0e418f35",
+        "veien": "9abe4006-05c3-4f0c-b1fb-9d784ceafa33"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Hun er glad i hundene sine. Hun har en stor tispe med lang, hvit pels. Hun har også en liten hannhund med kort, brun pels. Tispa er yngre enn hannhunden.",
+      "questions": [
+        {
+          "question": "Hvor mange hunder har hun?",
+          "choices": [
+            "Én",
+            "Tre",
+            "To",
+            "Fire"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Hvilken farge har tispas pels?",
+          "choices": [
+            "Hvit",
+            "Brun",
+            "Svart",
+            "Grå"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hvordan ser hannhunden ut?",
+          "choices": [
+            "Stor, med lang, hvit pels",
+            "Liten, med lang, hvit pels",
+            "Stor, med kort, brun pels",
+            "Liten, med kort, brun pels"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hvilken hund er yngst?",
+          "choices": [
+            "Hannhunden",
+            "Tispa",
+            "De er like gamle",
+            "Det står ikke"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "hun": "f65bf763-4cbe-413d-998c-c770ebbf9e1e",
+        "er": "9eeab49c-9959-4c9c-a73f-4f69494ccbfa",
+        "glad": "2970a0dc-f8a6-4292-896a-1a64d7d802e8",
+        "i": "0f6907fa-8578-4a52-ad59-2bb21283d3d2",
+        "hundene": "d74a7f74-d717-43e9-b22c-527258b662bf",
+        "sine": "922079da-f6e5-4b06-a62a-fc9ebca72823",
+        "har": "1c3d2331-8787-4a1a-a43a-fbee3a5d2443",
+        "en": "b0c38417-1e18-41fe-904c-9477fa7422d9",
+        "stor": "44267423-ae70-4f50-9d46-4faf071cc655",
+        "tispe": "466f5709-cc9f-4c5f-8272-ac3ac02106ed",
+        "med": "9b63761e-188f-4531-bc1b-2dd4ec629f3a",
+        "lang": "fa5e0e3d-8d08-4826-8842-e05bfca644c1",
+        "hvit": "b1c16844-aefa-47c5-9bd5-113368508afb",
+        "pels": "d936543c-f6d7-4e68-a123-df479c4192de",
+        "også": "c7da0329-8b4b-4992-9973-e3931b6d17d5",
+        "liten": "99c54b25-4128-4128-bbf6-a0c391acfc59",
+        "hannhund": "d482e4a6-dcf8-4a87-8e9d-1c454590fb2c",
+        "kort": "35aaa2b6-d3bd-40b9-82f0-31a6595c4dfb",
+        "brun": "c8a03701-5c3b-4bf6-8ff9-67885110d48a",
+        "tispa": "466f5709-cc9f-4c5f-8272-ac3ac02106ed",
+        "yngre": "cf51c639-e53d-4afa-85d6-f6de2f985c30",
+        "enn": "03d2caf8-d6d1-4e05-becb-59a0809df262",
+        "hannhunden": "d482e4a6-dcf8-4a87-8e9d-1c454590fb2c"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Moren deres jobber som sykepleier på et sykehus. Hun hjelper folk som er syke. Hun jobber sammen med leger for at pasientene skal bli friske. Hun passer på at pasientene tar medisinene sine.",
+      "questions": [
+        {
+          "question": "Hvor jobber moren deres?",
+          "choices": [
+            "På en skole",
+            "I en butikk",
+            "I en bank",
+            "På et sykehus"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hva er yrket hennes?",
+          "choices": [
+            "Lege",
+            "Sykepleier",
+            "Lærer",
+            "Kokk"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hvem jobber hun sammen med?",
+          "choices": [
+            "Med lærere",
+            "Med ingeniører",
+            "Med leger",
+            "Med politifolk"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Hva passer hun på?",
+          "choices": [
+            "At pasientene tar medisinene sine",
+            "At pasientene spiser frokost",
+            "At legene kommer i tide",
+            "At sykehuset er rent"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "moren": "7a8704f1-d270-4884-83a3-bd5a8ee26a15",
+        "deres": "682c8517-b6d6-437c-b220-443657fbfa07",
+        "jobber": "1ae0f867-9138-45ce-8f4e-45814439baa1",
+        "som": "5360dc5f-c810-409f-b7fe-03f653ba1515",
+        "sykepleier": "6e80b35c-7899-4838-a8a0-9163105c103b",
+        "på": "a9b9d428-30ad-4313-9872-7cc386fc0f8e",
+        "et": "b0c38417-1e18-41fe-904c-9477fa7422d9",
+        "sykehus": "c71155d4-4a0e-44ea-8015-9c72a09fb19f",
+        "hun": "f65bf763-4cbe-413d-998c-c770ebbf9e1e",
+        "hjelper": "4ce66489-2347-4005-851b-03dda43b21f1",
+        "folk": "e2b845ee-fced-4349-a643-14eb47efb1cd",
+        "er": "9eeab49c-9959-4c9c-a73f-4f69494ccbfa",
+        "syke": "6077258b-3813-401d-aa88-dd5071435847",
+        "sammen": "5b370298-ab3b-493b-9093-ef0acc470de3",
+        "med": "9b63761e-188f-4531-bc1b-2dd4ec629f3a",
+        "leger": "6e3ee624-e26a-4bf0-b077-5f9ab94c78a4",
+        "for": "7f917b79-5fae-4e2e-8d37-9e90a059a41a",
+        "at": "41f7262e-6284-4471-9d31-a6646f8122dd",
+        "pasientene": "5234813f-3fe1-4896-9c99-bf29bc346d2d",
+        "skal": "674c607b-88b9-42b6-afc6-a2346b0cce19",
+        "bli": "f57c4906-a4cf-455f-af47-02c02bbe331e",
+        "friske": "5398ae52-c949-4f99-a3b6-a7cfcca1b411",
+        "passer": "0d550b0c-62c6-4474-8fa7-967d506de4b2",
+        "tar": "fccfeafd-d01e-4be8-94df-12e93decb9a6",
+        "medisinene": "b4d07389-edf6-4957-96ca-e1d7dce8b6c1",
+        "sine": "922079da-f6e5-4b06-a62a-fc9ebca72823"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Faren deres jobber i et programvareselskap. Han tester programvare. Han passer på at programvaren fungerer som den skal før folk får bruke den. Han er veldig nøye og tester programvaren grundig.",
+      "questions": [
+        {
+          "question": "Hvor jobber faren deres?",
+          "choices": [
+            "I et programvareselskap",
+            "På et sykehus",
+            "På en skole",
+            "I en butikk"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hva gjør han?",
+          "choices": [
+            "Han selger datamaskiner",
+            "Han reparerer biler",
+            "Han tester programvare",
+            "Han underviser på en skole"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Når tester han programvaren?",
+          "choices": [
+            "Etter at folk har brukt den",
+            "Før folk får bruke den",
+            "Bare på fredager",
+            "Om natten"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hvordan tester han programvaren?",
+          "choices": [
+            "Raskt og slurvete",
+            "Bare av og til",
+            "Sammen med barna sine",
+            "Veldig nøye og grundig"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "faren": "05cda53e-02dc-47b8-899f-6cab93597d38",
+        "deres": "682c8517-b6d6-437c-b220-443657fbfa07",
+        "jobber": "1ae0f867-9138-45ce-8f4e-45814439baa1",
+        "i": "0f6907fa-8578-4a52-ad59-2bb21283d3d2",
+        "et": "b0c38417-1e18-41fe-904c-9477fa7422d9",
+        "programvareselskap": "187f9f33-975c-48d3-848f-31924ec92909",
+        "han": "5450010f-d3fb-4114-a1d2-85e219f93585",
+        "tester": "cbfd2c85-92be-48d8-8e69-68819eea8fc2",
+        "programvare": "58d27c24-7f53-4dc5-a9da-c44fcb723cbe",
+        "passer": "0d550b0c-62c6-4474-8fa7-967d506de4b2",
+        "på": "a9b9d428-30ad-4313-9872-7cc386fc0f8e",
+        "at": "41f7262e-6284-4471-9d31-a6646f8122dd",
+        "programvaren": "58d27c24-7f53-4dc5-a9da-c44fcb723cbe",
+        "fungerer": "a44df8fc-d486-43c9-bab8-c8d4c36d21e2",
+        "som": "5360dc5f-c810-409f-b7fe-03f653ba1515",
+        "den": "209379f5-03e9-47e6-bdce-fff558607603",
+        "skal": "674c607b-88b9-42b6-afc6-a2346b0cce19",
+        "før": "3baa9114-a373-4fe2-a723-62ad909b50a8",
+        "folk": "e2b845ee-fced-4349-a643-14eb47efb1cd",
+        "får": "0ec36b01-388a-45b4-adf1-7191c0265f00",
+        "bruke": "49e24a74-bbe7-4a79-877d-7afedc909fc2",
+        "er": "9eeab49c-9959-4c9c-a73f-4f69494ccbfa",
+        "veldig": "94e291e6-6144-4514-92e1-cc5500ff8a16",
+        "nøye": "ec8d5983-19ed-47d5-bac6-420c167c9d7e",
+        "og": "d23620fa-5043-4699-9c2e-aa383e510170",
+        "grundig": "17fa5a19-c13c-4e49-a006-d38bad9c13ce"
+      }
+    }
+  ]
+}

@@ -3021,14 +3021,14 @@
     {
       "id": "6d92f720-9783-46d6-8512-8d14dd61bd15",
       "part-of-speech": "noun",
-      "english": "one",
+      "english": "a, an; one",
       "danish": "en",
       "cefr": "A1",
       "ipa": "[ˈeˀn]",
-      "context": "et with et-words",
       "register": [
         "All"
-      ]
+      ],
+      "context": "et with et-words"
     },
     {
       "id": "ff127193-d920-47f2-9e7d-53ce750bdded",
@@ -6316,7 +6316,7 @@
     {
       "id": "3fba205e-af66-4e34-bcf8-f79e72f335d9",
       "part-of-speech": "conjunction",
-      "english": "who, which, that",
+      "english": "who, which, that; as",
       "danish": "som",
       "cefr": "A1",
       "ipa": "[sʌm]",
@@ -6614,6 +6614,228 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "34c6ec3f-d057-4825-8932-6ed5ab50fd52",
+      "part-of-speech": "pronoun",
+      "english": "his, her, its, their (own)",
+      "danish": "sin",
+      "cefr": "A1",
+      "ipa": "[ˈsin]",
+      "register": [
+        "All"
+      ],
+      "context": "sit with neuter nouns, sine with plurals"
+    },
+    {
+      "id": "2d3cfd43-bdb3-4c72-ac77-af98a7b74608",
+      "part-of-speech": "preposition",
+      "english": "past, by",
+      "danish": "forbi",
+      "cefr": "A2",
+      "ipa": "[fɐˈbiˀ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "929b9c3b-745f-482a-95a3-330d70626d59",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "danish": "sodavand",
+      "cefr": "A2",
+      "ipa": "[ˈsoːdaˌvanˀ]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "sodavand"
+    },
+    {
+      "id": "c661fd68-04b7-4f91-a01a-3569afc52cf9",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "danish": "chips",
+      "cefr": "A2",
+      "ipa": "[ˈtɕips]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "chips"
+    },
+    {
+      "id": "0a8168c7-598f-4fc3-9983-5279b4123600",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "danish": "tæve",
+      "cefr": "A2",
+      "ipa": "[ˈtˢɛːʋə]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "tæver"
+    },
+    {
+      "id": "992f6b42-bb85-4982-8e5f-91ad106fb817",
+      "part-of-speech": "noun",
+      "english": "fur, coat (of an animal)",
+      "danish": "pels",
+      "cefr": "A2",
+      "ipa": "[ˈpɛlˀs]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "pelse"
+    },
+    {
+      "id": "efc4f634-b5ca-401a-a141-18fb09e63537",
+      "part-of-speech": "noun",
+      "english": "male dog",
+      "danish": "hanhund",
+      "cefr": "A2",
+      "ipa": "[ˈhanˌhunˀ]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "hanhunde"
+    },
+    {
+      "id": "2457cc34-d45c-466b-adce-bddf9a015ceb",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "danish": "sygeplejerske",
+      "cefr": "A2",
+      "ipa": "[ˈsyːjəˌplɑjɐskə]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "sygeplejersker"
+    },
+    {
+      "id": "5b358a86-126e-41e1-9614-2ef0476eba79",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "danish": "patient",
+      "cefr": "A2",
+      "ipa": "[paˈɕɛnˀd]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "patienter"
+    },
+    {
+      "id": "fb53c896-75b7-45bc-b503-d51756fd64e6",
+      "part-of-speech": "verb",
+      "english": "to make sure; to grieve",
+      "danish": "sørge",
+      "cefr": "A2",
+      "ipa": "[ˈsɶɐ̯wə]",
+      "register": [
+        "All"
+      ],
+      "context": "sørge for: to make sure, to take care of"
+    },
+    {
+      "id": "1793cf20-e843-4846-ad0c-48279a6876a9",
+      "part-of-speech": "noun",
+      "english": "software company",
+      "danish": "softwarevirksomhed",
+      "cefr": "A2",
+      "ipa": "[ˈsʌftwɛːɐ̯ˌviɐ̯ksɔmˌheðˀ]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "softwarevirksomheder"
+    },
+    {
+      "id": "39afd0c9-3c93-4fce-a7de-6a24d0e7630f",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "danish": "teste",
+      "cefr": "A2",
+      "ipa": "[ˈtɛstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66a51cd5-c8e5-46da-9f90-299d475be6d3",
+      "part-of-speech": "noun",
+      "english": "software",
+      "danish": "software",
+      "cefr": "A2",
+      "ipa": "[ˈsʌftwɛːɐ̯]",
+      "register": [
+        "All"
+      ],
+      "gender": "common"
+    },
+    {
+      "id": "b0b38b99-5840-4468-aaf0-fa0b88056389",
+      "part-of-speech": "verb",
+      "english": "to work, to function",
+      "danish": "virke",
+      "cefr": "A2",
+      "ipa": "[ˈviɐ̯kə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "66238338-c980-4422-bfdc-36f892c5d14b",
+      "part-of-speech": "noun",
+      "english": "people",
+      "danish": "folk",
+      "cefr": "A1",
+      "ipa": "[ˈfʌlˀk]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter"
+    },
+    {
+      "id": "e3538823-bf8c-4b7f-9e9d-17dad1d16c91",
+      "part-of-speech": "noun",
+      "english": "permission; law",
+      "danish": "lov",
+      "cefr": "A2",
+      "ipa": "[ˈlʌwˀ]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "love",
+      "context": "få lov til at: to be allowed to"
+    },
+    {
+      "id": "0f3e43ec-1afc-49af-b585-92184687311f",
+      "part-of-speech": "adjective",
+      "english": "careful, thorough",
+      "danish": "omhyggelig",
+      "cefr": "A2",
+      "ipa": "[ʌmˈhyɡəli]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "98e47378-d1b5-4917-9428-b838f0b29b91",
+      "part-of-speech": "adjective",
+      "english": "thorough",
+      "danish": "grundig",
+      "cefr": "A2",
+      "ipa": "[ˈɡʁɔnˀdi]",
+      "register": [
+        "All"
+      ],
+      "context": "grundigt: thoroughly"
     }
   ]
 }

@@ -1,0 +1,305 @@
+{
+  "meta": {
+    "language": "Danish",
+    "languageCode": "da",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Om fredagen går han i skole med sine venner. De går forbi butikken på vej til skole. De stopper altid der og køber sodavand og chips. De spiser og drikker på vejen til skole.",
+      "questions": [
+        {
+          "question": "Hvornår går han i skole med sine venner?",
+          "choices": [
+            "Om mandagen",
+            "Om fredagen",
+            "Om søndagen",
+            "Hver dag"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hvordan kommer de i skole?",
+          "choices": [
+            "Med bus",
+            "I bil",
+            "På cykel",
+            "De går"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hvad køber de i butikken?",
+          "choices": [
+            "Sodavand og chips",
+            "Brød og mælk",
+            "Frugt og juice",
+            "Kaffe og kage"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hvor spiser og drikker de?",
+          "choices": [
+            "I skolen",
+            "Derhjemme",
+            "På vejen til skole",
+            "I butikken"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "om": "2c6bc02f-2fe1-4400-8934-be778c88dea1",
+        "fredagen": "912c3721-5c04-405c-a092-79d4f789b4bb",
+        "går": "e90e67e5-1f15-46cb-8015-06a9a560b701",
+        "han": "ce907377-ae1a-4c8f-a6d9-1d20d555c23f",
+        "i": "80a00b97-2360-4494-bfeb-225f6b40d698",
+        "skole": "bfc7345c-d9bf-43c8-b579-86ad8b118496",
+        "med": "732078bd-d4fe-4c9f-9784-fa9af4d0fea9",
+        "sine": "34c6ec3f-d057-4825-8932-6ed5ab50fd52",
+        "venner": "e472f5b5-ce1c-476f-b264-400156d89ce0",
+        "de": "e18644b4-50b6-46b0-8215-9f6316eb8b98",
+        "forbi": "2d3cfd43-bdb3-4c72-ac77-af98a7b74608",
+        "butikken": "89758b80-3b17-44ea-b3e3-2377aaa6e37f",
+        "på": "bf2ddf7f-a528-453a-aafa-dc88f5d7a05c",
+        "vej": "8971f132-4253-4005-a3ba-a41826438ea9",
+        "til": "7b6cca9f-7d95-42e9-95d5-d1f9b68c976d",
+        "stopper": "a16ef835-4a25-41b2-8377-7568dc55b9da",
+        "altid": "3504b270-afd8-469e-ae8a-d16b707dfe25",
+        "der": "d8898a5f-b05f-40b4-9a21-9def99cfb093",
+        "og": "a76dfc52-c2a5-4646-92c4-ed85c4b86274",
+        "køber": "ba2702ac-91ce-4e6b-9e87-513883f36a85",
+        "sodavand": "929b9c3b-745f-482a-95a3-330d70626d59",
+        "chips": "c661fd68-04b7-4f91-a01a-3569afc52cf9",
+        "spiser": "95369193-aae2-4ae8-a1df-01b68bc0bf78",
+        "drikker": "0d567f1b-f880-42d4-8e0a-c425437c025d",
+        "vejen": "8971f132-4253-4005-a3ba-a41826438ea9"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Hun elsker sine hunde. Hun har en stor tæve med lang, hvid pels. Hun har også en lille hanhund med kort, brun pels. Tæven er yngre end hanhunden.",
+      "questions": [
+        {
+          "question": "Hvor mange hunde har hun?",
+          "choices": [
+            "En",
+            "Tre",
+            "To",
+            "Fire"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Hvilken farve har tævens pels?",
+          "choices": [
+            "Hvid",
+            "Brun",
+            "Sort",
+            "Grå"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hvordan ser hanhunden ud?",
+          "choices": [
+            "Stor, med lang, hvid pels",
+            "Lille, med lang, hvid pels",
+            "Stor, med kort, brun pels",
+            "Lille, med kort, brun pels"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hvilken hund er yngst?",
+          "choices": [
+            "Hanhunden",
+            "Tæven",
+            "De er lige gamle",
+            "Det står der ikke"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "hun": "f5954309-d2f1-473c-8f21-ac5216572220",
+        "elsker": "42430a12-3bbe-480c-9d78-cd79ae11215e",
+        "sine": "34c6ec3f-d057-4825-8932-6ed5ab50fd52",
+        "hunde": "683a8a55-a165-4a8d-b7ee-1fca65f8bf28",
+        "har": "587ea857-5f24-4ed2-8d51-0cc1be3f05b7",
+        "en": "6d92f720-9783-46d6-8512-8d14dd61bd15",
+        "stor": "9e1bfb00-aac8-4eec-b42e-c09d247d61d3",
+        "tæve": "0a8168c7-598f-4fc3-9983-5279b4123600",
+        "med": "732078bd-d4fe-4c9f-9784-fa9af4d0fea9",
+        "lang": "6d3e0526-83ba-4bd3-b192-fdf43cbde62a",
+        "hvid": "e84e6c1f-390e-44b0-b55b-943f92cb3d2a",
+        "pels": "992f6b42-bb85-4982-8e5f-91ad106fb817",
+        "også": "2c93dfcf-69c9-461a-baa4-746c97afa843",
+        "lille": "fc6e2644-1590-44fb-81bf-579e46b325e7",
+        "hanhund": "efc4f634-b5ca-401a-a141-18fb09e63537",
+        "kort": "2f66e8d1-916c-414d-83b5-dc70db7d88d5",
+        "brun": "475b8a8a-8bf1-4e10-b155-2efeb1658bc2",
+        "tæven": "0a8168c7-598f-4fc3-9983-5279b4123600",
+        "er": "b81ee5ec-338d-4844-a0fa-4ed02f4cbd8a",
+        "yngre": "6e2b771f-7100-4865-afd4-c7ee893b1af2",
+        "end": "f871e32f-642c-480f-969a-001fface8e91",
+        "hanhunden": "efc4f634-b5ca-401a-a141-18fb09e63537"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Deres mor arbejder som sygeplejerske på et hospital. Hun hjælper mennesker, der er syge. Hun arbejder sammen med lægerne, så patienterne bliver raske. Hun sørger for, at patienterne tager deres medicin.",
+      "questions": [
+        {
+          "question": "Hvor arbejder deres mor?",
+          "choices": [
+            "På en skole",
+            "I en butik",
+            "I en bank",
+            "På et hospital"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hvad er hendes job?",
+          "choices": [
+            "Læge",
+            "Sygeplejerske",
+            "Lærer",
+            "Kok"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hvem arbejder hun sammen med?",
+          "choices": [
+            "Med lærerne",
+            "Med ingeniørerne",
+            "Med lægerne",
+            "Med politiet"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Hvad sørger hun for?",
+          "choices": [
+            "At patienterne tager deres medicin",
+            "At patienterne spiser morgenmad",
+            "At lægerne kommer til tiden",
+            "At hospitalet er rent"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "deres": "99cf9851-1c0a-4a27-82d4-4f2fbf05e4a8",
+        "mor": "8f7ccf2b-c964-4c2b-806e-4e509cee331d",
+        "arbejder": "a92d5eff-4900-4218-857a-b56807e917bd",
+        "som": "3fba205e-af66-4e34-bcf8-f79e72f335d9",
+        "sygeplejerske": "2457cc34-d45c-466b-adce-bddf9a015ceb",
+        "på": "bf2ddf7f-a528-453a-aafa-dc88f5d7a05c",
+        "et": "6d92f720-9783-46d6-8512-8d14dd61bd15",
+        "hospital": "8ff40575-658d-4746-9619-581660e8dffc",
+        "hun": "f5954309-d2f1-473c-8f21-ac5216572220",
+        "hjælper": "851f1c0b-1ce4-44da-9945-d09d0b1775d7",
+        "mennesker": "6650d14e-e1ca-4912-9f44-c9ac17f461d9",
+        "der": "d8898a5f-b05f-40b4-9a21-9def99cfb093",
+        "er": "b81ee5ec-338d-4844-a0fa-4ed02f4cbd8a",
+        "syge": "4bf727e6-f64f-44b3-ae23-329a04535e5e",
+        "sammen": "d29549ef-3a68-4a04-b71a-80245098b60c",
+        "med": "732078bd-d4fe-4c9f-9784-fa9af4d0fea9",
+        "lægerne": "01a5cbea-24ef-40ce-9c57-d1723c84b115",
+        "så": "80a5590b-b8b3-41fc-86ce-5f02ec627a5f",
+        "patienterne": "5b358a86-126e-41e1-9614-2ef0476eba79",
+        "bliver": "1dbb680b-49e1-4a9e-91fa-7f8419d970c4",
+        "raske": "85a02068-2ff6-4e51-89c6-91bfbbdd67fa",
+        "sørger": "fb53c896-75b7-45bc-b503-d51756fd64e6",
+        "for": "fa170303-6510-4d84-a065-b12cd5b765ad",
+        "at": "3ad2e7eb-376c-48eb-99e0-5dbf5f1d7648",
+        "tager": "356f12dc-f587-4cdc-9c69-e9bdf0dbf367",
+        "medicin": "4797e5bf-00cb-4c56-9b94-b850d5217c70"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Deres far arbejder i en softwarevirksomhed. Han tester software. Han sørger for, at softwaren virker, som den skal, før folk får lov at bruge den. Han er meget omhyggelig og tester softwaren grundigt.",
+      "questions": [
+        {
+          "question": "Hvor arbejder deres far?",
+          "choices": [
+            "I en softwarevirksomhed",
+            "På et hospital",
+            "På en skole",
+            "I en butik"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hvad laver han?",
+          "choices": [
+            "Han sælger computere",
+            "Han reparerer biler",
+            "Han tester software",
+            "Han underviser på en skole"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Hvornår tester han softwaren?",
+          "choices": [
+            "Efter folk har brugt den",
+            "Før folk får lov at bruge den",
+            "Kun om fredagen",
+            "Om natten"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hvordan tester han softwaren?",
+          "choices": [
+            "Hurtigt og sjusket",
+            "Kun nogle gange",
+            "Sammen med sine børn",
+            "Meget omhyggeligt og grundigt"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "deres": "99cf9851-1c0a-4a27-82d4-4f2fbf05e4a8",
+        "far": "2ea93b76-bf6f-4271-936f-1cd42991c2be",
+        "arbejder": "a92d5eff-4900-4218-857a-b56807e917bd",
+        "i": "80a00b97-2360-4494-bfeb-225f6b40d698",
+        "en": "6d92f720-9783-46d6-8512-8d14dd61bd15",
+        "softwarevirksomhed": "1793cf20-e843-4846-ad0c-48279a6876a9",
+        "han": "ce907377-ae1a-4c8f-a6d9-1d20d555c23f",
+        "tester": "39afd0c9-3c93-4fce-a7de-6a24d0e7630f",
+        "software": "66a51cd5-c8e5-46da-9f90-299d475be6d3",
+        "sørger": "fb53c896-75b7-45bc-b503-d51756fd64e6",
+        "for": "fa170303-6510-4d84-a065-b12cd5b765ad",
+        "at": "3ad2e7eb-376c-48eb-99e0-5dbf5f1d7648",
+        "softwaren": "66a51cd5-c8e5-46da-9f90-299d475be6d3",
+        "virker": "b0b38b99-5840-4468-aaf0-fa0b88056389",
+        "som": "3fba205e-af66-4e34-bcf8-f79e72f335d9",
+        "den": "d9fd7110-f8fe-42fb-bedd-0382b9a59e22",
+        "skal": "da146dfc-c0e4-4684-88c5-21015fc4fed4",
+        "før": "a2be4d7a-fa25-40b8-bce3-37eb35760647",
+        "folk": "66238338-c980-4422-bfdc-36f892c5d14b",
+        "får": "981899e5-703a-406e-ad84-81def8b8be47",
+        "lov": "e3538823-bf8c-4b7f-9e9d-17dad1d16c91",
+        "bruge": "e102576c-e300-446d-ac11-28655125ef36",
+        "er": "b81ee5ec-338d-4844-a0fa-4ed02f4cbd8a",
+        "meget": "7efbb116-3ec4-4c69-ae78-42ac3d51e128",
+        "omhyggelig": "0f3e43ec-1afc-49af-b585-92184687311f",
+        "og": "a76dfc52-c2a5-4646-92c4-ed85c4b86274",
+        "grundigt": "98e47378-d1b5-4917-9428-b838f0b29b91"
+      }
+    }
+  ]
+}

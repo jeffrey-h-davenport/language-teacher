@@ -1,0 +1,303 @@
+{
+  "meta": {
+    "language": "Dutch",
+    "languageCode": "nl",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Op vrijdag gaat hij met zijn vrienden naar school. Ze lopen naar school en komen langs de winkel. Ze stoppen daar altijd en kopen frisdrank en chips. Ze eten en drinken onderweg naar school.",
+      "questions": [
+        {
+          "question": "Wanneer gaat hij met zijn vrienden naar school?",
+          "choices": [
+            "Op maandag",
+            "Op vrijdag",
+            "Op zondag",
+            "Elke dag"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hoe gaan ze naar school?",
+          "choices": [
+            "Met de bus",
+            "Met de auto",
+            "Met de fiets",
+            "Lopend"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wat kopen ze in de winkel?",
+          "choices": [
+            "Frisdrank en chips",
+            "Brood en melk",
+            "Fruit en sap",
+            "Koffie en taart"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Waar eten en drinken ze?",
+          "choices": [
+            "Op school",
+            "Thuis",
+            "Onderweg naar school",
+            "In de winkel"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "op": "6eef97a0-ce63-4e14-8a3b-5c28a436eee9",
+        "vrijdag": "6d2e42ce-df04-4efa-8909-7b939b08ec1a",
+        "gaat": "11c334cd-1280-4d98-a316-c7f42fd2d6b0",
+        "hij": "38b97b5d-8c79-4e70-81f5-c3a643e0486d",
+        "met": "6f8c3164-b092-4b50-a6a7-75e77da4ff8d",
+        "zijn": "b7e63dc3-b61f-4006-abb5-afa7ee6a6610",
+        "vrienden": "f225255a-bd05-4b5e-8d4f-74ef386f96f3",
+        "naar": "ce6fa5e1-ad6a-4175-9004-8d1014b628a4",
+        "school": "873742ee-46e8-47a1-be16-91b4171909d4",
+        "ze": "4079bbcd-4b06-44e1-9059-98b8e7949154",
+        "lopen": "8a8ef69d-f0de-44e4-9bfa-4da9c50d7fba",
+        "en": "079194a8-c995-49f7-b4a4-16b333c87027",
+        "komen": "1d30a509-140d-4310-9895-fd83bc612c1e",
+        "langs": "d5a9a05f-5f88-49f3-b589-476bd3646d58",
+        "de": "2ae30d90-8967-433c-b494-46a82f60c4a3",
+        "winkel": "b29125c9-55da-42b4-aa2e-1f0d70509dd1",
+        "stoppen": "e4754b30-e37a-41c9-b39a-bcb982f543e5",
+        "daar": "b1531bbb-aafd-475a-b6af-2e0243b81c74",
+        "altijd": "47b4fdb3-816d-4f83-a8a7-948f84c42f2c",
+        "kopen": "9b0428b0-fc0b-41f1-b057-c963595802bf",
+        "frisdrank": "b2801183-506c-449b-a8b4-eddf2ffdfbc9",
+        "chips": "efea85ae-da67-4e12-b273-cc2798214a42",
+        "eten": "170981f9-0eb2-4b45-986e-22989c324344",
+        "drinken": "c734715a-c014-484b-99a9-051da348320e",
+        "onderweg": "ad2775ce-565a-45d0-848a-843d5ed40eec"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Ze houdt van haar honden. Ze heeft een grote vrouwtjeshond met een lange witte vacht. Ze heeft ook een kleine mannetjeshond met een korte bruine vacht. De vrouwtjeshond is jonger dan de mannetjeshond.",
+      "questions": [
+        {
+          "question": "Hoeveel honden heeft ze?",
+          "choices": [
+            "Eén",
+            "Drie",
+            "Twee",
+            "Vier"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Welke kleur heeft de vacht van de vrouwtjeshond?",
+          "choices": [
+            "Wit",
+            "Bruin",
+            "Zwart",
+            "Grijs"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hoe ziet de mannetjeshond eruit?",
+          "choices": [
+            "Groot, met een lange witte vacht",
+            "Klein, met een lange witte vacht",
+            "Groot, met een korte bruine vacht",
+            "Klein, met een korte bruine vacht"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Welke hond is jonger?",
+          "choices": [
+            "De mannetjeshond",
+            "De vrouwtjeshond",
+            "Ze zijn even oud",
+            "Dat staat er niet"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "ze": "4079bbcd-4b06-44e1-9059-98b8e7949154",
+        "houdt": "b1eb5a4f-04fb-44f9-94c4-73a36c8c7ab5",
+        "van": "b3d886a9-3216-45c8-8c53-cce1a4a633fb",
+        "haar": "b3635e57-9e72-4644-9150-207a54b036a3",
+        "honden": "e4b5c7da-fcc5-425d-8ce4-d1520369206c",
+        "heeft": "e2a89062-44a7-4fe0-899c-449768cd8827",
+        "een": "af29c97f-bd4d-4cd3-bfab-041a35c215d6",
+        "grote": "c3ecdead-1dfe-4b7f-9a1e-ae1e10337c92",
+        "vrouwtjeshond": "b0b690ac-85a7-421e-9c2e-f9f9a8b66629",
+        "met": "6f8c3164-b092-4b50-a6a7-75e77da4ff8d",
+        "lange": "f4ad9c7e-9697-4036-ae94-2188098d4e3e",
+        "witte": "e548f79d-8b4f-49d3-af5f-af06e1649687",
+        "vacht": "db13b0fa-5afe-449c-a3e1-13e80d98ba86",
+        "ook": "4dea4531-3d89-4f3a-a890-dafa30008cc9",
+        "kleine": "aa8f2b25-8be2-4140-8a90-f119bfe0d022",
+        "mannetjeshond": "f125fcf8-b03c-469a-b209-bb461870406c",
+        "korte": "1abcb74d-800d-4d3f-8d7c-6dcd8edd0372",
+        "bruine": "fb58995a-d2b8-4de4-bac1-ccaa265b1353",
+        "de": "2ae30d90-8967-433c-b494-46a82f60c4a3",
+        "is": "c8451a21-4e41-4553-b9dd-f2095284bdf9",
+        "jonger": "d2c9ecc8-580b-4154-bf64-c2b2b1b5099a",
+        "dan": "f16d8436-ecba-4df5-a712-f8cf8e2b62d5"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Hun moeder werkt als verpleegkundige in een ziekenhuis. Ze helpt mensen die ziek zijn. Ze werkt samen met artsen om patiënten beter te maken. Ze zorgt ervoor dat de patiënten hun medicijnen innemen.",
+      "questions": [
+        {
+          "question": "Waar werkt hun moeder?",
+          "choices": [
+            "Op een school",
+            "In een winkel",
+            "Bij een bank",
+            "In een ziekenhuis"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wat is haar beroep?",
+          "choices": [
+            "Arts",
+            "Verpleegkundige",
+            "Lerares",
+            "Kok"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Met wie werkt ze samen?",
+          "choices": [
+            "Met leraren",
+            "Met ingenieurs",
+            "Met artsen",
+            "Met politieagenten"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Waar zorgt ze voor?",
+          "choices": [
+            "Dat de patiënten hun medicijnen innemen",
+            "Dat de patiënten ontbijten",
+            "Dat de artsen op tijd komen",
+            "Dat het ziekenhuis schoon is"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "hun": "8188946f-2ce4-4fc9-a135-728b3e58265a",
+        "moeder": "1ccf4114-c769-46f6-a07b-0c6972f1d441",
+        "werkt": "f548bb94-56e8-4583-9119-0e101ea10d29",
+        "als": "abde5d2b-f05a-4594-848a-b82143cf8a25",
+        "verpleegkundige": "76adcb14-430e-4ff5-8f31-aebee52b131b",
+        "in": "5c48342d-11ba-4b75-a70f-22801b9844ab",
+        "een": "af29c97f-bd4d-4cd3-bfab-041a35c215d6",
+        "ziekenhuis": "3118e297-60c0-4495-8b6b-1c4d8a6fc2b1",
+        "ze": "4079bbcd-4b06-44e1-9059-98b8e7949154",
+        "helpt": "5109f6db-43f3-4df7-a917-bfbc03db1ad6",
+        "mensen": "08ce1db3-bab0-4946-914f-303ddbd5da1b",
+        "die": "8be31817-cc0c-45b5-bf00-8e112114221a",
+        "ziek": "6d3fcf51-e045-43ad-ae7a-3bb6b2f05b89",
+        "zijn": "b7e63dc3-b61f-4006-abb5-afa7ee6a6610",
+        "samen": "6e57b433-f1dc-4af0-831a-8eeb03260916",
+        "met": "6f8c3164-b092-4b50-a6a7-75e77da4ff8d",
+        "artsen": "16fdf442-5f1c-4ae0-a392-89099df421cb",
+        "om": "7381ab31-6ca8-4dfd-8c1b-4df8a6f5f888",
+        "patiënten": "89242be0-33bc-46d6-94e8-ee1f697f870c",
+        "beter": "56d1fe32-6d6d-42d7-afe8-75f83ecb6628",
+        "te": "fd8f39eb-8b86-48ce-b683-db7a358d13d1",
+        "maken": "1429652a-f324-4535-ab30-4ceb65f04af0",
+        "zorgt": "958c28f8-da1e-4c76-828c-e3cbd35ed187",
+        "ervoor": "7b42f735-485e-45a8-a3bf-5d6884c923d0",
+        "dat": "5d2c7d3e-a8c8-4db0-b141-09f11b47bd1a",
+        "de": "2ae30d90-8967-433c-b494-46a82f60c4a3",
+        "medicijnen": "5f4964f8-564e-4af1-9a83-9d74792c9b6d",
+        "innemen": "11109aae-0932-48e5-84d1-57746f414728"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Hun vader werkt bij een softwarebedrijf. Hij test software. Hij zorgt ervoor dat de software goed werkt voordat mensen hem gaan gebruiken. Hij test de software heel zorgvuldig en grondig.",
+      "questions": [
+        {
+          "question": "Waar werkt hun vader?",
+          "choices": [
+            "Bij een softwarebedrijf",
+            "In een ziekenhuis",
+            "Op een school",
+            "In een winkel"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wat doet hij?",
+          "choices": [
+            "Hij verkoopt computers",
+            "Hij repareert auto's",
+            "Hij test software",
+            "Hij geeft les op een school"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Wanneer test hij de software?",
+          "choices": [
+            "Nadat mensen hem gebruikt hebben",
+            "Voordat mensen hem gaan gebruiken",
+            "Alleen op vrijdag",
+            "'s Nachts"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hoe test hij de software?",
+          "choices": [
+            "Snel en slordig",
+            "Alleen soms",
+            "Met zijn kinderen",
+            "Heel zorgvuldig en grondig"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "hun": "8188946f-2ce4-4fc9-a135-728b3e58265a",
+        "vader": "9e518e33-d58a-4984-9cdb-3c1f66abf29a",
+        "werkt": "f548bb94-56e8-4583-9119-0e101ea10d29",
+        "bij": "c6cc9489-b3a4-489f-8b37-876264be554f",
+        "een": "af29c97f-bd4d-4cd3-bfab-041a35c215d6",
+        "softwarebedrijf": "6e826fc2-5abc-421a-af7e-9cf68b9dbdf1",
+        "hij": "38b97b5d-8c79-4e70-81f5-c3a643e0486d",
+        "test": "c83c6359-7543-44f7-9c1e-4fc1b6898603",
+        "software": "12a05f7b-5323-42dc-8d2e-a95a47542930",
+        "zorgt": "958c28f8-da1e-4c76-828c-e3cbd35ed187",
+        "ervoor": "7b42f735-485e-45a8-a3bf-5d6884c923d0",
+        "dat": "5d2c7d3e-a8c8-4db0-b141-09f11b47bd1a",
+        "de": "2ae30d90-8967-433c-b494-46a82f60c4a3",
+        "goed": "c87a36bd-5477-4db8-add7-3b6709caff4b",
+        "voordat": "1e54395b-384a-4a15-a5dd-86a201fe4951",
+        "mensen": "08ce1db3-bab0-4946-914f-303ddbd5da1b",
+        "hem": "39af040d-9a4a-4a8a-925b-f9480f27cd3f",
+        "gaan": "11c334cd-1280-4d98-a316-c7f42fd2d6b0",
+        "gebruiken": "b1bcc991-57dc-40e6-92f7-5567e4c735cc",
+        "heel": "6f80dd7b-90a9-4d1c-bf6a-875d6199636c",
+        "zorgvuldig": "5ecf8d3a-fba3-4713-9288-804b657b2645",
+        "en": "079194a8-c995-49f7-b4a4-16b333c87027",
+        "grondig": "7a535eaa-3b25-4952-81c3-05c37d3ebdcd"
+      }
+    }
+  ]
+}

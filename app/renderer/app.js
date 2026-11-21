@@ -143,6 +143,7 @@ function applyColorScheme(id) {
 let allWords       = []
 let sessionWords   = []
 let questionIndex  = 0
+let contextHintUsed = false   // the note was opened before answering (a hint: no point)
 let currentQ       = null   // { word, showNative, choices }
 let currentMeta    = null   // { language, languageCode, nativeLanguage, targetField }
 let currentScript  = null   // { scriptName, intro, sections: [{heading, items: [{char, ipa, note}]}] } or null
@@ -199,8 +200,10 @@ let readingResults     = []   // [{passage, answers: [chosenIdx, …]}]
 let rdAutoAdvTimer     = null
 let readingSelectedLevel = null   // cefr level chosen in the lobby, or null (no levels / all)
 const READING_SESSION_SIZE = 10
+let readingVocabById = null
+let readingTargetField = null
 let readingHoverIndex = null      // Map<lowercased surface form, {english, isBase}> for word-hover hints
-const BASE_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'postposition', 'conjunction', 'interjection'])
+const BASE_POS = new Set(['noun', 'verb', 'adjective', 'adverb', 'pronoun', 'preposition', 'postposition', 'conjunction', 'interjection', 'article'])
 
 // ── Language Data ─────────────────────────────────────
 const FLAGS = {
@@ -317,16 +320,14 @@ const REGISTER_NEUTRAL = {
 const REGISTER_CATEGORIES = {
   ja: ['尊敬語', '謙譲語'], ko: ['높임말'], zh: ['敬辞', '谦辞', '方言'], bn: ['আঞ্চলিক'], vi: ['phương ngữ'],
 }
-// A word's registers as shown on a card: a contiguous run on the scale is
-// written as its two ends ("umgangssprachlich – vulgär"), categories after.
+// A word's registers as shown on a card: every register it is marked with,
+// in scale order from most elevated to most informal, categories after.
+// (A range like "familier – vulgaire" read as if the word were vulgar.)
 function formatRegisters(langCode, registers) {
   const scale = (REGISTER_OPTIONS[langCode] || []).map(([v]) => v).filter(v => !(REGISTER_CATEGORIES[langCode] || []).includes(v))
   const onScale = registers.filter(r => scale.includes(r)).sort((a, b) => scale.indexOf(a) - scale.indexOf(b))
   const others  = registers.filter(r => !scale.includes(r))
-  const idx = onScale.map(r => scale.indexOf(r))
-  const contiguous = idx.length > 2 && idx.every((v, i) => i === 0 || v === idx[i - 1] + 1)
-  const levels = contiguous ? [`${onScale[0]} – ${onScale[onScale.length - 1]}`] : onScale
-  return [...levels, ...others].join(', ')
+  return [...onScale, ...others].join(', ')
 }
 
 // A register value's English gloss for the current language ('' if unknown).
@@ -920,6 +921,10 @@ function displayQuestion(q) {
     $('grammar-area').classList.add('hidden')
   }
 
+  // The note often contains the answer (an example with its translation),
+  // so before answering it is a hint: opening it means a correct answer
+  // earns no point. After answering it opens by itself.
+  contextHintUsed = false
   if (word.context?.trim()) {
     $('context-area').classList.remove('hidden')
     $('context-reveal-btn').classList.remove('hidden')
@@ -1016,7 +1021,11 @@ function handleChoice(btn, chosen) {
   const word    = wordById(currentQ.word.id)
 
   const prevScore = word.score
-  if (correct) {
+  const hinted    = correct && contextHintUsed
+  if (hinted) {
+    word.correctAttempts++
+    sessionCorrect++
+  } else if (correct) {
     word.score++
     word.correctAttempts++
     sessionScore++
@@ -1036,8 +1045,15 @@ function handleChoice(btn, chosen) {
     correct,
     prevScore,
     newScore:   word.score,
-    nowLearned: word.learned
+    nowLearned: word.learned,
+    hinted
   })
+
+  // The answer is out, so the note can no longer give it away.
+  if (currentQ.word.context?.trim()) {
+    $('context-reveal-btn').classList.add('hidden')
+    $('context-text').classList.remove('hidden')
+  }
 
   document.querySelectorAll('.choice-btn').forEach(b => {
     b.disabled = true
@@ -1049,7 +1065,9 @@ function handleChoice(btn, chosen) {
   fb.className = `feedback-bar ${correct ? 'correct-fb' : 'incorrect-fb'}`
   $('feedback-icon').textContent = correct ? '✓' : '✗'
   if (correct) {
-    const msg = word.score >= learnedThreshold()
+    const msg = hinted
+      ? `Correct, but the note was used as a hint, so no point this time (${word.score}/${learnedThreshold()} pts)`
+      : word.score >= learnedThreshold()
       ? `Excellent! "${currentQ.word.english}" is now learned!`
       : `Correct! (${word.score}/${learnedThreshold()} pts)`
     $('feedback-text').textContent = msg
@@ -1572,9 +1590,9 @@ async function loadVocabulary(slug) {
 function updateScriptGuideButton() {
   for (const id of ['script-guide-btn', 'intro-guide-btn']) {
     $(id).classList.toggle('hidden', !currentScript)
-    // buttonLabel lets a guide that isn't about the script (e.g. Czech
-    // grammar) name itself; older guide files just keep the default.
-    $(id).textContent = currentScript?.buttonLabel || 'Script Guide'
+    // One name for every language, whatever the guide covers (script,
+    // pronunciation, grammar); the guide's own title says what's inside.
+    $(id).textContent = 'Language Guide'
   }
 }
 
@@ -2232,6 +2250,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   })
   $('context-reveal-btn').addEventListener('click', () => {
+    contextHintUsed = true
     $('context-reveal-btn').classList.add('hidden')
     $('context-text').classList.remove('hidden')
   })
@@ -2436,6 +2455,8 @@ function startReadingSession() {
 function buildReadingHoverIndex(vocabWords, targetField) {
   const byId = new Map(vocabWords.map(w => [w.id, w]))
   const index = new Map()
+  readingVocabById = byId
+  readingTargetField = targetField
 
   for (const w of vocabWords) {
     const surface = w[targetField]
@@ -2448,8 +2469,8 @@ function buildReadingHoverIndex(vocabWords, targetField) {
     }
 
     for (const variant of surface.split(' / ')) {
-      const key = variant.trim().toLowerCase()
-      if (!key || key.includes(' ')) continue   // skip multi-word surface forms
+      const key = variant.trim().toLowerCase().split(/\s+/).join(' ')
+      if (!key) continue
       const existing = index.get(key)
       if (!existing || (!existing.isBase && isBase)) {
         index.set(key, { english: gloss, isBase })
@@ -2459,27 +2480,76 @@ function buildReadingHoverIndex(vocabWords, targetField) {
   return index
 }
 
-// Wrap each word in `text` that has a hover-index match with a span carrying
-// its dictionary gloss as a data attribute (shown via a pure-CSS tooltip);
-// everything else (punctuation, spacing, unmatched words) passes through as
-// plain escaped text.
-function renderHoverablePassage(text) {
-  if (!readingHoverIndex) return escHtml(text)
-  const re = /\p{L}+/gu
-  let html = ''
-  let lastIndex = 0
-  let m
-  while ((m = re.exec(text)) !== null) {
-    html += escHtml(text.slice(lastIndex, m.index))
-    const word  = m[0]
-    const entry = readingHoverIndex.get(word.toLowerCase())
-    html += entry
-      ? `<span class="hoverable-word" data-gloss="${escHtml(entry.english)}">${escHtml(word)}</span>`
-      : escHtml(word)
-    lastIndex = re.lastIndex
+// Words of a passage, matched against the vocabulary. A word is a run of
+// letters with their combining marks (so Devanagari and Bengali vowel signs
+// stay inside the word); up to four space-separated words can form one entry
+// (Vietnamese bệnh viện); and Chinese and Japanese, written without spaces,
+// are split by longest match.
+const READING_WORD = /[\p{L}\p{M}\p{Nd}]+(?:['’][\p{L}\p{M}]+)*/gu
+const CJK_CHAR = /[぀-ヿ㐀-鿿]/u
+function segmentPassage(text, has) {
+  const toks = [...text.matchAll(READING_WORD)].map(m => ({ s: m[0], a: m.index, b: m.index + m[0].length }))
+  const out = []   // { a, b, key|null }
+  for (let i = 0; i < toks.length;) {
+    const t = toks[i]
+    if (CJK_CHAR.test(t.s)) {
+      for (let j = 0; j < t.s.length;) {
+        let n = Math.min(10, t.s.length - j)
+        for (; n > 0; n--) if (has(t.s.slice(j, j + n).toLowerCase())) break
+        const len = n || 1
+        out.push({ a: t.a + j, b: t.a + j + len, key: n ? t.s.slice(j, j + len).toLowerCase() : null })
+        j += len
+      }
+      i++
+      continue
+    }
+    let hit = 0
+    for (let n = Math.min(4, toks.length - i); n > 0 && !hit; n--) {
+      const span = toks.slice(i, i + n)
+      if (span.some((x, k) => k > 0 && text.slice(span[k - 1].b, x.a).trim() !== '')) continue
+      const key = span.map(x => x.s.normalize('NFC').toLowerCase()).join(' ')
+      if (has(key)) { out.push({ a: span[0].a, b: span[n - 1].b, key }); hit = n }
+    }
+    if (!hit) { out.push({ a: t.a, b: t.b, key: null }); hit = 1 }
+    i += hit
   }
-  html += escHtml(text.slice(lastIndex))
+  return out
+}
+
+// Wrap each word in `text` that has a match with a span carrying its gloss
+// as a data attribute (shown via a pure-CSS tooltip). A passage's `words`
+// map (word as written → vocabulary id) names the exact entry for each word,
+// including inflected forms (comen → comer) and the right sense of words
+// spelled alike; other words fall back to an exact-spelling lookup.
+function renderHoverablePassage(text, words = {}) {
+  if (!readingHoverIndex) return escHtml(text)
+  const has = key => key in words || readingHoverIndex.has(key)
+  let html = ''
+  let last = 0
+  for (const seg of segmentPassage(text, has)) {
+    html += escHtml(text.slice(last, seg.a))
+    const word = text.slice(seg.a, seg.b)
+    let gloss = null
+    const linked = seg.key && words[seg.key] && readingVocabById?.get(words[seg.key])
+    if (linked) {
+      const lemma = linked[readingTargetField] || ''
+      gloss = lemma.toLowerCase() === seg.key ? linked.english : `${lemma}: ${linked.english}`
+    } else if (seg.key && readingHoverIndex.has(seg.key)) {
+      gloss = readingHoverIndex.get(seg.key).english
+    }
+    html += gloss
+      ? `<span class="hoverable-word" data-gloss="${escHtml(gloss).replace(/"/g, '&quot;')}">${escHtml(word)}</span>`
+      : escHtml(word)
+    last = seg.b
+  }
+  html += escHtml(text.slice(last))
   return html
+}
+
+// Reading text runs right to left for Arabic and Hebrew; the screens' own
+// English labels stay left to right.
+function readingDir() {
+  return ['ar', 'he'].includes(readingMeta?.languageCode) ? 'rtl' : 'ltr'
 }
 
 function showReadingPassage() {
@@ -2487,7 +2557,8 @@ function showReadingPassage() {
   const total   = readingSession.length
   $('reading-passage-counter').textContent      = `Passage ${readingPassageIdx + 1} of ${total}`
   $('reading-passage-progress').style.width     = `${(readingPassageIdx / total) * 100}%`
-  $('reading-passage-text').innerHTML           = renderHoverablePassage(passage.text)
+  $('reading-passage-text').innerHTML           = renderHoverablePassage(passage.text, passage.words)
+  $('reading-passage-text').dir                 = readingDir()
   showScreen('reading-passage-screen')
 }
 
@@ -2505,6 +2576,8 @@ function showReadingQuestion() {
 
   $('reading-question-passage').textContent  = passage.text
   $('reading-question-text').textContent     = question.question
+  $('reading-question-passage').dir          = readingDir()
+  $('reading-question-text').dir             = readingDir()
   $('reading-question-counter').textContent  = `Question ${readingQuestionIdx + 1} of ${qTotal}`
 
   const grid = $('reading-choices-grid')
@@ -2513,6 +2586,7 @@ function showReadingQuestion() {
     const btn = document.createElement('button')
     btn.className   = 'reading-choice-btn'
     btn.textContent = choice
+    btn.dir         = readingDir()
     btn.addEventListener('click', () => submitReadingAnswer(i))
     grid.appendChild(btn)
   })
@@ -2582,6 +2656,7 @@ function showReadingReview() {
     const textEl = document.createElement('div')
     textEl.className   = 'review-passage-text'
     textEl.textContent = r.passage.text
+    textEl.dir         = readingDir()
     block.appendChild(textEl)
 
     r.passage.questions.forEach((q, qi) => {
@@ -2591,6 +2666,7 @@ function showReadingReview() {
 
       const qBlock = document.createElement('div')
       qBlock.className = 'review-question-block'
+      qBlock.dir       = readingDir()
 
       const verdict = document.createElement('span')
       verdict.className   = `review-verdict ${isRight ? 'review-verdict-correct' : 'review-verdict-wrong'}`

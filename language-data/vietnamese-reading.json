@@ -1,0 +1,306 @@
+{
+  "meta": {
+    "language": "Vietnamese",
+    "languageCode": "vi",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Thứ sáu nào cậu ấy cũng đi học cùng các bạn. Họ đi bộ đến trường và đi ngang qua một cửa hàng. Lần nào họ cũng dừng lại ở đó để mua nước ngọt và khoai tây chiên. Họ vừa đi đến trường vừa ăn uống.",
+      "questions": [
+        {
+          "question": "Cậu ấy đi học cùng các bạn vào hôm nào?",
+          "choices": [
+            "Thứ hai",
+            "Thứ sáu",
+            "Chủ nhật",
+            "Hằng ngày"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Họ đến trường bằng cách nào?",
+          "choices": [
+            "Đi xe buýt",
+            "Đi ô tô",
+            "Đi xe đạp",
+            "Đi bộ"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Họ mua gì ở cửa hàng?",
+          "choices": [
+            "Nước ngọt và khoai tây chiên",
+            "Bánh mì và sữa",
+            "Hoa quả và nước ép",
+            "Cà phê và bánh ngọt"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Họ ăn uống ở đâu?",
+          "choices": [
+            "Ở trường",
+            "Ở nhà",
+            "Trên đường đến trường",
+            "Trong cửa hàng"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "thứ sáu": "304ba0b6-5ad7-4ebd-a12e-cae1dbf3fb3a",
+        "nào": "1fceba29-4b5e-48a2-8dec-8b7555015af6",
+        "cậu ấy": "72d94ef0-02cc-4fa0-b2d8-7f96551178d9",
+        "cũng": "bfe4754f-6434-48ec-98f2-d77e627823f4",
+        "đi": "d2f8bd8f-cc4f-4c34-ac20-76d5467bab0d",
+        "học": "b1a8d349-094b-4fe5-bece-633d1476b3c4",
+        "cùng": "6577e42a-4b64-4a76-9672-b684ca683e5b",
+        "các bạn": "e38dfaac-75d1-48b7-ae0c-6360cf43cc52",
+        "họ": "86c160cb-0d67-46af-8bd1-52718cf2c1df",
+        "đi bộ": "c752a022-a61d-4493-8b43-8e60fa19677f",
+        "đến": "330867f4-f000-46c0-9bf1-1cdbc0e5abdb",
+        "trường": "4c5d6894-294c-4b98-8d83-ae0940804301",
+        "và": "d0d66e81-992b-467c-a3b0-523ba9f0d964",
+        "ngang qua": "20dfaa70-beb7-4dcd-ad09-4d33ebacd856",
+        "một": "b6c9c1a2-c97b-4757-ac90-e84ecd4e9cde",
+        "cửa hàng": "6a998c3f-bdbe-47ff-ab67-9c3f3508bbbc",
+        "lần": "0c3e9a8d-0fbc-4ced-b1d2-92bc1b46dff7",
+        "dừng lại": "430cc3d1-7f18-4168-9ec8-c3c07635a521",
+        "ở": "d10625fe-3422-4535-8e72-160e4fbb5f1a",
+        "đó": "0bb910e4-fda8-4481-a7c3-7bbae11b6625",
+        "để": "0e47dda0-408b-4156-900e-a6c0d87f30da",
+        "mua": "0fae5958-c9b5-4b9c-b8b9-03a11fd00e96",
+        "nước ngọt": "dcf68c84-0feb-4f8f-9348-4cc1064d7736",
+        "khoai tây chiên": "7c738bd3-cd98-484e-bf32-0193ed481962",
+        "vừa": "f546ac97-84d1-4e01-a33e-a63fe5a7a176",
+        "ăn": "d3ccaeb0-36b3-45e7-9132-b59f01ec169d",
+        "uống": "68b9077e-7bc8-42af-9de5-e8e87d39c01e"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Cô ấy rất yêu những con chó của mình. Cô ấy có một con chó cái to, lông dài màu trắng. Cô ấy còn có một con chó đực nhỏ, lông ngắn màu nâu. Con chó cái ít tuổi hơn con chó đực.",
+      "questions": [
+        {
+          "question": "Cô ấy có mấy con chó?",
+          "choices": [
+            "Một con",
+            "Ba con",
+            "Hai con",
+            "Bốn con"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Lông con chó cái màu gì?",
+          "choices": [
+            "Màu trắng",
+            "Màu nâu",
+            "Màu đen",
+            "Màu xám"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Con chó đực trông thế nào?",
+          "choices": [
+            "To, lông dài màu trắng",
+            "Nhỏ, lông dài màu trắng",
+            "To, lông ngắn màu nâu",
+            "Nhỏ, lông ngắn màu nâu"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Con nào ít tuổi hơn?",
+          "choices": [
+            "Con chó đực",
+            "Con chó cái",
+            "Hai con bằng tuổi nhau",
+            "Bài không nói"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "cô ấy": "467c244d-a67f-43a1-841c-9f8b083a03a1",
+        "rất": "cfb67834-1149-4ae9-b8fd-b7fa5f427268",
+        "yêu": "04db3196-cf3d-4b43-9339-040a4ca0c7e3",
+        "những": "b2332f94-42bb-49c0-be74-4ce54575f22f",
+        "con": "eba0f7b0-32d1-44ae-952a-6fa75a054176",
+        "chó": "453b9e7f-20a4-4587-9dc6-233f3ebfb058",
+        "của": "219db63e-1c2b-4834-8fac-1897f97a8c7c",
+        "mình": "4a0b09e6-ba6a-4928-adbb-f146fe209088",
+        "có": "ced5f042-03db-42e7-a215-ba7a3662503f",
+        "một": "b6c9c1a2-c97b-4757-ac90-e84ecd4e9cde",
+        "cái": "c3610cdd-6203-4061-be4b-759cf104a66e",
+        "to": "be741382-0610-4714-a8aa-5e64696d3c8a",
+        "lông": "783626f2-ed0e-4ef1-ac2b-be51e499d0fa",
+        "dài": "cfc488e3-748f-48a1-a1c1-93cb85ec6bf2",
+        "màu": "beaafe9f-4b65-4b8d-8722-772d6c08ff4a",
+        "trắng": "0ea550cc-78dd-4455-ae34-92858474e9e8",
+        "còn": "4e04f277-1bfa-4e57-bf9a-b70d9d6a631d",
+        "đực": "8e854a4c-5d9a-4e26-b300-913991f361f7",
+        "nhỏ": "585cc9e8-5439-4569-870d-79458bb7dca5",
+        "ngắn": "dbde8b56-6a3f-489e-9b7f-dac5dad6c8b8",
+        "nâu": "7ba7d13a-d7bd-41b2-95cf-c6c6921c45a5",
+        "ít": "3e33c5b1-5521-4ed3-bc2e-d9357c55ce5d",
+        "tuổi": "b8e51685-4261-407a-a49b-0a9b4e628fcc",
+        "hơn": "8ed09bc3-5d08-4c44-baf4-e7d50855b3a1"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Mẹ của họ làm y tá ở một bệnh viện. Bà giúp đỡ những người bị ốm. Bà làm việc cùng các bác sĩ để giúp bệnh nhân khỏi bệnh. Bà luôn để ý cho bệnh nhân uống thuốc đầy đủ.",
+      "questions": [
+        {
+          "question": "Mẹ của họ làm việc ở đâu?",
+          "choices": [
+            "Ở trường học",
+            "Ở cửa hàng",
+            "Ở ngân hàng",
+            "Ở bệnh viện"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mẹ của họ làm nghề gì?",
+          "choices": [
+            "Bác sĩ",
+            "Y tá",
+            "Giáo viên",
+            "Đầu bếp"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Bà làm việc cùng ai?",
+          "choices": [
+            "Các giáo viên",
+            "Các kỹ sư",
+            "Các bác sĩ",
+            "Các cảnh sát"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Bà luôn để ý điều gì?",
+          "choices": [
+            "Bệnh nhân uống thuốc",
+            "Bệnh nhân ăn sáng",
+            "Bác sĩ đến đúng giờ",
+            "Bệnh viện sạch sẽ"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "mẹ": "1b0bece4-4cb2-4838-9f8f-7b6edf2cf1e6",
+        "của": "219db63e-1c2b-4834-8fac-1897f97a8c7c",
+        "họ": "86c160cb-0d67-46af-8bd1-52718cf2c1df",
+        "làm": "63314ad1-2fb7-464a-8b9b-287c2fa1b23c",
+        "y tá": "7e1b2b1d-8e22-4fd3-9ddd-4777451a74fa",
+        "ở": "d10625fe-3422-4535-8e72-160e4fbb5f1a",
+        "một": "b6c9c1a2-c97b-4757-ac90-e84ecd4e9cde",
+        "bệnh viện": "cf3e9ff3-96b6-4db8-b464-2df9acc1c05c",
+        "bà": "9a644f0b-a427-4bca-8a67-84ba49af782e",
+        "giúp đỡ": "0988de0e-d2e2-4e1f-98eb-cb43e8b5a344",
+        "những": "b2332f94-42bb-49c0-be74-4ce54575f22f",
+        "người": "60e2a227-2d8a-4d76-8579-49615fd2af30",
+        "bị": "89588ad2-5c6e-448d-b2a7-69985f6a2a22",
+        "ốm": "af03bd13-1138-4b8d-9347-d0de9a30457e",
+        "làm việc": "bfe0989e-9a6d-4dc2-8067-07d59d3c5df7",
+        "cùng": "6577e42a-4b64-4a76-9672-b684ca683e5b",
+        "các": "103c6c6f-7cbb-41d6-8ce0-a29e48754878",
+        "bác sĩ": "fcb7a8d6-972e-42d0-b724-5e041682a236",
+        "để": "0e47dda0-408b-4156-900e-a6c0d87f30da",
+        "giúp": "0fecaf83-6fc6-437b-89e0-d3949ae9fb0d",
+        "bệnh nhân": "ce9e92e8-1587-451e-b907-7bd5f06f2bd2",
+        "khỏi bệnh": "394125f6-abe9-42aa-9d45-9b4825b61616",
+        "luôn": "641f5086-6525-4b03-8980-0dab32a7321d",
+        "để ý": "5163ef65-6fb6-4c42-8a73-c3f62fbc6837",
+        "cho": "9a771c11-c527-453a-8e47-4bac496cb8a3",
+        "uống": "68b9077e-7bc8-42af-9de5-e8e87d39c01e",
+        "thuốc": "3317481b-ff1d-41b9-aa75-dd0b7c263817",
+        "đầy đủ": "0fd93d1f-4e62-4fad-8b88-dd4556c5251c"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Bố của họ làm việc ở một công ty phần mềm. Ông kiểm thử phần mềm. Ông đảm bảo phần mềm chạy tốt trước khi đưa cho mọi người sử dụng. Ông rất cẩn thận và kiểm thử phần mềm rất kỹ.",
+      "questions": [
+        {
+          "question": "Bố của họ làm việc ở đâu?",
+          "choices": [
+            "Ở một công ty phần mềm",
+            "Ở bệnh viện",
+            "Ở trường học",
+            "Ở cửa hàng"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Ông làm gì?",
+          "choices": [
+            "Bán máy tính",
+            "Sửa ô tô",
+            "Kiểm thử phần mềm",
+            "Dạy ở trường"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Ông kiểm thử phần mềm khi nào?",
+          "choices": [
+            "Sau khi mọi người đã dùng",
+            "Trước khi đưa cho mọi người sử dụng",
+            "Chỉ vào thứ sáu",
+            "Vào ban đêm"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Ông kiểm thử phần mềm như thế nào?",
+          "choices": [
+            "Nhanh và cẩu thả",
+            "Chỉ thỉnh thoảng",
+            "Cùng các con",
+            "Rất cẩn thận và kỹ lưỡng"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "bố": "573389c5-cee3-49ef-a308-ac58e20ad363",
+        "của": "219db63e-1c2b-4834-8fac-1897f97a8c7c",
+        "họ": "86c160cb-0d67-46af-8bd1-52718cf2c1df",
+        "làm việc": "bfe0989e-9a6d-4dc2-8067-07d59d3c5df7",
+        "ở": "d10625fe-3422-4535-8e72-160e4fbb5f1a",
+        "một": "b6c9c1a2-c97b-4757-ac90-e84ecd4e9cde",
+        "công ty": "a7db2c5d-7bc7-4cf4-bd68-5665db26eacb",
+        "phần mềm": "6ededdee-44a5-4e25-ac5c-85539f0b1dca",
+        "ông": "c83da0a4-bd1a-4aec-9bc3-70e4a17c8814",
+        "kiểm thử": "6ad84ff4-99d6-4fe4-b8bd-fc152b118fdc",
+        "đảm bảo": "e427045d-27e5-419c-959a-0a36266fb496",
+        "chạy": "925a90b4-7588-4dcf-94cd-d92b97ee50ca",
+        "tốt": "83dc3239-3c94-4ed9-a326-890e5fced214",
+        "trước khi": "dc60ba91-e359-4b43-bc0f-9df1a9726ad8",
+        "đưa": "ee145dc9-936c-4e53-8b3d-e5bfe3712d0c",
+        "cho": "9a771c11-c527-453a-8e47-4bac496cb8a3",
+        "mọi người": "24b0dcb3-9648-49e5-aeb2-706c77905238",
+        "sử dụng": "95874d10-b38e-4e1e-9008-8e67f07cedb5",
+        "rất": "cfb67834-1149-4ae9-b8fd-b7fa5f427268",
+        "cẩn thận": "7c2de74b-78ae-4cb4-ad6e-f0d254d75473",
+        "và": "d0d66e81-992b-467c-a3b0-523ba9f0d964",
+        "kỹ": "19cf598e-dcaf-4333-9926-6c2537117fac"
+      }
+    }
+  ]
+}

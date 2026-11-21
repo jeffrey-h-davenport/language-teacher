@@ -1,0 +1,307 @@
+{
+  "meta": {
+    "language": "Romanian",
+    "languageCode": "ro",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Vinerea, el merge la școală cu prietenii lui. Merg pe jos la școală și trec pe lângă magazin. Se opresc mereu acolo și cumpără suc și chipsuri. Mănâncă și beau în drum spre școală.",
+      "questions": [
+        {
+          "question": "Când merge el la școală cu prietenii lui?",
+          "choices": [
+            "Lunea",
+            "Vinerea",
+            "Duminica",
+            "În fiecare zi"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Cum merg la școală?",
+          "choices": [
+            "Cu autobuzul",
+            "Cu mașina",
+            "Cu bicicleta",
+            "Pe jos"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Ce cumpără de la magazin?",
+          "choices": [
+            "Suc și chipsuri",
+            "Pâine și lapte",
+            "Fructe și apă",
+            "Cafea și prăjituri"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Unde mănâncă și beau?",
+          "choices": [
+            "La școală",
+            "Acasă",
+            "În drum spre școală",
+            "În magazin"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "vinerea": "53202f75-e12c-43f3-a301-823db7238369",
+        "el": "ba63831f-2c5a-41ab-9d38-bada653d7b75",
+        "merge": "a82b5d68-de16-4d1f-b824-84e84300666b",
+        "la": "23038096-0f4b-4ed8-a87c-b05940b63f99",
+        "școală": "add15db3-8635-42cb-9743-5fd5facb874b",
+        "cu": "93c6f9ec-f846-4a85-a49d-b1916374d00a",
+        "prietenii": "a2b2f48c-edc7-45ef-809a-d65390e17f74",
+        "lui": "b0b17974-e8ff-4f0e-bffd-3bafe4262615",
+        "merg": "a82b5d68-de16-4d1f-b824-84e84300666b",
+        "pe": "a4abc78e-4e35-4852-bbdb-f3be8d4afb52",
+        "jos": "d228f1f7-07ad-409a-b5a5-e5c887979722",
+        "și": "bbe0d50d-3523-42ca-8aee-3ea926892c73",
+        "trec": "b16ed26a-12ff-4ffb-81dc-0e2becfc530f",
+        "lângă": "24f060a4-bcd1-4373-92d3-bcc75082b76a",
+        "magazin": "5eca3ed9-d42a-497f-9620-3a4b6d61ef53",
+        "se": "e07f018e-9b2c-4497-8d7d-8d9e7a3db649",
+        "opresc": "9fa8e50a-a50d-424d-8ee5-8d28ab54a473",
+        "mereu": "7ed1a36f-e3f9-4a29-afa5-92b752f3b79d",
+        "acolo": "c34be041-925c-4451-a8f7-42ae05ac1e9d",
+        "cumpără": "9d12ee78-a00b-43d7-b85f-05516362f1eb",
+        "suc": "64e0b2e6-c05c-4d62-87bc-5f4a6ff6737c",
+        "chipsuri": "a0eaff80-6ae7-4595-afca-9eca7406d88f",
+        "mănâncă": "746ddbf5-f312-49fc-9f9b-2ba3b11ca9d3",
+        "beau": "e0b6c8a3-6c9a-49e9-8f9b-449a75790960",
+        "în": "db106e48-6346-4d3d-885a-28b3c24ba91b",
+        "drum": "47b6d1b3-aa58-4b30-8eb6-9b0db1bf3311",
+        "spre": "373cd710-068a-4ea1-a47d-e04c2a94228d"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Ea își iubește câinii. Are o cățea mare, cu blana lungă și albă. Are și un câine mic, cu blana scurtă și maro. Cățeaua este mai tânără decât câinele.",
+      "questions": [
+        {
+          "question": "Câți câini are?",
+          "choices": [
+            "Unul",
+            "Trei",
+            "Doi",
+            "Patru"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Ce culoare are blana cățelei?",
+          "choices": [
+            "Albă",
+            "Maro",
+            "Neagră",
+            "Gri"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Cum este câinele?",
+          "choices": [
+            "Mare, cu blana lungă și albă",
+            "Mic, cu blana lungă și albă",
+            "Mare, cu blana scurtă și maro",
+            "Mic, cu blana scurtă și maro"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Care este mai tânăr?",
+          "choices": [
+            "Câinele",
+            "Cățeaua",
+            "Au aceeași vârstă",
+            "Nu se știe"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "ea": "89ece110-0429-489b-af39-407a1ef6f42c",
+        "își": "0b25f5f6-3250-4e77-807d-53f7d952763e",
+        "iubește": "26bf3fda-37e1-4d47-8d73-cef9ceb7a8f4",
+        "câinii": "de699f61-1db7-40da-bdef-8d1089acd6a8",
+        "are": "043dafdf-3bdf-4bf6-b3a6-844dac29c3ad",
+        "o": "310f4ca9-d3bb-40ea-bba5-04af13760eb8",
+        "cățea": "888aa97e-122f-44dc-bfbc-c7b9a17f3f17",
+        "mare": "3ffb0261-6f53-4a95-bc7a-96c5a03e1a66",
+        "cu": "93c6f9ec-f846-4a85-a49d-b1916374d00a",
+        "blana": "1fe375a8-f335-4b82-b5e1-77b2fb21bd98",
+        "lungă": "aa6f8c1f-80c8-458a-ae70-f2c326cde8fb",
+        "și": "bbe0d50d-3523-42ca-8aee-3ea926892c73",
+        "albă": "bbd1e645-7f31-4f59-8f37-c8acb686cf42",
+        "un": "310f4ca9-d3bb-40ea-bba5-04af13760eb8",
+        "câine": "de699f61-1db7-40da-bdef-8d1089acd6a8",
+        "mic": "7ffd90e2-5997-406a-a955-52a615944ea1",
+        "scurtă": "be71f479-6dec-4715-9c2b-1504d68ae3ac",
+        "maro": "e0885db4-fa0a-44da-8947-6a997e56b1d3",
+        "cățeaua": "888aa97e-122f-44dc-bfbc-c7b9a17f3f17",
+        "este": "bb85490f-445b-4b8a-ae1d-5bba6883cbf9",
+        "mai": "b7717b82-9760-47d7-bf2a-59284c9cc44b",
+        "tânără": "6cbecbc6-40d7-415e-9cca-88fd6a83a2fe",
+        "decât": "510104ad-68e4-4e1e-936f-3982b5e18e0d",
+        "câinele": "de699f61-1db7-40da-bdef-8d1089acd6a8"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Mama lor lucrează la un spital ca asistentă medicală. Ajută oamenii bolnavi. Lucrează cu medicii ca pacienții să se facă bine. Are grijă ca pacienții să își ia medicamentele.",
+      "questions": [
+        {
+          "question": "Unde lucrează mama lor?",
+          "choices": [
+            "La o școală",
+            "La un magazin",
+            "La o bancă",
+            "La un spital"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Ce meserie are?",
+          "choices": [
+            "Medic",
+            "Asistentă medicală",
+            "Profesoară",
+            "Bucătăreasă"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Cu cine lucrează?",
+          "choices": [
+            "Cu profesorii",
+            "Cu inginerii",
+            "Cu medicii",
+            "Cu polițiștii"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "De ce are grijă?",
+          "choices": [
+            "Ca pacienții să își ia medicamentele",
+            "Ca pacienții să mănânce micul dejun",
+            "Ca medicii să vină la timp",
+            "Ca spitalul să fie curat"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "mama": "35515422-3998-4653-9dbf-50274c982ce4",
+        "lor": "4964447a-cbd0-4d35-9181-d01da33560c8",
+        "lucrează": "67c051ce-a98b-4175-85a6-db6059390832",
+        "la": "23038096-0f4b-4ed8-a87c-b05940b63f99",
+        "un": "310f4ca9-d3bb-40ea-bba5-04af13760eb8",
+        "spital": "ff4895aa-d7cf-4cc0-8b70-8048d8f1ea1b",
+        "ca": "6cc7ace2-45fd-4930-b1c5-4b2e6664912e",
+        "asistentă medicală": "9dca2f8c-6e05-4dd6-a5f5-f95b3a2c369d",
+        "ajută": "d9aa5126-ced7-4321-b8fa-d55bf5d0ea2b",
+        "oamenii": "a0a856da-9c76-4f9c-b76f-0ffc6c9b1166",
+        "bolnavi": "efef5fe2-34b3-473b-84db-2a9fe2bcabe9",
+        "cu": "93c6f9ec-f846-4a85-a49d-b1916374d00a",
+        "medicii": "9c51efd0-a455-46a3-83c9-c1dfd0c85389",
+        "pacienții": "be6e2a6e-0f6e-4069-816e-4cb4b73d326b",
+        "să": "6b7439b2-30b8-42b9-ad3c-707e275f2c68",
+        "se": "e07f018e-9b2c-4497-8d7d-8d9e7a3db649",
+        "facă": "ae990cf3-023f-415d-bf60-b79e25e10e2f",
+        "bine": "4e49ff40-ecda-45c5-b7a6-909757ca2714",
+        "are": "043dafdf-3bdf-4bf6-b3a6-844dac29c3ad",
+        "grijă": "b4935580-44fe-49a3-a1f0-9307ffa31d7f",
+        "își": "0b25f5f6-3250-4e77-807d-53f7d952763e",
+        "ia": "d22e0206-f76f-48dd-b1ff-dd21c762af61",
+        "medicamentele": "b2cda72b-0e08-4926-8cce-a460fe1a6929"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Tatăl lor lucrează la o firmă de software. Testează programe. Se asigură că programele funcționează corect înainte să fie date oamenilor. Este foarte atent și testează totul în detaliu.",
+      "questions": [
+        {
+          "question": "Unde lucrează tatăl lor?",
+          "choices": [
+            "La o firmă de software",
+            "La un spital",
+            "La o școală",
+            "La un magazin"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Ce face el?",
+          "choices": [
+            "Vinde calculatoare",
+            "Repară mașini",
+            "Testează programe",
+            "Predă la o școală"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Când testează programele?",
+          "choices": [
+            "După ce oamenii le folosesc",
+            "Înainte să fie date oamenilor",
+            "Doar vinerea",
+            "Noaptea"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Cum testează programele?",
+          "choices": [
+            "Repede și neatent",
+            "Doar uneori",
+            "Cu copiii lui",
+            "Foarte atent și în detaliu"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "tatăl": "c14bf03a-d1d9-4109-8418-64528980b05b",
+        "lor": "4964447a-cbd0-4d35-9181-d01da33560c8",
+        "lucrează": "67c051ce-a98b-4175-85a6-db6059390832",
+        "la": "23038096-0f4b-4ed8-a87c-b05940b63f99",
+        "o": "310f4ca9-d3bb-40ea-bba5-04af13760eb8",
+        "firmă": "1d94c356-1bce-4124-80fa-2e111c1fbd92",
+        "de": "395efaf9-a3a7-45d0-b9ce-eff962657b3e",
+        "software": "19d6317e-5a76-4536-a35e-c2a54e80b893",
+        "testează": "9f495ea8-c6e9-4a62-9715-f3e43af66016",
+        "programe": "4efd1667-cbf3-4787-8ff4-8d18abf73494",
+        "se": "e07f018e-9b2c-4497-8d7d-8d9e7a3db649",
+        "asigură": "6097719d-b7e4-4d6f-a4a9-957cc51c024a",
+        "că": "40f5916f-9797-40d1-942a-3ddcc67340a5",
+        "programele": "4efd1667-cbf3-4787-8ff4-8d18abf73494",
+        "funcționează": "d8fbd47a-3a3a-4428-b613-3e8ba6a82270",
+        "corect": "59b926df-e147-417f-9e73-20c371657b15",
+        "înainte": "4689b1e2-c201-4895-8c61-302f5bbac0b1",
+        "să": "6b7439b2-30b8-42b9-ad3c-707e275f2c68",
+        "fie": "bb85490f-445b-4b8a-ae1d-5bba6883cbf9",
+        "date": "5a0ad9d0-be58-491e-a599-b6a3ee376f06",
+        "oamenilor": "a0a856da-9c76-4f9c-b76f-0ffc6c9b1166",
+        "este": "bb85490f-445b-4b8a-ae1d-5bba6883cbf9",
+        "foarte": "25bc0767-0f8b-4f34-abef-b39fcb541322",
+        "atent": "78618860-198b-4201-a9ed-336b957bc94c",
+        "și": "bbe0d50d-3523-42ca-8aee-3ea926892c73",
+        "totul": "447f65c7-db26-4547-bc4f-6d0beedd5925",
+        "în": "db106e48-6346-4d3d-885a-28b3c24ba91b",
+        "detaliu": "6c0b61e2-3c1e-45f9-b423-4bec2a17c952"
+      }
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "meta": {
+    "language": "Turkish",
+    "languageCode": "tr",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Cuma günleri arkadaşlarıyla okula gider. Okula yürüyerek giderler ve dükkânın önünden geçerler. Her zaman orada durup gazlı içecek ve cips alırlar. Okul yolunda yiyip içerler.",
+      "questions": [
+        {
+          "question": "Arkadaşlarıyla okula ne zaman gider?",
+          "choices": [
+            "Pazartesi günleri",
+            "Cuma günleri",
+            "Pazar günleri",
+            "Her gün"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Okula nasıl giderler?",
+          "choices": [
+            "Otobüsle",
+            "Arabayla",
+            "Bisikletle",
+            "Yürüyerek"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Dükkândan ne alırlar?",
+          "choices": [
+            "Gazlı içecek ve cips",
+            "Ekmek ve süt",
+            "Meyve ve meyve suyu",
+            "Kahve ve pasta"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Nerede yiyip içerler?",
+          "choices": [
+            "Okulda",
+            "Evde",
+            "Okul yolunda",
+            "Dükkânda"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "cuma": "2093c6c6-74e8-4aa5-a748-6633fa3edb40",
+        "günleri": "ed4de6e7-35ec-48af-acca-2ca2488729d3",
+        "arkadaşlarıyla": "b2202e1d-4ca7-41b9-85d1-d766dc5d8252",
+        "okula": "df93602d-72b0-4783-a346-94befc7e8fbb",
+        "gider": "dc1377d8-f677-4ac2-a665-29bfce9f74c1",
+        "yürüyerek": "805785f9-b8d2-44d5-b47a-79bdb48562a8",
+        "giderler": "dc1377d8-f677-4ac2-a665-29bfce9f74c1",
+        "ve": "aafe8018-c47d-4bcf-8d89-5b01e3b404d6",
+        "dükkânın": "bd4a7c3e-9563-462f-bcfe-0d32d4722f16",
+        "önünden": "ffa9cb82-bf49-4f8e-9be1-f227e29f481e",
+        "geçerler": "e727b164-8a62-48fd-a3b2-ebad12c62557",
+        "her zaman": "79dc2d49-f20a-49ea-be49-20ebf572a42a",
+        "orada": "4328adb1-f725-4119-be75-516fa1cd005e",
+        "durup": "94c044c0-de78-4b47-bb04-0a3c36937f5b",
+        "gazlı": "5333da9e-4fbb-4fe6-bf06-6e9b93e1cfbc",
+        "içecek": "97590c60-80cf-409d-bdcd-b528fa9e2937",
+        "cips": "1955728d-cca9-4cd1-96fd-b099b357fe09",
+        "alırlar": "68bfcf2a-83a3-4157-9599-9867fdbf587f",
+        "okul": "df93602d-72b0-4783-a346-94befc7e8fbb",
+        "yolunda": "b87a2fab-6671-4e35-8044-4058ebd49bf8",
+        "yiyip": "3d8ae663-d522-41d3-b8a0-4aa15ef9a6e5",
+        "içerler": "fc1f2886-365c-4d0c-9eb8-2127a162bd1c"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Köpeklerini çok seviyor. Uzun beyaz tüylü, büyük bir dişi köpeği var. Kısa kahverengi tüylü, küçük bir erkek köpeği de var. Dişi köpek erkek köpekten daha genç.",
+      "questions": [
+        {
+          "question": "Kaç köpeği var?",
+          "choices": [
+            "Bir",
+            "Üç",
+            "İki",
+            "Dört"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Dişi köpeğin tüyleri ne renk?",
+          "choices": [
+            "Beyaz",
+            "Kahverengi",
+            "Siyah",
+            "Gri"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Erkek köpek nasıl?",
+          "choices": [
+            "Büyük ve uzun beyaz tüylü",
+            "Küçük ve uzun beyaz tüylü",
+            "Büyük ve kısa kahverengi tüylü",
+            "Küçük ve kısa kahverengi tüylü"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Hangi köpek daha genç?",
+          "choices": [
+            "Erkek köpek",
+            "Dişi köpek",
+            "Aynı yaştalar",
+            "Metinde yazmıyor"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "köpeklerini": "44afbb1a-4ba6-499a-9b5b-11c104be50bf",
+        "çok": "6c3a023b-5dde-4454-b393-eba069235f2e",
+        "seviyor": "524577a1-7c71-4d29-921d-ffce19f0cd02",
+        "uzun": "b286992f-f9ca-44d9-9380-f601ef1a5fce",
+        "beyaz": "2e78eeb8-bf39-4f93-92e8-d4b7a507e4a9",
+        "tüylü": "c30880e6-9bbc-4752-bf6e-5a9126e82bc8",
+        "büyük": "9f04181d-78c1-4038-b6e0-d59ac7aaaa2c",
+        "bir": "92df38f5-b1df-4a1b-bc34-b9462addcd53",
+        "dişi": "b316c15e-2896-4894-89fc-ce21534a0bba",
+        "köpeği": "44afbb1a-4ba6-499a-9b5b-11c104be50bf",
+        "var": "f34dfefb-9204-40f8-9cd0-a5dcd141b3f2",
+        "kısa": "929e0460-03ee-4018-aea0-fc785de923bf",
+        "kahverengi": "44e60693-5039-4e5d-99d4-7de82f22ec2f",
+        "küçük": "e0ebf247-c43e-46fd-b05a-8ec8ad0635d8",
+        "erkek": "73a5bc8b-a4c2-48b5-8c5f-56da8a14bf64",
+        "de": "96c134e8-709d-4c25-853d-f825198478ac",
+        "köpek": "44afbb1a-4ba6-499a-9b5b-11c104be50bf",
+        "köpekten": "44afbb1a-4ba6-499a-9b5b-11c104be50bf",
+        "daha": "058d67a1-6a17-4830-b2c4-8b40bc131aca",
+        "genç": "e1dc2367-e927-47e2-9a71-064b08b19510"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Anneleri bir hastanede hemşire olarak çalışıyor. Hasta insanlara yardım ediyor. Hastaların iyileşmesi için doktorlarla birlikte çalışıyor. Hastaların ilaçlarını almasını sağlıyor.",
+      "questions": [
+        {
+          "question": "Anneleri nerede çalışıyor?",
+          "choices": [
+            "Bir okulda",
+            "Bir dükkânda",
+            "Bir bankada",
+            "Bir hastanede"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mesleği ne?",
+          "choices": [
+            "Doktor",
+            "Hemşire",
+            "Öğretmen",
+            "Aşçı"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kimlerle birlikte çalışıyor?",
+          "choices": [
+            "Öğretmenlerle",
+            "Mühendislerle",
+            "Doktorlarla",
+            "Polislerle"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Neyi sağlıyor?",
+          "choices": [
+            "Hastaların ilaçlarını almasını",
+            "Hastaların kahvaltı yapmasını",
+            "Doktorların zamanında gelmesini",
+            "Hastanenin temiz olmasını"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "anneleri": "4c077c9c-b9c3-49a7-b84e-977af3d326ea",
+        "bir": "92df38f5-b1df-4a1b-bc34-b9462addcd53",
+        "hastanede": "cd3aa944-0d6e-4b3f-b563-58ce4844deb9",
+        "hemşire": "79d9a27a-34c3-4eb2-ac5b-94184a9134dc",
+        "olarak": "ec9bbaf2-a5cc-45e9-9fd3-f197797c3dd1",
+        "çalışıyor": "d720aff5-3b15-4ce0-86fb-69ad76bbe59d",
+        "hasta": "2d642d94-b0b1-47d2-aaa2-c9adce282b83",
+        "insanlara": "f648c8fb-59fa-4c08-a00a-54e4be892408",
+        "yardım": "65c8ffb4-e50a-4151-8ba6-27bb1b73ea84",
+        "ediyor": "b4c4aea2-a89f-423b-87d0-21d0df7f5cde",
+        "hastaların": "2d642d94-b0b1-47d2-aaa2-c9adce282b83",
+        "iyileşmesi": "6b712068-4f75-4f3b-9d5d-ab7b4cee57bf",
+        "için": "0d41553b-9916-475a-91b7-95cd8fd1b6dc",
+        "doktorlarla": "5dce6f51-a2b1-4c1e-a4e6-02a576ae7cd5",
+        "birlikte": "e064fcbe-b5fc-4680-ae9f-efbcd677f95d",
+        "ilaçlarını": "25bd2d39-78fb-4a98-8abd-f6327819f0d5",
+        "almasını": "68bfcf2a-83a3-4157-9599-9867fdbf587f",
+        "sağlıyor": "c356e4cf-5228-40a3-8907-4f6a22d1fbfb"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Babaları bir yazılım şirketinde çalışıyor. Yazılım test ediyor. Yazılım insanların kullanımına verilmeden önce düzgün çalıştığından emin oluyor. Çok dikkatli ve yazılımı baştan sona test ediyor.",
+      "questions": [
+        {
+          "question": "Babaları nerede çalışıyor?",
+          "choices": [
+            "Bir yazılım şirketinde",
+            "Bir hastanede",
+            "Bir okulda",
+            "Bir dükkânda"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Ne iş yapıyor?",
+          "choices": [
+            "Bilgisayar satıyor",
+            "Araba tamir ediyor",
+            "Yazılım test ediyor",
+            "Bir okulda ders veriyor"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Yazılımı ne zaman test ediyor?",
+          "choices": [
+            "İnsanlar kullandıktan sonra",
+            "İnsanların kullanımına verilmeden önce",
+            "Sadece cuma günleri",
+            "Geceleri"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Yazılımı nasıl test ediyor?",
+          "choices": [
+            "Hızlı ve dikkatsizce",
+            "Sadece bazen",
+            "Çocuklarıyla birlikte",
+            "Çok dikkatli ve baştan sona"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "babaları": "b58d9481-0890-43f7-a154-57223da8d7c1",
+        "bir": "92df38f5-b1df-4a1b-bc34-b9462addcd53",
+        "yazılım": "1ef5aebc-4fc9-43e2-96d7-a59a0338bd4e",
+        "şirketinde": "7e2e1a27-af14-43c7-9eae-fb49ce374619",
+        "çalışıyor": "d720aff5-3b15-4ce0-86fb-69ad76bbe59d",
+        "test": "28540fec-ecfc-481f-ba60-50d1ef474767",
+        "ediyor": "b4c4aea2-a89f-423b-87d0-21d0df7f5cde",
+        "insanların": "f648c8fb-59fa-4c08-a00a-54e4be892408",
+        "kullanımına": "b807134b-fc58-44ad-9b2e-6a44b79b5af6",
+        "verilmeden": "b27a2629-b17e-4a66-9483-c95dee6403b8",
+        "önce": "c1d6d239-fc96-44dd-817b-aec38c747308",
+        "düzgün": "3beb2dcf-0abc-4124-af21-8268ca57f87a",
+        "çalıştığından": "d720aff5-3b15-4ce0-86fb-69ad76bbe59d",
+        "emin": "76340298-9814-4b82-8bb9-8e1d56101237",
+        "oluyor": "8c4e499e-7724-4c20-a9ce-569a97b0a225",
+        "çok": "6c3a023b-5dde-4454-b393-eba069235f2e",
+        "dikkatli": "6952aeae-e4ae-4c38-ac94-9edc0d6bfd1d",
+        "ve": "aafe8018-c47d-4bcf-8d89-5b01e3b404d6",
+        "yazılımı": "1ef5aebc-4fc9-43e2-96d7-a59a0338bd4e",
+        "baştan sona": "1bb99225-4882-4485-b852-6627b3b92e2d"
+      }
+    }
+  ]
+}

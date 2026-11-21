@@ -5577,6 +5577,293 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "745d171f-bfd6-4058-97a0-9df6e569e4e3",
+      "part-of-speech": "adjective",
+      "english": "every, each",
+      "indonesian": "setiap",
+      "cefr": "A1",
+      "ipa": "[səˈtiap]",
+      "register": [
+        "All"
+      ],
+      "context": "setiap hari Jumat: every Friday"
+    },
+    {
+      "id": "0d1a475b-08ef-4fc5-920a-ecbe50f6b078",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "indonesian": "melewati",
+      "cefr": "A2",
+      "ipa": "[məlɛˈwati]",
+      "register": [
+        "All"
+      ],
+      "context": "from lewat"
+    },
+    {
+      "id": "91d66ab5-6bd4-425e-ace2-59d18d23c331",
+      "part-of-speech": "verb",
+      "english": "to stop by, to drop in",
+      "indonesian": "mampir",
+      "cefr": "A2",
+      "ipa": "[ˈmampir]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "553d6d5d-d8f7-49b3-b2c6-f4616a7568ba",
+      "part-of-speech": "adjective",
+      "english": "carbonated, fizzy",
+      "indonesian": "bersoda",
+      "cefr": "A2",
+      "ipa": "[bərˈsɔda]",
+      "register": [
+        "All"
+      ],
+      "context": "minuman bersoda: soda"
+    },
+    {
+      "id": "36992cca-c361-40b7-a0d3-af7a4bb10cb3",
+      "part-of-speech": "noun",
+      "english": "chips",
+      "indonesian": "keripik",
+      "cefr": "A2",
+      "ipa": "[kəˈripɪʔ]",
+      "register": [
+        "All"
+      ],
+      "context": "keripik kentang: potato chips"
+    },
+    {
+      "id": "b064be01-c048-498c-8fe7-00c883761102",
+      "part-of-speech": "verb",
+      "english": "to head toward",
+      "indonesian": "menuju",
+      "cefr": "A2",
+      "ipa": "[məˈnudʒu]",
+      "register": [
+        "All"
+      ],
+      "context": "di jalan menuju sekolah: on the way to school"
+    },
+    {
+      "id": "844d460a-3e7a-4549-a257-6290c0631deb",
+      "part-of-speech": "verb",
+      "english": "to love, to be fond of",
+      "indonesian": "sayang",
+      "cefr": "A1",
+      "ipa": "[ˈsajaŋ]",
+      "register": [
+        "All"
+      ],
+      "context": "also \"dear, darling\""
+    },
+    {
+      "id": "e38a4950-ba37-4a88-b0a1-2aba5301a144",
+      "part-of-speech": "noun",
+      "english": "tail; counter for animals",
+      "indonesian": "ekor",
+      "cefr": "A2",
+      "ipa": "[ˈekɔr]",
+      "register": [
+        "All"
+      ],
+      "context": "seekor anjing: one dog, a dog"
+    },
+    {
+      "id": "fd1c4401-b1e7-4e12-af9a-239bb9d3b5e9",
+      "part-of-speech": "adjective",
+      "english": "female (animal)",
+      "indonesian": "betina",
+      "cefr": "A2",
+      "ipa": "[bəˈtina]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c90df04-3c77-44ab-b93f-bfb344f62231",
+      "part-of-speech": "noun",
+      "english": "fur, hair; feather",
+      "indonesian": "bulu",
+      "cefr": "A2",
+      "ipa": "[ˈbulu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "39e1d943-3e86-4562-9f27-f09f252383e9",
+      "part-of-speech": "adjective",
+      "english": "male (animal)",
+      "indonesian": "jantan",
+      "cefr": "A2",
+      "ipa": "[ˈdʒantan]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "94c3de63-6607-46c4-8b45-dbad5436da65",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "indonesian": "lebih",
+      "cefr": "A1",
+      "ipa": "[ˈləbih]",
+      "register": [
+        "All"
+      ],
+      "context": "lebih muda: younger"
+    },
+    {
+      "id": "8e10408a-f4a5-4909-9a35-f7e1fbf46a3a",
+      "part-of-speech": "preposition",
+      "english": "than",
+      "indonesian": "daripada",
+      "cefr": "A1",
+      "ipa": "[ˌdariˈpada]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ded714c2-009d-431d-99f5-ee9cce59263a",
+      "part-of-speech": "preposition",
+      "english": "as",
+      "indonesian": "sebagai",
+      "cefr": "A2",
+      "ipa": "[səˈbaɡai̯]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3135c0e7-0596-4114-9ef3-98411428ebc3",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "indonesian": "perawat",
+      "cefr": "A2",
+      "ipa": "[pəˈrawat]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17a3130c-61f8-4ece-a510-6605f4caa088",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "indonesian": "menolong",
+      "cefr": "A2",
+      "ipa": "[məˈnɔlɔŋ]",
+      "register": [
+        "All"
+      ],
+      "context": "from tolong"
+    },
+    {
+      "id": "f0f284cb-2e18-4e34-a7b2-ec7a9f6daf59",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "indonesian": "pasien",
+      "cefr": "A2",
+      "ipa": "[ˈpasiən]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8b38153f-f705-4044-88de-3fa3315ace70",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "indonesian": "sembuh",
+      "cefr": "A2",
+      "ipa": "[ˈsəmbʊh]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93e07f73-1855-4182-a3da-e615c2d84029",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "indonesian": "memastikan",
+      "cefr": "A2",
+      "ipa": "[məmasˈtikan]",
+      "register": [
+        "All"
+      ],
+      "context": "from pasti, sure"
+    },
+    {
+      "id": "afe0e15b-24a5-44f3-94eb-6e3ac886e4b2",
+      "part-of-speech": "noun",
+      "english": "company",
+      "indonesian": "perusahaan",
+      "cefr": "A2",
+      "ipa": "[pəruˈsaha.an]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4399121-9b8c-436f-b096-b3e3f5fbcb47",
+      "part-of-speech": "noun",
+      "english": "software",
+      "indonesian": "perangkat lunak",
+      "cefr": "A2",
+      "ipa": "[pəˈraŋkat ˈlunaʔ]",
+      "register": [
+        "All"
+      ],
+      "context": "literally \"soft equipment\""
+    },
+    {
+      "id": "f2d19e00-bce4-4ce0-b97b-fe5279f545d5",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "indonesian": "menguji",
+      "cefr": "A2",
+      "ipa": "[məˈŋudʒi]",
+      "register": [
+        "All"
+      ],
+      "context": "from uji"
+    },
+    {
+      "id": "cbb606be-26ab-4290-84bf-00019c4836cb",
+      "part-of-speech": "preposition",
+      "english": "to (a person)",
+      "indonesian": "kepada",
+      "cefr": "A1",
+      "ipa": "[kəˈpada]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8f7bcdbd-d0d3-4e72-a51c-bcda1505edff",
+      "part-of-speech": "adjective",
+      "english": "careful, thorough",
+      "indonesian": "teliti",
+      "cefr": "A2",
+      "ipa": "[təˈliti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "03a6370b-0b08-4276-b970-1e1c6256078a",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "indonesian": "secara menyeluruh",
+      "cefr": "A2",
+      "ipa": "[səˈtʃara məɲəˈluruh]",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

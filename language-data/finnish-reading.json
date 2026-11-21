@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "language": "Finnish",
+    "languageCode": "fi",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Perjantaisin hän menee kouluun kavereidensa kanssa. He kävelevät kouluun kaupan ohi. He pysähtyvät aina kauppaan ja ostavat limsaa ja sipsejä. He syövät ja juovat koulumatkalla.",
+      "questions": [
+        {
+          "question": "Milloin hän menee kouluun kavereidensa kanssa?",
+          "choices": [
+            "Maanantaisin",
+            "Perjantaisin",
+            "Sunnuntaisin",
+            "Joka päivä"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Miten he menevät kouluun?",
+          "choices": [
+            "Bussilla",
+            "Autolla",
+            "Pyörällä",
+            "Kävellen"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mitä he ostavat kaupasta?",
+          "choices": [
+            "Limsaa ja sipsejä",
+            "Leipää ja maitoa",
+            "Hedelmiä ja mehua",
+            "Kahvia ja kakkua"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Missä he syövät ja juovat?",
+          "choices": [
+            "Koulussa",
+            "Kotona",
+            "Koulumatkalla",
+            "Kaupassa"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "perjantaisin": "c442fe78-e673-4370-9840-4647851fae22",
+        "hän": "fa12cb63-44a8-4347-8a88-3846a5f8fb38",
+        "menee": "5e5a0d50-9be3-432d-8ed7-e4db10c564a0",
+        "kouluun": "babbb36b-f7bd-47ee-b1f5-449f93198c50",
+        "kavereidensa": "1e8ed1b7-6630-4737-8a73-d604d6c29cfe",
+        "kanssa": "0fe0597c-4e99-4a90-82cb-eaaa5b435343",
+        "he": "a7ee95b1-c138-45af-8d06-d41a51c7783a",
+        "kävelevät": "3d407b5e-b85c-4032-962f-3e1436a90315",
+        "kaupan": "9b25bc2b-a83e-4ed6-9b07-3daa4d10b9d5",
+        "ohi": "d7c38871-30cf-41ba-bbc1-9656edb2158e",
+        "pysähtyvät": "e59d5bd9-6d7a-4b5a-bf47-63528f928d51",
+        "aina": "7280c8ac-b52d-48e1-bece-2e319d25b594",
+        "kauppaan": "9b25bc2b-a83e-4ed6-9b07-3daa4d10b9d5",
+        "ja": "319cf95a-bd7c-499b-bdc1-76f3c98c972f",
+        "ostavat": "7d5583e4-302f-4ac5-9e25-931aae59bedd",
+        "limsaa": "de53fb80-f900-451d-ab34-3e656ec2ad6e",
+        "sipsejä": "2399e609-597a-4c5b-962e-e0c3e1d21daa",
+        "syövät": "ba7f0c35-f717-462b-bd2e-f10882c49675",
+        "juovat": "6c01e23c-249c-4745-bcc0-6efebf8bf678",
+        "koulumatkalla": "8b1f1be7-2e08-45bc-b4cf-2ec0fdd15203"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Hän rakastaa koiriaan. Hänellä on iso narttukoira, jolla on pitkä valkoinen turkki. Hänellä on myös pieni uroskoira, jolla on lyhyt ruskea turkki. Narttu on nuorempi kuin uros.",
+      "questions": [
+        {
+          "question": "Montako koiraa hänellä on?",
+          "choices": [
+            "Yksi",
+            "Kolme",
+            "Kaksi",
+            "Neljä"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Minkä värinen nartun turkki on?",
+          "choices": [
+            "Valkoinen",
+            "Ruskea",
+            "Musta",
+            "Harmaa"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Millainen uroskoira on?",
+          "choices": [
+            "Iso, ja sillä on pitkä valkoinen turkki",
+            "Pieni, ja sillä on pitkä valkoinen turkki",
+            "Iso, ja sillä on lyhyt ruskea turkki",
+            "Pieni, ja sillä on lyhyt ruskea turkki"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kumpi koira on nuorempi?",
+          "choices": [
+            "Uros",
+            "Narttu",
+            "Ne ovat yhtä vanhoja",
+            "Sitä ei kerrota"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "hän": "fa12cb63-44a8-4347-8a88-3846a5f8fb38",
+        "rakastaa": "da361760-baf9-4f48-9929-af455d929f37",
+        "koiriaan": "51c142f0-c6ae-4f79-b92c-cc72775f97b3",
+        "hänellä": "fa12cb63-44a8-4347-8a88-3846a5f8fb38",
+        "on": "7624afe2-5973-4ae3-920b-1c7350bff8a0",
+        "iso": "8abb831b-f063-437b-8012-71032b3d1e5b",
+        "narttukoira": "012866b2-f00d-4d94-90e8-f8db92ea329d",
+        "jolla": "d449760e-2b98-4c6c-8172-d822ac162b7a",
+        "pitkä": "83d90577-03a0-4422-b3f7-307f11fc3a5e",
+        "valkoinen": "c431ffac-f47d-4d05-8a94-634849cb3359",
+        "turkki": "9381aea4-fc16-40da-bff2-747164941bdf",
+        "myös": "7ebd8c4e-57a0-452b-a9df-33fd765655fb",
+        "pieni": "832f4e7d-b181-4dad-8294-c5b5a18ee1bb",
+        "uroskoira": "454edf72-d7db-4164-8a12-dd68b8d8cc4a",
+        "lyhyt": "6db8a639-7495-4df6-973e-bc6526f2d306",
+        "ruskea": "f8c6636b-6fe0-4aa4-8e7f-0539d6376aa3",
+        "narttu": "012866b2-f00d-4d94-90e8-f8db92ea329d",
+        "nuorempi": "b7ca43e1-a472-4a3f-a3ce-1f6d13e1f7ae",
+        "kuin": "91dd2064-4359-4127-8de6-72622fd73b64",
+        "uros": "454edf72-d7db-4164-8a12-dd68b8d8cc4a"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Heidän äitinsä on sairaanhoitajana sairaalassa. Hän auttaa ihmisiä, jotka ovat sairaita. Hän tekee työtä lääkärien kanssa, jotta potilaat paranisivat. Hän huolehtii siitä, että potilaat ottavat lääkkeensä.",
+      "questions": [
+        {
+          "question": "Missä heidän äitinsä on töissä?",
+          "choices": [
+            "Koulussa",
+            "Kaupassa",
+            "Pankissa",
+            "Sairaalassa"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mikä hänen ammattinsa on?",
+          "choices": [
+            "Lääkäri",
+            "Sairaanhoitaja",
+            "Opettaja",
+            "Kokki"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kenen kanssa hän tekee työtä?",
+          "choices": [
+            "Opettajien",
+            "Insinöörien",
+            "Lääkärien",
+            "Poliisien"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Mistä hän huolehtii?",
+          "choices": [
+            "Että potilaat ottavat lääkkeensä",
+            "Että potilaat syövät aamiaista",
+            "Että lääkärit tulevat ajoissa",
+            "Että sairaala on siisti"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "heidän": "a7ee95b1-c138-45af-8d06-d41a51c7783a",
+        "äitinsä": "cb920fc7-41c2-423a-b37d-2dbb131c99a9",
+        "on": "7624afe2-5973-4ae3-920b-1c7350bff8a0",
+        "sairaanhoitajana": "32006fcc-ee47-4dcc-b105-59cb6f011b3a",
+        "sairaalassa": "aadcc28d-b943-4e4c-9c19-c00be34fd062",
+        "hän": "fa12cb63-44a8-4347-8a88-3846a5f8fb38",
+        "auttaa": "4fcc6d7e-6386-43c9-8151-d8679cba651c",
+        "ihmisiä": "5678f268-42a3-4123-a8b3-fcc17bd309d9",
+        "jotka": "d449760e-2b98-4c6c-8172-d822ac162b7a",
+        "ovat": "7624afe2-5973-4ae3-920b-1c7350bff8a0",
+        "sairaita": "bae517d8-ade2-4403-99c4-dd12180080b4",
+        "tekee": "7c8092c3-a65e-4a1c-9443-32635dd59cc5",
+        "työtä": "2d07f46b-3dfd-4335-b4d7-6b6629ae32ea",
+        "lääkärien": "a7d701e1-b5d4-4002-bb80-aec93a0677e9",
+        "kanssa": "0fe0597c-4e99-4a90-82cb-eaaa5b435343",
+        "jotta": "d4654218-eeff-4f4a-a60a-3fb743a70220",
+        "potilaat": "cb44512b-daf3-47ce-a07c-b013b93c5a86",
+        "paranisivat": "ba832bca-edca-43d1-86d4-090bf406836c",
+        "huolehtii": "8e4b912a-3087-4281-bdce-e7cc0f14615c",
+        "siitä": "45293525-079f-4c82-b542-2e1a5b4ad921",
+        "että": "20fa4ba6-b5fb-4d1b-8e20-35544f40a7ac",
+        "ottavat": "9d3bd921-7049-494a-b816-cbd437c74c30",
+        "lääkkeensä": "a1abd630-ef84-489a-b3f0-32b7770c4ca6"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Heidän isänsä on töissä ohjelmistoyrityksessä. Hän testaa ohjelmistoja. Hän varmistaa, että ohjelmisto toimii oikein, ennen kuin se annetaan ihmisten käyttöön. Hän on hyvin huolellinen ja testaa ohjelmiston perusteellisesti.",
+      "questions": [
+        {
+          "question": "Missä heidän isänsä on töissä?",
+          "choices": [
+            "Ohjelmistoyrityksessä",
+            "Sairaalassa",
+            "Koulussa",
+            "Kaupassa"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Mitä hän tekee?",
+          "choices": [
+            "Hän myy tietokoneita",
+            "Hän korjaa autoja",
+            "Hän testaa ohjelmistoja",
+            "Hän opettaa koulussa"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Milloin hän testaa ohjelmiston?",
+          "choices": [
+            "Kun ihmiset ovat jo käyttäneet sitä",
+            "Ennen kuin se annetaan ihmisten käyttöön",
+            "Vain perjantaisin",
+            "Yöllä"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Miten hän testaa ohjelmiston?",
+          "choices": [
+            "Nopeasti ja huolimattomasti",
+            "Vain joskus",
+            "Lastensa kanssa",
+            "Hyvin huolellisesti ja perusteellisesti"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "heidän": "a7ee95b1-c138-45af-8d06-d41a51c7783a",
+        "isänsä": "5e7a48b5-24af-414c-8536-b50c5f0f105a",
+        "on": "7624afe2-5973-4ae3-920b-1c7350bff8a0",
+        "töissä": "2d07f46b-3dfd-4335-b4d7-6b6629ae32ea",
+        "ohjelmistoyrityksessä": "3a0e144d-56df-42d7-8996-c127982b9491",
+        "hän": "fa12cb63-44a8-4347-8a88-3846a5f8fb38",
+        "testaa": "c947e3e2-e6b8-4464-8964-d5509556d46f",
+        "ohjelmistoja": "f66b579d-b13b-4ce4-8b32-15c8db3009bf",
+        "varmistaa": "d740d9c5-919e-40a7-8f3b-fb55c439236c",
+        "että": "20fa4ba6-b5fb-4d1b-8e20-35544f40a7ac",
+        "ohjelmisto": "f66b579d-b13b-4ce4-8b32-15c8db3009bf",
+        "toimii": "5776ee35-8958-430b-b763-c866c39e4543",
+        "oikein": "03299a4d-6305-4775-88e1-e4b44059750d",
+        "ennen": "8bff8535-db15-468d-ae06-4f9064371a8c",
+        "kuin": "91dd2064-4359-4127-8de6-72622fd73b64",
+        "se": "45293525-079f-4c82-b542-2e1a5b4ad921",
+        "annetaan": "c59d68cb-828b-4675-9a13-3432f2cfc5fb",
+        "ihmisten": "5678f268-42a3-4123-a8b3-fcc17bd309d9",
+        "käyttöön": "b3014d43-500e-4680-a7a3-399247d011d9",
+        "hyvin": "76b026ad-d577-4a42-aab8-427b0ce38f06",
+        "huolellinen": "fae5bb1b-ec31-4cb6-9975-c6c03bba9aab",
+        "ja": "319cf95a-bd7c-499b-bdc1-76f3c98c972f",
+        "ohjelmiston": "f66b579d-b13b-4ce4-8b32-15c8db3009bf",
+        "perusteellisesti": "50cb323d-7e11-4056-a22f-ff62f7eb42e9"
+      }
+    }
+  ]
+}

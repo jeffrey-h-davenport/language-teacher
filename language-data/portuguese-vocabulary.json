@@ -3076,14 +3076,14 @@
     {
       "id": "015e6daf-a8fc-457a-9540-4c71077711de",
       "part-of-speech": "noun",
-      "english": "one",
+      "english": "a, an; one",
       "portuguese": "um",
       "cefr": "A1",
       "ipa": "[ˈũ]",
-      "context": "feminine: uma",
       "register": [
         "All"
-      ]
+      ],
+      "context": "feminine: uma"
     },
     {
       "id": "ffd401f5-8e49-40aa-8db4-ddbee584aae3",
@@ -5864,7 +5864,7 @@
     {
       "id": "e8e066b2-33bb-4bd5-b8fe-abc59bc0b512",
       "part-of-speech": "adverb",
-      "english": "how",
+      "english": "how; as, like",
       "portuguese": "como",
       "cefr": "A1",
       "ipa": "[ˈkomu]",
@@ -6727,6 +6727,236 @@
       "portuguese": "saúde",
       "cefr": "A2",
       "ipa": "[sɐˈuðɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "bb233fa9-e592-4fab-9379-d7379877ce0a",
+      "part-of-speech": "article",
+      "english": "the",
+      "portuguese": "o",
+      "cefr": "A1",
+      "ipa": "[u]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine a; plural os, as"
+    },
+    {
+      "id": "ca58448c-a895-441a-905f-c42a46a3ba5c",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past; to spend (time)",
+      "portuguese": "passar",
+      "cefr": "A1",
+      "ipa": "[pɐˈsaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "951a5df4-0a62-4ee1-be88-2cadac8b4d48",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "portuguese": "refrigerante",
+      "cefr": "A2",
+      "ipa": "[ʁɨfɾiʒɨˈɾɐ̃tɨ]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "refrigerantes"
+    },
+    {
+      "id": "d421c017-8c94-42c2-abb7-890db46822c9",
+      "part-of-speech": "adjective",
+      "english": "fried",
+      "portuguese": "frito",
+      "cefr": "A2",
+      "ipa": "[ˈfɾitu]",
+      "register": [
+        "All"
+      ],
+      "context": "batatas fritas: potato chips, also French fries"
+    },
+    {
+      "id": "c0cd2e88-bd20-44ec-b852-abc4592ad937",
+      "part-of-speech": "noun",
+      "english": "way, path",
+      "portuguese": "caminho",
+      "cefr": "A1",
+      "ipa": "[kɐˈmiɲu]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "caminhos",
+      "context": "a caminho de: on the way to"
+    },
+    {
+      "id": "72611f40-9a2f-452e-83eb-077e7cb1d38d",
+      "part-of-speech": "verb",
+      "english": "to love, to adore",
+      "portuguese": "adorar",
+      "cefr": "A1",
+      "ipa": "[ɐðuˈɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "64d2b74f-c18b-457d-b969-c9b6ae28d2c5",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "portuguese": "cadela",
+      "cefr": "A2",
+      "ipa": "[kɐˈðɛlɐ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "cadelas"
+    },
+    {
+      "id": "5de89b57-cfa3-4a28-8684-b81b23c6e241",
+      "part-of-speech": "noun",
+      "english": "hair, fur (of an animal)",
+      "portuguese": "pelo",
+      "cefr": "A2",
+      "ipa": "[ˈpelu]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "pelos",
+      "context": "spelled the same as pelo = por + o, \"by the, past the\""
+    },
+    {
+      "id": "5c787c64-9e75-4ee6-b940-e20cc6f1475c",
+      "part-of-speech": "pronoun",
+      "english": "their, theirs",
+      "portuguese": "deles",
+      "cefr": "A1",
+      "ipa": "[ˈdelɨʃ]",
+      "register": [
+        "All"
+      ],
+      "context": "de + eles; follows the noun: a mãe deles; feminine: delas"
+    },
+    {
+      "id": "bca049a5-70f6-4b0b-84c1-d670c452dbfe",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "portuguese": "enfermeiro",
+      "cefr": "A1",
+      "ipa": "[ẽfɨɾˈmɐjɾu]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "enfermeiros",
+      "context": "feminine: enfermeira"
+    },
+    {
+      "id": "eb053a27-88d6-499e-b19f-d0aaad8d11a8",
+      "part-of-speech": "verb",
+      "english": "to recover, to get better",
+      "portuguese": "recuperar",
+      "cefr": "A2",
+      "ipa": "[ʁɨkupɨˈɾaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f2ccb68f-25c9-4437-89ac-9dd2b718ba7d",
+      "part-of-speech": "verb",
+      "english": "to make sure, to guarantee",
+      "portuguese": "garantir",
+      "cefr": "A2",
+      "ipa": "[ɡɐɾɐ̃ˈtiɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "321eb6a7-3508-4316-934e-4488eb3975cf",
+      "part-of-speech": "noun",
+      "english": "company, business",
+      "portuguese": "empresa",
+      "cefr": "A1",
+      "ipa": "[ẽˈpɾezɐ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "empresas"
+    },
+    {
+      "id": "1de1d768-47b4-48b7-91d1-2b92a1f85ba4",
+      "part-of-speech": "noun",
+      "english": "software",
+      "portuguese": "software",
+      "cefr": "A2",
+      "ipa": "[ˈsɔftwɛɾ]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "6a24d213-e115-4095-b8ad-74e2d4ea0816",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "portuguese": "testar",
+      "cefr": "A2",
+      "ipa": "[tɨʃˈtaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3e3333c2-b1a2-4e8b-bb54-78dd7f288a13",
+      "part-of-speech": "verb",
+      "english": "to work, to function",
+      "portuguese": "funcionar",
+      "cefr": "A2",
+      "ipa": "[fũsjuˈnaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a7a2de38-e37a-4f34-9e9c-c9894deb419b",
+      "part-of-speech": "verb",
+      "english": "to hand over, to deliver",
+      "portuguese": "entregar",
+      "cefr": "A2",
+      "ipa": "[ẽtɾɨˈɣaɾ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b880441c-1260-4220-a4ee-49c30fca2562",
+      "part-of-speech": "noun",
+      "english": "care",
+      "portuguese": "cuidado",
+      "cefr": "A2",
+      "ipa": "[kuiˈðaðu]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "context": "com cuidado: carefully; cuidado!: watch out!"
+    },
+    {
+      "id": "d2acfb27-1bdc-4307-b9d7-61052f87b457",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "portuguese": "a fundo",
+      "cefr": "A2",
+      "ipa": "[ɐ ˈfũdu]",
       "register": [
         "All"
       ]

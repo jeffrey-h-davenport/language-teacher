@@ -156,15 +156,15 @@
     {
       "id": "bc8c112a-f4ff-456e-84af-27285f4b8d2f",
       "part-of-speech": "noun",
-      "english": "sister",
+      "english": "sister; nurse",
       "hebrew": "אחות",
-      "gender": "feminine",
-      "plural": "אחיות",
       "cefr": "A1",
       "ipa": "[aˈχot]",
       "register": [
         "All"
-      ]
+      ],
+      "gender": "feminine",
+      "plural": "אחיות"
     },
     {
       "id": "451477b6-ca44-42d4-a202-56f4ae0a10d4",
@@ -6385,6 +6385,282 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "734f2128-6fd8-43d4-bf21-32ccd8110445",
+      "part-of-speech": "adverb",
+      "english": "on foot",
+      "hebrew": "ברגל",
+      "cefr": "A1",
+      "ipa": "[baˈʁeɡel]",
+      "context": "from רגל, foot",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ac75a3e-1991-47ce-bd37-7e3718e642b6",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "hebrew": "לעבור",
+      "cefr": "A2",
+      "ipa": "[laʔaˈvoʁ]",
+      "context": "עוברים ליד: go past",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5887f937-0bd6-4d93-a1e7-dc1cdc78ea74",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "hebrew": "לעצור",
+      "cefr": "A2",
+      "ipa": "[laʔaˈtsoʁ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36a41566-e8be-44ec-95ad-755dbe7a970d",
+      "part-of-speech": "noun",
+      "english": "drink, beverage",
+      "hebrew": "משקה",
+      "cefr": "A2",
+      "ipa": "[maʃˈke]",
+      "context": "משקה מוגז: soda",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "משקאות"
+    },
+    {
+      "id": "fd83a30f-1897-4653-aaa5-b6fd7359f234",
+      "part-of-speech": "adjective",
+      "english": "carbonated, fizzy",
+      "hebrew": "מוגז",
+      "cefr": "A2",
+      "ipa": "[muˈɡaz]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a4d05605-c2c2-40ae-a280-4b261172a0a2",
+      "part-of-speech": "noun",
+      "english": "French fries, chips",
+      "hebrew": "צ'יפס",
+      "cefr": "A2",
+      "ipa": "[tʃips]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "392fbe43-d4ec-402a-a25f-a6714acfa088",
+      "part-of-speech": "preposition",
+      "english": "direct-object marker",
+      "hebrew": "את",
+      "cefr": "A1",
+      "ipa": "[et]",
+      "context": "before a definite object: אני רואה את הכלב; same spelling as at, you (to a woman)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e493c142-2f92-4f23-a75f-80e9465dc621",
+      "part-of-speech": "verb",
+      "english": "there is, there are",
+      "hebrew": "יש",
+      "cefr": "A1",
+      "ipa": "[jeʃ]",
+      "context": "יש לי: I have; יש לה: she has",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cecf7362-5511-4caa-b128-991b145333b4",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "hebrew": "כלבה",
+      "cefr": "A2",
+      "ipa": "[kalˈba]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "כלבות"
+    },
+    {
+      "id": "1f695d17-7b76-420f-b5af-2aa3e881092b",
+      "part-of-speech": "noun",
+      "english": "fur",
+      "hebrew": "פרווה",
+      "cefr": "A2",
+      "ipa": "[paʁˈva]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
+    },
+    {
+      "id": "2d2b9273-72d9-4841-86b5-160664c1befa",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "hebrew": "יותר",
+      "cefr": "A1",
+      "ipa": "[joˈteʁ]",
+      "context": "צעירה יותר: younger",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "95636605-8cd1-418e-85e5-b66dad517bac",
+      "part-of-speech": "pronoun",
+      "english": "their, theirs",
+      "hebrew": "שלהם",
+      "cefr": "A1",
+      "ipa": "[ʃeˈlahem]",
+      "context": "follows the noun: אמא שלהם",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8cf36b2-898c-4501-8264-26b69987088c",
+      "part-of-speech": "conjunction",
+      "english": "in order to, so that",
+      "hebrew": "כדי",
+      "cefr": "A2",
+      "ipa": "[kˈdej]",
+      "context": "כדי ש־: so that",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1fbde247-1958-44a1-89e7-ac71252776ac",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "hebrew": "מטופל",
+      "cefr": "A2",
+      "ipa": "[metuˈpal]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "מטופלים"
+    },
+    {
+      "id": "e84074d0-c801-4d36-9c24-4bc4b28e7e78",
+      "part-of-speech": "verb",
+      "english": "to recover, to get well",
+      "hebrew": "להבריא",
+      "cefr": "A2",
+      "ipa": "[lehavˈʁi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da3b5e17-4e2e-4797-8685-5b7a6824f2f9",
+      "part-of-speech": "verb",
+      "english": "to worry; to make sure, to take care",
+      "hebrew": "לדאוג",
+      "cefr": "A2",
+      "ipa": "[lidˈʔoɡ]",
+      "context": "לדאוג ש־: to make sure that",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "264c8539-72d6-47b9-bb78-af75f5394a89",
+      "part-of-speech": "noun",
+      "english": "software",
+      "hebrew": "תוכנה",
+      "cefr": "A2",
+      "ipa": "[toχˈna]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
+    },
+    {
+      "id": "780df3d4-93b3-4af1-b265-76884c9f0aa0",
+      "part-of-speech": "verb",
+      "english": "to check, to test",
+      "hebrew": "לבדוק",
+      "cefr": "A2",
+      "ipa": "[livˈdok]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "add42c58-8a86-4469-83b5-81f6628a95de",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "hebrew": "לוודא",
+      "cefr": "A2",
+      "ipa": "[levaˈde]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c7bb9be6-c472-4fd7-806f-f8bb16ae0be4",
+      "part-of-speech": "pronoun",
+      "english": "her, it (as an object)",
+      "hebrew": "אותה",
+      "cefr": "A1",
+      "ipa": "[oˈta]",
+      "context": "masculine: אותו (oto)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "872633f4-166c-4e24-b867-5322fc5d1dbb",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "hebrew": "זהיר",
+      "cefr": "A2",
+      "ipa": "[zaˈhiʁ]",
+      "context": "feminine: זהירה (zehira)",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "71b6d734-ac76-4946-94fd-00cea89b242c",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "hebrew": "ביסודיות",
+      "cefr": "A2",
+      "ipa": "[bijesodiˈjut]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d4b164a5-1c80-4abf-b580-5beeeb34f574",
+      "part-of-speech": "noun",
+      "english": "company, firm",
+      "hebrew": "חברה",
+      "cefr": "A2",
+      "ipa": "[χevˈʁa]",
+      "context": "same spelling as חברה (chavera), friend; חברת תוכנה: software company",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "חברות"
     }
   ]
 }

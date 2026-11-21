@@ -5937,7 +5937,7 @@
     {
       "id": "47945743-d85c-447d-81d8-0f2a0bfd1524",
       "part-of-speech": "pronoun",
-      "english": "they",
+      "english": "they; their",
       "italian": "loro",
       "cefr": "A1",
       "ipa": "[ˈloːro]",
@@ -6673,6 +6673,289 @@
       "italian": "auguri",
       "cefr": "A2",
       "ipa": "[auˈɡuːri]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5d4de1da-5b46-4195-bb90-e028c957e470",
+      "part-of-speech": "article",
+      "english": "the",
+      "italian": "il",
+      "cefr": "A1",
+      "ipa": "[il]",
+      "register": [
+        "All"
+      ],
+      "context": "masculine il, lo, l'; feminine la; plural i, gli, le"
+    },
+    {
+      "id": "94c8a4e6-9c8b-4b98-894f-eb01142a74a2",
+      "part-of-speech": "article",
+      "english": "a, an",
+      "italian": "un",
+      "cefr": "A1",
+      "ipa": "[un]",
+      "register": [
+        "All"
+      ],
+      "context": "masculine un, uno; feminine una, un'"
+    },
+    {
+      "id": "11160b68-6122-44c8-9fea-8154edf45b10",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past; to spend (time)",
+      "italian": "passare",
+      "cefr": "A1",
+      "ipa": "[pasˈsaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0e28ac0d-6f79-47ce-94ba-5bf282d062bb",
+      "part-of-speech": "adverb",
+      "english": "in front",
+      "italian": "davanti",
+      "cefr": "A2",
+      "ipa": "[daˈvanti]",
+      "register": [
+        "All"
+      ],
+      "context": "davanti a: in front of"
+    },
+    {
+      "id": "c92583ec-6739-44f1-905d-8ed309199f31",
+      "part-of-speech": "pronoun",
+      "english": "himself, herself, itself, themselves (reflexive)",
+      "italian": "si",
+      "cefr": "A2",
+      "ipa": "[si]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7573628-04a6-4672-8ed0-5e3e000b69f2",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "italian": "fermare",
+      "cefr": "A2",
+      "ipa": "[ferˈmaːre]",
+      "register": [
+        "All"
+      ],
+      "context": "fermarsi: to stop (oneself)"
+    },
+    {
+      "id": "23034194-4eee-4623-8213-2cafea80fe5a",
+      "part-of-speech": "noun",
+      "english": "soft drink",
+      "italian": "bibita",
+      "cefr": "A2",
+      "ipa": "[ˈbiːbita]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "bibite"
+    },
+    {
+      "id": "b077c22f-6e47-4e3c-88ee-70db67cfe147",
+      "part-of-speech": "noun",
+      "english": "potato chip",
+      "italian": "patatina",
+      "cefr": "A2",
+      "ipa": "[pataˈtiːna]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "patatine",
+      "context": "le patatine: chips; also French fries"
+    },
+    {
+      "id": "1df25e11-80cd-4716-a2ba-19910d949ddb",
+      "part-of-speech": "verb",
+      "english": "to love",
+      "italian": "amare",
+      "cefr": "A1",
+      "ipa": "[aˈmaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "84fc99f5-23a8-4545-8db8-a2ed1da4f09b",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "italian": "cagna",
+      "cefr": "A2",
+      "ipa": "[ˈkaɲɲa]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "cagne"
+    },
+    {
+      "id": "467b7cce-0df3-4f33-b762-aae690ad1e0d",
+      "part-of-speech": "noun",
+      "english": "hair, fur",
+      "italian": "pelo",
+      "cefr": "A2",
+      "ipa": "[ˈpeːlo]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "peli"
+    },
+    {
+      "id": "c1e8cfec-21b0-4490-9fa7-b3fcdbad5026",
+      "part-of-speech": "noun",
+      "english": "male",
+      "italian": "maschio",
+      "cefr": "A2",
+      "ipa": "[ˈmaskjo]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "maschi",
+      "context": "also an adjective: un cane maschio, a male dog"
+    },
+    {
+      "id": "e7266b07-b76b-4e44-b487-b4df1e82dd3d",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "italian": "infermiere",
+      "cefr": "A1",
+      "ipa": "[infermˈjɛːre]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "infermieri",
+      "context": "feminine: infermiera"
+    },
+    {
+      "id": "7d82ff43-b854-4b8c-b984-22fa205cc6ee",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "italian": "paziente",
+      "cefr": "A2",
+      "ipa": "[patˈtsjɛnte]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "pazienti"
+    },
+    {
+      "id": "8a64e429-73c9-46c0-93dc-a41dab789651",
+      "part-of-speech": "verb",
+      "english": "to get well, to heal",
+      "italian": "guarire",
+      "cefr": "A2",
+      "ipa": "[ɡwaˈriːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f1aa57bc-8cca-49ff-82bc-c87bca105018",
+      "part-of-speech": "verb",
+      "english": "to make sure, to ensure; to insure",
+      "italian": "assicurare",
+      "cefr": "A2",
+      "ipa": "[assikuˈraːre]",
+      "register": [
+        "All"
+      ],
+      "context": "assicurarsi che: to make sure that"
+    },
+    {
+      "id": "343e749b-6bb7-4583-8ac2-a5548fd40f60",
+      "part-of-speech": "noun",
+      "english": "company, business",
+      "italian": "azienda",
+      "cefr": "A2",
+      "ipa": "[adˈdzjɛnda]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "aziende"
+    },
+    {
+      "id": "932c07c4-460d-46db-a50c-55e03dc04414",
+      "part-of-speech": "noun",
+      "english": "software",
+      "italian": "software",
+      "cefr": "A2",
+      "ipa": "[ˈsɔftwer]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "89727ab7-0356-4576-9061-ba18c6eb5b7d",
+      "part-of-speech": "noun",
+      "english": "test",
+      "italian": "test",
+      "cefr": "A2",
+      "ipa": "[tɛst]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "test",
+      "context": "fare i test: to test"
+    },
+    {
+      "id": "5b54be89-9036-4d18-a95e-66ab909e1110",
+      "part-of-speech": "verb",
+      "english": "to work, to function",
+      "italian": "funzionare",
+      "cefr": "A2",
+      "ipa": "[funtsjoˈnaːre]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c308573-c9f7-40f9-9519-a5e7fc033f8f",
+      "part-of-speech": "pronoun",
+      "english": "it, him (as an object)",
+      "italian": "lo",
+      "cefr": "A1",
+      "ipa": "[lo]",
+      "register": [
+        "All"
+      ],
+      "context": "also a form of the article il"
+    },
+    {
+      "id": "2181fcdc-017a-4c75-acdc-97c367a6a84b",
+      "part-of-speech": "adjective",
+      "english": "careful, attentive",
+      "italian": "attento",
+      "cefr": "A2",
+      "ipa": "[atˈtɛnto]",
+      "register": [
+        "All"
+      ],
+      "context": "attento!: watch out!"
+    },
+    {
+      "id": "04df861b-45fa-4fc6-9f2f-d5210f1424cf",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "italian": "a fondo",
+      "cefr": "A2",
+      "ipa": "[a ˈfondo]",
       "register": [
         "All"
       ]

@@ -232,7 +232,7 @@
     {
       "id": "92df38f5-b1df-4a1b-bc34-b9462addcd53",
       "part-of-speech": "noun",
-      "english": "one",
+      "english": "a, an; one",
       "turkish": "bir",
       "cefr": "A1",
       "ipa": "/bir/",
@@ -3921,6 +3921,310 @@
       "turkish": "kadar",
       "cefr": "A2",
       "ipa": "/kadar/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2093c6c6-74e8-4aa5-a748-6633fa3edb40",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "turkish": "cuma",
+      "cefr": "A1",
+      "ipa": "/dʒuma/",
+      "register": [
+        "All"
+      ],
+      "context": "cuma günleri: on Fridays"
+    },
+    {
+      "id": "bd4a7c3e-9563-462f-bcfe-0d32d4722f16",
+      "part-of-speech": "noun",
+      "english": "store, shop",
+      "turkish": "dükkân",
+      "cefr": "A1",
+      "ipa": "/dycˈcan/",
+      "register": [
+        "All"
+      ],
+      "plural": "dükkânlar"
+    },
+    {
+      "id": "ffa9cb82-bf49-4f8e-9be1-f227e29f481e",
+      "part-of-speech": "noun",
+      "english": "front",
+      "turkish": "ön",
+      "cefr": "A1",
+      "ipa": "/øn/",
+      "register": [
+        "All"
+      ],
+      "context": "önünden geçmek: to go past"
+    },
+    {
+      "id": "e727b164-8a62-48fd-a3b2-ebad12c62557",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "turkish": "geçmek",
+      "cefr": "A1",
+      "ipa": "/ɡetʃmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5333da9e-4fbb-4fe6-bf06-6e9b93e1cfbc",
+      "part-of-speech": "adjective",
+      "english": "carbonated, fizzy",
+      "turkish": "gazlı",
+      "cefr": "A2",
+      "ipa": "/ɡazlɯ/",
+      "register": [
+        "All"
+      ],
+      "context": "gazlı içecek: soda"
+    },
+    {
+      "id": "97590c60-80cf-409d-bdcd-b528fa9e2937",
+      "part-of-speech": "noun",
+      "english": "drink, beverage",
+      "turkish": "içecek",
+      "cefr": "A1",
+      "ipa": "/itʃedʒek/",
+      "register": [
+        "All"
+      ],
+      "plural": "içecekler"
+    },
+    {
+      "id": "1955728d-cca9-4cd1-96fd-b099b357fe09",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "turkish": "cips",
+      "cefr": "A2",
+      "ipa": "/tʃips/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c30880e6-9bbc-4752-bf6e-5a9126e82bc8",
+      "part-of-speech": "adjective",
+      "english": "furry, with fur",
+      "turkish": "tüylü",
+      "cefr": "A2",
+      "ipa": "/tyjly/",
+      "register": [
+        "All"
+      ],
+      "context": "uzun beyaz tüylü: with long white fur"
+    },
+    {
+      "id": "b316c15e-2896-4894-89fc-ce21534a0bba",
+      "part-of-speech": "adjective",
+      "english": "female",
+      "turkish": "dişi",
+      "cefr": "A2",
+      "ipa": "/diʃi/",
+      "register": [
+        "All"
+      ],
+      "context": "dişi köpek: female dog"
+    },
+    {
+      "id": "73a5bc8b-a4c2-48b5-8c5f-56da8a14bf64",
+      "part-of-speech": "noun",
+      "english": "man, male",
+      "turkish": "erkek",
+      "cefr": "A1",
+      "ipa": "/eɾcek/",
+      "register": [
+        "All"
+      ],
+      "plural": "erkekler",
+      "context": "erkek köpek: male dog"
+    },
+    {
+      "id": "96c134e8-709d-4c25-853d-f825198478ac",
+      "part-of-speech": "conjunction",
+      "english": "also, too",
+      "turkish": "de",
+      "cefr": "A1",
+      "ipa": "/de/",
+      "register": [
+        "All"
+      ],
+      "context": "written da after back vowels; follows the word it adds to"
+    },
+    {
+      "id": "79d9a27a-34c3-4eb2-ac5b-94184a9134dc",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "turkish": "hemşire",
+      "cefr": "A2",
+      "ipa": "/hemʃiɾe/",
+      "register": [
+        "All"
+      ],
+      "plural": "hemşireler"
+    },
+    {
+      "id": "ec9bbaf2-a5cc-45e9-9fd3-f197797c3dd1",
+      "part-of-speech": "adverb",
+      "english": "as",
+      "turkish": "olarak",
+      "cefr": "A2",
+      "ipa": "/olaɾak/",
+      "register": [
+        "All"
+      ],
+      "context": "hemşire olarak: as a nurse"
+    },
+    {
+      "id": "65c8ffb4-e50a-4151-8ba6-27bb1b73ea84",
+      "part-of-speech": "noun",
+      "english": "help",
+      "turkish": "yardım",
+      "cefr": "A1",
+      "ipa": "/jaɾdɯm/",
+      "register": [
+        "All"
+      ],
+      "context": "yardım etmek: to help"
+    },
+    {
+      "id": "b4c4aea2-a89f-423b-87d0-21d0df7f5cde",
+      "part-of-speech": "verb",
+      "english": "to do, to make",
+      "turkish": "etmek",
+      "cefr": "A1",
+      "ipa": "/etmek/",
+      "register": [
+        "All"
+      ],
+      "context": "forms verbs with nouns: yardım etmek, to help"
+    },
+    {
+      "id": "6b712068-4f75-4f3b-9d5d-ab7b4cee57bf",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "turkish": "iyileşmek",
+      "cefr": "A2",
+      "ipa": "/ijileʃmek/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c356e4cf-5228-40a3-8907-4f6a22d1fbfb",
+      "part-of-speech": "verb",
+      "english": "to provide; to make sure",
+      "turkish": "sağlamak",
+      "cefr": "A2",
+      "ipa": "/saːlamak/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1ef5aebc-4fc9-43e2-96d7-a59a0338bd4e",
+      "part-of-speech": "noun",
+      "english": "software",
+      "turkish": "yazılım",
+      "cefr": "A2",
+      "ipa": "/jazɯlɯm/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7e2e1a27-af14-43c7-9eae-fb49ce374619",
+      "part-of-speech": "noun",
+      "english": "company",
+      "turkish": "şirket",
+      "cefr": "A1",
+      "ipa": "/ʃiɾket/",
+      "register": [
+        "All"
+      ],
+      "plural": "şirketler"
+    },
+    {
+      "id": "28540fec-ecfc-481f-ba60-50d1ef474767",
+      "part-of-speech": "noun",
+      "english": "test",
+      "turkish": "test",
+      "cefr": "A2",
+      "ipa": "/test/",
+      "register": [
+        "All"
+      ],
+      "plural": "testler",
+      "context": "test etmek: to test"
+    },
+    {
+      "id": "b807134b-fc58-44ad-9b2e-6a44b79b5af6",
+      "part-of-speech": "noun",
+      "english": "use",
+      "turkish": "kullanım",
+      "cefr": "A2",
+      "ipa": "/kulːanɯm/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3beb2dcf-0abc-4124-af21-8268ca57f87a",
+      "part-of-speech": "adjective",
+      "english": "proper, smooth; properly",
+      "turkish": "düzgün",
+      "cefr": "A2",
+      "ipa": "/dyzɟyn/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "76340298-9814-4b82-8bb9-8e1d56101237",
+      "part-of-speech": "adjective",
+      "english": "sure, certain",
+      "turkish": "emin",
+      "cefr": "A2",
+      "ipa": "/emin/",
+      "register": [
+        "All"
+      ],
+      "context": "emin olmak: to make sure"
+    },
+    {
+      "id": "6952aeae-e4ae-4c38-ac94-9edc0d6bfd1d",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "turkish": "dikkatli",
+      "cefr": "A2",
+      "ipa": "/dikːatli/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1bb99225-4882-4485-b852-6627b3b92e2d",
+      "part-of-speech": "adverb",
+      "english": "from start to finish, thoroughly",
+      "turkish": "baştan sona",
+      "cefr": "A2",
+      "ipa": "/baʃtan sona/",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79dc2d49-f20a-49ea-be49-20ebf572a42a",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "turkish": "her zaman",
+      "cefr": "A1",
+      "ipa": "/heɾ zaman/",
       "register": [
         "All"
       ]

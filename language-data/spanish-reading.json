@@ -1,0 +1,310 @@
+{
+  "meta": {
+    "language": "Spanish",
+    "languageCode": "es",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Los viernes va a la escuela con sus amigos. Van a pie a la escuela y pasan por delante de la tienda. Siempre paran allí y compran refrescos y patatas fritas. Comen y beben de camino a la escuela.",
+      "questions": [
+        {
+          "question": "¿Cuándo va a la escuela con sus amigos?",
+          "choices": [
+            "Los lunes",
+            "Los viernes",
+            "Los domingos",
+            "Todos los días"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "¿Cómo van a la escuela?",
+          "choices": [
+            "En autobús",
+            "En coche",
+            "En bicicleta",
+            "A pie"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "¿Qué compran en la tienda?",
+          "choices": [
+            "Refrescos y patatas fritas",
+            "Pan y leche",
+            "Fruta y zumo",
+            "Café y pastel"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "¿Dónde comen y beben?",
+          "choices": [
+            "En la escuela",
+            "En casa",
+            "De camino a la escuela",
+            "En la tienda"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "los": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "viernes": "a22ac330-0aeb-411b-bd14-acfa760f575e",
+        "va": "8643cafa-7fab-4b93-89fe-d74ef0db9c73",
+        "a": "e7a3fd6c-d220-4d80-835e-e46c6c8d0e94",
+        "la": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "escuela": "5cfb6ebc-1578-4ca5-b93a-77713f360156",
+        "con": "2ab16d9c-b462-447a-a2f1-cd8c296fbbe2",
+        "sus": "71f4c214-7870-4ddf-9c95-489f539dffe7",
+        "amigos": "a5d361d3-7f2a-4548-abc2-adcf4d20b484",
+        "van": "8643cafa-7fab-4b93-89fe-d74ef0db9c73",
+        "pie": "269d7d65-8419-468e-bd96-6e19eb22d8ef",
+        "y": "941468b2-a95e-4118-8b87-53f8a89b12c2",
+        "pasan": "6f23ea4c-4113-4245-9218-fd2e53533199",
+        "por": "44d533a4-6d55-4782-a6a7-256e7540e240",
+        "delante": "da2672c4-eacc-46bf-8b1c-2fa141cc909e",
+        "de": "4af68821-7e24-4f1c-b067-1ac7aee6fe5d",
+        "tienda": "11592385-d332-4e73-bb7f-9085b6822d49",
+        "siempre": "ebb3f79b-aa96-4622-a46f-502f17e8a824",
+        "paran": "07471fdc-edaa-44da-99a3-ca8b1fd80717",
+        "allí": "b710ce09-f32b-40b8-9e9f-33124fdeabfa",
+        "compran": "cc976ecb-912e-44ee-8818-7c5b8b5e6a75",
+        "refrescos": "0ca22d0b-1531-4b2e-aa99-11e568b8ccf0",
+        "patatas": "e1c6d75b-0e84-4016-8f9e-1028c9f4b4e0",
+        "fritas": "c76ddac4-56bc-4915-9b01-f46e3fb1fc2c",
+        "comen": "7df02ef5-d5cd-4b26-9b04-5b3fff7f9a6d",
+        "beben": "1939a26e-fc12-4f29-b207-41b856f33d4f",
+        "camino": "44fc21c4-e86a-4f62-90bf-693ee19c9dea"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Ella quiere mucho a sus perros. Tiene una perra grande de pelo largo y blanco. También tiene un perro pequeño de pelo corto y marrón. La perra es más joven que el perro.",
+      "questions": [
+        {
+          "question": "¿Cuántos perros tiene?",
+          "choices": [
+            "Uno",
+            "Tres",
+            "Dos",
+            "Cuatro"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿De qué color es el pelo de la perra?",
+          "choices": [
+            "Blanco",
+            "Marrón",
+            "Negro",
+            "Gris"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "¿Cómo es el perro?",
+          "choices": [
+            "Grande, de pelo largo y blanco",
+            "Pequeño, de pelo largo y blanco",
+            "Grande, de pelo corto y marrón",
+            "Pequeño, de pelo corto y marrón"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "¿Quién es más joven?",
+          "choices": [
+            "El perro",
+            "La perra",
+            "Tienen la misma edad",
+            "No se sabe"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "ella": "fce7c2c6-3d0b-4810-aac6-2159fb0f3c02",
+        "quiere": "a515c1e2-f14d-408f-9a2d-469d76dedff3",
+        "mucho": "82dac111-7887-4d8d-9bf2-de830da14de0",
+        "a": "e7a3fd6c-d220-4d80-835e-e46c6c8d0e94",
+        "sus": "71f4c214-7870-4ddf-9c95-489f539dffe7",
+        "perros": "7bf63c95-ac89-4425-8b42-cc0f2c1237e8",
+        "tiene": "ebec6b1d-fc83-4eec-95d8-488e09c1fb5f",
+        "una": "dca52e73-c61b-4eb0-8bb7-9c9e7d5a5156",
+        "perra": "7bf63c95-ac89-4425-8b42-cc0f2c1237e8",
+        "grande": "d84eb792-98ea-4640-b3cd-c446e5e6d887",
+        "de": "4af68821-7e24-4f1c-b067-1ac7aee6fe5d",
+        "pelo": "4cee4a60-b89c-4136-99ab-02df38511ed8",
+        "largo": "07e9c44d-48e6-4e16-abb3-af4ac9bff9c6",
+        "y": "941468b2-a95e-4118-8b87-53f8a89b12c2",
+        "blanco": "b54b45d9-0891-463c-9018-4f94684939ac",
+        "también": "613deacb-86a1-494b-8a37-a9e8350f0c60",
+        "un": "dca52e73-c61b-4eb0-8bb7-9c9e7d5a5156",
+        "perro": "7bf63c95-ac89-4425-8b42-cc0f2c1237e8",
+        "pequeño": "2394dcaa-a7d3-4801-8486-b41906915083",
+        "corto": "4f9d6566-4d5b-4bae-83d7-8ba3fc023a29",
+        "marrón": "f9e2a9ad-a6e3-4143-8592-6a444583859d",
+        "la": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "es": "f7c3c91e-d4aa-46ed-b7fa-8ba1ae0dcb9e",
+        "más": "d2e85cdd-5677-44eb-aa5d-030265f4d6ce",
+        "joven": "bdbddf4c-e8a1-4113-abb0-73a257653fb3",
+        "que": "f75eaabe-f92c-4d17-bf3c-98f93a2053fa",
+        "el": "f6dbd239-593d-4867-8ff1-b1c957737983"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Su madre trabaja de enfermera en un hospital. Ayuda a las personas que están enfermas. Trabaja con los médicos para que los pacientes se curen. Se asegura de que los pacientes tomen sus medicinas.",
+      "questions": [
+        {
+          "question": "¿Dónde trabaja su madre?",
+          "choices": [
+            "En una escuela",
+            "En una tienda",
+            "En un banco",
+            "En un hospital"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "¿Cuál es su trabajo?",
+          "choices": [
+            "Médica",
+            "Enfermera",
+            "Profesora",
+            "Cocinera"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "¿Con quién trabaja?",
+          "choices": [
+            "Con los profesores",
+            "Con los ingenieros",
+            "Con los médicos",
+            "Con los policías"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿De qué se asegura?",
+          "choices": [
+            "De que los pacientes tomen sus medicinas",
+            "De que los pacientes desayunen",
+            "De que los médicos lleguen a tiempo",
+            "De que el hospital esté limpio"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "su": "71f4c214-7870-4ddf-9c95-489f539dffe7",
+        "madre": "720b9aa8-28ec-4e48-8db3-6d5ebe244931",
+        "trabaja": "eaf95bb2-c148-41d7-b211-ed0b89aaf60a",
+        "de": "4af68821-7e24-4f1c-b067-1ac7aee6fe5d",
+        "enfermera": "36ae4c56-84b4-4b25-82d9-92623f21d8ad",
+        "en": "540ea4a9-b930-428f-bfee-05f6bf1afac0",
+        "un": "dca52e73-c61b-4eb0-8bb7-9c9e7d5a5156",
+        "hospital": "a8212f15-e23d-425a-a1b9-0bd96482340c",
+        "ayuda": "3a0cbfe6-af73-4bd7-8702-0a34878b3d7d",
+        "a": "e7a3fd6c-d220-4d80-835e-e46c6c8d0e94",
+        "las": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "personas": "3cdf8989-9cde-404b-8165-14ae7e5fcf14",
+        "que": "f75eaabe-f92c-4d17-bf3c-98f93a2053fa",
+        "están": "c8ef0cc8-1bfd-4a05-a065-809eb95ba2c7",
+        "enfermas": "8a0f3c04-08ff-4c1a-9a4f-71d856d8cc10",
+        "con": "2ab16d9c-b462-447a-a2f1-cd8c296fbbe2",
+        "los": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "médicos": "d296a985-b711-4c54-acf1-ad01f95bc164",
+        "para": "5b46232b-9ede-4c41-97f1-8e0a54bf16a0",
+        "pacientes": "137b0f2c-4a77-4eeb-9e08-fdd5450ee2ea",
+        "se": "5ddcdff9-7f7e-4370-af2b-e6058b7c86ec",
+        "curen": "4b42f474-06b3-4edc-a6d2-5e123d3794e9",
+        "asegura": "afc06820-75b8-409a-874d-5aecef2561cd",
+        "tomen": "62e00985-4f3e-4d55-9b2c-55cfc3f07543",
+        "sus": "71f4c214-7870-4ddf-9c95-489f539dffe7",
+        "medicinas": "0e0b2856-6bdf-423e-8d9a-a7ec26482db6"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Su padre trabaja en una empresa de software. Prueba software. Se asegura de que el software funcione bien antes de que la gente lo use. Es muy cuidadoso y lo prueba a fondo.",
+      "questions": [
+        {
+          "question": "¿Dónde trabaja su padre?",
+          "choices": [
+            "En una empresa de software",
+            "En un hospital",
+            "En una escuela",
+            "En una tienda"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "¿Qué hace?",
+          "choices": [
+            "Vende ordenadores",
+            "Repara coches",
+            "Prueba software",
+            "Enseña en una escuela"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "¿Cuándo prueba el software?",
+          "choices": [
+            "Después de que la gente lo use",
+            "Antes de que la gente lo use",
+            "Solo los viernes",
+            "Por la noche"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "¿Cómo prueba el software?",
+          "choices": [
+            "Rápido y sin cuidado",
+            "Solo a veces",
+            "Con sus hijos",
+            "Con mucho cuidado y a fondo"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "su": "71f4c214-7870-4ddf-9c95-489f539dffe7",
+        "padre": "07f2f3be-de01-4b4c-a0df-6a06d67ceb7a",
+        "trabaja": "eaf95bb2-c148-41d7-b211-ed0b89aaf60a",
+        "en": "540ea4a9-b930-428f-bfee-05f6bf1afac0",
+        "una": "dca52e73-c61b-4eb0-8bb7-9c9e7d5a5156",
+        "empresa": "8ca221bc-11fe-48de-917b-32dcf2ca7684",
+        "de": "4af68821-7e24-4f1c-b067-1ac7aee6fe5d",
+        "software": "0ec302e2-51b7-4abd-a625-12fe7b0a5456",
+        "prueba": "3104b7a0-1057-47b2-8cd9-5b374b09ffd4",
+        "se": "5ddcdff9-7f7e-4370-af2b-e6058b7c86ec",
+        "asegura": "afc06820-75b8-409a-874d-5aecef2561cd",
+        "que": "f75eaabe-f92c-4d17-bf3c-98f93a2053fa",
+        "el": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "funcione": "cf5d9341-913b-4bac-851e-3dfb2d4b0209",
+        "bien": "7d280422-608e-4d26-babe-d08dca57010e",
+        "antes": "f61a93fe-1fd0-4391-af07-1ac0a8bd076e",
+        "la": "f6dbd239-593d-4867-8ff1-b1c957737983",
+        "gente": "700da0f8-2dc7-41f1-8403-9f014b3179d1",
+        "lo": "f87cbbf0-0004-476b-a0e0-0bd4f84c1a02",
+        "use": "ea1eaa2a-ed3a-45a9-bf52-ea482c8532e6",
+        "es": "f7c3c91e-d4aa-46ed-b7fa-8ba1ae0dcb9e",
+        "muy": "344e444a-abb2-4ca5-88a3-a34ea3345ada",
+        "cuidadoso": "6658c2f3-b3f6-42f2-8469-bd774059df85",
+        "y": "941468b2-a95e-4118-8b87-53f8a89b12c2",
+        "a fondo": "dc16efe3-bca5-47c5-a316-f6a718fd3928"
+      }
+    }
+  ]
+}

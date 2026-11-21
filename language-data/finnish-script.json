@@ -1,13 +1,13 @@
 {
-  "scriptName": "Finnish Pronunciation",
-  "buttonLabel": "Pronunciation Guide",
+  "scriptName": "Finnish Language",
   "generated": "pronunciation",
-  "intro": "How Finnish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "intro": "How Finnish is pronounced and how it works: the spelling rules and a key to the symbols in the pronunciations, then the grammar basics — vowel harmony, consonant gradation, the cases, and the verbs.",
   "sections": [
     {
       "heading": "About the pronunciations",
       "text": [
-        "Pronunciations follow standard Finnish, written as exact (bracketed) IPA. Finnish is spelled as it sounds: every letter is pronounced, doubled letters are long (ː), and the first syllable is always stressed."
+        "Pronunciations follow standard Finnish, written as exact (bracketed) IPA. Finnish is spelled as it sounds: every letter is pronounced, doubled letters are long (ː), and the first syllable is always stressed.",
+        "Short and long vowels have the same quality; they differ only in length. The mid vowels e, ö and o are true mid vowels, lower than French é or German e, so they carry the lowering mark (e̞ ø̞ o̞). t is dental, made with the tongue against the back of the upper teeth (t̪), and n before it is dental too (n̪t̪); d, n, l and s are alveolar, as in English."
       ]
     },
     {
@@ -20,7 +20,7 @@
         },
         {
           "char": "ö",
-          "ipa": "[ø]",
+          "ipa": "[ø̞]",
           "note": "e with rounded lips"
         },
         {
@@ -30,12 +30,12 @@
         },
         {
           "char": "double vowels",
-          "ipa": "[aː eː …]",
+          "ipa": "[aː e̞ː …]",
           "note": "long: tuli (fire) vs tuuli (wind)"
         },
         {
           "char": "double consonants",
-          "ipa": "[kː tː …]",
+          "ipa": "[kː t̪ː …]",
           "note": "held longer: tuli vs tulli (customs)"
         },
         {
@@ -70,9 +70,9 @@
       "text": "Each symbol that doesn't sound the way an English speaker might expect, with a word from the vocabulary that uses it.",
       "items": [
         {
-          "char": "e",
-          "ipa": "e [e]",
-          "note": "pure e, like \"ay\" in \"say\" without the glide"
+          "char": "e̞",
+          "ipa": "mennä [ˈme̞nːæ]",
+          "note": "pure mid e, between \"ay\" in \"say\" and \"e\" in \"bet\", without a glide"
         },
         {
           "char": "i",
@@ -80,9 +80,9 @@
           "note": "ee, as in \"machine\""
         },
         {
-          "char": "o",
-          "ipa": "jo [jo]",
-          "note": "pure o, like \"oh\" without the glide"
+          "char": "o̞",
+          "ipa": "talo [ˈt̪ɑlo̞]",
+          "note": "pure mid o, between \"oh\" and \"aw\", without a glide"
         },
         {
           "char": "u",
@@ -115,13 +115,13 @@
           "note": "a far back in the mouth, as in \"father\""
         },
         {
-          "char": "ø",
-          "ipa": "öö [øː]",
-          "note": "e said with rounded lips (German ö)"
+          "char": "ø̞",
+          "ipa": "öljy [ˈø̞ljy]",
+          "note": "mid e said with rounded lips (German ö)"
         },
         {
           "char": "ʃ",
-          "ipa": "show [ʃou̯]",
+          "ipa": "show [ʃo̞u̯]",
           "note": "sh, as in \"ship\""
         },
         {
@@ -131,12 +131,12 @@
         },
         {
           "char": "ɲ",
-          "ipa": "newton [ˈɲuːton]",
+          "ipa": "newton [ˈɲuːt̪o̞n]",
           "note": "ny, as in \"canyon\""
         },
         {
           "char": "ŋ",
-          "ipa": "henki [ˈheŋki]",
+          "ipa": "henki [ˈhe̞ŋki]",
           "note": "ng, as in \"sing\""
         },
         {
@@ -145,25 +145,632 @@
           "note": "between v and w, with the lips barely touching"
         },
         {
+          "char": "t̪",
+          "ipa": "tuli [ˈt̪uli]",
+          "note": "dental t: the tongue touches the back of the upper teeth, with no puff of air"
+        },
+        {
+          "char": "n̪",
+          "ipa": "tuntea [ˈt̪un̪t̪e̞ɑ]",
+          "note": "n before t is dental too"
+        },
+        {
           "char": "ɡ",
-          "ipa": "go [ɡo]",
+          "ipa": "go [ɡo̞]",
           "note": "always a hard g, as in \"go\""
         },
         {
           "char": "ˈ",
-          "ipa": "oy [ˈoy]",
+          "ipa": "oy [ˈo̞y]",
           "note": "the next syllable is stressed"
         },
         {
           "char": "ː",
-          "ipa": "oo [oː]",
+          "ipa": "oo [o̞ː]",
           "note": "the sound before it is long"
         },
         {
           "char": "◌̯",
-          "ipa": "ei [ei̯]",
+          "ipa": "ei [e̞i̯]",
           "note": "not a syllable of its own — glides into the vowel next to it"
         }
+      ]
+    },
+    {
+      "heading": "How Finnish grammar works",
+      "text": [
+        "Finnish has no articles (talo is \"house\", \"a house\" and \"the house\") and no grammatical gender: hän means both \"he\" and \"she\".",
+        "Instead of prepositions, Finnish adds endings to words: talo \"house\", talossa \"in the house\", talosta \"out of the house\". There are 15 cases, but about ten do almost all the work.",
+        "Two sound rules shape almost every ending: vowel harmony decides between a and ä (talossa but kylässä), and consonant gradation can change the stem (katu \"street\" but kadulla \"on the street\").",
+        "Word order is usually subject–verb–object, as in English, but it is freer because the endings show who does what."
+      ]
+    },
+    {
+      "heading": "Vowel harmony",
+      "text": "A word uses either back vowels or front vowels, never both (except in compounds). Endings come in two forms and follow the word: the back form after back vowels, the front form after front vowels. A word with only e and i takes the front form.",
+      "table": {
+        "columns": [
+          "Vowels",
+          "Type",
+          "Ending form",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "a, o, u",
+            "back",
+            "-ssa, -sta, -lla, -ko …",
+            "talossa (in the house), kotona (at home), puhutko? (do you speak?)"
+          ],
+          [
+            "ä, ö, y",
+            "front",
+            "-ssä, -stä, -llä, -kö …",
+            "kylässä (in the village), työssä (at work), syötkö? (do you eat?)"
+          ],
+          [
+            "e, i only",
+            "neutral → front",
+            "-ssä, -stä, -llä, -kö …",
+            "tiellä (on the road), Helsingissä (in Helsinki)"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Consonant gradation",
+      "text": [
+        "The consonants k, p and t in the last syllable often change when an ending closes the syllable — before -n, -ssa, -lla, -t and others. The dictionary form has the \"strong\" grade; most case forms have the \"weak\" one.",
+        "Many words (and most loanwords) never change, and for some word types it works in reverse, but the patterns below cover most everyday nouns."
+      ],
+      "table": {
+        "columns": [
+          "Strong",
+          "Weak",
+          "Example"
+        ],
+        "rows": [
+          [
+            "kk",
+            "k",
+            "kukka (flower) → kukan"
+          ],
+          [
+            "pp",
+            "p",
+            "kauppa (store) → kaupassa"
+          ],
+          [
+            "tt",
+            "t",
+            "matto (rug) → maton"
+          ],
+          [
+            "k",
+            "— (drops)",
+            "jalka (leg) → jalan; joki (river) → joen"
+          ],
+          [
+            "p",
+            "v",
+            "leipä (bread) → leivän"
+          ],
+          [
+            "t",
+            "d",
+            "katu (street) → kadulla"
+          ],
+          [
+            "nk",
+            "ng",
+            "kenkä (shoe) → kengän"
+          ],
+          [
+            "mp",
+            "mm",
+            "kampa (comb) → kamman"
+          ],
+          [
+            "lt",
+            "ll",
+            "ilta (evening) → illalla"
+          ],
+          [
+            "nt",
+            "nn",
+            "ranta (beach) → rannalla"
+          ],
+          [
+            "rt",
+            "rr",
+            "parta (beard) → parran"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "The main cases",
+      "text": "Endings shown on talo (house). After a word with front vowels, every a becomes ä.",
+      "table": {
+        "columns": [
+          "Case",
+          "Ending",
+          "Main uses",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Nominative",
+            "—",
+            "the subject; dictionary form",
+            "Talo on iso. (The house is big.)"
+          ],
+          [
+            "Genitive",
+            "-n",
+            "'of', 's; owner; with postpositions",
+            "talon ovi (the house's door), talon edessä (in front of the house)"
+          ],
+          [
+            "Partitive",
+            "-a, -ta",
+            "part of something; after numbers; after a negative (see below)",
+            "kaksi taloa (two houses)"
+          ],
+          [
+            "Inessive",
+            "-ssa",
+            "in",
+            "talossa (in the house)"
+          ],
+          [
+            "Elative",
+            "-sta",
+            "out of, from; about",
+            "talosta (out of the house)"
+          ],
+          [
+            "Illative",
+            "-Vn, -hVn, -seen",
+            "into",
+            "taloon (into the house), maahan (into the country)"
+          ],
+          [
+            "Adessive",
+            "-lla",
+            "on, at; by means of; 'have'",
+            "talolla (at the house), bussilla (by bus)"
+          ],
+          [
+            "Ablative",
+            "-lta",
+            "from (off, from someone)",
+            "talolta (from the house), äidiltä (from Mom)"
+          ],
+          [
+            "Allative",
+            "-lle",
+            "onto, to (someone)",
+            "talolle (to the house), äidille (to Mom)"
+          ],
+          [
+            "Essive",
+            "-na",
+            "as, in the role of",
+            "lapsena (as a child)"
+          ],
+          [
+            "Translative",
+            "-ksi",
+            "becoming, into (a state)",
+            "Hän tuli sairaaksi. (He got sick.)"
+          ]
+        ],
+        "note": "In the illative, V repeats the word's last vowel: talo → taloon, katu → katuun. Three rare cases — abessive (-tta 'without'), comitative (-ne 'with') and instructive (-n 'by') — appear mostly in set phrases."
+      }
+    },
+    {
+      "heading": "Where: in, at, and the direction",
+      "text": "The six place cases form a grid. Inner cases mean inside (a building, a city, a country); outer cases mean on a surface, at a place, or to a person.",
+      "table": {
+        "columns": [
+          "",
+          "Being there",
+          "Coming from",
+          "Going to"
+        ],
+        "rows": [
+          [
+            "Inside",
+            "-ssa: Helsingissä (in Helsinki)",
+            "-sta: Helsingistä (from Helsinki)",
+            "-Vn: Helsinkiin (to Helsinki)"
+          ],
+          [
+            "On, at",
+            "-lla: pöydällä (on the table)",
+            "-lta: pöydältä (off the table)",
+            "-lle: pöydälle (onto the table)"
+          ]
+        ],
+        "note": "Some places take the outer cases by habit: torilla (at the market), asemalla (at the station), Suomessa but Venäjällä (in Finland, in Russia)."
+      }
+    },
+    {
+      "heading": "Plural",
+      "text": [
+        "The nominative plural ends in -t: talo → talot, katu → kadut.",
+        "All other plural cases put an -i- before the ending (it can change the vowel before it): taloissa (in the houses), kaduilla (on the streets). The partitive plural ends in -ja or -ia: taloja, katuja, kenkiä. The genitive plural ends in -jen or -den/-ten: talojen, katujen, naisten."
+      ]
+    },
+    {
+      "heading": "The partitive",
+      "text": "The partitive is the most-used case after the nominative. Use it:",
+      "table": {
+        "columns": [
+          "When",
+          "Example"
+        ],
+        "rows": [
+          [
+            "after numbers above one (singular)",
+            "kaksi kahvia (two coffees), kolme taloa (three houses)"
+          ],
+          [
+            "for an uncountable or unspecified amount",
+            "Juon kahvia. (I drink coffee.) Ostan leipää. (I'm buying some bread.)"
+          ],
+          [
+            "for the object of a negative verb",
+            "Minulla ei ole autoa. (I don't have a car.)"
+          ],
+          [
+            "for an action that is unfinished or ongoing",
+            "Luen kirjaa. (I'm reading a book.) — compare Luin kirjan. (I read the book [to the end].)"
+          ],
+          [
+            "after verbs of feeling and some others",
+            "Rakastan sinua. (I love you.) Odotan bussia. (I'm waiting for the bus.)"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "To have",
+      "text": "Finnish has no verb \"to have\". It says \"at me is\": the owner in the adessive (-lla) plus on.",
+      "table": {
+        "columns": [
+          "Finnish",
+          "English"
+        ],
+        "rows": [
+          [
+            "Minulla on koira.",
+            "I have a dog."
+          ],
+          [
+            "Sinulla on auto.",
+            "You have a car."
+          ],
+          [
+            "Hänellä on kaksi lasta.",
+            "He / she has two children."
+          ],
+          [
+            "Meillä on aikaa.",
+            "We have time."
+          ],
+          [
+            "Minulla ei ole rahaa.",
+            "I don't have money (partitive after the negative)."
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Personal pronouns",
+      "table": {
+        "columns": [
+          "Pronoun",
+          "Spoken",
+          "Genitive (my, your…)",
+          "Adessive (have)"
+        ],
+        "rows": [
+          [
+            "minä (I)",
+            "mä",
+            "minun",
+            "minulla"
+          ],
+          [
+            "sinä (you)",
+            "sä",
+            "sinun",
+            "sinulla"
+          ],
+          [
+            "hän (he, she)",
+            "se",
+            "hänen",
+            "hänellä"
+          ],
+          [
+            "me (we)",
+            "me",
+            "meidän",
+            "meillä"
+          ],
+          [
+            "te (you, plural or polite)",
+            "te",
+            "teidän",
+            "teillä"
+          ],
+          [
+            "he (they, people)",
+            "ne",
+            "heidän",
+            "heillä"
+          ]
+        ],
+        "note": "se means \"it\" and ne \"they\" (things); in everyday speech they are also used for people."
+      }
+    },
+    {
+      "heading": "Possessive suffixes",
+      "text": "In standard Finnish, \"my house\" is the genitive pronoun plus a suffix on the noun — and the pronoun can be left out (except for hän and he). In everyday speech, people usually drop the suffix and keep the pronoun: mun talo.",
+      "table": {
+        "columns": [
+          "Person",
+          "Suffix",
+          "Example"
+        ],
+        "rows": [
+          [
+            "my",
+            "-ni",
+            "(minun) taloni"
+          ],
+          [
+            "your",
+            "-si",
+            "(sinun) talosi"
+          ],
+          [
+            "his, her",
+            "-nsa / -nsä",
+            "hänen talonsa"
+          ],
+          [
+            "our",
+            "-mme",
+            "(meidän) talomme"
+          ],
+          [
+            "your (plural)",
+            "-nne",
+            "(teidän) talonne"
+          ],
+          [
+            "their",
+            "-nsa / -nsä",
+            "heidän talonsa"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "The six verb types",
+      "text": "Verbs are grouped by the ending of their basic form. Drop the ending to find the stem for the present tense.",
+      "table": {
+        "columns": [
+          "Type",
+          "Basic form ends in",
+          "Example",
+          "Stem → I …"
+        ],
+        "rows": [
+          [
+            "1",
+            "vowel + a/ä",
+            "puhua (to speak)",
+            "puhu- → puhun"
+          ],
+          [
+            "2",
+            "-da / -dä",
+            "syödä (to eat)",
+            "syö- → syön"
+          ],
+          [
+            "3",
+            "-la, -na, -ra, -sta (two consonants + a)",
+            "tulla (to come)",
+            "tule- → tulen"
+          ],
+          [
+            "4",
+            "-ata / -ätä, -ota, -uta",
+            "haluta (to want)",
+            "halua- → haluan"
+          ],
+          [
+            "5",
+            "-ita / -itä",
+            "tarvita (to need)",
+            "tarvitse- → tarvitsen"
+          ],
+          [
+            "6",
+            "-eta / -etä",
+            "vanheta (to get old)",
+            "vanhene- → vanhenen"
+          ]
+        ],
+        "note": "Type 1 verbs also show consonant gradation: ottaa (to take) → otan, but hän ottaa."
+      }
+    },
+    {
+      "heading": "Present tense",
+      "table": {
+        "columns": [
+          "Person",
+          "Ending",
+          "puhua (speak)",
+          "olla (be)"
+        ],
+        "rows": [
+          [
+            "minä",
+            "-n",
+            "puhun",
+            "olen"
+          ],
+          [
+            "sinä",
+            "-t",
+            "puhut",
+            "olet"
+          ],
+          [
+            "hän",
+            "long vowel",
+            "puhuu",
+            "on"
+          ],
+          [
+            "me",
+            "-mme",
+            "puhumme",
+            "olemme"
+          ],
+          [
+            "te",
+            "-tte",
+            "puhutte",
+            "olette"
+          ],
+          [
+            "he",
+            "-vat / -vät",
+            "puhuvat",
+            "ovat"
+          ]
+        ],
+        "note": "The present tense also covers the future: Tulen huomenna. (I'll come tomorrow.)"
+      }
+    },
+    {
+      "heading": "Negation",
+      "text": "Finnish negates with a negative verb, ei, which takes the person ending. The main verb stays in its bare stem.",
+      "table": {
+        "columns": [
+          "Person",
+          "Negative verb",
+          "Example"
+        ],
+        "rows": [
+          [
+            "minä",
+            "en",
+            "en puhu (I don't speak)"
+          ],
+          [
+            "sinä",
+            "et",
+            "et puhu"
+          ],
+          [
+            "hän",
+            "ei",
+            "ei puhu"
+          ],
+          [
+            "me",
+            "emme",
+            "emme puhu"
+          ],
+          [
+            "te",
+            "ette",
+            "ette puhu"
+          ],
+          [
+            "he",
+            "eivät",
+            "eivät puhu"
+          ]
+        ],
+        "note": "olla: en ole, et ole, ei ole… In the past: en puhunut (I didn't speak), emme puhuneet (we didn't speak)."
+      }
+    },
+    {
+      "heading": "Questions",
+      "text": [
+        "Yes-no questions add -ko / -kö to the first word, usually the verb, which moves to the front: Puhutko englantia? (Do you speak English?) Onko tämä sinun? (Is this yours?)",
+        "The answer repeats the verb: Puhutko suomea? — Puhun. / En puhu. (Do you speak Finnish? — I do. / I don't.)",
+        "Question words: mikä (what), kuka (who), missä (where), mistä (from where), mihin (where to), milloin (when), miksi (why), miten / kuinka (how), paljonko (how much)."
+      ]
+    },
+    {
+      "heading": "Past tense",
+      "text": "The simple past adds -i- before the person ending. The vowel before it may change (puhu- + i stays puhui-, but syö- becomes söi-).",
+      "table": {
+        "columns": [
+          "Person",
+          "puhua (speak)",
+          "olla (be)",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "minä",
+            "puhuin",
+            "olin",
+            "en puhunut"
+          ],
+          [
+            "sinä",
+            "puhuit",
+            "olit",
+            "et puhunut"
+          ],
+          [
+            "hän",
+            "puhui",
+            "oli",
+            "ei puhunut"
+          ],
+          [
+            "me",
+            "puhuimme",
+            "olimme",
+            "emme puhuneet"
+          ],
+          [
+            "te",
+            "puhuitte",
+            "olitte",
+            "ette puhuneet"
+          ],
+          [
+            "he",
+            "puhuivat",
+            "olivat",
+            "eivät puhuneet"
+          ]
+        ],
+        "note": "The perfect uses olla + the -nut/-nyt form, as in English: Olen käynyt Suomessa. (I have been to Finland.)"
+      }
+    },
+    {
+      "heading": "Spoken Finnish",
+      "text": [
+        "What you hear in conversation differs from written Finnish. The most common differences:",
+        "mä, sä instead of minä, sinä; se, ne instead of hän, he.",
+        "\"We\" uses the passive: me mennään instead of me menemme (we go); me ollaan instead of me olemme.",
+        "Many words are shortened: mä oon (minä olen, I am), mä en tiiä (minä en tiedä, I don't know), mun (minun, my), tää (tämä, this)."
       ]
     }
   ]

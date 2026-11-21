@@ -6435,6 +6435,308 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "eddedf40-5c5d-4292-9dc4-a6e62bce1319",
+      "part-of-speech": "preposition",
+      "english": "along, on, by; on (days)",
+      "russian": "по",
+      "cefr": "A1",
+      "ipa": "[po]",
+      "register": [
+        "All"
+      ],
+      "context": "по пятницам: on Fridays"
+    },
+    {
+      "id": "32e52ec2-bc9a-4d4a-8453-db5ead88ff45",
+      "part-of-speech": "adverb",
+      "english": "on foot",
+      "russian": "пешком",
+      "cefr": "A1",
+      "ipa": "[pʲɪˈʂkom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a5adcbab-f269-4016-9180-0d1fe34fa578",
+      "part-of-speech": "preposition",
+      "english": "past, by",
+      "russian": "мимо",
+      "cefr": "A2",
+      "ipa": "[ˈmʲimə]",
+      "register": [
+        "All"
+      ],
+      "context": "мимо магазина: past the store"
+    },
+    {
+      "id": "5dd7282e-029e-4aa2-a1c8-839bb7c763e8",
+      "part-of-speech": "verb",
+      "english": "to drop in, to stop by",
+      "russian": "заходить",
+      "cefr": "A2",
+      "ipa": "[zəxɐˈdʲitʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0f9ec80c-d795-4dd7-be48-43b13bf0b6b1",
+      "part-of-speech": "adverb",
+      "english": "there (to that place)",
+      "russian": "туда",
+      "cefr": "A1",
+      "ipa": "[tʊˈda]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2f5d0193-c773-4d83-8f75-aed6f0d8e3a4",
+      "part-of-speech": "noun",
+      "english": "soda, soft drink",
+      "russian": "газировка",
+      "cefr": "A2",
+      "ipa": "[ɡəzʲɪˈrofkə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "газировки"
+    },
+    {
+      "id": "c836c5be-6195-467d-91f5-01b01cce7f42",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "russian": "чипсы",
+      "cefr": "A2",
+      "ipa": "[ˈtɕipsɨ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9247b71d-8183-4cf7-8fd1-a45690405e81",
+      "part-of-speech": "pronoun",
+      "english": "one's own (his, her, their own)",
+      "russian": "свой",
+      "cefr": "A1",
+      "ipa": "[svoj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a52a3d22-4844-46dd-bde5-d4e9d34424a7",
+      "part-of-speech": "noun",
+      "english": "fur, coat (of an animal)",
+      "russian": "шерсть",
+      "cefr": "A2",
+      "ipa": "[ʂɛrsʲtʲ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
+    },
+    {
+      "id": "d6eb34a8-76cb-4518-8595-a860a9576f21",
+      "part-of-speech": "noun",
+      "english": "dog (male)",
+      "russian": "пёс",
+      "cefr": "A2",
+      "ipa": "[pʲɵs]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "псы"
+    },
+    {
+      "id": "850ba991-5ff9-4ea5-a257-40d7e895b9b7",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "russian": "медсестра",
+      "cefr": "A2",
+      "ipa": "[mʲɪtsːɪˈstra]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "медсёстры"
+    },
+    {
+      "id": "84ccd6f8-c855-4799-a2a3-28f5fe0ace9a",
+      "part-of-speech": "verb",
+      "english": "to be ill",
+      "russian": "болеть",
+      "cefr": "A2",
+      "ipa": "[bɐˈlʲetʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "964cb8e0-3abf-48bd-939d-0d20dee73e7d",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "russian": "пациент",
+      "cefr": "A2",
+      "ipa": "[pətsɨˈjɛnt]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "пациенты"
+    },
+    {
+      "id": "d5a54935-5787-484a-a106-f5ca611ab963",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "russian": "выздороветь",
+      "cefr": "A2",
+      "ipa": "[vɨˈzdorəvʲɪtʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "25d4090f-53a5-4091-b298-9d20d2ddeb13",
+      "part-of-speech": "verb",
+      "english": "to watch; to make sure",
+      "russian": "следить",
+      "cefr": "A2",
+      "ipa": "[slʲɪˈdʲitʲ]",
+      "register": [
+        "All"
+      ],
+      "context": "следить за тем, чтобы: to make sure that"
+    },
+    {
+      "id": "ea93e09f-a6aa-4dd0-8f09-6e9a9474a914",
+      "part-of-speech": "verb",
+      "english": "to take (medicine); to accept",
+      "russian": "принимать",
+      "cefr": "A2",
+      "ipa": "[prʲɪnʲɪˈmatʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d8f052ac-3259-47cb-8e7c-1333768aa1b2",
+      "part-of-speech": "noun",
+      "english": "company",
+      "russian": "компания",
+      "cefr": "A2",
+      "ipa": "[kɐmˈpanʲɪjə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "компании"
+    },
+    {
+      "id": "ded78691-3955-4864-8568-23190bdc60b9",
+      "part-of-speech": "noun",
+      "english": "program",
+      "russian": "программа",
+      "cefr": "A2",
+      "ipa": "[prɐˈɡramːə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "программы"
+    },
+    {
+      "id": "43a54079-8175-41a0-bea3-f3eb19f23771",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "russian": "тестировать",
+      "cefr": "A2",
+      "ipa": "[tɛstʲɪˈrovətʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b3a0bab-829d-4181-8da8-6a3f22b70f51",
+      "part-of-speech": "verb",
+      "english": "to check",
+      "russian": "проверять",
+      "cefr": "A2",
+      "ipa": "[prəvʲɪˈrʲætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17001bd5-641c-4823-8afe-78abd091eb95",
+      "part-of-speech": "adverb",
+      "english": "correctly, right",
+      "russian": "правильно",
+      "cefr": "A1",
+      "ipa": "[ˈpravʲɪlʲnə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0bcd1361-3cfc-4ca7-b6e4-5363175a7ec1",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "russian": "прежде чем",
+      "cefr": "A2",
+      "ipa": "[ˈprʲeʐdʲɪ tɕem]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e82d66fb-5620-4a6f-a4b6-dd72da4d4eae",
+      "part-of-speech": "verb",
+      "english": "to begin, to start",
+      "russian": "начать",
+      "cefr": "A2",
+      "ipa": "[nɐˈtɕætʲ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "41046cd8-06b5-415f-b123-63625d519854",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "russian": "пользоваться",
+      "cefr": "A2",
+      "ipa": "[ˈpolʲzəvət͡sə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5cdc46d8-5bd7-4c00-9678-0b0dab058a8a",
+      "part-of-speech": "adjective",
+      "english": "careful, attentive",
+      "russian": "внимательный",
+      "cefr": "A2",
+      "ipa": "[vnʲɪˈmatʲɪlʲnɨj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "20ab8aa1-6eec-460f-b488-b70cb5a9a55a",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "russian": "тщательно",
+      "cefr": "A2",
+      "ipa": "[ˈtɕːætʲɪlʲnə]",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

@@ -517,7 +517,7 @@
     {
       "id": "1af193cc-7e3c-47f6-b111-fe0291584823",
       "part-of-speech": "adjective",
-      "english": "one",
+      "english": "one; a, an",
       "hindi": "एक",
       "cefr": "A1",
       "ipa": "[eːk]",
@@ -6570,7 +6570,8 @@
           "letter": "स",
           "ipa": "[sə]"
         }
-      ]
+      ],
+      "context": "उसके पास: he has, she has"
     },
     {
       "id": "0bcd691f-9513-489a-8324-5ba5b635b6e0",
@@ -7601,6 +7602,410 @@
         "All"
       ],
       "tier": 2
+    },
+    {
+      "id": "0237e13c-1839-4bae-88cf-7449b6f918ae",
+      "part-of-speech": "adjective",
+      "english": "every, each",
+      "hindi": "हर",
+      "cefr": "A1",
+      "ipa": "[ɦər]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6bfed498-2c1a-42b2-b235-8526a17addcb",
+      "part-of-speech": "pronoun",
+      "english": "one's own (my, his, her, their own)",
+      "hindi": "अपना",
+      "cefr": "A1",
+      "ipa": "[əpnaː]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine अपनी, plural and oblique अपने"
+    },
+    {
+      "id": "3c314ff8-0ff5-4e79-b90c-b364ef5271c3",
+      "part-of-speech": "adverb",
+      "english": "on foot",
+      "hindi": "पैदल",
+      "cefr": "A1",
+      "ipa": "[pɛːd̪əl]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "50927688-e163-452b-8afb-05671949fd1c",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "hindi": "गुज़रना",
+      "cefr": "A2",
+      "ipa": "[ɡʊzərnaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ff6b9349-5f56-41f3-af30-6c48d74efd6e",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "hindi": "वहाँ",
+      "cefr": "A1",
+      "ipa": "[ʋəɦãː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1c1bd4d-d4da-40f6-a692-8010dd50dbcf",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "hindi": "रुकना",
+      "cefr": "A1",
+      "ipa": "[rʊknaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19f3c24e-56c3-4fd8-9acb-a25811361864",
+      "part-of-speech": "noun",
+      "english": "soda",
+      "hindi": "सोडा",
+      "cefr": "A2",
+      "ipa": "[soːɖaː]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "41183242-ab7d-42cc-b4c7-25ae24d996c8",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "hindi": "चिप्स",
+      "cefr": "A2",
+      "ipa": "[tʃɪps]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "26aa0118-fd0a-4549-bcf1-0fdb9634a604",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "hindi": "कुत्ता",
+      "cefr": "A1",
+      "ipa": "[kʊt̪t̪aː]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "कुत्ते"
+    },
+    {
+      "id": "8e44b9d8-0eb8-46dd-8aff-16153c541b2a",
+      "part-of-speech": "noun",
+      "english": "love",
+      "hindi": "प्यार",
+      "cefr": "A1",
+      "ipa": "[pjaːr]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "context": "उसे … से प्यार है: she loves …; प्यार करना: to love"
+    },
+    {
+      "id": "a1bf18f2-dac5-4cfd-abc6-5450c26b61aa",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "hindi": "कुतिया",
+      "cefr": "A2",
+      "ipa": "[kʊt̪ɪjaː]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "कुतियाँ"
+    },
+    {
+      "id": "a1e67fc1-abba-4f9b-96eb-169d2e1ccaae",
+      "part-of-speech": "pronoun",
+      "english": "who, which, that",
+      "hindi": "जो",
+      "cefr": "A2",
+      "ipa": "[d͡ʒoː]",
+      "register": [
+        "All"
+      ],
+      "context": "जिसके: whose"
+    },
+    {
+      "id": "1fae440b-2f11-495a-a1e5-02ae44396d54",
+      "part-of-speech": "noun",
+      "english": "hair; fur",
+      "hindi": "बाल",
+      "cefr": "A1",
+      "ipa": "[baːl]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "बाल"
+    },
+    {
+      "id": "354c3e8c-dfaa-456b-933e-9ae662398899",
+      "part-of-speech": "noun",
+      "english": "age",
+      "hindi": "उम्र",
+      "cefr": "A1",
+      "ipa": "[ʊmr]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "context": "उम्र में छोटी: younger"
+    },
+    {
+      "id": "292b7005-1759-4bbe-8ea5-f417f65782b9",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "hindi": "नर्स",
+      "cefr": "A1",
+      "ipa": "[nərs]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "नर्सें"
+    },
+    {
+      "id": "47d69d46-6b64-4c9c-9ac3-cb84400c9cca",
+      "part-of-speech": "postposition",
+      "english": "of, 's",
+      "hindi": "का",
+      "cefr": "A1",
+      "ipa": "[kaː]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine की, plural and oblique के"
+    },
+    {
+      "id": "0df4d821-5348-453d-b702-cf8ab64cff9e",
+      "part-of-speech": "noun",
+      "english": "people",
+      "hindi": "लोग",
+      "cefr": "A1",
+      "ipa": "[loːɡ]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "लोग"
+    },
+    {
+      "id": "616e9d3e-1608-493a-ab57-306bc859bb12",
+      "part-of-speech": "conjunction",
+      "english": "so that",
+      "hindi": "ताकि",
+      "cefr": "A2",
+      "ipa": "[t̪aːkɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9ea4b65b-3dd9-4e3d-86c7-17aec0542abd",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "hindi": "मरीज़",
+      "cefr": "A2",
+      "ipa": "[məriːz]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "मरीज़"
+    },
+    {
+      "id": "9f475080-e697-41dc-b9db-eb0ebf1c2a64",
+      "part-of-speech": "adjective",
+      "english": "fine, all right; correct",
+      "hindi": "ठीक",
+      "cefr": "A1",
+      "ipa": "[ʈʰiːk]",
+      "register": [
+        "All"
+      ],
+      "context": "ठीक से: properly"
+    },
+    {
+      "id": "855feb1b-9d73-41b3-9aca-244923769483",
+      "part-of-speech": "verb",
+      "english": "to get well; to be fixed",
+      "hindi": "ठीक होना",
+      "cefr": "A2",
+      "ipa": "[ʈʰiːk ɦoːnaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a6561ef1-349a-4bda-ba71-fd4a16d0faa3",
+      "part-of-speech": "verb",
+      "english": "to take care, to make sure",
+      "hindi": "ध्यान रखना",
+      "cefr": "A2",
+      "ipa": "[d̪ʱjaːn rəkʰnaː]",
+      "register": [
+        "All"
+      ],
+      "context": "ध्यान रखना कि: to make sure that"
+    },
+    {
+      "id": "3b5a80da-47cd-4b37-9e17-30eb7c2a7eda",
+      "part-of-speech": "conjunction",
+      "english": "that",
+      "hindi": "कि",
+      "cefr": "A1",
+      "ipa": "[kɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "8c25ea68-b24d-4c54-836c-0e4119e0e693",
+      "part-of-speech": "noun",
+      "english": "medicine",
+      "hindi": "दवाई",
+      "cefr": "A1",
+      "ipa": "[d̪əʋaːiː]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "दवाइयाँ"
+    },
+    {
+      "id": "a984b046-5d94-410e-96d7-fa10d7a203b6",
+      "part-of-speech": "noun",
+      "english": "software",
+      "hindi": "सॉफ़्टवेयर",
+      "cefr": "A2",
+      "ipa": "[sɔːfʈʋeːjər]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "5f463422-3f99-405f-873a-fcd93eef4a12",
+      "part-of-speech": "noun",
+      "english": "company",
+      "hindi": "कंपनी",
+      "cefr": "A2",
+      "ipa": "[kəmpəniː]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "कंपनियाँ"
+    },
+    {
+      "id": "d2e82cf8-9159-493e-ad89-96556ed8fd9f",
+      "part-of-speech": "verb",
+      "english": "to check, to test",
+      "hindi": "जाँच करना",
+      "cefr": "A2",
+      "ipa": "[d͡ʒãːtʃ kərnaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c17a3299-23e6-4e73-aa76-ad0bb68df661",
+      "part-of-speech": "verb",
+      "english": "to check, to test",
+      "hindi": "जाँचना",
+      "cefr": "A2",
+      "ipa": "[d͡ʒãːtʃnaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6fc99525-a4c8-4fd5-a051-308762647aac",
+      "part-of-speech": "postposition",
+      "english": "to; object marker",
+      "hindi": "को",
+      "cefr": "A1",
+      "ipa": "[koː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9a2bb0ea-1429-46e9-b155-8fc511d9e956",
+      "part-of-speech": "noun",
+      "english": "use",
+      "hindi": "इस्तेमाल",
+      "cefr": "A2",
+      "ipa": "[ɪst̪eːmaːl]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "context": "इस्तेमाल करना: to use"
+    },
+    {
+      "id": "cb1d5c98-655f-4fe1-b1d3-433b0bd3850d",
+      "part-of-speech": "postposition",
+      "english": "for",
+      "hindi": "के लिए",
+      "cefr": "A1",
+      "ipa": "[keː lɪeː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3ba6d97b-69d9-424e-8ee5-aff9d3795408",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "hindi": "पक्का करना",
+      "cefr": "A2",
+      "ipa": "[pəkkaː kərnaː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bffa252-86be-454f-8b4e-55d521049772",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "hindi": "सावधान",
+      "cefr": "A2",
+      "ipa": "[saːʋd̪ʱaːn]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9d9e0fb4-d7f7-43ec-b0de-a76ebbae218f",
+      "part-of-speech": "adverb",
+      "english": "well, thoroughly",
+      "hindi": "अच्छी तरह",
+      "cefr": "A2",
+      "ipa": "[ətʃtʃʰiː t̪ərɦ]",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

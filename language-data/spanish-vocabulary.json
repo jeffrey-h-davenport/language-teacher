@@ -126,17 +126,15 @@
     },
     {
       "id": "7d280422-608e-4d26-babe-d08dca57010e",
-      "part-of-speech": "noun",
-      "english": "good",
+      "part-of-speech": "adverb",
+      "english": "well; fine",
       "spanish": "bien",
-      "gender": "masculine",
-      "plural": "bienes",
       "cefr": "A1",
       "ipa": "[bjen]",
-      "context": "as opposed to evil",
       "register": [
         "All"
-      ]
+      ],
+      "context": "as opposed to evil"
     },
     {
       "id": "76de8eaa-46b7-4778-9247-32ff79b8a100",
@@ -330,16 +328,15 @@
     },
     {
       "id": "f7c3c91e-d4aa-46ed-b7fa-8ba1ae0dcb9e",
-      "part-of-speech": "noun",
-      "english": "a being, organism",
+      "part-of-speech": "verb",
+      "english": "to be",
       "spanish": "ser",
-      "gender": "masculine",
-      "plural": "seres",
       "cefr": "A1",
       "ipa": "[seɾ]",
       "register": [
         "All"
-      ]
+      ],
+      "context": "soy, eres, es, somos, sois, son"
     },
     {
       "id": "5b07c684-42ad-4cbc-a36f-d5647e60a8a8",
@@ -2686,11 +2683,9 @@
     },
     {
       "id": "d84eb792-98ea-4640-b3cd-c446e5e6d887",
-      "part-of-speech": "noun",
-      "english": "bigwig",
+      "part-of-speech": "adjective",
+      "english": "big, large; great",
       "spanish": "grande",
-      "gender": "masculine",
-      "plural": "grandes",
       "cefr": "A1",
       "ipa": "[ˈɡɾande]",
       "register": [
@@ -3388,11 +3383,9 @@
     },
     {
       "id": "7df02ef5-d5cd-4b26-9b04-5b3fff7f9a6d",
-      "part-of-speech": "noun",
-      "english": "eating, food",
+      "part-of-speech": "verb",
+      "english": "to eat",
       "spanish": "comer",
-      "gender": "masculine",
-      "plural": "comeres",
       "cefr": "A1",
       "ipa": "[koˈmeɾ]",
       "register": [
@@ -3500,11 +3493,9 @@
     },
     {
       "id": "bdbddf4c-e8a1-4113-abb0-73a257653fb3",
-      "part-of-speech": "noun",
-      "english": "youth, young person, youngster",
+      "part-of-speech": "adjective",
+      "english": "young; young person",
       "spanish": "joven",
-      "gender": "masculine",
-      "plural": "jóvenes",
       "cefr": "A1",
       "ipa": "[ˈxoβen]",
       "register": [
@@ -4418,12 +4409,12 @@
       "spanish": "perro",
       "gender": "masculine",
       "plural": "perros",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpero]",
-      "context": "the species Canis familiaris (sometimes designated Canis lupus familiaris), domesticated for thousands of years and of highly variable appearance because of human breeding",
       "register": [
         "All"
-      ]
+      ],
+      "context": "feminine: perra"
     },
     {
       "id": "de6ee79f-5598-4f70-b9c2-2d763327099b",
@@ -5045,7 +5036,7 @@
       "spanish": "médico",
       "gender": "masculine",
       "plural": "médicos",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈmeðiko]",
       "register": [
         "All"
@@ -5090,11 +5081,9 @@
     },
     {
       "id": "07e9c44d-48e6-4e16-abb3-af4ac9bff9c6",
-      "part-of-speech": "noun",
-      "english": "length",
+      "part-of-speech": "adjective",
+      "english": "long",
       "spanish": "largo",
-      "gender": "masculine",
-      "plural": "largos",
       "cefr": "A2",
       "ipa": "[ˈlaɾɣo]",
       "register": [
@@ -5629,7 +5618,7 @@
     {
       "id": "4cee4a60-b89c-4136-99ab-02df38511ed8",
       "part-of-speech": "noun",
-      "english": "hair (a single hair)",
+      "english": "hair; fur",
       "spanish": "pelo",
       "gender": "masculine",
       "plural": "pelos",
@@ -5866,11 +5855,11 @@
     {
       "id": "11592385-d332-4e73-bb7f-9085b6822d49",
       "part-of-speech": "noun",
-      "english": "tent",
+      "english": "store, shop; tent",
       "spanish": "tienda",
       "gender": "feminine",
       "plural": "tiendas",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈtjenda]",
       "register": [
         "All"
@@ -8759,12 +8748,10 @@
     },
     {
       "id": "8a0f3c04-08ff-4c1a-9a4f-71d856d8cc10",
-      "part-of-speech": "noun",
-      "english": "sick person, patient",
+      "part-of-speech": "adjective",
+      "english": "sick, ill; sick person",
       "spanish": "enfermo",
-      "gender": "masculine",
-      "plural": "enfermos",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[eɱˈfeɾmo]",
       "register": [
         "All"
@@ -9460,9 +9447,9 @@
     {
       "id": "3104b7a0-1057-47b2-8cd9-5b374b09ffd4",
       "part-of-speech": "verb",
-      "english": "to prove",
+      "english": "to try, to test; to taste",
       "spanish": "probar",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[pɾoˈβaɾ]",
       "register": [
         "All"
@@ -11286,12 +11273,10 @@
     },
     {
       "id": "a515c1e2-f14d-408f-9a2d-469d76dedff3",
-      "part-of-speech": "noun",
-      "english": "love; affection; fondness",
+      "part-of-speech": "verb",
+      "english": "to want; to love",
       "spanish": "querer",
-      "gender": "masculine",
-      "plural": "quereres",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[keˈɾeɾ]",
       "register": [
         "All"
@@ -12427,7 +12412,7 @@
       "spanish": "viernes",
       "gender": "masculine",
       "plural": "viernes",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈbjeɾnes]",
       "register": [
         "All"
@@ -13105,7 +13090,7 @@
       "spanish": "medicina",
       "gender": "feminine",
       "plural": "medicinas",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[meðiˈθina]",
       "register": [
         "All"
@@ -14128,7 +14113,7 @@
       "part-of-speech": "verb",
       "english": "to work, to function",
       "spanish": "funcionar",
-      "cefr": "B1",
+      "cefr": "A2",
       "ipa": "[funθjoˈnaɾ]",
       "register": [
         "All"
@@ -27524,14 +27509,14 @@
     {
       "id": "afc06820-75b8-409a-874d-5aecef2561cd",
       "part-of-speech": "verb",
-      "english": "to secure",
+      "english": "to make sure, to ensure",
       "spanish": "asegurar",
-      "cefr": "B2",
+      "cefr": "A2",
       "ipa": "[aseɣuˈɾaɾ]",
-      "context": "to make fast; to close or confine effectually",
       "register": [
         "All"
-      ]
+      ],
+      "context": "asegurarse de que: to make sure that"
     },
     {
       "id": "36b73774-8f1d-417e-8569-7683100a6fb7",
@@ -34727,13 +34712,14 @@
     {
       "id": "4b42f474-06b3-4edc-a6d2-5e123d3794e9",
       "part-of-speech": "verb",
-      "english": "to care, heed, study, strive, seek, work",
+      "english": "to cure, to heal",
       "spanish": "curar",
-      "cefr": "B2",
+      "cefr": "A2",
       "ipa": "[kuˈɾaɾ]",
       "register": [
         "All"
-      ]
+      ],
+      "context": "curarse: to get well"
     },
     {
       "id": "ffa89eec-0f98-4f49-a111-88029cc22fe7",
@@ -37999,7 +37985,7 @@
       "spanish": "marrón",
       "gender": "masculine",
       "plural": "marrones",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[maˈron]",
       "context": "colour",
       "register": [
@@ -42027,7 +42013,7 @@
       "part-of-speech": "adjective",
       "english": "careful",
       "spanish": "cuidadoso",
-      "cefr": "C1",
+      "cefr": "A2",
       "ipa": "[kwiðaˈðoso]",
       "register": [
         "All"
@@ -43876,12 +43862,10 @@
     },
     {
       "id": "c76ddac4-56bc-4915-9b01-f46e3fb1fc2c",
-      "part-of-speech": "noun",
-      "english": "fry, fried dish",
+      "part-of-speech": "adjective",
+      "english": "fried",
       "spanish": "frito",
-      "gender": "masculine",
-      "plural": "fritos",
-      "cefr": "C1",
+      "cefr": "A2",
       "ipa": "[ˈfɾito]",
       "register": [
         "All"
@@ -47145,7 +47129,7 @@
       "spanish": "software",
       "gender": "masculine",
       "plural": "softwares",
-      "cefr": "C1",
+      "cefr": "A2",
       "ipa": "[ˈsofweɾ]",
       "context": "encoded computer instructions",
       "register": [
@@ -48067,11 +48051,11 @@
     {
       "id": "0ca22d0b-1531-4b2e-aa99-11e568b8ccf0",
       "part-of-speech": "noun",
-      "english": "refreshment",
+      "english": "soft drink, soda",
       "spanish": "refresco",
       "gender": "masculine",
       "plural": "refrescos",
-      "cefr": "C1",
+      "cefr": "A2",
       "ipa": "[reˈfɾesko]",
       "register": [
         "All"
@@ -58599,7 +58583,7 @@
       "spanish": "patata",
       "gender": "feminine",
       "plural": "patatas",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[paˈtata]",
       "register": [
         "All"
@@ -70314,11 +70298,12 @@
       "spanish": "enfermero",
       "gender": "masculine",
       "plural": "enfermeros",
-      "cefr": "C1",
+      "cefr": "A2",
       "ipa": "[eɱfeɾˈmeɾo]",
       "register": [
         "All"
-      ]
+      ],
+      "context": "feminine: enfermera"
     },
     {
       "id": "0687d7af-96c6-4c2a-a03b-debaa5f6427b",
@@ -107382,6 +107367,190 @@
       "plural": "apoderados",
       "cefr": "C2",
       "ipa": "[apoðeˈɾaðo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6dbd239-593d-4867-8ff1-b1c957737983",
+      "part-of-speech": "article",
+      "english": "the",
+      "spanish": "el",
+      "cefr": "A1",
+      "ipa": "[el]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine la; plural los, las"
+    },
+    {
+      "id": "dca52e73-c61b-4eb0-8bb7-9c9e7d5a5156",
+      "part-of-speech": "article",
+      "english": "a, an",
+      "spanish": "un",
+      "cefr": "A1",
+      "ipa": "[un]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine una; plural unos, unas"
+    },
+    {
+      "id": "2ab16d9c-b462-447a-a2f1-cd8c296fbbe2",
+      "part-of-speech": "preposition",
+      "english": "with",
+      "spanish": "con",
+      "cefr": "A1",
+      "ipa": "[kon]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "941468b2-a95e-4118-8b87-53f8a89b12c2",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "spanish": "y",
+      "cefr": "A1",
+      "ipa": "[i]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "44d533a4-6d55-4782-a6a7-256e7540e240",
+      "part-of-speech": "preposition",
+      "english": "by, through, past",
+      "spanish": "por",
+      "cefr": "A1",
+      "ipa": "[poɾ]",
+      "register": [
+        "All"
+      ],
+      "context": "pasar por: to go past"
+    },
+    {
+      "id": "fce7c2c6-3d0b-4810-aac6-2159fb0f3c02",
+      "part-of-speech": "pronoun",
+      "english": "she, her",
+      "spanish": "ella",
+      "cefr": "A1",
+      "ipa": "[ˈeʎa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f75eaabe-f92c-4d17-bf3c-98f93a2053fa",
+      "part-of-speech": "conjunction",
+      "english": "that; than",
+      "spanish": "que",
+      "cefr": "A1",
+      "ipa": "[ke]",
+      "register": [
+        "All"
+      ],
+      "context": "más joven que: younger than"
+    },
+    {
+      "id": "71f4c214-7870-4ddf-9c95-489f539dffe7",
+      "part-of-speech": "adjective",
+      "english": "his, her, its, their, your (formal)",
+      "spanish": "su",
+      "cefr": "A1",
+      "ipa": "[su]",
+      "register": [
+        "All"
+      ],
+      "context": "plural sus"
+    },
+    {
+      "id": "540ea4a9-b930-428f-bfee-05f6bf1afac0",
+      "part-of-speech": "preposition",
+      "english": "in, on, at",
+      "spanish": "en",
+      "cefr": "A1",
+      "ipa": "[en]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b46232b-9ede-4c41-97f1-8e0a54bf16a0",
+      "part-of-speech": "preposition",
+      "english": "for, in order to",
+      "spanish": "para",
+      "cefr": "A1",
+      "ipa": "[ˈpaɾa]",
+      "register": [
+        "All"
+      ],
+      "context": "para que: so that"
+    },
+    {
+      "id": "5ddcdff9-7f7e-4370-af2b-e6058b7c86ec",
+      "part-of-speech": "pronoun",
+      "english": "himself, herself, itself, themselves (reflexive)",
+      "spanish": "se",
+      "cefr": "A2",
+      "ipa": "[se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f87cbbf0-0004-476b-a0e0-0bd4f84c1a02",
+      "part-of-speech": "pronoun",
+      "english": "it, him (as an object)",
+      "spanish": "lo",
+      "cefr": "A1",
+      "ipa": "[lo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4f9d6566-4d5b-4bae-83d7-8ba3fc023a29",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "spanish": "corto",
+      "cefr": "A1",
+      "ipa": "[ˈkoɾto]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e7a3fd6c-d220-4d80-835e-e46c6c8d0e94",
+      "part-of-speech": "preposition",
+      "english": "to, at",
+      "spanish": "a",
+      "cefr": "A1",
+      "ipa": "[a]",
+      "register": [
+        "All"
+      ],
+      "context": "al = a + el"
+    },
+    {
+      "id": "4af68821-7e24-4f1c-b067-1ac7aee6fe5d",
+      "part-of-speech": "preposition",
+      "english": "of, from",
+      "spanish": "de",
+      "cefr": "A1",
+      "ipa": "[de]",
+      "register": [
+        "All"
+      ],
+      "context": "del = de + el"
+    },
+    {
+      "id": "dc16efe3-bca5-47c5-a316-f6a718fd3928",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "spanish": "a fondo",
+      "cefr": "A2",
+      "ipa": "[a ˈfondo]",
       "register": [
         "All"
       ]

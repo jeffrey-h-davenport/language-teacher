@@ -124,7 +124,6 @@
       "vietnamese": "ông",
       "cefr": "A1",
       "ipa": "[ʔəwŋ͡m]",
-      "context": "also \"grandfather\"",
       "register": [
         "All"
       ],
@@ -133,7 +132,8 @@
       ],
       "ipaSyllables": [
         "ʔəwŋ͡m"
-      ]
+      ],
+      "context": "also \"grandfather\"; also \"he, him\" when talking about an older man"
     },
     {
       "id": "9a644f0b-a427-4bca-8a67-84ba49af782e",
@@ -142,7 +142,6 @@
       "vietnamese": "bà",
       "cefr": "A1",
       "ipa": "[ɓaː]",
-      "context": "also \"grandmother\"",
       "register": [
         "All"
       ],
@@ -151,7 +150,8 @@
       ],
       "ipaSyllables": [
         "ɓaː"
-      ]
+      ],
+      "context": "also \"grandmother\"; also \"she, her\" when talking about an older woman"
     },
     {
       "id": "f3bdf871-67bd-4324-ac92-1b00e7489d2c",
@@ -11283,6 +11283,550 @@
       "ipaSyllables": [
         "ʔoj"
       ]
+    },
+    {
+      "id": "72d94ef0-02cc-4fa0-b2d8-7f96551178d9",
+      "part-of-speech": "pronoun",
+      "english": "he, him (a boy or young man)",
+      "vietnamese": "cậu ấy",
+      "cefr": "A1",
+      "ipa": "[kəw ˈʔəj]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        6,
+        3
+      ],
+      "ipaSyllables": [
+        "kəw",
+        "ˈʔəj"
+      ]
+    },
+    {
+      "id": "6577e42a-4b64-4a76-9672-b684ca683e5b",
+      "part-of-speech": "preposition",
+      "english": "with, together with",
+      "vietnamese": "cùng",
+      "cefr": "A1",
+      "ipa": "[kuwŋ͡m]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "kuwŋ͡m"
+      ],
+      "context": "đi học cùng các bạn: go to school with friends"
+    },
+    {
+      "id": "20dfaa70-beb7-4dcd-ad09-4d33ebacd856",
+      "part-of-speech": "verb",
+      "english": "go past",
+      "vietnamese": "ngang qua",
+      "cefr": "A2",
+      "ipa": "[ŋaːŋ ˈkwaː]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "ŋaːŋ",
+        "ˈkwaː"
+      ]
+    },
+    {
+      "id": "dcf68c84-0feb-4f8f-9348-4cc1064d7736",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "vietnamese": "nước ngọt",
+      "cefr": "A1",
+      "ipa": "[nɨək̚ ˈŋɔt̚]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        6
+      ],
+      "ipaSyllables": [
+        "nɨək̚",
+        "ˈŋɔt̚"
+      ],
+      "context": "literally \"sweet water\""
+    },
+    {
+      "id": "7c738bd3-cd98-484e-bf32-0193ed481962",
+      "part-of-speech": "noun",
+      "english": "French fries, potato chips",
+      "vietnamese": "khoai tây chiên",
+      "cefr": "A2",
+      "ipa": "[xwaːj təj ˈt͡ɕiən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "xwaːj",
+        "təj",
+        "ˈt͡ɕiən"
+      ],
+      "context": "khoai tây: potato"
+    },
+    {
+      "id": "430cc3d1-7f18-4168-9ec8-c3c07635a521",
+      "part-of-speech": "verb",
+      "english": "stop, pull up",
+      "vietnamese": "dừng lại",
+      "cefr": "A2",
+      "ipa": "[zɨŋ ˈlaːj]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        6
+      ],
+      "ipaSyllables": [
+        "zɨŋ",
+        "ˈlaːj"
+      ]
+    },
+    {
+      "id": "f546ac97-84d1-4e01-a33e-a63fe5a7a176",
+      "part-of-speech": "adverb",
+      "english": "while, at the same time",
+      "vietnamese": "vừa",
+      "cefr": "A2",
+      "ipa": "[vɨə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "vɨə"
+      ],
+      "context": "vừa… vừa…: both… and…, doing two things at once"
+    },
+    {
+      "id": "b2332f94-42bb-49c0-be74-4ce54575f22f",
+      "part-of-speech": "adjective",
+      "english": "the, some (plural marker)",
+      "vietnamese": "những",
+      "cefr": "A2",
+      "ipa": "[ɲɨŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        5
+      ],
+      "ipaSyllables": [
+        "ɲɨŋ"
+      ],
+      "context": "những con chó: the dogs"
+    },
+    {
+      "id": "783626f2-ed0e-4ef1-ac2b-be51e499d0fa",
+      "part-of-speech": "noun",
+      "english": "fur, hair (of an animal); feather",
+      "vietnamese": "lông",
+      "cefr": "A2",
+      "ipa": "[ləwŋ͡m]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ləwŋ͡m"
+      ]
+    },
+    {
+      "id": "4e04f277-1bfa-4e57-bf9a-b70d9d6a631d",
+      "part-of-speech": "adverb",
+      "english": "also, still",
+      "vietnamese": "còn",
+      "cefr": "A1",
+      "ipa": "[kɔn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "kɔn"
+      ],
+      "context": "còn có: also has"
+    },
+    {
+      "id": "8e854a4c-5d9a-4e26-b300-913991f361f7",
+      "part-of-speech": "adjective",
+      "english": "male (animal)",
+      "vietnamese": "đực",
+      "cefr": "A2",
+      "ipa": "[ɗɨk̚]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        6
+      ],
+      "ipaSyllables": [
+        "ɗɨk̚"
+      ],
+      "context": "chó đực: male dog; female: cái"
+    },
+    {
+      "id": "0988de0e-d2e2-4e1f-98eb-cb43e8b5a344",
+      "part-of-speech": "verb",
+      "english": "help, assist",
+      "vietnamese": "giúp đỡ",
+      "cefr": "A2",
+      "ipa": "[zup̚ ˈɗəː]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        5
+      ],
+      "ipaSyllables": [
+        "zup̚",
+        "ˈɗəː"
+      ]
+    },
+    {
+      "id": "89588ad2-5c6e-448d-b2a7-69985f6a2a22",
+      "part-of-speech": "verb",
+      "english": "suffer, undergo (something bad)",
+      "vietnamese": "bị",
+      "cefr": "A2",
+      "ipa": "[ɓi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        6
+      ],
+      "ipaSyllables": [
+        "ɓi"
+      ],
+      "context": "bị ốm: to be sick"
+    },
+    {
+      "id": "103c6c6f-7cbb-41d6-8ce0-a29e48754878",
+      "part-of-speech": "adjective",
+      "english": "all the (plural marker)",
+      "vietnamese": "các",
+      "cefr": "A1",
+      "ipa": "[kaːk̚]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "kaːk̚"
+      ],
+      "context": "các bác sĩ: the doctors"
+    },
+    {
+      "id": "ce9e92e8-1587-451e-b907-7bd5f06f2bd2",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "vietnamese": "bệnh nhân",
+      "cefr": "A2",
+      "ipa": "[ɓəjŋ̟ ˈɲən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        6,
+        1
+      ],
+      "ipaSyllables": [
+        "ɓəjŋ̟",
+        "ˈɲən"
+      ]
+    },
+    {
+      "id": "394125f6-abe9-42aa-9d45-9b4825b61616",
+      "part-of-speech": "verb",
+      "english": "recover, get well",
+      "vietnamese": "khỏi bệnh",
+      "cefr": "A2",
+      "ipa": "[xɔj ˈɓəjŋ̟]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        6
+      ],
+      "ipaSyllables": [
+        "xɔj",
+        "ˈɓəjŋ̟"
+      ]
+    },
+    {
+      "id": "641f5086-6525-4b03-8980-0dab32a7321d",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "vietnamese": "luôn",
+      "cefr": "A1",
+      "ipa": "[luən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "luən"
+      ],
+      "context": "the same as luôn luôn"
+    },
+    {
+      "id": "5163ef65-6fb6-4c42-8a73-c3f62fbc6837",
+      "part-of-speech": "verb",
+      "english": "pay attention, see to it",
+      "vietnamese": "để ý",
+      "cefr": "A2",
+      "ipa": "[ɗe ˈʔi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "ɗe",
+        "ˈʔi"
+      ],
+      "context": "để ý cho: to see to it that"
+    },
+    {
+      "id": "0fd93d1f-4e62-4fad-8b88-dd4556c5251c",
+      "part-of-speech": "adverb",
+      "english": "fully, properly",
+      "vietnamese": "đầy đủ",
+      "cefr": "A2",
+      "ipa": "[ɗəj ˈɗu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "ɗəj",
+        "ˈɗu"
+      ]
+    },
+    {
+      "id": "6ededdee-44a5-4e25-ac5c-85539f0b1dca",
+      "part-of-speech": "noun",
+      "english": "software",
+      "vietnamese": "phần mềm",
+      "cefr": "A2",
+      "ipa": "[fən ˈmem]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        2
+      ],
+      "ipaSyllables": [
+        "fən",
+        "ˈmem"
+      ],
+      "context": "literally \"soft part\""
+    },
+    {
+      "id": "6ad84ff4-99d6-4fe4-b8bd-fc152b118fdc",
+      "part-of-speech": "verb",
+      "english": "test",
+      "vietnamese": "kiểm thử",
+      "cefr": "A2",
+      "ipa": "[kiəm ˈtʰɨ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "kiəm",
+        "ˈtʰɨ"
+      ],
+      "context": "mainly for software; in general: kiểm tra"
+    },
+    {
+      "id": "e427045d-27e5-419c-959a-0a36266fb496",
+      "part-of-speech": "verb",
+      "english": "make sure, guarantee",
+      "vietnamese": "đảm bảo",
+      "cefr": "A2",
+      "ipa": "[ɗaːm ˈɓaːw]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "ɗaːm",
+        "ˈɓaːw"
+      ]
+    },
+    {
+      "id": "ee145dc9-936c-4e53-8b3d-e5bfe3712d0c",
+      "part-of-speech": "verb",
+      "english": "give, hand over; take (someone somewhere)",
+      "vietnamese": "đưa",
+      "cefr": "A1",
+      "ipa": "[ɗɨə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "ɗɨə"
+      ]
+    },
+    {
+      "id": "24b0dcb3-9648-49e5-aeb2-706c77905238",
+      "part-of-speech": "pronoun",
+      "english": "everyone, everybody",
+      "vietnamese": "mọi người",
+      "cefr": "A1",
+      "ipa": "[mɔj ˈŋɨəj]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        6,
+        2
+      ],
+      "ipaSyllables": [
+        "mɔj",
+        "ˈŋɨəj"
+      ]
+    },
+    {
+      "id": "95874d10-b38e-4e1e-9008-8e67f07cedb5",
+      "part-of-speech": "verb",
+      "english": "use",
+      "vietnamese": "sử dụng",
+      "cefr": "A2",
+      "ipa": "[sɨ ˈzuwŋ͡m]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        6
+      ],
+      "ipaSyllables": [
+        "sɨ",
+        "ˈzuwŋ͡m"
+      ],
+      "context": "more formal than dùng"
+    },
+    {
+      "id": "7c2de74b-78ae-4cb4-ad6e-f0d254d75473",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "vietnamese": "cẩn thận",
+      "cefr": "A2",
+      "ipa": "[kən ˈtʰən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        6
+      ],
+      "ipaSyllables": [
+        "kən",
+        "ˈtʰən"
+      ]
+    },
+    {
+      "id": "19cf598e-dcaf-4333-9926-6c2537117fac",
+      "part-of-speech": "adverb",
+      "english": "thoroughly, carefully",
+      "vietnamese": "kỹ",
+      "cefr": "A2",
+      "ipa": "[ki]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        5
+      ],
+      "ipaSyllables": [
+        "ki"
+      ]
+    },
+    {
+      "id": "dc60ba91-e359-4b43-bc0f-9df1a9726ad8",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "vietnamese": "trước khi",
+      "cefr": "A1",
+      "ipa": "[t͡ɕɨək̚ ˈxi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        1
+      ],
+      "ipaSyllables": [
+        "t͡ɕɨək̚",
+        "ˈxi"
+      ]
+    },
+    {
+      "id": "c3610cdd-6203-4061-be4b-759cf104a66e",
+      "part-of-speech": "adjective",
+      "english": "female (animal)",
+      "vietnamese": "cái",
+      "cefr": "A2",
+      "ipa": "[kaːj]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3
+      ],
+      "ipaSyllables": [
+        "kaːj"
+      ],
+      "context": "chó cái: female dog; male: đực"
     }
   ]
 }

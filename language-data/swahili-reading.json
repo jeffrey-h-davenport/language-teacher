@@ -1,0 +1,300 @@
+{
+  "meta": {
+    "language": "Swahili",
+    "languageCode": "sw",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Kila Ijumaa yeye huenda shuleni pamoja na marafiki zake. Wao hutembea kwa miguu hadi shuleni wakipita karibu na duka. Kila mara wao husimama pale na kununua soda na chipsi. Wao hula na kunywa njiani kwenda shuleni.",
+      "questions": [
+        {
+          "question": "Yeye huenda shuleni na marafiki zake lini?",
+          "choices": [
+            "Kila Jumatatu",
+            "Kila Ijumaa",
+            "Kila Jumapili",
+            "Kila siku"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Wao huendaje shuleni?",
+          "choices": [
+            "Kwa basi",
+            "Kwa gari",
+            "Kwa baiskeli",
+            "Kwa miguu"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Wao hununua nini dukani?",
+          "choices": [
+            "Soda na chipsi",
+            "Mkate na maziwa",
+            "Matunda na juisi",
+            "Kahawa na keki"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Wao hula na kunywa wapi?",
+          "choices": [
+            "Shuleni",
+            "Nyumbani",
+            "Njiani kwenda shuleni",
+            "Dukani"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "kila": "068dd3b7-a711-4c80-b292-c2e77ead8ec2",
+        "ijumaa": "a0f4bd1b-5300-4d33-af3f-ef673874eb3d",
+        "yeye": "bac13d77-f9af-45ed-a050-0cbce3c9351a",
+        "huenda": "835b4666-4c64-453f-87e5-225796ae805b",
+        "shuleni": "4404eeb8-2e84-401f-a927-42dc6f2f24cb",
+        "pamoja": "5f37f5f1-1f9f-4346-9502-328f99c83114",
+        "na": "3746bf69-bd15-4b19-8116-ef1fc4a95cca",
+        "marafiki": "0fecdc99-0892-48bc-9cf4-902b70cf9d06",
+        "zake": "a38bf672-4882-4b66-9e28-5140f057037f",
+        "wao": "6563b8b0-c785-4a90-9b1a-990562212e13",
+        "hutembea": "1f57b159-7e7f-4bcf-b77b-eee6ab68429d",
+        "kwa": "b42ca8e0-58f0-41ea-a8c4-4813186879d7",
+        "miguu": "248eb5e6-e07c-46fd-b17f-7802a6f1c8e7",
+        "hadi": "51a5ecc8-d3ba-43f7-a1b2-9d241402cfeb",
+        "wakipita": "80612ec3-a1d0-4269-9798-6ebc264ceb31",
+        "karibu na": "5e96ecf1-d228-46bd-b2ca-6b26649fa42d",
+        "duka": "c7c9dfc3-db7a-460f-b81f-90b1b5a551ab",
+        "mara": "fe42920b-9677-41b5-9af1-c6cff33448f5",
+        "husimama": "fe422d9a-ac2d-4dbc-b315-71b1235b1b82",
+        "pale": "7de2e9d2-76a4-4c0c-b212-ae51eef4f3ab",
+        "kununua": "379bb89f-90ac-434d-bf01-10fffdcd8e82",
+        "soda": "50b56774-6fa8-465f-9bd3-18eb9b5d9952",
+        "chipsi": "25d8e83b-d48c-4ae5-8505-48d517fc9b9c",
+        "hula": "eb431ad7-ab19-421f-bd2e-53ee63c1ec4c",
+        "kunywa": "34dd7836-a3e7-42f4-97e3-fe0dda6fba81",
+        "njiani": "9034687f-f6c4-40e4-a748-85721b9849f0",
+        "kwenda": "835b4666-4c64-453f-87e5-225796ae805b"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Yeye anawapenda mbwa wake. Ana mbwa jike mkubwa mwenye manyoya marefu meupe. Pia ana mbwa dume mdogo mwenye manyoya mafupi ya kahawia. Mbwa jike ni mdogo kwa umri kuliko mbwa dume.",
+      "questions": [
+        {
+          "question": "Ana mbwa wangapi?",
+          "choices": [
+            "Mmoja",
+            "Watatu",
+            "Wawili",
+            "Wanne"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Manyoya ya mbwa jike yana rangi gani?",
+          "choices": [
+            "Meupe",
+            "Ya kahawia",
+            "Meusi",
+            "Ya kijivu"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Mbwa dume yukoje?",
+          "choices": [
+            "Mkubwa, mwenye manyoya marefu meupe",
+            "Mdogo, mwenye manyoya marefu meupe",
+            "Mkubwa, mwenye manyoya mafupi ya kahawia",
+            "Mdogo, mwenye manyoya mafupi ya kahawia"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Ni mbwa yupi mdogo kwa umri?",
+          "choices": [
+            "Mbwa dume",
+            "Mbwa jike",
+            "Wana umri sawa",
+            "Haijaelezwa"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "yeye": "bac13d77-f9af-45ed-a050-0cbce3c9351a",
+        "anawapenda": "135be347-d061-4353-8c63-137b826d14e0",
+        "mbwa": "a646ea2e-b1db-493a-9259-a0505c77d4e9",
+        "wake": "a38bf672-4882-4b66-9e28-5140f057037f",
+        "ana": "983626ee-f705-4090-aa19-f9c0e5830303",
+        "jike": "53b1fae1-4fb1-4571-8225-037d077b4850",
+        "mkubwa": "d0e33781-eec1-4981-8ea7-31cc421d35e8",
+        "mwenye": "e3edee1f-b99a-488b-8613-82f6a0a97241",
+        "manyoya": "177652f2-e25f-49d5-8aff-34bb7af75804",
+        "marefu": "e1ba6fa8-7a20-4c50-a816-c9e132cb6c03",
+        "meupe": "06e23b5d-790b-4e92-86dd-617b26d8f7d2",
+        "pia": "aa4e5605-f57c-4cc3-807a-3df98fc54f50",
+        "dume": "4e6c4cc6-0494-4157-93ff-3b105e412a8f",
+        "mdogo": "d714b96d-cd1a-4df0-8f74-d73b6628c1c7",
+        "mafupi": "4bc8af22-d5c4-4c16-a477-4c9cb79bcb01",
+        "ya": "d28dec1f-c44e-41fd-9264-1609601487d9",
+        "kahawia": "2d041de3-41ee-4083-8a65-c8a687c4159d",
+        "ni": "4eb8a09a-5df3-4fa5-9ded-c93cb04e7494",
+        "kwa": "b42ca8e0-58f0-41ea-a8c4-4813186879d7",
+        "umri": "7c447e08-5b8e-4f7e-91d6-4e0ffdb988ed",
+        "kuliko": "1ae96ed8-5103-414e-911d-5b042f67fe35"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Mama yao anafanya kazi hospitalini kama muuguzi. Anawasaidia watu walio wagonjwa. Anafanya kazi pamoja na madaktari ili wagonjwa wapone. Anahakikisha kwamba wagonjwa wanakunywa dawa zao.",
+      "questions": [
+        {
+          "question": "Mama yao anafanya kazi wapi?",
+          "choices": [
+            "Shuleni",
+            "Dukani",
+            "Benkini",
+            "Hospitalini"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kazi yake ni ipi?",
+          "choices": [
+            "Daktari",
+            "Muuguzi",
+            "Mwalimu",
+            "Mpishi"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Anafanya kazi pamoja na nani?",
+          "choices": [
+            "Walimu",
+            "Wahandisi",
+            "Madaktari",
+            "Polisi"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Anahakikisha nini?",
+          "choices": [
+            "Kwamba wagonjwa wanakunywa dawa zao",
+            "Kwamba wagonjwa wanakula kifungua kinywa",
+            "Kwamba madaktari wanafika kwa wakati",
+            "Kwamba hospitali ni safi"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "mama": "d23023aa-c468-40ac-a00c-df5432aaa009",
+        "yao": "b82274c8-a4f5-443c-ae21-841db4d4c1db",
+        "anafanya": "e2be5b1e-43a3-41f4-b3cd-72273c3cecc1",
+        "kazi": "6886b630-866e-4f97-9f8d-99309ab90ff8",
+        "hospitalini": "723d8bfa-a223-4d85-850c-e924ec2a2928",
+        "kama": "ba6fbb54-338d-415b-9e54-a6432ef0eb26",
+        "muuguzi": "9b5d2563-7c50-4269-b853-0b64b73adcf1",
+        "anawasaidia": "f46250ce-6b0f-4356-8e8d-817b628b104c",
+        "watu": "7dcd8112-791f-44ed-b7bb-44b0599be61c",
+        "walio": "abba9750-ef04-463f-b0b3-452e0e0dd79c",
+        "wagonjwa": "2c90a1aa-6bf3-45c1-bbb8-0a68a568595c",
+        "pamoja": "5f37f5f1-1f9f-4346-9502-328f99c83114",
+        "na": "3746bf69-bd15-4b19-8116-ef1fc4a95cca",
+        "madaktari": "08740a80-2d89-4e51-9540-b5530488d887",
+        "ili": "bfe033e2-530b-4bda-adfb-c5b5e7dc6227",
+        "wapone": "3a7d5494-5d5f-44b6-97a4-5f810662b868",
+        "anahakikisha": "cb60f38f-154f-4a1b-8c70-48a3bf161888",
+        "kwamba": "e4bbe111-9f88-4157-acd0-9cdd48856170",
+        "wanakunywa": "34dd7836-a3e7-42f4-97e3-fe0dda6fba81",
+        "dawa": "cb876865-20ab-4705-8159-8aa92345a15c",
+        "zao": "b82274c8-a4f5-443c-ae21-841db4d4c1db"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Baba yao anafanya kazi katika kampuni ya programu za kompyuta. Anajaribu programu. Anahakikisha kwamba programu inafanya kazi vizuri kabla ya kupewa watu waitumie. Yeye ni mwangalifu sana na anaijaribu programu kikamilifu.",
+      "questions": [
+        {
+          "question": "Baba yao anafanya kazi wapi?",
+          "choices": [
+            "Katika kampuni ya programu za kompyuta",
+            "Hospitalini",
+            "Shuleni",
+            "Dukani"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Anafanya nini?",
+          "choices": [
+            "Anauza kompyuta",
+            "Anatengeneza magari",
+            "Anajaribu programu",
+            "Anafundisha shuleni"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Anajaribu programu lini?",
+          "choices": [
+            "Baada ya watu kuitumia",
+            "Kabla ya kupewa watu",
+            "Siku ya Ijumaa tu",
+            "Usiku"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Anajaribuje programu?",
+          "choices": [
+            "Haraka na bila uangalifu",
+            "Mara chache tu",
+            "Pamoja na watoto wake",
+            "Kwa uangalifu mkubwa na kikamilifu"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "baba": "8de6c855-865e-47bf-b56e-4d84c38341f8",
+        "yao": "b82274c8-a4f5-443c-ae21-841db4d4c1db",
+        "anafanya": "e2be5b1e-43a3-41f4-b3cd-72273c3cecc1",
+        "kazi": "6886b630-866e-4f97-9f8d-99309ab90ff8",
+        "katika": "2739226d-6e39-4b99-8240-8ddc6e95b66b",
+        "kampuni": "94b640aa-1204-4b7d-842f-9d65e964c223",
+        "ya": "d28dec1f-c44e-41fd-9264-1609601487d9",
+        "programu": "e98dbebb-5b24-4aa5-9330-0d42da86d5bd",
+        "za": "d28dec1f-c44e-41fd-9264-1609601487d9",
+        "kompyuta": "a48db208-4e8c-470a-85e3-f50fb3d2b9cc",
+        "anajaribu": "83c39805-6536-40c5-a9d9-ce0b8e6632f6",
+        "anahakikisha": "cb60f38f-154f-4a1b-8c70-48a3bf161888",
+        "kwamba": "e4bbe111-9f88-4157-acd0-9cdd48856170",
+        "inafanya": "e2be5b1e-43a3-41f4-b3cd-72273c3cecc1",
+        "vizuri": "da2bee55-a47a-4042-b459-309619d8cfa9",
+        "kabla ya": "a0ede8cc-e4bd-46c4-8701-b55ebf3ee52d",
+        "kupewa": "8b063fe5-2431-4b12-bbbc-1501207ebba3",
+        "watu": "7dcd8112-791f-44ed-b7bb-44b0599be61c",
+        "waitumie": "d08bf3a2-e0f0-436b-b35d-a94749d0dbf1",
+        "yeye": "bac13d77-f9af-45ed-a050-0cbce3c9351a",
+        "ni": "4eb8a09a-5df3-4fa5-9ded-c93cb04e7494",
+        "mwangalifu": "261f4098-b4e8-4bf5-b5b1-f13d5773bdef",
+        "sana": "0aeb14ac-43bc-4786-ad50-322548929ed6",
+        "na": "3746bf69-bd15-4b19-8116-ef1fc4a95cca",
+        "anaijaribu": "83c39805-6536-40c5-a9d9-ce0b8e6632f6",
+        "kikamilifu": "a3069784-8dd3-4b35-89b3-2ea8ecdaed16"
+      }
+    }
+  ]
+}

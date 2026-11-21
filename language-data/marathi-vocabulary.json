@@ -4938,7 +4938,7 @@
     {
       "id": "03b3a518-08b4-4054-924c-d1a2ef5d3a49",
       "part-of-speech": "conjunction",
-      "english": "so, therefore",
+      "english": "so, therefore; as",
       "marathi": "म्हणून",
       "cefr": "A1",
       "ipa": "[ˈmʱəɳun]",
@@ -5056,6 +5056,275 @@
       "marathi": "पुन्हा भेटू",
       "cefr": "A1",
       "ipa": "[ˈpunʱa ˈbʱeʈu]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3c3db8b8-f465-46b5-9765-9de717164176",
+      "part-of-speech": "adjective",
+      "english": "every, each",
+      "marathi": "दर",
+      "cefr": "A1",
+      "ipa": "[d̪əɾ]",
+      "register": [
+        "All"
+      ],
+      "context": "दर शुक्रवारी: every Friday"
+    },
+    {
+      "id": "36b9a810-c776-4876-be87-ff6e9beeb0b7",
+      "part-of-speech": "pronoun",
+      "english": "one's own (my, his, her, their own)",
+      "marathi": "आपला",
+      "cefr": "A1",
+      "ipa": "[ˈaplaː]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine आपली, plural and oblique आपल्या"
+    },
+    {
+      "id": "68d8e0a7-001e-4171-aa5b-fed8a45d8a76",
+      "part-of-speech": "noun",
+      "english": "way, path",
+      "marathi": "वाट",
+      "cefr": "A1",
+      "ipa": "[ʋaʈ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "वाटा",
+      "context": "वाटेत, वाटेवर: on the way"
+    },
+    {
+      "id": "0f75be74-5d0f-4c0d-baa2-8035b7e77f92",
+      "part-of-speech": "verb",
+      "english": "to stop; to wait",
+      "marathi": "थांबणे",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ʰambəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "548b40a2-a802-4a7b-80d5-cf6e7c386fb8",
+      "part-of-speech": "noun",
+      "english": "soda",
+      "marathi": "सोडा",
+      "cefr": "A2",
+      "ipa": "[ˈsoɖa]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "05a4ee77-3261-4ab6-8379-b292098a3ed8",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "marathi": "चिप्स",
+      "cefr": "A2",
+      "ipa": "[tsips]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter"
+    },
+    {
+      "id": "352f38db-0dcf-4e47-9f77-cbe43be9c3a4",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "marathi": "कुत्री",
+      "cefr": "A2",
+      "ipa": "[ˈkut̪ɾi]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "कुत्र्या"
+    },
+    {
+      "id": "fe3b14b1-969b-42bb-b626-27bef8325044",
+      "part-of-speech": "adjective",
+      "english": "short",
+      "marathi": "आखूड",
+      "cefr": "A2",
+      "ipa": "[ˈakʰuɖ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e20ee3c3-4803-4b67-b4a7-2963a8325a8d",
+      "part-of-speech": "noun",
+      "english": "age",
+      "marathi": "वय",
+      "cefr": "A1",
+      "ipa": "[ʋəj]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "context": "वयाने लहान: younger"
+    },
+    {
+      "id": "bcac9974-72f9-42cc-b316-3602f8c7bc1a",
+      "part-of-speech": "noun",
+      "english": "hospital",
+      "marathi": "रुग्णालय",
+      "cefr": "A2",
+      "ipa": "[ˈɾuɡɳaləj]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "plural": "रुग्णालये",
+      "context": "more formal than दवाखाना"
+    },
+    {
+      "id": "8cb1e841-66ca-444b-bab9-01775a5f05bc",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "marathi": "परिचारिका",
+      "cefr": "A2",
+      "ipa": "[ˈpəɾitsaɾika]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "परिचारिका"
+    },
+    {
+      "id": "e3108f55-dfab-4b15-923c-f5be66760409",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "marathi": "रुग्ण",
+      "cefr": "A2",
+      "ipa": "[ˈɾuɡɳə]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "रुग्ण"
+    },
+    {
+      "id": "1f3cc8e1-060e-4496-9166-687a749d4fa1",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "marathi": "बरे होणे",
+      "cefr": "A2",
+      "ipa": "[ˈbəɾe ˈhoɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "54dade69-88d8-470c-b9a9-fe5e4801d0ca",
+      "part-of-speech": "verb",
+      "english": "to take care; to make sure",
+      "marathi": "काळजी घेणे",
+      "cefr": "A2",
+      "ipa": "[ˈkaɭdzi ˈɡʱeɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7b88efb9-13e8-47c6-bf6e-62dffebfd80a",
+      "part-of-speech": "noun",
+      "english": "father",
+      "marathi": "वडील",
+      "cefr": "A1",
+      "ipa": "[ˈʋəɖil]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "वडील",
+      "context": "respectful, always grammatically plural; at home: बाबा"
+    },
+    {
+      "id": "6521fc12-839e-4a2d-b771-ec1d1265b469",
+      "part-of-speech": "noun",
+      "english": "software",
+      "marathi": "सॉफ्टवेअर",
+      "cefr": "A2",
+      "ipa": "[ˈsɔfʈʋeəɾ]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter"
+    },
+    {
+      "id": "75aca30c-0d6f-4aab-9a03-c6bd49294bee",
+      "part-of-speech": "noun",
+      "english": "company",
+      "marathi": "कंपनी",
+      "cefr": "A2",
+      "ipa": "[ˈkəmpəni]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "कंपन्या"
+    },
+    {
+      "id": "07b45578-1b02-41e7-acd3-25112b3e7ff0",
+      "part-of-speech": "noun",
+      "english": "test",
+      "marathi": "चाचणी",
+      "cefr": "A2",
+      "ipa": "[ˈtsatsəɳi]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "चाचण्या",
+      "context": "चाचणी करणे: to test"
+    },
+    {
+      "id": "d9e73a24-8322-4a40-91bd-a8acc6b55ccc",
+      "part-of-speech": "adverb",
+      "english": "properly, well",
+      "marathi": "नीट",
+      "cefr": "A1",
+      "ipa": "[niʈ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a203a3e1-9c93-4fdb-ae5c-cbf81642f427",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "marathi": "खात्री करणे",
+      "cefr": "A2",
+      "ipa": "[ˈkʰat̪ɾi ˈkəɾəɳe]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "38bcf3b5-9780-431d-b8bb-1431071b6212",
+      "part-of-speech": "adverb",
+      "english": "carefully",
+      "marathi": "काळजीपूर्वक",
+      "cefr": "A2",
+      "ipa": "[ˈkaɭdzipuɾʋək]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "276e2530-c486-4170-8d50-ee6553f58ff6",
+      "part-of-speech": "adverb",
+      "english": "closely, in detail",
+      "marathi": "बारकाईने",
+      "cefr": "A2",
+      "ipa": "[ˈbaɾkaine]",
       "register": [
         "All"
       ]

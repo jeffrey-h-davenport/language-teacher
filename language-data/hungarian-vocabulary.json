@@ -2956,14 +2956,14 @@
     {
       "id": "89d2ebab-7d5f-4162-ac4d-2aa849d6acf5",
       "part-of-speech": "noun",
-      "english": "one",
+      "english": "a, an; one",
       "hungarian": "egy",
       "cefr": "A1",
       "ipa": "[ɛɟ]",
-      "context": "also the indefinite article: egy ház, a house",
       "register": [
         "All"
-      ]
+      ],
+      "context": "also the indefinite article: egy ház, a house"
     },
     {
       "id": "ffcc396f-99b5-4e01-a0fc-18d4e8f8065a",
@@ -3237,14 +3237,14 @@
     {
       "id": "893c9ec6-94a0-468c-938a-19a55c9d1aa4",
       "part-of-speech": "pronoun",
-      "english": "that",
+      "english": "the (before a vowel); that",
       "hungarian": "az",
       "cefr": "A1",
       "ipa": "[ɒz]",
-      "context": "also the definite article before a vowel: az alma",
       "register": [
         "All"
-      ]
+      ],
+      "context": "also the definite article before a vowel: az alma"
     },
     {
       "id": "9d50c717-fc11-4bc5-bc80-a930d25244b5",
@@ -6057,6 +6057,286 @@
       "cefr": "A1",
       "ipa": "[ˈtɛʃːeːk]",
       "context": "answering",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74a7b2d6-b036-451d-8fe4-1c6db24074b8",
+      "part-of-speech": "article",
+      "english": "the",
+      "hungarian": "a",
+      "cefr": "A1",
+      "ipa": "[ɒ]",
+      "register": [
+        "All"
+      ],
+      "context": "az before a vowel"
+    },
+    {
+      "id": "13bcd462-a304-4ec3-869d-12cf94a080b7",
+      "part-of-speech": "adverb",
+      "english": "on foot",
+      "hungarian": "gyalog",
+      "cefr": "A1",
+      "ipa": "[ˈɟɒloɡ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c9ae044d-7d37-410a-8bd2-25a9382b83e9",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "hungarian": "megállni",
+      "cefr": "A2",
+      "ipa": "[ˈmɛɡaːlːi]",
+      "register": [
+        "All"
+      ],
+      "context": "megáll: stops"
+    },
+    {
+      "id": "4dd4335d-345d-4e9c-9376-be421886ee38",
+      "part-of-speech": "noun",
+      "english": "soft drink",
+      "hungarian": "üdítő",
+      "cefr": "A2",
+      "ipa": "[ˈydiːtøː]",
+      "register": [
+        "All"
+      ],
+      "plural": "üdítők"
+    },
+    {
+      "id": "604fcfa8-5d5b-4aaf-ba24-39d2f23ff9d8",
+      "part-of-speech": "conjunction",
+      "english": "and (informal)",
+      "hungarian": "meg",
+      "cefr": "A2",
+      "ipa": "[mɛɡ]",
+      "register": [
+        "All"
+      ],
+      "context": "also a verb prefix meaning completion"
+    },
+    {
+      "id": "d5e4424d-0c88-4c12-8533-19bce5be8551",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "hungarian": "chips",
+      "cefr": "A2",
+      "ipa": "[t͡ʃips]",
+      "register": [
+        "All"
+      ],
+      "plural": "chipsek"
+    },
+    {
+      "id": "236e7573-14e3-4a50-a1cc-7cc4c02cd9dd",
+      "part-of-speech": "adverb",
+      "english": "on the way",
+      "hungarian": "menet",
+      "cefr": "A2",
+      "ipa": "[ˈmɛnɛt]",
+      "register": [
+        "All"
+      ],
+      "context": "az iskolába menet: on the way to school"
+    },
+    {
+      "id": "a676cca6-554a-44f9-ba8c-7840926b3dda",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "hungarian": "szuka",
+      "cefr": "A2",
+      "ipa": "[ˈsukɒ]",
+      "register": [
+        "All"
+      ],
+      "plural": "szukák"
+    },
+    {
+      "id": "013db771-9a5f-4755-aed2-de4e72660a74",
+      "part-of-speech": "noun",
+      "english": "hair, fur (of an animal)",
+      "hungarian": "szőr",
+      "cefr": "A2",
+      "ipa": "[søːr]",
+      "register": [
+        "All"
+      ],
+      "plural": "szőrök"
+    },
+    {
+      "id": "a7a88024-efc2-4a24-bb35-4457482a7820",
+      "part-of-speech": "adjective",
+      "english": "small, little",
+      "hungarian": "kis",
+      "cefr": "A1",
+      "ipa": "[kiʃ]",
+      "register": [
+        "All"
+      ],
+      "context": "used before a noun: kis kutya; on its own: kicsi"
+    },
+    {
+      "id": "e91287be-687e-43c1-a329-2bb282ec2798",
+      "part-of-speech": "noun",
+      "english": "male (animal)",
+      "hungarian": "kan",
+      "cefr": "A2",
+      "ipa": "[kɒn]",
+      "register": [
+        "All"
+      ],
+      "plural": "kanok",
+      "context": "kan kutya: male dog"
+    },
+    {
+      "id": "586cfb9e-42cb-45d7-ba53-ba220c0c1402",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "hungarian": "ápolónő",
+      "cefr": "A2",
+      "ipa": "[ˈaːpoloːnøː]",
+      "register": [
+        "All"
+      ],
+      "plural": "ápolónők"
+    },
+    {
+      "id": "b43f6fba-7ea3-4454-aecf-e1937bb79063",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "hungarian": "meggyógyulni",
+      "cefr": "A2",
+      "ipa": "[ˈmɛɡːɟoːɟulːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3b454425-6f5e-445a-9935-009d164ddf9e",
+      "part-of-speech": "verb",
+      "english": "to pay attention, to watch",
+      "hungarian": "figyelni",
+      "cefr": "A2",
+      "ipa": "[ˈfiɟɛlːi]",
+      "register": [
+        "All"
+      ],
+      "context": "figyel arra, hogy: makes sure that"
+    },
+    {
+      "id": "f3bec27e-55fb-4361-be8e-a19ee888aee2",
+      "part-of-speech": "verb",
+      "english": "to take (medicine)",
+      "hungarian": "bevenni",
+      "cefr": "A2",
+      "ipa": "[ˈbɛvɛnːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "60202c44-6a94-4eba-9868-5748d5c22edc",
+      "part-of-speech": "noun",
+      "english": "software company",
+      "hungarian": "szoftvercég",
+      "cefr": "A2",
+      "ipa": "[ˈsoftvɛrt͡seːɡ]",
+      "register": [
+        "All"
+      ],
+      "plural": "szoftvercégek"
+    },
+    {
+      "id": "09fec629-86b5-4995-af17-9dea7b5ffa72",
+      "part-of-speech": "noun",
+      "english": "software",
+      "hungarian": "szoftver",
+      "cefr": "A2",
+      "ipa": "[ˈsoftvɛr]",
+      "register": [
+        "All"
+      ],
+      "plural": "szoftverek"
+    },
+    {
+      "id": "c9db1fba-144e-4750-acb7-63966c2ad46b",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "hungarian": "tesztelni",
+      "cefr": "A2",
+      "ipa": "[ˈtɛstɛlːi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f9db19dd-4dc8-4d1b-86c5-1af3d5d1b320",
+      "part-of-speech": "verb",
+      "english": "to check",
+      "hungarian": "ellenőrizni",
+      "cefr": "A2",
+      "ipa": "[ˈɛlːɛnøːrizni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ad0d5afd-2540-489a-a499-20fe33c24913",
+      "part-of-speech": "verb",
+      "english": "to work, to function",
+      "hungarian": "működni",
+      "cefr": "A2",
+      "ipa": "[ˈmyːkødni]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4103a434-a3b1-4e5a-9ad7-50686ffed42a",
+      "part-of-speech": "interjection",
+      "english": "whether (question particle)",
+      "hungarian": "-e",
+      "cefr": "A2",
+      "ipa": "[ɛ]",
+      "register": [
+        "All"
+      ],
+      "context": "added to a verb: működik-e, whether it works"
+    },
+    {
+      "id": "1409f022-8fac-4980-bbc4-19d5f5b2b397",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "hungarian": "mielőtt",
+      "cefr": "A2",
+      "ipa": "[ˈmiɛløːtː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "07328a09-3cce-455f-a110-4f2c9b5139d0",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "hungarian": "gondos",
+      "cefr": "A2",
+      "ipa": "[ˈɡondoʃ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74574980-1e24-42a3-875e-d16898b216a6",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "hungarian": "alaposan",
+      "cefr": "A2",
+      "ipa": "[ˈɒlɒpoʃɒn]",
       "register": [
         "All"
       ]

@@ -955,15 +955,15 @@
     {
       "id": "62b42b6c-5f24-4fd3-8bd8-0727ad2ab007",
       "part-of-speech": "noun",
-      "english": "tooth",
+      "english": "age; tooth",
       "arabic": "سن",
-      "gender": "feminine",
-      "plural": "أسنان",
       "cefr": "A1",
       "ipa": "[sinː]",
       "register": [
         "All"
-      ]
+      ],
+      "gender": "feminine",
+      "plural": "أسنان"
     },
     {
       "id": "d825ba10-6e9d-4b67-b38d-69ad92da7493",
@@ -6143,6 +6143,255 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "1677595c-d802-4a07-acd0-a6decd6e0e7c",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "arabic": "مر",
+      "cefr": "A2",
+      "ipa": "[ˈmarra]",
+      "context": "present: يمر yamurru; مر بـ: to pass by",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3d20ead2-e0d3-4ad0-875c-aa8234e2bd31",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "arabic": "توقف",
+      "cefr": "A2",
+      "ipa": "[taˈwaqqafa]",
+      "context": "present: يتوقف yatawaqqafu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "da359d9a-b884-4f85-ae1a-8d075db0e614",
+      "part-of-speech": "noun",
+      "english": "drink, beverage",
+      "arabic": "مشروب",
+      "cefr": "A2",
+      "ipa": "[maʃˈruːb]",
+      "context": "مشروب غازي: soda",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "مشروبات"
+    },
+    {
+      "id": "59a4ac44-c720-4431-abfa-099d1494de32",
+      "part-of-speech": "adjective",
+      "english": "carbonated, fizzy",
+      "arabic": "غازي",
+      "cefr": "A2",
+      "ipa": "[ˈɣaːziː]",
+      "context": "feminine: غازية ghaaziya",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "dcf52972-d983-4520-93bc-3613744763e5",
+      "part-of-speech": "noun",
+      "english": "chips, flakes",
+      "arabic": "رقائق",
+      "cefr": "A2",
+      "ipa": "[raˈqaːʔiq]",
+      "context": "رقائق بطاطس: potato chips; plural of رقيقة",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
+    },
+    {
+      "id": "f422a212-facd-4502-b88b-59bd96ad1ce1",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "arabic": "كلبة",
+      "cefr": "A2",
+      "ipa": "[ˈkalba]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "كلبات"
+    },
+    {
+      "id": "16e2d538-7d38-410c-a756-465a116a53af",
+      "part-of-speech": "adjective",
+      "english": "having, with",
+      "arabic": "ذو",
+      "cefr": "A2",
+      "ipa": "[ðuː]",
+      "context": "feminine: ذات dhaat; ذو فرو طويل: with long fur",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cac878df-a3f4-49d9-90f8-998f4e94eff7",
+      "part-of-speech": "noun",
+      "english": "fur",
+      "arabic": "فرو",
+      "cefr": "A2",
+      "ipa": "[farw]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "43c358ca-b4fe-413e-8f50-a5a2bd63462c",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "arabic": "ممرض",
+      "cefr": "A2",
+      "ipa": "[muˈmarrid͡ʕ]",
+      "context": "feminine: ممرضة mumarrida",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "ممرضون"
+    },
+    {
+      "id": "6ee95565-a53c-4c13-a8f6-8436eddae158",
+      "part-of-speech": "conjunction",
+      "english": "so that, in order to",
+      "arabic": "لكي",
+      "cefr": "A2",
+      "ipa": "[liˈkaj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a938092f-943e-4acf-ba80-5b239244f9a4",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "arabic": "شفي",
+      "cefr": "A2",
+      "ipa": "[ˈʃufija]",
+      "context": "present: يشفى yushfaa",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f6351dd3-4cd5-4a6c-9236-d48edd27c5b5",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "arabic": "تأكد",
+      "cefr": "A2",
+      "ipa": "[taˈʔakkada]",
+      "context": "present: يتأكد yataʔakkadu; تأكد من أن: to make sure that",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "489eb739-cc17-4223-a178-611004bc6ac4",
+      "part-of-speech": "verb",
+      "english": "to take, to have (food, medicine)",
+      "arabic": "تناول",
+      "cefr": "A2",
+      "ipa": "[taˈnaːwala]",
+      "context": "present: يتناول yatanaawalu",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ecf759d4-baa1-4b39-8e6a-76d514507683",
+      "part-of-speech": "noun",
+      "english": "company",
+      "arabic": "شركة",
+      "cefr": "A1",
+      "ipa": "[ˈʃarika]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "شركات"
+    },
+    {
+      "id": "bf103715-3d47-44fa-a90d-6cef65168767",
+      "part-of-speech": "noun",
+      "english": "software",
+      "arabic": "برمجيات",
+      "cefr": "A2",
+      "ipa": "[barmaˈd͡ʒijjaːt]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
+    },
+    {
+      "id": "9f910596-dcef-4792-85da-4577f4cd2e94",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "arabic": "اختبر",
+      "cefr": "A2",
+      "ipa": "[ˈixtabara]",
+      "context": "present: يختبر yakhtabiru",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c970f1ab-bfce-4b6a-9ffc-799a64566bcd",
+      "part-of-speech": "noun",
+      "english": "program",
+      "arabic": "برنامج",
+      "cefr": "A2",
+      "ipa": "[barˈnaːmad͡ʒ]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "برامج"
+    },
+    {
+      "id": "73fa1071-005a-42d8-9d91-e646363bfdf5",
+      "part-of-speech": "noun",
+      "english": "shape, form",
+      "arabic": "شكل",
+      "cefr": "A2",
+      "ipa": "[ʃakl]",
+      "context": "بشكل صحيح: correctly",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "أشكال"
+    },
+    {
+      "id": "468ea2a9-1724-4ec0-be80-b77b6ae8c64d",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "arabic": "حريص",
+      "cefr": "A2",
+      "ipa": "[ħaˈriːsˤ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "f236843c-4265-4d41-91cb-3c32a282212d",
+      "part-of-speech": "noun",
+      "english": "precision, accuracy",
+      "arabic": "دقة",
+      "cefr": "A2",
+      "ipa": "[ˈdiqqa]",
+      "context": "بدقة: precisely, thoroughly",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
     }
   ]
 }

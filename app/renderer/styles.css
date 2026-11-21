@@ -1605,7 +1605,7 @@ html, body {
   font-size: 0.97rem;
   font-family: var(--font);
   color: var(--text);
-  text-align: left;
+  text-align: start;
   cursor: pointer;
   transition: background 0.12s, border-color 0.12s;
   line-height: 1.45;

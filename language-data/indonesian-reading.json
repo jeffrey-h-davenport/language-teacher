@@ -1,0 +1,301 @@
+{
+  "meta": {
+    "language": "Indonesian",
+    "languageCode": "id",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Setiap hari Jumat, dia pergi ke sekolah bersama teman-temannya. Mereka berjalan kaki ke sekolah melewati toko. Mereka selalu mampir di sana dan membeli minuman bersoda dan keripik. Mereka makan dan minum di jalan menuju sekolah.",
+      "questions": [
+        {
+          "question": "Kapan dia pergi ke sekolah bersama teman-temannya?",
+          "choices": [
+            "Setiap hari Senin",
+            "Setiap hari Jumat",
+            "Setiap hari Minggu",
+            "Setiap hari"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Bagaimana mereka pergi ke sekolah?",
+          "choices": [
+            "Naik bus",
+            "Naik mobil",
+            "Naik sepeda",
+            "Berjalan kaki"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Apa yang mereka beli di toko?",
+          "choices": [
+            "Minuman bersoda dan keripik",
+            "Roti dan susu",
+            "Buah dan jus",
+            "Kopi dan kue"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Di mana mereka makan dan minum?",
+          "choices": [
+            "Di sekolah",
+            "Di rumah",
+            "Di jalan menuju sekolah",
+            "Di toko"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "setiap": "745d171f-bfd6-4058-97a0-9df6e569e4e3",
+        "hari": "9e439fbd-e9f2-4c8a-a72c-eaff283fdbea",
+        "jumat": "622a7b8b-b7f8-4833-a37d-25b1105f59e5",
+        "dia": "bb04b3e2-7eb7-423e-b14b-7a0212ba184a",
+        "pergi": "887ce7cd-dcde-44cc-8d55-10a4ed8b3ad5",
+        "ke": "e2b02e74-7534-4c1f-9f10-13d11c96347d",
+        "sekolah": "146ead90-dd12-4104-83b5-610f105c7f91",
+        "bersama": "8fb5fecb-014b-4b74-8b16-f08f8a4aaef2",
+        "teman": "e35677a4-d758-4757-80b8-dffefaac42e0",
+        "temannya": "e35677a4-d758-4757-80b8-dffefaac42e0",
+        "mereka": "cce6c12f-8010-421e-a0c9-c2d04800dbdb",
+        "berjalan": "2ff45d75-d0c1-4790-a378-6d9ce8519412",
+        "kaki": "f7b8040b-33ec-49c0-b957-207c0458a920",
+        "melewati": "0d1a475b-08ef-4fc5-920a-ecbe50f6b078",
+        "toko": "8623576a-4221-4521-9ab4-fd9b228c1889",
+        "selalu": "3458a8d8-f00b-44b1-8e15-82cd0621c4cc",
+        "mampir": "91d66ab5-6bd4-425e-ace2-59d18d23c331",
+        "di sana": "dcc61ff8-77b5-46a6-93fd-45f130a5bc2e",
+        "dan": "72d5a5bb-9f14-44ff-b800-8000cbaecd81",
+        "membeli": "2a5f8f0a-4712-4195-8de1-c69f5e5d7f5a",
+        "minuman": "432950d3-b1c6-4c2a-a21e-aa5eb0169ca7",
+        "bersoda": "553d6d5d-d8f7-49b3-b2c6-f4616a7568ba",
+        "keripik": "36992cca-c361-40b7-a0d3-af7a4bb10cb3",
+        "makan": "9b2ff60e-22cd-429e-a9f4-41851a3e538d",
+        "minum": "10de1a96-1609-423d-9a15-9d6ed6a2862b",
+        "di": "726d59a7-c9b8-4861-8934-fb3ba727f6cd",
+        "jalan": "0780dbbe-91a6-4f42-9574-b0d85e42504d",
+        "menuju": "b064be01-c048-498c-8fe7-00c883761102"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Dia sangat sayang pada anjing-anjingnya. Dia punya seekor anjing betina yang besar dengan bulu panjang berwarna putih. Dia juga punya seekor anjing jantan yang kecil dengan bulu pendek berwarna cokelat. Anjing betina itu lebih muda daripada anjing jantan.",
+      "questions": [
+        {
+          "question": "Berapa ekor anjing yang dia punya?",
+          "choices": [
+            "Satu",
+            "Tiga",
+            "Dua",
+            "Empat"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Apa warna bulu anjing betina?",
+          "choices": [
+            "Putih",
+            "Cokelat",
+            "Hitam",
+            "Abu-abu"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Seperti apa anjing jantan itu?",
+          "choices": [
+            "Besar, dengan bulu panjang berwarna putih",
+            "Kecil, dengan bulu panjang berwarna putih",
+            "Besar, dengan bulu pendek berwarna cokelat",
+            "Kecil, dengan bulu pendek berwarna cokelat"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Anjing mana yang lebih muda?",
+          "choices": [
+            "Anjing jantan",
+            "Anjing betina",
+            "Umurnya sama",
+            "Tidak disebutkan"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "dia": "bb04b3e2-7eb7-423e-b14b-7a0212ba184a",
+        "sangat": "27ec6efa-830c-42b4-81b0-235e1bf4ffaa",
+        "sayang": "844d460a-3e7a-4549-a257-6290c0631deb",
+        "pada": "1af73a02-4bbd-4f0b-a421-a111528081d5",
+        "anjing": "5af340f7-2a78-4d16-a8e2-924463a81768",
+        "anjingnya": "5af340f7-2a78-4d16-a8e2-924463a81768",
+        "punya": "886683fe-e231-4896-80b2-5df28da74741",
+        "seekor": "e38a4950-ba37-4a88-b0a1-2aba5301a144",
+        "betina": "fd1c4401-b1e7-4e12-af9a-239bb9d3b5e9",
+        "yang": "08f6928a-d249-4434-882c-e0f9abaa0ad1",
+        "besar": "290f6cff-1004-481c-91d6-990eadeb1028",
+        "dengan": "0fead97b-f55c-453d-881f-2a50f2afbb2f",
+        "bulu": "2c90df04-3c77-44ab-b93f-bfb344f62231",
+        "panjang": "02036783-db75-4900-9ba6-e6e64b67ed56",
+        "berwarna": "78d92d0a-500a-4891-b682-b8ddf83315b9",
+        "putih": "d3549b86-8f1a-4ae3-8666-4e14a043d32d",
+        "juga": "c977e020-6baa-4da3-8fb4-174dd1c4fdc9",
+        "jantan": "39e1d943-3e86-4562-9f27-f09f252383e9",
+        "kecil": "4f5e31b3-4ba8-46bd-bd61-30a04bd4b28a",
+        "pendek": "217df543-651f-4c7a-aaf7-2981d73c38e2",
+        "cokelat": "9bd3cdb4-94b0-4e86-abc5-e9560b39da80",
+        "itu": "96c58ae7-66e0-479c-9091-7090f282d3ef",
+        "lebih": "94c3de63-6607-46c4-8b45-dbad5436da65",
+        "muda": "720cd653-676e-4ce3-8f48-412d2da211e9",
+        "daripada": "8e10408a-f4a5-4909-9a35-f7e1fbf46a3a"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Ibu mereka bekerja sebagai perawat di rumah sakit. Dia menolong orang-orang yang sakit. Dia bekerja bersama dokter supaya pasien sembuh. Dia memastikan pasien minum obatnya.",
+      "questions": [
+        {
+          "question": "Di mana ibu mereka bekerja?",
+          "choices": [
+            "Di sekolah",
+            "Di toko",
+            "Di bank",
+            "Di rumah sakit"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Apa pekerjaannya?",
+          "choices": [
+            "Dokter",
+            "Perawat",
+            "Guru",
+            "Juru masak"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Dengan siapa dia bekerja?",
+          "choices": [
+            "Dengan guru",
+            "Dengan insinyur",
+            "Dengan dokter",
+            "Dengan polisi"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Apa yang dia pastikan?",
+          "choices": [
+            "Pasien minum obatnya",
+            "Pasien sarapan",
+            "Dokter datang tepat waktu",
+            "Rumah sakit bersih"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "ibu": "ff4a9707-a44d-482d-a9d9-badda23b4b5b",
+        "mereka": "cce6c12f-8010-421e-a0c9-c2d04800dbdb",
+        "bekerja": "c2cace2c-f786-4fbd-9471-f38f507e0681",
+        "sebagai": "ded714c2-009d-431d-99f5-ee9cce59263a",
+        "perawat": "3135c0e7-0596-4114-9ef3-98411428ebc3",
+        "di": "726d59a7-c9b8-4861-8934-fb3ba727f6cd",
+        "rumah sakit": "05c45b19-7a35-4426-a027-bc065066fa68",
+        "dia": "bb04b3e2-7eb7-423e-b14b-7a0212ba184a",
+        "menolong": "17a3130c-61f8-4ece-a510-6605f4caa088",
+        "orang": "95768beb-84f4-4e70-bf5a-91c967761119",
+        "yang": "08f6928a-d249-4434-882c-e0f9abaa0ad1",
+        "sakit": "72df5b25-fd5c-486a-be98-44d95641a55e",
+        "bersama": "8fb5fecb-014b-4b74-8b16-f08f8a4aaef2",
+        "dokter": "f7912294-4d38-47b9-a6f6-8b1b1ebe6518",
+        "supaya": "ef2a6ca9-ace3-4527-8637-fd09ab905988",
+        "pasien": "f0f284cb-2e18-4e34-a7b2-ec7a9f6daf59",
+        "sembuh": "8b38153f-f705-4044-88de-3fa3315ace70",
+        "memastikan": "93e07f73-1855-4182-a3da-e615c2d84029",
+        "minum": "10de1a96-1609-423d-9a15-9d6ed6a2862b",
+        "obatnya": "1c553aa9-d42c-48ae-ab54-af6eaf70ef64"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Ayah mereka bekerja di perusahaan perangkat lunak. Dia menguji perangkat lunak. Dia memastikan perangkat lunak itu berjalan dengan baik sebelum diberikan kepada orang untuk dipakai. Dia sangat teliti dan menguji perangkat lunak itu secara menyeluruh.",
+      "questions": [
+        {
+          "question": "Di mana ayah mereka bekerja?",
+          "choices": [
+            "Di perusahaan perangkat lunak",
+            "Di rumah sakit",
+            "Di sekolah",
+            "Di toko"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Apa yang dia kerjakan?",
+          "choices": [
+            "Menjual komputer",
+            "Memperbaiki mobil",
+            "Menguji perangkat lunak",
+            "Mengajar di sekolah"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kapan dia menguji perangkat lunak?",
+          "choices": [
+            "Setelah dipakai orang",
+            "Sebelum diberikan kepada orang",
+            "Hanya hari Jumat",
+            "Pada malam hari"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Bagaimana dia menguji perangkat lunak?",
+          "choices": [
+            "Dengan cepat dan asal-asalan",
+            "Hanya kadang-kadang",
+            "Bersama anak-anaknya",
+            "Dengan sangat teliti dan menyeluruh"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "ayah": "75de5827-6ee6-4cbd-94d2-c985a87843bd",
+        "mereka": "cce6c12f-8010-421e-a0c9-c2d04800dbdb",
+        "bekerja": "c2cace2c-f786-4fbd-9471-f38f507e0681",
+        "di": "726d59a7-c9b8-4861-8934-fb3ba727f6cd",
+        "perusahaan": "afe0e15b-24a5-44f3-94eb-6e3ac886e4b2",
+        "perangkat lunak": "a4399121-9b8c-436f-b096-b3e3f5fbcb47",
+        "dia": "bb04b3e2-7eb7-423e-b14b-7a0212ba184a",
+        "menguji": "f2d19e00-bce4-4ce0-b97b-fe5279f545d5",
+        "memastikan": "93e07f73-1855-4182-a3da-e615c2d84029",
+        "itu": "96c58ae7-66e0-479c-9091-7090f282d3ef",
+        "berjalan": "2ff45d75-d0c1-4790-a378-6d9ce8519412",
+        "dengan": "0fead97b-f55c-453d-881f-2a50f2afbb2f",
+        "baik": "9ffefe8b-1555-483a-89d8-7594fbcb6c05",
+        "sebelum": "2451945c-da34-4d75-9529-92b775ac91f1",
+        "diberikan": "c50c4021-46ec-458b-a61b-2155b24f4e65",
+        "kepada": "cbb606be-26ab-4290-84bf-00019c4836cb",
+        "orang": "95768beb-84f4-4e70-bf5a-91c967761119",
+        "untuk": "855911f5-4037-4a2c-8b78-ade1d831a997",
+        "dipakai": "4499bc23-44f3-4758-bd95-c5bb490d32f3",
+        "sangat": "27ec6efa-830c-42b4-81b0-235e1bf4ffaa",
+        "teliti": "8f7bcdbd-d0d3-4e72-a51c-bcda1505edff",
+        "dan": "72d5a5bb-9f14-44ff-b800-8000cbaecd81",
+        "secara menyeluruh": "03a6370b-0b08-4276-b970-1e1c6256078a"
+      }
+    }
+  ]
+}

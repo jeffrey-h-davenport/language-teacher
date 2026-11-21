@@ -1368,7 +1368,7 @@
     {
       "id": "1197a1bb-66f6-4896-a139-ff5ab5b46662",
       "part-of-speech": "noun",
-      "english": "home, family",
+      "english": "home, family; counter for stores and companies",
       "chinese": "家",
       "cefr": "A1",
       "ipa": "[tɕja]",
@@ -6412,6 +6412,707 @@
         "ti",
         "i"
       ]
+    },
+    {
+      "id": "94497b96-d009-44fb-ae17-46641194cff5",
+      "part-of-speech": "noun",
+      "english": "counter for people and things",
+      "chinese": "个",
+      "cefr": "A1",
+      "ipa": "[kə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "kə"
+      ]
+    },
+    {
+      "id": "56c8322c-3c8c-4b52-be7d-3d3de62a1194",
+      "part-of-speech": "noun",
+      "english": "Friday",
+      "chinese": "星期五",
+      "cefr": "A1",
+      "ipa": "[ɕiŋtɕʰiu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "ɕiŋ",
+        "tɕʰi",
+        "u"
+      ]
+    },
+    {
+      "id": "50ddf185-e55c-481e-9911-6f7f7e9d0a45",
+      "part-of-speech": "noun",
+      "english": "plural suffix for people",
+      "chinese": "们",
+      "cefr": "A1",
+      "ipa": "[mən]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        0
+      ],
+      "ipaSyllables": [
+        "mən"
+      ],
+      "context": "朋友们: friends"
+    },
+    {
+      "id": "a457d452-eec5-4e2b-af5d-5da5123b8d6e",
+      "part-of-speech": "verb",
+      "english": "to go to school",
+      "chinese": "上学",
+      "cefr": "A1",
+      "ipa": "[ʂaŋɕɥɛ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "ʂaŋ",
+        "ɕɥɛ"
+      ]
+    },
+    {
+      "id": "093deffd-d1b6-468b-a675-e37c433f727f",
+      "part-of-speech": "verb",
+      "english": "to walk",
+      "chinese": "走路",
+      "cefr": "A1",
+      "ipa": "[tsou̯lu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tsou̯",
+        "lu"
+      ]
+    },
+    {
+      "id": "5d044ae5-e139-459d-a334-22dff52f7108",
+      "part-of-speech": "noun",
+      "english": "on the way",
+      "chinese": "路上",
+      "cefr": "A2",
+      "ipa": "[luʂaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "lu",
+        "ʂaŋ"
+      ],
+      "context": "在去学校的路上: on the way to school"
+    },
+    {
+      "id": "2906c925-49b6-4876-aa37-4a6d575626e2",
+      "part-of-speech": "verb",
+      "english": "to pass by, to go past",
+      "chinese": "经过",
+      "cefr": "A2",
+      "ipa": "[tɕiŋkwo]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕiŋ",
+        "kwo"
+      ]
+    },
+    {
+      "id": "3c167f00-db84-47c0-a9a8-36fdcc4c2399",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "chinese": "总是",
+      "cefr": "A1",
+      "ipa": "[tsʊŋʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tsʊŋ",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "df94ac05-7245-40a5-b31c-abd21d815666",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "chinese": "停下来",
+      "cefr": "A2",
+      "ipa": "[tʰiŋɕjalai̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        0,
+        0
+      ],
+      "ipaSyllables": [
+        "tʰiŋ",
+        "ɕja",
+        "lai̯"
+      ]
+    },
+    {
+      "id": "f5d97cbe-b79c-4c9f-8795-c580798f909f",
+      "part-of-speech": "noun",
+      "english": "soda",
+      "chinese": "汽水",
+      "cefr": "A2",
+      "ipa": "[tɕʰiʂwei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "tɕʰi",
+        "ʂwei̯"
+      ]
+    },
+    {
+      "id": "1f8240b9-eca8-40bd-9b34-21e644b114d8",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "chinese": "薯片",
+      "cefr": "A2",
+      "ipa": "[ʂupʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂu",
+        "pʰjɛn"
+      ]
+    },
+    {
+      "id": "983b88a9-1f98-446a-bab7-77c5d9ff676a",
+      "part-of-speech": "postposition",
+      "english": "'s, of",
+      "chinese": "的",
+      "cefr": "A1",
+      "ipa": "[tə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        0
+      ],
+      "ipaSyllables": [
+        "tə"
+      ],
+      "context": "marks possession or description: 我的书, my book; 白色的, white"
+    },
+    {
+      "id": "c1e9d13a-6cc6-4860-9a70-777f57662f44",
+      "part-of-speech": "adverb",
+      "english": "while",
+      "chinese": "边",
+      "cefr": "A2",
+      "ipa": "[pjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "pjɛn"
+      ],
+      "context": "边…边…: doing two things at once"
+    },
+    {
+      "id": "3d2ac0fc-50e5-4942-8b90-ca89101df951",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "chinese": "母狗",
+      "cefr": "A2",
+      "ipa": "[mukou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        3
+      ],
+      "ipaSyllables": [
+        "mu",
+        "kou̯"
+      ]
+    },
+    {
+      "id": "fd9cd3d9-6a87-41c3-bce9-98be9367fe84",
+      "part-of-speech": "noun",
+      "english": "fur, hair (of an animal)",
+      "chinese": "毛",
+      "cefr": "A2",
+      "ipa": "[mau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2
+      ],
+      "ipaSyllables": [
+        "mau̯"
+      ]
+    },
+    {
+      "id": "d58ce1e8-1dda-45fb-aae6-38bed73c25ea",
+      "part-of-speech": "noun",
+      "english": "male dog",
+      "chinese": "公狗",
+      "cefr": "A2",
+      "ipa": "[kʊŋkou̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "kʊŋ",
+        "kou̯"
+      ]
+    },
+    {
+      "id": "a25a4827-94fb-4e0b-afdc-f031903e66e5",
+      "part-of-speech": "verb",
+      "english": "to work as, to serve as",
+      "chinese": "当",
+      "cefr": "A2",
+      "ipa": "[taŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "taŋ"
+      ],
+      "context": "当护士: to be a nurse"
+    },
+    {
+      "id": "742dbcd3-51c3-453a-8fc3-df9ebe86f2df",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "chinese": "护士",
+      "cefr": "A1",
+      "ipa": "[xuʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        0
+      ],
+      "ipaSyllables": [
+        "xu",
+        "ʂʐ̩"
+      ]
+    },
+    {
+      "id": "52fbcf98-e7c4-4493-8a72-06a4d95493dd",
+      "part-of-speech": "verb",
+      "english": "to help",
+      "chinese": "帮助",
+      "cefr": "A1",
+      "ipa": "[paŋtʂu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "paŋ",
+        "tʂu"
+      ]
+    },
+    {
+      "id": "6230c685-a959-42ec-b5a4-9d89292c9f2e",
+      "part-of-speech": "verb",
+      "english": "to get sick, to be ill",
+      "chinese": "生病",
+      "cefr": "A1",
+      "ipa": "[ʂəŋpiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂəŋ",
+        "piŋ"
+      ]
+    },
+    {
+      "id": "250740b9-f61a-4be7-b3a5-565fe851d958",
+      "part-of-speech": "verb",
+      "english": "to recover",
+      "chinese": "恢复",
+      "cefr": "A2",
+      "ipa": "[xwei̯fu]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        4
+      ],
+      "ipaSyllables": [
+        "xwei̯",
+        "fu"
+      ],
+      "context": "恢复健康: to get well"
+    },
+    {
+      "id": "b911b7fc-724a-4af0-a26c-87ad68b9b4c0",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "chinese": "确保",
+      "cefr": "A2",
+      "ipa": "[tɕʰɥɛpau̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        3
+      ],
+      "ipaSyllables": [
+        "tɕʰɥɛ",
+        "pau̯"
+      ]
+    },
+    {
+      "id": "5b3348e3-fb34-416f-a464-260749e58f0d",
+      "part-of-speech": "noun",
+      "english": "software",
+      "chinese": "软件",
+      "cefr": "A2",
+      "ipa": "[ʐwantɕjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "ʐwan",
+        "tɕjɛn"
+      ]
+    },
+    {
+      "id": "12bf7a57-b118-474d-8f3d-39009709a1b2",
+      "part-of-speech": "noun",
+      "english": "company",
+      "chinese": "公司",
+      "cefr": "A1",
+      "ipa": "[kʊŋsɹ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        1
+      ],
+      "ipaSyllables": [
+        "kʊŋ",
+        "sɹ̩"
+      ]
+    },
+    {
+      "id": "7748be08-903e-4660-9f46-5d8b6da2a10f",
+      "part-of-speech": "verb",
+      "english": "to be in charge of, to be responsible for",
+      "chinese": "负责",
+      "cefr": "A2",
+      "ipa": "[futsə]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "fu",
+        "tsə"
+      ]
+    },
+    {
+      "id": "1625219f-4ec0-46e3-92c3-6f7629861674",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "chinese": "测试",
+      "cefr": "A2",
+      "ipa": "[tsʰəʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        4
+      ],
+      "ipaSyllables": [
+        "tsʰə",
+        "ʂʐ̩"
+      ],
+      "context": "also a noun: a test"
+    },
+    {
+      "id": "b0299cbc-04ab-48e1-b638-f61074099c4f",
+      "part-of-speech": "verb",
+      "english": "to hand over to",
+      "chinese": "交给",
+      "cefr": "A2",
+      "ipa": "[tɕjau̯kei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        3
+      ],
+      "ipaSyllables": [
+        "tɕjau̯",
+        "kei̯"
+      ]
+    },
+    {
+      "id": "c21b1424-f926-4b0d-9f17-e2566fc23655",
+      "part-of-speech": "verb",
+      "english": "to use",
+      "chinese": "使用",
+      "cefr": "A2",
+      "ipa": "[ʂʐ̩jʊŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "ʂʐ̩",
+        "jʊŋ"
+      ]
+    },
+    {
+      "id": "76fc5b4a-01bf-4bb3-be25-41f03d6e226d",
+      "part-of-speech": "noun",
+      "english": "before",
+      "chinese": "之前",
+      "cefr": "A2",
+      "ipa": "[tʂʐ̩tɕʰjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "tʂʐ̩",
+        "tɕʰjɛn"
+      ],
+      "context": "使用之前: before use"
+    },
+    {
+      "id": "9758744d-3f1a-4e45-9acf-519728b5a0bd",
+      "part-of-speech": "verb",
+      "english": "to run (a program)",
+      "chinese": "运行",
+      "cefr": "A2",
+      "ipa": "[ynɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "yn",
+        "ɕiŋ"
+      ]
+    },
+    {
+      "id": "646f6a31-9fec-44b2-8355-48182beac9db",
+      "part-of-speech": "adjective",
+      "english": "normal",
+      "chinese": "正常",
+      "cefr": "A2",
+      "ipa": "[tʂəŋtʂʰaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "tʂəŋ",
+        "tʂʰaŋ"
+      ]
+    },
+    {
+      "id": "f039ce51-f76c-412d-8aff-85f323432dbf",
+      "part-of-speech": "adverb",
+      "english": "very, extremely",
+      "chinese": "非常",
+      "cefr": "A1",
+      "ipa": "[fei̯tʂʰaŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1,
+        2
+      ],
+      "ipaSyllables": [
+        "fei̯",
+        "tʂʰaŋ"
+      ]
+    },
+    {
+      "id": "5e8fcbed-1d76-4d48-8e57-e663d5992fe0",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "chinese": "仔细",
+      "cefr": "A2",
+      "ipa": "[tsɹ̩ɕi]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        3,
+        4
+      ],
+      "ipaSyllables": [
+        "tsɹ̩",
+        "ɕi"
+      ]
+    },
+    {
+      "id": "6a3c683f-3acf-49db-b84b-9b1af99f8c18",
+      "part-of-speech": "verb",
+      "english": "to carry out",
+      "chinese": "进行",
+      "cefr": "A2",
+      "ipa": "[tɕinɕiŋ]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4,
+        2
+      ],
+      "ipaSyllables": [
+        "tɕin",
+        "ɕiŋ"
+      ]
+    },
+    {
+      "id": "bd7cdacc-3de9-4f19-870b-7515dda5b998",
+      "part-of-speech": "adjective",
+      "english": "thorough, comprehensive",
+      "chinese": "全面",
+      "cefr": "A2",
+      "ipa": "[tɕʰɥɛnmjɛn]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        2,
+        4
+      ],
+      "ipaSyllables": [
+        "tɕʰɥɛn",
+        "mjɛn"
+      ]
+    },
+    {
+      "id": "e6386909-689d-4124-8c47-067d7526e535",
+      "part-of-speech": "noun",
+      "english": "counter for animals",
+      "chinese": "只",
+      "cefr": "A1",
+      "ipa": "[tʂʐ̩]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        1
+      ],
+      "ipaSyllables": [
+        "tʂʐ̩"
+      ],
+      "context": "一只狗: a dog; same character as zhǐ, only"
+    },
+    {
+      "id": "3c21577c-aa81-4ce8-9b3d-dc6d91fcfbcb",
+      "part-of-speech": "preposition",
+      "english": "to, toward",
+      "chinese": "对",
+      "cefr": "A2",
+      "ipa": "[twei̯]",
+      "register": [
+        "All"
+      ],
+      "tone": [
+        4
+      ],
+      "ipaSyllables": [
+        "twei̯"
+      ],
+      "context": "对软件进行测试: to run tests on the software"
     }
   ]
 }

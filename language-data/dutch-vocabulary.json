@@ -3241,14 +3241,14 @@
     {
       "id": "af29c97f-bd4d-4cd3-bfab-041a35c215d6",
       "part-of-speech": "noun",
-      "english": "one",
+      "english": "a, an; one",
       "dutch": "een",
       "cefr": "A1",
       "ipa": "[eɪn]",
-      "context": "written één when stressed, to tell it from the article een (a)",
       "register": [
         "All"
-      ]
+      ],
+      "context": "written één when stressed, to tell it from the article een (a)"
     },
     {
       "id": "ca33e37a-ef86-45ba-ac7e-16aed134316a",
@@ -6120,14 +6120,14 @@
     {
       "id": "fd8f39eb-8b86-48ce-b683-db7a358d13d1",
       "part-of-speech": "adverb",
-      "english": "too",
+      "english": "too; to (before a verb)",
       "dutch": "te",
       "cefr": "A2",
       "ipa": "[tə]",
-      "context": "te duur: too expensive; excessively",
       "register": [
         "All"
-      ]
+      ],
+      "context": "te duur: too expensive; excessively"
     },
     {
       "id": "fd993c37-7121-4ffe-8172-adfaebf4ad85",
@@ -6727,14 +6727,14 @@
     {
       "id": "7381ab31-6ca8-4dfd-8c1b-4df8a6f5f888",
       "part-of-speech": "preposition",
-      "english": "at; around",
+      "english": "at; around; om … te: in order to",
       "dutch": "om",
       "cefr": "A1",
       "ipa": "[ɔm]",
-      "context": "clock time",
       "register": [
         "All"
-      ]
+      ],
+      "context": "clock time"
     },
     {
       "id": "005c7343-a60d-4cc7-bb3b-f1059fd3fbcb",
@@ -6852,14 +6852,14 @@
     {
       "id": "abde5d2b-f05a-4594-848a-b82143cf8a25",
       "part-of-speech": "conjunction",
-      "english": "if; when",
+      "english": "as; if; when",
       "dutch": "als",
       "cefr": "A2",
       "ipa": "[ɑls]",
-      "context": "verb goes to the end of the clause",
       "register": [
         "All"
-      ]
+      ],
+      "context": "verb goes to the end of the clause"
     },
     {
       "id": "a845fafa-e540-4fb2-b098-4061326e1d99",
@@ -7153,6 +7153,262 @@
       "dutch": "gefeliciteerd",
       "cefr": "A2",
       "ipa": "[ɣəfeɪlisiˈtɪːɻt]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4079bbcd-4b06-44e1-9059-98b8e7949154",
+      "part-of-speech": "pronoun",
+      "english": "she, her; they, them",
+      "dutch": "ze",
+      "cefr": "A1",
+      "ipa": "[zə]",
+      "register": [
+        "All"
+      ],
+      "context": "unstressed form of zij"
+    },
+    {
+      "id": "2ae30d90-8967-433c-b494-46a82f60c4a3",
+      "part-of-speech": "article",
+      "english": "the",
+      "dutch": "de",
+      "cefr": "A1",
+      "ipa": "[də]",
+      "register": [
+        "All"
+      ],
+      "context": "for common-gender words and all plurals; neuter words take het"
+    },
+    {
+      "id": "b2801183-506c-449b-a8b4-eddf2ffdfbc9",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "dutch": "frisdrank",
+      "cefr": "A2",
+      "ipa": "[ˈfrɪzdrɑŋk]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "frisdranken"
+    },
+    {
+      "id": "efea85ae-da67-4e12-b273-cc2798214a42",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "dutch": "chips",
+      "cefr": "A2",
+      "ipa": "[ʃɪps]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "chips"
+    },
+    {
+      "id": "ad2775ce-565a-45d0-848a-843d5ed40eec",
+      "part-of-speech": "adverb",
+      "english": "on the way",
+      "dutch": "onderweg",
+      "cefr": "A2",
+      "ipa": "[ˌɔndərˈʋɛx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b1eb5a4f-04fb-44f9-94c4-73a36c8c7ab5",
+      "part-of-speech": "verb",
+      "english": "to hold, to keep",
+      "dutch": "houden",
+      "cefr": "A1",
+      "ipa": "[ˈɦʌudə(n)]",
+      "register": [
+        "All"
+      ],
+      "context": "houden van: to love"
+    },
+    {
+      "id": "b0b690ac-85a7-421e-9c2e-f9f9a8b66629",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "dutch": "vrouwtjeshond",
+      "cefr": "A2",
+      "ipa": "[ˈʋrʌucəsˌɦɔnt]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "vrouwtjeshonden"
+    },
+    {
+      "id": "db13b0fa-5afe-449c-a3e1-13e80d98ba86",
+      "part-of-speech": "noun",
+      "english": "fur, coat (of an animal)",
+      "dutch": "vacht",
+      "cefr": "A2",
+      "ipa": "[vɑxt]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "vachten"
+    },
+    {
+      "id": "f125fcf8-b03c-469a-b209-bb461870406c",
+      "part-of-speech": "noun",
+      "english": "male dog",
+      "dutch": "mannetjeshond",
+      "cefr": "A2",
+      "ipa": "[ˈmɑnəcəsˌɦɔnt]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "mannetjeshonden"
+    },
+    {
+      "id": "76adcb14-430e-4ff5-8f31-aebee52b131b",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "dutch": "verpleegkundige",
+      "cefr": "A2",
+      "ipa": "[vərˈpleːxˌkʏndəɣə]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "verpleegkundigen"
+    },
+    {
+      "id": "16fdf442-5f1c-4ae0-a392-89099df421cb",
+      "part-of-speech": "noun",
+      "english": "doctor, physician",
+      "dutch": "arts",
+      "cefr": "A2",
+      "ipa": "[ɑrts]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "artsen"
+    },
+    {
+      "id": "89242be0-33bc-46d6-94e8-ee1f697f870c",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "dutch": "patiënt",
+      "cefr": "A2",
+      "ipa": "[paːˈʃɛnt]",
+      "register": [
+        "All"
+      ],
+      "gender": "common",
+      "plural": "patiënten"
+    },
+    {
+      "id": "56d1fe32-6d6d-42d7-afe8-75f83ecb6628",
+      "part-of-speech": "adjective",
+      "english": "better",
+      "dutch": "beter",
+      "cefr": "A1",
+      "ipa": "[ˈbeːtər]",
+      "register": [
+        "All"
+      ],
+      "context": "comparative of goed"
+    },
+    {
+      "id": "958c28f8-da1e-4c76-828c-e3cbd35ed187",
+      "part-of-speech": "verb",
+      "english": "to take care, to make sure",
+      "dutch": "zorgen",
+      "cefr": "A2",
+      "ipa": "[ˈzɔrɣə(n)]",
+      "register": [
+        "All"
+      ],
+      "context": "zorgen voor: to take care of; ervoor zorgen dat: to make sure that"
+    },
+    {
+      "id": "7b42f735-485e-45a8-a3bf-5d6884c923d0",
+      "part-of-speech": "adverb",
+      "english": "for it, before it",
+      "dutch": "ervoor",
+      "cefr": "A2",
+      "ipa": "[ɛrˈvoːr]",
+      "register": [
+        "All"
+      ],
+      "context": "ervoor zorgen dat: to make sure that"
+    },
+    {
+      "id": "11109aae-0932-48e5-84d1-57746f414728",
+      "part-of-speech": "verb",
+      "english": "to take (medicine)",
+      "dutch": "innemen",
+      "cefr": "A2",
+      "ipa": "[ˈɪnˌneːmə(n)]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6e826fc2-5abc-421a-af7e-9cf68b9dbdf1",
+      "part-of-speech": "noun",
+      "english": "software company",
+      "dutch": "softwarebedrijf",
+      "cefr": "A2",
+      "ipa": "[ˈsɔftʋɛːrbəˌdrɛif]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "plural": "softwarebedrijven"
+    },
+    {
+      "id": "c83c6359-7543-44f7-9c1e-4fc1b6898603",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "dutch": "testen",
+      "cefr": "A2",
+      "ipa": "[ˈtɛstə(n)]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "12a05f7b-5323-42dc-8d2e-a95a47542930",
+      "part-of-speech": "noun",
+      "english": "software",
+      "dutch": "software",
+      "cefr": "A2",
+      "ipa": "[ˈsɔftʋɛːr]",
+      "register": [
+        "All"
+      ],
+      "gender": "common"
+    },
+    {
+      "id": "5ecf8d3a-fba3-4713-9288-804b657b2645",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "dutch": "zorgvuldig",
+      "cefr": "A2",
+      "ipa": "[zɔrxˈfʏldəx]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a535eaa-3b25-4952-81c3-05c37d3ebdcd",
+      "part-of-speech": "adjective",
+      "english": "thorough",
+      "dutch": "grondig",
+      "cefr": "A2",
+      "ipa": "[ˈɣrɔndəx]",
       "register": [
         "All"
       ]

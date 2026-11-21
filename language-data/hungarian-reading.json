@@ -1,0 +1,289 @@
+{
+  "meta": {
+    "language": "Hungarian",
+    "languageCode": "hu",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Péntekenként a barátaival megy iskolába. Gyalog mennek az iskolába, és elmennek a bolt mellett. Mindig megállnak ott, és üdítőt meg chipset vesznek. Az iskolába menet esznek és isznak.",
+      "questions": [
+        {
+          "question": "Mikor megy iskolába a barátaival?",
+          "choices": [
+            "Hétfőnként",
+            "Péntekenként",
+            "Vasárnaponként",
+            "Minden nap"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hogyan mennek iskolába?",
+          "choices": [
+            "Busszal",
+            "Autóval",
+            "Biciklivel",
+            "Gyalog"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mit vesznek a boltban?",
+          "choices": [
+            "Üdítőt és chipset",
+            "Kenyeret és tejet",
+            "Gyümölcsöt és gyümölcslevet",
+            "Kávét és süteményt"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hol esznek és isznak?",
+          "choices": [
+            "Az iskolában",
+            "Otthon",
+            "Az iskolába menet",
+            "A boltban"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "péntekenként": "aaa4c39e-fdde-4e19-8511-798f856e4fec",
+        "a": "74a7b2d6-b036-451d-8fe4-1c6db24074b8",
+        "barátaival": "d7926d74-a0c0-49fd-85e9-92256f94dbd7",
+        "megy": "538a8fbf-a0f1-429a-9588-e635b838eded",
+        "iskolába": "02b227c7-96f6-48f3-bb59-6834b883e028",
+        "gyalog": "13bcd462-a304-4ec3-869d-12cf94a080b7",
+        "mennek": "538a8fbf-a0f1-429a-9588-e635b838eded",
+        "az": "893c9ec6-94a0-468c-938a-19a55c9d1aa4",
+        "és": "980d2ebc-d7e5-45ed-8565-53bb12cb89f3",
+        "elmennek": "538a8fbf-a0f1-429a-9588-e635b838eded",
+        "bolt": "22ade78e-a120-477d-9e70-19b2569bd7c5",
+        "mellett": "cb1cb2f7-aeae-4f87-b1f9-6498b14af786",
+        "mindig": "7105191e-4a2b-4f77-bf3f-74bbfdb52c60",
+        "megállnak": "c9ae044d-7d37-410a-8bd2-25a9382b83e9",
+        "ott": "77f4ad26-69c4-4e57-96de-55fd0ac9dbb4",
+        "üdítőt": "4dd4335d-345d-4e9c-9376-be421886ee38",
+        "meg": "604fcfa8-5d5b-4aaf-ba24-39d2f23ff9d8",
+        "chipset": "d5e4424d-0c88-4c12-8533-19bce5be8551",
+        "vesznek": "bce3974e-9828-4291-9233-fca5dc092e0b",
+        "menet": "236e7573-14e3-4a50-a1cc-7cc4c02cd9dd",
+        "esznek": "afc2e7c9-dccd-481a-806b-eee5a2cd17d8",
+        "isznak": "ceae7a13-819b-44d2-bf98-5a27cfd32fef"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Nagyon szereti a kutyáit. Van egy nagy szuka kutyája hosszú, fehér szőrrel. Van egy kis kan kutyája is rövid, barna szőrrel. A szuka fiatalabb, mint a kan.",
+      "questions": [
+        {
+          "question": "Hány kutyája van?",
+          "choices": [
+            "Egy",
+            "Három",
+            "Kettő",
+            "Négy"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Milyen színű a szuka szőre?",
+          "choices": [
+            "Fehér",
+            "Barna",
+            "Fekete",
+            "Szürke"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Milyen a kan kutya?",
+          "choices": [
+            "Nagy, hosszú, fehér szőrű",
+            "Kicsi, hosszú, fehér szőrű",
+            "Nagy, rövid, barna szőrű",
+            "Kicsi, rövid, barna szőrű"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Melyik kutya a fiatalabb?",
+          "choices": [
+            "A kan",
+            "A szuka",
+            "Egyidősek",
+            "Nem derül ki"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "nagyon": "33df4fa2-844a-4e53-a42c-886ca799150e",
+        "szereti": "fd6aa593-537c-4d79-928f-888f861708e4",
+        "a": "74a7b2d6-b036-451d-8fe4-1c6db24074b8",
+        "kutyáit": "f4e8dcea-bff8-4ee4-a732-de2ed22a9515",
+        "van": "e0840be5-2033-4e25-afdf-428e08ddfbee",
+        "egy": "89d2ebab-7d5f-4162-ac4d-2aa849d6acf5",
+        "nagy": "fa125791-789b-4288-844b-b0eae927c440",
+        "szuka": "a676cca6-554a-44f9-ba8c-7840926b3dda",
+        "kutyája": "f4e8dcea-bff8-4ee4-a732-de2ed22a9515",
+        "hosszú": "c4bf3883-cebc-40b1-88b8-16a7472a1a57",
+        "fehér": "d3dc70ee-e5cf-4538-ac45-e98463cf6df8",
+        "szőrrel": "013db771-9a5f-4755-aed2-de4e72660a74",
+        "kis": "a7a88024-efc2-4a24-bb35-4457482a7820",
+        "kan": "e91287be-687e-43c1-a329-2bb282ec2798",
+        "is": "3b0be9b4-2b91-46cb-b8d2-71550da00303",
+        "rövid": "5a5b93c4-d2a1-4dd6-9125-9732138ab360",
+        "barna": "9de372c0-b452-430a-a772-165af13448ea",
+        "fiatalabb": "d99b55f4-25c4-4c39-a717-6696b8171aa0",
+        "mint": "527884dd-03bb-4eb9-971f-b540b028974c"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Az anyjuk ápolónőként dolgozik egy kórházban. Segít a beteg embereknek. Orvosokkal dolgozik együtt, hogy a betegek meggyógyuljanak. Figyel arra, hogy a betegek bevegyék a gyógyszerüket.",
+      "questions": [
+        {
+          "question": "Hol dolgozik az anyjuk?",
+          "choices": [
+            "Egy iskolában",
+            "Egy boltban",
+            "Egy bankban",
+            "Egy kórházban"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Mi a foglalkozása?",
+          "choices": [
+            "Orvos",
+            "Ápolónő",
+            "Tanár",
+            "Szakács"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kikkel dolgozik együtt?",
+          "choices": [
+            "Tanárokkal",
+            "Mérnökökkel",
+            "Orvosokkal",
+            "Rendőrökkel"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Mire figyel?",
+          "choices": [
+            "Hogy a betegek bevegyék a gyógyszerüket",
+            "Hogy a betegek megreggelizzenek",
+            "Hogy az orvosok időben érkezzenek",
+            "Hogy a kórház tiszta legyen"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "az": "893c9ec6-94a0-468c-938a-19a55c9d1aa4",
+        "anyjuk": "2394111a-d104-4d9e-8ced-f9ad2bf0373e",
+        "ápolónőként": "586cfb9e-42cb-45d7-ba53-ba220c0c1402",
+        "dolgozik": "48b012e2-25ed-4beb-b161-27bd2cbd29f0",
+        "egy": "89d2ebab-7d5f-4162-ac4d-2aa849d6acf5",
+        "kórházban": "4b8af4e3-fc8d-4056-89c8-d0e99c39578f",
+        "segít": "56a65d25-c205-4f95-b469-f074a34a5bb4",
+        "a": "74a7b2d6-b036-451d-8fe4-1c6db24074b8",
+        "beteg": "2388b11b-e582-4d1d-9842-892be506cf53",
+        "embereknek": "f829c0ce-2992-49b5-b321-a65b896abe8d",
+        "orvosokkal": "6e71ccc5-c053-4840-8b0a-8f59b678f183",
+        "együtt": "d1ad3421-9f5d-425d-b465-ca89fc879727",
+        "hogy": "cc6068c2-ad5c-42be-a2ab-1cbae38bb8ad",
+        "betegek": "2388b11b-e582-4d1d-9842-892be506cf53",
+        "meggyógyuljanak": "b43f6fba-7ea3-4454-aecf-e1937bb79063",
+        "figyel": "3b454425-6f5e-445a-9935-009d164ddf9e",
+        "arra": "893c9ec6-94a0-468c-938a-19a55c9d1aa4",
+        "bevegyék": "f3bec27e-55fb-4361-be8e-a19ee888aee2",
+        "gyógyszerüket": "4349ad91-9c9a-4ead-af69-c7c0427a8acc"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Az apjuk egy szoftvercégnél dolgozik. Szoftvereket tesztel. Ellenőrzi, hogy a szoftver jól működik-e, mielőtt az emberek használni kezdik. Nagyon gondos, és alaposan teszteli a szoftvert.",
+      "questions": [
+        {
+          "question": "Hol dolgozik az apjuk?",
+          "choices": [
+            "Egy szoftvercégnél",
+            "Egy kórházban",
+            "Egy iskolában",
+            "Egy boltban"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Mit csinál?",
+          "choices": [
+            "Számítógépeket árul",
+            "Autókat javít",
+            "Szoftvereket tesztel",
+            "Egy iskolában tanít"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Mikor teszteli a szoftvert?",
+          "choices": [
+            "Miután az emberek már használták",
+            "Mielőtt az emberek használni kezdik",
+            "Csak péntekenként",
+            "Éjszaka"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hogyan teszteli a szoftvert?",
+          "choices": [
+            "Gyorsan és felületesen",
+            "Csak néha",
+            "A gyerekeivel",
+            "Nagyon gondosan és alaposan"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "az": "893c9ec6-94a0-468c-938a-19a55c9d1aa4",
+        "apjuk": "80d661df-a37b-495a-9bc6-75857b75819c",
+        "egy": "89d2ebab-7d5f-4162-ac4d-2aa849d6acf5",
+        "szoftvercégnél": "60202c44-6a94-4eba-9868-5748d5c22edc",
+        "dolgozik": "48b012e2-25ed-4beb-b161-27bd2cbd29f0",
+        "szoftvereket": "09fec629-86b5-4995-af17-9dea7b5ffa72",
+        "tesztel": "c9db1fba-144e-4750-acb7-63966c2ad46b",
+        "ellenőrzi": "f9db19dd-4dc8-4d1b-86c5-1af3d5d1b320",
+        "hogy": "cc6068c2-ad5c-42be-a2ab-1cbae38bb8ad",
+        "a": "74a7b2d6-b036-451d-8fe4-1c6db24074b8",
+        "szoftver": "09fec629-86b5-4995-af17-9dea7b5ffa72",
+        "jól": "5914acc2-264b-4865-b1f7-32ee8dfd7cc2",
+        "működik": "ad0d5afd-2540-489a-a499-20fe33c24913",
+        "e": "4103a434-a3b1-4e5a-9ad7-50686ffed42a",
+        "mielőtt": "1409f022-8fac-4980-bbc4-19d5f5b2b397",
+        "emberek": "f829c0ce-2992-49b5-b321-a65b896abe8d",
+        "használni": "538b56b7-e159-40f1-ae70-d2b742d551ae",
+        "kezdik": "a3ed8632-4506-4740-8afb-5e32ef404f8c",
+        "nagyon": "33df4fa2-844a-4e53-a42c-886ca799150e",
+        "gondos": "07328a09-3cce-455f-a110-4f2c9b5139d0",
+        "és": "980d2ebc-d7e5-45ed-8565-53bb12cb89f3",
+        "alaposan": "74574980-1e24-42a3-875e-d16898b216a6",
+        "teszteli": "c9db1fba-144e-4750-acb7-63966c2ad46b",
+        "szoftvert": "09fec629-86b5-4995-af17-9dea7b5ffa72"
+      }
+    }
+  ]
+}

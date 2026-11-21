@@ -3060,14 +3060,14 @@
     {
       "id": "b0c38417-1e18-41fe-904c-9477fa7422d9",
       "part-of-speech": "noun",
-      "english": "one",
+      "english": "a, an; one",
       "norwegian": "en",
       "cefr": "A1",
       "ipa": "[eːn]",
-      "context": "also ei and ett, matching the noun's gender",
       "register": [
         "All"
-      ]
+      ],
+      "context": "also ei and ett, matching the noun's gender"
     },
     {
       "id": "d7e7c380-e4b8-45f2-b767-7d4be8e2ab76",
@@ -4633,7 +4633,8 @@
       "ipa": "[ɡlɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "context": "glad i: fond of; hun er glad i hundene sine: she loves her dogs"
     },
     {
       "id": "bd0052ee-0e83-48c0-babf-07d36da9fd5e",
@@ -6322,7 +6323,7 @@
     {
       "id": "5360dc5f-c810-409f-b7fe-03f653ba1515",
       "part-of-speech": "conjunction",
-      "english": "who, which, that",
+      "english": "who, which, that; as",
       "norwegian": "som",
       "cefr": "A1",
       "ipa": "[sɔmː]",
@@ -6629,6 +6630,211 @@
       "cefr": "A2",
       "ipa": "[ɡɾɑtʉˈleːɾəɾ]",
       "context": "gratulerer med dagen: happy birthday",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "922079da-f6e5-4b06-a62a-fc9ebca72823",
+      "part-of-speech": "pronoun",
+      "english": "his, her, its, their (own)",
+      "norwegian": "sin",
+      "cefr": "A1",
+      "ipa": "[siːn]",
+      "register": [
+        "All"
+      ],
+      "context": "si with feminine nouns, sitt with neuter, sine with plurals"
+    },
+    {
+      "id": "1336f715-cc2b-413b-be20-d66fa2514a37",
+      "part-of-speech": "preposition",
+      "english": "past, by",
+      "norwegian": "forbi",
+      "cefr": "A2",
+      "ipa": "[fɔɾˈbiː]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0ee66e39-adc6-43b9-93dd-2a0d7fbfe639",
+      "part-of-speech": "noun",
+      "english": "soft drink, soda",
+      "norwegian": "brus",
+      "cefr": "A2",
+      "ipa": "[brʉːs]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "8c671373-292b-4fe0-afd4-c889710a30c9",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "norwegian": "potetgull",
+      "cefr": "A2",
+      "ipa": "[pʊˈteːtˌɡʉl]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter"
+    },
+    {
+      "id": "466f5709-cc9f-4c5f-8272-ac3ac02106ed",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "norwegian": "tispe",
+      "cefr": "A2",
+      "ipa": "[²tɪspə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "tisper"
+    },
+    {
+      "id": "d936543c-f6d7-4e68-a123-df479c4192de",
+      "part-of-speech": "noun",
+      "english": "fur, coat (of an animal)",
+      "norwegian": "pels",
+      "cefr": "A2",
+      "ipa": "[pɛls]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "pelser"
+    },
+    {
+      "id": "d482e4a6-dcf8-4a87-8e9d-1c454590fb2c",
+      "part-of-speech": "noun",
+      "english": "male dog",
+      "norwegian": "hannhund",
+      "cefr": "A2",
+      "ipa": "[²hɑnˌhʉn]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "hannhunder"
+    },
+    {
+      "id": "6e80b35c-7899-4838-a8a0-9163105c103b",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "norwegian": "sykepleier",
+      "cefr": "A2",
+      "ipa": "[²syːkəˌplæɪ̯əɾ]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "sykepleiere"
+    },
+    {
+      "id": "e2b845ee-fced-4349-a643-14eb47efb1cd",
+      "part-of-speech": "noun",
+      "english": "people",
+      "norwegian": "folk",
+      "cefr": "A1",
+      "ipa": "[fɔlk]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter"
+    },
+    {
+      "id": "5234813f-3fe1-4896-9c99-bf29bc346d2d",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "norwegian": "pasient",
+      "cefr": "A2",
+      "ipa": "[pɑsiˈɛnt]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "pasienter"
+    },
+    {
+      "id": "0d550b0c-62c6-4474-8fa7-967d506de4b2",
+      "part-of-speech": "verb",
+      "english": "to fit; to look after",
+      "norwegian": "passe",
+      "cefr": "A2",
+      "ipa": "[²pɑsːə]",
+      "register": [
+        "All"
+      ],
+      "context": "passe på: to look after, to make sure"
+    },
+    {
+      "id": "187f9f33-975c-48d3-848f-31924ec92909",
+      "part-of-speech": "noun",
+      "english": "software company",
+      "norwegian": "programvareselskap",
+      "cefr": "A2",
+      "ipa": "[pɾʊˈɡɾɑmvɑːɾəˌsɛlskɑp]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "plural": "programvareselskaper"
+    },
+    {
+      "id": "cbfd2c85-92be-48d8-8e69-68819eea8fc2",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "norwegian": "teste",
+      "cefr": "A2",
+      "ipa": "[²tɛstə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "58d27c24-7f53-4dc5-a9da-c44fcb723cbe",
+      "part-of-speech": "noun",
+      "english": "software",
+      "norwegian": "programvare",
+      "cefr": "A2",
+      "ipa": "[pɾʊˈɡɾɑmˌvɑːɾə]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "a44df8fc-d486-43c9-bab8-c8d4c36d21e2",
+      "part-of-speech": "verb",
+      "english": "to work, to function",
+      "norwegian": "fungere",
+      "cefr": "A2",
+      "ipa": "[fʉŋˈɡeːɾə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ec8d5983-19ed-47d5-bac6-420c167c9d7e",
+      "part-of-speech": "adjective",
+      "english": "careful, thorough",
+      "norwegian": "nøye",
+      "cefr": "A2",
+      "ipa": "[²nøʏ̯ə]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "17fa5a19-c13c-4e49-a006-d38bad9c13ce",
+      "part-of-speech": "adjective",
+      "english": "thorough",
+      "norwegian": "grundig",
+      "cefr": "A2",
+      "ipa": "[²ɡɾʉndi]",
       "register": [
         "All"
       ]

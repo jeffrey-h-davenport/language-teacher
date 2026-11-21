@@ -6049,6 +6049,359 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "b0b17974-e8ff-4f0e-bffd-3bafe4262615",
+      "part-of-speech": "pronoun",
+      "english": "his; him",
+      "romanian": "lui",
+      "cefr": "A1",
+      "ipa": "[luj]",
+      "register": [
+        "All"
+      ],
+      "context": "prietenii lui: his friends"
+    },
+    {
+      "id": "d228f1f7-07ad-409a-b5a5-e5c887979722",
+      "part-of-speech": "adverb",
+      "english": "down, below",
+      "romanian": "jos",
+      "cefr": "A1",
+      "ipa": "[ʒos]",
+      "register": [
+        "All"
+      ],
+      "context": "pe jos: on foot"
+    },
+    {
+      "id": "b16ed26a-12ff-4ffb-81dc-0e2becfc530f",
+      "part-of-speech": "verb",
+      "english": "to pass, to go past",
+      "romanian": "trece",
+      "cefr": "A1",
+      "ipa": "[ˈtret͡ʃe]",
+      "register": [
+        "All"
+      ],
+      "context": "trec pe lângă: they go past"
+    },
+    {
+      "id": "e07f018e-9b2c-4497-8d7d-8d9e7a3db649",
+      "part-of-speech": "pronoun",
+      "english": "himself, herself, itself, themselves (reflexive)",
+      "romanian": "se",
+      "cefr": "A2",
+      "ipa": "[se]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9fa8e50a-a50d-424d-8ee5-8d28ab54a473",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "romanian": "opri",
+      "cefr": "A2",
+      "ipa": "[oˈpri]",
+      "register": [
+        "All"
+      ],
+      "context": "a se opri: to stop (oneself)"
+    },
+    {
+      "id": "7ed1a36f-e3f9-4a29-afa5-92b752f3b79d",
+      "part-of-speech": "adverb",
+      "english": "always",
+      "romanian": "mereu",
+      "cefr": "A1",
+      "ipa": "[meˈrew]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a0eaff80-6ae7-4595-afca-9eca7406d88f",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "romanian": "chipsuri",
+      "cefr": "A2",
+      "ipa": "[ˈt͡ʃipsurʲ]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "context": "plural only in everyday use"
+    },
+    {
+      "id": "373cd710-068a-4ea1-a47d-e04c2a94228d",
+      "part-of-speech": "preposition",
+      "english": "toward, to",
+      "romanian": "spre",
+      "cefr": "A2",
+      "ipa": "[spre]",
+      "register": [
+        "All"
+      ],
+      "context": "în drum spre: on the way to"
+    },
+    {
+      "id": "0b25f5f6-3250-4e77-807d-53f7d952763e",
+      "part-of-speech": "pronoun",
+      "english": "(to) himself, herself; his own, her own (reflexive)",
+      "romanian": "își",
+      "cefr": "A2",
+      "ipa": "[ɨʃʲ]",
+      "register": [
+        "All"
+      ],
+      "context": "își iubește câinii: she loves her (own) dogs"
+    },
+    {
+      "id": "310f4ca9-d3bb-40ea-bba5-04af13760eb8",
+      "part-of-speech": "article",
+      "english": "a, an",
+      "romanian": "un",
+      "cefr": "A1",
+      "ipa": "[un]",
+      "register": [
+        "All"
+      ],
+      "context": "feminine o"
+    },
+    {
+      "id": "888aa97e-122f-44dc-bfbc-c7b9a17f3f17",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "romanian": "cățea",
+      "cefr": "A2",
+      "ipa": "[kəˈt͡sea]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "cățele"
+    },
+    {
+      "id": "1fe375a8-f335-4b82-b5e1-77b2fb21bd98",
+      "part-of-speech": "noun",
+      "english": "fur",
+      "romanian": "blană",
+      "cefr": "A2",
+      "ipa": "[ˈblanə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "blănuri"
+    },
+    {
+      "id": "b7717b82-9760-47d7-bf2a-59284c9cc44b",
+      "part-of-speech": "adverb",
+      "english": "more; still",
+      "romanian": "mai",
+      "cefr": "A1",
+      "ipa": "[maj]",
+      "register": [
+        "All"
+      ],
+      "context": "mai tânără: younger"
+    },
+    {
+      "id": "510104ad-68e4-4e1e-936f-3982b5e18e0d",
+      "part-of-speech": "conjunction",
+      "english": "than",
+      "romanian": "decât",
+      "cefr": "A1",
+      "ipa": "[deˈkɨt]",
+      "register": [
+        "All"
+      ],
+      "context": "mai tânără decât: younger than"
+    },
+    {
+      "id": "6cc7ace2-45fd-4930-b1c5-4b2e6664912e",
+      "part-of-speech": "preposition",
+      "english": "as, like",
+      "romanian": "ca",
+      "cefr": "A1",
+      "ipa": "[ka]",
+      "register": [
+        "All"
+      ],
+      "context": "lucrează ca asistentă: works as a nurse"
+    },
+    {
+      "id": "9dca2f8c-6e05-4dd6-a5f5-f95b3a2c369d",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "romanian": "asistentă medicală",
+      "cefr": "A1",
+      "ipa": "[asisˈtentə mediˈkalə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "asistente medicale",
+      "context": "masculine: asistent medical"
+    },
+    {
+      "id": "be6e2a6e-0f6e-4069-816e-4cb4b73d326b",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "romanian": "pacient",
+      "cefr": "A2",
+      "ipa": "[pat͡ʃiˈent]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "pacienți"
+    },
+    {
+      "id": "6b7439b2-30b8-42b9-ad3c-707e275f2c68",
+      "part-of-speech": "conjunction",
+      "english": "to, that (before a verb)",
+      "romanian": "să",
+      "cefr": "A1",
+      "ipa": "[sə]",
+      "register": [
+        "All"
+      ],
+      "context": "vreau să merg: I want to go"
+    },
+    {
+      "id": "b4935580-44fe-49a3-a1f0-9307ffa31d7f",
+      "part-of-speech": "noun",
+      "english": "care, worry",
+      "romanian": "grijă",
+      "cefr": "A2",
+      "ipa": "[ˈɡriʒə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "context": "a avea grijă: to take care"
+    },
+    {
+      "id": "1d94c356-1bce-4124-80fa-2e111c1fbd92",
+      "part-of-speech": "noun",
+      "english": "company, firm",
+      "romanian": "firmă",
+      "cefr": "A2",
+      "ipa": "[ˈfirmə]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "firme"
+    },
+    {
+      "id": "395efaf9-a3a7-45d0-b9ce-eff962657b3e",
+      "part-of-speech": "preposition",
+      "english": "of, from; for",
+      "romanian": "de",
+      "cefr": "A1",
+      "ipa": "[de]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19d6317e-5a76-4536-a35e-c2a54e80b893",
+      "part-of-speech": "noun",
+      "english": "software",
+      "romanian": "software",
+      "cefr": "A2",
+      "ipa": "[ˈsoftwer]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter"
+    },
+    {
+      "id": "9f495ea8-c6e9-4a62-9715-f3e43af66016",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "romanian": "testa",
+      "cefr": "A2",
+      "ipa": "[tesˈta]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4efd1667-cbf3-4787-8ff4-8d18abf73494",
+      "part-of-speech": "noun",
+      "english": "program",
+      "romanian": "program",
+      "cefr": "A2",
+      "ipa": "[proˈɡram]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "plural": "programe"
+    },
+    {
+      "id": "6097719d-b7e4-4d6f-a4a9-957cc51c024a",
+      "part-of-speech": "verb",
+      "english": "to make sure, to ensure",
+      "romanian": "asigura",
+      "cefr": "A2",
+      "ipa": "[asiɡuˈra]",
+      "register": [
+        "All"
+      ],
+      "context": "a se asigura că: to make sure that"
+    },
+    {
+      "id": "d8fbd47a-3a3a-4428-b613-3e8ba6a82270",
+      "part-of-speech": "verb",
+      "english": "to work, to function",
+      "romanian": "funcționa",
+      "cefr": "A2",
+      "ipa": "[funkt͡sjoˈna]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "4689b1e2-c201-4895-8c61-302f5bbac0b1",
+      "part-of-speech": "adverb",
+      "english": "before; forward",
+      "romanian": "înainte",
+      "cefr": "A1",
+      "ipa": "[ɨnaˈinte]",
+      "register": [
+        "All"
+      ],
+      "context": "înainte să: before (doing)"
+    },
+    {
+      "id": "78618860-198b-4201-a9ed-336b957bc94c",
+      "part-of-speech": "adjective",
+      "english": "careful, attentive",
+      "romanian": "atent",
+      "cefr": "A2",
+      "ipa": "[aˈtent]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "6c0b61e2-3c1e-45f9-b423-4bec2a17c952",
+      "part-of-speech": "noun",
+      "english": "detail",
+      "romanian": "detaliu",
+      "cefr": "A2",
+      "ipa": "[deˈtalju]",
+      "register": [
+        "All"
+      ],
+      "gender": "neuter",
+      "plural": "detalii",
+      "context": "în detaliu: in detail"
     }
   ]
 }

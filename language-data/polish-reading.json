@@ -1,0 +1,292 @@
+{
+  "meta": {
+    "language": "Polish",
+    "languageCode": "pl",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "W piątki chodzi do szkoły z kolegami. Idą do szkoły pieszo obok sklepu. Zawsze się tam zatrzymują i kupują napoje gazowane i chipsy. Jedzą i piją w drodze do szkoły.",
+      "questions": [
+        {
+          "question": "Kiedy chodzi do szkoły z kolegami?",
+          "choices": [
+            "W poniedziałki",
+            "W piątki",
+            "W niedziele",
+            "Codziennie"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Jak chodzą do szkoły?",
+          "choices": [
+            "Autobusem",
+            "Samochodem",
+            "Rowerem",
+            "Pieszo"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Co kupują w sklepie?",
+          "choices": [
+            "Napoje gazowane i chipsy",
+            "Chleb i mleko",
+            "Owoce i sok",
+            "Kawę i ciasto"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Gdzie jedzą i piją?",
+          "choices": [
+            "W szkole",
+            "W domu",
+            "W drodze do szkoły",
+            "W sklepie"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "w": "746535d8-b73e-4a44-a8e7-8be1e3d3706b",
+        "piątki": "7644e853-dd7d-41df-894e-7b3827dd8ac1",
+        "chodzi": "8a32f43e-3de6-4cd8-b09d-f62a6ba10ef3",
+        "do": "f9120e44-2374-45ff-85e0-3bd50cf8aa9f",
+        "szkoły": "c2063f4e-b97e-4f0c-9e59-afe0d9893935",
+        "z": "a70d4063-e120-4875-82bc-87d2cd8f5ba1",
+        "kolegami": "3d2ae3c5-c0fb-4e3d-9a4b-357d4c5748d2",
+        "idą": "96ed4889-7cf5-4dee-aa4b-c85b470fb462",
+        "pieszo": "6c2ac65a-03cf-4d41-9d20-c6157f23ae37",
+        "obok": "8c8f3f4a-101f-458f-9099-f6f14d8ca435",
+        "sklepu": "a5238bcf-76e8-4159-9bfb-d2e4c183b4dc",
+        "zawsze": "78f02c3d-e60a-40e2-b13e-1c5ba2a9f12e",
+        "się": "94f88890-a1c0-4561-a6a9-a571bc477fc6",
+        "tam": "ec24ec65-c5c0-4c9b-98ff-033ff3b84e12",
+        "zatrzymują": "3c180fe7-6714-4993-8146-94231ce85a5a",
+        "i": "7e8ff1d2-0dca-418f-b74b-eecda285500f",
+        "kupują": "a67640b3-722d-4d0a-b12b-c9eacdab1420",
+        "napoje": "abd498b6-7430-4b40-b9ca-7c110566d285",
+        "gazowane": "a4166930-fd62-4c09-bb3b-3a30a3e4626e",
+        "chipsy": "da8029b2-f68a-46d9-acf2-d95ed4212ea6",
+        "jedzą": "e485cebf-7fd2-42b7-a577-f549e573f518",
+        "piją": "16e229d8-8310-4635-a5cb-63863b57ce7e",
+        "drodze": "6cd07e73-2097-4571-9ca1-f7bbc27c9ac5"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Ona kocha swoje psy. Ma dużą sukę z długą białą sierścią. Ma też małego psa z krótką brązową sierścią. Suka jest młodsza od psa.",
+      "questions": [
+        {
+          "question": "Ile ma psów?",
+          "choices": [
+            "Jednego",
+            "Trzy",
+            "Dwa",
+            "Cztery"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Jakiego koloru jest sierść suki?",
+          "choices": [
+            "Biała",
+            "Brązowa",
+            "Czarna",
+            "Szara"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Jaki jest pies?",
+          "choices": [
+            "Duży, z długą białą sierścią",
+            "Mały, z długą białą sierścią",
+            "Duży, z krótką brązową sierścią",
+            "Mały, z krótką brązową sierścią"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Który z nich jest młodszy?",
+          "choices": [
+            "Pies",
+            "Suka",
+            "Są w tym samym wieku",
+            "Nie wiadomo"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "ona": "4fc0e2ac-d6de-48fe-a3c2-048c6b06821e",
+        "kocha": "82fbed09-afda-4bf8-a12c-a796cc3c967d",
+        "swoje": "7b6bd6b7-f733-41b8-8f01-b8da7798565b",
+        "psy": "8d06b1cd-68a8-4c7e-a348-35847ad1f497",
+        "ma": "8f8103a1-c06a-417e-a12c-24ed9ba0648d",
+        "dużą": "23e81616-2e0c-45fa-a8b5-0b5f76af29e2",
+        "sukę": "c1208a09-e775-4dc2-9d52-59a9fd8b47b8",
+        "z": "a70d4063-e120-4875-82bc-87d2cd8f5ba1",
+        "długą": "67e64c52-051c-4055-bad7-3b0acbbae05e",
+        "białą": "86d0634d-1855-42ce-ad10-486d9e1a85e8",
+        "sierścią": "d346d314-e707-4f2e-ace7-2657c0ae30dd",
+        "też": "51e82e2e-19cb-4529-b73c-f59cfad03c47",
+        "małego": "d65982ba-b925-4696-a9b3-9751bccf602d",
+        "psa": "8d06b1cd-68a8-4c7e-a348-35847ad1f497",
+        "krótką": "97686e54-b28c-44ef-8da3-23e004ea8f64",
+        "brązową": "69179af4-792a-4cea-90ab-bee75626d279",
+        "suka": "c1208a09-e775-4dc2-9d52-59a9fd8b47b8",
+        "jest": "7633f07d-da45-4963-8b49-abc41d3f8876",
+        "młodsza": "5d2049c4-cb42-47dd-bb04-90ea53db8369",
+        "od": "73043d3c-61db-43af-8f8e-950e8aa7e81e"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Ich mama pracuje w szpitalu jako pielęgniarka. Pomaga ludziom, którzy są chorzy. Pracuje z lekarzami, żeby pacjenci wyzdrowieli. Pilnuje, żeby pacjenci brali leki.",
+      "questions": [
+        {
+          "question": "Gdzie pracuje ich mama?",
+          "choices": [
+            "W szkole",
+            "W sklepie",
+            "W banku",
+            "W szpitalu"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Kim jest z zawodu?",
+          "choices": [
+            "Lekarką",
+            "Pielęgniarką",
+            "Nauczycielką",
+            "Kucharką"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Z kim pracuje?",
+          "choices": [
+            "Z nauczycielami",
+            "Z inżynierami",
+            "Z lekarzami",
+            "Z policjantami"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Czego pilnuje?",
+          "choices": [
+            "Żeby pacjenci brali leki",
+            "Żeby pacjenci jedli śniadanie",
+            "Żeby lekarze przychodzili na czas",
+            "Żeby w szpitalu było czysto"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "ich": "caf31326-503f-4d9b-aa2e-9ff73d905eb7",
+        "mama": "894792f6-3968-4cc0-8eec-166f84e9dab0",
+        "pracuje": "96620abf-2189-4255-b578-101406b9d4a9",
+        "w": "746535d8-b73e-4a44-a8e7-8be1e3d3706b",
+        "szpitalu": "29d2edd8-a097-416d-8f70-ccd13ea4e772",
+        "jako": "ed1fccc0-82dc-40b4-86bc-47d2e6417ad7",
+        "pielęgniarka": "54112979-0fba-456f-ad6b-9aa26efc9a0e",
+        "pomaga": "396cfb56-94d8-4d1b-a669-72bc7f7e1eaa",
+        "ludziom": "be921591-1ca9-4aff-9c87-0d51eaa42293",
+        "którzy": "88543e16-cf01-4efe-b0db-e03f03b53d63",
+        "są": "7633f07d-da45-4963-8b49-abc41d3f8876",
+        "chorzy": "fbc1c239-f200-4a84-a6a3-05e9e4939bc3",
+        "z": "a70d4063-e120-4875-82bc-87d2cd8f5ba1",
+        "lekarzami": "a9bf7fe6-0cb8-45c9-a543-8c3b88aeac82",
+        "żeby": "09b0a4a6-3290-4710-b34b-a660da488aa0",
+        "pacjenci": "14c36bc2-b96b-48a8-ae28-b47fb41bf43c",
+        "wyzdrowieli": "3e25caf9-2e80-4d0d-8b29-84f276d9e715",
+        "pilnuje": "9a2b5066-7a57-4e9e-9d11-7a9394003b16",
+        "brali": "c40faeb2-3d64-45b4-b278-1f9263cca05e",
+        "leki": "88318ef1-864b-4118-84ee-145e7e9d3f6e"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Ich tata pracuje w firmie, która robi oprogramowanie. Testuje oprogramowanie. Sprawdza, czy program działa prawidłowo, zanim ludzie zaczną go używać. Jest bardzo staranny i dokładnie testuje oprogramowanie.",
+      "questions": [
+        {
+          "question": "Gdzie pracuje ich tata?",
+          "choices": [
+            "W firmie, która robi oprogramowanie",
+            "W szpitalu",
+            "W szkole",
+            "W sklepie"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Co robi?",
+          "choices": [
+            "Sprzedaje komputery",
+            "Naprawia samochody",
+            "Testuje oprogramowanie",
+            "Uczy w szkole"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kiedy testuje oprogramowanie?",
+          "choices": [
+            "Kiedy ludzie już go używają",
+            "Zanim ludzie zaczną go używać",
+            "Tylko w piątki",
+            "W nocy"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Jak testuje oprogramowanie?",
+          "choices": [
+            "Szybko i niedbale",
+            "Tylko czasami",
+            "Ze swoimi dziećmi",
+            "Bardzo starannie i dokładnie"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "ich": "caf31326-503f-4d9b-aa2e-9ff73d905eb7",
+        "tata": "33e2e017-d87d-4ae5-bcae-5031a7b481ce",
+        "pracuje": "96620abf-2189-4255-b578-101406b9d4a9",
+        "w": "746535d8-b73e-4a44-a8e7-8be1e3d3706b",
+        "firmie": "172a7d12-af6d-432b-87b2-1a3d48271a4f",
+        "która": "88543e16-cf01-4efe-b0db-e03f03b53d63",
+        "robi": "14c20580-37a7-45a2-9734-7c9619c8050a",
+        "oprogramowanie": "e71c2e0e-363a-4f50-a0a2-00cc6cd077f6",
+        "testuje": "3fb4d7df-a83a-453a-8072-2a53abc35697",
+        "sprawdza": "c805d16a-9638-4ffa-b820-c7a39ea1a9dc",
+        "czy": "cf774852-447b-4266-8fc7-02e9bcfa7074",
+        "program": "2eac401f-869e-4b4d-9f45-edc163c02adc",
+        "działa": "64862f7f-b28e-4fd8-a0a5-c678671dfc72",
+        "prawidłowo": "883a3e9c-016c-4c5f-8429-0cdd1bd9d951",
+        "zanim": "0d5225a1-ceda-4105-a2cf-66dcf2d26f78",
+        "ludzie": "be921591-1ca9-4aff-9c87-0d51eaa42293",
+        "zaczną": "1d6e1593-a358-4b37-8a1b-4c5f480ec504",
+        "go": "20bbf18b-e5fb-483f-b02f-d7af00924809",
+        "używać": "7cb4b488-8964-4324-b099-78c74f60f708",
+        "jest": "7633f07d-da45-4963-8b49-abc41d3f8876",
+        "bardzo": "ff461e1e-0b02-4e63-a24c-00653fdbc893",
+        "staranny": "314143a2-3ca8-478f-b202-f4c02f111417",
+        "i": "7e8ff1d2-0dca-418f-b74b-eecda285500f",
+        "dokładnie": "01f5e11f-4c0b-4399-b319-a882c3b4ae34"
+      }
+    }
+  ]
+}

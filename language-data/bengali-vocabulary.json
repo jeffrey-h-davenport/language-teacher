@@ -5062,6 +5062,380 @@
       "register": [
         "All"
       ]
+    },
+    {
+      "id": "3e9874cb-e3b8-4a9e-b204-fdb99aef1857",
+      "part-of-speech": "adjective",
+      "english": "every, each",
+      "bengali": "প্রতি",
+      "cefr": "A1",
+      "ipa": "[ˈprot̪i]",
+      "register": [
+        "All"
+      ],
+      "context": "প্রতি শুক্রবার: every Friday"
+    },
+    {
+      "id": "748c4f15-8231-439a-a2d4-e911dc7fb86f",
+      "part-of-speech": "postposition",
+      "english": "with",
+      "bengali": "সঙ্গে",
+      "cefr": "A1",
+      "ipa": "[ˈʃɔŋɡe]",
+      "register": [
+        "All"
+      ],
+      "context": "বন্ধুদের সঙ্গে: with friends"
+    },
+    {
+      "id": "b64d55fc-420b-4941-aa4a-f2dcbac383ce",
+      "part-of-speech": "postposition",
+      "english": "past, by",
+      "bengali": "পাশ দিয়ে",
+      "cefr": "A2",
+      "ipa": "[ˈpaʃ ˈd̪ie]",
+      "register": [
+        "All"
+      ],
+      "context": "দোকানের পাশ দিয়ে: past the store"
+    },
+    {
+      "id": "ce3df903-20a3-4c94-a1a8-2dd9c88f22fb",
+      "part-of-speech": "adverb",
+      "english": "there",
+      "bengali": "সেখানে",
+      "cefr": "A1",
+      "ipa": "[ˈʃekʰane]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b00a9388-9a23-447b-85e5-f439cafd9071",
+      "part-of-speech": "verb",
+      "english": "to stop",
+      "bengali": "থামা",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ʰama]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd78ff02-6116-4065-943f-7c15f20e3349",
+      "part-of-speech": "noun",
+      "english": "soda",
+      "bengali": "সোডা",
+      "cefr": "A2",
+      "ipa": "[ˈʃoɖa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2c440a61-9586-47ab-b9bd-9cf0bd3dbaf3",
+      "part-of-speech": "conjunction",
+      "english": "and; also",
+      "bengali": "ও",
+      "cefr": "A1",
+      "ipa": "[o]",
+      "register": [
+        "All"
+      ],
+      "context": "joined to a word it means \"also\": কুকুরও, a dog too"
+    },
+    {
+      "id": "3e4612ed-029b-46bf-8a76-3a6b7ce5b4c2",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "bengali": "চিপস",
+      "cefr": "A2",
+      "ipa": "[ˈtʃips]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "7a50701d-c37a-4282-8611-85d6bf65a785",
+      "part-of-speech": "verb",
+      "english": "to drink",
+      "bengali": "পান করা",
+      "cefr": "A2",
+      "ipa": "[ˈpan ˈkɔra]",
+      "register": [
+        "All"
+      ],
+      "context": "more formal than খাওয়া for drinks"
+    },
+    {
+      "id": "e8606174-9055-488e-996b-d7f26ec3cbd2",
+      "part-of-speech": "pronoun",
+      "english": "his, her",
+      "bengali": "তার",
+      "cefr": "A1",
+      "ipa": "[t̪ar]",
+      "register": [
+        "All"
+      ],
+      "context": "polite: তাঁর"
+    },
+    {
+      "id": "6e8d1f72-d962-42fb-bd41-55a774c1a20b",
+      "part-of-speech": "adjective",
+      "english": "one, a",
+      "bengali": "একটা",
+      "cefr": "A1",
+      "ipa": "[ˈækʈa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d1f2cf90-8567-472e-8008-68129b6a0407",
+      "part-of-speech": "verb",
+      "english": "there is, has",
+      "bengali": "আছে",
+      "cefr": "A1",
+      "ipa": "[ˈatʃʰe]",
+      "register": [
+        "All"
+      ],
+      "context": "তার একটা কুকুর আছে: she has a dog"
+    },
+    {
+      "id": "378bfe60-5aca-452e-a2ce-ed9546501bdd",
+      "part-of-speech": "pronoun",
+      "english": "whose",
+      "bengali": "যার",
+      "cefr": "A2",
+      "ipa": "[dʒar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "0abb7933-da76-4c5c-ad1d-e60e61a4f26e",
+      "part-of-speech": "noun",
+      "english": "fur, body hair",
+      "bengali": "লোম",
+      "cefr": "A2",
+      "ipa": "[lom]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e3687942-f38f-4109-8412-5a9695f78425",
+      "part-of-speech": "postposition",
+      "english": "than",
+      "bengali": "চেয়ে",
+      "cefr": "A1",
+      "ipa": "[ˈtʃee]",
+      "register": [
+        "All"
+      ],
+      "context": "তার চেয়ে ছোট: smaller than that"
+    },
+    {
+      "id": "48a5cd29-556a-4988-809b-cf6b59b6b7b6",
+      "part-of-speech": "noun",
+      "english": "age",
+      "bengali": "বয়স",
+      "cefr": "A1",
+      "ipa": "[ˈbɔeʃ]",
+      "register": [
+        "All"
+      ],
+      "context": "বয়সে ছোট: younger"
+    },
+    {
+      "id": "10b83851-aa15-4562-b4a0-7acffbb35e8e",
+      "part-of-speech": "pronoun",
+      "english": "their; them",
+      "bengali": "তাদের",
+      "cefr": "A1",
+      "ipa": "[ˈt̪ad̪er]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5b56c65d-f778-4748-9449-ab2d465837a8",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "bengali": "নার্স",
+      "cefr": "A1",
+      "ipa": "[nars]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e5dceeba-87d7-4eb1-992c-d926cc2274dd",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "bengali": "রোগী",
+      "cefr": "A2",
+      "ipa": "[ˈroɡi]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b9f99d61-df33-466d-a900-d4209a587c0b",
+      "part-of-speech": "conjunction",
+      "english": "so that",
+      "bengali": "যাতে",
+      "cefr": "A2",
+      "ipa": "[ˈdʒat̪e]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "a73cf01c-e250-4b39-9ad8-610d2f313a9d",
+      "part-of-speech": "adjective",
+      "english": "healthy, well",
+      "bengali": "সুস্থ",
+      "cefr": "A2",
+      "ipa": "[ˈʃust̪ʰo]",
+      "register": [
+        "All"
+      ],
+      "context": "সুস্থ হওয়া: to get well"
+    },
+    {
+      "id": "0e906ceb-3bd6-49b4-afce-22546cd7af31",
+      "part-of-speech": "adverb",
+      "english": "for that reason, that's why",
+      "bengali": "সেজন্য",
+      "cefr": "A2",
+      "ipa": "[ˈʃedʒonːo]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "9bc53706-e856-4c0b-8280-61cab53dfe5f",
+      "part-of-speech": "conjunction",
+      "english": "so that; as if",
+      "bengali": "যেন",
+      "cefr": "A2",
+      "ipa": "[ˈdʒæno]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "55b6e50b-4507-4dd6-8f20-adf32800d0f4",
+      "part-of-speech": "adverb",
+      "english": "that way; to that",
+      "bengali": "সেদিকে",
+      "cefr": "A2",
+      "ipa": "[ˈʃed̪ike]",
+      "register": [
+        "All"
+      ],
+      "context": "সেদিকে খেয়াল রাখা: to see to it"
+    },
+    {
+      "id": "f4bd9418-618a-46ef-802d-c100cc1c2e2a",
+      "part-of-speech": "verb",
+      "english": "to keep an eye on, to make sure",
+      "bengali": "খেয়াল রাখা",
+      "cefr": "A2",
+      "ipa": "[ˈkʰeal ˈrakʰa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b591860e-647d-48cd-9dfa-c54d85c70926",
+      "part-of-speech": "noun",
+      "english": "software",
+      "bengali": "সফটওয়্যার",
+      "cefr": "A2",
+      "ipa": "[ˈʃɔfʈoe̯ar]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "5949724c-4543-4c8c-9317-1578f853cfcf",
+      "part-of-speech": "noun",
+      "english": "company",
+      "bengali": "কোম্পানি",
+      "cefr": "A2",
+      "ipa": "[ˈkompani]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "3edbb536-7c85-442a-9297-4ac19786c7c9",
+      "part-of-speech": "verb",
+      "english": "to make sure",
+      "bengali": "নিশ্চিত করা",
+      "cefr": "A2",
+      "ipa": "[ˈniʃtʃit̪ ˈkɔra]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "00ae8232-e7a8-466f-ab1e-9c2b78c502cf",
+      "part-of-speech": "adverb",
+      "english": "properly, correctly",
+      "bengali": "ঠিকমতো",
+      "cefr": "A2",
+      "ipa": "[ˈʈʰikmɔt̪o]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d67712a6-5618-402a-a0d3-72fba3e259f6",
+      "part-of-speech": "verb",
+      "english": "to run, to work; to walk",
+      "bengali": "চলা",
+      "cefr": "A2",
+      "ipa": "[ˈtʃɔla]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "508ff48f-e656-4a52-bc7b-0974650f8dc7",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "bengali": "সাবধানী",
+      "cefr": "A2",
+      "ipa": "[ˈʃabd̪ʱani]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "93b0be20-f0d3-45df-ace1-c2bf7fcdbcc2",
+      "part-of-speech": "adverb",
+      "english": "closely, in detail",
+      "bengali": "খুঁটিয়ে",
+      "cefr": "A2",
+      "ipa": "[ˈkʰũʈie]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "cd7b5ef2-7c19-43c0-ad23-882dd63a4131",
+      "part-of-speech": "verb",
+      "english": "to test, to examine",
+      "bengali": "পরীক্ষা করা",
+      "cefr": "A2",
+      "ipa": "[ˈporikkʰa ˈkɔra]",
+      "register": [
+        "All"
+      ]
     }
   ]
 }

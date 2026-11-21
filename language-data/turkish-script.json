@@ -1,8 +1,7 @@
 {
-  "scriptName": "Turkish Pronunciation",
-  "buttonLabel": "Pronunciation Guide",
+  "scriptName": "Turkish Language",
   "generated": "pronunciation",
-  "intro": "How Turkish is pronounced — the main spelling rules, and a key to the symbols in the pronunciations.",
+  "intro": "How Turkish is pronounced and how it works: the spelling rules and a key to the symbols in the pronunciations, then the grammar basics — vowel harmony, suffixes, the cases, possession, and the verbs.",
   "sections": [
     {
       "heading": "About the pronunciations",
@@ -140,6 +139,485 @@
           "note": "the sound before it is long"
         }
       ]
+    },
+    {
+      "heading": "How Turkish grammar works",
+      "text": [
+        "Turkish builds words by adding suffixes one after another, each with one job: ev (house) → evler (houses) → evlerim (my houses) → evlerimde (in my houses).",
+        "There is no grammatical gender (o means he, she and it) and no word for \"the\"; bir (one) works as \"a\".",
+        "The verb comes last: Ben kahve içiyorum. (I'm drinking coffee — literally \"I coffee drinking-am\"). Prepositions come after the noun, as postpositions: benim için (for me).",
+        "Two sound rules shape every suffix: vowel harmony chooses the suffix's vowel, and some consonants change at the joins."
+      ]
+    },
+    {
+      "heading": "Vowel harmony",
+      "text": "A suffix's vowel copies the last vowel of the word. Suffixes come in two patterns: two-way (e or a) and four-way (i, ı, ü or u).",
+      "table": {
+        "columns": [
+          "Last vowel in the word",
+          "Two-way suffix (e/a)",
+          "Four-way suffix (i/ı/ü/u)",
+          "Examples"
+        ],
+        "rows": [
+          [
+            "e, i",
+            "e",
+            "i",
+            "evler, evi (houses, the house — accusative)"
+          ],
+          [
+            "ö, ü",
+            "e",
+            "ü",
+            "gözler, gözü (eyes, the eye)"
+          ],
+          [
+            "a, ı",
+            "a",
+            "ı",
+            "kızlar, kızı (girls, the girl)"
+          ],
+          [
+            "o, u",
+            "a",
+            "u",
+            "okullar, okulu (schools, the school)"
+          ]
+        ],
+        "note": "Some loanwords break the pattern, and a few suffixes never change (-ken, -yor, -ki)."
+      }
+    },
+    {
+      "heading": "Consonant changes",
+      "text": [
+        "After the voiceless consonants f, s, t, k, ç, ş, h, p, a suffix starting with d or c switches to t or ç: evde (in the house) but kitapta (in the book); geldi (came) but gitti (went).",
+        "At the end of many words, p, ç, t and k soften to b, c, d and ğ before a suffix starting with a vowel: kitap → kitabı, ağaç → ağacı, renk → rengi, çocuk → çocuğu. One-syllable words usually don't change: top → topu.",
+        "When two vowels would meet, a buffer letter goes between them: y in most suffixes (araba → arabaya, to the car), s for 'his, her, its' (araba → arabası), n before case endings after that (arabasında)."
+      ]
+    },
+    {
+      "heading": "The cases",
+      "text": "Endings shown on ev (house) and okul (school). Each follows vowel harmony and the consonant rules above.",
+      "table": {
+        "columns": [
+          "Case",
+          "Ending",
+          "Main uses",
+          "Example"
+        ],
+        "rows": [
+          [
+            "Nominative",
+            "—",
+            "the subject; an indefinite object",
+            "Ev büyük. (The house is big.) Kitap okuyorum. (I'm reading [a] book.)"
+          ],
+          [
+            "Accusative",
+            "-(y)i, -ı, -ü, -u",
+            "a specific (definite) direct object",
+            "Evi gördüm. (I saw the house.)"
+          ],
+          [
+            "Dative",
+            "-(y)e, -a",
+            "to, toward; indirect object",
+            "eve (to the house), okula (to school)"
+          ],
+          [
+            "Locative",
+            "-de, -da, -te, -ta",
+            "in, on, at",
+            "evde (at home), okulda (at school)"
+          ],
+          [
+            "Ablative",
+            "-den, -dan, -ten, -tan",
+            "from, out of; than",
+            "evden (from home), okuldan (from school)"
+          ],
+          [
+            "Genitive",
+            "-(n)in, -ın, -ün, -un",
+            "of, 's (the owner)",
+            "evin kapısı (the house's door)"
+          ],
+          [
+            "Instrumental",
+            "-(y)le, -la (or ile)",
+            "with, by",
+            "arkadaşımla (with my friend), otobüsle (by bus)"
+          ]
+        ],
+        "note": "The accusative is the key difference from English: use it only when the object is specific. Bir kitap okudum. (I read a book.) Kitabı okudum. (I read the book.)"
+      }
+    },
+    {
+      "heading": "Plural",
+      "text": "Add -ler or -lar: ev → evler, kitap → kitaplar. After a number, the noun stays singular: iki kitap (two books), çok ev (many houses)."
+    },
+    {
+      "heading": "Possessive suffixes",
+      "text": "\"My house\" is ev + -im: evim. The pronoun (benim, my) is optional and adds emphasis.",
+      "table": {
+        "columns": [
+          "Person",
+          "After a consonant",
+          "After a vowel",
+          "Example"
+        ],
+        "rows": [
+          [
+            "my",
+            "-im, -ım, -üm, -um",
+            "-m",
+            "evim, arabam"
+          ],
+          [
+            "your",
+            "-in, -ın, -ün, -un",
+            "-n",
+            "evin, araban"
+          ],
+          [
+            "his, her, its",
+            "-i, -ı, -ü, -u",
+            "-si, -sı, -sü, -su",
+            "evi, arabası"
+          ],
+          [
+            "our",
+            "-imiz, -ımız …",
+            "-miz, -mız …",
+            "evimiz, arabamız"
+          ],
+          [
+            "your (plural, polite)",
+            "-iniz, -ınız …",
+            "-niz, -nız …",
+            "eviniz, arabanız"
+          ],
+          [
+            "their",
+            "-leri, -ları",
+            "-leri, -ları",
+            "evleri, arabaları"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Noun + noun: the possessive compound",
+      "text": [
+        "Two nouns join with the possessive suffix on the second one: ev kapısı (house door), Türk kahvesi (Turkish coffee), otobüs durağı (bus stop).",
+        "With a specific owner, the first noun also takes the genitive: Ali'nin evi (Ali's house), evin kapısı (the door of the house)."
+      ]
+    },
+    {
+      "heading": "Personal pronouns",
+      "table": {
+        "columns": [
+          "Pronoun",
+          "Accusative (me)",
+          "Dative (to me)",
+          "Locative (on me)",
+          "Ablative (from me)",
+          "Genitive (my)"
+        ],
+        "rows": [
+          [
+            "ben (I)",
+            "beni",
+            "bana",
+            "bende",
+            "benden",
+            "benim"
+          ],
+          [
+            "sen (you)",
+            "seni",
+            "sana",
+            "sende",
+            "senden",
+            "senin"
+          ],
+          [
+            "o (he, she, it)",
+            "onu",
+            "ona",
+            "onda",
+            "ondan",
+            "onun"
+          ],
+          [
+            "biz (we)",
+            "bizi",
+            "bize",
+            "bizde",
+            "bizden",
+            "bizim"
+          ],
+          [
+            "siz (you, plural or polite)",
+            "sizi",
+            "size",
+            "sizde",
+            "sizden",
+            "sizin"
+          ],
+          [
+            "onlar (they)",
+            "onları",
+            "onlara",
+            "onlarda",
+            "onlardan",
+            "onların"
+          ]
+        ],
+        "note": "Pronouns are often left out, since the verb ending shows the person: Geliyorum. (I'm coming.)"
+      }
+    },
+    {
+      "heading": "\"To be\": personal endings",
+      "text": "Turkish has no separate verb \"to be\" in the present. A suffix on the noun or adjective does the job.",
+      "table": {
+        "columns": [
+          "Person",
+          "Ending",
+          "Example"
+        ],
+        "rows": [
+          [
+            "ben",
+            "-(y)im, -ım, -üm, -um",
+            "Öğretmenim. (I'm a teacher.) Yorgunum. (I'm tired.)"
+          ],
+          [
+            "sen",
+            "-sin, -sın, -sün, -sun",
+            "Yorgunsun. (You're tired.)"
+          ],
+          [
+            "o",
+            "— (formal: -dir)",
+            "O doktor. (He's a doctor.)"
+          ],
+          [
+            "biz",
+            "-(y)iz, -ız, -üz, -uz",
+            "Hazırız. (We're ready.)"
+          ],
+          [
+            "siz",
+            "-siniz, -sınız …",
+            "Türk müsünüz? (Are you Turkish?)"
+          ],
+          [
+            "onlar",
+            "-ler, -lar (often left off)",
+            "Evdeler. (They're at home.)"
+          ]
+        ],
+        "note": "Negative: değil + the ending: Yorgun değilim. (I'm not tired.)"
+      }
+    },
+    {
+      "heading": "var and yok: there is, to have",
+      "text": "var means \"there is, exists\" and yok \"there isn't\". With a possessive, they mean \"have\" and \"don't have\".",
+      "table": {
+        "columns": [
+          "Turkish",
+          "English"
+        ],
+        "rows": [
+          [
+            "Burada bir kafe var.",
+            "There's a café here."
+          ],
+          [
+            "Ekmek yok.",
+            "There's no bread."
+          ],
+          [
+            "Benim bir kardeşim var.",
+            "I have a brother or sister."
+          ],
+          [
+            "Arabam yok.",
+            "I don't have a car."
+          ],
+          [
+            "Vaktin var mı?",
+            "Do you have time?"
+          ]
+        ]
+      }
+    },
+    {
+      "heading": "Verbs: the basic form",
+      "text": [
+        "The dictionary form ends in -mek or -mak: gelmek (to come), yapmak (to do). Drop it to get the stem: gel-, yap-.",
+        "Tense, negation, question and person are added to the stem in a fixed order: gel + me + di + m = gelmedim (I didn't come)."
+      ]
+    },
+    {
+      "heading": "Present continuous: -iyor",
+      "text": "The most-used present tense: what you're doing now or these days. Add -(i)yor (the vowel follows the four-way harmony) and the personal ending.",
+      "table": {
+        "columns": [
+          "Person",
+          "gelmek (come)",
+          "yapmak (do)",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "ben",
+            "geliyorum",
+            "yapıyorum",
+            "gelmiyorum"
+          ],
+          [
+            "sen",
+            "geliyorsun",
+            "yapıyorsun",
+            "gelmiyorsun"
+          ],
+          [
+            "o",
+            "geliyor",
+            "yapıyor",
+            "gelmiyor"
+          ],
+          [
+            "biz",
+            "geliyoruz",
+            "yapıyoruz",
+            "gelmiyoruz"
+          ],
+          [
+            "siz",
+            "geliyorsunuz",
+            "yapıyorsunuz",
+            "gelmiyorsunuz"
+          ],
+          [
+            "onlar",
+            "geliyorlar",
+            "yapıyorlar",
+            "gelmiyorlar"
+          ]
+        ],
+        "note": "A stem ending in a vowel drops it: beklemek → bekliyorum (I'm waiting), anlamak → anlıyorum (I understand)."
+      }
+    },
+    {
+      "heading": "Past tense: -di",
+      "table": {
+        "columns": [
+          "Person",
+          "gelmek (come)",
+          "gitmek (go)",
+          "Negative"
+        ],
+        "rows": [
+          [
+            "ben",
+            "geldim",
+            "gittim",
+            "gelmedim"
+          ],
+          [
+            "sen",
+            "geldin",
+            "gittin",
+            "gelmedin"
+          ],
+          [
+            "o",
+            "geldi",
+            "gitti",
+            "gelmedi"
+          ],
+          [
+            "biz",
+            "geldik",
+            "gittik",
+            "gelmedik"
+          ],
+          [
+            "siz",
+            "geldiniz",
+            "gittiniz",
+            "gelmediniz"
+          ],
+          [
+            "onlar",
+            "geldiler",
+            "gittiler",
+            "gelmediler"
+          ]
+        ],
+        "note": "-di becomes -ti after a voiceless consonant (gitti). A second past, -miş, reports something you didn't see yourself: Gelmiş. (Apparently he came.)"
+      }
+    },
+    {
+      "heading": "Future and the simple present",
+      "text": [
+        "Future: -(y)ecek / -(y)acak: geleceğim (I will come), yapacaksın (you will do), gelmeyecek (he won't come).",
+        "Simple present (aorist): -r, -ir, -ar for habits, general truths and offers: Her gün kahve içerim. (I drink coffee every day.) Yardım ederim. (I'll help.) Its negative is -mez / -maz: içmem (I don't drink), içmez (he doesn't drink)."
+      ]
+    },
+    {
+      "heading": "Questions",
+      "text": [
+        "Yes-no questions use the particle mi (mı, mü, mu), written as a separate word after the word being asked about; the personal ending attaches to it: Geliyor musun? (Are you coming?) Türk müsün? (Are you Turkish?)",
+        "Question words: ne (what), kim (who), nerede (where), nereye (where to), nereden (from where), ne zaman (when), neden / niye (why), nasıl (how), kaç (how many), ne kadar (how much)."
+      ]
+    },
+    {
+      "heading": "Postpositions",
+      "text": "Words like \"for\" and \"with\" come after the noun.",
+      "table": {
+        "columns": [
+          "Postposition",
+          "Meaning",
+          "Example"
+        ],
+        "rows": [
+          [
+            "için",
+            "for",
+            "senin için (for you)"
+          ],
+          [
+            "ile",
+            "with, by",
+            "annemle / annem ile (with my mother)"
+          ],
+          [
+            "gibi",
+            "like",
+            "bir çocuk gibi (like a child)"
+          ],
+          [
+            "kadar",
+            "as far as; as … as",
+            "eve kadar (as far as the house)"
+          ],
+          [
+            "sonra",
+            "after (with the ablative)",
+            "dersten sonra (after class)"
+          ],
+          [
+            "önce",
+            "before (with the ablative)",
+            "yemekten önce (before the meal)"
+          ]
+        ]
+      }
     }
   ]
 }

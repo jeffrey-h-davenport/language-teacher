@@ -3603,7 +3603,7 @@
     {
       "id": "35f60f06-dc88-48bb-81f0-22e09678492a",
       "part-of-speech": "pronoun",
-      "english": "which",
+      "english": "which, who, that",
       "serbocroatian": "koji",
       "cefr": "A1",
       "ipa": "[ˈkǒjiː]",
@@ -5903,13 +5903,14 @@
     {
       "id": "0f29a928-53a5-4a45-98bf-f95ccedb0f54",
       "part-of-speech": "adverb",
-      "english": "how",
+      "english": "how; as",
       "serbocroatian": "kako",
       "cefr": "A1",
       "ipa": "[ˈkǎko]",
       "register": [
         "All"
-      ]
+      ],
+      "context": "kako bi: so that; kako treba: properly"
     },
     {
       "id": "41bdc5a2-488d-4663-9315-947242af46f9",
@@ -6405,6 +6406,281 @@
       "cefr": "A1",
       "ipa": "[ˈʒǐːʋjeli]",
       "context": "ekavian: živeli",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b17a28e1-fa78-4f1d-a17c-1c0ee28f49d7",
+      "part-of-speech": "pronoun",
+      "english": "one's own (his, her, their own)",
+      "serbocroatian": "svoj",
+      "cefr": "A1",
+      "ipa": "[sʋôːj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "166cce7b-fc1e-4d88-9fef-f2b6a4ac097c",
+      "part-of-speech": "adverb",
+      "english": "on foot",
+      "serbocroatian": "pješice",
+      "cefr": "A1",
+      "ipa": "[ˈpjêʃitse]",
+      "register": [
+        "All"
+      ],
+      "context": "ekavian: pešice"
+    },
+    {
+      "id": "6e1c6c2f-9036-4620-89c3-de95cb685bc7",
+      "part-of-speech": "verb",
+      "english": "to stop; to stand",
+      "serbocroatian": "stati",
+      "cefr": "A2",
+      "ipa": "[ˈstâti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "92a794f7-a9f1-4b49-a11f-b113cdbeecc9",
+      "part-of-speech": "adjective",
+      "english": "carbonated, fizzy",
+      "serbocroatian": "gaziran",
+      "cefr": "A2",
+      "ipa": "[ˈɡaziran]",
+      "register": [
+        "All"
+      ],
+      "context": "gazirani sok: soda"
+    },
+    {
+      "id": "781ffc86-8509-470a-88fb-1208d2b5df4f",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "serbocroatian": "čips",
+      "cefr": "A2",
+      "ipa": "[tʃîps]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "085ffc15-5183-4de9-84da-b5ce375a5f95",
+      "part-of-speech": "noun",
+      "english": "female dog",
+      "serbocroatian": "kuja",
+      "cefr": "A2",
+      "ipa": "[ˈkǔja]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "kuje"
+    },
+    {
+      "id": "4640b656-b218-4c81-9ade-0fd125a8dd3a",
+      "part-of-speech": "noun",
+      "english": "hair, fur (of an animal)",
+      "serbocroatian": "dlaka",
+      "cefr": "A2",
+      "ipa": "[ˈdlâka]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "dlake"
+    },
+    {
+      "id": "03d1f52a-ac4f-4505-9eb6-d47f44337704",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "serbocroatian": "njihov",
+      "cefr": "A1",
+      "ipa": "[ˈɲîxoʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c6340ce8-efde-4e37-828a-f6cac956a1ec",
+      "part-of-speech": "conjunction",
+      "english": "as, like",
+      "serbocroatian": "kao",
+      "cefr": "A1",
+      "ipa": "[ˈkâo]",
+      "register": [
+        "All"
+      ],
+      "context": "radi kao: works as"
+    },
+    {
+      "id": "fadffe22-3a65-4896-8555-2ed0e3663cec",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "serbocroatian": "medicinska sestra",
+      "cefr": "A2",
+      "ipa": "[ˈmeditsiːnskaː ˈsêstra]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "medicinske sestre"
+    },
+    {
+      "id": "2c7ad23b-c36c-429d-a137-2a29ead3f278",
+      "part-of-speech": "noun",
+      "english": "doctor, physician",
+      "serbocroatian": "liječnik",
+      "cefr": "A2",
+      "ipa": "[ljěːtʃniːk]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "liječnici",
+      "context": "Serbian: lekar"
+    },
+    {
+      "id": "674368f8-7a2f-499d-bf87-953da219abfe",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "serbocroatian": "pacijent",
+      "cefr": "A2",
+      "ipa": "[ˈpatsijent]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "pacijenti"
+    },
+    {
+      "id": "2e213c0e-e5a8-4a0f-9277-69b8739a9958",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "serbocroatian": "ozdraviti",
+      "cefr": "A2",
+      "ipa": "[ozdrǎːʋiti]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "73fcd767-92ff-4c34-b88f-846da24cffaf",
+      "part-of-speech": "verb",
+      "english": "to take care, to watch out",
+      "serbocroatian": "paziti",
+      "cefr": "A2",
+      "ipa": "[ˈpǎziti]",
+      "register": [
+        "All"
+      ],
+      "context": "paziti da: to make sure that"
+    },
+    {
+      "id": "e46a2246-18ec-488c-bb39-f216779571d1",
+      "part-of-speech": "verb",
+      "english": "to take",
+      "serbocroatian": "uzimati",
+      "cefr": "A2",
+      "ipa": "[ˈuziːmati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "c3821ee9-4a65-4a91-be6d-eb17628901b5",
+      "part-of-speech": "adjective",
+      "english": "software",
+      "serbocroatian": "softverski",
+      "cefr": "A2",
+      "ipa": "[ˈsɔftʋerskiː]",
+      "register": [
+        "All"
+      ],
+      "context": "softverska tvrtka: software company"
+    },
+    {
+      "id": "dfe9bbf3-8d7e-45b9-a3df-38ae31452935",
+      "part-of-speech": "noun",
+      "english": "company, firm",
+      "serbocroatian": "tvrtka",
+      "cefr": "A2",
+      "ipa": "[ˈtʋr̂tka]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "tvrtke",
+      "context": "Serbian: firma"
+    },
+    {
+      "id": "84aff889-e408-47fe-b664-ed6de2d277eb",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "serbocroatian": "testirati",
+      "cefr": "A2",
+      "ipa": "[tesˈtiːrati]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "79b99f4a-fb87-4fba-be2a-d4f5c60c1ffb",
+      "part-of-speech": "noun",
+      "english": "software",
+      "serbocroatian": "softver",
+      "cefr": "A2",
+      "ipa": "[ˈsɔftʋer]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine"
+    },
+    {
+      "id": "9d20d78c-7998-4a59-a2ec-d73ac0cb5abd",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "serbocroatian": "prije nego što",
+      "cefr": "A2",
+      "ipa": "[ˈprije ˈneɡo ʃto]",
+      "register": [
+        "All"
+      ],
+      "context": "ekavian: pre nego što"
+    },
+    {
+      "id": "97e7b952-1eaa-4c76-a5fc-cad8db52d06c",
+      "part-of-speech": "pronoun",
+      "english": "him, it (as an object)",
+      "serbocroatian": "ga",
+      "cefr": "A1",
+      "ipa": "[ɡa]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "752c38f4-68b0-42c4-8d7c-ffd0a90b4b4f",
+      "part-of-speech": "adjective",
+      "english": "careful",
+      "serbocroatian": "pažljiv",
+      "cefr": "A2",
+      "ipa": "[ˈpǎʒʎiʋ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "b0f48bf8-35a9-4f2e-a32c-80235c345e1c",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "serbocroatian": "temeljito",
+      "cefr": "A2",
+      "ipa": "[ˈtemeʎito]",
       "register": [
         "All"
       ]

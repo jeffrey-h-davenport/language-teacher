@@ -1,0 +1,294 @@
+{
+  "meta": {
+    "language": "Serbo-Croatian",
+    "languageCode": "sh",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "Petkom ide u školu sa svojim prijateljima. Do škole idu pješice pored trgovine. Uvijek tamo stanu i kupe gazirani sok i čips. Jedu i piju na putu do škole.",
+      "questions": [
+        {
+          "question": "Kada ide u školu s prijateljima?",
+          "choices": [
+            "Ponedjeljkom",
+            "Petkom",
+            "Nedjeljom",
+            "Svaki dan"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kako idu do škole?",
+          "choices": [
+            "Autobusom",
+            "Autom",
+            "Biciklom",
+            "Pješice"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Što kupuju u trgovini?",
+          "choices": [
+            "Gazirani sok i čips",
+            "Kruh i mlijeko",
+            "Voće i sok",
+            "Kavu i kolač"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Gdje jedu i piju?",
+          "choices": [
+            "U školi",
+            "Kod kuće",
+            "Na putu do škole",
+            "U trgovini"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "petkom": "7143e4df-d260-43f2-a3ab-1d4ff9264cb4",
+        "ide": "8158086e-55c7-4590-9cba-145f326e0ee8",
+        "u": "f757effc-cb86-4467-a003-afe4a65c9ac9",
+        "školu": "a847d498-75a2-4429-bd98-2e2850020df7",
+        "sa": "f8572d44-ecc7-4e07-858d-471c56b79147",
+        "svojim": "b17a28e1-fa78-4f1d-a17c-1c0ee28f49d7",
+        "prijateljima": "43d40777-7e5a-4e3c-9a38-7eb55276ba07",
+        "do": "aa32fe0c-0505-40b8-be30-83133b611ca8",
+        "škole": "a847d498-75a2-4429-bd98-2e2850020df7",
+        "idu": "8158086e-55c7-4590-9cba-145f326e0ee8",
+        "pješice": "166cce7b-fc1e-4d88-9fef-f2b6a4ac097c",
+        "pored": "e0b1a0d2-f036-4b92-b5d2-edc87fe9ebe0",
+        "trgovine": "0f0800af-15be-47d8-bd4a-8028ae28c604",
+        "uvijek": "dd59bee3-4171-462b-8974-f0c7066147c2",
+        "tamo": "2b38fdc2-b867-410c-b90a-d14cc2e8591d",
+        "stanu": "6e1c6c2f-9036-4620-89c3-de95cb685bc7",
+        "i": "4b80eb95-b8ff-4313-baad-c338066627cc",
+        "kupe": "93273135-cc52-4dc5-b163-7fef1975edc1",
+        "gazirani": "92a794f7-a9f1-4b49-a11f-b113cdbeecc9",
+        "sok": "6b988fd3-654a-4381-9230-16c9f8204cb2",
+        "čips": "781ffc86-8509-470a-88fb-1208d2b5df4f",
+        "jedu": "fc396a32-abc6-49fb-a51f-a36d8305d4e6",
+        "piju": "4640fd8f-8e85-467f-b5b3-3e46108e2094",
+        "na": "3acfe513-b521-495c-ae28-af2d1eeaf68d",
+        "putu": "30252d5e-f57e-4086-aa18-4483cf155d5d"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Ona voli svoje pse. Ima veliku kuju s dugom bijelom dlakom. Ima i malog psa s kratkom smeđom dlakom. Kuja je mlađa od psa.",
+      "questions": [
+        {
+          "question": "Koliko pasa ima?",
+          "choices": [
+            "Jednog",
+            "Tri",
+            "Dva",
+            "Četiri"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Koje je boje kujina dlaka?",
+          "choices": [
+            "Bijele",
+            "Smeđe",
+            "Crne",
+            "Sive"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Kakav je pas?",
+          "choices": [
+            "Velik, s dugom bijelom dlakom",
+            "Malen, s dugom bijelom dlakom",
+            "Velik, s kratkom smeđom dlakom",
+            "Malen, s kratkom smeđom dlakom"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Tko je mlađi?",
+          "choices": [
+            "Pas",
+            "Kuja",
+            "Iste su dobi",
+            "Ne zna se"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "ona": "5a710f73-eb5c-45c2-91f6-7289fe127dd9",
+        "voli": "069caccb-4f43-41a5-b453-c197ccffe569",
+        "svoje": "b17a28e1-fa78-4f1d-a17c-1c0ee28f49d7",
+        "pse": "6a17108e-1aff-4179-8f7d-8634082b9274",
+        "ima": "f2916abf-e76c-41ca-bbee-8f5aeeae2819",
+        "veliku": "02e597a8-06cf-4871-9056-d27ea4157afc",
+        "kuju": "085ffc15-5183-4de9-84da-b5ce375a5f95",
+        "s": "f8572d44-ecc7-4e07-858d-471c56b79147",
+        "dugom": "0c6a58ee-c817-47c3-b57f-f3a3a51abf17",
+        "bijelom": "53b8a540-9f67-408a-b286-09cd38d49a79",
+        "dlakom": "4640b656-b218-4c81-9ade-0fd125a8dd3a",
+        "i": "4b80eb95-b8ff-4313-baad-c338066627cc",
+        "malog": "c03ca6ac-47f4-49aa-ac6c-9b1274dcc7b7",
+        "psa": "6a17108e-1aff-4179-8f7d-8634082b9274",
+        "kratkom": "7027620c-31c3-4a2f-b6ff-3e03b43315a3",
+        "smeđom": "fd6763c3-239a-48a2-a788-d3f992e6764b",
+        "kuja": "085ffc15-5183-4de9-84da-b5ce375a5f95",
+        "je": "fac0973b-9195-4360-9c17-45f71fb642f0",
+        "mlađa": "6db1b62f-144e-45ba-a5e5-85e6a934e76a",
+        "od": "517a6302-5258-415a-b1e1-d20f498a847a"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Njihova majka radi kao medicinska sestra u bolnici. Pomaže ljudima koji su bolesni. Radi s liječnicima kako bi pacijenti ozdravili. Pazi da pacijenti uzimaju lijekove.",
+      "questions": [
+        {
+          "question": "Gdje radi njihova majka?",
+          "choices": [
+            "U školi",
+            "U trgovini",
+            "U banci",
+            "U bolnici"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Što je ona po zanimanju?",
+          "choices": [
+            "Liječnica",
+            "Medicinska sestra",
+            "Učiteljica",
+            "Kuharica"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "S kim radi?",
+          "choices": [
+            "S učiteljima",
+            "S inženjerima",
+            "S liječnicima",
+            "S policajcima"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Na što pazi?",
+          "choices": [
+            "Da pacijenti uzimaju lijekove",
+            "Da pacijenti doručkuju",
+            "Da liječnici dolaze na vrijeme",
+            "Da bolnica bude čista"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "njihova": "03d1f52a-ac4f-4505-9eb6-d47f44337704",
+        "majka": "a0b8d370-429d-4be4-a0b4-836c3809543f",
+        "radi": "ca47da1a-4445-4f3d-b9ae-78248216dd7f",
+        "kao": "c6340ce8-efde-4e37-828a-f6cac956a1ec",
+        "medicinska sestra": "fadffe22-3a65-4896-8555-2ed0e3663cec",
+        "u": "f757effc-cb86-4467-a003-afe4a65c9ac9",
+        "bolnici": "6cdceadf-3eb0-470f-95c1-59ef94799051",
+        "pomaže": "73372178-24ae-48a7-9db0-cba500e7db82",
+        "ljudima": "8cc6c11d-5721-4fe5-b15e-18818222970c",
+        "koji": "35f60f06-dc88-48bb-81f0-22e09678492a",
+        "su": "fac0973b-9195-4360-9c17-45f71fb642f0",
+        "bolesni": "c24bfad0-28bf-4f7f-b569-16c1a7521485",
+        "s": "f8572d44-ecc7-4e07-858d-471c56b79147",
+        "liječnicima": "2c7ad23b-c36c-429d-a137-2a29ead3f278",
+        "kako": "0f29a928-53a5-4a45-98bf-f95ccedb0f54",
+        "bi": "fac0973b-9195-4360-9c17-45f71fb642f0",
+        "pacijenti": "674368f8-7a2f-499d-bf87-953da219abfe",
+        "ozdravili": "2e213c0e-e5a8-4a0f-9277-69b8739a9958",
+        "pazi": "73fcd767-92ff-4c34-b88f-846da24cffaf",
+        "da": "d6186627-bd8e-4846-8d2d-bda946382430",
+        "uzimaju": "e46a2246-18ec-488c-bb39-f216779571d1",
+        "lijekove": "da0feed4-c2b9-4bf0-bfe8-3b21c1c48e80"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Njihov otac radi u softverskoj tvrtki. Testira softver. Pazi da softver radi kako treba prije nego što ga ljudi počnu koristiti. Vrlo je pažljiv i temeljito testira softver.",
+      "questions": [
+        {
+          "question": "Gdje radi njihov otac?",
+          "choices": [
+            "U softverskoj tvrtki",
+            "U bolnici",
+            "U školi",
+            "U trgovini"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Što radi?",
+          "choices": [
+            "Prodaje računala",
+            "Popravlja automobile",
+            "Testira softver",
+            "Predaje u školi"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Kada testira softver?",
+          "choices": [
+            "Nakon što ga ljudi koriste",
+            "Prije nego što ga ljudi počnu koristiti",
+            "Samo petkom",
+            "Noću"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Kako testira softver?",
+          "choices": [
+            "Brzo i nemarno",
+            "Samo ponekad",
+            "Sa svojom djecom",
+            "Vrlo pažljivo i temeljito"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "njihov": "03d1f52a-ac4f-4505-9eb6-d47f44337704",
+        "otac": "2e58a649-bc59-4481-89a6-2d0668727328",
+        "radi": "ca47da1a-4445-4f3d-b9ae-78248216dd7f",
+        "u": "f757effc-cb86-4467-a003-afe4a65c9ac9",
+        "softverskoj": "c3821ee9-4a65-4a91-be6d-eb17628901b5",
+        "tvrtki": "dfe9bbf3-8d7e-45b9-a3df-38ae31452935",
+        "testira": "84aff889-e408-47fe-b664-ed6de2d277eb",
+        "softver": "79b99f4a-fb87-4fba-be2a-d4f5c60c1ffb",
+        "pazi": "73fcd767-92ff-4c34-b88f-846da24cffaf",
+        "da": "d6186627-bd8e-4846-8d2d-bda946382430",
+        "kako": "0f29a928-53a5-4a45-98bf-f95ccedb0f54",
+        "treba": "604ab380-0a71-4d7b-8dfa-d8a751413787",
+        "prije nego što": "9d20d78c-7998-4a59-a2ec-d73ac0cb5abd",
+        "ga": "97e7b952-1eaa-4c76-a5fc-cad8db52d06c",
+        "ljudi": "8cc6c11d-5721-4fe5-b15e-18818222970c",
+        "počnu": "4a7dbda7-3d2f-4c74-bb48-2ea99df557f2",
+        "koristiti": "1ee35543-d176-4e49-856e-ce3677e80ebc",
+        "vrlo": "1e54386a-ad4a-4d49-a1af-061133eb391e",
+        "je": "fac0973b-9195-4360-9c17-45f71fb642f0",
+        "pažljiv": "752c38f4-68b0-42c4-8d7c-ffd0a90b4b4f",
+        "i": "4b80eb95-b8ff-4313-baad-c338066627cc",
+        "temeljito": "b0f48bf8-35a9-4f2e-a32c-80235c345e1c"
+      }
+    }
+  ]
+}

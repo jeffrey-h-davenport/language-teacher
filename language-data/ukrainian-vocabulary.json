@@ -5583,7 +5583,7 @@
     {
       "id": "a1d8fe2e-665c-4dca-b47b-ef8cf6a0d221",
       "part-of-speech": "pronoun",
-      "english": "which, what kind of",
+      "english": "which, what kind of; who, that",
       "ukrainian": "який",
       "cefr": "A1",
       "ipa": "[jɑˈkɪj]",
@@ -5666,10 +5666,10 @@
       "ukrainian": "в",
       "cefr": "A1",
       "ipa": "[w]",
-      "context": "also у; + locative (where?), + accusative (where to?)",
       "register": [
         "All"
-      ]
+      ],
+      "context": "у before a consonant: у неї є, she has"
     },
     {
       "id": "6cf6a597-e696-4a9a-8362-16d8805ccd3b",
@@ -6203,6 +6203,321 @@
       "ukrainian": "вітаю",
       "cefr": "A2",
       "ipa": "[ʋiˈtɑju]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "de4e1938-83d0-4d4e-8154-05ce3f4b7154",
+      "part-of-speech": "preposition",
+      "english": "along, on, by; on (days)",
+      "ukrainian": "по",
+      "cefr": "A1",
+      "ipa": "[pɔ]",
+      "register": [
+        "All"
+      ],
+      "context": "по п'ятницях: on Fridays"
+    },
+    {
+      "id": "2046f810-c3f3-43f8-928d-900dc7809115",
+      "part-of-speech": "adverb",
+      "english": "on foot",
+      "ukrainian": "пішки",
+      "cefr": "A1",
+      "ipa": "[ˈpʲiʃkɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2be12a57-68a9-4f49-afbd-e6b3e50eed32",
+      "part-of-speech": "preposition",
+      "english": "past, by",
+      "ukrainian": "повз",
+      "cefr": "A2",
+      "ipa": "[pɔu̯z]",
+      "register": [
+        "All"
+      ],
+      "context": "повз магазин: past the store"
+    },
+    {
+      "id": "4896d4a0-ced1-44c5-b9ec-9691d26bbb09",
+      "part-of-speech": "verb",
+      "english": "to drop in, to stop by",
+      "ukrainian": "заходити",
+      "cefr": "A2",
+      "ipa": "[zɑxɔˈdɪtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "1b454222-b425-4e08-8394-6b47b4a7bbcb",
+      "part-of-speech": "adverb",
+      "english": "there (to that place)",
+      "ukrainian": "туди",
+      "cefr": "A1",
+      "ipa": "[tʊˈdɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "ea0bf097-51d6-4075-8fa8-9502a690ab7d",
+      "part-of-speech": "adjective",
+      "english": "carbonated, fizzy",
+      "ukrainian": "газований",
+      "cefr": "A2",
+      "ipa": "[ɦɑˈzɔʋɑnɪj]",
+      "register": [
+        "All"
+      ],
+      "context": "газована вода: soda"
+    },
+    {
+      "id": "f722c542-cfff-4bce-a7dc-b74f9090bcee",
+      "part-of-speech": "conjunction",
+      "english": "and",
+      "ukrainian": "та",
+      "cefr": "A1",
+      "ipa": "[tɑ]",
+      "register": [
+        "All"
+      ],
+      "context": "the same as і"
+    },
+    {
+      "id": "df53c1a3-6dc6-40ce-b4cb-280c3a831fdd",
+      "part-of-speech": "noun",
+      "english": "potato chips",
+      "ukrainian": "чипси",
+      "cefr": "A2",
+      "ipa": "[ˈt͡ʃɪpsɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e65713eb-8c74-4051-ae8c-889d4568fad6",
+      "part-of-speech": "pronoun",
+      "english": "one's own (his, her, their own)",
+      "ukrainian": "свій",
+      "cefr": "A1",
+      "ipa": "[sʋij]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "74f50bf3-f708-4b0d-ab2b-038d5cc364ae",
+      "part-of-speech": "noun",
+      "english": "dog",
+      "ukrainian": "собака",
+      "cefr": "A1",
+      "ipa": "[sɔˈbɑkɑ]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "собаки",
+      "context": "usually masculine in Ukrainian; собака-дівчинка: a female dog"
+    },
+    {
+      "id": "410f64fe-dcd0-422c-b529-cf7e5e6bb24e",
+      "part-of-speech": "noun",
+      "english": "fur, coat (of an animal)",
+      "ukrainian": "шерсть",
+      "cefr": "A2",
+      "ipa": "[ʃɛrsʲtʲ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine"
+    },
+    {
+      "id": "e6ddb2a7-705e-4f34-9b96-c0b8e07fd7b6",
+      "part-of-speech": "noun",
+      "english": "nurse",
+      "ukrainian": "медсестра",
+      "cefr": "A2",
+      "ipa": "[mɛdsɛˈstrɑ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "медсестри"
+    },
+    {
+      "id": "805061d6-b75a-4dbf-8947-c5806f5b03f9",
+      "part-of-speech": "verb",
+      "english": "to be ill",
+      "ukrainian": "хворіти",
+      "cefr": "A2",
+      "ipa": "[xʋɔˈrʲitɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "36d75068-dee9-4f15-b89f-460b467010bd",
+      "part-of-speech": "noun",
+      "english": "patient",
+      "ukrainian": "пацієнт",
+      "cefr": "A2",
+      "ipa": "[pɑt͡sʲiˈjɛnt]",
+      "register": [
+        "All"
+      ],
+      "gender": "masculine",
+      "plural": "пацієнти"
+    },
+    {
+      "id": "e6b848c6-b993-4343-a09d-70e7e448c06f",
+      "part-of-speech": "verb",
+      "english": "to get well, to recover",
+      "ukrainian": "одужати",
+      "cefr": "A2",
+      "ipa": "[ɔˈduʒɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "e9440113-f07c-4f49-b8c2-e47cc6564039",
+      "part-of-speech": "verb",
+      "english": "to watch; to make sure",
+      "ukrainian": "стежити",
+      "cefr": "A2",
+      "ipa": "[ˈstɛʒɪtɪ]",
+      "register": [
+        "All"
+      ],
+      "context": "стежити, щоб: to make sure that"
+    },
+    {
+      "id": "5cd3fb7f-19c5-48e8-9832-8b8283fe04cd",
+      "part-of-speech": "verb",
+      "english": "to take (medicine); to accept",
+      "ukrainian": "приймати",
+      "cefr": "A2",
+      "ipa": "[prɪjˈmɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "45579107-d0ce-4a66-b8f7-51d31ebc0732",
+      "part-of-speech": "noun",
+      "english": "company",
+      "ukrainian": "компанія",
+      "cefr": "A2",
+      "ipa": "[kɔmˈpɑnʲijɑ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "компанії"
+    },
+    {
+      "id": "485c85d0-c025-4675-9779-92f639731cad",
+      "part-of-speech": "noun",
+      "english": "program",
+      "ukrainian": "програма",
+      "cefr": "A2",
+      "ipa": "[prɔˈɦrɑmɑ]",
+      "register": [
+        "All"
+      ],
+      "gender": "feminine",
+      "plural": "програми"
+    },
+    {
+      "id": "14d4f9ec-ee6b-4a41-8755-7c66972e4772",
+      "part-of-speech": "verb",
+      "english": "to test",
+      "ukrainian": "тестувати",
+      "cefr": "A2",
+      "ipa": "[tɛstʊˈʋɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "779d4031-b519-407c-9b5b-5af9b753893b",
+      "part-of-speech": "verb",
+      "english": "to check",
+      "ukrainian": "перевіряти",
+      "cefr": "A2",
+      "ipa": "[pɛrɛʋʲiˈrʲɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "835ab98b-4a9e-4f65-8f79-97a63331f97b",
+      "part-of-speech": "conjunction",
+      "english": "whether; or",
+      "ukrainian": "чи",
+      "cefr": "A1",
+      "ipa": "[t͡ʃɪ]",
+      "register": [
+        "All"
+      ],
+      "context": "also starts a yes-no question"
+    },
+    {
+      "id": "b7d8ecdd-9240-4b67-adac-8164125804e5",
+      "part-of-speech": "adverb",
+      "english": "correctly, right",
+      "ukrainian": "правильно",
+      "cefr": "A1",
+      "ipa": "[ˈprɑʋɪlʲnɔ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "d933e8ca-2cd6-4ffd-8008-dfe47429d5e3",
+      "part-of-speech": "conjunction",
+      "english": "before",
+      "ukrainian": "перш ніж",
+      "cefr": "A2",
+      "ipa": "[pɛrʃ nʲiʒ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "2724928a-da64-41ff-9cbc-d8c72319eaa6",
+      "part-of-speech": "verb",
+      "english": "to begin, to start",
+      "ukrainian": "почати",
+      "cefr": "A2",
+      "ipa": "[pɔˈt͡ʃɑtɪ]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "365f4f5f-2e97-4046-abde-e97895d6cf98",
+      "part-of-speech": "adjective",
+      "english": "careful, attentive",
+      "ukrainian": "уважний",
+      "cefr": "A2",
+      "ipa": "[ʊˈʋɑʒnɪj]",
+      "register": [
+        "All"
+      ]
+    },
+    {
+      "id": "19c9b174-9ff8-416a-b2b6-6214de9a9a15",
+      "part-of-speech": "adverb",
+      "english": "thoroughly",
+      "ukrainian": "ретельно",
+      "cefr": "A2",
+      "ipa": "[rɛˈtɛlʲnɔ]",
       "register": [
         "All"
       ]

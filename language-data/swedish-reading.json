@@ -1,0 +1,302 @@
+{
+  "meta": {
+    "language": "Swedish",
+    "languageCode": "sv",
+    "nativeLanguage": "English"
+  },
+  "passages": [
+    {
+      "id": "p001",
+      "cefr": "A1",
+      "text": "På fredagar går han till skolan med sina kompisar. De går till skolan förbi affären. De stannar alltid där och köper läsk och chips. De äter och dricker på vägen till skolan.",
+      "questions": [
+        {
+          "question": "När går han till skolan med sina kompisar?",
+          "choices": [
+            "På måndagar",
+            "På fredagar",
+            "På söndagar",
+            "Varje dag"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hur tar de sig till skolan?",
+          "choices": [
+            "Med buss",
+            "Med bil",
+            "Med cykel",
+            "De går"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Vad köper de i affären?",
+          "choices": [
+            "Läsk och chips",
+            "Bröd och mjölk",
+            "Frukt och juice",
+            "Kaffe och kaka"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Var äter och dricker de?",
+          "choices": [
+            "I skolan",
+            "Hemma",
+            "På vägen till skolan",
+            "I affären"
+          ],
+          "answer": 2
+        }
+      ],
+      "words": {
+        "på": "f83b438c-1dab-4c44-9abf-75ac0b81954d",
+        "fredagar": "9bf088d7-9bb2-41a2-b831-3560a6b12a81",
+        "går": "57603992-4204-456a-a175-fd202a15dddb",
+        "han": "1ec4846f-fb83-4e01-aeef-7735aecb9251",
+        "till": "e3476a7a-dc61-4618-acd0-3af4073b8c7e",
+        "skolan": "490e553c-7c02-4ef8-babc-598c10470967",
+        "med": "cf2e4f42-b15a-404d-b7b2-df78c7a28563",
+        "sina": "9dd810bb-412c-4303-b8de-02bb1539c8fb",
+        "kompisar": "02caa4f1-210b-4751-8bee-966a73a76991",
+        "de": "c3da6183-6257-431d-8253-3d57bfd87325",
+        "förbi": "b9a1086e-6a1c-4dd1-9d2d-b3606f1c4363",
+        "affären": "35ea05e0-bca3-4633-a3b5-e4aeff3a67eb",
+        "stannar": "22e9f7c5-6d84-41af-a3a8-a5b7d637fd63",
+        "alltid": "6c296650-4056-435a-b6fa-3417f8b6dd74",
+        "där": "b8d16bb5-dd3f-4ff7-afbd-9622373d1086",
+        "och": "e94cd332-2e6f-44f8-88c2-5b9e84a35769",
+        "köper": "887b94b4-ea91-4b14-bc9c-1261fea3a03c",
+        "läsk": "c22e3ba8-82ab-4127-9a1c-b80ab42c9d6b",
+        "chips": "82eb1877-8630-47c2-8ca3-f21a6645e27b",
+        "äter": "afa8d803-68c9-4cd0-aeb5-3a37dd0c83c4",
+        "dricker": "07fbf828-a5c2-4364-a7f7-3aac67b91662",
+        "vägen": "0fbc2ffa-4b2c-4552-99b0-db5c5e8e3ded"
+      }
+    },
+    {
+      "id": "p002",
+      "cefr": "A1",
+      "text": "Hon älskar sina hundar. Hon har en stor tik med lång vit päls. Hon har också en liten hanhund med kort brun päls. Tiken är yngre än hanhunden.",
+      "questions": [
+        {
+          "question": "Hur många hundar har hon?",
+          "choices": [
+            "En",
+            "Tre",
+            "Två",
+            "Fyra"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Vilken färg har tikens päls?",
+          "choices": [
+            "Vit",
+            "Brun",
+            "Svart",
+            "Grå"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Hur ser hanhunden ut?",
+          "choices": [
+            "Stor, med lång vit päls",
+            "Liten, med lång vit päls",
+            "Stor, med kort brun päls",
+            "Liten, med kort brun päls"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Vilken hund är yngst?",
+          "choices": [
+            "Hanhunden",
+            "Tiken",
+            "De är lika gamla",
+            "Det står inte"
+          ],
+          "answer": 1
+        }
+      ],
+      "words": {
+        "hon": "d5582208-6ee5-4cd2-894e-d1e2bc398bc4",
+        "älskar": "e802f421-464f-49d6-993e-c8de1e52cb55",
+        "sina": "9dd810bb-412c-4303-b8de-02bb1539c8fb",
+        "hundar": "5aa14a19-095f-4ebd-ade1-5e652e2ce1f7",
+        "har": "3347c662-87ab-4588-aa06-6b04dd58191b",
+        "en": "282352da-bf6d-4834-b480-c670985ec68f",
+        "stor": "e2a2ccd1-9738-4d3a-8612-68d3013dfd73",
+        "tik": "c5823c2d-6cb8-450a-af21-92ee490847dd",
+        "med": "cf2e4f42-b15a-404d-b7b2-df78c7a28563",
+        "lång": "c1d5bfbe-9c00-4ad0-9d97-f5cb81e63b26",
+        "vit": "7f3a7eca-9249-4f9d-8f06-aadf267eb239",
+        "päls": "679b1165-b92d-4f0f-92e9-5e5e9d752c20",
+        "också": "31c5e10e-27e1-43b5-8dad-979b15e732fe",
+        "liten": "a1d19848-0e9d-4a51-81c9-9427640e4e71",
+        "hanhund": "e8fab47f-0a7d-43bc-9734-c8597dcfdbb9",
+        "kort": "815b31b1-bb6f-47f1-a137-90c2bffc9d63",
+        "brun": "4b19373f-9949-4350-8545-fc2aac8e86d5",
+        "tiken": "c5823c2d-6cb8-450a-af21-92ee490847dd",
+        "är": "6bd673d2-2a23-437c-ba5e-038bfb55ebd3",
+        "yngre": "f3a3ebdd-e016-4de7-83af-0bfaf7e30824",
+        "än": "5a4e5f09-1d71-458a-8309-e5e3cd6b5a7b",
+        "hanhunden": "e8fab47f-0a7d-43bc-9734-c8597dcfdbb9"
+      }
+    },
+    {
+      "id": "p003",
+      "cefr": "A1",
+      "text": "Deras mamma jobbar som sjuksköterska på ett sjukhus. Hon hjälper människor som är sjuka. Hon arbetar med läkare för att patienterna ska bli friska. Hon ser till att patienterna tar sin medicin.",
+      "questions": [
+        {
+          "question": "Var jobbar deras mamma?",
+          "choices": [
+            "På en skola",
+            "I en affär",
+            "På en bank",
+            "På ett sjukhus"
+          ],
+          "answer": 3
+        },
+        {
+          "question": "Vad har hon för yrke?",
+          "choices": [
+            "Läkare",
+            "Sjuksköterska",
+            "Lärare",
+            "Kock"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Vem arbetar hon med?",
+          "choices": [
+            "Med lärare",
+            "Med ingenjörer",
+            "Med läkare",
+            "Med poliser"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "Vad ser hon till?",
+          "choices": [
+            "Att patienterna tar sin medicin",
+            "Att patienterna äter frukost",
+            "Att läkarna kommer i tid",
+            "Att sjukhuset är rent"
+          ],
+          "answer": 0
+        }
+      ],
+      "words": {
+        "deras": "bf642794-2def-4939-9ce3-f4bd06d79079",
+        "mamma": "45b178f9-4991-4e1e-92c0-e27c795a902d",
+        "jobbar": "6da11770-38a7-475f-96aa-703b818ed57a",
+        "som": "5af3cfac-d3bf-4ee7-a7b9-01fca785c98c",
+        "sjuksköterska": "758a033d-2833-49a2-bdf7-abd77cd3082d",
+        "på": "f83b438c-1dab-4c44-9abf-75ac0b81954d",
+        "ett": "282352da-bf6d-4834-b480-c670985ec68f",
+        "sjukhus": "2d198a4b-ea7c-4aed-b953-2de58cd7c1cd",
+        "hon": "d5582208-6ee5-4cd2-894e-d1e2bc398bc4",
+        "hjälper": "ea420436-0972-4802-9858-d59202adee1e",
+        "människor": "07b754c7-6404-4825-961d-857ba6dc8cef",
+        "är": "6bd673d2-2a23-437c-ba5e-038bfb55ebd3",
+        "sjuka": "e4abf58d-4a8b-4677-80a5-4ae6f10cd8f7",
+        "arbetar": "1dbf8b71-2baa-4c30-9de3-9328409e8f58",
+        "med": "cf2e4f42-b15a-404d-b7b2-df78c7a28563",
+        "läkare": "39117282-3003-4670-a4fe-11c5289051f4",
+        "för": "84f4d3ce-5765-4310-a48b-498e55ced6b3",
+        "att": "213f76c1-d747-47cd-8818-02dc3a51f2a2",
+        "patienterna": "364283a1-6f7c-4c59-b6a7-13f7552d0769",
+        "ska": "f57a7300-d22f-456f-a5fe-b3f344a49fed",
+        "bli": "b12daf89-5566-49be-a1cf-b9a6f7de506a",
+        "friska": "748b47da-06ba-4110-a3f8-44cb4d0d4dbd",
+        "ser": "914802f4-a092-4adc-9e0f-6a523b64d755",
+        "till": "e3476a7a-dc61-4618-acd0-3af4073b8c7e",
+        "tar": "29a4e479-c2b0-45dd-bb69-23f6eefebcd7",
+        "sin": "9dd810bb-412c-4303-b8de-02bb1539c8fb",
+        "medicin": "3d78130c-eda6-4508-b260-a0a8ffc7e452"
+      }
+    },
+    {
+      "id": "p004",
+      "cefr": "A1",
+      "text": "Deras pappa jobbar på ett mjukvaruföretag. Han testar mjukvara. Han ser till att mjukvaran fungerar som den ska innan folk får använda den. Han är mycket noggrann och testar mjukvaran grundligt.",
+      "questions": [
+        {
+          "question": "Var jobbar deras pappa?",
+          "choices": [
+            "På ett mjukvaruföretag",
+            "På ett sjukhus",
+            "På en skola",
+            "I en affär"
+          ],
+          "answer": 0
+        },
+        {
+          "question": "Vad gör han?",
+          "choices": [
+            "Han säljer datorer",
+            "Han lagar bilar",
+            "Han testar mjukvara",
+            "Han undervisar på en skola"
+          ],
+          "answer": 2
+        },
+        {
+          "question": "När testar han mjukvaran?",
+          "choices": [
+            "Efter att folk har använt den",
+            "Innan folk får använda den",
+            "Bara på fredagar",
+            "På natten"
+          ],
+          "answer": 1
+        },
+        {
+          "question": "Hur testar han mjukvaran?",
+          "choices": [
+            "Snabbt och slarvigt",
+            "Bara ibland",
+            "Med sina barn",
+            "Mycket noggrant och grundligt"
+          ],
+          "answer": 3
+        }
+      ],
+      "words": {
+        "deras": "bf642794-2def-4939-9ce3-f4bd06d79079",
+        "pappa": "ddd6efb7-ec36-4129-80c7-970e310df9ea",
+        "jobbar": "6da11770-38a7-475f-96aa-703b818ed57a",
+        "på": "f83b438c-1dab-4c44-9abf-75ac0b81954d",
+        "ett": "282352da-bf6d-4834-b480-c670985ec68f",
+        "mjukvaruföretag": "f70cafae-5488-4948-9a3a-8e8cd1896ec1",
+        "han": "1ec4846f-fb83-4e01-aeef-7735aecb9251",
+        "testar": "38758d38-f4f3-4ac9-8982-c29ee46adf12",
+        "mjukvara": "13cd37de-0b9b-4107-b512-3537a1acff9a",
+        "ser": "914802f4-a092-4adc-9e0f-6a523b64d755",
+        "till": "e3476a7a-dc61-4618-acd0-3af4073b8c7e",
+        "att": "213f76c1-d747-47cd-8818-02dc3a51f2a2",
+        "mjukvaran": "13cd37de-0b9b-4107-b512-3537a1acff9a",
+        "fungerar": "357d8cdb-191b-4e2f-bfa9-81f7582dfb65",
+        "som": "5af3cfac-d3bf-4ee7-a7b9-01fca785c98c",
+        "den": "22eb6fee-e5e8-4df8-8aa2-355f3d0f4065",
+        "ska": "f57a7300-d22f-456f-a5fe-b3f344a49fed",
+        "innan": "a077f578-74c0-4615-8c52-df08c324a9b9",
+        "folk": "4ed0cf85-0338-4531-9783-eedef1224e24",
+        "får": "beeff019-40e1-4cb7-ab11-a37c430666a3",
+        "använda": "24539a81-c2eb-4611-9d3f-2c823fd3d5f3",
+        "är": "6bd673d2-2a23-437c-ba5e-038bfb55ebd3",
+        "mycket": "ffa44783-1dbe-486f-bbb7-52f024ce154a",
+        "noggrann": "cd1a2ec6-be36-4080-bdd0-433d9ee537ed",
+        "och": "e94cd332-2e6f-44f8-88c2-5b9e84a35769",
+        "grundligt": "5459c07c-715a-421f-81e7-ad65c44f8197"
+      }
+    }
+  ]
+}

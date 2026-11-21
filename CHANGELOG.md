@@ -1,5 +1,108 @@
 # Changelog
 
+## 1.49.9 — 2026-11-21
+- Turkish Language Guide: a basic grammar guide after the pronunciation sections — how Turkish grammar works, two- and four-way vowel harmony, consonant changes and buffer letters, the cases (and when to use the accusative), plurals, possessive suffixes and noun–noun compounds, personal pronouns in every case, "to be" as a suffix, var and yok, the verb stem, the present continuous (-iyor), the past (-di), the future and the simple present, questions with mi, and the common postpositions
+
+## 1.49.8 — 2026-11-21
+- Finnish Language Guide: a basic grammar guide after the pronunciation sections — how Finnish grammar works, vowel harmony, consonant gradation, the main cases (with the in/at/from/to grid), plurals, when to use the partitive, "to have", personal pronouns and possessive suffixes, the six verb types, the present tense, negation with ei, questions with -ko/-kö, the past tense, and the main features of spoken Finnish
+
+## 1.49.7 — 2026-11-21
+- The guide button is now called "Language Guide" in every language (it was "Alphabet Guide", "Pronunciation Guide", "Grammar Guide", "Kana Guide", "Cyrillic Guide" or "Script Guide" depending on the language)
+
+## 1.49.6 — 2026-11-20
+- French: 42 words and set phrases added from a sixth novel excerpt — mademoiselle, se présenter, arriver à, mettre de côté, entendre parler de, situé, avoir du mal à, fané, comme jamais, la faute à, provincial, imprimé, histoire de fous, s'écraser, s'écouler, figurez-vous, ruisseler, se fissurer, en berne, hors du temps, haussmannien, délabré, exténué, affichette, baragouiner, confusément, prendre possession de, en fureur, tambouriner, se démonter, escarpin, munition, raffut, luthier, faire le plaisir de, déguerpir, flegme, en quel honneur, pas un sou vaillant, clopiner, baragouinage, usurpateur
+- French: new sense — coincé "stuck; uptight"
+- French: sou, fort, réclamer, signifier, fureur, passage, réponse, ficher, croisée, balancer, enquête, contourner and dominer now lead with their everyday meaning; 16 levels corrected (talon, réservation, avenue, ressembler A2; trempé, signifier, grimper B1; façade, dépendance, contenir, réclamer, dominer, contourner, ficher B2; miteux, boucan C1, and boucan is marked colloquial)
+
+## 1.49.5 — 2026-11-20
+- French: 46 words and set phrases added from a fifth novel excerpt — vacances scolaires, prendre un verre, avoir envie, citron vert, demander son chemin, arrondissement, tant que, sur place, à base de, se détendre, se nourrir, date de péremption, se rapprocher, s'allumer, coup d'œil, en réalité, drôle de, surexcité, figurer, cameraman, mépriser, monter à la tête, blaguer, paillettes, se bloquer, se foutre de, tant que vous y êtes, photographe de plateau, reluquer, tocard, chair fraîche, saouler, inlassablement, revenir à la charge, désarroi, détromper, carburer, lassitude, frôler, plan à trois, pressant, lucidité, allumeuse, se rabattre sur, envoyer promener, héler
+- French: new senses — frais "fresh; cool", impossible (adjective), pervers "perverted", bourrin "brute, oaf"
+- French: feuille, signe, plateau, type, coke, plan, marche, rame, afficher, enchaîner, écarter, rapprocher, alcool and pétasse now lead with their everyday meaning; 19 levels corrected (citron A1; feuille, roue, scolaire, alcool A2; désirer, afficher, bloquer, ambiance, insulte, flamme, solitude, rapprocher B1; réchauffer, susciter, enchaîner, écarter, jetable B2); foutre "sperm" moved from A2 to C2 and marked vulgar, as is pétasse
+
+## 1.49.4 — 2026-11-20
+- French: 50 words and set phrases added from a fourth novel excerpt, mostly fashion and film vocabulary — avoir mal, au milieu de, centre commercial, par hasard, jusqu'à quand, faire la fête, en place, faire remarquer, conte de fées, se concentrer, train de banlieue, chauffé, courant d'air, ça tourne, haute couture, mettre les moyens, de renom, somptueux, encadrer, icône, premier plan, top-modèle, amasser, prendre des gants, s'estimer heureux, couturier, mettre en valeur, shooting, bas de gamme, constat, tu parles, froid de canard, se démaquiller, scénographie, pléthore, sans grade, consciencieusement, être du voyage, pipeau, seriner, mannequinat, sur le tard, de second rang, faire bonne figure, figer, implacable, interpeller, galbé, chaloupé, sylphide
+- French: prise, maison, costume, marque, couverture, anonyme, rang, repérer, estimer, tenir, loge, désolé, dresser, effectuer, défiler, pub, crier and démarche now lead with their everyday meaning; 23 levels corrected (photographe A2; posséder, vieillir, banlieue, stagiaire, mannequin, épuisé, légèrement B1; effectuer, sophistiqué, décor, grandiose, figurant, grade, défiler, étincelle, casting, dresser, confronter, podium, démarche, estimer B2; bled C1)
+
+## 1.49.3 — 2026-11-20
+- French: 30 words and set phrases added from a third novel excerpt — se connaître, tout le temps, tomber amoureux, mètre carré, celle, secouer la tête, coûter une fortune, servir de, se lancer, y croire, se rasseoir, faire l'amour, flatté, coup de cœur, prince charmant, en commun, avoir la chair de poule, petit vieux, sans que, béquille, avoir en tête, attachant, être faits l'un pour l'autre, persuadé, se lasser, bergère, refouler, consterné, romanesque, charger la barque
+- French: new senses — touché "touched, moved", lancer "to throw", juste "just, exactly", infidèle "unfaithful", réaliste "realistic", amoureux "in love"
+- French: parvenir, prévenir, retenir, compter, baratin, candeur, gratin, fréquenter and projeter now include the everyday meaning; berger notes the feminine bergère; 18 levels corrected (larme, image and rapidement are now A2; naïf, attentif, carré, fréquenter and millionnaire B1; attentionné, parvenir, flatter, fable, berger, barque and baratin B2; juvénile, téméraire and lasser C1)
+
+## 1.49.2 — 2026-11-20
+- French: 44 words and set phrases added from a second novel excerpt — eh bien, je t'en prie, prendre une douche, à gauche, à droite, café au lait, pièce d'identité, tartine, saucisson, au bout du fil, en direction de, au fond de, donner l'impression, en sursaut, se redresser, logeur, cligner, filtrer, reprendre ses esprits, entrouvrir, pouvoir toujours attendre, d'un bond, passer une tête, modernité, attablé, prendre la liberté de, déplier, lever les yeux au ciel, illustré, l'air de ne pas y toucher, zinc, vichy, andouillette, en furie, troquet, se planter, capituler, superbement, relié, choléra, jargonner, moleskine, pistaché, plantureux
+- French: new senses — combiné "handset", minuscule "tiny", express "quick"
+- French: croissant, esprit, coin, droite, plat, fond, serviette, attraper, paquet, ruban, pièce, comptoir, rappeler, banquette and débarquer now lead with their everyday meaning; 21 levels corrected (mètre, douche and croissant are now A1; rideau, oreiller, confiture and serviette A2; comptoir, nappe, apercevoir, déchirer, parcourir, affamé, sonnerie, tandis que and limité B1; paupière, gorgée, ruban, dentelle and distinctement B2)
+- French: removed a duplicate affaire "belongings"
+
+## 1.49.1 — 2026-11-20
+- French: 42 words and set phrases added from a novel excerpt — il y a, tout le monde, avoir l'air, ah bon, et alors, en tout cas, se calmer, lampadaire, s'enfuir, le long de, à travers, perdre l'équilibre, coup de poing, au juste, pavé, coucher avec, bac à fleurs, marquer une pause, faire une fixation, se rattraper, hors de danger, espèce de, faillir, se dégager, prendre de l'élan, eau de Cologne, toiser, la belle affaire, fourbu, se décomposer, affolement, esquisser, se dérober, in extremis, hisser, agripper, marteler, virulence, tant bien que mal, empoigner, implorer, malotru
+- French: new senses for words that only had a rare one — dingue "crazy", coucher "to sleep (somewhere)", tendre "to hold out", soudain "suddenly", détaché "detached", inconscient "reckless", franc "frank"
+- French: croiser, trancher, dégager, conduit, angle, poubelle and recul now lead with their everyday meaning; lèvre and centimètre are now A2, and entourer, suffire, reprocher, secouer, éclairer, brusquement, croiser, refermer and rassurant B1 (were C1–C2)
+
+## 1.49.0 — 2026-11-19
+- French: checked against a core A1–B2 list of about 1,000 words, and fixed every gap
+- 301 words added, each with IPA, gender and plural: all the pronouns (je, tu, il, on, vous, ils, me, se, lui, leur…), the articles (le, la, les, un, une, des, du), possessives and demonstratives (mon, ta, ses, ce, cette…), the prepositions and conjunctions (à, de, dans, pour, chez, avec, et, ou, mais, que, quand…), greetings (bonsoir, au revoir, s'il vous plaît, de rien…), the numbers two to ten, twenty, hundred and thousand, about 50 reflexive verbs and set phrases (se lever, s'appeler, se souvenir, avoir besoin de…), and the everyday sense of words that only had a rare one — the verbs être, avoir, aller, manger, parler, pouvoir, vouloir, savoir and the adjectives grand, petit, bon, beau, chaud, blanc… (they were nouns like "parlance", "food", "grown-up")
+- 354 basic words moved down to their proper level (the months and days were B1–B2, légume and tomate C1, pleuvoir C1…)
+- 83 meanings now lead with the everyday sense (partir "to leave" was "to share out", panne "breakdown" was "plush velvet", billet "ticket" was "note", assiette "plate" was "manner of being seated"…)
+- 66 rare-sense entries that sat at A1–A2 (manger "food", parler "parlance", moi "the ego"…) moved up to B1–C2 so they no longer crowd beginners
+- chat is now pronounced /ʃa/ (was the English /tʃat/)
+
+## 1.48.2 — 2026-11-19
+- French: removed 41 scraped junk entries — empty placeholder rows ([deleted], [unused], [no entry]), letter names (a, ji, erre), nonstandard "oe" spellings (oeufs, soeurs, coeurs, voeux, oeuvres, noeuds), archaic spellings (rit, derniere, etaient), proper names (karen, césar, wu, picard, oxford, illinois, colt, alain, winchester, boo, boston), fritz (glossed with a slur), and wrong or obscure entries (crie, indique, belgique, congo, gaga, secréter, worth, jan, Merveilleuse, Landais, Toulousain, Toulonnais, Clermontois)
+- French: elle is now the pronoun "she, her" and comment the adverb "how" (both were junk senses: the letter L, "the how"); judas is "peephole; traitor", charleston "the Charleston (dance)", bordeaux "Bordeaux wine"; goinfre now has a level (B2)
+
+## 1.48.1 — 2026-11-19
+- French: removed roy (an archaic spelling of roi) and added embouteillage "traffic jam" (B1) in its place
+
+## 1.48.0 — 2026-11-19
+- Quiz notes no longer give answers away for free: "Show context (hint)" still opens a word's note before you answer, but a correct answer after opening it earns no point (it still counts as a correct attempt, and a wrong answer counts as usual)
+- After you answer, the word's note opens by itself on the feedback screen
+
+## 1.47.4 — 2026-11-19
+- Cards now list every register a word is marked with ("familier, populaire, argotique, vulgaire") instead of a range ("familier – vulgaire"), which read as if the word itself were vulgar
+- French: rencard now means "date, meetup" (was "appointment"), with a note that it is the casual word for rendez-vous
+
+## 1.47.3 — 2026-11-19
+- French: le failli "bankrupt person" is now B2 (was B1)
+
+## 1.47.2 — 2026-11-19
+- French: le failli now means "bankrupt person" (the meaning was the adjectives "bankrupt; insolvent"), with a note on the feminine and the adjective use
+
+## 1.47.1 — 2026-11-19
+- French: congé now means "time off, leave"
+
+## 1.47.0 — 2026-11-17
+- Reading comprehension: every word in the new A1 passages now has a hover hint. Each passage records which vocabulary entry each of its words belongs to, so inflected forms point to their dictionary word (comen → "comer: to eat", kouluun → "koulu: school") and words spelled alike show the right meaning
+- Hover hints now work for multi-word entries (Vietnamese bệnh viện, Hebrew בית חולים), for Chinese and Japanese, which are split into words automatically, and for Hindi, Marathi and Bengali, whose vowel signs used to cut words apart
+- 728 A1–A2 words added across the 26 languages so every passage word is in the vocabulary — mostly function words and everyday words that were missing (articles, prepositions, pronouns, Swedish på/till/med, Finnish pitkä "long", Korean 개 "dog", Hindi कुत्ता "dog", Chinese 公司, 非常) — each with pronunciation in the language's style
+- Basic words that were filed at too high a level or with a rare sense are fixed, e.g. Spanish comer "to eat" (was a noun, "eating, food"), tienda "store", grande "big"; Swedish ha "to have"; Finnish antaa "to give", kauppa "store"; Hebrew אחות "nurse"
+- New part of speech: article
+
+## 1.46.0 — 2026-11-16
+- Reading comprehension for every language that didn't have it — Arabic, Bengali, Chinese, Danish, Dutch, Finnish, Hebrew, Hindi, Hungarian, Indonesian, Italian, Japanese, Korean, Marathi, Norwegian, Polish, Portuguese, Romanian, Russian, Serbo-Croatian, Spanish, Swahili, Swedish, Turkish, Ukrainian and Vietnamese: four A1 passages (going to school on Fridays, her two dogs, their mother the nurse, their father the software tester), each with four multiple-choice questions in the language
+- Reading screens run right to left for Arabic and Hebrew — passage, question, answer choices and the answer review
+
+## 1.45.7 — 2026-11-16
+- Swedish: no length mark on a stop at the end of a word, matching the other languages (tack [tak], natt [nat], bort [bɔʈ]) — 42 words; length stays on final continuants (vill [vɪlː]) and on stops inside a word (mamma, titta)
+
+## 1.45.6 — 2026-11-16
+- Finnish pronunciations are more exact: the mid vowels e, ö, o carry the lowering mark (e̞ ø̞ o̞), t is dental (t̪), and n before t is dental too (n̪t̪) — 5,640 words, e.g. talo [ˈt̪ɑlo̞], tuntea [ˈt̪un̪t̪e̞ɑ]
+- Finnish Pronunciation Guide explains the vowel quality and the dental t, with the new symbols in its key
+
+## 1.45.5 — 2026-11-16
+- Finnish: added 77 missing basic words — the personal and question pronouns (sinä, hän, se, me, te, ne, tämä, tuo, mikä, mitä "what", kuka, joku, kaikki …), the numbers one to ten plus hundred, thousand and million, conjunctions (koska, että, jos, kun, eli, jotta, sekä), greetings and set phrases (hei, moi, anteeksi, näkemiin, nähdään, tervetuloa, hyvää huomenta/päivää/iltaa/yötä, ole hyvä, ei kestä, mitä kuuluu?), postpositions (jälkeen, päällä, vieressä, luona, välissä, kautta, vastaan), and iso, usein, todella, myöhään, aikaisin, vanhemmat, hiukset, kuulla, täytyy, tammikuu, helmikuu
+- Finnish: fixed basic words that had a wrong or rare meaning — minä "I, me" (was "ego"), he "they" (was the Hebrew letter), oma "own" (was "friendly"), kyllä "yes" (was "abundance"), ja "and", mutta "but", kuin "than, as", kanssa "with" (was "also"), ennen "before", vain "only", vielä "still, yet", tai "or", vai "or (in questions)" — with the right part of speech; voida and nolla are now A1, the months A1 (were C2), kuu A2
+- Finnish: ykkönen … kuutonen, ysi, kymppi, sillä and varhain now have meanings distinct from the plain numbers and words
+
+## 1.45.4 — 2026-11-16
+- Finnish: the entry glossed "the" is now the pair it belongs to, mitä …, sitä … "the + comparative …, the + comparative …" (mitä enemmän, sitä parempi: the more, the better), a B1 conjunction
+
+## 1.45.3 — 2026-11-16
+- Swedish: every pronunciation regenerated in exact (bracketed) IPA for Central Standard Swedish — stress and word accent on every word of more than one syllable (ˈ accent 1, ² accent 2, ˌ secondary stress in compounds), long vowels and long consonants, retroflex ʂ ʈ ɖ ɳ ɭ wherever r meets s, t, d, n or l, and ɧ, ɕ for the sj- and tj-sounds. The 371 words that had no pronunciation now have one, and words spelled alike but said differently get their own (kort "card" [kuːʈ] vs. kort "short" [kɔʈː], fort "fortress" vs. fort "quickly", sedan, genom, tom, hit, perfekt)
+
+## 1.45.2 — 2026-11-16
+- Swedish: r before s, t, d, n or l is now shown as the single retroflex sound it becomes (ʂ, ʈ, ɖ, ɳ, ɭ) in 26 pronunciations, e.g. försöka, förstå, person, barn, kort, hjärta, värld; försök is now [fœ̞ˈʂøːk] and förstås [fœ̞ˈʂʈoːs]
+
 ## 1.45.1 — 2026-11-16
 - Vietnamese tones are now drawn the way Chinese tones are: a small colored contour line above each syllable of the pronunciation, with six shapes for ngang, huyền, sắc, hỏi, ngã and nặng. The Browse table shows them as pitch bars after each syllable
 - The Vietnamese Pronunciation Guide's tone section shows the six contour lines, each with an example word
