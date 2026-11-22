@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M4 84h88M86 78l6 6-6 6" stroke-width="3"/>
+  <circle cx="87" cy="13" r="9" stroke-width="2.5"/>
+  <path d="M87 13V8M87 13l4 2" stroke-width="2"/>
+  <circle cx="28" cy="30" r="6.5"/>
+  <circle cx="31" cy="29" r="1.6" fill="currentColor" stroke="none"/>
+  <path d="M28 37v22M28 59l-8 25M28 59l8 25M28 43l-8 10M28 43l9 8"/>
+  <path class="pic-accent" d="M60 60h12l-6 20z" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M66 52v8" stroke-width="3"/>
+  <path d="M31 30L63 54" stroke-width="2" stroke-dasharray="1 4"/>
+  <text x="66" y="44" font-family="-apple-system, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">1</text>
+</svg>

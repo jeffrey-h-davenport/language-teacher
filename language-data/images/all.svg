@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-line" cx="14" cy="43.4" r="4.9"/>
+  <path class="pic-accent-line" d="M14 48.3V67.2M14 67.2l-4.9 16.8M14 67.2l4.9 16.8M14 52.5l-6.3 10.5M14 52.5l6.3 10.5"/>
+  <circle class="pic-accent-line" cx="32" cy="43.4" r="4.9"/>
+  <path class="pic-accent-line" d="M32 48.3V67.2M32 67.2l-4.9 16.8M32 67.2l4.9 16.8M32 52.5l-6.3 10.5M32 52.5l6.3 10.5"/>
+  <circle class="pic-accent-line" cx="50" cy="43.4" r="4.9"/>
+  <path class="pic-accent-line" d="M50 48.3V67.2M50 67.2l-4.9 16.8M50 67.2l4.9 16.8M50 52.5l-6.3 10.5M50 52.5l6.3 10.5"/>
+  <circle class="pic-accent-line" cx="68" cy="43.4" r="4.9"/>
+  <path class="pic-accent-line" d="M68 48.3V67.2M68 67.2l-4.9 16.8M68 67.2l4.9 16.8M68 52.5l-6.3 10.5M68 52.5l6.3 10.5"/>
+  <circle class="pic-accent-line" cx="86" cy="43.4" r="4.9"/>
+  <path class="pic-accent-line" d="M86 48.3V67.2M86 67.2l-4.9 16.8M86 67.2l4.9 16.8M86 52.5l-6.3 10.5M86 52.5l6.3 10.5"/>
+  <path d="M8 16v-6h84v6" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-line" cx="28" cy="28" r="19" stroke-width="3"/>
+  <circle cx="21" cy="23" r="2.2" fill="currentColor" stroke="none"/>
+  <circle cx="35" cy="23" r="2.2" fill="currentColor" stroke="none"/>
+  <path d="M20 33q8 8 16 0" stroke-width="2.8"/>
+  <circle class="pic-accent-line" cx="72" cy="28" r="19" stroke-width="3"/>
+  <circle cx="65" cy="23" r="2.2" fill="currentColor" stroke="none"/>
+  <circle cx="79" cy="23" r="2.2" fill="currentColor" stroke="none"/>
+  <path d="M64 38q8-7 16 0" stroke-width="2.8"/>
+  <circle class="pic-accent-line" cx="28" cy="72" r="19" stroke-width="3"/>
+  <circle cx="21" cy="69" r="2.2" fill="currentColor" stroke="none"/>
+  <circle cx="35" cy="69" r="2.2" fill="currentColor" stroke="none"/>
+  <path d="M16 61l9 4M40 61l-9 4M21 81h14" stroke-width="2.8"/>
+  <circle class="pic-accent-line" cx="72" cy="72" r="19" stroke-width="3"/>
+  <circle cx="65" cy="67" r="3" fill="currentColor" stroke="none"/>
+  <circle cx="79" cy="67" r="3" fill="currentColor" stroke="none"/>
+  <ellipse cx="72" cy="80" rx="4" ry="5.5" stroke-width="2.8"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent-line" d="M8 50h24l24-22h14M32 50l24 22h14M64 22l6 6-6 6M64 66l6 6-6 6" stroke-width="3.5"/>
+  <circle cx="84" cy="28" r="12"/>
+  <rect x="73" y="61" width="22" height="22" rx="2"/>
+  <text class="pic-accent-text" x="22" y="36" font-family="-apple-system, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">?</text>
+</svg>

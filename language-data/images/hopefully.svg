@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent-line" d="M44 58L62 14M60 58L42 16" stroke-width="8"/>
+  <rect x="32" y="54" width="38" height="34" rx="9" fill="var(--surface, #fff)"/>
+  <path d="M42 62v8M52 62v8M62 62v8" stroke-width="2.5"/>
+  <path d="M32 72c-8 0-10-10-4-12" stroke-width="3"/>
+  <path d="M74 20l4 6M82 30l5 2M22 26l-3 6" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-line" cx="30" cy="26" r="7"/>
+  <path class="pic-accent-line" d="M30 33V60M30 60l-7 24M30 60l7 24M30 39l-9 15M30 39l12 6"/>
+  <rect x="54" y="14" width="34" height="62" rx="4" stroke-width="3"/>
+  <path d="M71 76v10M60 86h22" stroke-width="3"/>
+  <g opacity="0.4">
+  <circle class="pic-accent-line" cx="71" cy="28.5" r="5.25"/>
+  <path class="pic-accent-line" d="M71 33.75V54M71 54l-5.25 18M71 54l5.25 18M71 38.25l-9 5M71 38.25l6 11"/>
+  </g>
+  <path d="M80 22l-6 8M84 30l-4 5" stroke-width="2"/>
+</svg>

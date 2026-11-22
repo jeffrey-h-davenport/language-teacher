@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent-line" d="M18.9 87.1A44 44 0 1 1 81.1 87.1" stroke-width="5"/>
+  <path d="M26.0 80.0L21.7 84.3" stroke-width="3"/>
+  <path d="M16.7 66.8L13.9 67.7" stroke-width="2"/>
+  <path d="M15.4 50.5L12.5 50.1" stroke-width="2"/>
+  <path d="M21.7 35.4L19.3 33.7" stroke-width="2"/>
+  <path d="M34.1 24.8L32.7 22.1" stroke-width="2"/>
+  <path d="M50.0 21.0L50.0 18.0" stroke-width="2"/>
+  <path d="M65.9 24.8L67.3 22.1" stroke-width="2"/>
+  <path d="M78.3 35.4L80.7 33.7" stroke-width="2"/>
+  <path d="M84.6 50.5L87.5 50.1" stroke-width="2"/>
+  <path d="M83.3 66.8L86.1 67.7" stroke-width="2"/>
+  <path d="M74.0 80.0L78.3 84.3" stroke-width="3"/>
+  <circle cx="50" cy="56" r="26"/>
+  <path class="pic-accent-line" d="M50 56L64.1 70.1" stroke-width="6"/>
+  <text x="17.5" y="93.5" font-family="-apple-system, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none" opacity="0.5">0</text>
+</svg>

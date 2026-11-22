@@ -146,6 +146,7 @@ let questionIndex  = 0
 let contextHintUsed = false   // the note was opened before answering (a hint: no point)
 let currentQ       = null   // { word, showNative, choices }
 let currentMeta    = null   // { language, languageCode, nativeLanguage, targetField }
+let pictureLibrary = {}     // { name: svg markup } from language-data/images, shared by all languages
 let currentScript  = null   // { scriptName, intro, sections: [{heading, items: [{char, ipa, note}]}] } or null
 let sessionScore   = 0
 let sessionCorrect = 0
@@ -153,6 +154,8 @@ let sessionTotal   = 0
 let sessionResults = []
 let introWords     = []   // this session's brand-new words, introduced before the quiz
 let introIndex     = 0
+let introMode      = 'new'  // 'new' (before a session's quiz) or 'review' (opened from the quiz)
+let savedIntro     = null   // the session's intro words, kept while a review borrows the intro screen
 let autoAdvanceTimer  = null
 let editReturnScreen   = 'quiz-screen'
 let searchReturnScreen = 'welcome-screen'
@@ -822,10 +825,115 @@ function familyOf(word) {
   return members.filter(w => w.id !== word.id)
 }
 
-function makeQuestion(word) {
-  const showNative = Math.random() < 0.5
+// ── Pictures ──────────────────────────────────────────
+// A word's "image" names an SVG in the shared picture library. The markup is
+// parsed and cleaned before it goes into the page (no scripts, event
+// handlers or outside links), then inlined so its strokes can take the
+// text color through currentColor.
+function picturesOn() {
+  return preferences.usePictures !== false
+}
+
+function languageHasPictures() {
+  return allWords.some(hasPicture)
+}
+
+function updatePictureToggle() {
+  const btn = $('picture-toggle-btn')
+  btn.classList.toggle('hidden', !languageHasPictures())
+  btn.classList.toggle('active', picturesOn())
+  btn.textContent = picturesOn() ? '🖼 Pictures' : '🔤 Words'
+}
+
+// Switching before answering swaps English and pictures on the current
+// question and keeps its direction: an English prompt becomes the picture
+// (same choices), English choices become pictures. A hint already used on
+// this question still counts.
+function togglePictures() {
+  preferences.usePictures = !picturesOn()
+  window.api.savePreferences(preferences)
+  updatePictureToggle()
+  const answered = !$('next-btn').classList.contains('hidden')
+  if (!currentQ || answered || !hasPicture(currentQ.word) || currentQ.word.baseId) return
+  const word   = wordById(currentQ.word.id)
+  const hinted = contextHintUsed
+  if (currentQ.showNative) {
+    // Another choice drawn with the same picture would also be right once
+    // the picture is the prompt, so redraw the choices in that case.
+    const clash = picturesOn() && currentQ.choices.some(c => c.id !== word.id && c.image === word.image)
+    currentQ = clash
+      ? makeQuestion(word, { showNative: true })
+      : { ...currentQ, mode: picturesOn() ? 'picture-prompt' : 'words' }
+  } else {
+    currentQ = makeQuestion(word, { showNative: false })
+  }
+  displayQuestion(currentQ)
+  contextHintUsed = hinted
+}
+
+function hasPicture(word) {
+  return !!(word && word.image && pictureLibrary[word.image])
+}
+
+function pictureElement(name) {
+  const doc = new DOMParser().parseFromString(pictureLibrary[name] || '', 'image/svg+xml')
+  const svg = doc.documentElement
+  if (!svg || svg.nodeName !== 'svg') return document.createElement('span')
+  svg.querySelectorAll('script, foreignObject, iframe').forEach(n => n.remove())
+  for (const el of [svg, ...svg.querySelectorAll('*')]) {
+    for (const attr of [...el.attributes]) {
+      const n = attr.name.toLowerCase()
+      if (n.startsWith('on') || ((n === 'href' || n === 'xlink:href') && !attr.value.startsWith('#'))) {
+        el.removeAttribute(attr.name)
+      }
+    }
+  }
+  svg.removeAttribute('width')
+  svg.removeAttribute('height')
+  svg.classList.add('picture')
+  svg.setAttribute('aria-hidden', 'true')
+  return document.importNode(svg, true)
+}
+
+// The Pictures switch replaces English with pictures wherever English
+// would appear: a word-to-English question gets picture choices, and an
+// English-to-word question gets the picture as its prompt. Wrong pictures
+// can come from anywhere in the library, since a picture choice needs no
+// word behind it. Forms of a word (which test endings, not meaning) and
+// words without a picture keep English.
+function canUsePicture(word) {
+  return picturesOn() && hasPicture(word) && !word.baseId
+}
+
+// Wrong pictures come first from words of the same part of speech in this
+// language, so a verb's picture isn't the only action among objects; the
+// rest of the library fills in when there aren't enough.
+function makePictureChoices(word) {
+  const others = Object.keys(pictureLibrary).filter(n => n !== word.image)
+  if (others.length < CHOICES_COUNT - 1) return null
+  const pos = word['part-of-speech']
+  const samePos = new Set(allWords
+    .filter(w => w['part-of-speech'] === pos && hasPicture(w))
+    .map(w => w.image))
+  const preferred = shuffle(others.filter(n => samePos.has(n)))
+  const rest      = shuffle(others.filter(n => !samePos.has(n)))
+  const distractors = [...preferred, ...rest].slice(0, CHOICES_COUNT - 1)
+    .map(name => ({ id: `picture:${name}`, image: name }))
+  return { word, showNative: false, mode: 'picture-choices', choices: shuffle([word, ...distractors]) }
+}
+
+function makeQuestion(word, { showNative = Math.random() < 0.5 } = {}) {
+  if (!showNative && canUsePicture(word)) {
+    const q = makePictureChoices(word)
+    if (q) return q
+  }
+  const pictureprompt = showNative && canUsePicture(word)
+  const mode   = pictureprompt ? 'picture-prompt' : 'words'
   const label  = w => showNative ? formatTarget(w) : w.english
   const prompt = w => showNative ? w.english : formatTarget(w)
+  // With a picture as the question, another word drawn with the same
+  // picture would also be a right answer.
+  const usable = w => !pictureprompt || w.image !== word.image
 
   // A declined or conjugated form is quizzed against the other forms of the
   // same word, so the question tests the ending, not the vocabulary. There
@@ -848,16 +956,16 @@ function makeQuestion(word) {
       distractors.push(w)
     }
     if (distractors.length > 0) {
-      return { word, showNative, choices: shuffle([word, ...distractors]) }
+      return { word, showNative, mode, choices: shuffle([word, ...distractors]) }
     }
   }
 
   const samePOS = allWords.filter(
-    w => w['part-of-speech'] === word['part-of-speech'] && w.id !== word.id
+    w => w['part-of-speech'] === word['part-of-speech'] && w.id !== word.id && usable(w)
   )
   const pool = samePOS.length >= CHOICES_COUNT - 1
     ? samePOS
-    : allWords.filter(w => w.id !== word.id)
+    : allWords.filter(w => w.id !== word.id && usable(w))
 
   const seen = new Set([label(word)])
   const distractors = []
@@ -871,7 +979,7 @@ function makeQuestion(word) {
   }
 
   if (distractors.length < CHOICES_COUNT - 1) {
-    for (const w of shuffle(allWords.filter(w => w.id !== word.id))) {
+    for (const w of shuffle(allWords.filter(w => w.id !== word.id && usable(w)))) {
       if (distractors.length >= CHOICES_COUNT - 1) break
       const lbl = label(w)
       if (!seen.has(lbl)) {
@@ -881,23 +989,27 @@ function makeQuestion(word) {
     }
   }
 
-  return { word, showNative, choices: shuffle([word, ...distractors]) }
+  return { word, showNative, mode, choices: shuffle([word, ...distractors]) }
 }
 
 // ── Display a Question ────────────────────────────────
 function displayQuestion(q) {
   const { word, showNative, choices } = q
+  const mode = q.mode || 'words'
 
   const nativeLang = currentMeta?.nativeLanguage || 'English'
   const targetLang = currentMeta?.language       || 'Target'
-  setFlagAndText($('direction-badge'), currentMeta?.languageCode, showNative
-    ? `\u00a0 ${nativeLang} → ${targetLang}`
-    : `\u00a0 ${targetLang} → ${nativeLang}`)
+  const fromLang = mode === 'picture-prompt' ? 'Picture' : showNative ? nativeLang : targetLang
+  const toLang   = mode === 'picture-choices' ? 'Picture' : showNative ? targetLang : nativeLang
+  setFlagAndText($('direction-badge'), currentMeta?.languageCode, `\u00a0 ${fromLang} → ${toLang}`)
 
   const level = currentCefrLevel()
   $('cefr-level-chip').textContent = level ? `Level ${level}` : '✓ All'
 
-  setEmphasizedText($('word-display'), showNative ? word.english : formatTarget(word))
+  const display = $('word-display')
+  display.classList.toggle('word-display-picture', mode === 'picture-prompt')
+  if (mode === 'picture-prompt') display.replaceChildren(pictureElement(word.image))
+  else setEmphasizedText(display, showNative ? word.english : formatTarget(word))
 
   // Register only describes the target-language word, so it's shown alongside
   // it (like IPA) — not when English is the head word and the target is hidden.
@@ -948,12 +1060,19 @@ function displayQuestion(q) {
   // boost than Devanagari), so each script's data file can set its own
   // fontScale — defaulting to 1.25 for scripts that don't specify one.
   grid.classList.toggle('non-latin-choices', showNative && !!currentScript)
+  grid.classList.toggle('picture-choices', mode === 'picture-choices')
   grid.style.setProperty('--non-latin-scale', (currentScript && currentScript.fontScale) || 1.25)
   choices.forEach(choice => {
-    const label = showNative ? formatTarget(choice) : choice.english
     const btn   = document.createElement('button')
     btn.className  = 'choice-btn'
     btn.dataset.id = choice.id
+    if (mode === 'picture-choices') {
+      btn.appendChild(pictureElement(choice.image))
+      btn.addEventListener('click', () => handleChoice(btn, choice))
+      grid.appendChild(btn)
+      return
+    }
+    const label = showNative ? formatTarget(choice) : choice.english
     const span = document.createElement('span')
     span.className   = 'choice-text'
     setEmphasizedText(span, label)
@@ -1005,6 +1124,7 @@ function displayQuestion(q) {
     mlBtn.classList.remove('hidden')
   }
 
+  updatePictureToggle()
   updateHeader()
 }
 
@@ -1066,12 +1186,14 @@ function handleChoice(btn, chosen) {
   $('feedback-icon').textContent = correct ? '✓' : '✗'
   if (correct) {
     const msg = hinted
-      ? `Correct, but the note was used as a hint, so no point this time (${word.score}/${learnedThreshold()} pts)`
+      ? `Correct, but a hint was used, so no point this time (${word.score}/${learnedThreshold()} pts)`
       : word.score >= learnedThreshold()
       ? `Excellent! "${currentQ.word.english}" is now learned!`
       : `Correct! (${word.score}/${learnedThreshold()} pts)`
     $('feedback-text').textContent = msg
   } else {
+    // With picture choices the right picture is highlighted; the English
+    // meaning is safe to show now that the question is answered.
     const answer = currentQ.showNative
       ? formatTarget(currentQ.word)
       : currentQ.word.english
@@ -1362,6 +1484,7 @@ function startSession() {
   // nothing new goes straight to the quiz.
   introWords = sessionWords.filter(w => w.score === 0 && !w.learned)
   introIndex = 0
+  introMode  = 'new'
   if (introWords.length > 0) {
     displayIntroCard()
     showScreen('intro-screen')
@@ -1402,6 +1525,9 @@ function displayIntroCard() {
   const countabilityTag = { mass: ' · mass', collective: ' · collective', 'plural-only': ' · plural only' }
   $('intro-pos').textContent = word['part-of-speech'] + (countabilityTag[word.countability] || '')
   $('intro-meaning').textContent = word.english
+  const picture = hasPicture(word) ? pictureElement(word.image) : null
+  $('intro-picture').classList.toggle('hidden', !picture)
+  $('intro-picture').replaceChildren(...(picture ? [picture] : []))
 
   const grammar = word.grammar?.trim() || ''
   $('intro-grammar').classList.toggle('hidden', !grammar)
@@ -1411,8 +1537,12 @@ function displayIntroCard() {
   $('intro-context').classList.toggle('hidden', !context)
   $('intro-context').textContent = isolateRTL(context)
 
+  const review = introMode === 'review'
+  $('intro-badge').textContent = review ? `📖 Review · ${word.learned ? 'learned' : `${word.score} / ${learnedThreshold()} pts`}` : '✨ New word'
+  $('intro-quit-btn').classList.toggle('hidden', review)
+  $('intro-skip-btn').textContent = review ? 'Back to Quiz' : 'Skip to Quiz'
   $('intro-back-btn').disabled = introIndex === 0
-  $('intro-next-btn').textContent = isLast ? 'Start Quiz →' : 'Next Word →'
+  $('intro-next-btn').textContent = isLast ? (review ? 'Back to Quiz →' : 'Start Quiz →') : 'Next Word →'
 }
 
 function nextIntroCard() {
@@ -1420,8 +1550,49 @@ function nextIntroCard() {
     introIndex++
     displayIntroCard()
   } else {
-    startQuiz()
+    leaveIntro()
   }
+}
+
+function leaveIntro() {
+  if (introMode === 'review') closeReview()
+  else startQuiz()
+}
+
+// ── Review ────────────────────────────────────────────
+// Study cards for the words in the current session, the ones the quiz is
+// asking about, weakest first. Opened before answering, the cards give the
+// answer away, so it counts as a hint, the same as opening the note.
+function learningWords() {
+  return sessionWords
+    .map(w => wordById(w.id))
+    .filter(Boolean)
+    .sort((a, b) => a.score - b.score || formatTarget(a).localeCompare(formatTarget(b)))
+}
+
+function openReview() {
+  const words = learningWords()
+  if (words.length === 0) return
+  const answered = !$('next-btn').classList.contains('hidden')
+  if (!answered) contextHintUsed = true
+  clearTimeout(autoAdvanceTimer)
+  autoAdvanceTimer = null
+  savedIntro = { words: introWords, index: introIndex }
+  introWords = words
+  // Start at the word on screen when it's already answered, else at the top.
+  const here = answered ? words.findIndex(w => w.id === currentQ.word.id) : -1
+  introIndex = Math.max(here, 0)
+  introMode  = 'review'
+  displayIntroCard()
+  showScreen('intro-screen')
+}
+
+function closeReview() {
+  introWords = savedIntro ? savedIntro.words : []
+  introIndex = savedIntro ? savedIntro.index : 0
+  savedIntro = null
+  introMode  = 'new'
+  showScreen('quiz-screen')
 }
 
 function prevIntroCard() {
@@ -1561,6 +1732,7 @@ async function loadVocabulary(slug) {
   if (result.error) { alert(result.error); return }
 
   currentMeta = result.vocab.meta || {}
+  pictureLibrary = result.images || {}
   // Default targetField to lowercase language name if not specified
   if (!currentMeta.targetField && currentMeta.language) {
     currentMeta.targetField = currentMeta.language.toLowerCase()
@@ -2231,7 +2403,9 @@ document.addEventListener('DOMContentLoaded', () => {
   })
   $('intro-next-btn').addEventListener('click', nextIntroCard)
   $('intro-back-btn').addEventListener('click', prevIntroCard)
-  $('intro-skip-btn').addEventListener('click', startQuiz)
+  $('intro-skip-btn').addEventListener('click', leaveIntro)
+  $('review-btn-quiz').addEventListener('click', openReview)
+  $('picture-toggle-btn').addEventListener('click', togglePictures)
 
   $('next-btn').addEventListener('click', nextQuestion)
   $('mark-learned-btn').addEventListener('click', markCurrentAsLearned)

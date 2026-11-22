@@ -923,6 +923,51 @@ html, body {
 
 .choice-btn:disabled { cursor: default; }
 
+/* ── Pictures ──────────────────────────────────────────
+   Line drawings from language-data/images: strokes use currentColor, and
+   one highlighted part per picture uses the accent. */
+.picture { display: block; width: 100%; height: 100%; }
+.picture .pic-accent      { fill: var(--accent); stroke: var(--accent); }
+.picture .pic-accent-line { stroke: var(--accent); }
+.picture .pic-faded       { opacity: 0.35; }
+.picture .pic-accent-text { fill: var(--accent); stroke: none; }
+.picture .pic-accent-soft { fill: color-mix(in srgb, var(--accent) 33%, transparent); stroke: var(--accent); }
+
+.choices-grid.picture-choices {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.choices-grid.picture-choices .choice-btn {
+  height: 112px;
+  padding: 8px;
+}
+.choice-btn.correct .picture   { color: #1a7f38; }
+.choice-btn.incorrect .picture { color: #c53030; }
+
+.word-display.word-display-picture {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto 8px;
+}
+
+.btn-picture-toggle {
+  background: var(--surface);
+  border: 1.5px solid var(--border);
+  border-radius: 999px;
+  padding: 6px 14px;
+  font: 500 0.9rem var(--font);
+  color: var(--text-2);
+  cursor: pointer;
+}
+.btn-picture-toggle:hover { border-color: var(--accent); color: var(--text); }
+.btn-picture-toggle.active { border-color: var(--accent); color: var(--accent); }
+
+.intro-picture {
+  width: 140px;
+  height: 140px;
+  margin: 14px auto 0;
+  color: var(--text);
+}
+
 
 /* ── Feedback Bar ──────────────────────────────────── */
 .feedback-bar {

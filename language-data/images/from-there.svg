@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="22" cy="27.8" r="6.3"/>
+  <path d="M22 34.1V58.4M22 58.4l-6.3 21.6M22 58.4l6.3 21.6M22 39.5l-8.1 13.5M22 39.5l8.1 13.5"/>
+  <ellipse cx="22" cy="88" rx="13" ry="4"/>
+  <ellipse class="pic-accent" cx="80" cy="88" rx="13" ry="4"/>
+  <path class="pic-accent-line" d="M72 70H38M44 64l-6 6l6 6"/>
+</svg>

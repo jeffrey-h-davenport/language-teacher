@@ -767,7 +767,8 @@
       "ipa": "[jɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "and"
     },
     {
       "id": "8b4aca25-e204-4bce-a36a-1c5c1e416656",
@@ -791,7 +792,8 @@
       "context": "in a way that the speaker does not directly show",
       "register": [
         "All"
-      ]
+      ],
+      "image": "in-that-way"
     },
     {
       "id": "df8bde8a-9173-4f00-a6bd-8e68aa20fbc6",
@@ -802,7 +804,8 @@
       "ipa": "[ˈmut̪ːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "but"
     },
     {
       "id": "790d5cc2-95e7-449f-8cd1-c70f54ab71ac",
@@ -813,7 +816,8 @@
       "ipa": "[ʋɑi̯n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "only"
     },
     {
       "id": "989265b0-6b6b-4289-96a9-f548c8dc59fd",
@@ -825,7 +829,8 @@
       "context": "in speech often mä",
       "register": [
         "All"
-      ]
+      ],
+      "image": "i"
     },
     {
       "id": "d09eaf2e-5ebc-48cd-8fe4-26d3f851090d",
@@ -837,16 +842,17 @@
       "context": "at the present time",
       "register": [
         "All"
-      ]
+      ],
+      "image": "now"
     },
     {
       "id": "e2b9d2a3-fd16-4ba0-a8a5-1b8262632ffb",
-      "part-of-speech": "noun",
-      "english": "butter",
+      "part-of-speech": "interjection",
+      "english": "oh!, oh dear",
       "finnish": "voi",
       "cefr": "A1",
       "ipa": "[ʋo̞i̯]",
-      "plural": "voit",
+      "context": "voi voi! oh dear!; also a form of voida: hän voi tulla, he can come",
       "register": [
         "All"
       ]
@@ -861,7 +867,8 @@
       "context": "isompi kuin minä: bigger than me",
       "register": [
         "All"
-      ]
+      ],
+      "image": "than"
     },
     {
       "id": "a7ee95b1-c138-45af-8d06-d41a51c7783a",
@@ -873,18 +880,20 @@
       "context": "in everyday speech usually ne",
       "register": [
         "All"
-      ]
+      ],
+      "image": "they"
     },
     {
       "id": "df572d5b-d6e7-401b-9c17-fb914320b571",
       "part-of-speech": "adverb",
-      "english": "in this place",
+      "english": "here",
       "finnish": "täällä",
       "cefr": "A1",
       "ipa": "[ˈt̪æːlːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "here"
     },
     {
       "id": "7624afe2-5973-4ae3-920b-1c7350bff8a0",
@@ -893,7 +902,7 @@
       "finnish": "olla",
       "cefr": "A1",
       "ipa": "[ˈo̞lːɑ]",
-      "context": "indicating that the subject and the complement of the verb form the same thing, or that the complement describes the subject",
+      "context": "also \"to have\": minulla on auto, I have a car",
       "register": [
         "All"
       ]
@@ -907,7 +916,8 @@
       "ipa": "[ˈhyʋæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "e4763198-e083-4cba-931e-425c5de5a90c",
@@ -930,7 +940,8 @@
       "ipa": "[ˈmiksi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "why"
     },
     {
       "id": "e4ae07ef-c9f4-496b-acc8-e785fe22d3b4",
@@ -941,12 +952,13 @@
       "ipa": "[ˈmit̪e̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "how"
     },
     {
       "id": "8a689d5a-044d-4e76-af91-093716dfe813",
       "part-of-speech": "adverb",
-      "english": "from there, thence",
+      "english": "from it, about it; from there",
       "finnish": "siitä",
       "cefr": "A1",
       "ipa": "[ˈsiːt̪æ]",
@@ -968,16 +980,15 @@
     },
     {
       "id": "9a71643e-1229-4577-9673-50cf08876185",
-      "part-of-speech": "noun",
-      "english": "thanks",
+      "part-of-speech": "interjection",
+      "english": "thank you, thanks",
       "finnish": "kiitos",
       "cefr": "A1",
       "ipa": "[ˈkiːt̪o̞s]",
-      "plural": "kiitokset",
-      "context": "expression of gratitude",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thanks"
     },
     {
       "id": "0fe0597c-4e99-4a90-82cb-eaaa5b435343",
@@ -989,18 +1000,21 @@
       "context": "follows the genitive: ystävän kanssa, with a friend",
       "register": [
         "All"
-      ]
+      ],
+      "image": "with"
     },
     {
       "id": "655b5de2-214a-4660-82c6-62eee5b2b320",
       "part-of-speech": "verb",
-      "english": "to hold, grasp, grip",
+      "english": "to like; to hold",
       "finnish": "pitää",
       "cefr": "A1",
       "ipa": "[ˈpit̪æː]",
+      "context": "with the elative: pidän kahvista, I like coffee; also \"must\": minun pitää mennä",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "0ed275bd-5c78-4d9a-b845-17074301bdc1",
@@ -1012,20 +1026,21 @@
       "context": "in statements; in questions use vai",
       "register": [
         "All"
-      ]
+      ],
+      "image": "or"
     },
     {
       "id": "d44bb773-e8b0-4776-8004-163c3eeffaa1",
-      "part-of-speech": "noun",
-      "english": "a narrow tail",
+      "part-of-speech": "pronoun",
+      "english": "him, her (as an object)",
       "finnish": "häntä",
       "cefr": "A1",
       "ipa": "[ˈhæn̪t̪æ]",
-      "plural": "hännät",
-      "context": "e.g., of most mammals",
+      "context": "the partitive of hän: rakastan häntä, I love him/her",
       "register": [
         "All"
-      ]
+      ],
+      "image": "him-her"
     },
     {
       "id": "78092968-a058-4825-836a-a4627eca7b01",
@@ -1047,7 +1062,8 @@
       "ipa": "[ˈe̞hkæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "maybe"
     },
     {
       "id": "a47a5e22-48f2-45bb-88d4-c5c227818de5",
@@ -1058,19 +1074,20 @@
       "ipa": "[ˈmisːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "where"
     },
     {
       "id": "76b026ad-d577-4a42-aab8-427b0ce38f06",
       "part-of-speech": "adverb",
-      "english": "well",
+      "english": "well; very",
       "finnish": "hyvin",
       "cefr": "A1",
       "ipa": "[ˈhyʋin]",
-      "context": "accurately, competently, satisfactorily; in a manner that can be described as good",
       "register": [
         "All"
-      ]
+      ],
+      "image": "very"
     },
     {
       "id": "d62346a5-0ec9-464b-8834-1b46f2439154",
@@ -1082,7 +1099,8 @@
       "context": "ei vielä: not yet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "not-yet"
     },
     {
       "id": "0fa4a55a-7058-4f0c-80ac-d78a3e4042e8",
@@ -1094,29 +1112,32 @@
       "context": "prior to some time; so soon",
       "register": [
         "All"
-      ]
+      ],
+      "image": "already"
     },
     {
       "id": "7c8092c3-a65e-4a1c-9443-32635dd59cc5",
       "part-of-speech": "verb",
-      "english": "to do, perform, execute, carry out",
+      "english": "to do, make",
       "finnish": "tehdä",
       "cefr": "A1",
       "ipa": "[ˈt̪e̞hdæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "make"
     },
     {
       "id": "6b41d32e-a169-4570-805b-e6594ccafe2f",
       "part-of-speech": "adverb",
-      "english": "to this general place",
+      "english": "(to) here",
       "finnish": "tänne",
       "cefr": "A1",
       "ipa": "[ˈt̪ænːe̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "to-here"
     },
     {
       "id": "d75c9e48-54cd-4c6a-8a75-2d5707fee133",
@@ -1127,19 +1148,21 @@
       "ipa": "[ˈpɑljo̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "a-lot"
     },
     {
       "id": "ec1c6a2e-74ba-4d36-8e48-ed0ff4ecfedb",
       "part-of-speech": "adverb",
-      "english": "there (when the speaker does not point at the…)",
+      "english": "there",
       "finnish": "siellä",
       "cefr": "A1",
       "ipa": "[ˈsie̞̯lːæ]",
-      "context": "when the speaker does not point at the place",
+      "context": "a place not pointed at",
       "register": [
         "All"
-      ]
+      ],
+      "image": "there"
     },
     {
       "id": "f9a6372a-68f9-4e9c-8662-796f38d22cce",
@@ -1150,7 +1173,8 @@
       "ipa": "[po̞i̯s]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "away"
     },
     {
       "id": "8bff8535-db15-468d-ae06-4f9064371a8c",
@@ -1162,7 +1186,8 @@
       "context": "as a postposition, before the partitive: ennen joulua, before Christmas",
       "register": [
         "All"
-      ]
+      ],
+      "image": "before"
     },
     {
       "id": "7280c8ac-b52d-48e1-bece-2e319d25b594",
@@ -1173,12 +1198,13 @@
       "ipa": "[ˈɑi̯nɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "always"
     },
     {
       "id": "1db700ec-cf2b-4cae-8953-b9c88d9e19b6",
       "part-of-speech": "adverb",
-      "english": "there",
+      "english": "there; in it",
       "finnish": "siinä",
       "cefr": "A1",
       "ipa": "[ˈsiːnæ]",
@@ -1195,54 +1221,59 @@
       "ipa": "[ˈe̞næː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "no-longer"
     },
     {
       "id": "8f59753b-ac91-45d1-a060-620b4bc1137a",
-      "part-of-speech": "adjective",
-      "english": "Mister",
+      "part-of-speech": "noun",
+      "english": "Mr., sir; gentleman",
       "finnish": "herra",
       "cefr": "A1",
       "ipa": "[ˈhe̞rːɑ]",
+      "plural": "herrat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mister"
     },
     {
       "id": "4da6dff1-4176-43c7-a7b7-6ef02419c8fb",
       "part-of-speech": "adverb",
-      "english": "from where, whence",
+      "english": "from where; about what",
       "finnish": "mistä",
       "cefr": "A1",
       "ipa": "[ˈmist̪æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "from-where"
     },
     {
       "id": "f64ef803-e321-4bad-8e52-bd3da02d68da",
       "part-of-speech": "adjective",
-      "english": "clear (not dark or obscured)",
+      "english": "clear; okay, got it",
       "finnish": "selvä",
       "cefr": "A1",
       "ipa": "[ˈse̞lʋæ]",
-      "context": "not dark or obscured; of more abstract concepts; see usage notes",
+      "context": "selvä! okay, got it!",
       "register": [
         "All"
-      ]
+      ],
+      "image": "got-it"
     },
     {
       "id": "db492bcb-18a3-4658-a6c8-810c06a0a035",
-      "part-of-speech": "noun",
-      "english": "root",
+      "part-of-speech": "adverb",
+      "english": "just, exactly",
       "finnish": "juuri",
       "cefr": "A1",
       "ipa": "[ˈjuːri]",
-      "plural": "juuret",
-      "context": "of a plant, hair, tooth, etc.",
+      "context": "juuri nyt: right now; also a noun, \"root\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "exactly"
     },
     {
       "id": "03d27692-d82f-4aa5-875c-ece6d1889056",
@@ -1254,7 +1285,8 @@
       "context": "in a way that the speaker shows or indicates",
       "register": [
         "All"
-      ]
+      ],
+      "image": "like-this"
     },
     {
       "id": "f1193b3c-b0c0-44e9-8f0a-85b0cb4bd555",
@@ -1265,7 +1297,8 @@
       "ipa": "[ˈkui̯ŋkɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "how"
     },
     {
       "id": "c5576cad-9951-43d6-987a-09e390cfd89b",
@@ -1277,31 +1310,34 @@
       "context": "kahvia vai teetä? coffee or tea?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "or-question"
     },
     {
       "id": "7cec0cde-1f16-4b32-a318-50c8c3e9eef0",
       "part-of-speech": "noun",
-      "english": "size, dimensions",
+      "english": "whole, entire; size",
       "finnish": "koko",
       "cefr": "A1",
       "ipa": "[ˈko̞ko̞]",
       "plural": "koot",
+      "context": "koko päivän: the whole day; mikä koko? what size?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "size"
     },
     {
       "id": "5e5a0d50-9be3-432d-8ed7-e4db10c564a0",
       "part-of-speech": "verb",
-      "english": "to go [with illative of third infinitive ‘to do’]",
+      "english": "to go",
       "finnish": "mennä",
       "cefr": "A1",
       "ipa": "[ˈme̞nːæ]",
-      "context": "move away from a point of reference",
       "register": [
         "All"
-      ]
+      ],
+      "image": "go"
     },
     {
       "id": "81d724cc-ce51-4a76-8108-4476cb55b723",
@@ -1312,12 +1348,13 @@
       "ipa": "[ˈko̞skɑːn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "never"
     },
     {
       "id": "966ba93d-e65e-468d-8bda-8d88e6bc4f76",
       "part-of-speech": "adverb",
-      "english": "from here, hither",
+      "english": "from here; about this",
       "finnish": "tästä",
       "cefr": "A1",
       "ipa": "[ˈt̪æst̪æ]",
@@ -1334,7 +1371,8 @@
       "ipa": "[ˈt̪ie̞̯t̪æː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "know"
     },
     {
       "id": "352c2632-1172-4fd7-9461-587d816413a8",
@@ -1343,10 +1381,10 @@
       "finnish": "kai",
       "cefr": "A1",
       "ipa": "[kɑi̯]",
-      "context": "I guess: that; I guess (that): used to express a possibility or belief of what's going to happen",
       "register": [
         "All"
-      ]
+      ],
+      "image": "probably"
     },
     {
       "id": "71bc1f89-7f3e-4e68-8d25-353634a0f3b8",
@@ -1359,18 +1397,20 @@
       "context": "adult male human being",
       "register": [
         "All"
-      ]
+      ],
+      "image": "man"
     },
     {
       "id": "ab480f07-6a2b-4ade-aeca-055fa4c7570a",
-      "part-of-speech": "adverb",
-      "english": "and so",
+      "part-of-speech": "conjunction",
+      "english": "so (as a result)",
       "finnish": "joten",
       "cefr": "A1",
       "ipa": "[ˈjo̞t̪e̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "so"
     },
     {
       "id": "7d10e0f0-6636-4f2d-935b-f1040830001a",
@@ -1381,7 +1421,8 @@
       "ipa": "[ˈɑi̯ʋɑn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "very"
     },
     {
       "id": "9d3fe275-e5b2-4834-b947-6c84d36833df",
@@ -1392,7 +1433,8 @@
       "ipa": "[ˈihɑn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "very"
     },
     {
       "id": "ac23c733-5d38-418c-b3b7-0698ce20eff7",
@@ -1404,7 +1446,8 @@
       "context": "consequently, for that reason, as a result of which",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thus"
     },
     {
       "id": "5e7a48b5-24af-414c-8536-b50c5f0f105a",
@@ -1414,10 +1457,10 @@
       "cefr": "A1",
       "ipa": "[ˈisæ]",
       "plural": "isät",
-      "context": "male parent; male who has sired a baby, that man relative to his children",
       "register": [
         "All"
-      ]
+      ],
+      "image": "father"
     },
     {
       "id": "d4b85327-b015-4ece-8937-8eafcc8e95a8",
@@ -1427,15 +1470,16 @@
       "cefr": "A1",
       "ipa": "[ˈɑi̯kɑ]",
       "plural": "ajat",
-      "context": "science",
+      "context": "also \"quite, pretty\": aika hyvä, pretty good",
       "register": [
         "All"
-      ]
+      ],
+      "image": "time"
     },
     {
       "id": "819d9310-1437-4dc4-b1b4-859a88f550b3",
       "part-of-speech": "adverb",
-      "english": "there, thither",
+      "english": "(in)to it; there",
       "finnish": "siihen",
       "cefr": "A1",
       "ipa": "[ˈsiːhe̞n]",
@@ -1445,26 +1489,28 @@
     },
     {
       "id": "6d7eec50-4d53-4737-90dd-f6bea5e679f2",
-      "part-of-speech": "adverb",
+      "part-of-speech": "conjunction",
       "english": "as, like",
       "finnish": "kuten",
       "cefr": "A1",
       "ipa": "[ˈkut̪e̞n]",
-      "context": "the same way; always followed by something compared to",
+      "context": "kuten sanoin: as I said",
       "register": [
         "All"
-      ]
+      ],
+      "image": "like-as"
     },
     {
       "id": "dd94db46-7d32-44b1-85e6-7f7a437e9481",
       "part-of-speech": "adverb",
-      "english": "few",
+      "english": "a little, a bit; few",
       "finnish": "vähän",
       "cefr": "A1",
       "ipa": "[ˈʋæhæn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "a-little"
     },
     {
       "id": "dc8ad5d2-ec60-460c-8ee0-8f68656173a2",
@@ -1487,7 +1533,8 @@
       "plural": "äidit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mother"
     },
     {
       "id": "0e52d7eb-6362-4eea-be49-ad5952806aed",
@@ -1498,30 +1545,33 @@
       "ipa": "[ˈe̞i̯kæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nor"
     },
     {
       "id": "ba57623b-b0fa-4524-8d1e-35fe095a02f5",
       "part-of-speech": "adverb",
-      "english": "along, with one, on",
+      "english": "along (with); according to",
       "finnish": "mukaan",
       "cefr": "A1",
       "ipa": "[ˈmukɑːn]",
+      "context": "after the genitive: hänen mukaansa, according to him",
       "register": [
         "All"
       ]
     },
     {
       "id": "b1721742-b91a-4d12-9df3-b2b6fd9fe600",
-      "part-of-speech": "noun",
-      "english": "self, ego",
+      "part-of-speech": "pronoun",
+      "english": "self (myself, yourself…)",
       "finnish": "itse",
       "cefr": "A1",
       "ipa": "[ˈit̪se̞]",
-      "plural": "itset",
+      "context": "minä itse: I myself; tein sen itse: I did it myself",
       "register": [
         "All"
-      ]
+      ],
+      "image": "self"
     },
     {
       "id": "7ebd8c4e-57a0-452b-a9df-33fd765655fb",
@@ -1532,14 +1582,15 @@
       "ipa": "[myø̞̯s]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "also"
     },
     {
       "id": "e4a5a904-9999-4f63-80c2-bb3b2495f8c9",
       "part-of-speech": "conjunction",
       "english": "for, since (formal)",
       "finnish": "sillä",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "[ˈsilːæ]",
       "register": [
         "All"
@@ -1548,14 +1599,15 @@
     {
       "id": "139373a2-3051-4b66-8d36-e72ce0a31e0f",
       "part-of-speech": "adverb",
-      "english": "so, in that way, like that",
+      "english": "like that; about, approximately",
       "finnish": "noin",
       "cefr": "A1",
       "ipa": "[no̞i̯n]",
-      "context": "in a way that the person being spoken to shows or indicates",
+      "context": "noin kymmenen: about ten",
       "register": [
         "All"
-      ]
+      ],
+      "image": "like-that"
     },
     {
       "id": "8a7d9eef-f404-43d4-974f-c1857c53609f",
@@ -1566,18 +1618,20 @@
       "ipa": "[ˈulo̞s]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "out"
     },
     {
       "id": "4fcc6d7e-6386-43c9-8151-d8679cba651c",
       "part-of-speech": "verb",
-      "english": "to help, assist, give assistance, lend a hand, aid",
+      "english": "to help",
       "finnish": "auttaa",
       "cefr": "A1",
       "ipa": "[ˈɑu̯t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "help"
     },
     {
       "id": "04595517-6c02-45f2-93f9-d1a6a4ee8b2f",
@@ -1588,7 +1642,8 @@
       "ipa": "[t̪ɑːs]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "again"
     },
     {
       "id": "a73e53b4-aa74-497e-884a-802f9929795a",
@@ -1599,7 +1654,8 @@
       "ipa": "[ˈt̪ulːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "come"
     },
     {
       "id": "66618d76-4276-4ff0-818e-6b7ee93bf2ef",
@@ -1611,7 +1667,8 @@
       "context": "communicate with one's voice",
       "register": [
         "All"
-      ]
+      ],
+      "image": "speak"
     },
     {
       "id": "d85a6468-061f-451e-8cf8-30dbefd0cc67",
@@ -1622,7 +1679,8 @@
       "ipa": "[ˈt̪ænæːn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "today"
     },
     {
       "id": "a9e1b8ca-527d-47c0-b347-be00494494c3",
@@ -1634,18 +1692,20 @@
       "plural": "tulet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fire"
     },
     {
       "id": "2cd81ac5-4d19-4a39-a810-c80c54f69058",
-      "part-of-speech": "adverb",
-      "english": "for example",
+      "part-of-speech": "conjunction",
+      "english": "even if, although; for example",
       "finnish": "vaikka",
       "cefr": "A1",
       "ipa": "[ˈʋɑi̯kːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "anyway"
     },
     {
       "id": "532cc3f2-7969-481e-a6e4-9e71914d8527",
@@ -1657,7 +1717,8 @@
       "context": "to an excessive degree; before an adjective",
       "register": [
         "All"
-      ]
+      ],
+      "image": "too-much"
     },
     {
       "id": "2e1417b3-ab39-4502-96e0-500d6a57685b",
@@ -1667,21 +1728,23 @@
       "cefr": "A1",
       "ipa": "[t̪e̞ː]",
       "plural": "teet",
-      "context": "dried leaves or buds of the tea plant, Camellia sinensis",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tea"
     },
     {
       "id": "116575ab-fe2a-47c8-8564-1ff62e443fe1",
       "part-of-speech": "verb",
-      "english": "to show, present, display",
+      "english": "to show; to look, seem",
       "finnish": "näyttää",
       "cefr": "A1",
       "ipa": "[ˈnæy̯t̪ːæː]",
+      "context": "näyttää hyvältä: looks good",
       "register": [
         "All"
-      ]
+      ],
+      "image": "show"
     },
     {
       "id": "b2638689-e23a-4a22-a03b-9f97efa85255",
@@ -1692,7 +1755,8 @@
       "ipa": "[ˈkiːnːi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "closed"
     },
     {
       "id": "01a8eaf5-da44-42d4-9ed5-39cf91cee7d4",
@@ -1704,41 +1768,46 @@
       "context": "perceive with the eyes",
       "register": [
         "All"
-      ]
+      ],
+      "image": "see"
     },
     {
       "id": "33f6c095-80a6-43b4-acc8-e2fd41a21945",
-      "part-of-speech": "adverb",
+      "part-of-speech": "preposition",
       "english": "without",
       "finnish": "ilman",
       "cefr": "A1",
       "ipa": "[ˈilmɑn]",
+      "context": "before the partitive: ilman sokeria, without sugar",
       "register": [
         "All"
-      ]
+      ],
+      "image": "without"
     },
     {
       "id": "da6e4bb8-526b-4584-bb88-3f82d4e04e7d",
       "part-of-speech": "adverb",
-      "english": "in that place",
+      "english": "(to) there",
       "finnish": "sinne",
       "cefr": "A1",
       "ipa": "[ˈsinːe̞]",
+      "context": "to a place not pointed at",
       "register": [
         "All"
-      ]
+      ],
+      "image": "to-there"
     },
     {
       "id": "0d31a6d2-edef-431a-abea-3021095842e5",
       "part-of-speech": "adverb",
-      "english": "right away, as soon as, immediately, at once",
+      "english": "right away, immediately",
       "finnish": "heti",
       "cefr": "A1",
       "ipa": "[ˈhe̞t̪i]",
-      "context": "possible",
       "register": [
         "All"
-      ]
+      ],
+      "image": "right-away"
     },
     {
       "id": "1b56f0a9-31cb-474b-957b-5921ee87e152",
@@ -1749,7 +1818,8 @@
       "ipa": "[ˈsɑno̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "say"
     },
     {
       "id": "6f626d86-46f9-4b9c-b7cc-03d1eee14f98",
@@ -1760,12 +1830,13 @@
       "ipa": "[ˈʋɑrmɑst̪i]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "certainly"
     },
     {
       "id": "eb137e6c-bd95-402e-925d-86b5979df6bc",
       "part-of-speech": "adverb",
-      "english": "to this exact spot",
+      "english": "(to) here, into this",
       "finnish": "tähän",
       "cefr": "A1",
       "ipa": "[ˈt̪æhæn]",
@@ -1776,13 +1847,15 @@
     {
       "id": "4ad8d8a6-c66e-4117-8a52-86391e301bca",
       "part-of-speech": "verb",
-      "english": "to allow",
+      "english": "to let, allow",
       "finnish": "antaa",
       "cefr": "A1",
       "ipa": "[ˈɑn̪t̪ɑː]",
+      "context": "antaa + infinitive: anna minun mennä, let me go",
       "register": [
         "All"
-      ]
+      ],
+      "image": "allow"
     },
     {
       "id": "c59d68cb-828b-4675-9a13-3432f2cfc5fb",
@@ -1793,7 +1866,8 @@
       "ipa": "[ˈɑn̪t̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "give"
     },
     {
       "id": "d085e816-ebde-4954-ae71-9757b61c53ab",
@@ -1804,19 +1878,8 @@
       "ipa": "[ˈke̞rt̪o̞ɑ]",
       "register": [
         "All"
-      ]
-    },
-    {
-      "id": "682c42c9-ebbd-41ed-82d8-dfb56db8dd1a",
-      "part-of-speech": "noun",
-      "english": "burr, prickle, thorn",
-      "finnish": "ota",
-      "cefr": "A1",
-      "ipa": "[ˈo̞t̪ɑ]",
-      "plural": "odat",
-      "register": [
-        "All"
-      ]
+      ],
+      "image": "say"
     },
     {
       "id": "d03aa73d-eecb-4e7f-80a2-ec764e60af5b",
@@ -1828,7 +1891,8 @@
       "context": "within a short time",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soon"
     },
     {
       "id": "9b91c7fa-5f8a-4ae6-856b-ca916c05b172",
@@ -1839,14 +1903,15 @@
       "ipa": "[ˈsɑːdɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "receive"
     },
     {
       "id": "d16a75db-74b3-497d-a78f-6be24cc1e417",
       "part-of-speech": "noun",
       "english": "creator",
       "finnish": "luoja",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "[ˈluo̞̯jɑ]",
       "plural": "luojat",
       "register": [
@@ -1856,20 +1921,21 @@
     {
       "id": "1bbd9624-e113-4a1b-94b7-5febc747709e",
       "part-of-speech": "adverb",
-      "english": "from here, hence",
+      "english": "from here",
       "finnish": "täältä",
       "cefr": "A1",
       "ipa": "[ˈt̪æːlt̪æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "from-here"
     },
     {
       "id": "95c5bed8-d950-4ceb-9b9d-a2338d6ed3c2",
       "part-of-speech": "noun",
-      "english": "religious belief system",
+      "english": "faith, belief",
       "finnish": "usko",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈusko̞]",
       "plural": "uskot",
       "register": [
@@ -1886,7 +1952,8 @@
       "context": "into a state of being in or inside something",
       "register": [
         "All"
-      ]
+      ],
+      "image": "in"
     },
     {
       "id": "29a54bbd-908b-4313-9ded-7cecb9c9027a",
@@ -1899,19 +1966,21 @@
       "context": "young male human",
       "register": [
         "All"
-      ]
+      ],
+      "image": "boy"
     },
     {
       "id": "ca791819-bd8c-4088-a7bb-8106f3c39262",
       "part-of-speech": "noun",
-      "english": "situation",
+      "english": "thing, matter",
       "finnish": "asia",
       "cefr": "A1",
       "ipa": "[ˈɑsiɑ]",
       "plural": "asiat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "matter"
     },
     {
       "id": "ead34dbf-915f-49ab-af9b-f12b10988cf0",
@@ -1922,7 +1991,8 @@
       "ipa": "[ˈyhæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "still-going"
     },
     {
       "id": "e68f7686-20d0-42ae-a3cf-758dfb07a225",
@@ -1933,18 +2003,21 @@
       "ipa": "[ˈikinæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "never"
     },
     {
       "id": "17de8d49-cdd4-4349-be40-d5a9db3a502c",
       "part-of-speech": "adverb",
-      "english": "at that exact spot",
+      "english": "over there",
       "finnish": "tuolla",
       "cefr": "A1",
       "ipa": "[ˈt̪uo̞̯lːɑ]",
+      "context": "a place you could point at",
       "register": [
         "All"
-      ]
+      ],
+      "image": "over-there"
     },
     {
       "id": "125a06bb-ff41-4630-91c9-bdd6af0cae48",
@@ -1955,7 +2028,8 @@
       "ipa": "[ˈʋɑrmɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "certainly"
     },
     {
       "id": "5895a55b-7fc7-4517-9f84-f9293c94f643",
@@ -1966,7 +2040,8 @@
       "ipa": "[ˈyhde̞sːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "together"
     },
     {
       "id": "c6ae48e8-01a5-4f33-8749-03d2ff980ffc",
@@ -1985,37 +2060,39 @@
     {
       "id": "6c957129-919b-490a-9989-1d849dcf1a58",
       "part-of-speech": "noun",
-      "english": "conversation",
+      "english": "thing, story",
       "finnish": "juttu",
       "cefr": "A1",
       "ipa": "[ˈjut̪ːu]",
       "plural": "jutut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "matter"
     },
     {
       "id": "cb13ffe6-f312-4705-afb7-65c3ae9d89dd",
-      "part-of-speech": "noun",
-      "english": "dead person, decedent, deceased",
+      "part-of-speech": "adjective",
+      "english": "dead",
       "finnish": "kuollut",
       "cefr": "A1",
       "ipa": "[ˈkuo̞̯lːut̪]",
-      "plural": "kuolleet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dead"
     },
     {
       "id": "40a4bc64-13a5-4b71-9abf-94bd163be7c9",
       "part-of-speech": "adverb",
-      "english": "therefore, that's why; because, thence; consequently, as a consequence",
+      "english": "that's why, therefore",
       "finnish": "siksi",
       "cefr": "A1",
       "ipa": "[ˈsiksi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "so"
     },
     {
       "id": "9d3bd921-7049-494a-b816-cbd437c74c30",
@@ -2026,7 +2103,8 @@
       "ipa": "[ˈo̞t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "take"
     },
     {
       "id": "89d335f0-33f6-42d9-b6a2-bbbdbd17a145",
@@ -2035,51 +2113,55 @@
       "finnish": "kerran",
       "cefr": "A1",
       "ipa": "[ˈke̞rːɑn]",
-      "context": "quantification",
       "register": [
         "All"
-      ]
+      ],
+      "image": "once"
     },
     {
       "id": "3215f67a-3022-4ac2-ad7d-4f9122977006",
       "part-of-speech": "adverb",
-      "english": "where, whereto, whither",
+      "english": "where (to)",
       "finnish": "mihin",
       "cefr": "A1",
       "ipa": "[ˈmihin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "where-to"
     },
     {
       "id": "60e8ec6f-de2e-49cd-bf30-4bc83fcaaa1a",
       "part-of-speech": "verb",
-      "english": "to depart",
+      "english": "to leave, go (away)",
       "finnish": "lähteä",
       "cefr": "A1",
       "ipa": "[ˈlæht̪e̞æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "leave"
     },
     {
       "id": "7c510bb5-c0a7-44d0-807c-ca65fe6e0c24",
       "part-of-speech": "adverb",
-      "english": "where (to), whereto, whither",
+      "english": "where (to)",
       "finnish": "minne",
       "cefr": "A1",
       "ipa": "[ˈminːe̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "where-to"
     },
     {
       "id": "1f983bd1-8b9d-4b1e-b742-1e8797694f66",
       "part-of-speech": "adverb",
-      "english": "equally",
+      "english": "equally, as (… as)",
       "finnish": "yhtä",
       "cefr": "A1",
       "ipa": "[ˈyht̪æ]",
+      "context": "yhtä iso kuin: as big as",
       "register": [
         "All"
       ]
@@ -2098,25 +2180,27 @@
     {
       "id": "0be68dd7-c0b5-4687-a842-7afd634b0e22",
       "part-of-speech": "adjective",
-      "english": "completed",
+      "english": "ready, finished",
       "finnish": "valmis",
       "cefr": "A1",
       "ipa": "[ˈʋɑlmis]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ready"
     },
     {
       "id": "ad60d403-6f49-41bb-9f3e-8dd9282e2b4a",
       "part-of-speech": "adjective",
-      "english": "second",
+      "english": "second; other, another",
       "finnish": "toinen",
       "cefr": "A1",
       "ipa": "[ˈt̪o̞i̯ne̞n]",
-      "context": "after the first in a sequence",
+      "context": "toinen kerta: the second time; toinen auto: another car",
       "register": [
         "All"
-      ]
+      ],
+      "image": "second"
     },
     {
       "id": "92d5a658-812a-476f-a161-2f59a29e1423",
@@ -2127,15 +2211,17 @@
       "ipa": "[ˈsilːo̞i̯n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "then"
     },
     {
       "id": "45808e44-cf4e-46e1-86be-a74fdaf5e699",
-      "part-of-speech": "verb",
-      "english": "to have fun",
+      "part-of-speech": "interjection",
+      "english": "have fun!",
       "finnish": "hauskaa",
       "cefr": "A1",
       "ipa": "[ˈhɑu̯skɑː]",
+      "context": "pitää hauskaa: to have fun; hauskaa viikonloppua! have a nice weekend!",
       "register": [
         "All"
       ]
@@ -2150,19 +2236,21 @@
       "plural": "tytöt",
       "register": [
         "All"
-      ]
+      ],
+      "image": "girl"
     },
     {
       "id": "89a2d0d9-ef4e-464f-8fdc-114b655035b5",
       "part-of-speech": "noun",
-      "english": "woman (adult female human being)",
+      "english": "woman",
       "finnish": "nainen",
       "cefr": "A1",
       "ipa": "[ˈnɑi̯ne̞n]",
       "plural": "naiset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "woman"
     },
     {
       "id": "416a0f88-af90-4456-8276-0662b6a0e3af",
@@ -2175,19 +2263,22 @@
       "context": "title of a married woman",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mrs"
     },
     {
       "id": "a41fbb2b-9747-497b-8179-0d06cf0ece29",
       "part-of-speech": "noun",
-      "english": "question, discussion",
+      "english": "matter, question",
       "finnish": "kyse",
       "cefr": "A1",
       "ipa": "[ˈkyse̞]",
       "plural": "kyseet",
+      "context": "mistä on kyse? what is it about?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "what-about"
     },
     {
       "id": "aa27de5f-8f33-4f9a-8667-29e590527996",
@@ -2198,7 +2289,8 @@
       "ipa": "[ˈkɑu̯ɑn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "long-time"
     },
     {
       "id": "251f3fb5-0c60-4616-8c33-d5cfa91ac119",
@@ -2209,7 +2301,8 @@
       "ipa": "[ˈe̞nsin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "first-of-all"
     },
     {
       "id": "e7b24a09-8573-42b3-b71a-3e1afbfd08d4",
@@ -2220,7 +2313,8 @@
       "ipa": "[ˈyksin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "alone"
     },
     {
       "id": "bb4d9b22-27f5-41ce-8bf5-11a7323fbd23",
@@ -2231,19 +2325,21 @@
       "ipa": "[ˈjo̞skus]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sometimes"
     },
     {
       "id": "ced03a3a-610e-4771-879b-2119a4e335ab",
-      "part-of-speech": "noun",
-      "english": "truth",
+      "part-of-speech": "adverb",
+      "english": "really, very",
       "finnish": "tosi",
       "cefr": "A1",
       "ipa": "[ˈt̪o̞si]",
-      "plural": "todet",
+      "context": "everyday speech: tosi hyvä, really good; as an adjective, \"true\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "very"
     },
     {
       "id": "6df8ef49-4061-4933-96cc-8cf5664574ba",
@@ -2255,20 +2351,21 @@
       "context": "additional, further",
       "register": [
         "All"
-      ]
+      ],
+      "image": "more"
     },
     {
       "id": "52dfc80c-4b02-4f33-8d02-950bf693570a",
       "part-of-speech": "noun",
-      "english": "gold",
+      "english": "gold; darling, honey",
       "finnish": "kulta",
       "cefr": "A1",
       "ipa": "[ˈkult̪ɑ]",
       "plural": "kullat",
-      "context": "metal; chemical element Au",
       "register": [
         "All"
-      ]
+      ],
+      "image": "gold"
     },
     {
       "id": "c43a20b9-49b0-4c50-bbd1-e9a7cd586ce4",
@@ -2281,20 +2378,22 @@
       "context": "period between sunrise and sunset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "day"
     },
     {
       "id": "5ad3da2f-4416-4bab-a066-f559a1454e02",
       "part-of-speech": "noun",
-      "english": "pair, couple",
+      "english": "pair, couple; a couple of, a few",
       "finnish": "pari",
       "cefr": "A1",
       "ipa": "[ˈpɑri]",
       "plural": "parit",
-      "context": "two similar or identical things",
+      "context": "pari päivää: a couple of days",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pair"
     },
     {
       "id": "4e993516-637f-486a-a0e5-e164f3ff74e7",
@@ -2305,19 +2404,22 @@
       "ipa": "[ˈke̞rt̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "times"
     },
     {
       "id": "47f1fda5-b35a-4da0-ae11-71806c9749b2",
       "part-of-speech": "noun",
-      "english": "Ph.D.",
+      "english": "doctor",
       "finnish": "tohtori",
       "cefr": "A1",
       "ipa": "[ˈt̪o̞ht̪o̞ri]",
       "plural": "tohtorit",
+      "context": "as a title; a physician is usually lääkäri",
       "register": [
         "All"
-      ]
+      ],
+      "image": "doctor"
     },
     {
       "id": "a63313e3-f113-492f-a338-98bb167209b8",
@@ -2328,7 +2430,8 @@
       "ipa": "[ˈhuo̞̯me̞nːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tomorrow"
     },
     {
       "id": "ef010344-5b98-4b46-865e-207061030dfd",
@@ -2339,7 +2442,8 @@
       "ipa": "[ˈuːsi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "new"
     },
     {
       "id": "a934684e-3580-45cd-b4aa-65645139def4",
@@ -2351,7 +2455,8 @@
       "context": "come face to face with",
       "register": [
         "All"
-      ]
+      ],
+      "image": "meet"
     },
     {
       "id": "57427db9-fbfb-4ef4-827e-394a1f02132b",
@@ -2362,7 +2467,8 @@
       "ipa": "[ˈɑi̯no̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "only"
     },
     {
       "id": "25cdc52c-3a31-4110-8c25-2b9ec8eb1a30",
@@ -2373,7 +2479,8 @@
       "ipa": "[ˈo̞do̞t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wait"
     },
     {
       "id": "78127511-de96-4f5a-89a0-f4b1ddee83e7",
@@ -2385,42 +2492,33 @@
       "context": "at what time",
       "register": [
         "All"
-      ]
+      ],
+      "image": "when"
     },
     {
       "id": "5740311c-cc6d-4705-9eef-842da4ca60d8",
       "part-of-speech": "adverb",
-      "english": "however, still, yet, nevertheless, nonetheless, anyway, regardless",
+      "english": "still, nevertheless, anyway",
       "finnish": "silti",
       "cefr": "A1",
       "ipa": "[ˈsilt̪i]",
       "register": [
         "All"
-      ]
-    },
-    {
-      "id": "73202138-e749-49de-889a-6dd2a195a80a",
-      "part-of-speech": "noun",
-      "english": "iota",
-      "finnish": "jota",
-      "cefr": "A1",
-      "ipa": "[ˈjo̞t̪ɑ]",
-      "plural": "jotat",
-      "context": "ninth letter in Greek alphabet",
-      "register": [
-        "All"
-      ]
+      ],
+      "image": "anyway"
     },
     {
       "id": "8a97af38-1435-4305-af50-314e1e663eea",
       "part-of-speech": "adjective",
-      "english": "most recent",
+      "english": "last (previous)",
       "finnish": "viime",
       "cefr": "A1",
       "ipa": "[ˈʋiːme̞]",
+      "context": "viime viikolla: last week",
       "register": [
         "All"
-      ]
+      ],
+      "image": "last-week"
     },
     {
       "id": "728a89a4-64f3-4c7b-a59d-8762d04705cb",
@@ -2431,7 +2529,8 @@
       "ipa": "[ˈɑlɑs]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "down"
     },
     {
       "id": "0cbe9e8b-bb42-43dc-86f4-b2e3ec7ee844",
@@ -2443,34 +2542,24 @@
       "plural": "paikat",
       "register": [
         "All"
-      ]
-    },
-    {
-      "id": "b856bdd8-37e3-4ea5-a7b6-03c4f0d5734d",
-      "part-of-speech": "noun",
-      "english": "tool, means, implement",
-      "finnish": "tein",
-      "cefr": "A1",
-      "ipa": "[t̪e̞i̯n]",
-      "plural": "tekimet",
-      "register": [
-        "All"
-      ]
+      ],
+      "image": "place"
     },
     {
       "id": "b00dcba9-f8c7-4da3-b94b-fbdfdf0c0d2b",
       "part-of-speech": "adverb",
-      "english": "upward",
+      "english": "up, upward",
       "finnish": "ylös",
       "cefr": "A1",
       "ipa": "[ˈylø̞s]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "up"
     },
     {
       "id": "d7395e55-21a0-432e-8e36-7b2ebc269512",
-      "part-of-speech": "adjective",
+      "part-of-speech": "interjection",
       "english": "okay",
       "finnish": "okei",
       "cefr": "A1",
@@ -2480,30 +2569,33 @@
         "arkikieli",
         "slangi",
         "alatyyli"
-      ]
+      ],
+      "image": "ok"
     },
     {
       "id": "b2171245-61a2-4dcd-a3af-e90f13ddd850",
       "part-of-speech": "verb",
-      "english": "to begin, start, initiate, set in, be initiated, originate, be originated, take its origin",
+      "english": "to begin, start",
       "finnish": "alkaa",
       "cefr": "A1",
       "ipa": "[ˈɑlkɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "begin"
     },
     {
       "id": "8d81a84a-9cd3-495d-bfd5-f815d89d6197",
       "part-of-speech": "noun",
-      "english": "moment in time",
+      "english": "moment",
       "finnish": "hetki",
       "cefr": "A1",
       "ipa": "[ˈhe̞t̪ki]",
       "plural": "hetket",
       "register": [
         "All"
-      ]
+      ],
+      "image": "moment"
     },
     {
       "id": "d7c38871-30cf-41ba-bbc1-9656edb2158e",
@@ -2515,18 +2607,20 @@
       "register": [
         "All"
       ],
-      "context": "kaupan ohi: past the store"
+      "context": "kaupan ohi: past the store",
+      "image": "past"
     },
     {
       "id": "c215e421-d79c-4492-94cd-15fbea36b615",
       "part-of-speech": "adverb",
-      "english": "a little, bit, tad, slightly",
+      "english": "a little, slightly",
       "finnish": "hieman",
       "cefr": "A1",
       "ipa": "[ˈhie̞̯mɑn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "a-little"
     },
     {
       "id": "832f4e7d-b181-4dad-8294-c5b5a18ee1bb",
@@ -2538,16 +2632,16 @@
       "context": "low in size, amount or intensity",
       "register": [
         "All"
-      ]
+      ],
+      "image": "small"
     },
     {
       "id": "5e109c8e-7392-471a-a310-a6cdf2476299",
       "part-of-speech": "adjective",
-      "english": "right",
+      "english": "right; correct, real",
       "finnish": "oikea",
       "cefr": "A1",
       "ipa": "[ˈo̞i̯ke̞ɑ]",
-      "context": "opposite of left",
       "register": [
         "All"
       ]
@@ -2561,7 +2655,8 @@
       "ipa": "[ˈriːt̪ːæː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "enough"
     },
     {
       "id": "d1aca53d-7a48-45c5-930e-15e561792b6e",
@@ -2573,7 +2668,8 @@
       "plural": "neidit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "miss"
     },
     {
       "id": "e2126e0d-3450-449e-ab3b-4805d46e2fc2",
@@ -2584,7 +2680,8 @@
       "ipa": "[ˈt̪o̞i̯ʋo̞t̪ːɑʋɑst̪i]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hopefully"
     },
     {
       "id": "4ea6ef37-fdc4-40c7-8a9a-8dc97dbd97c9",
@@ -2595,7 +2692,8 @@
       "ipa": "[ˈt̪ɑrko̞i̯t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mean"
     },
     {
       "id": "6c2486c5-8b06-4e0c-822a-b4e06020cf29",
@@ -2606,7 +2704,8 @@
       "ipa": "[ˈʋɑnhɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "old"
     },
     {
       "id": "38a2c252-6151-4978-927d-2c5c5a0516b9",
@@ -2617,44 +2716,46 @@
       "ipa": "[ˈpo̞i̯sːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "absent"
     },
     {
       "id": "c9e4374d-cedb-4f5a-9bfd-4ace26b02180",
-      "part-of-speech": "noun",
-      "english": "hole window, shutter, door",
+      "part-of-speech": "postposition",
+      "english": "through",
       "finnish": "läpi",
       "cefr": "A1",
       "ipa": "[ˈlæpi]",
-      "plural": "lävet",
-      "context": "usually for ventilation; depending on location",
+      "context": "follows the genitive: metsän läpi, through the forest",
       "register": [
         "All"
-      ]
+      ],
+      "image": "through"
     },
     {
       "id": "66b05f1d-e12a-47c8-85f6-4365a98202cf",
       "part-of-speech": "adverb",
-      "english": "else, or else, otherwise",
+      "english": "otherwise; by the way",
       "finnish": "muuten",
       "cefr": "A1",
       "ipa": "[ˈmuːt̪e̞n]",
-      "context": "quite often preceded by tai (“or”)",
+      "context": "muuten, … : by the way, …; often after tai: or else",
       "register": [
         "All"
-      ]
+      ],
+      "image": "by-the-way"
     },
     {
       "id": "b6a2b4ef-3226-46fe-8f81-334f8684f642",
       "part-of-speech": "verb",
-      "english": "to play (produce music using a musical instrument)",
+      "english": "to play (music); to call (on the phone)",
       "finnish": "soittaa",
       "cefr": "A1",
       "ipa": "[ˈso̞i̯t̪ːɑː]",
-      "context": "produce music using a musical instrument; use a device to hear a recording",
       "register": [
         "All"
-      ]
+      ],
+      "image": "call"
     },
     {
       "id": "1a1dd9d1-1e3f-43f1-9bdf-baa8525c76e4",
@@ -2665,7 +2766,8 @@
       "ipa": "[ˈno̞pe̞ɑst̪i]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "quickly"
     },
     {
       "id": "b3503c50-45ed-45ea-99ea-d4157f2476ec",
@@ -2676,7 +2778,8 @@
       "ipa": "[ˈo̞i̯ke̞ɑst̪i]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "really"
     },
     {
       "id": "e4a5db37-9660-4d47-bc3a-76369363a2e0",
@@ -2688,7 +2791,8 @@
       "plural": "nimet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "name"
     },
     {
       "id": "c9547039-465a-4456-ba7c-62b14b5e02ca",
@@ -2699,80 +2803,84 @@
       "ipa": "[ˈlø̞y̯t̪æː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "find"
     },
     {
       "id": "96143c0e-7add-4bb8-80cf-e675a328d060",
-      "part-of-speech": "noun",
-      "english": "sauna broom",
+      "part-of-speech": "adverb",
+      "english": "only (not until), just",
       "finnish": "vasta",
       "cefr": "A1",
       "ipa": "[ˈʋɑst̪ɑ]",
-      "plural": "vastat",
+      "context": "vasta huomenna: not until tomorrow",
       "register": [
         "All"
-      ]
+      ],
+      "image": "not-until"
     },
     {
       "id": "6480e2fd-0815-4d20-865a-ded5613ae687",
       "part-of-speech": "verb",
-      "english": "to use, make use of‚ employ, apply, utilize, exploit, take advantage of, exert, exercise",
+      "english": "to use; to wear",
       "finnish": "käyttää",
       "cefr": "A1",
       "ipa": "[ˈkæy̯t̪ːæː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "use"
     },
     {
       "id": "848ebc26-5414-40fd-92cb-c66945c74a12",
       "part-of-speech": "noun",
-      "english": "police",
+      "english": "police; police officer",
       "finnish": "poliisi",
       "cefr": "A1",
       "ipa": "[ˈpo̞liːsi]",
       "plural": "poliisit",
-      "context": "organization",
       "register": [
         "All"
-      ]
+      ],
+      "image": "police"
     },
     {
       "id": "1c52d5c9-c45a-4fb4-a40a-971beb2c3ebd",
       "part-of-speech": "adverb",
-      "english": "loose, unfastened, free, separate, detached",
+      "english": "loose, off",
       "finnish": "irti",
       "cefr": "A1",
       "ipa": "[ˈirt̪i]",
-      "context": "not fixed, stuck or attached",
       "register": [
         "All"
-      ]
+      ],
+      "image": "loose"
     },
     {
       "id": "915ed7ba-35f0-4644-b573-43d73b43f06c",
-      "part-of-speech": "noun",
-      "english": "spot, location",
+      "part-of-speech": "adverb",
+      "english": "soon, in a moment",
       "finnish": "kohta",
       "cefr": "A1",
       "ipa": "[ˈko̞ht̪ɑ]",
-      "plural": "kohdat",
-      "context": "especially a more exact location of or within something else",
+      "context": "also a noun: spot, point",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soon"
     },
     {
       "id": "165e8a9a-429c-4384-a34d-b954574d0f5e",
       "part-of-speech": "verb",
-      "english": "to sound [ with ablative or allative; or with genitive or possessive form of present or past active participle ‘to do/have done’]",
+      "english": "to sound (like)",
       "finnish": "kuulostaa",
       "cefr": "A1",
       "ipa": "[ˈkuːlo̞st̪ɑː]",
-      "context": "to sound [: with adjectives or participles; or: with verbs; or (with verbs) with genitive or possessive form of present or past active participle ‘to do/have done’]: convey an impression by one's sound",
+      "context": "se kuulostaa hyvältä: that sounds good",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sounds-like"
     },
     {
       "id": "afc8670c-032a-480e-8bc4-3dc3850aa1b2",
@@ -2783,28 +2891,29 @@
       "ipa": "[ˈkui̯t̪e̞ŋkin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "anyway"
     },
     {
       "id": "2cee3629-a434-4e1b-b932-c525bb05bf7d",
       "part-of-speech": "adverb",
-      "english": "any, -ever, either; used with interrogative pronouns to indicate that a choice between available options is indifferent or arbitrary in at least one respect.",
+      "english": "any-, -ever",
       "finnish": "tahansa",
       "cefr": "A1",
       "ipa": "[ˈt̪ɑhɑnsɑ]",
-      "context": "used with interrogative pronouns: kuka, mikä, missä, milloin, millainen, kumpi etc.; kumpi etc.) to indicate that a choice between available options: which may be infinite",
+      "context": "kuka tahansa: anyone; mitä tahansa: anything, whatever",
       "register": [
         "All"
-      ]
+      ],
+      "image": "any"
     },
     {
       "id": "e858b755-7ea6-41b5-b586-2adf764943b2",
-      "part-of-speech": "noun",
-      "english": "kilt",
+      "part-of-speech": "adjective",
+      "english": "kind, good (well-behaved)",
       "finnish": "kiltti",
       "cefr": "A1",
       "ipa": "[ˈkilt̪ːi]",
-      "plural": "kiltit",
       "register": [
         "All"
       ]
@@ -2812,13 +2921,14 @@
     {
       "id": "c24abfa7-fff2-4923-bfce-5a054ac57cef",
       "part-of-speech": "verb",
-      "english": "to attempt",
+      "english": "to try",
       "finnish": "yrittää",
       "cefr": "A1",
       "ipa": "[ˈyrit̪ːæː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "try"
     },
     {
       "id": "9c8042cf-944f-47a8-9ef2-30b58b03e7cf",
@@ -2851,18 +2961,21 @@
       "ipa": "[ˈhiljɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "quietly"
     },
     {
       "id": "78f27b7a-5eb2-44d3-9bb9-8ac96f50e11f",
-      "part-of-speech": "preposition",
-      "english": "along with",
+      "part-of-speech": "adverb",
+      "english": "along, with (one), included",
       "finnish": "mukana",
       "cefr": "A1",
       "ipa": "[ˈmukɑnɑ]",
+      "context": "onko sinulla passi mukana? do you have your passport with you?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "along"
     },
     {
       "id": "0943968c-71db-42f4-8900-84e437b5dc89",
@@ -2874,7 +2987,8 @@
       "plural": "pakot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "must"
     },
     {
       "id": "c93f3ba7-5b05-440c-9b47-8f903943b23e",
@@ -2885,7 +2999,8 @@
       "ipa": "[ˈe̞nsimːæi̯ne̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "first"
     },
     {
       "id": "362e7f3a-28da-482c-9df6-c0b058fdbad8",
@@ -2896,7 +3011,8 @@
       "ipa": "[ˈe̞i̯le̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "yesterday"
     },
     {
       "id": "33d29502-b460-4e34-9b6d-b9b6d7ef423b",
@@ -2907,20 +3023,22 @@
       "ipa": "[ˈkɑu̯nis]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beautiful"
     },
     {
       "id": "0a5123ab-d9fa-4c28-88c0-5ca745bcb447",
       "part-of-speech": "noun",
-      "english": "clock",
+      "english": "clock, watch; o'clock",
       "finnish": "kello",
       "cefr": "A1",
       "ipa": "[ˈke̞lːo̞]",
       "plural": "kellot",
-      "context": "instrument used to measure time",
+      "context": "kello kolme: (at) three o'clock",
       "register": [
         "All"
-      ]
+      ],
+      "image": "clock"
     },
     {
       "id": "c04809c2-f07b-48ea-a74d-13c1762801da",
@@ -2931,7 +3049,8 @@
       "ipa": "[ˈliːkɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "too-much"
     },
     {
       "id": "ea8915f0-6bcf-4087-a5a3-0d43a0f22557",
@@ -2942,7 +3061,8 @@
       "ipa": "[ˈmukɑʋɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "comfortable"
     },
     {
       "id": "adae2ac4-7131-4a10-8dff-5666f08ffe11",
@@ -2966,19 +3086,21 @@
       "ipa": "[ˈme̞lke̞i̯n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "almost"
     },
     {
       "id": "e45473b0-3e2a-4bda-a0be-8133b777fadc",
       "part-of-speech": "noun",
-      "english": "emotion",
+      "english": "feeling, emotion",
       "finnish": "tunne",
       "cefr": "A1",
       "ipa": "[ˈt̪unːe̞]",
       "plural": "tunteet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "feeling"
     },
     {
       "id": "26d41d10-a053-4b39-ba79-77e261e7eb60",
@@ -3007,16 +3129,16 @@
         "arkikieli",
         "slangi",
         "alatyyli"
-      ]
+      ],
+      "image": "friend"
     },
     {
       "id": "f0362286-1971-4186-b19f-b38770859904",
       "part-of-speech": "adjective",
-      "english": "fine",
+      "english": "fine, great",
       "finnish": "hieno",
       "cefr": "A1",
       "ipa": "[ˈhie̞̯no̞]",
-      "context": "particularly slender; especially thin, narrow, or of small girth",
       "register": [
         "All"
       ]
@@ -3030,14 +3152,15 @@
       "ipa": "[ˈe̞ri]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "different"
     },
     {
       "id": "36721169-4b40-45fe-bc5a-659410e4e362",
       "part-of-speech": "adjective",
       "english": "upright, vertical",
       "finnish": "pysty",
-      "cefr": "A1",
+      "cefr": "B2",
       "ipa": "[ˈpyst̪y]",
       "context": "now uncommon as an independent adjective",
       "register": [
@@ -3065,7 +3188,8 @@
       "ipa": "[ˈusko̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "believe"
     },
     {
       "id": "a02ff7cd-6aec-417e-ac7f-2a68e1c9abc2",
@@ -3078,7 +3202,8 @@
       "context": "fraction of a whole",
       "register": [
         "All"
-      ]
+      ],
+      "image": "part"
     },
     {
       "id": "4e2f52d3-14c6-484b-a913-ec61e8f563ec",
@@ -3096,7 +3221,7 @@
       "part-of-speech": "noun",
       "english": "captain (commander of a sea-going vessel)",
       "finnish": "kapteeni",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "[ˈkɑpt̪e̞ːni]",
       "plural": "kapteenit",
       "register": [
@@ -3105,38 +3230,41 @@
     },
     {
       "id": "36881d70-ce38-4c6b-9b2c-db40dbc8dd8a",
-      "part-of-speech": "adverb",
-      "english": "without (lacking)",
+      "part-of-speech": "preposition",
+      "english": "except, apart from",
       "finnish": "paitsi",
       "cefr": "A1",
       "ipa": "[ˈpɑi̯t̪si]",
+      "context": "kaikki paitsi minä: everyone except me",
       "register": [
         "All"
-      ]
+      ],
+      "image": "except"
     },
     {
       "id": "aa749b98-6be9-4e08-8e49-42b234afb8e8",
-      "part-of-speech": "noun",
-      "english": "hullabaloo",
+      "part-of-speech": "interjection",
+      "english": "hello? (on the phone)",
       "finnish": "haloo",
       "cefr": "A1",
       "ipa": "[ˈhɑlo̞ː]",
-      "plural": "haloot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hello-phone"
     },
     {
       "id": "328520bf-ad73-49d0-b865-41ff0799c767",
       "part-of-speech": "adverb",
-      "english": "from there, thence (from a place not pointed at by the…)",
+      "english": "from there",
       "finnish": "sieltä",
       "cefr": "A1",
       "ipa": "[ˈsie̞̯lt̪æ]",
-      "context": "from a place not pointed at by the speaker",
+      "context": "from a place not pointed at",
       "register": [
         "All"
-      ]
+      ],
+      "image": "from-there"
     },
     {
       "id": "ad4dd462-583a-4573-832f-b8813b367be5",
@@ -3147,7 +3275,8 @@
       "ipa": "[ˈt̪ie̞̯t̪e̞ŋkin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "of-course"
     },
     {
       "id": "287108ae-0f25-40bd-9702-3081472030a5",
@@ -3158,7 +3287,8 @@
       "ipa": "[ˈt̪o̞ki]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sure"
     },
     {
       "id": "c72a391b-045c-43f3-a0d6-5de7a6aacdb9",
@@ -3169,7 +3299,8 @@
       "ipa": "[ˈt̪ie̞̯t̪yst̪i]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "of-course"
     },
     {
       "id": "32675b35-4d0d-4bf0-85f9-192f127e0d18",
@@ -3180,7 +3311,8 @@
       "ipa": "[ˈpɑlɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fire"
     },
     {
       "id": "cedd6c40-fca1-433d-b7dc-2a4c766b5e94",
@@ -3191,14 +3323,15 @@
       "ipa": "[ˈpikːu]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "small"
     },
     {
       "id": "1d8c85c0-9242-4918-9abc-1c645fadf591",
       "part-of-speech": "noun",
       "english": "god, deity",
       "finnish": "jumala",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈjumɑlɑ]",
       "plural": "jumalat",
       "register": [
@@ -3208,13 +3341,14 @@
     {
       "id": "afa6905b-9f66-463d-b689-d80786147633",
       "part-of-speech": "verb",
-      "english": "to pay",
+      "english": "to pay; to cost",
       "finnish": "maksaa",
       "cefr": "A1",
       "ipa": "[ˈmɑksɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pay"
     },
     {
       "id": "39f40a32-9c99-4870-ac5e-06037b92bfc1",
@@ -3224,10 +3358,11 @@
       "cefr": "A1",
       "ipa": "[ˈhe̞t̪kine̞n]",
       "plural": "hetkiset",
-      "context": "short but unspecified period of time",
+      "context": "hetkinen! just a moment!",
       "register": [
         "All"
-      ]
+      ],
+      "image": "moment"
     },
     {
       "id": "a44fea2d-ffc5-4752-84ee-0bcfd23a3044",
@@ -3239,7 +3374,8 @@
       "plural": "autot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "car"
     },
     {
       "id": "3f664bc4-d348-40e1-b8d4-5db664f04629",
@@ -3252,19 +3388,8 @@
       "context": "water in solid form",
       "register": [
         "All"
-      ]
-    },
-    {
-      "id": "49216272-db99-468e-ae41-bd58f56d93ed",
-      "part-of-speech": "noun",
-      "english": "dinghy",
-      "finnish": "jolla",
-      "cefr": "A1",
-      "ipa": "[ˈjo̞lːɑ]",
-      "plural": "jollat",
-      "register": [
-        "All"
-      ]
+      ],
+      "image": "ice"
     },
     {
       "id": "5eaebbd0-6136-42d1-a7fe-c1fb3340c09f",
@@ -3275,7 +3400,8 @@
       "ipa": "[ˈlæhe̞lːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "near"
     },
     {
       "id": "3b3c402c-3df9-45ec-9962-a5a9d861a371",
@@ -3286,7 +3412,8 @@
       "ipa": "[ˈe̞læː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "live"
     },
     {
       "id": "0d5eaeb4-c4c0-4de5-8b9f-87c521200cbb",
@@ -3298,19 +3425,20 @@
       "plural": "ongelmat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "problem"
     },
     {
       "id": "a9c71050-1452-4ec0-b4f2-3720b80b06db",
-      "part-of-speech": "noun",
-      "english": "crazy person",
+      "part-of-speech": "adjective",
+      "english": "crazy",
       "finnish": "hullu",
       "cefr": "A1",
       "ipa": "[ˈhulːu]",
-      "plural": "hullut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "crazy"
     },
     {
       "id": "137b1399-a9f0-4219-ab4e-d142534b364f",
@@ -3319,7 +3447,6 @@
       "finnish": "sellainen",
       "cefr": "A1",
       "ipa": "[ˈse̞lːɑi̯ne̞n]",
-      "context": "a",
       "register": [
         "All"
       ]
@@ -3331,23 +3458,23 @@
       "finnish": "jättää",
       "cefr": "A1",
       "ipa": "[ˈjæt̪ːæː]",
-      "context": "leave behind: a thing, place, person, group, traces, etc.; etc.): cause or allow to remain as available; cause, result in; deposit; transfer possession; have a consequence or remnant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "leave-behind"
     },
     {
       "id": "06ad2212-f464-4f09-8dc3-f5c7512ce4b2",
       "part-of-speech": "noun",
-      "english": "habit",
+      "english": "way, manner; habit",
       "finnish": "tapa",
       "cefr": "A1",
       "ipa": "[ˈt̪ɑpɑ]",
       "plural": "tavat",
-      "context": "action performed on a regular basis",
       "register": [
         "All"
-      ]
+      ],
+      "image": "way"
     },
     {
       "id": "8f907b5f-7151-4263-a533-bb43975d14b0",
@@ -3358,18 +3485,20 @@
       "ipa": "[ˈe̞nsi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-week"
     },
     {
       "id": "1d333666-8b3f-41bd-8d8b-4a3d25ac4bbe",
       "part-of-speech": "verb",
-      "english": "to take away",
+      "english": "to take (somewhere)",
       "finnish": "viedä",
       "cefr": "A1",
       "ipa": "[ˈʋie̞̯dæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "take-to"
     },
     {
       "id": "39f4d0d1-a32e-4197-acff-bb39b1d7cc1e",
@@ -3380,7 +3509,8 @@
       "ipa": "[ˈyht̪æːn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "at-all"
     },
     {
       "id": "2a13c7fa-c6c6-493c-8e26-3d0b3fa898e3",
@@ -3396,13 +3526,14 @@
     {
       "id": "e8d5df38-3572-4f63-a440-0bb8d36975cd",
       "part-of-speech": "adjective",
-      "english": "final",
+      "english": "last, final",
       "finnish": "viimeinen",
       "cefr": "A1",
       "ipa": "[ˈʋiːme̞i̯ne̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "last"
     },
     {
       "id": "462e651c-43aa-4f1c-a2fd-7a42a9754810",
@@ -3413,7 +3544,9 @@
       "ipa": "[ˈhe̞lʋe̞t̪ːi]",
       "plural": "helvetit",
       "register": [
-        "All"
+        "arkikieli",
+        "slangi",
+        "alatyyli"
       ]
     },
     {
@@ -3426,19 +3559,21 @@
       "context": "oma huone: (my) own room",
       "register": [
         "All"
-      ]
+      ],
+      "image": "own"
     },
     {
       "id": "843e488d-3faa-4c37-a5c5-f9d3d945c4a2",
       "part-of-speech": "adjective",
-      "english": "healthy, sane",
+      "english": "healthy",
       "finnish": "terve",
       "cefr": "A1",
       "ipa": "[ˈt̪e̞rʋe̞]",
-      "context": "enjoying health and vigor of body, mind, or spirit",
+      "context": "also a greeting: terve! hi!",
       "register": [
         "All"
-      ]
+      ],
+      "image": "healthy"
     },
     {
       "id": "2910ddb1-6992-4dde-aaf5-c42c2b77532c",
@@ -3449,7 +3584,8 @@
       "ipa": "[ˈsɑmo̞i̯n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "like-as"
     },
     {
       "id": "01eb035b-c5b6-4272-b295-841f81cc0ddd",
@@ -3458,10 +3594,10 @@
       "finnish": "suuri",
       "cefr": "A1",
       "ipa": "[ˈsuːri]",
-      "context": "of considerable size or extent",
       "register": [
         "All"
-      ]
+      ],
+      "image": "big"
     },
     {
       "id": "5678f268-42a3-4123-a8b3-fcc17bd309d9",
@@ -3471,10 +3607,10 @@
       "cefr": "A1",
       "ipa": "[ˈihmine̞n]",
       "plural": "ihmiset",
-      "context": "an individual",
       "register": [
         "All"
-      ]
+      ],
+      "image": "person"
     },
     {
       "id": "5f6588b7-169c-4a77-a3f6-a27a52a2041f",
@@ -3485,18 +3621,20 @@
       "ipa": "[ˈho̞i̯t̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "care"
     },
     {
       "id": "f5011cdb-d4ef-4c73-b6bf-e14b67b3dc2b",
       "part-of-speech": "adjective",
-      "english": "ineffective",
+      "english": "bad, poor",
       "finnish": "huono",
       "cefr": "A1",
       "ipa": "[ˈhuo̞̯no̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bad"
     },
     {
       "id": "6f1f5872-1134-402d-a104-5fa9ab0410e9",
@@ -3507,7 +3645,8 @@
       "ipa": "[ˈjæːdæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "stay"
     },
     {
       "id": "2225f3da-6ad8-4db0-b411-85202298eed8",
@@ -3518,7 +3657,8 @@
       "ipa": "[ˈʋɑi̯ke̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "difficult"
     },
     {
       "id": "882672e1-7584-4b70-b48d-8e6a82ed759a",
@@ -7489,16 +7629,15 @@
     },
     {
       "id": "c431ffac-f47d-4d05-8a94-634849cb3359",
-      "part-of-speech": "noun",
+      "part-of-speech": "adjective",
       "english": "white",
       "finnish": "valkoinen",
       "cefr": "A1",
       "ipa": "[ˈʋɑlko̞i̯ne̞n]",
-      "plural": "valkoiset",
-      "context": "colour",
       "register": [
         "All"
-      ]
+      ],
+      "image": "white"
     },
     {
       "id": "bd013786-7c64-481d-a5e7-ca8e14c82f44",
@@ -8105,7 +8244,8 @@
       "ipa": "[ˈjuo̞̯dɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "drink"
     },
     {
       "id": "9bb48081-0099-4bc2-a507-8d756fc6bf22",
@@ -8504,7 +8644,8 @@
       "context": "move on the feet; travel by moving on the feet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "walk"
     },
     {
       "id": "8c2e655b-660d-4c67-8caa-73b94d0f3fa7",
@@ -10521,7 +10662,8 @@
       "context": "not long: having little length",
       "register": [
         "All"
-      ]
+      ],
+      "image": "short"
     },
     {
       "id": "587885c1-25cd-4b17-ba7f-ecb3c6af126d",
@@ -10614,10 +10756,10 @@
       "cefr": "A1",
       "ipa": "[ˈko̞u̯lu]",
       "plural": "koulut",
-      "context": "an institution dedicated to teaching and learning, particularly one before college or university, or sometimes before lukio",
       "register": [
         "All"
-      ]
+      ],
+      "image": "school"
     },
     {
       "id": "83c7ccbc-7452-4db4-b8cf-d0ad8a9fbd3e",
@@ -11672,7 +11814,8 @@
       "ipa": "[ˈʋo̞i̯dɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "can"
     },
     {
       "id": "1e8b93d2-d2f9-4754-86e0-1d958397ebf4",
@@ -14181,7 +14324,8 @@
       "register": [
         "All"
       ],
-      "plural": "kaupat"
+      "plural": "kaupat",
+      "image": "store"
     },
     {
       "id": "da9f2a4a-9126-4715-89c6-a48622b03497",
@@ -16477,7 +16621,8 @@
       "context": "large medical facility",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hospital"
     },
     {
       "id": "e9d454b7-43f3-460d-a6f5-87cccc3755ef",
@@ -16863,7 +17008,8 @@
       "plural": "nollat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "zero"
     },
     {
       "id": "ebffefcc-7359-4b83-a900-750b368c6128",
@@ -18630,10 +18776,10 @@
       "cefr": "A1",
       "ipa": "[ˈlæːke̞]",
       "plural": "lääkkeet",
-      "context": "substance",
       "register": [
         "All"
-      ]
+      ],
+      "image": "medicine"
     },
     {
       "id": "8e99bebe-52ab-4be8-951c-b2238695f0ef",
@@ -26546,16 +26692,15 @@
     },
     {
       "id": "f8c6636b-6fe0-4aa4-8e7f-0539d6376aa3",
-      "part-of-speech": "noun",
+      "part-of-speech": "adjective",
       "english": "brown",
       "finnish": "ruskea",
       "cefr": "A1",
       "ipa": "[ˈruske̞ɑ]",
-      "plural": "ruskeat",
-      "context": "color",
       "register": [
         "All"
-      ]
+      ],
+      "image": "brown"
     },
     {
       "id": "1f4b5712-33f1-402c-9692-1ce553707de0",
@@ -55096,7 +55241,8 @@
       "ipa": "[ˈpe̞rjɑn̪t̪ɑi̯sin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "on-fridays"
     },
     {
       "id": "322699a3-0b17-4c69-8fc2-4f95cc4932ac",
@@ -66233,7 +66379,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-10"
     },
     {
       "id": "02974081-7cfb-482f-b72a-8a136136e0f1",
@@ -71084,7 +71231,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-11"
     },
     {
       "id": "9257b2da-668b-4f31-b687-bdfadbc6211b",
@@ -71891,7 +72039,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-06"
     },
     {
       "id": "56c9cac6-af3b-40d2-995b-f750df2146cc",
@@ -72186,7 +72335,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-09"
     },
     {
       "id": "6f7b1d5e-393c-4aad-8e89-c61f7c288001",
@@ -72722,7 +72872,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-05"
     },
     {
       "id": "3a843f01-c918-4c55-a4d3-fb06e821c5f7",
@@ -72758,7 +72909,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-04"
     },
     {
       "id": "5872333e-29f6-4f2a-bf8a-830d0fbd934c",
@@ -75465,7 +75617,8 @@
       "plural": "maaliskuut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-03"
     },
     {
       "id": "5ad0696d-ffa1-4046-9cdc-dc567d6e6a97",
@@ -75942,7 +76095,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-08"
     },
     {
       "id": "a734f392-8762-4c60-9863-5ed8c66529e3",
@@ -77004,7 +77158,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-07"
     },
     {
       "id": "8c32662a-4604-41cc-8031-c50fd3f682f9",
@@ -80370,7 +80525,8 @@
       "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-12"
     },
     {
       "id": "abf486e6-f9e4-4004-b8c6-e49b07422ad8",
@@ -81777,7 +81933,8 @@
       "context": "informal and the usual choice; in speech often sä",
       "register": [
         "All"
-      ]
+      ],
+      "image": "you"
     },
     {
       "id": "fa12cb63-44a8-4347-8a88-3846a5f8fb38",
@@ -81789,7 +81946,8 @@
       "context": "one word for both; in everyday speech often se",
       "register": [
         "All"
-      ]
+      ],
+      "image": "he-she"
     },
     {
       "id": "45293525-079f-4c82-b542-2e1a5b4ad921",
@@ -81801,7 +81959,8 @@
       "context": "in everyday speech also \"he, she\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "it"
     },
     {
       "id": "f97f12bc-2eb8-464d-85ad-0914b0d45a5e",
@@ -81813,7 +81972,8 @@
       "context": "in speech often me + a colloquial verb: me mennään",
       "register": [
         "All"
-      ]
+      ],
+      "image": "we"
     },
     {
       "id": "37ab7727-50f8-4b07-a2ae-d7f95d9bdc79",
@@ -81825,7 +81985,8 @@
       "context": "also the polite \"you\" to one person",
       "register": [
         "All"
-      ]
+      ],
+      "image": "you-all"
     },
     {
       "id": "62afda16-2524-4b24-b7a9-9c00b569a72e",
@@ -81837,7 +81998,8 @@
       "context": "in everyday speech also for people",
       "register": [
         "All"
-      ]
+      ],
+      "image": "they-things"
     },
     {
       "id": "8afbf9c3-f2da-48be-95fe-7fbcb6de26a7",
@@ -81849,7 +82011,8 @@
       "context": "tämä kirja: this book",
       "register": [
         "All"
-      ]
+      ],
+      "image": "this"
     },
     {
       "id": "99af720b-9853-4a0a-aab0-a08d2ae19bef",
@@ -81861,7 +82024,8 @@
       "context": "something farther off, that you could point at",
       "register": [
         "All"
-      ]
+      ],
+      "image": "that"
     },
     {
       "id": "c874ad16-8834-40b8-b58e-9139bf1b7cc8",
@@ -81872,7 +82036,8 @@
       "ipa": "[ˈnæmæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "these"
     },
     {
       "id": "be58066b-5e55-44f7-94ce-569ca7d27903",
@@ -81883,7 +82048,8 @@
       "ipa": "[nuo̞̯]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "those"
     },
     {
       "id": "13a9a394-7ac5-47c0-8fa1-7dc9c104c5a2",
@@ -81895,7 +82061,8 @@
       "context": "mikä tämä on? what is this?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "what"
     },
     {
       "id": "b8faa69f-5196-43be-8861-3f2171db1667",
@@ -81907,7 +82074,8 @@
       "context": "the partitive of mikä: mitä sinä teet? what are you doing?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "what"
     },
     {
       "id": "8dbd70a2-dd38-4495-93a8-061961c94acb",
@@ -81919,7 +82087,8 @@
       "context": "kuka hän on? who is he?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "who"
     },
     {
       "id": "7f4c1d8d-8092-4d49-997b-e654ecb5f11c",
@@ -81953,7 +82122,8 @@
       "ipa": "[ˈjo̞ku]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "someone"
     },
     {
       "id": "3350a880-0b22-4a80-83d7-3964f9349107",
@@ -81965,7 +82135,8 @@
       "context": "the partitive of jokin; very common in speech",
       "register": [
         "All"
-      ]
+      ],
+      "image": "something"
     },
     {
       "id": "681d1ff0-256f-41b4-803c-9bbb45b88d14",
@@ -81988,7 +82159,8 @@
       "ipa": "[ˈkɑi̯kːi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "all"
     },
     {
       "id": "d0bb1c81-e813-4a29-834c-edf6c0ff367b",
@@ -82069,7 +82241,8 @@
       "ipa": "[ˈyksi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "one"
     },
     {
       "id": "5a92e04b-a52c-4786-ba7d-d2aeaf5a0bfc",
@@ -82080,7 +82253,8 @@
       "ipa": "[ˈkɑksi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "two"
     },
     {
       "id": "0fadb4d2-0de4-49ba-baca-1656c0b7a654",
@@ -82091,7 +82265,8 @@
       "ipa": "[ˈko̞lme̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "three"
     },
     {
       "id": "e813b68b-e133-4942-998f-d99528fb041a",
@@ -82102,7 +82277,8 @@
       "ipa": "[ˈne̞ljæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "four"
     },
     {
       "id": "c5303610-2110-4497-8c8e-63daa38c4fdf",
@@ -82113,7 +82289,8 @@
       "ipa": "[ˈʋiːsi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "five"
     },
     {
       "id": "4b51553d-e9c2-42dc-a853-ab4f66843b96",
@@ -82125,7 +82302,8 @@
       "context": "the same word as \"spruce\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "six"
     },
     {
       "id": "f3f06fc0-5fd9-4163-9bcb-369c51962d4c",
@@ -82136,7 +82314,8 @@
       "ipa": "[ˈse̞i̯t̪se̞mæn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "seven"
     },
     {
       "id": "15e4dc79-2f07-4edd-8e2e-aa463643d000",
@@ -82147,7 +82326,8 @@
       "ipa": "[ˈkɑhde̞ksɑn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "eight"
     },
     {
       "id": "78a4657a-e321-43ed-9181-c55d555147d2",
@@ -82158,7 +82338,8 @@
       "ipa": "[ˈyhde̞ksæn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nine"
     },
     {
       "id": "6d303089-7f89-4700-96f1-5ba3bb71e768",
@@ -82169,7 +82350,8 @@
       "ipa": "[ˈkymːe̞ne̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ten"
     },
     {
       "id": "917ac808-e3f8-4245-9c80-0ab6fe2fcb0a",
@@ -82180,7 +82362,8 @@
       "ipa": "[ˈsɑt̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hundred"
     },
     {
       "id": "e880fe50-debd-44fc-b3f2-395a8b2e3972",
@@ -82191,7 +82374,8 @@
       "ipa": "[ˈt̪uhɑt̪]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thousand"
     },
     {
       "id": "6140d6e3-f5e8-4c6d-96ca-27ae91025261",
@@ -82214,7 +82398,8 @@
       "context": "also asks \"when?\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "because"
     },
     {
       "id": "20fa4ba6-b5fb-4d1b-8e20-35544f40a7ac",
@@ -82226,7 +82411,8 @@
       "context": "hän sanoo, että…: he says that…",
       "register": [
         "All"
-      ]
+      ],
+      "image": "that-conj"
     },
     {
       "id": "c5a9f488-faac-4791-9224-ae5cf38a1d0a",
@@ -82237,7 +82423,8 @@
       "ipa": "[jo̞s]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "if"
     },
     {
       "id": "48f049fb-2c2d-4076-a66d-0770646ff6d7",
@@ -82249,7 +82436,8 @@
       "context": "kun tulin kotiin: when I came home",
       "register": [
         "All"
-      ]
+      ],
+      "image": "when-conj"
     },
     {
       "id": "febd650f-c773-4c0f-ba17-d59381ea64dc",
@@ -82297,7 +82485,8 @@
       "context": "also \"bye\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hello"
     },
     {
       "id": "df2cf8be-ce29-4c68-883f-23e23b565ff0",
@@ -82312,7 +82501,8 @@
         "arkikieli",
         "slangi",
         "alatyyli"
-      ]
+      ],
+      "image": "hello"
     },
     {
       "id": "bd859659-d3a5-427e-888b-514ca9e76ce9",
@@ -82338,7 +82528,8 @@
       "ipa": "[ˈɑn̪t̪e̞ːksi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sorry"
     },
     {
       "id": "90f6e1c2-7748-4a32-a924-5e78e3f1c9a3",
@@ -82352,7 +82543,8 @@
         "ylätyyli",
         "kirjakieli",
         "yleiskieli"
-      ]
+      ],
+      "image": "goodbye"
     },
     {
       "id": "644ccdd1-85e1-4f18-ae9c-e389f31e90f8",
@@ -82364,7 +82556,8 @@
       "context": "nähdään huomenna: see you tomorrow",
       "register": [
         "All"
-      ]
+      ],
+      "image": "see-you"
     },
     {
       "id": "61fcce80-c811-4449-a3b8-cf580f6965fa",
@@ -82375,7 +82568,8 @@
       "ipa": "[ˈt̪e̞rʋe̞t̪ulo̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "welcome"
     },
     {
       "id": "8b66df2a-f35e-474c-9b8f-cbe85f2a4eaf",
@@ -82386,7 +82580,8 @@
       "ipa": "[ˈhyʋæː ˈhuo̞̯me̞n̪t̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-morning"
     },
     {
       "id": "ae16e6cc-94bb-47ad-a4a9-58c87954a6d7",
@@ -82400,7 +82595,8 @@
         "ylätyyli",
         "kirjakieli",
         "yleiskieli"
-      ]
+      ],
+      "image": "good-day"
     },
     {
       "id": "f9c2d566-bd81-4de1-b2c4-0c9880c81b0b",
@@ -82411,7 +82607,8 @@
       "ipa": "[ˈhyʋæː ˈilt̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-evening"
     },
     {
       "id": "0e96c7b2-782f-4392-88db-a70db5662cc6",
@@ -82422,7 +82619,8 @@
       "ipa": "[ˈhyʋæː ˈyø̞̯t̪æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-night"
     },
     {
       "id": "f8a9be29-d793-4509-95ce-41419c474b03",
@@ -82434,7 +82632,8 @@
       "context": "when handing something over or answering thanks; to more than one person: olkaa hyvä",
       "register": [
         "All"
-      ]
+      ],
+      "image": "here-you-go"
     },
     {
       "id": "914ef5c0-9b9d-4285-b437-74679918478d",
@@ -82458,7 +82657,8 @@
       "context": "literally \"what is heard?\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "how-are-you"
     },
     {
       "id": "a7384264-1c51-416c-9744-c2a45fa7dcff",
@@ -82470,7 +82670,8 @@
       "context": "follows the genitive: ruoan jälkeen, after the meal",
       "register": [
         "All"
-      ]
+      ],
+      "image": "after"
     },
     {
       "id": "663b30fc-ef6a-44ae-bb19-3024c99a72f5",
@@ -82553,7 +82754,8 @@
       "ipa": "[ˈuse̞i̯n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "often"
     },
     {
       "id": "3414b46f-1ada-44e5-9732-e355d18f62ac",
@@ -82599,7 +82801,8 @@
       "context": "more everyday than suuri",
       "register": [
         "All"
-      ]
+      ],
+      "image": "big"
     },
     {
       "id": "53374958-3791-49eb-851e-1ebc26726fdf",
@@ -82611,7 +82814,8 @@
       "context": "the plural of vanhempi",
       "register": [
         "All"
-      ]
+      ],
+      "image": "parents"
     },
     {
       "id": "4ddf6b11-a73c-4497-a1d0-136f01ab9e46",
@@ -82623,7 +82827,8 @@
       "context": "the plural of hius; body hair is karva",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hair"
     },
     {
       "id": "90920da9-2696-4d33-9800-b5768a73ac1b",
@@ -82634,7 +82839,8 @@
       "ipa": "[ˈkuːlːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hear"
     },
     {
       "id": "8df47f26-a811-482f-9699-bff9a0334746",
@@ -82646,7 +82852,8 @@
       "context": "impersonal, with the genitive: minun täytyy mennä, I have to go",
       "register": [
         "All"
-      ]
+      ],
+      "image": "must"
     },
     {
       "id": "b5482520-4f36-4132-8733-647bba90d4c9",
@@ -82658,7 +82865,8 @@
       "plural": "tammikuut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-01"
     },
     {
       "id": "97bc850c-a252-478e-93cf-1cdbdeeed574",
@@ -82670,7 +82878,8 @@
       "plural": "helmikuut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-02"
     },
     {
       "id": "83d90577-03a0-4422-b3f7-307f11fc3a5e",
@@ -82681,7 +82890,8 @@
       "ipa": "[ˈpit̪kæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "long"
     },
     {
       "id": "de53fb80-f900-451d-ab34-3e656ec2ad6e",
@@ -82748,13 +82958,14 @@
     {
       "id": "03299a4d-6305-4775-88e1-e4b44059750d",
       "part-of-speech": "adverb",
-      "english": "correctly, right",
+      "english": "correctly, right; really, very",
       "finnish": "oikein",
       "cefr": "A1",
       "ipa": "[ˈo̞i̯ke̞i̯n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "very"
     }
   ]
 }

@@ -55,6 +55,7 @@
     <div class="quiz-header">
       <button id="quit-btn" class="btn-ghost">Quit</button>
       <button id="browse-btn-quiz" class="btn-ghost">Browse</button>
+      <button id="review-btn-quiz" class="btn-ghost learner-only" title="Study cards for every word you're learning. Before you answer, this counts as a hint">Review</button>
       <button id="script-guide-btn" class="btn-ghost hidden">Language Guide</button>
       <div class="progress-group">
         <span id="question-counter" class="counter-text">1 / 20</span>
@@ -70,6 +71,7 @@
       <div class="question-row">
         <div id="direction-badge" class="direction-badge">English → German</div>
         <div class="word-actions">
+          <button id="picture-toggle-btn" class="btn-picture-toggle hidden" title="Quiz words that have a picture with pictures instead of English"></button>
           <button id="mark-learned-btn" class="btn-mark-learned learner-only hidden">Mark as Learned</button>
           <button id="edit-word-btn" class="btn-edit-word editor-only">Edit Word</button>
         </div>
@@ -125,13 +127,14 @@
     </div>
 
     <div class="quiz-body">
-      <div class="direction-badge">✨ New word</div>
+      <div id="intro-badge" class="direction-badge">✨ New word</div>
 
       <div class="question-card">
         <div id="intro-word" class="word-display"></div>
         <div id="intro-register" class="word-register hidden"></div>
         <div id="intro-ipa" class="word-ipa"></div>
         <div id="intro-pos" class="word-pos"></div>
+        <div id="intro-picture" class="intro-picture hidden"></div>
         <div id="intro-meaning" class="intro-meaning"></div>
         <div id="intro-grammar" class="word-grammar hidden"></div>
         <div id="intro-context" class="context-text intro-context hidden"></div>

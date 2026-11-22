@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="58" cy="26" r="7"/>
+  <path d="M58 33V60M58 60l-11 24M58 60l10 24M58 39l-8 12M58 39l10 10"/>
+  <text class="pic-accent-text" x="24" y="74" font-family="-apple-system, Helvetica, sans-serif" font-size="70" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">!</text>
+  <path d="M36 48l8 0M36 56l8 0" stroke-width="2.5"/>
+  <path d="M72 40h18M84 34l6 6-6 6" stroke-width="2.5"/>
+</svg>

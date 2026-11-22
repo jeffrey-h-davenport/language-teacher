@@ -61,6 +61,19 @@ function vocabularyPath(slug) { return path.join(BUNDLED_DATA_DIR, `${slug}-voca
 function progressPath(slug)   { return path.join(USER_DATA_DIR, `${slug}-progress.json`) }
 function readingPath(slug)    { return path.join(BUNDLED_DATA_DIR, `${slug}-reading.json`) }
 function scriptPath(slug)     { return path.join(BUNDLED_DATA_DIR, `${slug}-script.json`) }
+const IMAGES_DIR = path.join(BUNDLED_DATA_DIR, 'images')
+
+// Picture library shared by every language: a word's "image" names a file
+// here (images/give.svg), so antaa, geben and donner can all use one picture.
+function readImages() {
+  const images = {}
+  let files = []
+  try { files = fs.readdirSync(IMAGES_DIR) } catch (e) { if (e.code !== 'ENOENT') throw e }
+  for (const f of files) {
+    if (f.endsWith('.svg')) images[f.slice(0, -4)] = fs.readFileSync(path.join(IMAGES_DIR, f), 'utf-8')
+  }
+  return images
+}
 
 // Carry forward any progress file found sitting next to the bundle (the old
 // storage location) that hasn't already been migrated — covers upgrading
@@ -248,7 +261,7 @@ ipcMain.handle('load-vocabulary', async (_event, slug) => {
     const script = readJsonIfExists(scriptPath(slug))
     currentSlug = slug
     currentMode = 'vocabulary'
-    return { vocab, progress, script }
+    return { vocab, progress, script, images: readImages() }
   } catch (e) {
     return { error: `Could not load ${slug}: ${e.message}` }
   }

@@ -1,5 +1,131 @@
 # Changelog
 
+## 1.57.3 — 2026-11-21
+- Pictures: aivan, ihan, tosi, oikein and hyvin "very, quite" — a knob turned all the way up (the counterpart of yhtään's knob turned down to 0)
+
+## 1.57.2 — 2026-11-21
+- Pictures for little Finnish words: vasta (✗ before a point in time, ✓ after it), siis (something coming out of something else), myös (a second person raising a hand too), oikeasti (a shining gem), muuten (noticing something to the side while walking), toki (a salute and a thumbs-up), tietenkin and tietysti (pointing at 1 + 1 = 2), toivottavasti (crossed fingers), tahansa (eeny, meeny, miny, moe over identical items), yhtään (a knob turned down to 0)
+- Fixed: highlighted text in pictures (?, !, numbers) drew with a thick outline and looked blobby; it is now crisp
+
+## 1.57.1 — 2026-11-21
+- Pictures: näin, noin and niin as a demonstration — the speaker shows how (näin, "like this"), the speaker points at someone else showing it (noin, "like that"), or the way is only talked about, shown inside a speech bubble (niin); juuri "just, exactly" as a dart in the bullseye
+
+## 1.57.0 — 2026-11-21
+- Pictures: 24 more Finnish A1 words (256 of 318 now have one)
+  - New: yhä (a stretch on the timeline running through "now"), ainoa and vain (one highlighted, the rest faded), hyvää päivää (the sun high), ilman (○ crossed out), paitsi (a group with one left out), koko (a ruler), kertaa (×3), sanoa and kertoa (a speech bubble aimed at a listener), käyttää (a wrench on a gear), kuulostaa (sound waves ≈ a note), haloo (a phone with ?), nähdään (waves and the next day), mitä kuuluu? (? and a heart in a bubble), okei (✓ in a circle), selvä (✓ in a speech bubble), hullu (spiral eyes), kuollut (a gravestone), oma (holding a box close, with a heart)
+  - Sharing an existing picture: siksi (joten's), hieman (vähän's), samoin (kuten's), varma (varmasti's)
+
+## 1.56.9 — 2026-11-21
+- Pictures: tapa "way, manner" (a folded map with a highlighted route from a start point to a flag)
+
+## 1.56.8 — 2026-11-21
+- Pictures: tunne "feeling" (four faces: happy, sad, angry, surprised)
+
+## 1.56.7 — 2026-11-21
+- Pictures: hetki and hetkinen "moment" (a stopwatch with a thin slice of the dial highlighted)
+
+## 1.56.6 — 2026-11-21
+- Pictures: asia and juttu (two people talking, both pointing at the thing they're talking about) and kyse (the same, with a "?" over it: what's it about?)
+
+## 1.56.5 — 2026-11-21
+- Pictures: herra, rouva and neiti — someone bowing to a man in a top hat, a woman with a wedding ring, or a young woman with a ponytail
+
+## 1.56.4 — 2026-11-21
+- Pictures: the rest of the A1 Finnish pronouns — se and ne (one or several boxes highlighted in the speaker scene), häntä (the hän scene with an arrow from the speaker to them), itse (a figure and its reflection in a mirror), joku and jotain (a dashed, unknown person or box); mitä shares mikä's picture
+
+## 1.56.3 — 2026-11-21
+- Pictures: modal verbs — voida (clearing a hurdle, ✓), täytyy and pakko (pushed along by a big "!"), yrittää (reaching for a star just out of reach), uskoa (calm closed eyes and a dashed ✓, next to tietää's wink and solid ✓), tarkoittaa (a word = a thing), and antaa "to let, allow" (a raised barrier arm)
+
+## 1.56.2 — 2026-11-21
+- Fixed: tuo "that" showed the speech-bubble picture meant for the conjunction että; each has its own picture again
+
+## 1.56.1 — 2026-11-21
+- Pictures: all 13 A1 Finnish conjunctions, drawn as a circle and a square joined in different ways — ja (+), eikä (both crossed out), tai (a fork), vai (a fork with ?), mutta (an arrow that turns), joten and koska (an arrow from cause to result, with the result or the cause highlighted), jos (a dashed "maybe" cause), kun (with a clock), että (inside a speech bubble), kuin (tall > short), kuten (=); vaikka shares the "set aside" picture with kuitenkin
+
+## 1.56.0 — 2026-11-21
+- Pictures: 33 more for Finnish A1 words (195 of 318 A1 words now have one)
+  - Places and movement: lähellä, pois, poissa, ohi, läpi, kanssa, mukana, irti
+  - Question words: milloin (clock + ?), miten and kuinka (gear + ?), miksi (? → !)
+  - Amounts: lisää, liian and liikaa (an overflowing glass), melkein, riittää, sata (a 10×10 flat) and tuhat (a cube)
+  - Adjectives: valkoinen and ruskea (real color swatches), eri, valmis, vaikea, viime and ensi (last or next week on a calendar)
+  - Others: ihminen, kaveri, kiitos, anteeksi, tervetuloa, ole hyvä, soittaa, elää, jäädä; palaa shares the fire picture with tuli
+
+## 1.55.1 — 2026-11-21
+- Pictures: how-often words as two weeks of day boxes, filled on the days it happens — aina (all), usein (most), joskus (a few), koskaan and ikinä (none), perjantaisin (every Friday)
+
+## 1.55.0 — 2026-11-21
+- Pictures: time words share one scene — a timeline running toward the future, a clock in the corner, and a person walking along it who looks ahead or back at a marker on the line
+  - New: nyt (marker at their feet), heti (just ahead), pian and kohta (a little way ahead), silloin (far behind), ennen and jälkeen (just before or after a reference block), kauan (a long stretch), taas (a second marker after a faded first one), kerran (one marker, "1"), ensin (the first of three markers)
+  - jo, vielä and enää redrawn in the same scene
+
+## 1.54.8 — 2026-11-21
+- Pictures: the twelve months, tammikuu to joulukuu, as a calendar page with the month's number at the top
+
+## 1.54.7 — 2026-11-21
+- Pictures: jo, vielä and enää on a timeline, with a person standing at "now" — looking back at a ✓ already behind them (jo), looking ahead at an empty circle not reached yet (vielä), or looking back at a stretch of the timeline that has ended (enää)
+
+## 1.54.6 — 2026-11-21
+- Picture quiz: the wrong pictures now come from words of the same part of speech (verbs among verbs, nouns among nouns), so the right picture no longer stands out by type; other pictures fill in only when there aren't enough
+
+## 1.54.5 — 2026-11-21
+- Pictures: pitää "to like" now shares the plain thumbs-up with hyvä (the card's part of speech tells them apart)
+
+## 1.54.4 — 2026-11-21
+- Pictures: pitää "to like" (a thumbs-up next to a cup of coffee, to keep it apart from the plain thumbs-up for hyvä)
+
+## 1.54.3 — 2026-11-21
+- Pictures: ehkä, kai and varmasti as a likelihood gauge running from ✗ to ✓, with the needle in the middle (maybe), leaning toward ✓ (probably) or at ✓ (certainly)
+
+## 1.54.2 — 2026-11-21
+- Pictures: kuitenkin and silti "anyway, still" (an obstacle set aside while the path carries on)
+
+## 1.54.1 — 2026-11-21
+- Pictures: tietää "to know" (a knowing wink with a checkmark in a thought bubble)
+
+## 1.54.0 — 2026-11-21
+- Pictures: 47 more for Finnish A1 words (120 Finnish words now have one)
+  - Verbs: tavata, lähteä, jättää, viedä, saada, löytää, alkaa, näyttää, tehdä
+  - Nouns: nimi, päivä, aika, paikka, pari, kulta, tohtori, ongelma, hiukset
+  - Numbers nolla to kymmenen, as die faces and rows of dots
+  - Greetings: hei and moi, näkemiin, hyvää huomenta, hyvää iltaa, hyvää yötä
+  - Pronouns: minä, sinä, hän, me, te, he, shown as a speaker (with a speech bubble), a listener and two others, with the people the word means highlighted; tämä, tuo, nämä, nuo, kuka, mikä, kaikki
+
+## 1.53.0 — 2026-11-21
+- Pictures: 36 more for Finnish A1 words (72 Finnish words now have one)
+  - Adjectives: iso and suuri, pieni and pikku, pitkä, lyhyt, uusi, kaunis, terve, ensimmäinen, toinen, viimeinen, hyvä, huono
+  - Here and there: täällä, tänne, täältä, siellä, sinne, sieltä, tuolla, missä, mihin and minne, mistä. The highlighted spot is the place the word names (at the speaker, farther off, or "?"), and an arrow into or out of it means "to" or "from"
+  - Other adverbs: ulos, sisään, ylös, alas, yhdessä, yksin, kiinni, nopeasti, hiljaa, eilen, tänään, huomenna, paljon, vähän
+
+## 1.52.0 — 2026-11-21
+- Pictures: 27 more, for Finnish A1 words — mies, nainen, poika, tyttö, isä, äiti, vanhemmat, auto, koulu, sairaala, kello, jää, tuli, tee, poliisi, kauppa, lääke, mennä, tulla, kävellä, puhua, nähdä, juoda, maksaa, odottaa, auttaa and ottaa (33 in all)
+
+## 1.51.3 — 2026-11-21
+- Finnish A1 review: 109 entries corrected
+  - Wrong senses replaced with the everyday one: voi "oh!", juuri "just, exactly", vasta "only (not until)", läpi "through", kiltti "kind", häntä "him, her", tosi "really, very", koko "whole; size", kohta "soon", haloo "hello? (on the phone)", huono "bad, poor", paitsi "except", pitää "to like; to hold", and more
+  - Parts of speech fixed (kiitos and okei are interjections; valkoinen, ruskea, hullu and kuollut are adjectives; itse is a pronoun; herra is a noun; vaikka, kuten and joten are conjunctions; ilman and paitsi are prepositions)
+  - Dictionary-style meanings shortened ("to begin, start" instead of eight synonyms) and stray dictionary notes removed
+  - The "here/there" adverbs now say plainly which is "at", "to" and "from"
+  - Levels: luoja, kapteeni and sillä B1; pysty B2; usko and jumala A2. helvetti is marked as a swear word
+- Finnish: removed ota "thorn", tein "tool", jota "iota" and jolla "dinghy", which were really forms of ottaa, tehdä and joka
+
+## 1.51.2 — 2026-11-21
+- The Pictures / Words switch now swaps English for pictures and keeps the question's direction: "Finnish → English" becomes "Finnish → Picture", and "English → Finnish" becomes "Picture → Finnish" with the same choices. Words without a picture stay in English
+
+## 1.51.1 — 2026-11-21
+- Review now shows just the words in the current session (it also listed every word ever answered but not learned, including missed words that have gone back to the new-word pool)
+
+## 1.51.0 — 2026-11-21
+- Quiz: a Pictures / Words switch next to "Mark as Learned" (shown for languages that have pictures). Pictures quizzes words that have a picture without English; Words goes back to English choices. The choice is remembered, and switching before answering redraws the current question
+- Quiz: a Review button in the header opens study cards for every word you're learning (started but not yet learned, plus this session's new words), weakest first, then returns you to the same question. Opening it before answering counts as a hint, like the note, so a correct answer earns no point
+
+## 1.50.1 — 2026-11-21
+- Pictures: the picture for "old" now shows the person stooping forward over the cane
+
+## 1.50.0 — 2026-11-21
+- Pictures: a word can now have a picture (simple line drawings in a shared library, language-data/images, so one picture serves every language). New-word cards show the picture above the meaning
+- Words with a picture are quizzed without English: either the word is shown and you pick its picture from six, or the picture is shown and you pick the word
+- Finnish: first pictures for antaa "to give", kuulla, vanha, hoitaa, mukava and osa
+
 ## 1.49.9 — 2026-11-21
 - Turkish Language Guide: a basic grammar guide after the pronunciation sections — how Turkish grammar works, two- and four-way vowel harmony, consonant changes and buffer letters, the cases (and when to use the accusative), plurals, possessive suffixes and noun–noun compounds, personal pronouns in every case, "to be" as a suffix, var and yok, the verb stem, the present continuous (-iyor), the past (-di), the future and the simple present, questions with mi, and the common postpositions
 

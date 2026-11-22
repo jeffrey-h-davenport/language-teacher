@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent-soft" d="M18 34l30-16 34 12v40L52 86 18 74z" stroke-width="2.5"/>
+  <path d="M18 34l34 12 30-16M52 46v40" stroke-width="2.5"/>
+  <path d="M21.4 35.2v40" stroke-width="1" opacity="0.6"/>
+  <path d="M24.8 36.4v40" stroke-width="1" opacity="0.6"/>
+  <path d="M28.2 37.6v40" stroke-width="1" opacity="0.6"/>
+  <path d="M31.6 38.8v40" stroke-width="1" opacity="0.6"/>
+  <path d="M35.0 40.0v40" stroke-width="1" opacity="0.6"/>
+  <path d="M38.4 41.2v40" stroke-width="1" opacity="0.6"/>
+  <path d="M41.8 42.4v40" stroke-width="1" opacity="0.6"/>
+  <path d="M45.2 43.6v40" stroke-width="1" opacity="0.6"/>
+  <path d="M48.6 44.8v40" stroke-width="1" opacity="0.6"/>
+  <path d="M55.0 44.4v40" stroke-width="1" opacity="0.6"/>
+  <path d="M58.0 42.8v40" stroke-width="1" opacity="0.6"/>
+  <path d="M61.0 41.2v40" stroke-width="1" opacity="0.6"/>
+  <path d="M64.0 39.6v40" stroke-width="1" opacity="0.6"/>
+  <path d="M67.0 38.0v40" stroke-width="1" opacity="0.6"/>
+  <path d="M70.0 36.4v40" stroke-width="1" opacity="0.6"/>
+  <path d="M73.0 34.8v40" stroke-width="1" opacity="0.6"/>
+  <path d="M76.0 33.2v40" stroke-width="1" opacity="0.6"/>
+  <path d="M79.0 31.6v40" stroke-width="1" opacity="0.6"/>
+  <path d="M18 38l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 42l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 46l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 50l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 54l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 58l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 62l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 66l34 12 30-16" stroke-width="1" opacity="0.6"/>
+  <path d="M18 70l34 12 30-16" stroke-width="1" opacity="0.6"/>
+</svg>

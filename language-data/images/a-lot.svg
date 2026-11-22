@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent" cx="22" cy="80" r="7"/>
+  <circle class="pic-accent" cx="38" cy="80" r="7"/>
+  <circle class="pic-accent" cx="54" cy="80" r="7"/>
+  <circle class="pic-accent" cx="70" cy="80" r="7"/>
+  <circle class="pic-accent" cx="86" cy="80" r="7"/>
+  <circle class="pic-accent" cx="30" cy="66" r="7"/>
+  <circle class="pic-accent" cx="46" cy="66" r="7"/>
+  <circle class="pic-accent" cx="62" cy="66" r="7"/>
+  <circle class="pic-accent" cx="78" cy="66" r="7"/>
+  <circle class="pic-accent" cx="38" cy="52" r="7"/>
+  <circle class="pic-accent" cx="54" cy="52" r="7"/>
+  <circle class="pic-accent" cx="70" cy="52" r="7"/>
+  <circle class="pic-accent" cx="46" cy="38" r="7"/>
+  <circle class="pic-accent" cx="62" cy="38" r="7"/>
+</svg>

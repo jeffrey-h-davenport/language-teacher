@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M14 70c10 0 10-20 22-20s8 24 20 24 6-30 18-30 8 26 18 26"/>
+  <path d="M36 50c8-14 26-10 24 4s-20 8-18-4" stroke-width="3"/>
+  <text class="pic-accent-text" x="76" y="32" font-family="-apple-system, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">!</text>
+</svg>

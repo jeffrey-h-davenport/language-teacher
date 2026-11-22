@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-line" cx="30" cy="26" r="7"/>
+  <path class="pic-accent-line" d="M30 33V60M30 60l-7 24M30 60l7 24M30 39l-9 15M30 39l9 15"/>
+  <ellipse class="pic-accent" cx="30" cy="88" rx="13" ry="4"/>
+  <g opacity="0.35">
+  <circle cx="70" cy="26" r="7"/>
+  <path d="M70 33V60M70 60l-10 24M70 60l9 24M70 39l-8 12M70 39l10 10"/>
+  </g>
+  <path d="M78 34h14M86 28l6 6-6 6" stroke-width="2.5" opacity="0.35"/>
+</svg>
