@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="20" y="6" width="60" height="26" rx="2" stroke-width="2.5"/>
+  <rect class="pic-accent" x="12" y="46" width="20" height="10" rx="1.5" stroke-width="2"/>
+  <path d="M15 56v8M29 56v8" stroke-width="2"/>
+  <rect class="pic-accent" x="12" y="72" width="20" height="10" rx="1.5" stroke-width="2"/>
+  <path d="M15 82v8M29 82v8" stroke-width="2"/>
+  <rect class="pic-accent" x="40" y="46" width="20" height="10" rx="1.5" stroke-width="2"/>
+  <path d="M43 56v8M57 56v8" stroke-width="2"/>
+  <rect class="pic-accent" x="40" y="72" width="20" height="10" rx="1.5" stroke-width="2"/>
+  <path d="M43 82v8M57 82v8" stroke-width="2"/>
+  <rect class="pic-accent" x="68" y="46" width="20" height="10" rx="1.5" stroke-width="2"/>
+  <path d="M71 56v8M85 56v8" stroke-width="2"/>
+  <rect class="pic-accent" x="68" y="72" width="20" height="10" rx="1.5" stroke-width="2"/>
+  <path d="M71 82v8M85 82v8" stroke-width="2"/>
+</svg>

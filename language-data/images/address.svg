@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M50 90V54" stroke-width="5"/>
+  <path class="pic-accent" d="M26 30h40a12 12 0 0 1 12 12v14H26z"/>
+  <path d="M26 56V42a12 12 0 0 1 12-12" stroke-width="3"/>
+  <path d="M66 22v12h10v-6h-10" stroke-width="2.5"/>
+  <text x="52" y="50" font-family="-apple-system, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="#fff" stroke="none">12</text>
+  <path d="M28 90h44" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M14 50L50 18l36 32v38H14z"/>
+  <circle class="pic-accent-line" cx="50" cy="47.4" r="4.9"/>
+  <path class="pic-accent-line" d="M50 52.3V71.2M50 71.2l-4.9 16.8M50 71.2l4.9 16.8M50 56.5l-6.3 10.5M50 56.5l6.3 10.5"/>
+  <path d="M8 54L50 14l42 40" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="40" cy="26" r="7"/>
+  <path d="M40 33V60M40 60l-4 24M40 60l16 16M40 39l-14 -12M40 39l14 4"/>
+  <path class="pic-accent" d="M76 40v-14l10-3v14" stroke-width="2.5"/>
+  <ellipse class="pic-accent" cx="73" cy="40" rx="4" ry="3" stroke-width="2"/>
+  <ellipse class="pic-accent" cx="83" cy="37" rx="4" ry="3" stroke-width="2"/>
+  <path class="pic-accent-line" d="M18 70q-6-10 2-20M70 74q8-8 2-18" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-line" cx="40" cy="26" r="7"/>
+  <path class="pic-accent-line" d="M40 33V60M40 60l-7 24M40 60l7 24M40 39l-8 15M40 39l4 -26"/>
+  <text class="pic-accent-text" x="72" y="48" font-family="-apple-system, Helvetica, sans-serif" font-size="40" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">?</text>
+</svg>

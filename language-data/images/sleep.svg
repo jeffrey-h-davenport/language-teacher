@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M8 32v54M92 60v26M8 74h84"/>
+  <path class="pic-accent" d="M24 58h68v16H24z" stroke-width="2.5"/>
+  <circle cx="16" cy="56" r="7" stroke-width="3"/>
+  <text class="pic-accent-text" x="52" y="38" font-family="-apple-system, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">z</text>
+  <text class="pic-accent-text" x="66" y="26" font-family="-apple-system, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">z</text>
+  <text class="pic-accent-text" x="82" y="14" font-family="-apple-system, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">z</text>
+</svg>

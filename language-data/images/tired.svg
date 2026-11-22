@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle cx="50" cy="50" r="32"/>
+  <path d="M32 46h12M56 46h12" stroke-width="3"/>
+  <ellipse cx="50" cy="66" rx="5" ry="4" stroke-width="2.5"/>
+  <text class="pic-accent-text" x="82" y="26" font-family="-apple-system, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">z</text>
+  <text class="pic-accent-text" x="90" y="12" font-family="-apple-system, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">z</text>
+</svg>

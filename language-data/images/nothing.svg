@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <rect x="10" y="42" width="16" height="16" rx="2" opacity="0.5"/>
+  <path class="pic-accent-line" d="M8 40l20 20M28 40l-20 20" stroke-width="4"/>
+  <rect x="42" y="42" width="16" height="16" rx="2" opacity="0.5"/>
+  <path class="pic-accent-line" d="M40 40l20 20M60 40l-20 20" stroke-width="4"/>
+  <rect x="74" y="42" width="16" height="16" rx="2" opacity="0.5"/>
+  <path class="pic-accent-line" d="M72 40l20 20M92 40l-20 20" stroke-width="4"/>
+</svg>

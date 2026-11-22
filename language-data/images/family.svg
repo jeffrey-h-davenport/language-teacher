@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-line" cx="18" cy="28.9" r="6.65"/>
+  <path class="pic-accent-line" d="M18 35.55V61.2M18 61.2l-6.65 22.8M18 61.2l6.65 22.8M18 41.25l-8.55 14.25M18 41.25l8.55 14.25"/>
+  <circle class="pic-accent-line" cx="82" cy="28.9" r="6.65"/>
+  <path class="pic-accent-line" d="M80.1 43.15L71.55 65.95H92.45L83.9 43.15z"/>
+  <path class="pic-accent-line" d="M82 35.55V43.15M79.6725 65.95L75.35 84M84.3275 65.95L88.65 84M82 41.25l-8.55 14.25M82 41.25l8.55 14.25"/>
+  <path class="pic-accent-line" d="M75.35 28.9q-2 8.55 -3.8 11.4M88.65 28.9q2 8.55 3.8 11.4" stroke-width="2.5"/>
+  <circle class="pic-accent-line" cx="40" cy="51.75" r="6"/>
+  <path class="pic-accent-line" d="M40 57.75V71.25M40 71.25l-5.25 12.75M40 71.25l5.25 12.75M40 62.25l-6.75 11.25M40 62.25l6.75 11.25"/>
+  <circle class="pic-accent-line" cx="60" cy="51.75" r="6"/>
+  <path class="pic-accent-line" d="M58.5 63.75L51.75 75H68.25L61.5 63.75z"/>
+  <path class="pic-accent-line" d="M60 57.75V63.75M58.1625 75L54.75 84M61.8375 75L65.25 84M60 62.25l-6.75 11.25M60 62.25l6.75 11.25"/>
+  <path class="pic-accent-line" d="M54 50.25l-4.5 -2.25M66 50.25l4.5 -2.25" stroke-width="3"/>
+</svg>

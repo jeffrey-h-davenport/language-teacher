@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M4 84h88M86 78l6 6-6 6" stroke-width="3"/>
+  <path class="pic-accent" d="M16 60h12l-6 12z" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M22 52v8" stroke-width="3"/>
+  <path class="pic-accent" d="M42 60h12l-6 12z" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M48 52v8" stroke-width="3"/>
+  <path class="pic-accent" d="M68 60h12l-6 12z" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M74 52v8" stroke-width="3"/>
+  <text class="pic-accent-text" x="48" y="38" font-family="-apple-system, Helvetica, sans-serif" font-size="26" font-weight="700" text-anchor="middle" fill="currentColor" stroke="none">3</text>
+</svg>

@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.62.0 — 2026-11-22
+- Pictures: 33 more for abstract words and phrases — need, life, occasions ("3" on a timeline), reason, luck (dice), story, first aid, kind/type, attention, lesson, word, sentence, pleasure, tower, homework, message, card, age, hunger, address, language, meter, classroom, twenty, knowing someone, visit, each, easy, interesting, fresh, please, you're welcome, well…
+- French: 40 more A1 words have pictures (534 of 551; the rest are the articles and the words set aside)
+
+## 1.61.2 — 2026-11-22
+- Pictures: chez (waving from your own doorway), more / less as bars growing or shrinking, nothing and nobody (crossed out), the next step along the timeline
+- French: à, de, en, chez, plus (3), moins (2), rien, personne, alors, puis, ensuite, bien, mal have pictures (494 of 551 A1)
+
+## 1.61.1 — 2026-11-22
+- Pictures: possessives as the speaker scene with the owner(s) highlighted holding one box or several (my, your, his/her, our, your (plural), their); "which?"
+- French: mon/ma/mes, ton/ta/tes, son/sa/ses, notre/nos, votre/vos, leur, ce/cette/ces (the "this" pointing pictures) and quel have pictures (478 of 551 A1)
+
+## 1.61.0 — 2026-11-22
+- Pictures: 159 new — body parts, family and people; clothes, transport, weather and nature, animals, seasons, days of the week (a Sunday-first week with that day highlighted), week, weekend, month, year; everyday verbs (eat, sleep, read, write, swim, dance, cook, buy, open, search, think, learn, ask, stop, change, arrive, finish, choose, carry, get up, go to bed…); feelings and other adjectives (hot, cold, sad, happy, tired, sick, expensive, clean, free…); real color swatches; position words (on, under, in, in front of, behind, next to, far, left, right); yes, no, early, late
+- French: 191 more A1 words have pictures (460 of 551)
+
 ## 1.60.3 — 2026-11-22
 - French A1 cleanup, part 3
   - Main meanings: chance "luck; chance" (bonne chance!), passer adds "to spend (time)", tour adds "turn" (c'est ton tour); trimmed rare senses from maison, adresse, classe, croissant and désolé; médecin is "doctor"

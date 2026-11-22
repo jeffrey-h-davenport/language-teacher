@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-accent-soft" cx="50" cy="70" r="18"/>
+  <circle class="pic-accent-soft" cx="50" cy="38" r="13"/>
+  <circle cx="45" cy="35" r="1.8" fill="currentColor" stroke="none"/><circle cx="55" cy="35" r="1.8" fill="currentColor" stroke="none"/>
+  <path class="pic-accent-line" d="M50 40l10 3-10 1" stroke-width="2.5"/>
+  <path d="M36 62l-14-10M64 62l14-10" stroke-width="3"/>
+  <path d="M40 26h20l-2-10H42z" stroke-width="3"/>
+  <path class="pic-accent-line" d="M10.0 18.0L26.0 18.0" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M14.0 11.1L22.0 24.9" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M22.0 11.1L14.0 24.9" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M21.1 16.9L22.8 18.0L21.1 19.1" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M20.6 20.2L20.4 22.2L18.6 21.3" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M17.4 21.3L15.6 22.2L15.4 20.2" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M14.9 19.1L13.2 18.0L14.9 16.9" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M15.4 15.8L15.6 13.8L17.4 14.7" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M18.6 14.7L20.4 13.8L20.6 15.8" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M78.0 24.0L90.0 24.0" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M81.0 18.8L87.0 29.2" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M87.0 18.8L81.0 29.2" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M86.4 23.2L87.6 24.0L86.4 24.8" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M85.9 25.6L85.8 27.1L84.4 26.5" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M83.6 26.5L82.2 27.1L82.1 25.6" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M81.6 24.8L80.4 24.0L81.6 23.2" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M82.1 22.4L82.2 20.9L83.6 21.5" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M84.4 21.5L85.8 20.9L85.9 22.4" stroke-width="2.5"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent-line" d="M14.0 50.0L86.0 50.0" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M32.0 18.8L68.0 81.2" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M68.0 18.8L32.0 81.2" stroke-width="3.5"/>
+  <path class="pic-accent-line" d="M64.2 44.9L71.6 50.0L64.2 55.1" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M61.5 59.7L60.8 68.7L52.7 64.8" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M47.3 64.8L39.2 68.7L38.5 59.7" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M35.8 55.1L28.4 50.0L35.8 44.9" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M38.5 40.3L39.2 31.3L47.3 35.2" stroke-width="2.5"/>
+  <path class="pic-accent-line" d="M52.7 35.2L60.8 31.3L61.5 40.3" stroke-width="2.5"/>
+</svg>

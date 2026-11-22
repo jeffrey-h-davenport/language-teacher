@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent" d="M14 50l36-36h34v34L48 84z"/>
+  <circle cx="72" cy="28" r="5" fill="#fff" stroke="none"/>
+  <path d="M84 14c6-4 10 2 6 8" stroke-width="2.5"/>
+  <text x="50" y="60" font-family="-apple-system, Helvetica, sans-serif" font-size="22" font-weight="700" text-anchor="middle" fill="#fff" stroke="none">€</text>
+</svg>

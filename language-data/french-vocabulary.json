@@ -193,7 +193,8 @@
       "context": "plus grand: bigger; plus difficile: more difficult; also before adverbs: plus vite, faster; before a vowel the s links as z: plus âgé /ply.z‿a.ʒe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "more-degree"
     },
     {
       "id": "c6704ccd-9de2-4903-96db-024ad0bb5a41",
@@ -205,7 +206,8 @@
       "context": "il travaille plus: he works more; j'en veux plus: I want more",
       "register": [
         "All"
-      ]
+      ],
+      "image": "more-degree"
     },
     {
       "id": "629f4121-6edd-4eaf-b9f9-b98c4220c73c",
@@ -415,7 +417,8 @@
       "context": "deux plus deux font quatre: two plus two is four",
       "register": [
         "All"
-      ]
+      ],
+      "image": "more-degree"
     },
     {
       "id": "bc9655fd-6831-406a-81e7-0f5f41d8082f",
@@ -572,7 +575,8 @@
       "ipa": "/wi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "yes"
     },
     {
       "id": "927dffb0-8763-480f-a007-0e7a7a8ddb1a",
@@ -745,7 +749,8 @@
       "ipa": "/a.lɔʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "so"
     },
     {
       "id": "4e9b5ef3-65b4-4083-ae05-d39f94ca01f7",
@@ -873,7 +878,8 @@
       "ipa": "/e.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "summer"
     },
     {
       "id": "39c0de60-42b9-4e28-a332-e6fb83b2439b",
@@ -933,7 +939,8 @@
       "ipa": "/mɛm/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "same"
     },
     {
       "id": "b774a496-9850-49e2-b2ef-7ad561d1c787",
@@ -1010,7 +1017,8 @@
       "ipa": "/otʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "other"
     },
     {
       "id": "d6695e67-1be4-4269-bdfe-df56d2f654e7",
@@ -1060,7 +1068,8 @@
       "ipa": "/bə.zwɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "need"
     },
     {
       "id": "feae6815-54b4-49c0-9aac-d45a53ac0dcd",
@@ -1086,7 +1095,8 @@
       "ipa": "/vi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "life"
     },
     {
       "id": "3a8ce8ba-45c8-4218-b9dd-5de0a71a2a12",
@@ -1123,7 +1133,8 @@
       "ipa": "/fwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "occasions"
     },
     {
       "id": "f9f62f05-3966-4f50-a539-ef23d6d42864",
@@ -1422,7 +1433,8 @@
       "countability": "plural-only",
       "register": [
         "All"
-      ]
+      ],
+      "image": "people"
     },
     {
       "id": "e1fa0bbe-5a4d-4005-8f5d-866d4d790c09",
@@ -1499,7 +1511,8 @@
       "ipa": "/swɛː(ɾ)/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-evening"
     },
     {
       "id": "bd9cc948-ea5a-4856-a4b4-7c2dabb97bd5",
@@ -1591,7 +1604,8 @@
       "ipa": "/aʁ.ʒɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "money"
     },
     {
       "id": "45a7e966-9fcb-4bdf-9ab9-7e2e26abef93",
@@ -1618,7 +1632,8 @@
       "ipa": "/nɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-night"
     },
     {
       "id": "7a1e8be4-5ec9-41e7-985c-396bb942bb61",
@@ -1631,7 +1646,8 @@
       "ipa": "/ʁɛ.zɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "reason"
     },
     {
       "id": "7d015981-8bbe-48fc-8eae-fe7a26921c3e",
@@ -1655,7 +1671,8 @@
       "context": "moins cher: cheaper, less expensive; also before adverbs: moins vite, less quickly; before a vowel the s links as z: moins important /mwɛ̃.z‿ɛ̃.pɔʁ.tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "less-degree"
     },
     {
       "id": "35ed310b-7899-4592-bfa9-d2936c8468aa",
@@ -1787,7 +1804,8 @@
       "context": "dix moins trois font sept: ten minus three is seven",
       "register": [
         "All"
-      ]
+      ],
+      "image": "less-degree"
     },
     {
       "id": "1a5cd328-34a9-4b6a-8a9c-8ddcf5b52ceb",
@@ -1804,7 +1822,8 @@
         "populaire",
         "argotique",
         "vulgaire"
-      ]
+      ],
+      "image": "mother"
     },
     {
       "id": "3c555a12-22bf-45a0-a71a-c9529d09afa2",
@@ -1868,7 +1887,8 @@
       "ipa": "/ɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wind"
     },
     {
       "id": "253a61c8-afa4-456d-b0d5-d8f2ef992bfe",
@@ -1908,7 +1928,8 @@
       "ipa": "/pœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fear"
     },
     {
       "id": "efc4dcc1-9692-4022-b3cd-f8ce3e8f154c",
@@ -1935,7 +1956,8 @@
       "ipa": "/fil/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "son"
     },
     {
       "id": "434ac479-4642-4197-9c3b-bcab605b0ee0",
@@ -1972,7 +1994,8 @@
       "ipa": "/fa.mij/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "family"
     },
     {
       "id": "2f9e557a-76d4-409a-83c7-d4ccf8fa7f8a",
@@ -1998,7 +2021,8 @@
       "ipa": "/tʁa.vaj/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "work"
     },
     {
       "id": "bbc63d03-75a3-4980-a775-38ca10aa2512",
@@ -2022,7 +2046,8 @@
       "ipa": "/tɛt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "head"
     },
     {
       "id": "ef4d7f8d-92c6-452a-b1fa-bb6c45bfb862",
@@ -2111,7 +2136,8 @@
       "ipa": "/i.de/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "idea"
     },
     {
       "id": "55399efd-1ce7-40df-92b9-eba0fa263aba",
@@ -2125,7 +2151,8 @@
       "context": "bonne chance!: good luck!",
       "register": [
         "All"
-      ]
+      ],
+      "image": "luck"
     },
     {
       "id": "5dab15bf-5ae9-43dd-9c8e-d1a5654f6b0e",
@@ -2212,7 +2239,8 @@
       "ipa": "/taʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "late"
     },
     {
       "id": "ec7fdefe-21a8-4331-91ea-92b4e498d32d",
@@ -2223,7 +2251,8 @@
       "ipa": "/pɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-step"
     },
     {
       "id": "27249362-48d2-4d07-a9e8-570c2de47df8",
@@ -2248,7 +2277,8 @@
       "context": "passer le week-end à Paris: to spend the weekend in Paris",
       "register": [
         "All"
-      ]
+      ],
+      "image": "past"
     },
     {
       "id": "2d57f3bf-b3cb-41b9-adc7-a020b4e144c3",
@@ -2271,7 +2301,8 @@
       "context": "for uncountable nouns and portions",
       "register": [
         "All"
-      ]
+      ],
+      "image": "how-much"
     },
     {
       "id": "4e4a1892-470b-444d-b7e3-76bcc6dda7ed",
@@ -2339,7 +2370,8 @@
         "populaire",
         "argotique",
         "vulgaire"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "82451c1b-5f28-4a7f-bb20-4b628b22a71d",
@@ -2432,7 +2464,8 @@
       "ipa": "/a.muʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "love"
     },
     {
       "id": "70f86f33-67bd-4f7b-ae2b-079d450d3c23",
@@ -2510,7 +2543,8 @@
       "ipa": "/kɛs.tjɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "question"
     },
     {
       "id": "9ee1a2b2-2579-4244-bbc9-61d28c639ac7",
@@ -2538,7 +2572,8 @@
       "ipa": "/is.twaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "story"
     },
     {
       "id": "b0033def-a010-46cc-ab1a-3b43bc78a348",
@@ -2551,7 +2586,8 @@
       "ipa": "/ɛd/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "first-aid"
     },
     {
       "id": "75f5714f-d4ba-4673-a2d6-6f93a92fb3a8",
@@ -2564,7 +2600,8 @@
       "ipa": "/də.mɑ̃d/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ask"
     },
     {
       "id": "f95dc7ce-4ff9-4e7f-992c-73119f275e52",
@@ -2575,7 +2612,8 @@
       "ipa": "/ʃɛʁ.ʃe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "search"
     },
     {
       "id": "d7b9181c-a6dc-4912-9907-9cc10ea88ef5",
@@ -2613,7 +2651,8 @@
       "ipa": "/ʒɑ̃ʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "kind"
     },
     {
       "id": "8015eea2-50ed-45d3-99e7-b46321db5777",
@@ -2664,7 +2703,8 @@
       "ipa": "/mwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month"
     },
     {
       "id": "5ec932f5-e3ad-42e3-a860-6348c07819bd",
@@ -2677,7 +2717,8 @@
       "ipa": "/fʁɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "brother"
     },
     {
       "id": "31a6f06d-efe6-4443-80f1-f19c841acd9d",
@@ -2700,7 +2741,8 @@
       "ipa": "/mɛtʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "put"
     },
     {
       "id": "4975566d-9a37-4633-8d14-099c56045e51",
@@ -2724,7 +2766,8 @@
       "ipa": "/ʃak/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "each"
     },
     {
       "id": "4e9fe371-42d9-4e1e-8bb0-77b392907f75",
@@ -2774,7 +2817,8 @@
       "ipa": "/be.be/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "baby"
     },
     {
       "id": "0c7f10de-fc51-42bd-b415-7cf2355948b6",
@@ -2787,7 +2831,8 @@
       "ipa": "/plas/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "place"
     },
     {
       "id": "62857abe-5f89-4c44-b136-38a241568472",
@@ -2836,7 +2881,8 @@
       "ipa": "/a.tɑ̃.sjɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "attention"
     },
     {
       "id": "123b4c0d-66ed-436b-9e3b-ccaaf9ee4ac3",
@@ -2924,7 +2970,8 @@
       "ipa": "/vwa.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "here-you-go"
     },
     {
       "id": "0d6c00e6-4a4f-4041-a9e8-8bcc60431584",
@@ -2937,7 +2984,8 @@
       "ipa": "/tʁɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "train"
     },
     {
       "id": "fd7b77e1-87a3-4c47-8262-d0d043108529",
@@ -2976,7 +3024,8 @@
       "ipa": "/tip/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "kind"
     },
     {
       "id": "71032a1a-b6ab-4511-9367-18cb98557b51",
@@ -3050,7 +3099,8 @@
       "ipa": "/mɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hand"
     },
     {
       "id": "06cb6172-ac17-4ba6-ad03-f09cd0911c3d",
@@ -3063,7 +3113,8 @@
       "ipa": "/ɑ̃.fɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "child"
     },
     {
       "id": "1ff172eb-711a-40b3-81d1-ca56cd1dc013",
@@ -3088,7 +3139,8 @@
       "ipa": "/ma.tɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-morning"
     },
     {
       "id": "8261621e-6720-4d44-b944-5c1cd46a9bff",
@@ -3185,7 +3237,8 @@
       "ipa": "/a.ʁɛ.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "stop"
     },
     {
       "id": "f734939b-4f34-44f7-8cb9-101ba41798f9",
@@ -3317,7 +3370,8 @@
       "ipa": "/lwɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "far"
     },
     {
       "id": "356d202e-c8f1-4059-acdf-1acc8d73277c",
@@ -3330,7 +3384,8 @@
       "ipa": "/ma.ʁi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "husband"
     },
     {
       "id": "da8c7eed-9986-45fc-a862-b044cb09807f",
@@ -3495,7 +3550,8 @@
       "ipa": "/ʒwe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "game"
     },
     {
       "id": "669aa07d-e390-42c7-a446-5840d58cdc34",
@@ -3506,7 +3562,8 @@
       "ipa": "/də.mɑ̃.de/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ask"
     },
     {
       "id": "c1de4456-3530-4c21-b95b-b579cb90552a",
@@ -3582,7 +3639,8 @@
       "ipa": "/a.p(ə).le/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "call"
     },
     {
       "id": "c4a33184-20d1-4cd9-8de3-efbcd51a4859",
@@ -3648,7 +3706,8 @@
       "ipa": "/sə.mɛn/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "week"
     },
     {
       "id": "9329fc42-8e87-4b98-8a68-8f18978e5805",
@@ -3776,7 +3835,8 @@
       "ipa": "/a.ʁi.ve/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "arrive"
     },
     {
       "id": "e037ff06-afa7-43cf-b700-59ec55347c81",
@@ -3853,7 +3913,8 @@
       "ipa": "/ɛ̃.pɔʁ.tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "important"
     },
     {
       "id": "0fbc0bc2-285a-4330-b13e-906a897dbd65",
@@ -4046,7 +4107,8 @@
       "ipa": "/fɛːt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "party"
     },
     {
       "id": "c9c79ae7-e018-4063-be56-e94b37963bfc",
@@ -4059,7 +4121,8 @@
       "ipa": "/ʒø/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "game"
     },
     {
       "id": "293a5029-85a7-4be4-9d7e-ce0da1f35f81",
@@ -4108,7 +4171,8 @@
       "ipa": "/kuʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lesson"
     },
     {
       "id": "f3e4e1b6-cdea-4984-a1c7-fe04f664d46e",
@@ -4133,7 +4197,8 @@
       "ipa": "/ny.me.ʁo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "number"
     },
     {
       "id": "f95437dc-86a6-4638-9db7-e006157cd4d2",
@@ -4206,7 +4271,8 @@
       "ipa": "/mi.nyt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "moment"
     },
     {
       "id": "4dcabe31-22e3-420b-8ddf-2baa8aee6e2d",
@@ -4258,7 +4324,8 @@
       "ipa": "/pɑ̃.se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "think"
     },
     {
       "id": "9b26f558-2376-4f53-871b-3163ea2422cf",
@@ -4308,7 +4375,8 @@
       "ipa": "/mo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "word"
     },
     {
       "id": "32e544a9-6094-4b1e-b3bc-6d3910cc6908",
@@ -4319,7 +4387,8 @@
       "ipa": "/tʁa.va.je/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "work"
     },
     {
       "id": "289ccaa4-ad32-49ea-89af-705cd6ede619",
@@ -4330,7 +4399,8 @@
       "ipa": "/ʁɑ̃.tʁe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "go-home"
     },
     {
       "id": "c507372d-538b-4845-907b-b23dacb1633d",
@@ -4341,7 +4411,8 @@
       "ipa": "/ʁə.ɡaʁ.de/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "see"
     },
     {
       "id": "35e244bc-07ad-4e48-bf5b-125f737626a6",
@@ -4378,7 +4449,8 @@
       "ipa": "/film/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "movie"
     },
     {
       "id": "a1016bf7-9c20-46a5-8a4f-aeb267c56677",
@@ -4415,7 +4487,8 @@
       "ipa": "/fa.sil/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "easy"
     },
     {
       "id": "eaf614d9-5587-4b6e-9d95-7bad19679009",
@@ -4438,7 +4511,8 @@
       "ipa": "/ʃɑ̃.ʒe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "change"
     },
     {
       "id": "ada034ad-e81d-4437-9a7b-3c3c16973783",
@@ -4463,7 +4537,8 @@
       "ipa": "/plɛ.ziʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pleasure"
     },
     {
       "id": "5c1a172f-0f59-48b6-98aa-7f0ff1240dbe",
@@ -4499,7 +4574,8 @@
       "ipa": "/pʁɔpʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "clean"
     },
     {
       "id": "253f4ce3-9fac-4d20-bccf-5265dc34b232",
@@ -4513,7 +4589,8 @@
       "context": "masculine: c'est ton tour, it's your turn; feminine: la tour Eiffel",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tower"
     },
     {
       "id": "afc0b4f7-ae7c-4fdc-842d-c1cea68fdfd7",
@@ -4524,7 +4601,8 @@
       "ipa": "/ɑ̃.sɥit/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-step"
     },
     {
       "id": "5ff60e5c-c8b6-487b-bf4d-a59bcd6fbc06",
@@ -4628,7 +4706,8 @@
       "ipa": "/a.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "year"
     },
     {
       "id": "ec1ac059-adf4-4af1-b1b9-07bc86a13584",
@@ -4654,7 +4733,8 @@
       "ipa": "/də.vwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "homework"
     },
     {
       "id": "f535b03f-e7a0-4a32-9c99-285bb3057318",
@@ -4741,7 +4821,8 @@
       "ipa": "/pɛʁdʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lose"
     },
     {
       "id": "20c037a9-f9fa-4050-a252-1f9b23072e3e",
@@ -4752,7 +4833,8 @@
       "ipa": "/bi.zaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "strange"
     },
     {
       "id": "fa250b9d-3252-4c35-8f91-15a6ad75eab3",
@@ -4763,7 +4845,8 @@
       "ipa": "/to/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "early"
     },
     {
       "id": "672d996c-4aa6-47e9-8470-a989ecf5302e",
@@ -4788,7 +4871,8 @@
       "ipa": "/ʃjɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dog"
     },
     {
       "id": "4d8ec469-3772-4c1e-bdda-fd58d9e40792",
@@ -4839,7 +4923,8 @@
       "ipa": "/fɔ.to/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "photo"
     },
     {
       "id": "ae7fc5d7-86e2-446f-9cdb-2aef46dfe39f",
@@ -4918,7 +5003,8 @@
       "ipa": "/my.zik/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "music"
     },
     {
       "id": "fb6bbb86-9383-416f-a35b-4c78c5b17c15",
@@ -5042,7 +5128,8 @@
       "ipa": "/kɔ̃.pʁɑ̃dʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "understand"
     },
     {
       "id": "fe85007e-79b4-4642-866b-20d545715bc0",
@@ -5225,7 +5312,8 @@
       "ipa": "/bʁa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "arm"
     },
     {
       "id": "0a4b8bb1-910b-4cb6-8717-2b71a8cd28c0",
@@ -5385,7 +5473,8 @@
       "ipa": "/mɛ.saʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "message"
     },
     {
       "id": "c595ae12-f323-475f-af5b-656c9d95a2bb",
@@ -5643,7 +5732,8 @@
       "ipa": "/dɔʁ.miʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sleep"
     },
     {
       "id": "1900a55b-dfea-4ced-846d-e8e65b4f0d37",
@@ -5656,7 +5746,8 @@
       "ipa": "/ɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "year"
     },
     {
       "id": "3ae553bd-45ec-46c0-894a-d771efc009f7",
@@ -5707,7 +5798,8 @@
       "ipa": "/kaʁt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "card"
     },
     {
       "id": "3b6bcc08-411a-4cc2-ab79-432132892f95",
@@ -5770,7 +5862,8 @@
       "ipa": "/kɔ̃.tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "happy"
     },
     {
       "id": "55a94a00-c017-4ff3-86b3-d0a62624f743",
@@ -5835,7 +5928,8 @@
       "ipa": "/sak/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bag"
     },
     {
       "id": "08da7dfd-df82-44c2-ba21-ad22a055c76b",
@@ -5846,7 +5940,8 @@
       "ipa": "/aʃ.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "buy"
     },
     {
       "id": "04f9d2c1-21e7-44fb-8d21-a14a1a3d3c5c",
@@ -5931,7 +6026,8 @@
       "ipa": "/pʁi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "price"
     },
     {
       "id": "4ce2b9e6-7b7f-4071-b6ae-e50e70bdc410",
@@ -5957,7 +6053,8 @@
       "ipa": "/aʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "age"
     },
     {
       "id": "7f34b63c-b0bc-447c-b4a6-669e76f994f8",
@@ -6006,7 +6103,8 @@
       "ipa": "/a.pʁɑ̃dʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "learn"
     },
     {
       "id": "ced665ca-c620-407d-b8df-e33fb6f6f92f",
@@ -6171,7 +6269,8 @@
       "ipa": "/vwa.jaʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "trip"
     },
     {
       "id": "94f8864e-8751-4952-9b6e-6b7a9385248e",
@@ -6295,7 +6394,8 @@
       "ipa": "/sœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sister"
     },
     {
       "id": "54e4a3ef-4b95-4910-a9e2-c494b21598ba",
@@ -6408,7 +6508,8 @@
       "ipa": "/a.ni.vɛʁ.sɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "birthday"
     },
     {
       "id": "1343447c-0739-41cb-ab2f-c30c566be11c",
@@ -6419,7 +6520,8 @@
       "ipa": "/fi.niʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "finish"
     },
     {
       "id": "880ef248-0839-48ed-a6dd-14a85818aaba",
@@ -6452,7 +6554,8 @@
       "ipa": "/libʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "free"
     },
     {
       "id": "058bce2f-272f-417e-ad7e-72c66939df76",
@@ -6571,7 +6674,8 @@
         "populaire",
         "argotique",
         "vulgaire"
-      ]
+      ],
+      "image": "nice"
     },
     {
       "id": "219b1f55-664b-4996-ba2c-cc67e754fdfb",
@@ -6584,7 +6688,8 @@
       "ipa": "/a.vjɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "airplane"
     },
     {
       "id": "b7339c55-a75b-4e9a-8ab7-62da1079b891",
@@ -6707,7 +6812,8 @@
       "ipa": "/fɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hunger"
     },
     {
       "id": "88d1a347-0af7-40e3-b225-482273f88ecb",
@@ -6886,7 +6992,8 @@
       "ipa": "/ka.do/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "gift"
     },
     {
       "id": "908012b1-350f-49d3-96f9-aa7f47021b4e",
@@ -6982,7 +7089,8 @@
       "ipa": "/ʁe.pɔ̃s/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "answer"
     },
     {
       "id": "28cbf2d2-5f9f-4f07-8f33-1450e0755406",
@@ -7037,7 +7145,8 @@
       "ipa": "/pje/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "foot"
     },
     {
       "id": "bfe5e341-68ab-4491-a174-87c32cde9352",
@@ -7097,7 +7206,8 @@
       "ipa": "/sɔ.lɛj/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "day"
     },
     {
       "id": "079e67ee-f067-4c81-9ef4-0cc6ab1c59e3",
@@ -7371,7 +7481,8 @@
       "ipa": "/pʁɔ.fɛ.sœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "teacher"
     },
     {
       "id": "1879b4d5-b46b-4dd3-a847-8eabbf53785d",
@@ -7421,7 +7532,8 @@
       "context": "to be familiar with: a person, place, fact, event",
       "register": [
         "All"
-      ]
+      ],
+      "image": "know-person"
     },
     {
       "id": "154ecd4c-fae6-4979-b314-a812ad813e1a",
@@ -7613,7 +7725,8 @@
       "ipa": "/klas/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "classroom"
     },
     {
       "id": "4af8312a-b8cb-4649-a006-c3d672668a06",
@@ -7790,7 +7903,8 @@
       "ipa": "/sjɛl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sky"
     },
     {
       "id": "af2eae7b-1d62-4f70-a8e5-7fd059a9b275",
@@ -7843,7 +7957,8 @@
       "ipa": "/e.ku.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hear"
     },
     {
       "id": "815c4fe2-bd57-4e67-b7c1-b8018d324ce6",
@@ -7878,7 +7993,8 @@
       "ipa": "/tʁist/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sad"
     },
     {
       "id": "774079b7-ac2d-4161-a277-03d6824e5b6f",
@@ -7942,7 +8058,8 @@
       "ipa": "/u.vʁiʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "open"
     },
     {
       "id": "bbe3bc4c-8cd8-407e-9ee7-a3de38870c50",
@@ -8073,7 +8190,8 @@
       "ipa": "/ʃɑ̃.sɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sing"
     },
     {
       "id": "cc505732-e742-405e-a74c-ba43401b1703",
@@ -8427,7 +8545,8 @@
       "ipa": "/e.kʁiʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "write"
     },
     {
       "id": "41a91ff5-d291-4ec0-a1ef-a45fdd49d8b1",
@@ -8454,7 +8573,8 @@
       "ipa": "/buʃ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mouth"
     },
     {
       "id": "2540b2eb-be0e-41fd-8783-2fe793ee7c8e",
@@ -8651,7 +8771,8 @@
       "ipa": "/ʃə.val/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "horse"
     },
     {
       "id": "3b74fe4c-0749-4325-908a-dd2095abcbc1",
@@ -8816,7 +8937,8 @@
       "ipa": "/a.dʁɛs/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "address"
     },
     {
       "id": "ff8baba6-3a7d-4a55-814c-8dfe9a2d3f74",
@@ -9107,7 +9229,8 @@
       "ipa": "/ʁɔb/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dress"
     },
     {
       "id": "fd836e15-be71-4f98-9e9d-a8b3035133cd",
@@ -9142,7 +9265,8 @@
       "ipa": "/ʁe.pɔ̃dʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "answer"
     },
     {
       "id": "5d94d8e4-49d8-4733-a66a-58b9beefd6a3",
@@ -9257,7 +9381,8 @@
       "ipa": "/ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nose"
     },
     {
       "id": "570580d9-e17f-4a6a-b0d8-541489aca120",
@@ -9394,7 +9519,8 @@
       "ipa": "/ɛ̃.te.ʁɛ.sɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "interesting"
     },
     {
       "id": "2d28c2c3-99cb-4a78-b7c9-8d3d808cb1f6",
@@ -9520,7 +9646,8 @@
       "ipa": "/œj/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "eye"
     },
     {
       "id": "69c4ecee-35e7-4f54-a865-9095cc73f2e0",
@@ -10153,7 +10280,8 @@
       "ipa": "/ɡʁɑ̃.mɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "grandmother"
     },
     {
       "id": "8153b605-515e-4ce1-abda-e205201aee7e",
@@ -10517,7 +10645,8 @@
       "ipa": "/dɑ̃.se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dance"
     },
     {
       "id": "2bfe2cb3-9cc9-4efe-8a91-4784133b15f7",
@@ -10867,7 +10996,8 @@
       "ipa": "/ʃwa.ziʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "choose"
     },
     {
       "id": "59a8850c-2db0-42c4-95a0-6d56874c91a5",
@@ -11205,7 +11335,8 @@
       "ipa": "/ɡʁɑ̃.pɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "grandfather"
     },
     {
       "id": "1ca19812-9c6e-4db7-909b-8888801b49d2",
@@ -11240,7 +11371,8 @@
       "ipa": "/ʃɑ̃.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sing"
     },
     {
       "id": "fa1a079b-6ee9-4d5f-ba54-c78bdab39e64",
@@ -11508,7 +11640,8 @@
       "ipa": "/by/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bus"
     },
     {
       "id": "b8121d6b-2fda-422c-b8aa-7bbfd1af9bc0",
@@ -11637,7 +11770,8 @@
       "ipa": "/ʃa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cat"
     },
     {
       "id": "a3728493-f771-40b3-879a-6ed626b4b65c",
@@ -11779,7 +11913,8 @@
       "ipa": "/a.pʁɛ.mi.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "afternoon"
     },
     {
       "id": "3342c895-77a9-4acd-a70c-69c5b30cabe4",
@@ -11983,7 +12118,8 @@
       "ipa": "/tak.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "taxi"
     },
     {
       "id": "c12b7217-5ca1-4511-bf44-6e5abe8ec1d5",
@@ -12126,7 +12262,8 @@
       "context": "in Quebec: fin de semaine",
       "register": [
         "All"
-      ]
+      ],
+      "image": "weekend"
     },
     {
       "id": "38f7c939-ff62-4806-a216-50a1733487e0",
@@ -12282,7 +12419,8 @@
       "ipa": "/fɛʁ.me/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "closed"
     },
     {
       "id": "e2487caf-6af8-4d66-ba83-7d1d97201b1b",
@@ -12356,7 +12494,8 @@
       "ipa": "/lɑ̃ɡ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "language"
     },
     {
       "id": "eec2e3d6-0fc7-4957-b544-3b45dbac141a",
@@ -12408,7 +12547,8 @@
       "ipa": "/ku.lœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "color"
     },
     {
       "id": "4c6698b7-f496-4ebe-a848-b2efc14e3f6b",
@@ -12557,7 +12697,8 @@
       "ipa": "/ku.ʁiʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "quickly"
     },
     {
       "id": "3240b9f2-0144-4977-9505-83b7e1839b14",
@@ -13532,7 +13673,8 @@
       "ipa": "/ʒɑ̃b/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "leg"
     },
     {
       "id": "2ba41ce2-700c-4087-ad9a-8ea509c43042",
@@ -13696,7 +13838,8 @@
       "ipa": "/ʃa.po/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hat"
     },
     {
       "id": "6da98c90-c7f3-45eb-802d-3a9e5647fdbc",
@@ -13891,7 +14034,8 @@
       "ipa": "/vɑ̃.dʁə.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "friday"
     },
     {
       "id": "248d14ad-63d7-49ad-b26a-42252d97cc6b",
@@ -14481,7 +14625,8 @@
       "ipa": "/sam.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "saturday"
     },
     {
       "id": "169ed3e4-88cf-4f65-b9d6-21a4fec1e13f",
@@ -14852,7 +14997,8 @@
       "ipa": "/a.ni.mal/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "animal"
     },
     {
       "id": "c3fe01b4-6f12-47c8-a589-7e4637a28138",
@@ -14863,7 +15009,8 @@
       "ipa": "/fa.ti.ɡe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tired"
     },
     {
       "id": "e43be5a0-2bb2-4e6f-90bc-8cc0477a7b10",
@@ -14961,7 +15108,8 @@
       "ipa": "/di.mɑ̃ʃ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sunday"
     },
     {
       "id": "8e54b2c9-5ea2-4d65-aac7-50580fbf0697",
@@ -15409,7 +15557,8 @@
       "ipa": "/pɑ̃.ta.lɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pants"
     },
     {
       "id": "2bef93e8-0687-4124-a807-40dd05ffc06e",
@@ -15810,7 +15959,8 @@
       "ipa": "/wa.zo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bird"
     },
     {
       "id": "2320f033-3682-4c27-a83b-dfa8a52a335b",
@@ -16078,7 +16228,8 @@
       "ipa": "/spɔʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sport"
     },
     {
       "id": "d0fba2d7-ebe3-4c3e-b383-ad8f6ff579dc",
@@ -16136,7 +16287,8 @@
       "ipa": "/plɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "rain"
     },
     {
       "id": "5b49a339-84e5-4fad-8b5a-751c0a31f67c",
@@ -16253,7 +16405,8 @@
       "ipa": "/nɛʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "snow"
     },
     {
       "id": "4f6b50c2-4df3-43e6-bf34-d8a76cf0543d",
@@ -16266,7 +16419,8 @@
       "ipa": "/ʃə.miz/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shirt"
     },
     {
       "id": "a1bb8307-8156-42c2-8081-41a600422706",
@@ -16679,7 +16833,8 @@
       "ipa": "/lœ̃.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "monday"
     },
     {
       "id": "409d381b-a7d6-4b8f-9f92-5f3a46faf141",
@@ -17771,7 +17926,8 @@
       "ipa": "/ɔ.ʁɛj/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ear"
     },
     {
       "id": "ed67e87f-c594-4629-ac3e-bb7e927a4604",
@@ -18633,7 +18789,8 @@
       "ipa": "/bi.jɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ticket"
     },
     {
       "id": "1c3c312a-56cc-460b-bfa5-a8633fa947c1",
@@ -18706,7 +18863,8 @@
       "ipa": "/la.ve/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wash"
     },
     {
       "id": "2e3b169a-93b4-4e5c-80ab-6b3ef6f65705",
@@ -18849,7 +19007,8 @@
       "ipa": "/e.ty.dje/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "student"
     },
     {
       "id": "9680971d-93fa-4e7a-855c-a172047f76f1",
@@ -19538,7 +19697,8 @@
       "ipa": "/i.vɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "winter"
     },
     {
       "id": "60521d24-beb9-4e37-9ae7-a5e8a78eee5c",
@@ -19551,7 +19711,8 @@
       "ipa": "/mɑ̃.to/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "coat"
     },
     {
       "id": "e60f092f-304c-4425-b51f-82f667e8bfe3",
@@ -20098,7 +20259,8 @@
       "ipa": "/ve.lo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bike"
     },
     {
       "id": "d251dbc5-7e8a-447e-8c6a-49dd1a3e2b58",
@@ -20248,7 +20410,8 @@
       "ipa": "/maʁ.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tuesday"
     },
     {
       "id": "b1ef6c7e-cfc3-4667-8432-f3cffc24da60",
@@ -21296,7 +21459,8 @@
       "ipa": "/flœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "flower"
     },
     {
       "id": "3b0fe392-5153-407b-be18-0f832b07dbe6",
@@ -21359,7 +21523,8 @@
       "ipa": "/ʒø.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thursday"
     },
     {
       "id": "b024d1ee-5878-4af1-b0a6-549e3259462d",
@@ -21435,7 +21600,8 @@
       "ipa": "/e.lɛv/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "student"
     },
     {
       "id": "37b48077-0c79-4020-bf04-860874ac3c4e",
@@ -21868,7 +22034,8 @@
       "ipa": "/swaf/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thirst"
     },
     {
       "id": "68c7d008-b59b-45cb-b6d2-44c730fcdbb6",
@@ -22743,7 +22910,8 @@
       "ipa": "/vwa.ja.ʒe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "trip"
     },
     {
       "id": "487bca83-0933-4fab-b6fd-1a7da8d9fb18",
@@ -23279,7 +23447,8 @@
       "ipa": "/fut.bol/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soccer"
     },
     {
       "id": "0e600299-4010-4b1f-88c4-deb504694dbb",
@@ -23431,7 +23600,8 @@
       "context": "a place",
       "register": [
         "All"
-      ]
+      ],
+      "image": "visit"
     },
     {
       "id": "a6096218-b3ed-4dd5-8e91-ce6683964999",
@@ -23551,7 +23721,8 @@
       "ipa": "/pʁɛ̃.tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "spring"
     },
     {
       "id": "7433ea01-3814-4278-b50d-442b7028e163",
@@ -24051,7 +24222,8 @@
       "ipa": "/e.ty.djɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "student"
     },
     {
       "id": "b3015c8e-37b2-457c-b1be-9263082829da",
@@ -24689,7 +24861,8 @@
       "ipa": "/a.dɔ.ʁe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "love"
     },
     {
       "id": "fe8179b6-de8e-404e-afd5-6d98e39ada00",
@@ -25193,7 +25366,8 @@
       "ipa": "/na.ʒe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "swim"
     },
     {
       "id": "ca5bb4c9-dba4-41b5-9a66-466ec0777953",
@@ -25817,7 +25991,8 @@
       "ipa": "/mɛʁ.kʁə.di/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wednesday"
     },
     {
       "id": "84ba9507-8342-48c4-9fb6-a7a0ab00c9bf",
@@ -27609,7 +27784,8 @@
       "ipa": "/me.tʁo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "subway"
     },
     {
       "id": "226e1849-805e-43ea-b3d0-245a395dde0a",
@@ -28366,7 +28542,8 @@
       "ipa": "/fʁaz/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sentence"
     },
     {
       "id": "058f6881-5586-4be3-8691-71c878bb1649",
@@ -28429,7 +28606,8 @@
       "ipa": "/kɥi.zi.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cook"
     },
     {
       "id": "ee0082f0-dbf7-428b-8f8e-1742cc81a275",
@@ -29625,7 +29803,8 @@
       "ipa": "/dɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tooth"
     },
     {
       "id": "aa6e4e3e-91fc-4d39-9a8a-93d22b623e4a",
@@ -33595,7 +33774,8 @@
       "ipa": "/ku.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "price"
     },
     {
       "id": "80669793-ccf3-4051-aa71-8f692ec54360",
@@ -34802,7 +34982,8 @@
       "ipa": "/ʃo.syʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shoe"
     },
     {
       "id": "ae8bbc25-7c62-49b4-aaa3-53330c672916",
@@ -35532,7 +35713,8 @@
       "ipa": "/o.tɔn/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fall"
     },
     {
       "id": "9343a8f8-6cb0-487c-995f-d6dcaf3b169e",
@@ -38102,7 +38284,8 @@
       "ipa": "/de.tɛs.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hate"
     },
     {
       "id": "e47ebfba-140d-46d5-a716-fdea12677f7f",
@@ -42511,7 +42694,8 @@
       "context": "j'habite à Paris: I live in Paris",
       "register": [
         "All"
-      ]
+      ],
+      "image": "home"
     },
     {
       "id": "ad2c11a8-0543-4d06-b45c-7f1499d0b785",
@@ -45470,7 +45654,8 @@
       "ipa": "/ʒyp/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "skirt"
     },
     {
       "id": "cc853799-7bf8-4052-819b-658ffb0d6b0f",
@@ -51489,7 +51674,8 @@
       "ipa": "/mɛtʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "meter"
     },
     {
       "id": "e308240c-fde1-4c1e-9d8b-7f691f675721",
@@ -53137,7 +53323,8 @@
       "ipa": "/plø.vwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "rain"
     },
     {
       "id": "3eada89a-7695-49f2-8af2-a0f40128a6b9",
@@ -73778,7 +73965,8 @@
       "ipa": "/vɛt.mɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "clothes"
     },
     {
       "id": "3d17daee-4121-4aa2-b322-68fcbf41f2ac",
@@ -106617,7 +106805,8 @@
       "ipa": "/aʁbʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tree"
     },
     {
       "id": "b66e968a-f99c-436c-854e-c2f530777877",
@@ -112762,7 +112951,8 @@
       "context": "ne … rien: nothing",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nothing"
     },
     {
       "id": "f2a2b4b7-4aed-4d43-abcf-503205db9d01",
@@ -112774,7 +112964,8 @@
       "context": "ne … personne: nobody",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nobody"
     },
     {
       "id": "da692a61-99ac-499b-a6eb-6051e8d07a47",
@@ -112903,7 +113094,8 @@
       "context": "cet before a vowel",
       "register": [
         "All"
-      ]
+      ],
+      "image": "this"
     },
     {
       "id": "0519ad1b-99a1-41ed-b54c-268eec815388",
@@ -112914,7 +113106,8 @@
       "ipa": "/sɛt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "this"
     },
     {
       "id": "8bead316-7203-437f-be37-f826401ef766",
@@ -112925,7 +113118,8 @@
       "ipa": "/se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "these"
     },
     {
       "id": "3d3f2773-efe1-4828-b5f1-0654b5966ca0",
@@ -112937,7 +113131,8 @@
       "context": "also before a feminine noun starting with a vowel: mon amie",
       "register": [
         "All"
-      ]
+      ],
+      "image": "my"
     },
     {
       "id": "8daafdd5-4b04-4c00-9e81-2e6263ca90d0",
@@ -112948,7 +113143,8 @@
       "ipa": "/ma/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "my"
     },
     {
       "id": "8c04d53d-666c-4aa8-8b4d-5a044a23361b",
@@ -112959,7 +113155,8 @@
       "ipa": "/me/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "my-pl"
     },
     {
       "id": "02140670-c553-486b-887e-86daa84868c4",
@@ -112970,7 +113167,8 @@
       "ipa": "/tɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "your"
     },
     {
       "id": "89295a66-bacc-4e07-9241-401a02855160",
@@ -112981,7 +113179,8 @@
       "ipa": "/ta/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "your"
     },
     {
       "id": "9adad865-bb01-4ec4-b0aa-aa1dfd4eeec4",
@@ -112992,7 +113191,8 @@
       "ipa": "/te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "your-pl"
     },
     {
       "id": "a8ba55d9-abc5-4992-9491-60a6776a6289",
@@ -113003,7 +113203,8 @@
       "ipa": "/sɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "his-her"
     },
     {
       "id": "b18b8be3-f0aa-4720-96c9-8705e3212481",
@@ -113014,7 +113215,8 @@
       "ipa": "/sa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "his-her"
     },
     {
       "id": "04b3d185-2327-4f40-8775-d7156fe44679",
@@ -113025,7 +113227,8 @@
       "ipa": "/se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "his-her-pl"
     },
     {
       "id": "912f6ba6-399d-48c7-90ac-9331e99abdbe",
@@ -113036,7 +113239,8 @@
       "ipa": "/nɔtʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "our"
     },
     {
       "id": "a3ddbfaf-40ad-40e5-a1ea-4520fe312021",
@@ -113047,7 +113251,8 @@
       "ipa": "/no/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "our-pl"
     },
     {
       "id": "6784a0cf-40bc-47e1-918d-afb26b0c6c24",
@@ -113058,7 +113263,8 @@
       "ipa": "/vɔtʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "your-all"
     },
     {
       "id": "94d58427-5b27-4615-b094-3731b8696ba5",
@@ -113069,7 +113275,8 @@
       "ipa": "/vo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "your-all-pl"
     },
     {
       "id": "9a7622d3-6455-419f-9278-8ffaf63ab7aa",
@@ -113081,7 +113288,8 @@
       "context": "plural leurs",
       "register": [
         "All"
-      ]
+      ],
+      "image": "their"
     },
     {
       "id": "2268be96-06d7-4b5e-b464-266c3e9b9f2f",
@@ -113093,7 +113301,8 @@
       "context": "feminine quelle; quel âge?: how old?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "which"
     },
     {
       "id": "eb3ec214-443c-4676-8bb6-e9719a788137",
@@ -113141,7 +113350,8 @@
       "context": "au = à + le; aux = à + les",
       "register": [
         "All"
-      ]
+      ],
+      "image": "to-there"
     },
     {
       "id": "fcc99450-c6d3-401d-9726-1ea58deff388",
@@ -113153,7 +113363,8 @@
       "context": "d' before a vowel; du = de + le",
       "register": [
         "All"
-      ]
+      ],
+      "image": "from-there"
     },
     {
       "id": "7ea25530-c73b-436a-9457-4d0b1cb4a346",
@@ -113165,7 +113376,8 @@
       "context": "en France, en train",
       "register": [
         "All"
-      ]
+      ],
+      "image": "in"
     },
     {
       "id": "2831f637-833c-47e2-ae3c-42e182c255bb",
@@ -113176,7 +113388,8 @@
       "ipa": "/dɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "inside"
     },
     {
       "id": "05d63aa9-566f-4857-9c5e-85ecb26bac3b",
@@ -113187,7 +113400,8 @@
       "ipa": "/syʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "on"
     },
     {
       "id": "522a1d50-e1ef-4db8-9b6a-6d44e4482e1f",
@@ -113198,7 +113412,8 @@
       "ipa": "/su/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "under"
     },
     {
       "id": "5e5bc1a1-ffd3-46f9-a412-3016129893fa",
@@ -113256,7 +113471,8 @@
       "context": "chez moi: at my place",
       "register": [
         "All"
-      ]
+      ],
+      "image": "at-home-of"
     },
     {
       "id": "f20a8f1b-f85a-45c8-8a08-234c5e8847f7",
@@ -113278,7 +113494,8 @@
       "ipa": "/də.vɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "in-front-of"
     },
     {
       "id": "8bd7beec-7bf1-4e48-8596-32c56b782ce6",
@@ -113289,7 +113506,8 @@
       "ipa": "/dɛ.ʁjɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "behind"
     },
     {
       "id": "e431540e-0494-4127-86c0-6af9a0d9f766",
@@ -113392,7 +113610,8 @@
       "ipa": "/lwɛ̃ də/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "far"
     },
     {
       "id": "572bdcec-4284-4f2c-a138-1a0a3f79dddc",
@@ -113403,7 +113622,8 @@
       "ipa": "/a ko.te də/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-to"
     },
     {
       "id": "ffe98dee-6f41-40a3-9b67-66ef0f34a7ee",
@@ -113742,7 +113962,8 @@
       "ipa": "/bjɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "74c8376e-2369-4fe7-9060-363b39fd2c23",
@@ -113753,7 +113974,8 @@
       "ipa": "/mal/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bad"
     },
     {
       "id": "46665af6-12f5-4456-8b07-315bb3f12e78",
@@ -113798,7 +114020,8 @@
       "ipa": "/nɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "no"
     },
     {
       "id": "351f5608-99a4-4f21-a327-99117e4be8cc",
@@ -113947,7 +114170,8 @@
       "ipa": "/sil vu plɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "please"
     },
     {
       "id": "c943ce5a-b6c8-486f-b7ca-209aad6a7598",
@@ -113958,7 +114182,8 @@
       "ipa": "/sil tə plɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "please"
     },
     {
       "id": "e5802432-945b-45ff-9b51-60cddda3f8b3",
@@ -114041,7 +114266,8 @@
       "ipa": "/də ʁjɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "youre-welcome"
     },
     {
       "id": "912f86ea-a1f4-4aad-8e5f-1cbf1c9b5049",
@@ -114100,7 +114326,8 @@
       "context": "j'ai, tu as, il a, nous avons, vous avez, ils ont",
       "register": [
         "All"
-      ]
+      ],
+      "image": "have"
     },
     {
       "id": "9507f0d0-e128-48f0-a0fd-cba67f943bd9",
@@ -114150,7 +114377,8 @@
       "context": "je veux; je voudrais: I would like",
       "register": [
         "All"
-      ]
+      ],
+      "image": "want"
     },
     {
       "id": "cb617e41-9a9a-4a78-933f-18dd4f29381f",
@@ -114198,7 +114426,8 @@
       "ipa": "/mɑ̃.ʒe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "eat"
     },
     {
       "id": "80bb565c-e5b5-4b8a-96b2-2b4bc0b0ce65",
@@ -114209,7 +114438,8 @@
       "ipa": "/liʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "read"
     },
     {
       "id": "def5f301-850c-44a7-b73c-95b17ef23090",
@@ -114244,7 +114474,8 @@
       "ipa": "/pɔʁ.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "carry"
     },
     {
       "id": "478493da-637b-4804-9ee4-259758a4e587",
@@ -114289,7 +114520,8 @@
       "ipa": "/pʁe.fe.ʁe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "prefer"
     },
     {
       "id": "75c30ca2-810a-4923-888b-09d665b04423",
@@ -114301,7 +114533,8 @@
       "context": "il neige: it's snowing",
       "register": [
         "All"
-      ]
+      ],
+      "image": "snow"
     },
     {
       "id": "a429e75f-b24e-47de-b4ae-1e3633c5e856",
@@ -114312,7 +114545,8 @@
       "ipa": "/sə lə.ve/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "get-up"
     },
     {
       "id": "444f2314-87ce-4665-a532-29450f725708",
@@ -114323,7 +114557,8 @@
       "ipa": "/sə ku.ʃe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "go-to-bed"
     },
     {
       "id": "72346745-2ee6-415e-b67c-2ae6021c50fa",
@@ -114335,7 +114570,8 @@
       "context": "je m'appelle…: my name is…",
       "register": [
         "All"
-      ]
+      ],
+      "image": "name"
     },
     {
       "id": "5ef62421-4ecc-485f-b8d9-96ececad6f53",
@@ -114346,7 +114582,8 @@
       "ipa": "/sə la.ve/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wash"
     },
     {
       "id": "2456e787-2719-454d-a230-a270fc1f9fbb",
@@ -114839,7 +115076,8 @@
       "ipa": "/ʃo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hot"
     },
     {
       "id": "beb343df-2408-4b86-a618-b187b625bd40",
@@ -114850,7 +115088,8 @@
       "ipa": "/fʁwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cold"
     },
     {
       "id": "99ff276c-b778-4391-8876-2462eb5dcc6f",
@@ -114937,7 +115176,8 @@
       "ipa": "/ʒœn/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "young"
     },
     {
       "id": "5075c7f4-3e78-4d98-929f-42a1c05c427d",
@@ -114974,7 +115214,8 @@
       "context": "feminine grosse",
       "register": [
         "All"
-      ]
+      ],
+      "image": "big"
     },
     {
       "id": "37ceb630-3465-4e2e-a92a-99e4b37fa006",
@@ -115009,7 +115250,8 @@
       "context": "feminine chère",
       "register": [
         "All"
-      ]
+      ],
+      "image": "expensive"
     },
     {
       "id": "e6e01766-9b60-4720-939b-f1391a6749d2",
@@ -115021,7 +115263,8 @@
       "context": "feminine heureuse",
       "register": [
         "All"
-      ]
+      ],
+      "image": "happy"
     },
     {
       "id": "8c5afbf0-8f2d-4541-af49-48aeb364b088",
@@ -115032,7 +115275,8 @@
       "ipa": "/ma.lad/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sick"
     },
     {
       "id": "ce6d47e4-aebe-419b-ac04-58e457f093f0",
@@ -115044,7 +115288,8 @@
       "context": "feminine gentille",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nice"
     },
     {
       "id": "6be652ab-a577-4ad8-9a2e-044f562a8101",
@@ -115068,7 +115313,8 @@
       "ipa": "/nwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "black"
     },
     {
       "id": "ac873d98-0087-45c6-854f-cbaabe3cfb61",
@@ -115079,7 +115325,8 @@
       "ipa": "/ʁuʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "red"
     },
     {
       "id": "e668074d-f104-4ff5-baaf-20ef6acd5dee",
@@ -115090,7 +115337,8 @@
       "ipa": "/blø/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "blue"
     },
     {
       "id": "6c56a19f-2a67-4fee-bb7b-d48ecf0e69dc",
@@ -115101,7 +115349,8 @@
       "ipa": "/vɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "green"
     },
     {
       "id": "1ab8fe3f-0a08-4280-ac5a-a4044d22df02",
@@ -115112,7 +115361,8 @@
       "ipa": "/ʒon/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "yellow"
     },
     {
       "id": "141c8dbd-3e86-465c-a629-8cee9ae2dd0a",
@@ -115123,7 +115373,8 @@
       "ipa": "/ɡʁi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "gray"
     },
     {
       "id": "48a41bce-1fab-4c35-85fd-9546be5ddcd7",
@@ -115147,7 +115398,8 @@
       "ipa": "/ʁoz/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pink"
     },
     {
       "id": "0fe8869f-12a2-4b33-b8cc-516d2e0e78ca",
@@ -115306,7 +115558,8 @@
       "context": "capitalized for people: un Français",
       "register": [
         "All"
-      ]
+      ],
+      "image": "french"
     },
     {
       "id": "b6f2d98d-b3ce-40be-9102-241b14be22b7",
@@ -115317,7 +115570,8 @@
       "ipa": "/ɑ̃.ɡlɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "english"
     },
     {
       "id": "0966bf29-5a23-4cfd-aaba-f0a1d205b163",
@@ -115681,7 +115935,8 @@
       "ipa": "/vɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "twenty"
     },
     {
       "id": "618b06a6-527b-4997-8593-996ef00c23b1",
@@ -115708,7 +115963,8 @@
       "ipa": "/pʁe.nɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "name"
     },
     {
       "id": "8717046a-545a-4402-9928-88abb82f4175",
@@ -115749,7 +116005,8 @@
       "countability": "plural-only",
       "register": [
         "All"
-      ]
+      ],
+      "image": "vacation"
     },
     {
       "id": "88013df3-291b-4e34-8e61-92ab2e8b6ddc",
@@ -115762,7 +116019,8 @@
       "ipa": "/ø.ʁo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "euro"
     },
     {
       "id": "3176f00e-c235-49f9-8d44-5e24b376cec6",
@@ -116525,7 +116783,8 @@
       "ipa": "/e bjɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "well-then"
     },
     {
       "id": "f2d302c1-b989-463d-8f68-128355909d6e",
@@ -116537,7 +116796,8 @@
       "context": "formal: je vous en prie",
       "register": [
         "All"
-      ]
+      ],
+      "image": "youre-welcome"
     },
     {
       "id": "d634a8aa-6ff6-4f6c-8946-1eac5bd4c7ef",
@@ -116548,7 +116808,8 @@
       "ipa": "/pʁɑ̃dʁ yn duʃ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shower"
     },
     {
       "id": "35eda59a-4562-4924-9d21-c5c41739cac2",
@@ -116559,7 +116820,8 @@
       "ipa": "/a ɡoʃ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "left"
     },
     {
       "id": "f0507f11-6797-4f11-b118-8d84c57eef11",
@@ -116570,7 +116832,8 @@
       "ipa": "/a dʁwat/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "right"
     },
     {
       "id": "5bdb723d-4cb5-4436-be85-60e34eedfdd2",
@@ -117498,7 +117761,8 @@
       "context": "j'ai mal aux pieds: my feet hurt",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hurt"
     },
     {
       "id": "4a927d20-f96d-46ce-8414-03e4482790bc",
@@ -118656,7 +118920,8 @@
       "context": "feminine fraîche",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fresh"
     },
     {
       "id": "2c2452c2-3cc8-45ab-b48d-4a346e7c76ef",
