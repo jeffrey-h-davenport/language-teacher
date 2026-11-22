@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M6 88h88" stroke-width="3"/>
+  <path class="pic-accent" d="M10 88V66.4l13.2-12 13.2 12V88z"/>
+  <path class="pic-accent" d="M42 88V70l11-10 11 10V88z"/>
+  <path class="pic-accent" d="M68 88V64.6l14.3-13 14.3 13V88z"/>
+  <path d="M58 88V70M52 72a6 8 0 1 1 12 0z" stroke-width="2.5"/>
+</svg>

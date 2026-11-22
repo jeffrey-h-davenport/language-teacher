@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M6 88h88" stroke-width="3"/>
+  <path class="pic-accent" d="M12 88V44h16v44zM34 88V20h18v68zM58 88V36h14v52zM76 88V54h14v34z"/>
+  <path d="M40 30h6" stroke="#fff" stroke-width="2.5"/>
+  <path d="M40 40h6" stroke="#fff" stroke-width="2.5"/>
+  <path d="M40 50h6" stroke="#fff" stroke-width="2.5"/>
+  <path d="M40 60h6" stroke="#fff" stroke-width="2.5"/>
+  <path d="M40 70h6" stroke="#fff" stroke-width="2.5"/>
+  <path d="M17 52h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M17 62h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M17 72h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M62 44h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M62 54h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M62 64h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M80 62h4" stroke="#fff" stroke-width="2.5"/>
+  <path d="M80 72h4" stroke="#fff" stroke-width="2.5"/>
+</svg>

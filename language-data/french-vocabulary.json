@@ -13,7 +13,7 @@
       "english": "east",
       "french": "est",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ɛst/",
       "register": [
         "All"
@@ -22,10 +22,10 @@
     {
       "id": "da144de3-8cac-4e83-802b-f01b937f6439",
       "part-of-speech": "noun",
-      "english": "step, pace, footstep",
+      "english": "step, pace",
       "french": "pas",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/pa/",
       "register": [
         "All"
@@ -52,10 +52,10 @@
       "plural": "un",
       "cefr": "A1",
       "ipa": "/œ̃/",
-      "context": "the number or figure",
       "register": [
         "All"
-      ]
+      ],
+      "image": "one"
     },
     {
       "id": "419f164c-7991-4b46-b649-0874dcc36cf5",
@@ -106,16 +106,17 @@
       "context": "plural: elles",
       "register": [
         "All"
-      ]
+      ],
+      "image": "he-she"
     },
     {
       "id": "d28e1a23-286f-4f0a-bb52-c70f4cd32979",
       "part-of-speech": "noun",
-      "english": "good as opposed to evil",
+      "english": "good (as opposed to evil); property",
       "french": "bien",
       "gender": "masculine",
       "plural": "biens",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/bjɛ̃/",
       "register": [
         "All"
@@ -216,7 +217,8 @@
       "context": "goes around the verb: je ne fume plus (I don't smoke anymore); in speech the ne is often dropped, leaving only the [ply]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "no-longer"
     },
     {
       "id": "6181ab90-e39f-4010-ab8f-9773c247a186",
@@ -543,7 +545,7 @@
       "french": "fait",
       "gender": "masculine",
       "plural": "faits",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/fɛ/",
       "register": [
         "All"
@@ -575,10 +577,10 @@
     {
       "id": "927dffb0-8763-480f-a007-0e7a7a8ddb1a",
       "part-of-speech": "noun",
-      "english": "ace card",
+      "english": "ace (card)",
       "french": "as",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "B2",
       "ipa": "/a/",
       "register": [
         "All"
@@ -593,7 +595,8 @@
       "ipa": "/fɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "make"
     },
     {
       "id": "2e3fcf23-a47b-46ce-882d-832b6c3254fc",
@@ -613,13 +616,11 @@
       "part-of-speech": "adverb",
       "english": "you know, like, y'know",
       "french": "quoi",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/kwa/",
       "register": [
         "familier",
-        "populaire",
-        "argotique",
-        "vulgaire"
+        "populaire"
       ]
     },
     {
@@ -644,7 +645,8 @@
       "ipa": "/i.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "here"
     },
     {
       "id": "3a53f738-2031-4610-a2ae-c25abb6c6164",
@@ -668,7 +670,8 @@
       "ipa": "/puʁ.kwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "why"
     },
     {
       "id": "9f9bdd04-2f73-4e90-b4aa-287f8bb70ee0",
@@ -677,10 +680,10 @@
       "french": "où",
       "cefr": "A1",
       "ipa": "/u/",
-      "context": "interrogative",
       "register": [
         "All"
-      ]
+      ],
+      "image": "where"
     },
     {
       "id": "77757943-98dc-4e67-bba9-2ba04ee74e90",
@@ -691,7 +694,8 @@
       "ipa": "/la/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "there"
     },
     {
       "id": "72f250c4-338f-49de-a7fa-1fb07f6ea9e1",
@@ -726,7 +730,7 @@
       "french": "son",
       "gender": "masculine",
       "plural": "sons",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/sɔ̃/",
       "register": [
         "All"
@@ -766,7 +770,8 @@
       "ipa": "/kɔ.mɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "how"
     },
     {
       "id": "182b920e-d656-4bab-8a6d-415c032a87c6",
@@ -792,7 +797,8 @@
       "ipa": "/ʃoz/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "matter"
     },
     {
       "id": "fb34d6fe-0d4e-4dfe-ad20-fe2b8370a36b",
@@ -841,7 +847,8 @@
       "ipa": "/tʁɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "very"
     },
     {
       "id": "86b86be1-724e-40e2-8d79-419c5e9fd7b4",
@@ -852,7 +859,8 @@
       "ipa": "/ʒa.mɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "never"
     },
     {
       "id": "ce7e23df-37b9-4c08-ad53-aa58578d4c0a",
@@ -876,7 +884,8 @@
       "ipa": "/o.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "also"
     },
     {
       "id": "576dbf4f-3770-4dfa-a014-9c64172ef90b",
@@ -900,7 +909,8 @@
       "ipa": "/vʁɛ.mɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "really"
     },
     {
       "id": "29693605-1019-4de1-9c49-9f04f31ba9e4",
@@ -934,7 +944,8 @@
       "ipa": "/mɛ̃t.nɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "now"
     },
     {
       "id": "d16eeba3-c2c9-46ae-8cc3-d707179cd42c",
@@ -1002,18 +1013,6 @@
       ]
     },
     {
-      "id": "5625864f-34d1-4c15-9510-ed713fae1cc7",
-      "part-of-speech": "noun",
-      "english": "few",
-      "french": "peu",
-      "gender": "masculine",
-      "cefr": "A1",
-      "ipa": "/pø/",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "d6695e67-1be4-4269-bdfe-df56d2f654e7",
       "part-of-speech": "noun",
       "english": "time (in general)",
@@ -1023,7 +1022,8 @@
       "ipa": "/tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "time"
     },
     {
       "id": "44aa5426-5acb-4c61-9218-07a7e5c844f7",
@@ -1034,7 +1034,8 @@
       "ipa": "/tu.ʒuʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "always"
     },
     {
       "id": "f02586f5-c16c-4b9f-a5a6-8f4b08b8f7c0",
@@ -1045,7 +1046,8 @@
       "ipa": "/ɑ̃.kɔʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "still-going"
     },
     {
       "id": "7e964fef-6923-47a8-802f-45def4662ad3",
@@ -1082,7 +1084,6 @@
       "plural": "vies",
       "cefr": "A1",
       "ipa": "/vi/",
-      "context": "organic beings",
       "register": [
         "All"
       ]
@@ -1096,7 +1097,8 @@
       "ipa": "/pø.t‿ɛtʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "maybe"
     },
     {
       "id": "5d82c492-e1d0-4516-be90-487f27eed7cd",
@@ -1119,7 +1121,6 @@
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "/fwa/",
-      "context": "an instance or repetition of something happening",
       "register": [
         "All"
       ]
@@ -1133,7 +1134,8 @@
       "ipa": "/dɔ̃k/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thus"
     },
     {
       "id": "7417d76e-fecd-4b64-b844-f57d0016ed67",
@@ -1146,7 +1148,8 @@
       "ipa": "/mɔ̃d/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "world"
     },
     {
       "id": "cd25ca69-9ff7-433f-aba9-86313e65007f",
@@ -1170,7 +1173,8 @@
       "ipa": "/syʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "certainly"
     },
     {
       "id": "ed814f5d-80c6-4ce8-92d8-43d878779822",
@@ -1181,7 +1185,8 @@
       "ipa": "/tʁo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "too-much"
     },
     {
       "id": "e39d11c0-c0fa-4a5c-86d6-3cbe560f136e",
@@ -1207,7 +1212,8 @@
       "ipa": "/pɛʁ.sɔn/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "person"
     },
     {
       "id": "6bbf365c-8e60-4eb2-bdb1-63289b26b250",
@@ -1218,10 +1224,10 @@
       "plural": "pères",
       "cefr": "A1",
       "ipa": "/pɛʁ/",
-      "context": "parent",
       "register": [
         "All"
-      ]
+      ],
+      "image": "father"
     },
     {
       "id": "13718f56-0c4b-4625-8a21-ef98446e67e1",
@@ -1232,16 +1238,17 @@
       "ipa": "/a.pʁɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "after"
     },
     {
       "id": "818fbb33-f2cb-4575-98a4-c641bb8e135d",
       "part-of-speech": "noun",
-      "english": "a god, male divinity",
+      "english": "god",
       "french": "dieu",
       "gender": "masculine",
       "plural": "dieux",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/djø/",
       "register": [
         "All"
@@ -1257,10 +1264,10 @@
       "hMuet": true,
       "cefr": "A1",
       "ipa": "/ɔm/",
-      "context": "adult male human",
       "register": [
         "All"
-      ]
+      ],
+      "image": "man"
     },
     {
       "id": "03a4e0f6-17c3-405e-a1fa-a7a80ba395ed",
@@ -1286,17 +1293,19 @@
       "ipa": "/fam/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "woman"
     },
     {
       "id": "3c38d640-1fe2-49be-a99a-3739ae0ff026",
       "part-of-speech": "noun",
-      "english": "trouble",
+      "english": "harm; pain, ache",
       "french": "mal",
       "gender": "masculine",
       "plural": "maux",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/mal/",
+      "context": "avoir mal: to hurt; j'ai mal à la tête: I have a headache",
       "register": [
         "All"
       ]
@@ -1310,14 +1319,15 @@
       "ipa": "/de.ʒa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "already"
     },
     {
       "id": "4fbc8717-f111-410c-b2b0-fb9fd8dad7f0",
       "part-of-speech": "adverb",
       "english": "ever since, since then",
       "french": "depuis",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/də.pɥi/",
       "register": [
         "All"
@@ -1332,7 +1342,8 @@
       "ipa": "/bo.ku/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "a-lot"
     },
     {
       "id": "104e8361-47b3-4c9c-bca4-0ab4b3fe7a81",
@@ -1350,11 +1361,11 @@
     {
       "id": "c9eb8c8e-cadb-46ec-a10b-7f0be2e11d74",
       "part-of-speech": "noun",
-      "english": "dead person",
+      "english": "death",
       "french": "mort",
       "gender": "masculine",
       "plural": "morts",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/mɔʁ/",
       "register": [
         "All"
@@ -1383,7 +1394,8 @@
       "ipa": "/mɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mother"
     },
     {
       "id": "93545a8e-b3f8-48c5-9e7a-6c326ed2e083",
@@ -1396,7 +1408,8 @@
       "ipa": "/fij/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "girl"
     },
     {
       "id": "c57e279c-b43b-4520-8e9d-47e997156673",
@@ -1414,25 +1427,26 @@
     {
       "id": "e1fa0bbe-5a4d-4005-8f5d-866d4d790c09",
       "part-of-speech": "adjective",
-      "english": "sorry; desolate",
+      "english": "sorry",
       "french": "désolé",
       "cefr": "A1",
       "ipa": "/de.zɔ.le/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sorry"
     },
     {
       "id": "607ea29c-ca48-4463-bc35-1e18fc4e29f7",
       "part-of-speech": "interjection",
-      "english": "there is, there comes",
+      "english": "there it is; here you go",
       "french": "voilà",
       "cefr": "A1",
       "ipa": "/vwa.la/",
-      "context": "there: it; there: it",
       "register": [
         "All"
-      ]
+      ],
+      "image": "here-you-go"
     },
     {
       "id": "f8d47dda-ed23-4a76-adc4-27390435711b",
@@ -1451,7 +1465,7 @@
     {
       "id": "66577f4b-4565-4def-afb9-3c38f55b4f9a",
       "part-of-speech": "noun",
-      "english": "house, home; company",
+      "english": "house, home",
       "french": "maison",
       "gender": "feminine",
       "plural": "maisons",
@@ -1459,15 +1473,17 @@
       "ipa": "/mɛ.zɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "house"
     },
     {
       "id": "2b37341b-950f-4707-be76-c135ea404077",
-      "part-of-speech": "verb",
-      "english": "let be",
+      "part-of-speech": "conjunction",
+      "english": "either … or",
       "french": "soit",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/swa/",
+      "context": "soit… soit…: either… or…; also \"so be it\"",
       "register": [
         "All"
       ]
@@ -1492,7 +1508,7 @@
       "french": "passé",
       "gender": "masculine",
       "plural": "passés",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/pa.se/",
       "register": [
         "All"
@@ -1507,7 +1523,8 @@
       "ipa": "/pʁɑ̃.dʁə/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "take"
     },
     {
       "id": "4bdb96e8-d9ad-4525-a388-f1c7d897f6b2",
@@ -1520,7 +1537,8 @@
       "ipa": "/ʒuʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "day"
     },
     {
       "id": "7c37ad89-20b2-4aef-bf6f-dce6d80fcca4",
@@ -1559,7 +1577,8 @@
       "ipa": "/nɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "name"
     },
     {
       "id": "3900c8dd-cf7a-41c0-b6f8-a54c50bf69ed",
@@ -1610,7 +1629,6 @@
       "plural": "raisons",
       "cefr": "A1",
       "ipa": "/ʁɛ.zɔ̃/",
-      "context": "cause",
       "register": [
         "All"
       ]
@@ -1774,7 +1792,7 @@
     {
       "id": "1a5cd328-34a9-4b6a-8a9c-8ddcf5b52ceb",
       "part-of-speech": "noun",
-      "english": "mummy, mommy, mom, mum",
+      "english": "mom",
       "french": "maman",
       "gender": "feminine",
       "plural": "mamans",
@@ -1795,7 +1813,7 @@
       "french": "reste",
       "gender": "masculine",
       "plural": "restes",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ʁɛst/",
       "register": [
         "All"
@@ -1810,10 +1828,10 @@
       "plural": "moments",
       "cefr": "A1",
       "ipa": "/mɔ.mɑ̃/",
-      "context": "point in time",
       "register": [
         "All"
-      ]
+      ],
+      "image": "moment"
     },
     {
       "id": "8304f509-477b-4233-93db-454d5844b3f9",
@@ -1824,7 +1842,8 @@
       "ipa": "/sœl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "alone"
     },
     {
       "id": "136804f1-357e-4991-b613-6c9859565ab8",
@@ -1835,7 +1854,8 @@
       "ipa": "/ɛ.de/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "help"
     },
     {
       "id": "b5a24de5-e180-4132-bde8-5288f9bd8901",
@@ -1846,7 +1866,6 @@
       "plural": "airs",
       "cefr": "A1",
       "ipa": "/ɛʁ/",
-      "context": "gases of the atmosphere",
       "register": [
         "All"
       ]
@@ -1854,12 +1873,11 @@
     {
       "id": "253a61c8-afa4-456d-b0d5-d8f2ef992bfe",
       "part-of-speech": "noun",
-      "english": "pass",
+      "english": "pass (sports)",
       "french": "passe",
       "gender": "feminine",
       "plural": "passes",
-      "cefr": "A1",
-      "context": "action",
+      "cefr": "B2",
       "ipa": "/pas/",
       "register": [
         "All"
@@ -1876,7 +1894,8 @@
       "ipa": "/pʁɔ.blɛm/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "problem"
     },
     {
       "id": "01612931-fbc4-4c8c-89f6-3f88ae89efb6",
@@ -1897,24 +1916,13 @@
       "english": "lad, guy",
       "french": "gars",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ɡa/",
       "register": [
         "familier",
         "populaire",
         "argotique",
         "vulgaire"
-      ]
-    },
-    {
-      "id": "d5c71ecc-eea4-4eda-a63a-9e612dd63db1",
-      "part-of-speech": "adjective",
-      "english": "found, being to object of a find(ing)",
-      "french": "trouvé",
-      "cefr": "A1",
-      "ipa": "/tʁu.ve/",
-      "register": [
-        "All"
       ]
     },
     {
@@ -1938,7 +1946,8 @@
       "ipa": "/tʁu.ve/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "find"
     },
     {
       "id": "04acf894-c304-4a6b-9fa5-fc796795425e",
@@ -1949,7 +1958,8 @@
       "ipa": "/a.se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "enough"
     },
     {
       "id": "5b8bb54b-27e3-4883-8775-ddd5cf888234",
@@ -1960,7 +1970,6 @@
       "plural": "familles",
       "cefr": "A1",
       "ipa": "/fa.mij/",
-      "context": "group of related people",
       "register": [
         "All"
       ]
@@ -1994,9 +2003,9 @@
     {
       "id": "bbc63d03-75a3-4980-a775-38ca10aa2512",
       "part-of-speech": "adjective",
-      "english": "taken",
+      "english": "taken; busy",
       "french": "pris",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/pʁi/",
       "register": [
         "All"
@@ -2024,18 +2033,8 @@
       "ipa": "/paʁ.tiʁ/",
       "register": [
         "All"
-      ]
-    },
-    {
-      "id": "67283ea6-938f-473a-a0dd-66982c2f6f9c",
-      "part-of-speech": "adjective",
-      "english": "quick; fast",
-      "french": "vite",
-      "cefr": "A1",
-      "ipa": "/vit/",
-      "register": [
-        "All"
-      ]
+      ],
+      "image": "leave"
     },
     {
       "id": "358f82e3-096a-4bb4-8e7b-fb7a49202469",
@@ -2046,17 +2045,17 @@
       "plural": "voitures",
       "cefr": "A1",
       "ipa": "/vwa.tyʁ/",
-      "context": "wheeled vehicle usually pulled by a horse",
       "register": [
         "All"
-      ]
+      ],
+      "image": "car"
     },
     {
       "id": "c93a7630-6f7d-4dbc-97f1-97cd7b34a2d1",
       "part-of-speech": "verb",
       "english": "to kill",
       "french": "tuer",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/tɥe/",
       "register": [
         "All"
@@ -2069,7 +2068,7 @@
       "french": "merde",
       "gender": "feminine",
       "plural": "merdes",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/mɛʁd/",
       "register": [
         "vulgaire"
@@ -2117,12 +2116,13 @@
     {
       "id": "55399efd-1ce7-40df-92b9-eba0fa263aba",
       "part-of-speech": "noun",
-      "english": "chance",
+      "english": "luck; chance",
       "french": "chance",
       "gender": "feminine",
       "plural": "chances",
       "cefr": "A1",
       "ipa": "/ʃɑ̃s/",
+      "context": "bonne chance!: good luck!",
       "register": [
         "All"
       ]
@@ -2134,7 +2134,7 @@
       "french": "part",
       "gender": "feminine",
       "plural": "parts",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/paʁ/",
       "register": [
         "All"
@@ -2162,7 +2162,8 @@
       "ipa": "/o.ʒuʁ.d‿ɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "today"
     },
     {
       "id": "c321f407-6a30-4874-bed0-ea88f8f60583",
@@ -2171,10 +2172,10 @@
       "french": "venir",
       "cefr": "A1",
       "ipa": "/və.niʁ/",
-      "context": "to move from one place to another that is nearer the speaker",
       "register": [
         "All"
-      ]
+      ],
+      "image": "come"
     },
     {
       "id": "1b66778b-ddef-4e94-87bb-68dc83690e2e",
@@ -2185,10 +2186,10 @@
       "plural": "amis",
       "cefr": "A1",
       "ipa": "/a.mi/",
-      "context": "one who is affectionately attached to another",
       "register": [
         "All"
-      ]
+      ],
+      "image": "friend"
     },
     {
       "id": "2b454d01-85ba-497c-b802-4a33bb80e16d",
@@ -2199,7 +2200,8 @@
       "ipa": "/də.mɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tomorrow"
     },
     {
       "id": "2c7e13a0-94c0-46ae-9601-a72624688016",
@@ -2239,10 +2241,11 @@
     {
       "id": "4617b987-d28a-45f1-b09c-e402682fa121",
       "part-of-speech": "verb",
-      "english": "to go past",
+      "english": "to pass, go past; to spend (time)",
       "french": "passer",
       "cefr": "A1",
       "ipa": "/pa.se/",
+      "context": "passer le week-end à Paris: to spend the weekend in Paris",
       "register": [
         "All"
       ]
@@ -2252,7 +2255,7 @@
       "part-of-speech": "adverb",
       "english": "so much",
       "french": "tant",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/tɑ̃/",
       "register": [
         "All"
@@ -2277,7 +2280,7 @@
       "french": "mec",
       "gender": "masculine",
       "plural": "mecs",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/mɛk/",
       "register": [
         "familier",
@@ -2292,7 +2295,7 @@
       "english": "meaning, sense",
       "french": "sens",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/sɑ̃/",
       "register": [
         "All"
@@ -2309,7 +2312,8 @@
       "ipa": "/pɔʁt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "door"
     },
     {
       "id": "f720fe29-a43a-4fb4-baf6-195d1db09014",
@@ -2349,7 +2353,8 @@
       "ipa": "/œʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "clock"
     },
     {
       "id": "1b747f08-3196-42d0-ab46-e41c00ab34f2",
@@ -2371,7 +2376,7 @@
       "french": "coup",
       "gender": "masculine",
       "plural": "coups",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ku/",
       "register": [
         "All"
@@ -2380,10 +2385,11 @@
     {
       "id": "daa10099-acab-4424-8519-4a4de1174a3e",
       "part-of-speech": "adjective",
-      "english": "understood",
+      "english": "agreed, understood",
       "french": "entendu",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ɑ̃.tɑ̃.dy/",
+      "context": "bien entendu: of course",
       "register": [
         "All"
       ]
@@ -2435,7 +2441,7 @@
       "french": "sang",
       "gender": "masculine",
       "plural": "sangs",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/sɑ̃/",
       "register": [
         "All"
@@ -2447,7 +2453,7 @@
       "english": "case, situation",
       "french": "cas",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ka/",
       "register": [
         "All"
@@ -2477,7 +2483,8 @@
       "ipa": "/ʁɛs.te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "stay"
     },
     {
       "id": "8e9331c1-b216-420f-9342-9d6c8a9b328c",
@@ -2501,7 +2508,6 @@
       "plural": "questions",
       "cefr": "A1",
       "ipa": "/kɛs.tjɔ̃/",
-      "context": "interrogation by torture",
       "register": [
         "All"
       ]
@@ -2517,7 +2523,8 @@
       "ipa": "/paʁ.ti/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "part"
     },
     {
       "id": "da566be3-7559-475d-80ac-6dd338f093c5",
@@ -2617,7 +2624,8 @@
       "ipa": "/sœl.mɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "only"
     },
     {
       "id": "7a007ddf-aacd-4dd4-9ae7-b18ca16fb7ef",
@@ -2630,7 +2638,8 @@
       "ipa": "/pɔ.lis/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "police"
     },
     {
       "id": "b6e4c3d2-da7a-4ef5-9296-1614b9549f1d",
@@ -2666,7 +2675,6 @@
       "plural": "frères",
       "cefr": "A1",
       "ipa": "/fʁɛʁ/",
-      "context": "relation, relative",
       "register": [
         "All"
       ]
@@ -2680,7 +2688,8 @@
       "ipa": "/lɛ.se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "leave-behind"
     },
     {
       "id": "3e24e3e0-b5d2-482c-a69d-a95d222b879a",
@@ -2728,7 +2737,8 @@
       "ipa": "/vil/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "city"
     },
     {
       "id": "e8337139-6124-4efb-97c1-beb0a77e55f7",
@@ -2746,11 +2756,12 @@
       "part-of-speech": "adverb",
       "english": "for a long time; over a long period",
       "french": "longtemps",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/lɔ̃.tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "long-time"
     },
     {
       "id": "0797ba17-9700-414e-a00f-34c32d46f514",
@@ -2783,7 +2794,7 @@
       "part-of-speech": "verb",
       "english": "to see again",
       "french": "revoir",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ʁə.vwaʁ/",
       "register": [
         "All"
@@ -2796,8 +2807,9 @@
       "french": "putain",
       "gender": "feminine",
       "plural": "putains",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/py.tɛ̃/",
+      "context": "also a swear word: putain! damn!",
       "register": [
         "vulgaire"
       ]
@@ -2805,10 +2817,11 @@
     {
       "id": "cb225802-7e55-49c2-9485-687e5c114746",
       "part-of-speech": "adjective",
-      "english": "understood",
+      "english": "included; understood",
       "french": "compris",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/kɔ̃.pʁi/",
+      "context": "service compris: tip included",
       "register": [
         "All"
       ]
@@ -2821,7 +2834,6 @@
       "gender": "feminine",
       "cefr": "A1",
       "ipa": "/a.tɑ̃.sjɔ̃/",
-      "context": "mental focus",
       "register": [
         "All"
       ]
@@ -2835,7 +2847,8 @@
       "ipa": "/dɔ.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "give"
     },
     {
       "id": "8fc741bb-0ffb-490c-ad08-a764d2f68408",
@@ -2844,8 +2857,9 @@
       "french": "affaire",
       "gender": "feminine",
       "plural": "affaires",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/a.fɛʁ/",
+      "context": "les affaires: belongings, things; also business",
       "register": [
         "All"
       ]
@@ -2859,10 +2873,10 @@
       "plural": "endroits",
       "cefr": "A1",
       "ipa": "/ɑ̃.dʁwa/",
-      "context": "specified area",
       "register": [
         "All"
-      ]
+      ],
+      "image": "place"
     },
     {
       "id": "6861f7ab-a986-4de0-9b6e-415ab4f60cca",
@@ -2870,7 +2884,7 @@
       "english": "body",
       "french": "corps",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/kɔʁ/",
       "register": [
         "All"
@@ -2887,7 +2901,8 @@
       "ipa": "/fa.sɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "way"
     },
     {
       "id": "9be454cf-13e5-4ff9-aaaf-6b199c0f86fa",
@@ -2902,12 +2917,11 @@
     },
     {
       "id": "b0a86407-076b-479b-b3c6-bcac3ff5e5bc",
-      "part-of-speech": "verb",
-      "english": "here is",
+      "part-of-speech": "interjection",
+      "english": "here is, here are",
       "french": "voici",
       "cefr": "A1",
       "ipa": "/vwa.si/",
-      "context": "it",
       "register": [
         "All"
       ]
@@ -2915,7 +2929,7 @@
     {
       "id": "0d6c00e6-4a4f-4041-a9e8-8bcc60431584",
       "part-of-speech": "noun",
-      "english": "train (rail mounted vehicle)",
+      "english": "train",
       "french": "train",
       "gender": "masculine",
       "plural": "trains",
@@ -2969,21 +2983,8 @@
       "part-of-speech": "adjective",
       "english": "lost",
       "french": "perdu",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/pɛʁ.dy/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "50e86bbd-7d2d-4180-bd98-99f04e8a4019",
-      "part-of-speech": "noun",
-      "english": "first",
-      "french": "premier",
-      "gender": "masculine",
-      "plural": "premiers",
-      "cefr": "A1",
-      "ipa": "/pʁə.mje/",
       "register": [
         "All"
       ]
@@ -2995,7 +2996,7 @@
       "french": "première",
       "gender": "feminine",
       "plural": "premières",
-      "cefr": "A1",
+      "cefr": "B2",
       "ipa": "/pʁə.mjɛʁ/",
       "register": [
         "All"
@@ -3008,7 +3009,7 @@
       "french": "côté",
       "gender": "masculine",
       "plural": "côtés",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ko.te/",
       "register": [
         "All"
@@ -3017,11 +3018,11 @@
     {
       "id": "a648fcef-62b5-49c0-bcdd-d3131b6c7fe9",
       "part-of-speech": "noun",
-      "english": "point (small mark)",
+      "english": "point, dot",
       "french": "point",
       "gender": "masculine",
       "plural": "points",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/pwɛ̃/",
       "register": [
         "All"
@@ -3032,7 +3033,7 @@
       "part-of-speech": "adverb",
       "english": "so; so much; very",
       "french": "tellement",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/tɛl.mɑ̃/",
       "register": [
         "All"
@@ -3060,7 +3061,6 @@
       "plural": "enfants",
       "cefr": "A1",
       "ipa": "/ɑ̃.fɑ̃/",
-      "context": "someone who is not yet an adult",
       "register": [
         "All"
       ]
@@ -3112,17 +3112,19 @@
       "ipa": "/la.ba/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "over-there"
     },
     {
       "id": "fedaf937-001d-4480-b871-f7c6c3f8c0b0",
       "part-of-speech": "noun",
-      "english": "result",
+      "english": "continuation, what follows",
       "french": "suite",
       "gender": "feminine",
       "plural": "suites",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/sɥit/",
+      "context": "tout de suite: right away",
       "register": [
         "All"
       ]
@@ -3144,7 +3146,7 @@
       "part-of-speech": "adjective",
       "english": "in demand",
       "french": "demandé",
-      "cefr": "A1",
+      "cefr": "B2",
       "ipa": "/də.mɑ̃.de/",
       "register": [
         "All"
@@ -3168,7 +3170,7 @@
       "part-of-speech": "adverb",
       "english": "finally; in the end",
       "french": "enfin",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ɑ̃.fɛ̃/",
       "register": [
         "All"
@@ -3192,7 +3194,7 @@
       "french": "cause",
       "gender": "feminine",
       "plural": "causes",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/koz/",
       "register": [
         "All"
@@ -3205,7 +3207,7 @@
       "french": "nouvelle",
       "gender": "feminine",
       "plural": "nouvelles",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/nu.vɛl/",
       "register": [
         "All"
@@ -3222,7 +3224,8 @@
       "ipa": "/ʃɑ̃bʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bedroom"
     },
     {
       "id": "82867ce6-9540-4dfa-97e3-1d97fee0421f",
@@ -3231,9 +3234,9 @@
       "french": "droit",
       "gender": "masculine",
       "plural": "droits",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/dʁwa/",
-      "context": "entitlement",
+      "context": "a right; the law: le droit",
       "register": [
         "All"
       ]
@@ -3241,11 +3244,11 @@
     {
       "id": "68d2d683-e186-49f8-b5c9-91c849743231",
       "part-of-speech": "noun",
-      "english": "party",
+      "english": "(political) party",
       "french": "parti",
       "gender": "masculine",
       "plural": "partis",
-      "cefr": "A1",
+      "cefr": "B2",
       "ipa": "/paʁ.ti/",
       "register": [
         "All"
@@ -3262,7 +3265,8 @@
       "ipa": "/o/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "water"
     },
     {
       "id": "f586c667-4474-4087-ad28-9e8f97c5096b",
@@ -3271,7 +3275,7 @@
       "french": "compte",
       "gender": "masculine",
       "plural": "comptes",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/kɔ̃t/",
       "context": "bank or user account",
       "register": [
@@ -3285,7 +3289,7 @@
       "french": "terre",
       "gender": "feminine",
       "plural": "terres",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/tɛʁ/",
       "register": [
         "All"
@@ -3294,11 +3298,11 @@
     {
       "id": "7e906fe1-c409-4741-a894-adcfe98d4591",
       "part-of-speech": "noun",
-      "english": "beautiful woman, belle, beauty",
+      "english": "beauty, belle (a beautiful woman)",
       "french": "belle",
       "gender": "feminine",
       "plural": "belles",
-      "cefr": "A1",
+      "cefr": "B2",
       "ipa": "/bɛl/",
       "register": [
         "All"
@@ -3349,7 +3353,7 @@
       "french": "fin",
       "gender": "feminine",
       "plural": "fins",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/fɛ̃/",
       "register": [
         "All"
@@ -3364,7 +3368,8 @@
       "ipa": "/kʁwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "believe"
     },
     {
       "id": "e2f6e303-3771-48d0-bc9e-53e4266e06cb",
@@ -3373,7 +3378,7 @@
       "french": "aura",
       "gender": "feminine",
       "plural": "auras",
-      "cefr": "A1",
+      "cefr": "C1",
       "ipa": "/o.ʁa/",
       "register": [
         "All"
@@ -3412,7 +3417,7 @@
       "part-of-speech": "adverb",
       "english": "rather; sooner",
       "french": "plutôt",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ply.to/",
       "register": [
         "All"
@@ -3442,14 +3447,15 @@
       "ipa": "/by.ʁo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "office"
     },
     {
       "id": "2715d5c4-3efe-4b2d-917c-e8f880a85882",
       "part-of-speech": "verb",
       "english": "to die; to be dying",
       "french": "mourir",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/mu.ʁiʁ/",
       "register": [
         "All"
@@ -3464,7 +3470,8 @@
       "ipa": "/jɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "yesterday"
     },
     {
       "id": "ca1e6054-b0f8-4c25-b48b-21f6b2757eed",
@@ -3486,7 +3493,6 @@
       "french": "jouer",
       "cefr": "A1",
       "ipa": "/ʒwe/",
-      "context": "engage in games or play",
       "register": [
         "All"
       ]
@@ -3518,11 +3524,11 @@
     {
       "id": "790faf5a-2ed5-48df-85ec-4aceaec5a832",
       "part-of-speech": "noun",
-      "english": "youth, a young person",
+      "english": "young person",
       "french": "jeune",
       "gender": "masculine",
       "plural": "jeunes",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ʒœn/",
       "register": [
         "All"
@@ -3543,25 +3549,25 @@
     {
       "id": "3bdbc158-fea4-4c54-9dd1-19aac7a5208b",
       "part-of-speech": "noun",
-      "english": "a doctor",
+      "english": "doctor",
       "french": "docteur",
       "gender": "masculine",
       "plural": "docteurs",
       "cefr": "A1",
       "ipa": "/dɔk.tœʁ/",
-      "context": "physician",
       "register": [
         "All"
-      ]
+      ],
+      "image": "doctor"
     },
     {
       "id": "fe4e768b-a52d-4072-8642-bea761e07fd0",
       "part-of-speech": "noun",
-      "english": "confidence",
+      "english": "trust, confidence",
       "french": "confiance",
       "gender": "feminine",
       "plural": "confiances",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/kɔ̃.fjɑ̃s/",
       "register": [
         "All"
@@ -3585,7 +3591,7 @@
       "french": "vérité",
       "gender": "feminine",
       "plural": "vérités",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ve.ʁi.te/",
       "register": [
         "All"
@@ -3602,16 +3608,17 @@
       "ipa": "/e.kɔl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "school"
     },
     {
       "id": "4be70fc4-c67d-49e5-9151-6c71a5602d3a",
       "part-of-speech": "noun",
-      "english": "head",
+      "english": "boss; chef",
       "french": "chef",
       "gender": "masculine",
       "plural": "chefs",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ʃɛf/",
       "register": [
         "All"
@@ -3620,11 +3627,12 @@
     {
       "id": "6a2329cd-725f-4408-aeeb-5026a41a1ac5",
       "part-of-speech": "noun",
-      "english": "aim, intention",
+      "english": "remark; purpose",
       "french": "propos",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/pʁɔ.po/",
+      "context": "à propos: by the way; à propos de: about",
       "register": [
         "All"
       ]
@@ -3651,7 +3659,8 @@
       "ipa": "/vivʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "live"
     },
     {
       "id": "c70f3ee2-4acd-409a-b659-9cce324c9169",
@@ -3664,7 +3673,8 @@
       "ipa": "/fø/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fire"
     },
     {
       "id": "d891a510-2023-4fe4-8e8f-2d607bdd75ba",
@@ -3677,7 +3687,8 @@
       "ipa": "/ʒuʁ.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "day"
     },
     {
       "id": "a753b76d-e3d8-44a7-8319-2deaf31eed7f",
@@ -3690,7 +3701,8 @@
       "ipa": "/te.le.fɔn/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "phone"
     },
     {
       "id": "633fab5f-0116-4c11-83d2-edfb7d3ca8fc",
@@ -3699,34 +3711,20 @@
       "french": "près",
       "cefr": "A1",
       "ipa": "/pʁɛ/",
-      "context": "near: a time or a place; close: to a time or a place",
+      "context": "près de: near; tout près: very close",
       "register": [
         "All"
-      ]
-    },
-    {
-      "id": "c8adb741-69cf-49dc-b8bc-74817f884d3b",
-      "part-of-speech": "noun",
-      "english": "belongings",
-      "french": "affaire",
-      "gender": "feminine",
-      "cefr": "A1",
-      "plural": "affaires",
-      "ipa": "/a.fɛʁ/",
-      "countability": "plural-only",
-      "register": [
-        "All"
-      ]
+      ],
+      "image": "near"
     },
     {
       "id": "eddc705d-5099-46e9-a56e-5eba8c2d551a",
-      "part-of-speech": "noun",
-      "english": "best",
+      "part-of-speech": "adjective",
+      "english": "better; best",
       "french": "meilleur",
-      "gender": "masculine",
-      "plural": "meilleurs",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/mɛ.jœʁ/",
+      "context": "le meilleur: the best",
       "register": [
         "All"
       ]
@@ -3734,10 +3732,10 @@
     {
       "id": "b228c960-1149-4c6b-ae12-4e9e8aa72566",
       "part-of-speech": "noun",
-      "english": "upside; top side",
+      "english": "top, upper side",
       "french": "dessus",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/də.sy/",
       "register": [
         "All"
@@ -3750,7 +3748,7 @@
       "french": "équipe",
       "gender": "feminine",
       "plural": "équipes",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/e.kip/",
       "register": [
         "All"
@@ -3776,7 +3774,6 @@
       "french": "arriver",
       "cefr": "A1",
       "ipa": "/a.ʁi.ve/",
-      "context": "often followed by a location",
       "register": [
         "All"
       ]
@@ -3801,7 +3798,7 @@
       "french": "guerre",
       "gender": "feminine",
       "plural": "guerres",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ɡɛʁ/",
       "register": [
         "All"
@@ -3810,13 +3807,12 @@
     {
       "id": "5a4e3ef1-cd85-4680-901f-5692f2a63594",
       "part-of-speech": "noun",
-      "english": "walking; step (stair); march",
+      "english": "step (of stairs); walking; march",
       "french": "marche",
       "gender": "feminine",
       "plural": "marches",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/maʁʃ/",
-      "context": "formal, rhythmic way of walking",
       "register": [
         "All"
       ]
@@ -3828,7 +3824,7 @@
       "french": "sécurité",
       "gender": "feminine",
       "plural": "sécurités",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/se.ky.ʁi.te/",
       "register": [
         "All"
@@ -3845,7 +3841,8 @@
       "ipa": "/ɡaʁ.sɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "boy"
     },
     {
       "id": "112f12f6-5583-4d6a-ad74-85bbb4769669",
@@ -3867,7 +3864,8 @@
       "ipa": "/ɛɡ.zak.tə.mɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "exactly"
     },
     {
       "id": "c01c116d-5863-47bd-8967-81989d0bff58",
@@ -3891,7 +3889,8 @@
       "ipa": "/pʁɛsk/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "almost"
     },
     {
       "id": "0dd088de-fd97-4695-a4a4-596b88433034",
@@ -3942,7 +3941,7 @@
       "french": "mariage",
       "gender": "masculine",
       "plural": "mariages",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ma.ʁjaʒ/",
       "register": [
         "All"
@@ -3951,11 +3950,11 @@
     {
       "id": "65c191bf-4ec1-4a29-adc5-6e5c860d96a5",
       "part-of-speech": "noun",
-      "english": "captain, leader",
+      "english": "captain",
       "french": "capitaine",
       "gender": "masculine",
       "plural": "capitaines",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ka.pi.tɛn/",
       "register": [
         "All"
@@ -3970,7 +3969,8 @@
       "ipa": "/dɛʁ.nje/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "last"
     },
     {
       "id": "0ff95848-abf6-4ae0-9c15-cb54adc14467",
@@ -3990,7 +3990,7 @@
       "part-of-speech": "verb",
       "english": "to fall",
       "french": "tomber",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/tɔ̃.be/",
       "register": [
         "All"
@@ -4005,16 +4005,17 @@
       "ipa": "/a.tɑ̃dʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wait"
     },
     {
       "id": "4c4e74f5-049e-46a5-971f-dfff5d10d0ae",
       "part-of-speech": "noun",
-      "english": "something to be seen",
+      "english": "view, sight",
       "french": "vue",
       "gender": "feminine",
       "plural": "vues",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/vy/",
       "register": [
         "All"
@@ -4027,8 +4028,9 @@
       "french": "envie",
       "gender": "feminine",
       "plural": "envies",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ɑ̃.vi/",
+      "context": "avoir envie de: to feel like",
       "register": [
         "All"
       ]
@@ -4042,7 +4044,6 @@
       "plural": "fêtes",
       "cefr": "A1",
       "ipa": "/fɛːt/",
-      "context": "always in plural",
       "register": [
         "All"
       ]
@@ -4081,16 +4082,17 @@
       "ipa": "/pɛ.i/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "country"
     },
     {
       "id": "b52d26e8-fde0-4ec7-8924-2b94366cacaf",
       "part-of-speech": "noun",
-      "english": "a watch, guard",
+      "english": "guard, watch",
       "french": "garde",
       "gender": "masculine",
       "plural": "gardes",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ɡaʁd/",
       "register": [
         "All"
@@ -4117,7 +4119,8 @@
       "ipa": "/bjɛ̃.to/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soon"
     },
     {
       "id": "a4cdeb85-83db-4b55-bb27-b6572933d340",
@@ -4134,12 +4137,10 @@
     },
     {
       "id": "f95437dc-86a6-4638-9db7-e006157cd4d2",
-      "part-of-speech": "noun",
-      "english": "perfect tense",
+      "part-of-speech": "adjective",
+      "english": "perfect",
       "french": "parfait",
-      "gender": "masculine",
-      "plural": "parfaits",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/paʁ.fɛ/",
       "register": [
         "All"
@@ -4150,11 +4151,12 @@
       "part-of-speech": "adverb",
       "english": "in this way, thus",
       "french": "ainsi",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/ɛ̃.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "like-this"
     },
     {
       "id": "2ac0108d-e164-47e1-9fb5-0881107b8d12",
@@ -4163,7 +4165,7 @@
       "french": "retour",
       "gender": "masculine",
       "plural": "retours",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ʁə.tuʁ/",
       "register": [
         "All"
@@ -4174,7 +4176,7 @@
       "part-of-speech": "adverb",
       "english": "so much",
       "french": "autant",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/o.tɑ̃/",
       "register": [
         "All"
@@ -4202,7 +4204,6 @@
       "plural": "minutes",
       "cefr": "A1",
       "ipa": "/mi.nyt/",
-      "context": "etymology 1, time unit, all same senses",
       "register": [
         "All"
       ]
@@ -4214,7 +4215,7 @@
       "french": "plan",
       "gender": "masculine",
       "plural": "plans",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/plɑ̃/",
       "register": [
         "All"
@@ -4227,11 +4228,12 @@
       "french": "instant",
       "gender": "masculine",
       "plural": "instants",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ɛ̃s.tɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "moment"
     },
     {
       "id": "e184329a-3272-4900-b039-515bc6b560db",
@@ -4240,11 +4242,12 @@
       "french": "prison",
       "gender": "feminine",
       "plural": "prisons",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/pʁi.zɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "prison"
     },
     {
       "id": "26737953-65aa-434a-8b02-8a863fdc1623",
@@ -4266,7 +4269,8 @@
       "ipa": "/e.sɛ.je/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "try"
     },
     {
       "id": "537950df-c971-411c-8093-310131927983",
@@ -4275,7 +4279,7 @@
       "french": "arme",
       "gender": "feminine",
       "plural": "armes",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/aʁm/",
       "register": [
         "All"
@@ -4290,7 +4294,8 @@
       "ipa": "/mo.vɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bad"
     },
     {
       "id": "45ede609-a1db-4152-b6fe-e5744bb0d0cf",
@@ -4344,7 +4349,7 @@
       "english": "choice",
       "french": "choix",
       "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ʃwa/",
       "register": [
         "All"
@@ -4359,7 +4364,8 @@
       "ipa": "/paʁ.fwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sometimes"
     },
     {
       "id": "1a637249-a13a-4b14-9e23-6ad2f9f471c5",
@@ -4394,7 +4400,7 @@
       "french": "faute",
       "gender": "feminine",
       "plural": "fautes",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/fot/",
       "register": [
         "All"
@@ -4443,7 +4449,8 @@
       "ipa": "/ɑ̃.tɑ̃dʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hear"
     },
     {
       "id": "de4af9db-5409-4a1b-ac21-832d947c675e",
@@ -4480,7 +4487,8 @@
       "ipa": "/ɑ̃.tʁe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "in"
     },
     {
       "id": "ad5074c5-91f0-4031-8454-dc1223c8a705",
@@ -4496,12 +4504,13 @@
     {
       "id": "253f4ce3-9fac-4d20-bccf-5265dc34b232",
       "part-of-speech": "noun",
-      "english": "tower",
+      "english": "tower; turn",
       "french": "tour",
       "gender": "feminine",
       "plural": "tours",
       "cefr": "A1",
       "ipa": "/tuʁ/",
+      "context": "masculine: c'est ton tour, it's your turn; feminine: la tour Eiffel",
       "register": [
         "All"
       ]
@@ -4522,7 +4531,7 @@
       "part-of-speech": "verb",
       "english": "to keep",
       "french": "garder",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ɡaʁ.de/",
       "register": [
         "All"
@@ -4535,7 +4544,7 @@
       "french": "agent",
       "gender": "masculine",
       "plural": "agents",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/a.ʒɑ̃/",
       "register": [
         "All"
@@ -4552,7 +4561,8 @@
       "ipa": "/li/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bed"
     },
     {
       "id": "6bf40580-5efd-4aed-af24-e3170b7b242a",
@@ -4565,14 +4575,15 @@
       "ipa": "/a.mi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "friend"
     },
     {
       "id": "a2742ad2-138d-4fa2-8957-4ea9402b5ce5",
       "part-of-speech": "verb",
       "english": "to give back",
       "french": "rendre",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ʁɑ̃dʁ/",
       "register": [
         "All"
@@ -4587,10 +4598,10 @@
       "plural": "routes",
       "cefr": "A1",
       "ipa": "/ʁut/",
-      "context": "sometimes route like \"Route 66\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "road"
     },
     {
       "id": "dbb69378-d42a-44cd-b9d7-be7fd4dc2771",
@@ -4599,11 +4610,12 @@
       "french": "lieu",
       "gender": "masculine",
       "plural": "lieux",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/ljø/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "place"
     },
     {
       "id": "96712f43-5cce-4245-ab77-339af75a4308",
@@ -4625,7 +4637,7 @@
       "french": "service",
       "gender": "masculine",
       "plural": "services",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/sɛʁ.vis/",
       "register": [
         "All"
@@ -4666,16 +4678,17 @@
       "ipa": "/di.fi.sil/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "difficult"
     },
     {
       "id": "1a4721ce-b02a-41bb-9aaa-46bca605e0dc",
-      "part-of-speech": "noun",
-      "english": "the worst",
+      "part-of-speech": "adjective",
+      "english": "worse; worst",
       "french": "pire",
-      "gender": "masculine",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/piʁ/",
+      "context": "le pire: the worst",
       "register": [
         "All"
       ]
@@ -4683,13 +4696,12 @@
     {
       "id": "093080a9-b19e-4bd0-9efc-1ae6fdc6703b",
       "part-of-speech": "noun",
-      "english": "subject",
+      "english": "subject, topic",
       "french": "sujet",
       "gender": "masculine",
       "plural": "sujets",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/sy.ʒɛ/",
-      "context": "in a monarchy",
       "register": [
         "All"
       ]
@@ -4701,20 +4713,8 @@
       "french": "état",
       "gender": "masculine",
       "plural": "états",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "/e.ta/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "a0c73c14-4951-4d07-aed2-fbbea5c1223e",
-      "part-of-speech": "noun",
-      "english": "the impossible",
-      "french": "impossible",
-      "gender": "masculine",
-      "cefr": "A1",
-      "ipa": "/ɛ̃.pɔ.sibl/",
       "register": [
         "All"
       ]
@@ -4726,7 +4726,7 @@
       "french": "sorte",
       "gender": "feminine",
       "plural": "sortes",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "/sɔʁt/",
       "register": [
         "All"
@@ -4739,7 +4739,6 @@
       "french": "perdre",
       "cefr": "A1",
       "ipa": "/pɛʁdʁ/",
-      "context": "be unable to find",
       "register": [
         "All"
       ]
@@ -4751,17 +4750,6 @@
       "french": "bizarre",
       "cefr": "A1",
       "ipa": "/bi.zaʁ/",
-      "register": [
-        "All"
-      ]
-    },
-    {
-      "id": "f71c2385-af5a-431a-9151-000c4b21eeeb",
-      "part-of-speech": "adjective",
-      "english": "forgotten",
-      "french": "oublié",
-      "cefr": "A1",
-      "ipa": "/u.bli.je/",
       "register": [
         "All"
       ]
@@ -4786,7 +4774,8 @@
       "ipa": "/pɛ.je/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pay"
     },
     {
       "id": "24894637-7af7-4f61-98df-f4d607d7eee6",
@@ -4810,10 +4799,10 @@
       "plural": "cafés",
       "cefr": "A1",
       "ipa": "/ka.fe/",
-      "context": "drink",
       "register": [
         "All"
-      ]
+      ],
+      "image": "coffee"
     },
     {
       "id": "9e27c4e1-ed6f-406d-a04a-1056f4a59c91",
@@ -4899,10 +4888,11 @@
       "plural": "verres",
       "cefr": "A1",
       "ipa": "/vɛʁ/",
-      "context": "substance",
+      "context": "un verre d'eau: a glass of water",
       "register": [
         "All"
-      ]
+      ],
+      "image": "glass"
     },
     {
       "id": "8bb029db-7251-4426-a47b-591f73d91c67",
@@ -5016,7 +5006,8 @@
       "ipa": "/o.pi.tal/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hospital"
     },
     {
       "id": "d14afa53-4d5e-4735-a504-641ffd3285f3",
@@ -5091,7 +5082,8 @@
       "ipa": "/maʁ.ʃe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "market"
     },
     {
       "id": "fa50553f-3bfb-452e-8945-4bd23176ff3f",
@@ -5196,7 +5188,8 @@
       "ipa": "/di.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dinner"
     },
     {
       "id": "69d8340b-0712-4436-81e2-61a3824bbba0",
@@ -5352,7 +5345,8 @@
       "ipa": "/livʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "book"
     },
     {
       "id": "62c7e19c-929d-4b78-80c3-d44ad5d0046f",
@@ -5402,7 +5396,8 @@
       "ipa": "/bwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "drink"
     },
     {
       "id": "c4f83b12-1765-4cef-8f9f-428fa2114dc2",
@@ -5548,7 +5543,8 @@
       "ipa": "/kɔ.mɑ̃.se/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "begin"
     },
     {
       "id": "71a27990-e218-47a9-bc54-b6910ae43114",
@@ -5559,7 +5555,8 @@
       "ipa": "/su.vɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "often"
     },
     {
       "id": "09a4328c-95ed-4254-a6a4-6393b0a2785d",
@@ -5986,7 +5983,8 @@
       "ipa": "/ʁy/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "street"
     },
     {
       "id": "95321da7-7709-4c8c-8404-543f4ecde7e4",
@@ -6499,17 +6497,17 @@
     {
       "id": "4674500e-9fb1-40e6-80ed-46a53cbca770",
       "part-of-speech": "noun",
-      "english": "hotel; mansion",
+      "english": "hotel",
       "french": "hôtel",
       "gender": "masculine",
       "plural": "hôtels",
       "hMuet": true,
       "cefr": "A1",
       "ipa": "/o.tɛl/",
-      "context": "sense 1",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hotel"
     },
     {
       "id": "4e651ad9-d236-4850-a743-c130598eee7a",
@@ -6627,11 +6625,11 @@
       "gender": "feminine",
       "plural": "tables",
       "cefr": "A1",
-      "context": "furniture",
       "ipa": "/tabl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "table"
     },
     {
       "id": "7b3d97b4-f862-4051-977d-598747aa2626",
@@ -6663,7 +6661,7 @@
     {
       "id": "4c019031-0fae-43ae-bd0b-6ff3bc15e83a",
       "part-of-speech": "noun",
-      "english": "physician",
+      "english": "doctor",
       "french": "médecin",
       "gender": "masculine",
       "plural": "médecins",
@@ -6671,7 +6669,8 @@
       "ipa": "/med.sɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "doctor"
     },
     {
       "id": "398d1020-7752-44d6-a79e-4d9a76f2eb0a",
@@ -6706,7 +6705,6 @@
       "plural": "faims",
       "cefr": "A1",
       "ipa": "/fɛ̃/",
-      "context": "desire of food",
       "register": [
         "All"
       ]
@@ -7050,7 +7048,8 @@
       "ipa": "/maʁ.ʃe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "walk"
     },
     {
       "id": "3850eee2-92c6-4a72-ae99-a487b1a497d3",
@@ -7096,7 +7095,6 @@
       "plural": "soleils",
       "cefr": "A1",
       "ipa": "/sɔ.lɛj/",
-      "context": "star",
       "register": [
         "All"
       ]
@@ -7272,7 +7270,8 @@
       "ipa": "/ʒɔ.li/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beautiful"
     },
     {
       "id": "91655dfa-ae99-4e23-b33f-487ebe68ca1c",
@@ -7606,7 +7605,7 @@
     {
       "id": "067ece27-ac7f-46e6-921c-a962ff2af414",
       "part-of-speech": "noun",
-      "english": "class, classroom; type",
+      "english": "class, classroom",
       "french": "classe",
       "gender": "feminine",
       "plural": "classes",
@@ -7815,7 +7814,8 @@
       "ipa": "/ɛ.me/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "a21c3002-0b33-4ba5-859c-179895324732",
@@ -8007,7 +8007,8 @@
       "ipa": "/kɥi.zin/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "kitchen"
     },
     {
       "id": "0f4de900-a8d1-4081-9508-cebbd7ed31b3",
@@ -8231,7 +8232,8 @@
       "ipa": "/de.ʒœ.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lunch"
     },
     {
       "id": "78b2511e-582b-42d7-a6f0-61c7a2b0bf77",
@@ -8509,7 +8511,7 @@
     {
       "id": "0204651f-1287-49bd-a067-83223f961443",
       "part-of-speech": "noun",
-      "english": "apartment, flat",
+      "english": "apartment",
       "french": "appartement",
       "gender": "masculine",
       "plural": "appartements",
@@ -8517,7 +8519,8 @@
       "ipa": "/a.paʁ.tə.mɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "apartment"
     },
     {
       "id": "ce74edfc-1046-432d-a896-84a8a4f61889",
@@ -8805,7 +8808,7 @@
     {
       "id": "06ff600a-bb55-4073-8035-8e59f45e1e0f",
       "part-of-speech": "noun",
-      "english": "address; skill",
+      "english": "address",
       "french": "adresse",
       "gender": "feminine",
       "plural": "adresses",
@@ -9054,7 +9057,8 @@
       "ipa": "/mɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sea"
     },
     {
       "id": "b09c2543-b604-450e-ae33-1bcee2b73107",
@@ -9078,7 +9082,8 @@
       "ipa": "/bjɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beer"
     },
     {
       "id": "ee1382e7-2874-4e90-af23-894e05160f7e",
@@ -9099,7 +9104,6 @@
       "gender": "feminine",
       "plural": "robes",
       "cefr": "A1",
-      "context": "women's clothing",
       "ipa": "/ʁɔb/",
       "register": [
         "All"
@@ -9203,7 +9207,8 @@
       "ipa": "/vɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wine"
     },
     {
       "id": "3fd3b9dc-0432-443d-8790-63d5194091fa",
@@ -9682,7 +9687,8 @@
       "ipa": "/bɑ̃k/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bank"
     },
     {
       "id": "437518fe-2ede-452f-8f3e-cc5e6f383f5c",
@@ -9762,7 +9768,7 @@
     {
       "id": "4797ddae-ed35-4d5f-8615-423016e07a34",
       "part-of-speech": "noun",
-      "english": "radio, tuner",
+      "english": "radio",
       "french": "radio",
       "gender": "feminine",
       "plural": "radios",
@@ -9770,7 +9776,8 @@
       "ipa": "/ʁa.djo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "radio"
     },
     {
       "id": "d983f723-4c29-4213-9f0c-61d8a3edb20f",
@@ -9783,7 +9790,8 @@
       "ipa": "/te/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tea"
     },
     {
       "id": "d9a41a3b-0954-4653-a4fc-54993f2f6119",
@@ -10221,7 +10229,8 @@
       "ipa": "/ma.ɡa.zɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "store"
     },
     {
       "id": "4d2a75e2-c278-495d-b344-0cccc95ccdc4",
@@ -10344,7 +10353,8 @@
       "ipa": "/fə.nɛtʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "window"
     },
     {
       "id": "561a3bc7-2418-4594-9c53-c17da160c7d2",
@@ -10691,7 +10701,8 @@
       "ipa": "/vi.laʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "village"
     },
     {
       "id": "6c929b97-dbda-4872-bc15-02ba529cca62",
@@ -10944,7 +10955,8 @@
       "ipa": "/ɔʁ.di.na.tœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "computer"
     },
     {
       "id": "e04b78de-a7a7-440f-b7d5-e207187ee144",
@@ -11454,11 +11466,11 @@
       "french": "repas",
       "gender": "masculine",
       "cefr": "A1",
-      "context": "eating",
       "ipa": "/ʁə.pa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "meal"
     },
     {
       "id": "4b710ce4-5a4f-4e34-9369-3b842d23c1fc",
@@ -11623,7 +11635,6 @@
       "plural": "chats",
       "cefr": "A1",
       "ipa": "/ʃa/",
-      "context": "feline",
       "register": [
         "All"
       ]
@@ -11652,7 +11663,8 @@
       "ipa": "/ku.to/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "knife"
     },
     {
       "id": "962c0db8-483b-4fd8-a656-70bd77e5594c",
@@ -11984,7 +11996,8 @@
       "ipa": "/ʁɛs.tɔ.ʁɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "restaurant"
     },
     {
       "id": "3b424c23-93be-43b9-b9c9-cc87bbd9182f",
@@ -12387,7 +12400,7 @@
     {
       "id": "018599ac-0760-4580-a134-0670f200b3d6",
       "part-of-speech": "noun",
-      "english": "color/colour",
+      "english": "color",
       "french": "couleur",
       "gender": "feminine",
       "plural": "couleurs",
@@ -12605,10 +12618,10 @@
       "plural": "poissons",
       "cefr": "A1",
       "ipa": "/pwa.sɔ̃/",
-      "context": "marine animal",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fish"
     },
     {
       "id": "b9b56896-6333-4513-8b06-46cea3c30db5",
@@ -12713,7 +12726,8 @@
       "ipa": "/lɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "milk"
     },
     {
       "id": "3f4060bd-05a8-4d94-9738-faf04b98cdd3",
@@ -13321,10 +13335,10 @@
       "plural": "gâteaux",
       "cefr": "A1",
       "ipa": "/ɡa.to/",
-      "context": "i.e. a cake made with a chemical leavening agent: e.g. baking powder; making it light and airy: as opposed to a denser torte",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cake"
     },
     {
       "id": "10e1c8b9-c0d8-41c7-9fe0-8dab1c5f9bb4",
@@ -13790,7 +13804,8 @@
       "ipa": "/pɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bread"
     },
     {
       "id": "eab1aa96-1017-4fc2-847d-1d0557db9f5e",
@@ -14077,7 +14092,8 @@
       "ipa": "/paʁk/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "park"
     },
     {
       "id": "6cdf8573-27c2-4ed1-b90f-3385159fcba4",
@@ -14116,7 +14132,8 @@
       "ipa": "/plaʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beach"
     },
     {
       "id": "39adfacf-8c47-43b7-80dd-9ef1421bd684",
@@ -14315,7 +14332,8 @@
       "ipa": "/ʒaʁ.dɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "garden"
     },
     {
       "id": "b340f854-a0fe-42df-be06-a0305c338f88",
@@ -14488,7 +14506,8 @@
       "ipa": "/vjɑ̃d/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "meat"
     },
     {
       "id": "4867895e-ed93-4d1d-873c-983f9bdd19d6",
@@ -14706,7 +14725,8 @@
       "ipa": "/pu.le/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "chicken"
     },
     {
       "id": "2202edc7-5483-4602-b477-7ddd477deef3",
@@ -15248,7 +15268,8 @@
       "ipa": "/duʃ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shower"
     },
     {
       "id": "45e331f5-390f-4f23-baa8-b5839f84fa84",
@@ -15348,7 +15369,8 @@
       "ipa": "/sa.lɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "living-room"
     },
     {
       "id": "92bc116b-d95e-4698-8a90-4a03072d5cc7",
@@ -15379,13 +15401,12 @@
     {
       "id": "478580fb-75bf-4c80-af39-c3cb51568723",
       "part-of-speech": "noun",
-      "english": "trousers, pants",
+      "english": "pants",
       "french": "pantalon",
       "gender": "masculine",
       "plural": "pantalons",
       "cefr": "A1",
       "ipa": "/pɑ̃.ta.lɔ̃/",
-      "context": "trousers: UK",
       "register": [
         "All"
       ]
@@ -15439,10 +15460,10 @@
       "plural": "aéroports",
       "cefr": "A1",
       "ipa": "/a.e.ʁɔ.pɔʁ/",
-      "context": "place, company managing such a place",
       "register": [
         "All"
-      ]
+      ],
+      "image": "airport"
     },
     {
       "id": "3ce86d4d-bbc3-4de6-9a6b-3144cb495320",
@@ -16179,7 +16200,8 @@
       "ipa": "/ʃɔ.kɔ.la/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "chocolate"
     },
     {
       "id": "0b710d66-0399-438f-b8ee-0ca1b6ce8a44",
@@ -16242,7 +16264,6 @@
       "plural": "chemises",
       "cefr": "A1",
       "ipa": "/ʃə.miz/",
-      "context": "that opens in the front",
       "register": [
         "All"
       ]
@@ -16365,7 +16386,8 @@
       "ipa": "/ʃɛz/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "chair"
     },
     {
       "id": "c0ad4faa-ddbf-4823-b5a8-3e2a314f5ed1",
@@ -16762,7 +16784,8 @@
       "ipa": "/mɔ̃.taɲ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mountain"
     },
     {
       "id": "3f112aad-d4cc-485a-b5c5-8fd84c2a45e5",
@@ -17610,7 +17633,7 @@
     {
       "id": "df2e0269-afff-442f-a3c9-4debfb23d6a6",
       "part-of-speech": "noun",
-      "english": "railway station",
+      "english": "train station",
       "french": "gare",
       "gender": "feminine",
       "plural": "gares",
@@ -17618,7 +17641,8 @@
       "ipa": "/ɡaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "station"
     },
     {
       "id": "182b2c3d-d2da-4032-9f0c-ad974195e17e",
@@ -18065,7 +18089,8 @@
       "ipa": "/fʁɔ.maʒ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cheese"
     },
     {
       "id": "8e6365ba-8fcd-4d90-9ea1-f86312bb7cfc",
@@ -18773,7 +18798,8 @@
       "ipa": "/sykʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sugar"
     },
     {
       "id": "029a1676-7db0-4c61-b3d9-99a58b627adc",
@@ -19211,7 +19237,8 @@
       "ipa": "/sup/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soup"
     },
     {
       "id": "2b678874-ec5d-4731-b9a5-ba15accd4ee7",
@@ -19223,7 +19250,8 @@
       "ipa": "/ʒy/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "juice"
     },
     {
       "id": "c6914ed0-09ed-4635-a855-bba2fc388de3",
@@ -19757,7 +19785,8 @@
       "ipa": "/maʁs/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-03"
     },
     {
       "id": "c5503be8-b149-4ecc-b7d5-f4065a948011",
@@ -20061,7 +20090,7 @@
     {
       "id": "c0244da1-6ff2-440d-9c05-3e58706dad55",
       "part-of-speech": "noun",
-      "english": "bike, bicycle, cycle",
+      "english": "bike, bicycle",
       "french": "vélo",
       "gender": "masculine",
       "plural": "vélos",
@@ -21265,7 +21294,6 @@
       "plural": "fleurs",
       "cefr": "A1",
       "ipa": "/flœʁ/",
-      "context": "also called \"flowering plants\"",
       "register": [
         "All"
       ]
@@ -21329,7 +21357,6 @@
       "plural": "jeudis",
       "cefr": "A1",
       "ipa": "/ʒø.di/",
-      "context": "day of the week",
       "register": [
         "All"
       ]
@@ -21400,7 +21427,7 @@
     {
       "id": "f02a6fea-c080-4032-8c2e-5b363ff11c40",
       "part-of-speech": "noun",
-      "english": "schoolboy, pupil, student",
+      "english": "student, pupil",
       "french": "élève",
       "gender": "masculine",
       "plural": "élèves",
@@ -22432,7 +22459,8 @@
       "ipa": "/tas/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cup"
     },
     {
       "id": "14ee21fe-5898-48d7-b59a-8b512fad94eb",
@@ -23224,7 +23252,8 @@
       "ipa": "/te.le.vi.zjɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "television"
     },
     {
       "id": "14d3a06f-82ef-4c42-8350-60b988601f77",
@@ -23242,7 +23271,7 @@
     {
       "id": "43d4d33b-34ee-48f0-b632-89005f579ec9",
       "part-of-speech": "noun",
-      "english": "association football, soccer",
+      "english": "soccer",
       "french": "football",
       "gender": "masculine",
       "plural": "footballs",
@@ -23700,10 +23729,10 @@
       "plural": "musées",
       "cefr": "A1",
       "ipa": "/my.ze/",
-      "context": "a building or institution dedicated to the acquisition, conservation, study, exhibition, and educational interpretation of objects having scientific, historical, cultural or artistic value",
       "register": [
         "All"
-      ]
+      ],
+      "image": "museum"
     },
     {
       "id": "88702c88-4f17-4bb3-8965-c8322a55c768",
@@ -24111,7 +24140,8 @@
       "ipa": "/bœʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "butter"
     },
     {
       "id": "e7b64fde-ccff-4130-a862-59162b636c04",
@@ -24943,10 +24973,10 @@
       "plural": "mais",
       "cefr": "A1",
       "ipa": "/mɛ/",
-      "context": "month",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-05"
     },
     {
       "id": "c3af3f24-b20a-4fb2-bc70-5db15e6ba3e6",
@@ -26223,10 +26253,10 @@
       "plural": "salades",
       "cefr": "A1",
       "ipa": "/sa.lad/",
-      "context": "raw vegetables in general",
       "register": [
         "All"
-      ]
+      ],
+      "image": "salad"
     },
     {
       "id": "e4f56943-7660-4ad3-8e20-dcff26572cbe",
@@ -27571,13 +27601,12 @@
     {
       "id": "0eb6ba1e-ea35-40ae-9565-59b1eac2d993",
       "part-of-speech": "noun",
-      "english": "metro; subway, underground, Tube",
+      "english": "subway",
       "french": "métro",
       "gender": "masculine",
       "plural": "métros",
       "cefr": "A1",
       "ipa": "/me.tʁo/",
-      "context": "underground: UK; Tube: UK",
       "register": [
         "All"
       ]
@@ -27798,7 +27827,8 @@
       "ipa": "/sɛp.tɑ̃bʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-09"
     },
     {
       "id": "d018e801-36e1-4226-a975-83ef4eebba74",
@@ -28490,10 +28520,10 @@
       "plural": "stylos",
       "cefr": "A1",
       "ipa": "/sti.lo/",
-      "context": "for writing",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pen"
     },
     {
       "id": "4c470ad0-f942-4be7-a8b6-8706d86001cd",
@@ -28542,7 +28572,8 @@
       "ipa": "/ʁi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "rice"
     },
     {
       "id": "9023eb2c-ffd3-4033-ae49-d7db691c815b",
@@ -28980,10 +29011,10 @@
       "plural": "pommes",
       "cefr": "A1",
       "ipa": "/pɔm/",
-      "context": "fruit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "apple"
     },
     {
       "id": "6de913f9-51d6-4850-b324-10da85ac6685",
@@ -30268,7 +30299,8 @@
       "ipa": "/ʒɥi.je/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-07"
     },
     {
       "id": "9353e00f-f63c-4bd8-a403-bea4ad6d0b09",
@@ -30455,10 +30487,10 @@
       "plural": "sels",
       "cefr": "A1",
       "ipa": "/sɛl/",
-      "context": "NaCl",
       "register": [
         "All"
-      ]
+      ],
+      "image": "salt"
     },
     {
       "id": "f22ba467-3f03-4789-a959-7fb226e8bee1",
@@ -30595,7 +30627,8 @@
       "ipa": "/fʁɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fruit"
     },
     {
       "id": "9c7cbf8a-f33f-4bd6-9435-74885dbe414a",
@@ -30914,7 +30947,8 @@
       "ipa": "/a.vʁil/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-04"
     },
     {
       "id": "2787a552-fbeb-4170-945b-7ef1d225243f",
@@ -32394,7 +32428,8 @@
       "ipa": "/ʒɥɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-06"
     },
     {
       "id": "cee4abb4-cc1f-47e2-8e95-a3e3abaa4047",
@@ -32495,7 +32530,8 @@
       "ipa": "/ɔk.tɔbʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-10"
     },
     {
       "id": "be25cb94-af08-4dcd-88c0-d1175eb91f49",
@@ -32953,7 +32989,8 @@
       "ipa": "/te.le.fɔ.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "call"
     },
     {
       "id": "5f56033c-0909-4d3d-9de6-8c8ec4a0aefd",
@@ -34504,7 +34541,7 @@
     {
       "id": "b24e928f-bf9e-4a56-a82d-ce0d2573bb27",
       "part-of-speech": "noun",
-      "english": "plate; seat (riding)",
+      "english": "plate",
       "french": "assiette",
       "gender": "feminine",
       "plural": "assiettes",
@@ -34512,7 +34549,8 @@
       "ipa": "/a.sjɛt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "plate"
     },
     {
       "id": "2185a821-b5b1-4bdf-b7bd-813e87f34177",
@@ -34641,7 +34679,8 @@
       "ipa": "/nɔ.vɑ̃bʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-11"
     },
     {
       "id": "f28731cd-1980-4e63-80ca-b8468235fc5b",
@@ -35485,7 +35524,7 @@
     {
       "id": "307d0768-d24f-4bbe-8b34-dd726b2d6c7f",
       "part-of-speech": "noun",
-      "english": "autumn, fall",
+      "english": "fall, autumn",
       "french": "automne",
       "gender": "masculine",
       "plural": "automnes",
@@ -36950,7 +36989,8 @@
       "ipa": "/u/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-08"
     },
     {
       "id": "9488cf72-84b8-4263-96a5-d39fae9af2bd",
@@ -37139,7 +37179,8 @@
       "ipa": "/de.sɑ̃bʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-12"
     },
     {
       "id": "b8392f8e-434e-4060-8a59-269f87a052c4",
@@ -38059,7 +38100,6 @@
       "french": "détester",
       "cefr": "A1",
       "ipa": "/de.tɛs.te/",
-      "context": "to thoroughly dislike",
       "register": [
         "All"
       ]
@@ -38165,7 +38205,8 @@
       "ipa": "/ʒɑ̃.vje/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-01"
     },
     {
       "id": "4e1a63eb-5349-484b-ad5b-2121d1406b1a",
@@ -39029,7 +39070,8 @@
       "ipa": "/si.tʁɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lemon"
     },
     {
       "id": "38fba256-d2b5-41a1-87b3-cc773c31476d",
@@ -41574,7 +41616,8 @@
       "ipa": "/faʁ.ma.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pharmacy"
     },
     {
       "id": "5a93a10b-23de-415b-8c3f-a04941870fe1",
@@ -41996,7 +42039,8 @@
       "ipa": "/œf/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "egg"
     },
     {
       "id": "cf5669c4-5794-416c-a129-3a603b8172eb",
@@ -42464,7 +42508,7 @@
       "french": "habiter",
       "cefr": "A1",
       "ipa": "/a.bi.te/",
-      "context": "to have as a home.",
+      "context": "j'habite à Paris: I live in Paris",
       "register": [
         "All"
       ]
@@ -43130,7 +43174,8 @@
       "ipa": "/sy.pɛʁ.maʁ.ʃe/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "supermarket"
     },
     {
       "id": "19e3614d-f77e-4c07-b113-b254e42b70f5",
@@ -43157,7 +43202,8 @@
       "ipa": "/fe.vʁi.je/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month-02"
     },
     {
       "id": "6d5ef33c-6965-4e1b-802b-b492f411f833",
@@ -49494,7 +49540,8 @@
       "ipa": "/kʁɛ.jɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pencil"
     },
     {
       "id": "ee41e31f-edf4-4f9b-98e8-88db6e9ce2c5",
@@ -50759,7 +50806,8 @@
       "ipa": "/pat/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pasta"
     },
     {
       "id": "ed8e99e1-1386-4714-b3e2-80700da853fd",
@@ -51433,7 +51481,7 @@
     {
       "id": "90f94b2d-6e30-4e64-a4d0-50bd3c16af15",
       "part-of-speech": "noun",
-      "english": "metre/meter",
+      "english": "meter",
       "french": "mètre",
       "gender": "masculine",
       "plural": "mètres",
@@ -52177,7 +52225,8 @@
       "ipa": "/kɥi.jɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "spoon"
     },
     {
       "id": "cfa676cd-6c07-49cf-81a7-cce491b7415c",
@@ -58594,10 +58643,10 @@
       "plural": "fourchettes",
       "cefr": "A1",
       "ipa": "/fuʁ.ʃɛt/",
-      "context": "for eating",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fork"
     },
     {
       "id": "00c64627-4159-49bb-933c-c27ef2220f97",
@@ -61849,10 +61898,10 @@
       "plural": "tomates",
       "cefr": "A1",
       "ipa": "/tɔ.mat/",
-      "context": "plant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tomato"
     },
     {
       "id": "536bf250-4eb2-44ab-8537-673a31ef2a97",
@@ -63630,7 +63679,8 @@
       "ipa": "/ka.je/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "notebook"
     },
     {
       "id": "2c22a0f2-88cb-44ac-b014-4113c1bbe61a",
@@ -75555,7 +75605,7 @@
     {
       "id": "c4b0a20d-d9eb-4e8c-a5e5-0bfb1b5b6bf2",
       "part-of-speech": "noun",
-      "english": "bread shop; bakery, baker's",
+      "english": "bakery",
       "french": "boulangerie",
       "gender": "feminine",
       "plural": "boulangeries",
@@ -75563,7 +75613,8 @@
       "ipa": "/bu.lɑ̃ʒ.ʁi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bakery"
     },
     {
       "id": "93d6d6f1-4c3a-4154-90f9-eacbda136aa6",
@@ -81006,7 +81057,8 @@
       "ipa": "/le.ɡym/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "vegetable"
     },
     {
       "id": "f8b05d8f-ca43-4dff-9da7-51b4d6a96d4b",
@@ -84172,7 +84224,7 @@
     {
       "id": "8a25efd6-7a60-4856-a458-a371fb2cf393",
       "part-of-speech": "noun",
-      "english": "croissant; crescent",
+      "english": "croissant",
       "french": "croissant",
       "gender": "masculine",
       "plural": "croissants",
@@ -84180,7 +84232,8 @@
       "ipa": "/kʁwa.sɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "croissant"
     },
     {
       "id": "a11b5307-71a3-4a3d-ae42-725b621295d4",
@@ -106562,7 +106615,6 @@
       "gender": "masculine",
       "plural": "arbres",
       "ipa": "/aʁbʁ/",
-      "context": "plant, diagram, anything in the form of a tree",
       "register": [
         "All"
       ]
@@ -106578,7 +106630,8 @@
       "ipa": "/ma.dam/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mrs"
     },
     {
       "id": "630ce3d6-295b-4200-84b1-e59d34223004",
@@ -106591,7 +106644,8 @@
       "ipa": "/mə.sjø/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mister"
     },
     {
       "id": "c64b2d9d-b998-4d38-a801-ca0ea6c8b5a6",
@@ -110916,20 +110970,6 @@
       ]
     },
     {
-      "id": "35747af5-ccc1-4852-ad8e-ea8f361eda8a",
-      "part-of-speech": "noun",
-      "english": "belonging, property",
-      "french": "affaire",
-      "cefr": "A1",
-      "gender": "feminine",
-      "plural": "affaires",
-      "ipa": "/a.fɛʁ/",
-      "countability": "plural-only",
-      "register": [
-        "All"
-      ]
-    },
-    {
       "id": "3b5b8686-42f2-4ed5-82bd-04211bd98956",
       "part-of-speech": "adverb",
       "english": "judicially",
@@ -112380,7 +112420,8 @@
       "context": "j' before a vowel: j'aime",
       "register": [
         "All"
-      ]
+      ],
+      "image": "i"
     },
     {
       "id": "7981d4e6-d156-4218-b577-af684a020c85",
@@ -112391,7 +112432,8 @@
       "ipa": "/ty/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "you"
     },
     {
       "id": "b7d49f8f-ffaa-4e06-8e36-ec9457f264b4",
@@ -112403,7 +112445,8 @@
       "context": "also impersonal: il pleut, it's raining",
       "register": [
         "All"
-      ]
+      ],
+      "image": "he-she"
     },
     {
       "id": "0c2e3c4b-b3c9-446a-8486-e5f237421a47",
@@ -112426,7 +112469,8 @@
       "ipa": "/nu/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "we"
     },
     {
       "id": "67707f81-4f02-4d5d-8d58-edf4c5712b21",
@@ -112437,7 +112481,8 @@
       "ipa": "/vu/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "you-all"
     },
     {
       "id": "cf1a845e-d0ce-42a3-9474-25d7a0d6da9a",
@@ -112448,7 +112493,8 @@
       "ipa": "/il/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "they"
     },
     {
       "id": "cbc05c9b-51b5-4a39-8b5d-f18911e0aab8",
@@ -112459,7 +112505,8 @@
       "ipa": "/ɛl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "they"
     },
     {
       "id": "de6918d2-5c32-4757-92cb-27e91d900428",
@@ -112495,7 +112542,8 @@
       "context": "s' before a vowel",
       "register": [
         "All"
-      ]
+      ],
+      "image": "self"
     },
     {
       "id": "8d981711-7f32-4492-925c-e1fd06836161",
@@ -112507,7 +112555,8 @@
       "context": "c'est moi: it's me",
       "register": [
         "All"
-      ]
+      ],
+      "image": "i"
     },
     {
       "id": "d1cfe4bd-6388-48c9-8ff0-96544fc75414",
@@ -112518,7 +112567,8 @@
       "ipa": "/twa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "you"
     },
     {
       "id": "82140ecb-efaf-47ac-88c0-20e73d3ad6f6",
@@ -112529,7 +112579,8 @@
       "ipa": "/lɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "him-her"
     },
     {
       "id": "dfb3953e-42da-4f81-a40f-19938f3e1d94",
@@ -112565,7 +112616,8 @@
       "context": "c'est: it is",
       "register": [
         "All"
-      ]
+      ],
+      "image": "it"
     },
     {
       "id": "8ac84df4-d130-41eb-b642-f3dc63145d11",
@@ -112577,7 +112629,8 @@
       "context": "ça va?: how's it going?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "that"
     },
     {
       "id": "3ba461d4-a129-4e2e-905d-6509d97a2afb",
@@ -112623,7 +112676,8 @@
       "ipa": "/ki/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "who"
     },
     {
       "id": "a0fc3c75-ebf5-4953-b40f-4255d0ffdb8f",
@@ -112635,7 +112689,8 @@
       "context": "qu' before a vowel",
       "register": [
         "All"
-      ]
+      ],
+      "image": "what"
     },
     {
       "id": "89627e14-ac01-4f66-8328-80208fb361ee",
@@ -112647,7 +112702,8 @@
       "context": "after a preposition or at the end: de quoi?, c'est quoi?",
       "register": [
         "All"
-      ]
+      ],
+      "image": "what"
     },
     {
       "id": "461d928b-e3f9-44f1-b96f-dbed45bd0ad7",
@@ -112729,7 +112785,8 @@
       "ipa": "/kɛl.kœ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "someone"
     },
     {
       "id": "867bac80-eb4d-4bdf-8fc9-54b0940f164c",
@@ -112740,7 +112797,8 @@
       "ipa": "/kɛl.kə ʃoz/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "something"
     },
     {
       "id": "f4d1e788-3bb9-47f3-ac57-edb5058c2d89",
@@ -113047,7 +113105,8 @@
       "context": "feminine toute; plural tous, toutes",
       "register": [
         "All"
-      ]
+      ],
+      "image": "all"
     },
     {
       "id": "436e8d07-0b51-469e-ad85-0a9520b84cb6",
@@ -113150,7 +113209,8 @@
       "ipa": "/a.vɛk/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "with"
     },
     {
       "id": "b7fa2ddd-4c49-4232-bb1f-c0b84bdc2f74",
@@ -113161,7 +113221,8 @@
       "ipa": "/sɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "without"
     },
     {
       "id": "db851b81-a3dd-4a4e-b6ea-3c4a19e99ab6",
@@ -113239,7 +113300,8 @@
       "ipa": "/a.vɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "before"
     },
     {
       "id": "7d1dd328-c5db-42f6-a20d-67ec527369e7",
@@ -113250,7 +113312,8 @@
       "ipa": "/a.pʁɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "after"
     },
     {
       "id": "d297a0ae-3dce-404f-83cf-acd2bb0ed440",
@@ -113317,7 +113380,8 @@
       "ipa": "/pʁɛ də/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "near"
     },
     {
       "id": "dd12aea0-b915-4873-a99d-1ec4d7dd5817",
@@ -113427,7 +113491,8 @@
       "ipa": "/e/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "and"
     },
     {
       "id": "4114a43d-27bf-4bac-81e0-4835348246b7",
@@ -113438,7 +113503,8 @@
       "ipa": "/u/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "or"
     },
     {
       "id": "247b94fa-ca5d-4b43-98ec-576f01bb3d21",
@@ -113449,7 +113515,8 @@
       "ipa": "/mɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "but"
     },
     {
       "id": "42a4d62e-07ea-4924-a948-36f63c0b5eb6",
@@ -113471,7 +113538,8 @@
       "ipa": "/paʁs kə/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "because"
     },
     {
       "id": "e6ef2caf-d3e8-4fec-bad9-4d434723f870",
@@ -113483,7 +113551,8 @@
       "context": "s' before il, ils",
       "register": [
         "All"
-      ]
+      ],
+      "image": "if"
     },
     {
       "id": "1231b7b5-77fd-4c47-beec-c0f794998954",
@@ -113495,7 +113564,8 @@
       "context": "plus grand que: bigger than",
       "register": [
         "All"
-      ]
+      ],
+      "image": "that-conj"
     },
     {
       "id": "fa140070-cefe-4619-9179-3c877b58c59a",
@@ -113507,7 +113577,8 @@
       "context": "also asks \"when?\"",
       "register": [
         "All"
-      ]
+      ],
+      "image": "when-conj"
     },
     {
       "id": "277de508-e37c-40e1-a109-350607a2c105",
@@ -113647,7 +113718,8 @@
       "context": "un peu: a little",
       "register": [
         "All"
-      ]
+      ],
+      "image": "a-little"
     },
     {
       "id": "93842d67-f022-47e3-a21d-9a7a6ae4ce02",
@@ -113658,7 +113730,8 @@
       "ipa": "/vit/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "quickly"
     },
     {
       "id": "8266f8ab-3268-4423-a863-db2920d8d184",
@@ -113713,7 +113786,8 @@
       "ipa": "/ɑ̃.sɑ̃bl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "together"
     },
     {
       "id": "4393f1d8-8d29-4dae-a3b7-dca2c10a57e1",
@@ -113812,7 +113886,8 @@
       "ipa": "/bɔ̃.ʒuʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-day"
     },
     {
       "id": "d57ed4ab-d789-4f85-afa2-c879dd1b7375",
@@ -113823,7 +113898,8 @@
       "ipa": "/bɔ̃.swaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-evening"
     },
     {
       "id": "ef58b7e6-272e-4045-ac73-058526956f5a",
@@ -113835,7 +113911,8 @@
       "context": "informal",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hello"
     },
     {
       "id": "22d453aa-b3c9-48fd-ba2d-6d4f8dc448f5",
@@ -113846,7 +113923,8 @@
       "ipa": "/o ʁə.vwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "goodbye"
     },
     {
       "id": "4b8890f7-25cf-4756-adaf-646faf44d227",
@@ -113857,7 +113935,8 @@
       "ipa": "/mɛʁ.si/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thanks"
     },
     {
       "id": "8361ae1c-5475-42d5-b8cf-805bad749125",
@@ -113890,7 +113969,8 @@
       "ipa": "/paʁ.dɔ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sorry"
     },
     {
       "id": "0e98ad5d-13ef-4445-b349-8443dd4ddf7d",
@@ -113901,7 +113981,8 @@
       "ipa": "/ɛk.sky.ze mwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sorry"
     },
     {
       "id": "2b203f46-52ec-4409-b81b-ae3f723b3f5e",
@@ -113912,7 +113993,8 @@
       "ipa": "/bjɛ̃v.ny/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "welcome"
     },
     {
       "id": "bef839ab-38f8-4227-add3-3587cb9e6884",
@@ -113923,7 +114005,8 @@
       "ipa": "/bɔn nɥi/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good-night"
     },
     {
       "id": "6945b414-d704-4f82-9e85-180b71196d81",
@@ -113934,7 +114017,8 @@
       "ipa": "/a bjɛ̃.to/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "see-you"
     },
     {
       "id": "102312f7-1d0b-44f9-9cf7-37ad85e74f41",
@@ -113945,7 +114029,8 @@
       "ipa": "/a də.mɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "see-you"
     },
     {
       "id": "862dfff5-1dcf-425d-8558-dfd1a5cbdfec",
@@ -113967,7 +114052,8 @@
       "ipa": "/da.kɔʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ok"
     },
     {
       "id": "22222735-b7e2-4379-b5d0-8a323b78b450",
@@ -113989,7 +114075,8 @@
       "ipa": "/a.lo/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hello-phone"
     },
     {
       "id": "67021d55-3394-469c-8595-116ae25414f5",
@@ -114025,7 +114112,8 @@
       "context": "je vais, tu vas, il va, nous allons, vous allez, ils vont",
       "register": [
         "All"
-      ]
+      ],
+      "image": "go"
     },
     {
       "id": "1df50a5b-1822-4633-a261-38906c958f67",
@@ -114036,7 +114124,8 @@
       "ipa": "/diʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "say"
     },
     {
       "id": "1c17d554-16a2-4cf8-84fb-843be80bff26",
@@ -114048,7 +114137,8 @@
       "context": "je peux, tu peux, il peut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "can"
     },
     {
       "id": "04b12f4c-c472-4486-90d5-d976a789aac1",
@@ -114072,7 +114162,8 @@
       "context": "je sais",
       "register": [
         "All"
-      ]
+      ],
+      "image": "know"
     },
     {
       "id": "e2a458c2-20dd-4c14-8022-95e8be9ceb30",
@@ -114083,7 +114174,8 @@
       "ipa": "/vwaʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "see"
     },
     {
       "id": "b4c04ce8-39f0-4eb5-b1f3-bbe9a26f8147",
@@ -114094,7 +114186,8 @@
       "ipa": "/paʁ.le/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "speak"
     },
     {
       "id": "3b43e531-96fb-47c0-a5d0-37376fcc8cbc",
@@ -114128,7 +114221,8 @@
       "context": "je dois",
       "register": [
         "All"
-      ]
+      ],
+      "image": "must"
     },
     {
       "id": "d532b8c7-6b63-4131-a15c-3ecd15029512",
@@ -114183,7 +114277,8 @@
       "ipa": "/sɔʁ.tiʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "out"
     },
     {
       "id": "56c68157-7c15-4d7b-95ca-b0330b79aa61",
@@ -114766,7 +114861,8 @@
       "ipa": "/ɡʁɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "big"
     },
     {
       "id": "9b3e8f32-e499-470b-982f-3d8817dcdb34",
@@ -114777,7 +114873,8 @@
       "ipa": "/pə.ti/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "small"
     },
     {
       "id": "00622dd3-55f0-43a3-9928-1274898f237c",
@@ -114789,7 +114886,8 @@
       "context": "feminine bonne",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "cc910bf1-a8cc-4453-8f6f-17c7f4c5f904",
@@ -114801,7 +114899,8 @@
       "context": "bel before a vowel; feminine belle",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beautiful"
     },
     {
       "id": "60f8c18c-e3b2-4381-8388-7f01c491a1e5",
@@ -114813,7 +114912,8 @@
       "context": "nouvel before a vowel; feminine nouvelle",
       "register": [
         "All"
-      ]
+      ],
+      "image": "new"
     },
     {
       "id": "9f8b2f8e-38fe-41cf-9bde-f216ae461ce5",
@@ -114825,7 +114925,8 @@
       "context": "vieil before a vowel; feminine vieille",
       "register": [
         "All"
-      ]
+      ],
+      "image": "old"
     },
     {
       "id": "9b31df03-308a-41c2-919c-cb16aa2827a6",
@@ -114848,7 +114949,8 @@
       "context": "feminine longue",
       "register": [
         "All"
-      ]
+      ],
+      "image": "long"
     },
     {
       "id": "80dfbfc6-87cb-44f8-8e41-71eb2695d2f6",
@@ -114859,7 +114961,8 @@
       "ipa": "/kuʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "short"
     },
     {
       "id": "65774ca4-213b-407e-92f6-fde44ac08224",
@@ -114953,7 +115056,8 @@
       "context": "feminine blanche",
       "register": [
         "All"
-      ]
+      ],
+      "image": "white"
     },
     {
       "id": "3451e9f4-6280-40d2-89a2-90a7efbbcd2f",
@@ -115031,7 +115135,8 @@
       "context": "does not change for feminine or plural",
       "register": [
         "All"
-      ]
+      ],
+      "image": "brown"
     },
     {
       "id": "2f3dfc5e-dcad-4dd7-932f-595767487567",
@@ -115054,7 +115159,8 @@
       "context": "feminine première",
       "register": [
         "All"
-      ]
+      ],
+      "image": "first"
     },
     {
       "id": "47a12401-bd25-4cb1-8055-2df08820bbb7",
@@ -115065,7 +115171,8 @@
       "ipa": "/pʁɔ.ʃɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-week"
     },
     {
       "id": "6c0596ff-aab0-4fd2-bc9e-165650e1a68a",
@@ -115466,7 +115573,8 @@
       "context": "the same word as neuf, brand new",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nine"
     },
     {
       "id": "50b96b7b-1f24-4b75-9d1c-170ec3abb7ae",
@@ -115477,7 +115585,8 @@
       "ipa": "/dø/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "two"
     },
     {
       "id": "d30ebade-b834-46cd-8ac3-25567812cc87",
@@ -115488,7 +115597,8 @@
       "ipa": "/tʁwa/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "three"
     },
     {
       "id": "ad6a2730-8f86-4b4e-9319-cdd9666cdd49",
@@ -115499,7 +115609,8 @@
       "ipa": "/katʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "four"
     },
     {
       "id": "2fe3ee36-8e2f-4c5f-850f-fdde14e5da33",
@@ -115510,7 +115621,8 @@
       "ipa": "/sɛ̃k/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "five"
     },
     {
       "id": "4a9e1b67-3771-40f5-978a-775df4b4375d",
@@ -115521,7 +115633,8 @@
       "ipa": "/sis/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "six"
     },
     {
       "id": "941d3193-582d-458b-b160-a8d79f1fc068",
@@ -115532,7 +115645,8 @@
       "ipa": "/sɛt/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "seven"
     },
     {
       "id": "796e219f-a63c-41b2-9b80-4af0cc1cce7d",
@@ -115543,7 +115657,8 @@
       "ipa": "/ɥit/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "eight"
     },
     {
       "id": "c6d92076-238b-460e-9fc4-66445f53731b",
@@ -115554,7 +115669,8 @@
       "ipa": "/dis/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ten"
     },
     {
       "id": "4585c0f1-54f5-410c-a103-cba45f3f7b1c",
@@ -115578,7 +115694,8 @@
       "countability": "plural-only",
       "register": [
         "All"
-      ]
+      ],
+      "image": "parents"
     },
     {
       "id": "ec62012b-e797-4647-a29c-7e0caa1b440b",
@@ -115604,7 +115721,8 @@
       "ipa": "/sal də bɛ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bathroom"
     },
     {
       "id": "16da963c-1ae5-42c3-a910-7fc895a9796e",
@@ -115617,7 +115735,8 @@
       "countability": "plural-only",
       "register": [
         "All"
-      ]
+      ],
+      "image": "toilet"
     },
     {
       "id": "a6812ea5-e412-4513-b4c4-bb5ef513d6cc",
@@ -115656,7 +115775,8 @@
       "ipa": "/pə.ti de.ʒœ.ne/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "breakfast"
     },
     {
       "id": "01e91d1e-1a07-4606-82cc-1c2a5b2b0a8a",
@@ -115669,7 +115789,8 @@
       "ipa": "/pɔm də tɛʁ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "potato"
     },
     {
       "id": "0ab20b5f-11ae-4f2d-93c2-8878031d0789",
@@ -115683,7 +115804,8 @@
       "context": "one hair: un cheveu",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hair"
     },
     {
       "id": "48f02bdd-e9ff-4b8e-9634-2be8dabb4040",
@@ -115788,7 +115910,8 @@
       "ipa": "/sɑ̃/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hundred"
     },
     {
       "id": "ba4d7a67-dae4-4559-af07-b7139f9b0d8c",
@@ -115801,7 +115924,8 @@
       "context": "does not change in the plural: deux mille",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thousand"
     },
     {
       "id": "f68e5827-9b84-4912-9ae2-5b06806e3429",
@@ -115825,7 +115949,8 @@
       "context": "takes a singular verb: tout le monde est là",
       "register": [
         "All"
-      ]
+      ],
+      "image": "all"
     },
     {
       "id": "c12559a2-695b-48e9-abf4-1dc7a64d29b5",
@@ -116458,7 +116583,8 @@
       "ipa": "/ka.fe o lɛ/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "coffee"
     },
     {
       "id": "1a5264c6-3ae8-4145-9425-eb42c118358b",
@@ -118582,7 +118708,8 @@
       "ipa": "/mad.mwa.zɛl/",
       "register": [
         "All"
-      ]
+      ],
+      "image": "miss"
     },
     {
       "id": "60e91dab-06fe-4db0-8de7-e49ae695fd12",

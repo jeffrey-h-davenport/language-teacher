@@ -1,5 +1,41 @@
 # Changelog
 
+## 1.60.3 — 2026-11-22
+- French A1 cleanup, part 3
+  - Main meanings: chance "luck; chance" (bonne chance!), passer adds "to spend (time)", tour adds "turn" (c'est ton tour); trimmed rare senses from maison, adresse, classe, croissant and désolé; médecin is "doctor"
+  - Slang to B1: merde, putain, mec, gars (still marked vulgar or familiar)
+  - To A2: revoir, mourir, rendre, garder, tomber, cas, corps, côté, fin, vérité, instant, choix, faute, lieu, sorte, depuis, plutôt, enfin, longtemps, tellement; to B1: tant, autant, ainsi
+
+## 1.60.2 — 2026-11-22
+- French A1 cleanup, part 2
+  - Removed about 50 scraped dictionary labels that showed as notes (question "interrogation by torture", voiture "wheeled vehicle usually pulled by a horse", sujet "in a monarchy", sel "NaCl", soleil "star", minute "etymology 1"…); hand-written notes like "feminine bonne" stay, and verre, habiter, près and voilà got useful ones
+  - American English: mom, pants, subway, bike, student, apartment, color, meter, train station, soccer, bakery, doctor, god, plate, hotel, fall
+  - Subtitle words at their real level: tuer, guerre, sang, prison, coup, chef, équipe, plan, envie, droit, terre, mariage, nouvelle, retour, service, sujet, dieu (A2); arme, capitaine, agent, sécurité, confiance, état, part, cause, reste, affaire, jeune (noun), quoi "you know" (B1, marked familiar)
+  - Removed duplicates: the adjective vite and the noun peu (the adverbs remain); putain also notes its use as a swear word
+
+## 1.60.1 — 2026-11-22
+- French A1 cleanup of senses inflated by a more common look-alike
+  - Moved to their real level, English kept: est "east", pas "step", mal "harm; pain", passé "past", compte, point, vue (A2); son "sound", fait "fact", bien "good (vs. evil)", sens, marche, garde, suite, dessus, propos (B1); passe, parti, as "ace", première "premiere" (B2); aura (C1)
+  - Fixed: mort is "death" (A2); belle (noun) is B2; parfait, meilleur and pire are adjectives ("perfect", "better; best", "worse; worst"); soit is "either … or"; voici is "here is, here are"; pris "taken; busy", compris "included; understood", entendu "agreed" (bien entendu: of course)
+  - Removed duplicates: trouvé and oublié (see trouver, oublier), the noun premier and the noun impossible (the adjectives remain), and two extra affaire entries (merged into one, with "les affaires: belongings")
+
+## 1.60.0 — 2026-11-21
+- Pictures: 24 places — city, village, street, road, station, airport, bank (columns and coins), museum (columns and a painting), pharmacy, bakery, restaurant, supermarket (a cart), hotel, park, beach, garden, sea, mountain, market (an open stall), country, world, prison, office, apartment
+- French: 24 more A1 words have pictures (274 of 647)
+
+## 1.59.0 — 2026-11-21
+- Pictures: 58 new — food and drink (bread, butter, cheese, egg, milk, water, wine, beer, coffee, juice, meat, chicken, fish, vegetable, fruit, apple, tomato, salad, soup, cake, chocolate, sugar, salt, rice, pasta, lemon, croissant, potato, and meal / breakfast / lunch / dinner as a place setting under a rising sun, high sun or moon) and the home (house, door, window, table, chair, bed, bedroom, kitchen, living room, bathroom, toilet, shower, phone, computer, television, radio, book, notebook, pen, pencil, glass, cup, plate, knife, fork, spoon)
+- French: 59 more A1 words have pictures (250 of 647)
+
+## 1.58.0 — 2026-11-21
+- French: pictures for 191 A1 words, from the shared picture library (people, places, numbers, months, everyday verbs and adjectives, time and place words, pronouns, conjunctions and greetings). Each was matched by meaning, not just by the English gloss — e.g. encore gets "still", bonjour the high sun, voilà "here you go", se the mirror
+
+## 1.57.5 — 2026-11-21
+- Pictures: the how-often calendars (aina, usein, joskus, koskaan, ikinä, perjantaisin) now start the week on Sunday, with the weekend days shaded, so Friday is the day just before the shaded Saturday
+
+## 1.57.4 — 2026-11-21
+- Pictures: helvetti "hell" (a figure standing in flames, arms raised)
+
 ## 1.57.3 — 2026-11-21
 - Pictures: aivan, ihan, tosi, oikein and hyvin "very, quite" — a knob turned all the way up (the counterpart of yhtään's knob turned down to 0)
 
