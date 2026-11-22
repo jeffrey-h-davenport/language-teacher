@@ -69,7 +69,10 @@
 
     <div class="quiz-body">
       <div class="question-row">
-        <div id="direction-badge" class="direction-badge">English → German</div>
+        <div class="question-row-left">
+          <div id="direction-badge" class="direction-badge">English → German</div>
+          <span id="word-level-badge" class="cefr-badge word-level-badge hidden" title="The level of this word"></span>
+        </div>
         <div class="word-actions">
           <button id="picture-toggle-btn" class="btn-picture-toggle hidden" title="Quiz words that have a picture with pictures instead of English"></button>
           <button id="mark-learned-btn" class="btn-mark-learned learner-only hidden">Mark as Learned</button>
@@ -108,6 +111,88 @@
       <button id="next-btn" class="btn-primary next-btn hidden">
         Next Word →
       </button>
+    </div>
+  </div>
+
+  <!-- ── Inflections Quiz Screen ─────────────────────────── -->
+  <!-- Match each form label (e.g. "masculine · locative · singular") with its
+       inflected form by dragging one onto the other, or clicking one then the other. -->
+  <div id="infl-screen" class="screen">
+    <div class="quiz-header">
+      <button id="infl-quit-btn" class="btn-ghost">Quit</button>
+      <div class="progress-group">
+        <span id="infl-counter" class="counter-text">1 / 5</span>
+        <div class="progress-bar">
+          <div id="infl-progress-fill" class="progress-fill"></div>
+        </div>
+      </div>
+      <div id="infl-score" class="score-chip">0 pts</div>
+    </div>
+
+    <div class="quiz-body">
+      <div class="question-row">
+        <div class="question-row-left">
+          <div class="direction-badge">🔤 Match each form</div>
+          <span id="infl-level-badge" class="cefr-badge hidden"></span>
+        </div>
+      </div>
+
+      <div class="question-card infl-card">
+        <div id="infl-word" class="word-display"></div>
+        <div id="infl-meaning" class="intro-meaning"></div>
+        <div id="infl-pos" class="word-pos"></div>
+        <div class="word-progress-row">
+          <div class="word-progress-bar">
+            <div id="infl-word-progress-fill" class="word-progress-fill"></div>
+          </div>
+          <span id="infl-word-progress-label" class="word-progress-label"></span>
+        </div>
+      </div>
+
+      <div class="infl-columns">
+        <div class="infl-column">
+          <div class="infl-column-title">Form</div>
+          <div id="infl-labels" class="infl-list"></div>
+        </div>
+        <div class="infl-column">
+          <div class="infl-column-title">Word</div>
+          <div id="infl-forms" class="infl-list"></div>
+        </div>
+      </div>
+
+      <div id="infl-feedback" class="feedback-bar hidden">
+        <span id="infl-feedback-icon"></span>
+        <span id="infl-feedback-text"></span>
+      </div>
+
+      <button id="infl-next-btn" class="btn-primary next-btn hidden">Next Word →</button>
+    </div>
+  </div>
+
+  <!-- ── Inflections Summary Screen ──────────────────────── -->
+  <div id="infl-summary-screen" class="screen">
+    <div class="summary-content">
+      <h2>Forms Session Complete!</h2>
+      <div class="stats-row">
+        <div class="stat-card">
+          <span id="infl-stat-score" class="stat-value">0</span>
+          <span class="stat-label">Points</span>
+        </div>
+        <div class="stat-card">
+          <span id="infl-stat-accuracy" class="stat-value">0%</span>
+          <span class="stat-label">First-Try Matches</span>
+        </div>
+        <div class="stat-card">
+          <span id="infl-stat-learned" class="stat-value">0</span>
+          <span class="stat-label">Forms Learned</span>
+        </div>
+      </div>
+      <div class="results-list" id="infl-results-list"></div>
+      <div class="summary-actions">
+        <button id="infl-new-session-btn" class="btn-primary">More Forms</button>
+        <button id="infl-vocab-btn" class="btn-secondary">Vocabulary Quiz</button>
+        <button id="infl-load-file-btn" class="btn-secondary">Choose a Different Language</button>
+      </div>
     </div>
   </div>
 
@@ -263,6 +348,12 @@
       <div class="form-group" id="edit-grammar-group">
         <label for="edit-grammar">Grammar</label>
         <input type="text" id="edit-grammar" autocomplete="off" spellcheck="false" placeholder="e.g. genitive sg, past 3sg masc.">
+      </div>
+
+      <div class="form-group" id="edit-infl-threshold-group">
+        <label for="edit-infl-threshold">Points per form</label>
+        <input type="number" id="edit-infl-threshold" min="1" max="20" placeholder="default">
+        <span class="form-hint">Correct matches each inflected form needs before it counts as learned. Raise it for words with irregular forms.</span>
       </div>
 
       <div class="form-group" id="edit-gender-group">

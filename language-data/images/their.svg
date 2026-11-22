@@ -1,14 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
   <rect x="4" y="4" width="22" height="14" rx="4" stroke-width="2.5"/>
   <path d="M12 18l-2 6 7-6" stroke-width="2.5"/>
-  <circle cx="14" cy="50.5" r="5.25"/>
-  <path d="M14 55.75V76M14 76l-5.25 18M14 76l5.25 18M14 60.25l8 12M14 60.25l8 12"/>
-  <circle cx="38" cy="50.5" r="5.25"/>
-  <path d="M38 55.75V76M38 76l-5.25 18M38 76l5.25 18M38 60.25l-8 12M38 60.25l-8 12"/>
-  <circle class="pic-accent-line" cx="64" cy="50.5" r="5.25"/>
-  <path class="pic-accent-line" d="M64 55.75V76M64 76l-5.25 18M64 76l5.25 18M64 60.25l-7 -12M64 60.25l7 -12"/>
-  <circle class="pic-accent-line" cx="86" cy="50.5" r="5.25"/>
-  <path class="pic-accent-line" d="M86 55.75V76M86 76l-5.25 18M86 76l5.25 18M86 60.25l-7 -12M86 60.25l7 -12"/>
-  <rect class="pic-accent" x="58" y="26" width="12" height="12" rx="1.5" stroke-width="2"/>
-  <rect class="pic-accent" x="80" y="26" width="12" height="12" rx="1.5" stroke-width="2"/>
+  <circle cx="12" cy="44.7" r="5.95"/>
+  <path d="M12 50.65V73.6M12 73.6l-5.95 20.4M12 73.6l5.95 20.4M12 55.75l-6 13M12 55.75l6 13"/>
+  <circle cx="30" cy="44.7" r="5.95"/>
+  <path d="M30 50.65V73.6M30 73.6l-5.95 20.4M30 73.6l5.95 20.4M30 55.75l-6 13M30 55.75l6 13"/>
+  <circle class="pic-accent-line" cx="52" cy="41.8" r="6.3"/>
+  <path class="pic-accent-line" d="M52 48.1V72.4M52 72.4l-6.3 21.6M52 72.4l6.3 21.6M52 53.5l-6 14M52 53.5l14 -12"/>
+  <circle class="pic-accent-line" cx="88" cy="41.8" r="6.3"/>
+  <path class="pic-accent-line" d="M88 48.1V72.4M88 72.4l-6.3 21.6M88 72.4l6.3 21.6M88 53.5l-14 -12M88 53.5l6 14"/>
+  <rect class="pic-accent" x="60" y="30" width="20" height="18" rx="2" stroke-width="2.5"/>
 </svg>

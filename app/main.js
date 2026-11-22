@@ -230,6 +230,18 @@ ipcMain.handle('save-preferences', (_event, data) => {
   }
 })
 
+// The vocabulary meta (first in the file) flags inflecting languages; peek at
+// the start of the file rather than parsing a large word list just to list it.
+function vocabularyHasInflections(slug) {
+  try {
+    const fd = fs.openSync(vocabularyPath(slug), 'r')
+    const buf = Buffer.alloc(4096)
+    const n = fs.readSync(fd, buf, 0, buf.length, 0)
+    fs.closeSync(fd)
+    return /"hasInflections"\s*:\s*true/.test(buf.toString('utf8', 0, n))
+  } catch { return false }
+}
+
 ipcMain.handle('list-content', async () => {
   const files = fs.readdirSync(BUNDLED_DATA_DIR)
   const slugs = new Set()
@@ -245,6 +257,7 @@ ipcMain.handle('list-content', async () => {
       languageCode:  info.languageCode,
       hasVocabulary: files.includes(`${slug}-vocabulary.json`),
       hasReading:    files.includes(`${slug}-reading.json`),
+      hasInflections: vocabularyHasInflections(slug),
     }
   }).sort((a, b) => a.language.localeCompare(b.language))
 })

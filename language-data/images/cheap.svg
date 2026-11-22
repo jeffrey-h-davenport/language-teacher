@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path class="pic-accent" d="M10 46l30-30h28v28L38 74z"/>
+  <circle cx="58" cy="26" r="4" fill="#fff" stroke="none"/>
+  <text x="40" y="54" font-family="-apple-system, Helvetica, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#fff" stroke="none">€</text>
+  <ellipse cx="74" cy="88" rx="14" ry="5" stroke-width="2.5"/>
+</svg>

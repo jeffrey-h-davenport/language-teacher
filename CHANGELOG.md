@@ -1,5 +1,99 @@
 # Changelog
 
+## 0.70.1 — 2026-11-22
+- Czech A1 and A2 cleanup
+  - Core words that were scraped with a rare meaning now have the everyday one: jak "how" (was "yak", with yak case forms), jen "only" (was "yen"), moc "very, a lot" (was "power"), bez "without" (was the elder plant), líto "sorry" (was a dialect word for summer), třeba "maybe; needed" (was "a pagan offering"), dál "further; come in!", no "well; yeah", aha "I see" (was "toilet"), druh "kind, type" (was "companion")
+  - Prepositions filed as nouns or adverbs are prepositions again, with their case: pro "for", proti "against", podle "according to" (was "wickedly"), bez "without"
+  - Moved out of A1: já "ego", té "the letter T", the vocatives mami and tati, and pět "to sing" (to C2); slang and swearing (to B1–B2); and about 30 words that aren't beginner words (zbraň, pravda, srdce, nápad, most city names…), to A2. Out of A2: duplicate and junk senses, crime-show vocabulary (vrah, vězení, vyšetřování…) and a few rare words, to B1 and up
+  - Plain meanings for about 140 A1 and A2 words (dům "house", noc "night", přijít "to come", jet "to go by vehicle", měsíc "month; moon", obchod "store, shop"…); reflexive verbs note their "se" (podívat se, zeptat se, bát se); scraped dictionary notes removed
+  - Czech A1 is now 256 words and A2 316
+
+## 0.70.0 — 2026-11-22
+- New Inflections quiz, a separate mode for languages whose words change form (Czech for now)
+  - Each round shows one word: the kinds of form on the left ("masculine · locative · singular", "past · she") and the forms themselves, shuffled, on the right. Drag either one onto its match, or click one and then the other. A correct pair turns green; a wrong one shakes red and costs that form a point
+  - Forms come up for words whose meaning you have started in the Vocabulary Quiz, lowest level first, up to six forms per round: singular before plural, masculine before feminine and neuter
+  - Each form is learned after 3 first-try matches (a word with irregular forms can be set higher in the editor, "Points per form"). A word now counts as learned only when its meaning and all its forms are learned; the word list shows "✓ meaning · forms 3 / 25" until then
+- Czech: the 127,000 separate inflected-form entries are now stored with their headwords (8,052 words, 126,871 forms) and no longer come up in the Vocabulary Quiz. Your progress on forms carried over. Dropped along the way: 38 forms of a verb missing from the list ("hurry uped") and 8 "present negative" forms filed under the wrong verb
+- Reading: hovering an inflected Czech word still shows its meaning
+
+## 0.69.2 — 2026-11-22
+- German: bescheiden now means "modest" (was "humble")
+
+## 0.69.1 — 2026-11-22
+- German: nüchtern (B2) now means "sober" (was "mundane")
+
+## 0.69.0 — 2026-11-22
+- Quiz: each question shows the level of the word being asked (for example "Word: A2") next to the direction badge, in the same colors as the word list; the header chip now reads "Your level: A1" for the level you're working through
+
+## 0.68.5 — 2026-11-22
+- German A1 levels reviewed against the standard A1 word lists: 19 words moved to A2 (sollen, verlieren, Grund, Geschichte, Nachricht, Glück, Luft, Feuer, Ding, Art, Turm, Schild, klar, komisch, zufrieden, danken, deshalb, vorbeigehen, verbringen) and 2 to B1 (hassen, eintreten). German A1 is now 585 words
+
+## 0.68.4 — 2026-11-22
+- Pictures: "try" is now a basketball player about to shoot at a hoop, with the ball's path dotted toward the basket
+
+## 0.68.3 — 2026-11-22
+- Pictures: "our", "your" (plural) and "their" now show two people holding one thing together, so it reads as shared, with the others standing apart; for "your" (plural) the speaker points at the pair
+
+## 0.68.2 — 2026-11-22
+- Swedish: removed the entry "går" = "yesterday", which the word list had split off from "i går" (yesterday is igår; går on its own means "goes")
+
+## 0.68.1 — 2026-11-22
+- Pictures: yesterday, today and tomorrow are now a one-week calendar with today highlighted; yesterday has an arrow looping back to the day before, tomorrow an arrow looping forward to the day after
+
+## 0.68.0 — 2026-11-22
+- Swedish A1 is in sync with French, German, Spanish and Finnish
+  - A1 is now 658 words (was 456); 651 have pictures (the rest are inte, ska, vara, som, för, en, sin)
+  - Added 287 everyday words Swedish lacked: food, home, places, clothes, body, family, colors, days, months, numbers, pronouns (jag, du, vi, ni, min, din…) and greetings (god morgon, hej då, vi ses…)
+  - Cleaned the scraped A1 junk: två was "to wash", vad "a bet", men "a handicap", under "a miracle", eftersom "over time"; these now have their real meaning. Rare homographs moved out of A1 (var "pus", så "to sow", fyra "to fire", flicka "to repair", tala "a Samoan coin", bor "boron", sedan "a sedan"…), slang moved to B1, and about 110 real but less basic words moved to A2
+  - Removed scraped dictionary notes from A1 words ("to out", "similar senses to English"…)
+
+## 0.67.0 — 2026-11-22
+- Finnish A1 is in sync with French, German and Spanish
+  - A1 is now 655 words (was 318); 641 have pictures. The rest are the grammar endings, olla and voi ("oh!")
+  - Added the everyday words Finnish A1 lacked: food, home, places, clothes, body, family, colors, days, weather, school and travel words (koira, talo, vesi, leipä, punainen, maanantai, juna…), plus phrases like minulla on, ei mitään, ei kukaan, mennä nukkumaan
+  - About 290 of them were already in the list at higher levels or with bad glosses (kirja "collection of sheets…", koira "Canis lupus familiaris") and now have plain meanings
+  - Colors, ei, kyllä, joo, nuori, sairas, köyhä and väärä were listed as nouns or verbs; they now have the right part of speech
+  - Moved to A2 or B1: edes, yhtä, ainakin, jopa, hauskaa, tappaa, hitto, paska
+
+## 0.66.1 — 2026-11-22
+- Spanish leans Castilian
+  - Spain's words are the plain entries: coche, ordenador, zumo, patata, móvil, plátano, billete, nevera, salón, vale
+  - The Latin American words are separate entries with a note naming the Spain word: carro, computadora, jugo, papa, celular, banana, boleto, refrigerador, sala
+  - Added to A1: vosotros, vuestro, vuestros, tarta, deberes, piso (apartment); usted and ustedes explain where each is used; almuerzo notes that lunch in Spain is la comida
+
+## 0.66.0 — 2026-11-22
+- Spanish A1 is in sync with French and German: the same concepts, with pictures
+  - A1 is now 641 words; 629 have pictures (the rest are the articles, ser, estar, hay, por, para and desde)
+  - Added 137 words Spanish A1 lacked: pronouns (yo, tú, él, ella, usted…), greetings (hola, buenos días, buenas noches, por favor, de nada…), numbers, phrases (a veces, tener que, al lado de, fin de semana…) and everyday words
+  - Fixed 35 core words that were scraped with the wrong meaning or part of speech: yo was "Freud's ego", mi "the Greek letter mu", dos "dung", claro "sunny spell", vale "voucher", o "the letter O"; colors, no, sí, pero, qué, cómo, dónde and gracias are no longer nouns
+  - Corrected meanings and levels on about 460 more, and moved about 160 scraped words out of A1 (letter names, wrong senses like haber "asset" and vivir "life", and slang)
+  - Removed dictionary-definition notes from A1 words and kept the useful ones (feminine and masculine forms, usage hints)
+
+## 0.65.0 — 2026-11-22
+- Pictures: 52 more for concepts French and German share — objects (key, bottle, banana, pear, jacket, couch, refrigerator, closet, balcony, passport, newspaper, mailbox, menu, sign, bus stop, bar, company, lake, weather), actions (sit, stand, lie, laugh, fly, send, sell, order, pick up, become), people (siblings, grandparents, stomach) and ideas (correct, wrong, mistake, example, information, Internet, break, hobby, free time, between, above, until, later, slow, cheap, high, poor, broken, clear, gladly)
+- French: 613 of 629 A1 words have pictures (the rest are articles and the words set aside)
+- German: 599 of 606 A1 words have pictures (the rest are sein, sollen, seit, für, um, nicht, verbringen)
+
+## 0.64.0 — 2026-11-22
+- German pictures: German A1 words now use the shared picture library (about 550 words), so German can be quizzed with pictures too
+- French and German A1 are in sync by concept (one picture = one concept; synonyms share a picture): German gained guten Tag, Ehemann, zu Hause, Weg, welcher, gern geschehen, vorher, aufhören, deshalb, zu viel and more; French gained de nouveau, permettre, une fois and pictures for the words added in 0.63.0
+- The only concepts left in one language are French grammar splits (mes/tes/nos plurals, Madame, Mademoiselle)
+
+## 0.63.0 — 2026-11-22
+- French and German A1 brought into sync
+  - Both now cover a shared list of 286 core A1 concepts: pronouns, question words, greetings, numbers, days, months, seasons, time words, colors, core adverbs, conjunctions, prepositions, family, body, food, home, places, core verbs and adjectives
+  - German gained 96 A1 words it lacked (ich, du, er…, hallo, danke, tschüss, heute, hier, jetzt, sehr, nicht, mein/dein…, nichts, jemand, Pferd, Kleid, Strand…) and about 50 existing words moved down to A1 (Tür, Fenster, Katze, Musik…)
+  - French gained 13 (s'asseoir, plus tard, bon marché, lac, valise, piscine, bouteille, recevoir…) and about 60 existing words moved down to A1 (devenir, vendre, envoyer, lettre…)
+  - Fixed: German Balkon was "backlight shelf", Käse "baloney", Zahn "cog", kalt "chilling", warten "maintain"; German numbers are lowercase; one of the two Bank entries is now "bench"
+  - A1 is now 590 words in German and 626 in French
+
+## 0.62.1 — 2026-11-22
+- German A1 cleanup (A1 now 395 words, was 644)
+  - Removed 51 scraped entries: nouns made from verbs that duplicate the verb (das Lernen, das Reisen, das Sehen…), wrong-sense duplicates (Mensch "baggage", Ort "awl", Tag "tag", Tee "tee", Ei/Acht/Tausend extras…), and look-alikes (Weiß, Muss, Sage, Aus)
+  - Fixed wrong meanings on core words: Jahr "year", Zeit "time", Mann "man; husband", Ei "egg", Hund "dog", Fleisch "meat", Wein "wine", Schwester "sister", kaufen "to buy", lieben "to love", schreiben "to write", haben "to have", groß "big", krank "sick", teuer "expensive", and about 100 more; ja, nein and bitte are interjections
+  - Moved inflated words to their real level: about 150 to A2 (Termin, Prüfung, erklären, empfehlen, möglich…) and about 40 to B1 or B2 (Ergebnis, Studium, Lösung, töten, international…)
+  - Brought basics down to A1: the days of the week (were B1–B2), the months (B2), colors (B1–C1), the numbers six to ten, week, month, weekend and the seasons
+
 ## 0.62.0 — 2026-11-22
 - Pictures: 33 more for abstract words and phrases — need, life, occasions ("3" on a timeline), reason, luck (dice), story, first aid, kind/type, attention, lesson, word, sentence, pleasure, tower, homework, message, card, age, hunger, address, language, meter, classroom, twenty, knowing someone, visit, each, easy, interesting, fresh, please, you're welcome, well…
 - French: 40 more A1 words have pictures (534 of 551; the rest are the articles and the words set aside)

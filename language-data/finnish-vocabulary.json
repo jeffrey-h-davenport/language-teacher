@@ -749,14 +749,15 @@
     },
     {
       "id": "1cef496b-f3ae-4261-9468-18cc1cab43c2",
-      "part-of-speech": "verb",
-      "english": "not",
+      "part-of-speech": "adverb",
+      "english": "no; not",
       "finnish": "ei",
       "cefr": "A1",
       "ipa": "[e̞i̯]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "no"
     },
     {
       "id": "319cf95a-bd7c-499b-bdc1-76f3c98c972f",
@@ -922,14 +923,15 @@
     {
       "id": "e4763198-e083-4cba-931e-425c5de5a90c",
       "part-of-speech": "adverb",
-      "english": "then (soon afterward)",
+      "english": "then, after that",
       "finnish": "sitten",
       "cefr": "A1",
       "ipa": "[ˈsit̪ːe̞n]",
       "context": "soon afterward; next in order of place",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-step"
     },
     {
       "id": "0cdced37-a938-4838-adb3-ea9dbc0abe64",
@@ -958,25 +960,26 @@
     {
       "id": "8a689d5a-044d-4e76-af91-093716dfe813",
       "part-of-speech": "adverb",
-      "english": "from it, about it; from there",
+      "english": "from there; about it",
       "finnish": "siitä",
       "cefr": "A1",
       "ipa": "[ˈsiːt̪æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "from-there"
     },
     {
       "id": "3928a92f-ae85-44f6-88b5-e35bf1e516d9",
-      "part-of-speech": "adverb",
+      "part-of-speech": "interjection",
       "english": "yes",
       "finnish": "kyllä",
       "cefr": "A1",
       "ipa": "[ˈkylːæ]",
-      "context": "also adds emphasis: kyllä minä tiedän, I do know",
       "register": [
         "All"
-      ]
+      ],
+      "image": "yes"
     },
     {
       "id": "9a71643e-1229-4577-9673-50cf08876185",
@@ -1045,13 +1048,14 @@
     {
       "id": "78092968-a058-4825-836a-a4627eca7b01",
       "part-of-speech": "adverb",
-      "english": "here",
+      "english": "here (right here)",
       "finnish": "tässä",
       "cefr": "A1",
       "ipa": "[ˈt̪æsːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "here"
     },
     {
       "id": "7870a77c-e31e-4f44-908c-813b7ecee752",
@@ -1204,13 +1208,14 @@
     {
       "id": "1db700ec-cf2b-4cae-8953-b9c88d9e19b6",
       "part-of-speech": "adverb",
-      "english": "there; in it",
+      "english": "there (right there); in it",
       "finnish": "siinä",
       "cefr": "A1",
       "ipa": "[ˈsiːnæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "there"
     },
     {
       "id": "29fabc80-8796-40bd-bcc3-9945e36479c3",
@@ -1360,7 +1365,8 @@
       "ipa": "[ˈt̪æst̪æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "from-here"
     },
     {
       "id": "d626fc9d-38f9-49b4-b6da-90170fc1c280",
@@ -1479,13 +1485,14 @@
     {
       "id": "819d9310-1437-4dc4-b1b4-859a88f550b3",
       "part-of-speech": "adverb",
-      "english": "(in)to it; there",
+      "english": "(to) there, into it",
       "finnish": "siihen",
       "cefr": "A1",
       "ipa": "[ˈsiːhe̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "to-there"
     },
     {
       "id": "6d7eec50-4d53-4737-90dd-f6bea5e679f2",
@@ -1517,7 +1524,7 @@
       "part-of-speech": "adverb",
       "english": "even",
       "finnish": "edes",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈe̞de̞s]",
       "register": [
         "All"
@@ -1558,7 +1565,8 @@
       "context": "after the genitive: hänen mukaansa, according to him",
       "register": [
         "All"
-      ]
+      ],
+      "image": "along"
     },
     {
       "id": "b1721742-b91a-4d12-9df3-b2b6fd9fe600",
@@ -1842,7 +1850,8 @@
       "ipa": "[ˈt̪æhæn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "to-here"
     },
     {
       "id": "4ad8d8a6-c66e-4117-8a52-86391e301bca",
@@ -2045,7 +2054,7 @@
     },
     {
       "id": "c6ae48e8-01a5-4f33-8749-03d2ff980ffc",
-      "part-of-speech": "adverb",
+      "part-of-speech": "interjection",
       "english": "yeah, yes",
       "finnish": "joo",
       "cefr": "A1",
@@ -2055,7 +2064,8 @@
         "arkikieli",
         "slangi",
         "alatyyli"
-      ]
+      ],
+      "image": "yes"
     },
     {
       "id": "6c957129-919b-490a-9989-1d849dcf1a58",
@@ -2159,7 +2169,7 @@
       "part-of-speech": "adverb",
       "english": "equally, as (… as)",
       "finnish": "yhtä",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈyht̪æ]",
       "context": "yhtä iso kuin: as big as",
       "register": [
@@ -2171,7 +2181,7 @@
       "part-of-speech": "verb",
       "english": "to kill, slay",
       "finnish": "tappaa",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "[ˈt̪ɑpːɑː]",
       "register": [
         "All"
@@ -2219,7 +2229,7 @@
       "part-of-speech": "interjection",
       "english": "have fun!",
       "finnish": "hauskaa",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈhɑu̯skɑː]",
       "context": "pitää hauskaa: to have fun; hauskaa viikonloppua! have a nice weekend!",
       "register": [
@@ -2638,13 +2648,14 @@
     {
       "id": "5e109c8e-7392-471a-a310-a6cdf2476299",
       "part-of-speech": "adjective",
-      "english": "right; correct, real",
+      "english": "right, correct",
       "finnish": "oikea",
       "cefr": "A1",
       "ipa": "[ˈo̞i̯ke̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "correct"
     },
     {
       "id": "2fb49c5a-1727-4a73-86ed-742d3496e514",
@@ -2910,13 +2921,14 @@
     {
       "id": "e858b755-7ea6-41b5-b586-2adf764943b2",
       "part-of-speech": "adjective",
-      "english": "kind, good (well-behaved)",
+      "english": "kind, nice (well-behaved)",
       "finnish": "kiltti",
       "cefr": "A1",
       "ipa": "[ˈkilt̪ːi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nice"
     },
     {
       "id": "c24abfa7-fff2-4923-bfce-5a054ac57cef",
@@ -2933,20 +2945,21 @@
     {
       "id": "9c8042cf-944f-47a8-9ef2-30b58b03e7cf",
       "part-of-speech": "adjective",
-      "english": "nice, pleasant",
+      "english": "nice, fine",
       "finnish": "kiva",
       "cefr": "A1",
       "ipa": "[ˈkiʋɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "691d4ef1-db46-4b20-b400-1ef582c5cbb5",
       "part-of-speech": "adverb",
       "english": "at least",
       "finnish": "ainakin",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈɑi̯nɑkin]",
       "register": [
         "All"
@@ -3069,7 +3082,7 @@
       "part-of-speech": "interjection",
       "english": "damn it",
       "finnish": "hitto",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "[ˈhit̪ːo̞]",
       "register": [
         "arkikieli",
@@ -3107,7 +3120,7 @@
       "part-of-speech": "noun",
       "english": "shit, crap, turd",
       "finnish": "paska",
-      "cefr": "A1",
+      "cefr": "B1",
       "ipa": "[ˈpɑskɑ]",
       "plural": "paskat",
       "context": "excrement",
@@ -3141,7 +3154,8 @@
       "ipa": "[ˈhie̞̯no̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "good"
     },
     {
       "id": "f26c9282-108c-44c8-91b7-c79329fe7c5e",
@@ -3172,7 +3186,7 @@
       "part-of-speech": "adverb",
       "english": "even (implying an extreme)",
       "finnish": "jopa",
-      "cefr": "A1",
+      "cefr": "A2",
       "ipa": "[ˈjo̞pɑ]",
       "context": "implying an extreme, such as when comparing to one's expectations",
       "register": [
@@ -3214,7 +3228,8 @@
       "ipa": "[ˈhɑu̯skɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pleasure"
     },
     {
       "id": "9d9d85fa-7333-41fa-bcb2-23b31939eaee",
@@ -3449,7 +3464,8 @@
       "ipa": "[ˈse̞lːɑi̯ne̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "like-that"
     },
     {
       "id": "378e4cbe-f443-4f60-8092-a96857b8c74a",
@@ -3514,14 +3530,15 @@
     },
     {
       "id": "2a13c7fa-c6c6-493c-8e26-3d0b3fa898e3",
-      "part-of-speech": "preposition",
+      "part-of-speech": "adverb",
       "english": "in the year",
       "finnish": "vuonna",
       "cefr": "A1",
       "ipa": "[ˈʋuo̞̯nːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "year"
     },
     {
       "id": "e8d5df38-3572-4f63-a440-0bb8d36975cd",
@@ -3664,13 +3681,14 @@
     {
       "id": "882672e1-7584-4b70-b48d-8e6a82ed759a",
       "part-of-speech": "verb",
-      "english": "to ask, inquire/enquire",
+      "english": "to ask",
       "finnish": "kysyä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkysyæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ask"
     },
     {
       "id": "3d284bb1-21ba-4650-91a4-d2257194154f",
@@ -3711,14 +3729,14 @@
     {
       "id": "4ab5ce7d-2bd1-48d2-b9e9-23aec9d6ea4c",
       "part-of-speech": "verb",
-      "english": "to visit, go to, attend",
+      "english": "to visit; to go (and come back)",
       "finnish": "käydä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkæy̯dæ]",
-      "context": "go to: and return; attend: a place",
       "register": [
         "All"
-      ]
+      ],
+      "image": "visit"
     },
     {
       "id": "48ebf9fe-afe2-41a8-8cba-39bf821eabb0",
@@ -3738,24 +3756,25 @@
       "part-of-speech": "adverb",
       "english": "behind",
       "finnish": "takana",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑkɑnɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "behind"
     },
     {
       "id": "9e135739-14cc-45d9-8e90-0565249730db",
       "part-of-speech": "noun",
       "english": "child",
       "finnish": "lapsi",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈlɑpsi]",
       "plural": "lapset",
-      "context": "person who is below the age of adulthood",
       "register": [
         "All"
-      ]
+      ],
+      "image": "child"
     },
     {
       "id": "1420f304-1bba-4ac7-9f1d-cb13c4f4e857",
@@ -3817,13 +3836,14 @@
     {
       "id": "127fdd2c-b9d8-4c74-ac95-7e55dc1d937e",
       "part-of-speech": "adverb",
-      "english": "inside (in the position inside something)",
+      "english": "inside",
       "finnish": "sisällä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈsisælːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "inside"
     },
     {
       "id": "c5d14ecb-71e7-42cb-a1bc-085885b10d7b",
@@ -3864,25 +3884,26 @@
       "part-of-speech": "noun",
       "english": "question",
       "finnish": "kysymys",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkysymys]",
       "plural": "kysymykset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "question"
     },
     {
       "id": "66ff6fcd-b2ab-4407-9f98-2d0308516a2c",
       "part-of-speech": "noun",
       "english": "door",
       "finnish": "ovi",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈo̞ʋi]",
       "plural": "ovet",
-      "context": "portal of entry into a building, room, or vehicle",
       "register": [
         "All"
-      ]
+      ],
+      "image": "door"
     },
     {
       "id": "9cefcf22-6aba-4bdf-bcd0-b8372e576699",
@@ -3921,13 +3942,14 @@
     {
       "id": "48b8d630-8264-4b1e-91b1-ba361595adff",
       "part-of-speech": "verb",
-      "english": "to modify, change, alter, amend",
+      "english": "to change; to move (house)",
       "finnish": "muuttaa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈmuːt̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "change"
     },
     {
       "id": "3e10de47-6cf6-49ef-ba49-af569fb0688b",
@@ -3958,13 +3980,13 @@
       "part-of-speech": "noun",
       "english": "life",
       "finnish": "elämä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈe̞læmæ]",
       "plural": "elämät",
-      "context": "state of being alive and living; period during which one is or was alive; essence of the manifestation; world in general, existence; worthwhile existence; (games) one of the player's chances to play",
       "register": [
         "All"
-      ]
+      ],
+      "image": "life"
     },
     {
       "id": "701c304d-cfb4-4bdf-8785-1ddef6612b30",
@@ -3981,13 +4003,14 @@
     {
       "id": "f4e5de33-7ee9-427f-bd03-993c0dd5c7c0",
       "part-of-speech": "verb",
-      "english": "to stop, end, finish, quit",
+      "english": "to stop, to quit",
       "finnish": "lopettaa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈlo̞pe̞t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "stop"
     },
     {
       "id": "6715524c-c651-45a7-923b-6380846e06c6",
@@ -4098,13 +4121,14 @@
     {
       "id": "dbcdab25-a632-498b-9270-c57021b7bfa9",
       "part-of-speech": "verb",
-      "english": "to return, come back, go back, get back",
+      "english": "to return, to come back",
       "finnish": "palata",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpɑlɑt̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "go-home"
     },
     {
       "id": "81fa53d3-2ed4-4404-be8c-eec32cd1b3f0",
@@ -4239,37 +4263,39 @@
     },
     {
       "id": "b7ca43e1-a472-4a3f-a3ce-1f6d13e1f7ae",
-      "part-of-speech": "noun",
-      "english": "young; a young person",
+      "part-of-speech": "adjective",
+      "english": "young",
       "finnish": "nuori",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈnuo̞̯ri]",
       "register": [
         "All"
       ],
-      "plural": "nuoret"
+      "image": "young"
     },
     {
       "id": "4b46b691-7406-4682-91d6-20bdceb3dbcb",
-      "part-of-speech": "adverb",
-      "english": "beneath, underneath, below",
+      "part-of-speech": "postposition",
+      "english": "under",
       "finnish": "alla",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈɑlːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "under"
     },
     {
       "id": "413f2624-1d2f-4aa8-997b-30d4d66339cd",
       "part-of-speech": "adverb",
-      "english": "open (not closed or locked)",
+      "english": "open",
       "finnish": "auki",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈɑu̯ki]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "open"
     },
     {
       "id": "b63adcae-6d37-4b8a-9442-1b25dc924b87",
@@ -4366,13 +4392,14 @@
     {
       "id": "ef20e381-f6b7-472f-ad67-134e88062cb5",
       "part-of-speech": "adjective",
-      "english": "happy, merry, cheerful, joyful, joyous, mirthy, delighted",
+      "english": "happy, glad",
       "finnish": "iloinen",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈilo̞i̯ne̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "happy"
     },
     {
       "id": "e9b7ee4b-c06b-43ef-a5d2-87b2611e3755",
@@ -4409,14 +4436,15 @@
     },
     {
       "id": "9e146545-efd9-45ca-98d3-db75c848a7d0",
-      "part-of-speech": "adverb",
-      "english": "ahead",
+      "part-of-speech": "postposition",
+      "english": "in front of",
       "finnish": "edessä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈe̞de̞sːæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "in-front-of"
     },
     {
       "id": "c1ced831-32ad-4b86-8d5a-31dc1f12fee3",
@@ -4455,14 +4483,15 @@
     {
       "id": "bc00744d-a484-48da-8154-80239b16892f",
       "part-of-speech": "noun",
-      "english": "fibre, filament",
+      "english": "reason; fault",
       "finnish": "syy",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[syː]",
       "plural": "syyt",
       "register": [
         "All"
-      ]
+      ],
+      "image": "reason"
     },
     {
       "id": "ff2aaf6f-bdc4-4536-9957-a9e6a677661e",
@@ -4503,13 +4532,14 @@
     {
       "id": "decd2bd0-b4d5-4689-aedc-9d5ee29c3045",
       "part-of-speech": "adverb",
-      "english": "how much?",
+      "english": "how much",
       "finnish": "paljonko",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpɑljo̞ŋko̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "how-much"
     },
     {
       "id": "63426240-8789-4aa6-8122-ad311a4359a0",
@@ -4537,25 +4567,27 @@
     {
       "id": "aa3bb469-fcc9-4508-8699-a2442c0f600c",
       "part-of-speech": "adverb",
-      "english": "far, far away, afar",
+      "english": "far, far away",
       "finnish": "kaukana",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkɑu̯kɑnɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "far"
     },
     {
       "id": "c7fb3648-deac-4f4a-949a-bc94e06c28a7",
       "part-of-speech": "noun",
       "english": "idea",
       "finnish": "idea",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈide̞ɑ]",
       "plural": "ideat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "idea"
     },
     {
       "id": "071c7b54-486a-46f9-8a0f-5f52efd6a944",
@@ -4611,11 +4643,12 @@
       "part-of-speech": "verb",
       "english": "to love",
       "finnish": "rakastaa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈrɑkɑst̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "love"
     },
     {
       "id": "cb7d2405-ff25-4f0d-ae8f-15c67cc92c40",
@@ -4643,24 +4676,26 @@
     {
       "id": "e32e37f5-942a-4977-81df-7d169cabd596",
       "part-of-speech": "adjective",
-      "english": "important, very relevant",
+      "english": "important",
       "finnish": "tärkeä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ærke̞æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "important"
     },
     {
       "id": "6a98682d-1f7e-45b4-b303-86c117dbc558",
       "part-of-speech": "verb",
       "english": "to understand",
       "finnish": "ymmärtää",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈymːært̪æː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "understand"
     },
     {
       "id": "31211329-58c6-40ee-9840-ef2a868a8b0e",
@@ -4691,11 +4726,12 @@
       "part-of-speech": "verb",
       "english": "to eat",
       "finnish": "syödä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈsyø̞̯dæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "eat"
     },
     {
       "id": "f0ef3242-a96f-4b5e-955e-c88157b48861",
@@ -4822,49 +4858,51 @@
       "part-of-speech": "noun",
       "english": "house",
       "finnish": "talo",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑlo̞]",
       "plural": "talot",
-      "context": "building meant to serve as a human abode",
       "register": [
         "All"
-      ]
+      ],
+      "image": "house"
     },
     {
       "id": "7d5583e4-302f-4ac5-9e25-931aae59bedd",
       "part-of-speech": "verb",
-      "english": "to buy, purchase",
+      "english": "to buy",
       "finnish": "ostaa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈo̞st̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "buy"
     },
     {
       "id": "7b27f446-87e9-4ad9-8d7d-92ace2a269ca",
       "part-of-speech": "noun",
-      "english": "the Earth, the world",
+      "english": "world",
       "finnish": "maailma",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈmɑːilmɑ]",
       "plural": "maailmat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "world"
     },
     {
       "id": "053cb267-83fa-4d5c-88bf-b815503238c7",
       "part-of-speech": "noun",
       "english": "time, occasion",
       "finnish": "kerta",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈke̞rt̪ɑ]",
       "plural": "kerrat",
-      "context": "particular instance or occurrence",
       "register": [
         "All"
-      ]
+      ],
+      "image": "occasions"
     },
     {
       "id": "f527273f-3caa-4f63-93b7-cc8d92a126a1",
@@ -4881,15 +4919,15 @@
     {
       "id": "b0bf958e-caae-4cf4-8946-64dc5a154202",
       "part-of-speech": "noun",
-      "english": "digit, number",
+      "english": "number",
       "finnish": "numero",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈnume̞ro̞]",
       "plural": "numerot",
-      "context": "symbol for a non-negative integer: 0, 1, ..., 9",
       "register": [
         "All"
-      ]
+      ],
+      "image": "number"
     },
     {
       "id": "d767b48f-10fd-4b97-b643-1056dc5b52ad",
@@ -4963,26 +5001,27 @@
     {
       "id": "3f336a5d-a276-45f4-9036-d0e3f5d0552c",
       "part-of-speech": "noun",
-      "english": "end, ending, finish, conclusion",
+      "english": "end",
       "finnish": "loppu",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈlo̞pːu]",
       "plural": "loput",
-      "context": "terminal, final or closing point of something",
       "register": [
         "All"
-      ]
+      ],
+      "image": "finish"
     },
     {
       "id": "099f6b57-5536-4e75-b06f-62a70f5d2dda",
       "part-of-speech": "verb",
-      "english": "to put, set, place",
+      "english": "to put",
       "finnish": "laittaa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈlɑi̯t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "put"
     },
     {
       "id": "ef1c18e5-7bda-4828-b4c7-fe239af49aac",
@@ -5021,15 +5060,15 @@
     {
       "id": "76c44c54-3d6b-42d4-bf34-06e68b444826",
       "part-of-speech": "noun",
-      "english": "family, nuclear family, immediate family",
+      "english": "family",
       "finnish": "perhe",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpe̞rhe̞]",
       "plural": "perheet",
-      "context": "parents and children",
       "register": [
         "All"
-      ]
+      ],
+      "image": "family"
     },
     {
       "id": "348939a5-b20e-4c59-b631-2084249f17d8",
@@ -5114,13 +5153,14 @@
     {
       "id": "54819d90-ed60-4c9a-8709-43b07fdbf537",
       "part-of-speech": "adjective",
-      "english": "happy, glad, pleased, gratified, content",
+      "english": "happy",
       "finnish": "onnellinen",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈo̞nːe̞lːine̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "happy"
     },
     {
       "id": "872476e7-c5df-4834-a9ca-ebd2e9aaf172",
@@ -5148,13 +5188,14 @@
     {
       "id": "2136cf27-ca2f-44d2-ab31-e6c6e1afb178",
       "part-of-speech": "verb",
-      "english": "to think (about)",
+      "english": "to think",
       "finnish": "ajatella",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈɑjɑt̪e̞lːɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "think"
     },
     {
       "id": "5407346a-a6dc-4d28-b982-28a1e5e30047",
@@ -5229,14 +5270,14 @@
     {
       "id": "a8c14efb-784b-4893-8cc0-e33167e7d156",
       "part-of-speech": "verb",
-      "english": "to send, dispatch",
+      "english": "to send",
       "finnish": "lähettää",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈlæhe̞t̪ːæː]",
-      "context": "make something go from one place to another",
       "register": [
         "All"
-      ]
+      ],
+      "image": "send"
     },
     {
       "id": "7bbd0f49-4cbb-4674-8547-7d2a1f6c9e92",
@@ -5263,27 +5304,28 @@
     },
     {
       "id": "bae517d8-ade2-4403-99c4-dd12180080b4",
-      "part-of-speech": "noun",
-      "english": "sick, ill; a sick person",
+      "part-of-speech": "adjective",
+      "english": "sick",
       "finnish": "sairas",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈsɑi̯rɑs]",
       "register": [
         "All"
       ],
-      "plural": "sairaat"
+      "image": "sick"
     },
     {
       "id": "c3d46b9e-473f-4327-a63e-cf89c2528d5a",
       "part-of-speech": "noun",
       "english": "year",
       "finnish": "vuosi",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋuo̞̯si]",
       "plural": "vuodet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "year"
     },
     {
       "id": "fdf5c628-10ba-4674-9dcd-bcec6d50383e",
@@ -5299,14 +5341,15 @@
     {
       "id": "fd1362ea-e120-467b-946a-587f04eb7449",
       "part-of-speech": "noun",
-      "english": "brother (male sibling)",
+      "english": "brother",
       "finnish": "veli",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋe̞li]",
       "plural": "veljet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "brother"
     },
     {
       "id": "5df53e11-b737-445b-ac11-3d89f4e3f444",
@@ -5324,14 +5367,15 @@
     {
       "id": "563fb5ff-1671-48c3-a03c-8f149c9ebd67",
       "part-of-speech": "noun",
-      "english": "story, tale",
+      "english": "story",
       "finnish": "tarina",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑrinɑ]",
       "plural": "tarinat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "story"
     },
     {
       "id": "a8bb2e80-2365-4653-b66a-3a56e1b686a5",
@@ -5421,13 +5465,14 @@
     {
       "id": "0e51f485-a436-4849-9df0-3f1950779fa9",
       "part-of-speech": "verb",
-      "english": "to look for, seek, search (for)",
+      "english": "to look for",
       "finnish": "etsiä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈe̞t̪siæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "search"
     },
     {
       "id": "1049aa2c-4960-4c18-9cbd-02ec61adc416",
@@ -5457,13 +5502,13 @@
       "part-of-speech": "noun",
       "english": "dog",
       "finnish": "koira",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈko̞i̯rɑ]",
       "plural": "koirat",
-      "context": "Canis lupus familiaris",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dog"
     },
     {
       "id": "0a4fc761-34c1-4324-8c66-e8bfa2275edb",
@@ -5481,12 +5526,13 @@
       "part-of-speech": "noun",
       "english": "message",
       "finnish": "viesti",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋie̞̯st̪i]",
       "plural": "viestit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "message"
     },
     {
       "id": "06fae672-8848-4181-a00f-e8fe5cfcd174",
@@ -5584,16 +5630,15 @@
     },
     {
       "id": "b125195c-35b8-42c2-8c7e-710fd5993d1f",
-      "part-of-speech": "noun",
+      "part-of-speech": "adjective",
       "english": "black",
       "finnish": "musta",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈmust̪ɑ]",
-      "plural": "mustat",
-      "context": "colour",
       "register": [
         "All"
-      ]
+      ],
+      "image": "black"
     },
     {
       "id": "81e784fd-eade-4e37-8e92-cdf28974598d",
@@ -5610,15 +5655,15 @@
     {
       "id": "070404cd-280d-42f8-a03f-eb11f2076a49",
       "part-of-speech": "noun",
-      "english": "picture, figure",
+      "english": "picture, photo",
       "finnish": "kuva",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkuʋɑ]",
       "plural": "kuvat",
-      "context": "representation of visible reality produced by e.g. drawing",
       "register": [
         "All"
-      ]
+      ],
+      "image": "photo"
     },
     {
       "id": "b737549e-564e-4d47-b24f-065f0f896ca5",
@@ -5669,15 +5714,15 @@
     {
       "id": "2d07f46b-3dfd-4335-b4d7-6b6629ae32ea",
       "part-of-speech": "noun",
-      "english": "work, toil, effort, labour",
+      "english": "work, job",
       "finnish": "työ",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[t̪yø̞̯]",
       "plural": "työt",
-      "context": "effort expended on a particular task",
       "register": [
         "All"
-      ]
+      ],
+      "image": "work"
     },
     {
       "id": "857496f2-3604-432b-89e9-f795396e17b9",
@@ -5697,11 +5742,12 @@
       "part-of-speech": "verb",
       "english": "to write",
       "finnish": "kirjoittaa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkirjo̞i̯t̪ːɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "write"
     },
     {
       "id": "d70eb057-d9fe-4c5e-a6bf-8f0e89ca5d27",
@@ -5751,26 +5797,27 @@
     {
       "id": "5e45badc-0d00-4c4a-b4c9-fda53ba2d6c9",
       "part-of-speech": "adjective",
-      "english": "easy, simple",
+      "english": "easy",
       "finnish": "helppo",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈhe̞lpːo̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "easy"
     },
     {
       "id": "b2548da2-1adb-48f8-83f7-b6de5da590dd",
       "part-of-speech": "noun",
       "english": "head",
       "finnish": "pää",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[pæː]",
       "plural": "päät",
-      "context": "part of a body",
       "register": [
         "All"
-      ]
+      ],
+      "image": "head"
     },
     {
       "id": "ce0968a6-9824-42e3-b79c-f552b8e15e66",
@@ -5824,11 +5871,12 @@
       "part-of-speech": "verb",
       "english": "to read",
       "finnish": "lukea",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈluke̞ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "read"
     },
     {
       "id": "43621d82-e04c-4e88-aa9c-67fe94ef17f4",
@@ -5856,13 +5904,14 @@
     {
       "id": "a785c717-3f63-4f90-9f16-897bc37376cb",
       "part-of-speech": "verb",
-      "english": "to choose, select",
+      "english": "to choose",
       "finnish": "valita",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋɑlit̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "choose"
     },
     {
       "id": "214cd4ac-1a72-43ef-b685-1be0e3e0318c",
@@ -6058,13 +6107,13 @@
       "part-of-speech": "noun",
       "english": "hunger",
       "finnish": "nälkä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈnælkæ]",
       "plural": "nälät",
-      "context": "need for food",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hunger"
     },
     {
       "id": "09d61f25-010e-4b69-8c9a-a0050a17e5ca",
@@ -6187,27 +6236,28 @@
     {
       "id": "5cdbd95a-e98b-4eb7-9da7-3d971fa9191d",
       "part-of-speech": "noun",
-      "english": "journey, trip, voyage, travel",
+      "english": "trip, journey",
       "finnish": "matka",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈmɑt̪kɑ]",
       "plural": "matkat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "trip"
     },
     {
       "id": "fe3325d2-3119-49ee-8b30-db778546aa63",
       "part-of-speech": "noun",
-      "english": "town, city",
+      "english": "city, town",
       "finnish": "kaupunki",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈkɑu̯puŋki]",
       "plural": "kaupungit",
-      "context": "larger settlement with significant amenities",
       "register": [
         "All"
-      ]
+      ],
+      "image": "city"
     },
     {
       "id": "b4588d58-f9a4-4ef7-9776-013de306fe91",
@@ -6260,13 +6310,14 @@
     {
       "id": "eb59a5e1-81db-4a48-9611-1dd5b3251529",
       "part-of-speech": "adjective",
-      "english": "strange, weird",
+      "english": "strange",
       "finnish": "outo",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈo̞u̯t̪o̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "strange"
     },
     {
       "id": "1fe40b51-620c-430a-9b1c-93097e42646b",
@@ -6318,15 +6369,15 @@
     {
       "id": "754020c9-ca58-440a-b6af-8c4cf2b00516",
       "part-of-speech": "noun",
-      "english": "word (unit of language)",
+      "english": "word",
       "finnish": "sana",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈsɑnɑ]",
       "plural": "sanat",
-      "context": "unit of language, text or storage",
       "register": [
         "All"
-      ]
+      ],
+      "image": "word"
     },
     {
       "id": "30f8f6b0-bce4-4686-a64b-8a249c88a32c",
@@ -6357,23 +6408,24 @@
       "part-of-speech": "verb",
       "english": "to sleep",
       "finnish": "nukkua",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈnukːuɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sleep"
     },
     {
       "id": "a9b1d509-3b3e-44c9-8388-84e470db97c1",
       "part-of-speech": "verb",
-      "english": "to get, fetch, retrieve, bring",
+      "english": "to fetch, to pick up",
       "finnish": "hakea",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈhɑke̞ɑ]",
-      "context": "to: go; find and",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pick-up"
     },
     {
       "id": "50336cc4-d511-4b74-8658-071d051ab195",
@@ -6461,26 +6513,27 @@
     {
       "id": "e6f9f754-04bb-4b1d-a1a7-11af467e4e95",
       "part-of-speech": "verb",
-      "english": "to answer, to reply; to respond",
+      "english": "to answer",
       "finnish": "vastata",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋɑst̪ɑt̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "answer"
     },
     {
       "id": "793dca30-dd88-4add-8153-c6b3a030f034",
       "part-of-speech": "noun",
-      "english": "ground, land",
+      "english": "country; land",
       "finnish": "maa",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[mɑː]",
       "plural": "maat",
-      "context": "surface of the Earth, especially that which is not covered by water",
       "register": [
         "All"
-      ]
+      ],
+      "image": "country"
     },
     {
       "id": "e6109002-1934-4d38-a826-501e9f3d589b",
@@ -6556,13 +6609,13 @@
       "part-of-speech": "noun",
       "english": "game",
       "finnish": "peli",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpe̞li]",
       "plural": "pelit",
-      "context": "activity described by a set of rules, especially for the purpose of entertainment",
       "register": [
         "All"
-      ]
+      ],
+      "image": "game"
     },
     {
       "id": "6f2c6ed5-97ba-484a-8376-3efc7d7d3455",
@@ -6591,14 +6644,15 @@
     {
       "id": "b4d01d95-6451-4c15-9c84-99c71aac5719",
       "part-of-speech": "noun",
-      "english": "baby (a very young child)",
+      "english": "baby",
       "finnish": "vauva",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋɑu̯ʋɑ]",
       "plural": "vauvat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "baby"
     },
     {
       "id": "b3fc4233-2d65-4583-9f52-73240c0a80dd",
@@ -6627,14 +6681,14 @@
     {
       "id": "a6ede90e-7e96-41b9-a30f-f64fa363353b",
       "part-of-speech": "verb",
-      "english": "to feel, sense",
+      "english": "to know (a person); to feel",
       "finnish": "tuntea",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈt̪un̪t̪e̞ɑ]",
-      "context": "sense by touch",
       "register": [
         "All"
-      ]
+      ],
+      "image": "know-person"
     },
     {
       "id": "c28a7e83-35b9-4b4d-9306-4167aa43a146",
@@ -6710,26 +6764,28 @@
     {
       "id": "9562a834-0943-4d38-9afa-9b225509cf45",
       "part-of-speech": "noun",
-      "english": "love, affection",
+      "english": "love",
       "finnish": "rakkaus",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈrɑkːɑu̯s]",
       "plural": "rakkaudet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "love"
     },
     {
       "id": "bdca8a99-f1e0-4c79-8563-99628288cc67",
       "part-of-speech": "noun",
-      "english": "telephone, phone",
+      "english": "phone",
       "finnish": "puhelin",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpuhe̞lin]",
       "plural": "puhelimet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "phone"
     },
     {
       "id": "46eda5a2-c35d-424e-9370-38eef41e1a73",
@@ -6795,13 +6851,14 @@
     {
       "id": "bc95de75-3704-4c82-8fd8-dea019dc5a17",
       "part-of-speech": "verb",
-      "english": "to sit, be sitting",
+      "english": "to sit",
       "finnish": "istua",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈist̪uɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sit"
     },
     {
       "id": "2ab7b88b-ef06-40bc-b716-1d48ca806da6",
@@ -6910,16 +6967,15 @@
     },
     {
       "id": "9b4d487d-7ee8-4862-9566-35d45b66493b",
-      "part-of-speech": "noun",
+      "part-of-speech": "adjective",
       "english": "cold",
       "finnish": "kylmä",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkylmæ]",
-      "plural": "kylmät",
-      "context": "sensation; feeling cold",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cold"
     },
     {
       "id": "5eb7923d-bda1-415a-87d9-7ae58f834172",
@@ -6985,12 +7041,12 @@
       "part-of-speech": "adjective",
       "english": "hot",
       "finnish": "kuuma",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkuːmɑ]",
-      "context": "having a high temperature",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hot"
     },
     {
       "id": "59a25523-7f0b-4d7f-a9c0-f3d45a282988",
@@ -7006,14 +7062,15 @@
     {
       "id": "0f92e857-5255-422a-9646-26cedc87bd9d",
       "part-of-speech": "noun",
-      "english": "answer, reply, response",
+      "english": "answer",
       "finnish": "vastaus",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋɑst̪ɑu̯s]",
       "plural": "vastaukset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "answer"
     },
     {
       "id": "c9d33882-cbdf-4aca-9790-a38af87625e5",
@@ -7097,25 +7154,27 @@
     {
       "id": "ca647090-7464-4bfd-8e41-e524e952ac2f",
       "part-of-speech": "noun",
-      "english": "present, gift",
+      "english": "gift",
       "finnish": "lahja",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈlɑhjɑ]",
       "plural": "lahjat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "gift"
     },
     {
       "id": "22d3b05e-94a4-4509-99ff-bf9ed2b2fa53",
       "part-of-speech": "verb",
       "english": "to sell",
       "finnish": "myydä",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈmyːdæ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sell"
     },
     {
       "id": "4a111212-c513-4404-84cc-53a6462bf999",
@@ -7131,36 +7190,38 @@
     {
       "id": "7d2920d8-2076-4a20-ac8f-14f526358b04",
       "part-of-speech": "verb",
-      "english": "to play (participate in (a sport or game))",
+      "english": "to play (a game)",
       "finnish": "pelata",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈpe̞lɑt̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "game"
     },
     {
       "id": "a53d8495-4b8d-4b28-8228-d0ab1622a14c",
-      "part-of-speech": "noun",
-      "english": "A pitch that goes outside the strike zone, ball, bad pitch",
+      "part-of-speech": "adjective",
+      "english": "wrong",
       "finnish": "väärä",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋæːræ]",
-      "plural": "väärät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wrong"
     },
     {
       "id": "473d8cff-6b22-4960-9448-63242fc6f00f",
       "part-of-speech": "adjective",
-      "english": "tired, weary",
+      "english": "tired",
       "finnish": "väsynyt",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋæsynyt̪]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tired"
     },
     {
       "id": "fd32f65a-79d4-499f-ab54-4a59edf20f3c",
@@ -7277,12 +7338,12 @@
       "part-of-speech": "verb",
       "english": "to fly",
       "finnish": "lentää",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈle̞n̪t̪æː]",
-      "context": "travel through the air",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fly"
     },
     {
       "id": "c539ecc3-f6f4-4b09-9ccc-8c2fcaab74b5",
@@ -7406,14 +7467,15 @@
     {
       "id": "9160c45f-fa7f-4f73-a1b5-7a66b3881dac",
       "part-of-speech": "noun",
-      "english": "mistake, blunder, error",
+      "english": "mistake",
       "finnish": "virhe",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋirhe̞]",
       "plural": "virheet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mistake"
     },
     {
       "id": "deec36af-e2ea-4a4a-b31b-68fade38a8d3",
@@ -7442,11 +7504,12 @@
       "part-of-speech": "verb",
       "english": "to learn",
       "finnish": "oppia",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈo̞pːiɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "learn"
     },
     {
       "id": "5d2b656b-0e0f-4dbe-ac68-63163a79d52b",
@@ -7464,14 +7527,15 @@
     {
       "id": "f5413569-6a43-484d-b6ed-66a755b907f3",
       "part-of-speech": "noun",
-      "english": "key (device designed to open and close a lock)",
+      "english": "key",
       "finnish": "avain",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈɑʋɑi̯n]",
       "plural": "avaimet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "key"
     },
     {
       "id": "3add0412-d933-4815-941f-2314dec471c8",
@@ -7525,13 +7589,13 @@
       "part-of-speech": "noun",
       "english": "mouth",
       "finnish": "suu",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[suː]",
       "plural": "suut",
-      "context": "organ",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mouth"
     },
     {
       "id": "6d57f584-87b2-4bf0-beee-830e28933c68",
@@ -7561,13 +7625,13 @@
       "part-of-speech": "noun",
       "english": "book",
       "finnish": "kirja",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkirjɑ]",
       "plural": "kirjat",
-      "context": "collection of sheets of paper bound together containing printed or written material",
       "register": [
         "All"
-      ]
+      ],
+      "image": "book"
     },
     {
       "id": "93ad0e58-90b0-493b-bfd3-2242abd78bd5",
@@ -7585,12 +7649,13 @@
       "part-of-speech": "noun",
       "english": "week",
       "finnish": "viikko",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋiːkːo̞]",
       "plural": "viikot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "week"
     },
     {
       "id": "3fe8e95e-9750-493b-a57d-33e3aeff60c1",
@@ -7668,14 +7733,15 @@
     {
       "id": "2304c70d-374f-4555-abd0-438155cc4c3b",
       "part-of-speech": "noun",
-      "english": "hand, arm; an upper limb of a human or certain animals",
+      "english": "hand",
       "finnish": "käsi",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkæsi]",
       "plural": "kädet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hand"
     },
     {
       "id": "18dec444-daee-4a4a-9a0b-643a674fd21e",
@@ -7783,15 +7849,15 @@
     {
       "id": "78b1d787-f2ed-4693-9322-d22b70b4b5ec",
       "part-of-speech": "noun",
-      "english": "hour",
+      "english": "lesson, class; hour",
       "finnish": "tunti",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪un̪t̪i]",
       "plural": "tunnit",
-      "context": "unit of time",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lesson"
     },
     {
       "id": "0b19e946-6105-4112-bb5b-3c65eacf0fec",
@@ -7916,22 +7982,24 @@
       "part-of-speech": "verb",
       "english": "to open",
       "finnish": "avata",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈɑʋɑt̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "open"
     },
     {
       "id": "23c305cc-fcdb-4e38-90b6-b51d11c89012",
       "part-of-speech": "verb",
-      "english": "to need, require",
+      "english": "to need",
       "finnish": "tarvita",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑrʋit̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "need"
     },
     {
       "id": "1bb7f3b5-e312-4251-b7de-7a1de837d75b",
@@ -8057,12 +8125,13 @@
       "part-of-speech": "noun",
       "english": "water",
       "finnish": "vesi",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋe̞si]",
       "plural": "vedet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "water"
     },
     {
       "id": "39e92e40-a117-4f13-93fc-6f825f230861",
@@ -8078,14 +8147,15 @@
     {
       "id": "70610cd9-57dc-4e8e-a85e-1de96e8c32c9",
       "part-of-speech": "noun",
-      "english": "joy, happiness, delight, merriment, mirth",
+      "english": "joy, pleasure",
       "finnish": "ilo",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈilo̞]",
       "plural": "ilot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pleasure"
     },
     {
       "id": "bd067671-3792-4096-9cfd-fbac80526bf0",
@@ -8135,14 +8205,15 @@
     {
       "id": "cc49f648-f54c-478e-b4bf-e97b9f170da6",
       "part-of-speech": "noun",
-      "english": "sky",
+      "english": "sky; heaven",
       "finnish": "taivas",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑi̯ʋɑs]",
       "plural": "taivaat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sky"
     },
     {
       "id": "0fdb3df9-8c9b-4808-9e1b-e576f44b2c26",
@@ -8181,16 +8252,15 @@
     },
     {
       "id": "d94c90d3-a3c4-44a6-9df1-f2c0d668ed61",
-      "part-of-speech": "noun",
+      "part-of-speech": "adjective",
       "english": "red",
       "finnish": "punainen",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈpunɑi̯ne̞n]",
-      "plural": "punaiset",
-      "context": "color",
       "register": [
         "All"
-      ]
+      ],
+      "image": "red"
     },
     {
       "id": "70ca4b66-2ea4-40e8-85ae-ccca5932b13f",
@@ -8601,28 +8671,28 @@
     {
       "id": "8e5583a9-20cf-45bf-8c54-5865c201b118",
       "part-of-speech": "noun",
-      "english": "food (any substance consumed by living…)",
+      "english": "food; meal",
       "finnish": "ruoka",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈruo̞̯kɑ]",
       "plural": "ruoat",
-      "context": "any substance consumed by living organisms to sustain life",
       "register": [
         "All"
-      ]
+      ],
+      "image": "meal"
     },
     {
       "id": "820b3d3f-8bb1-4b80-8bb7-d31fef5c226d",
       "part-of-speech": "noun",
-      "english": "way, road, path, route",
+      "english": "road, way",
       "finnish": "tie",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[t̪ie̞̯]",
       "plural": "tiet",
-      "context": "for travelling",
       "register": [
         "All"
-      ]
+      ],
+      "image": "road"
     },
     {
       "id": "41b8ccc6-c0b5-4876-9f6f-08c3085c3409",
@@ -8677,11 +8747,12 @@
       "part-of-speech": "verb",
       "english": "to sing",
       "finnish": "laulaa",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈlɑu̯lɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sing"
     },
     {
       "id": "91846a3e-948c-45bb-9621-b8d6451685d8",
@@ -8870,11 +8941,12 @@
       "part-of-speech": "verb",
       "english": "to dance",
       "finnish": "tanssia",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑnsːiɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dance"
     },
     {
       "id": "e4bdda8c-d39b-4231-8395-6deeef1d47b9",
@@ -9098,15 +9170,15 @@
     {
       "id": "5745df2e-bb2f-45a9-aa45-38df98d505d2",
       "part-of-speech": "noun",
-      "english": "movie, film, motion picture",
+      "english": "movie",
       "finnish": "elokuva",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈe̞lo̞kuʋɑ]",
       "plural": "elokuvat",
-      "context": "individual film",
       "register": [
         "All"
-      ]
+      ],
+      "image": "movie"
     },
     {
       "id": "989369f7-818f-4e1e-a4ab-be9f1227ae53",
@@ -9134,13 +9206,14 @@
     {
       "id": "5ca26125-f794-4ff9-834d-4dbe71a358fc",
       "part-of-speech": "verb",
-      "english": "to carry, bear",
+      "english": "to carry",
       "finnish": "kantaa",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkɑn̪t̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "carry"
     },
     {
       "id": "32d50cbb-f21a-4143-ad5b-365f75e2472c",
@@ -9229,13 +9302,13 @@
       "part-of-speech": "noun",
       "english": "attention",
       "finnish": "huomio",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈhuo̞̯mio̞]",
       "plural": "huomiot",
-      "context": "mental focus",
       "register": [
         "All"
-      ]
+      ],
+      "image": "attention"
     },
     {
       "id": "cfa452d7-df47-42bf-8b6a-dd695c201d5b",
@@ -9301,12 +9374,13 @@
       "part-of-speech": "noun",
       "english": "teacher",
       "finnish": "opettaja",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈo̞pe̞t̪ːɑjɑ]",
       "plural": "opettajat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "teacher"
     },
     {
       "id": "27dfcf11-b8b6-4fce-89f4-1eb89db0ea50",
@@ -9620,14 +9694,15 @@
     {
       "id": "3297d20c-250c-4da9-a411-bea7da553181",
       "part-of-speech": "noun",
-      "english": "attempt, effort, try, trial",
+      "english": "company",
       "finnish": "yritys",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈyrit̪ys]",
       "plural": "yritykset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "company"
     },
     {
       "id": "9bc3f0b5-0bf8-43ba-afc9-0349650b3386",
@@ -9669,13 +9744,13 @@
       "part-of-speech": "noun",
       "english": "money",
       "finnish": "raha",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈrɑhɑ]",
       "plural": "rahat",
-      "context": "means of exchange and measure of value",
       "register": [
         "All"
-      ]
+      ],
+      "image": "money"
     },
     {
       "id": "4f9d8ed0-8cb8-43cd-a967-79da27e7ec45",
@@ -9736,13 +9811,14 @@
     {
       "id": "49d7bfe2-89fe-40b0-8162-86e1254b28af",
       "part-of-speech": "verb",
-      "english": "to rise, get up",
+      "english": "to get up, to rise",
       "finnish": "nousta",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈno̞u̯st̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "get-up"
     },
     {
       "id": "c584b75e-46a4-422c-914a-fdaa782eacb7",
@@ -9889,12 +9965,13 @@
       "part-of-speech": "noun",
       "english": "sister",
       "finnish": "sisko",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈsisko̞]",
       "plural": "siskot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sister"
     },
     {
       "id": "0dd77861-5117-43d8-bd0c-09ddb2aa93a8",
@@ -9913,13 +9990,13 @@
       "part-of-speech": "noun",
       "english": "home",
       "finnish": "koti",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈko̞t̪i]",
       "plural": "kodit",
-      "context": "house or structure in which one lives; place of the affections, or of refuge or rest",
       "register": [
         "All"
-      ]
+      ],
+      "image": "home"
     },
     {
       "id": "935da157-4233-4509-a006-e5252d961b12",
@@ -10207,14 +10284,15 @@
     {
       "id": "a121527d-e3f3-42c2-874a-6877a0e772b1",
       "part-of-speech": "noun",
-      "english": "cat (Felis catus)",
+      "english": "cat",
       "finnish": "kissa",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkisːɑ]",
       "plural": "kissat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cat"
     },
     {
       "id": "f41c8174-09aa-4598-ad40-33b3e0c290a1",
@@ -10287,15 +10365,15 @@
     {
       "id": "6d5c469a-68aa-43d6-b159-6a660556abf6",
       "part-of-speech": "noun",
-      "english": "knowledge",
+      "english": "information; knowledge",
       "finnish": "tieto",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪ie̞̯t̪o̞]",
       "plural": "tiedot",
-      "context": "fact of knowing about something; awareness",
       "register": [
         "All"
-      ]
+      ],
+      "image": "information"
     },
     {
       "id": "02fdd2c1-b330-49be-815a-c603c65de3d1",
@@ -10337,13 +10415,14 @@
     {
       "id": "ceda2680-b0b5-4960-ad74-8416cf260f2d",
       "part-of-speech": "adjective",
-      "english": "sad, sorrowful",
+      "english": "sad",
       "finnish": "surullinen",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈsurulːine̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sad"
     },
     {
       "id": "f3923016-3fe8-425b-9c97-46dfb6cdc2e3",
@@ -10801,13 +10880,13 @@
       "part-of-speech": "noun",
       "english": "price",
       "finnish": "hinta",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈhin̪t̪ɑ]",
       "plural": "hinnat",
-      "context": "cost to purchase; cost of an action",
       "register": [
         "All"
-      ]
+      ],
+      "image": "price"
     },
     {
       "id": "bf3f32ca-582e-4346-8cfe-27a9c7cd23c4",
@@ -10822,15 +10901,15 @@
     },
     {
       "id": "253a31f3-8d60-43ec-a8c9-76c488c1b6a8",
-      "part-of-speech": "noun",
-      "english": "The color blue.",
+      "part-of-speech": "adjective",
+      "english": "blue",
       "finnish": "sininen",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈsinine̞n]",
-      "plural": "siniset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "blue"
     },
     {
       "id": "f010b4a4-9c8f-4fce-a440-23a2b0c39b3a",
@@ -10848,13 +10927,13 @@
       "part-of-speech": "noun",
       "english": "address",
       "finnish": "osoite",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈo̞so̞i̯t̪e̞]",
       "plural": "osoitteet",
-      "context": "description of the location of a property or something else",
       "register": [
         "All"
-      ]
+      ],
+      "image": "address"
     },
     {
       "id": "886578f6-31aa-4e3f-be10-4f7190069324",
@@ -11104,14 +11183,14 @@
     {
       "id": "c1723d13-126e-45be-b551-8e3b63fe16cd",
       "part-of-speech": "adjective",
-      "english": "clean; neat, tidy",
+      "english": "clean",
       "finnish": "puhdas",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈpuhdɑs]",
-      "context": "not dirty",
       "register": [
         "All"
-      ]
+      ],
+      "image": "clean"
     },
     {
       "id": "67175713-c037-45e3-bb03-7116a2b62ff8",
@@ -11152,12 +11231,13 @@
       "part-of-speech": "noun",
       "english": "month",
       "finnish": "kuukausi",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkuːkɑu̯si]",
       "plural": "kuukaudet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "month"
     },
     {
       "id": "c0173faf-5cba-42c0-9ce1-2f8eff102da9",
@@ -11410,14 +11490,15 @@
     {
       "id": "d482a21a-330b-49e6-aec9-90231e922d7e",
       "part-of-speech": "noun",
-      "english": "letter (a written message)",
+      "english": "letter",
       "finnish": "kirje",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkirje̞]",
       "plural": "kirjeet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "message"
     },
     {
       "id": "640370d5-11dd-47b8-b60b-76f60e245879",
@@ -11542,14 +11623,14 @@
     {
       "id": "f966452f-9f1c-4aa2-877c-47bf8283c383",
       "part-of-speech": "verb",
-      "english": "to precipitate : to rain, snow, sleet, hail",
+      "english": "to rain",
       "finnish": "sataa",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈsɑt̪ɑː]",
-      "context": "to have water in the air fall to the ground",
       "register": [
         "All"
-      ]
+      ],
+      "image": "rain"
     },
     {
       "id": "ae028ce1-7500-40c0-adbe-2d3fd6f3242a",
@@ -11626,25 +11707,26 @@
       "part-of-speech": "noun",
       "english": "music",
       "finnish": "musiikki",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈmusiːkːi]",
       "plural": "musiikit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "music"
     },
     {
       "id": "562ae454-351b-470e-9583-5717fec4e1cc",
       "part-of-speech": "noun",
-      "english": "home, residence; unit, housing unit, dwelling unit; dwelling, domicile, habitation",
+      "english": "apartment",
       "finnish": "asunto",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈɑsun̪t̪o̞]",
       "plural": "asunnot",
-      "context": "any place for living, especially one constructed for that purpose",
       "register": [
         "All"
-      ]
+      ],
+      "image": "apartment"
     },
     {
       "id": "0a6bd107-72f6-4a44-a6e6-aed503b2c972",
@@ -11728,13 +11810,14 @@
     {
       "id": "36375c1c-bcbc-45ea-a52d-1ff446b0c5b4",
       "part-of-speech": "verb",
-      "english": "to want, desire, wish, crave",
+      "english": "to want",
       "finnish": "haluta",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈhɑlut̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "want"
     },
     {
       "id": "c705b6b8-8b6d-4cee-a882-15fafe83a00b",
@@ -11892,14 +11975,15 @@
     {
       "id": "f945b892-9368-4bbf-8419-e0c07339e7d0",
       "part-of-speech": "noun",
-      "english": "horse, Equus caballus",
+      "english": "horse",
       "finnish": "hevonen",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈhe̞ʋo̞ne̞n]",
       "plural": "hevoset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "horse"
     },
     {
       "id": "5daf20df-68b7-45a3-8006-0373368e14d7",
@@ -12011,14 +12095,15 @@
     {
       "id": "de55193d-071f-4832-a76b-122ab14c1fa1",
       "part-of-speech": "noun",
-      "english": "trousers, pants",
+      "english": "pants",
       "finnish": "housut",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈho̞u̯sut̪]",
       "plural": "housut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pants"
     },
     {
       "id": "14e45f36-1ed1-4347-a847-1ca09dce622c",
@@ -12500,13 +12585,13 @@
       "part-of-speech": "noun",
       "english": "knife",
       "finnish": "veitsi",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋe̞i̯t̪si]",
       "plural": "veitset",
-      "context": "tool, weapon",
       "register": [
         "All"
-      ]
+      ],
+      "image": "knife"
     },
     {
       "id": "336ac1c9-5e96-499b-9ea1-589e7ad576bf",
@@ -12570,13 +12655,13 @@
       "part-of-speech": "noun",
       "english": "computer",
       "finnish": "tietokone",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪ie̞̯t̪o̞ko̞ne̞]",
       "plural": "tietokoneet",
-      "context": "programmable electronic device",
       "register": [
         "All"
-      ]
+      ],
+      "image": "computer"
     },
     {
       "id": "72d54cd4-36ef-4955-a92f-4d637b38d728",
@@ -12608,13 +12693,13 @@
       "part-of-speech": "noun",
       "english": "train",
       "finnish": "juna",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈjunɑ]",
       "plural": "junat",
-      "context": "railroad vehicle",
       "register": [
         "All"
-      ]
+      ],
+      "image": "train"
     },
     {
       "id": "f9e12b1e-1039-4303-8a1e-7c9626198e67",
@@ -12642,16 +12727,15 @@
     },
     {
       "id": "faeb711c-6470-4a48-af80-b0c0d5e8b1f9",
-      "part-of-speech": "noun",
-      "english": "green, the color green",
+      "part-of-speech": "adjective",
+      "english": "green",
       "finnish": "vihreä",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈʋihre̞æ]",
-      "plural": "vihreät",
-      "context": "color",
       "register": [
         "All"
-      ]
+      ],
+      "image": "green"
     },
     {
       "id": "b26df954-3ff4-43a6-8bf6-dcc7b297e39c",
@@ -12754,12 +12838,13 @@
       "part-of-speech": "noun",
       "english": "song",
       "finnish": "laulu",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈlɑu̯lu]",
       "plural": "laulut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sing"
     },
     {
       "id": "2c6d2f45-8d12-4ab0-9d56-c69cc89cd357",
@@ -12928,13 +13013,13 @@
       "part-of-speech": "noun",
       "english": "animal",
       "finnish": "eläin",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈe̞læi̯n]",
       "plural": "eläimet",
-      "context": "any organism in the clade Animalia",
       "register": [
         "All"
-      ]
+      ],
+      "image": "animal"
     },
     {
       "id": "dc01b676-3bb6-490b-9e07-5bc8acf4c3c0",
@@ -12990,25 +13075,26 @@
       "part-of-speech": "noun",
       "english": "wind",
       "finnish": "tuuli",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈt̪uːli]",
       "plural": "tuulet",
-      "context": "movement of air",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wind"
     },
     {
       "id": "5f0726e7-1c3f-433d-980d-adbe42ba41b0",
       "part-of-speech": "noun",
-      "english": "happiness, pleasure, contentment, gratification, bliss",
+      "english": "luck; happiness",
       "finnish": "onni",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈo̞nːi]",
       "plural": "onnet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "luck"
     },
     {
       "id": "c7a00eec-c13d-4cd8-8777-ef6225a3ad68",
@@ -13144,14 +13230,15 @@
     {
       "id": "418e282e-9b9b-4b64-a07d-c2dd169cde09",
       "part-of-speech": "noun",
-      "english": "foot, leg; a lower supporting limb of a human or animal",
+      "english": "foot; leg",
       "finnish": "jalka",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈjɑlkɑ]",
       "plural": "jalat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "foot"
     },
     {
       "id": "c5878d71-3604-4ee0-a2c2-84a84e21726e",
@@ -13218,13 +13305,13 @@
       "part-of-speech": "noun",
       "english": "shirt",
       "finnish": "paita",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpɑi̯t̪ɑ]",
       "plural": "paidat",
-      "context": "article of clothing",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shirt"
     },
     {
       "id": "ad11dfd4-bd82-41fc-a313-5143bb62e8b3",
@@ -13254,14 +13341,14 @@
     {
       "id": "9c59c488-a8e7-45cb-a2c9-87445741219c",
       "part-of-speech": "adjective",
-      "english": "high",
+      "english": "high, tall",
       "finnish": "korkea",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈko̞rke̞ɑ]",
-      "context": "physically elevated, extending above a base or average level; located at a great altitude",
       "register": [
         "All"
-      ]
+      ],
+      "image": "high"
     },
     {
       "id": "a94f097e-a7ed-4b45-a06c-1ab33d97671a",
@@ -13412,13 +13499,13 @@
       "part-of-speech": "noun",
       "english": "bird",
       "finnish": "lintu",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈlin̪t̪u]",
       "plural": "linnut",
-      "context": "animal in the class Aves, having a beaked mouth and usually capable of flight",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bird"
     },
     {
       "id": "143fec84-aaee-40f8-bc84-83858bf44f6d",
@@ -13778,12 +13865,13 @@
       "part-of-speech": "noun",
       "english": "bottle",
       "finnish": "pullo",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpulːo̞]",
       "plural": "pullot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bottle"
     },
     {
       "id": "5cf2da61-6033-4404-b7d9-a2b583a5510b",
@@ -14099,12 +14187,13 @@
       "part-of-speech": "noun",
       "english": "grandfather",
       "finnish": "isoisä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈiso̞i̯sæ]",
       "plural": "isoisät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "grandfather"
     },
     {
       "id": "d5e13442-f44c-4b2f-9fb2-4c64d12da380",
@@ -14156,13 +14245,13 @@
       "part-of-speech": "noun",
       "english": "office",
       "finnish": "toimisto",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈt̪o̞i̯mist̪o̞]",
       "plural": "toimistot",
-      "context": "building or room for professional duties",
       "register": [
         "All"
-      ]
+      ],
+      "image": "office"
     },
     {
       "id": "a3df3b7e-91be-42a5-ad29-feec6d0c1f91",
@@ -14203,11 +14292,12 @@
       "part-of-speech": "adjective",
       "english": "expensive",
       "finnish": "kallis",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkɑlːis]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "expensive"
     },
     {
       "id": "ef457799-a788-4261-93f0-bf672323b1a3",
@@ -14333,26 +14423,26 @@
       "part-of-speech": "noun",
       "english": "coat, jacket",
       "finnish": "takki",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑkːi]",
       "plural": "takit",
-      "context": "piece of clothing worn on the upper body outside a shirt or blouse, covering the upper torso and arms",
       "register": [
         "All"
-      ]
+      ],
+      "image": "coat"
     },
     {
       "id": "2dad647f-253f-43c2-9136-6365e78e6b1a",
       "part-of-speech": "noun",
       "english": "hotel",
       "finnish": "hotelli",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈho̞t̪e̞lːi]",
       "plural": "hotellit",
-      "context": "establishment providing accommodation",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hotel"
     },
     {
       "id": "0292ec27-fb54-4eaa-9027-a278784579b9",
@@ -14384,13 +14474,13 @@
       "part-of-speech": "noun",
       "english": "husband",
       "finnish": "aviomies",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈɑʋio̞mie̞s]",
       "plural": "aviomiehet",
-      "context": "man in a marriage or marital relationship",
       "register": [
         "All"
-      ]
+      ],
+      "image": "husband"
     },
     {
       "id": "487065a1-b089-45c7-9709-d2232b15aeca",
@@ -14408,11 +14498,12 @@
       "part-of-speech": "verb",
       "english": "to laugh",
       "finnish": "nauraa",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈnɑu̯rɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "laugh"
     },
     {
       "id": "c3937953-a541-4719-97cc-c90622a2903f",
@@ -14476,15 +14567,15 @@
     {
       "id": "64ee4a6d-2406-4454-92c5-5137ff822153",
       "part-of-speech": "noun",
-      "english": "table, desk",
+      "english": "table",
       "finnish": "pöytä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpø̞y̯t̪æ]",
       "plural": "pöydät",
-      "context": "standing piece of furniture with a flat top",
       "register": [
         "All"
-      ]
+      ],
+      "image": "table"
     },
     {
       "id": "981c6c22-a59d-4588-ad4f-f8fd2abfa192",
@@ -14527,12 +14618,13 @@
       "part-of-speech": "noun",
       "english": "grandmother",
       "finnish": "isoäiti",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈiso̞æi̯t̪i]",
       "plural": "isoäidit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "grandmother"
     },
     {
       "id": "a88fd8b0-2d17-4a67-aa35-73590da93f58",
@@ -14868,15 +14960,15 @@
     {
       "id": "e0f61ea2-346d-4c0c-8e2b-5ffbb92c5b8b",
       "part-of-speech": "noun",
-      "english": "taxi, cab, taxicab",
+      "english": "taxi",
       "finnish": "taksi",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑksi]",
       "plural": "taksit",
-      "context": "vehicle available for public hire",
       "register": [
         "All"
-      ]
+      ],
+      "image": "taxi"
     },
     {
       "id": "73ff7ba2-c6e3-49ca-980f-b1d1d7dbc752",
@@ -14930,13 +15022,13 @@
       "part-of-speech": "noun",
       "english": "radio",
       "finnish": "radio",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈrɑdio̞]",
       "plural": "radiot",
-      "context": "technology",
       "register": [
         "All"
-      ]
+      ],
+      "image": "radio"
     },
     {
       "id": "0b67ab81-79f5-4e5b-9300-f883af52f7d7",
@@ -14979,14 +15071,15 @@
     {
       "id": "682bc088-4263-4807-9ef2-5b816c4a3390",
       "part-of-speech": "noun",
-      "english": "fear, dread",
+      "english": "fear",
       "finnish": "pelko",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpe̞lko̞]",
       "plural": "pelot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fear"
     },
     {
       "id": "f7eef2c3-0a2f-426e-92be-caac4139b8af",
@@ -15143,26 +15236,27 @@
     {
       "id": "b5e9ca5f-0808-467a-9869-e781205776c0",
       "part-of-speech": "adverb",
-      "english": "gladly, willingly, with pleasure",
+      "english": "gladly, with pleasure",
       "finnish": "mielellään",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈmie̞̯le̞lːæːn]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "gladly"
     },
     {
       "id": "8372a6ae-28d1-4155-9e0c-4562413a7285",
       "part-of-speech": "noun",
-      "english": "break, pause, recess",
+      "english": "break",
       "finnish": "tauko",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑu̯ko̞]",
       "plural": "tauot",
-      "context": "interruption",
       "register": [
         "All"
-      ]
+      ],
+      "image": "break"
     },
     {
       "id": "099f8d51-8f69-4bb7-8171-31fd1d153604",
@@ -15280,13 +15374,13 @@
       "part-of-speech": "noun",
       "english": "fish",
       "finnish": "kala",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkɑlɑ]",
       "plural": "kalat",
-      "context": "aquatic animal",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fish"
     },
     {
       "id": "f6c2ee6a-a374-4ede-a8d5-c3a44ec85b7f",
@@ -15316,11 +15410,12 @@
       "part-of-speech": "verb",
       "english": "to travel",
       "finnish": "matkustaa",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈmɑt̪kust̪ɑː]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "trip"
     },
     {
       "id": "5e3c6e4c-8949-4057-8833-0e400cf2ffe7",
@@ -15340,13 +15435,13 @@
       "part-of-speech": "noun",
       "english": "hat",
       "finnish": "hattu",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈhɑt̪ːu]",
       "plural": "hatut",
-      "context": "piece of headwear",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hat"
     },
     {
       "id": "99a7ec57-0568-4020-9edb-f353c8816291",
@@ -15654,13 +15749,13 @@
       "part-of-speech": "noun",
       "english": "eye",
       "finnish": "silmä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈsilmæ]",
       "plural": "silmät",
-      "context": "organ of the body",
       "register": [
         "All"
-      ]
+      ],
+      "image": "eye"
     },
     {
       "id": "d692009a-cc9f-4db7-9a30-2ab64ff41eda",
@@ -15735,13 +15830,13 @@
       "part-of-speech": "noun",
       "english": "card",
       "finnish": "kortti",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈko̞rt̪ːi]",
       "plural": "kortit",
-      "context": "flat, normally rectangular piece of stiff paper, plastic, used for a variety of purposes",
       "register": [
         "All"
-      ]
+      ],
+      "image": "card"
     },
     {
       "id": "b2210b12-5a49-47c5-9442-153c0922c4ad",
@@ -15843,15 +15938,15 @@
     {
       "id": "ca796200-0da9-400e-976d-58a96defe6e0",
       "part-of-speech": "noun",
-      "english": "coffee [from 18th c.]",
+      "english": "coffee",
       "finnish": "kahvi",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkɑhʋi]",
       "plural": "kahvit",
-      "context": "beverage made by infusing the beans of the coffee plant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "coffee"
     },
     {
       "id": "5791e7cd-8b82-4781-8857-dffe6ad1babd",
@@ -16080,15 +16175,15 @@
     {
       "id": "545e0353-abeb-4465-bf85-275108762c29",
       "part-of-speech": "noun",
-      "english": "tree",
+      "english": "tree; wood",
       "finnish": "puu",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[puː]",
       "plural": "puut",
-      "context": "large woody plant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tree"
     },
     {
       "id": "e841d627-1bca-4909-be66-7ce03e09bc6d",
@@ -16260,12 +16355,13 @@
       "part-of-speech": "noun",
       "english": "weather",
       "finnish": "sää",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[sæː]",
       "plural": "säät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "weather"
     },
     {
       "id": "8a29138c-81bb-4c00-b99b-d771b4f2b0a3",
@@ -16402,13 +16498,13 @@
       "part-of-speech": "noun",
       "english": "window",
       "finnish": "ikkuna",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈikːunɑ]",
       "plural": "ikkunat",
-      "context": "opening for light and air",
       "register": [
         "All"
-      ]
+      ],
+      "image": "window"
     },
     {
       "id": "3c357866-a15d-4e6e-b8e9-7e1e3e62be58",
@@ -16885,15 +16981,15 @@
     {
       "id": "e43dd4e5-06fe-405c-8897-8e2e1e690bc0",
       "part-of-speech": "noun",
-      "english": "beer, ale",
+      "english": "beer",
       "finnish": "olut",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈo̞lut̪]",
       "plural": "oluet",
-      "context": "fermented beverage made of malt, originally barley, but also other cereals are used",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beer"
     },
     {
       "id": "6bc4b74a-8596-4217-b080-4dee51ecf5a3",
@@ -17039,13 +17135,13 @@
       "part-of-speech": "noun",
       "english": "bank",
       "finnish": "pankki",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpɑŋkːi]",
       "plural": "pankit",
-      "context": "institution, branch office and derived meanings",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bank"
     },
     {
       "id": "99e45dc1-c8f6-4eb9-bb1e-2e2a036980e0",
@@ -17094,15 +17190,15 @@
     {
       "id": "5ba41208-d223-4ade-944f-c68bf91e466d",
       "part-of-speech": "noun",
-      "english": "bag, case",
+      "english": "bag",
       "finnish": "laukku",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈlɑu̯kːu]",
       "plural": "laukut",
-      "context": "firm container made out of cloth, leather, plastic, etc.",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bag"
     },
     {
       "id": "3215212a-8a17-4950-b57c-23566089937d",
@@ -17214,13 +17310,13 @@
       "part-of-speech": "noun",
       "english": "color",
       "finnish": "väri",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈʋæri]",
       "plural": "värit",
-      "context": "spectral composition of visible light",
       "register": [
         "All"
-      ]
+      ],
+      "image": "color"
     },
     {
       "id": "60eca1f9-4220-425f-83a8-cc74e8132b28",
@@ -17413,14 +17509,15 @@
     {
       "id": "73b669dc-f6af-49da-8565-037fb62a85cd",
       "part-of-speech": "noun",
-      "english": "flag, banner",
+      "english": "ticket; flag",
       "finnish": "lippu",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈlipːu]",
       "plural": "liput",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ticket"
     },
     {
       "id": "a4a5efc1-ae63-4543-87f3-56b0c3b3ac13",
@@ -18008,11 +18105,12 @@
       "part-of-speech": "verb",
       "english": "to wash",
       "finnish": "pestä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpe̞st̪æ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wash"
     },
     {
       "id": "02b84287-f544-4ddf-84df-33586029505a",
@@ -18114,12 +18212,12 @@
       "part-of-speech": "verb",
       "english": "to swim",
       "finnish": "uida",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈui̯dɑ]",
-      "context": "move through water without touching the bottom",
       "register": [
         "All"
-      ]
+      ],
+      "image": "swim"
     },
     {
       "id": "41a3448e-75ba-499b-8a27-2d40cdf2366f",
@@ -18417,15 +18515,15 @@
     {
       "id": "90e35586-2eae-46cd-9bf9-59aa67909bbc",
       "part-of-speech": "noun",
-      "english": "leaf",
+      "english": "newspaper, magazine; leaf",
       "finnish": "lehti",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈle̞ht̪i]",
       "plural": "lehdet",
-      "context": "part of a plant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "newspaper"
     },
     {
       "id": "d8d6284e-7d4d-4703-a4a2-9b6f84a8e877",
@@ -18492,14 +18590,14 @@
     {
       "id": "ae786572-80eb-4e8d-b3d5-b8e2b07070b6",
       "part-of-speech": "verb",
-      "english": "to order, place an order",
+      "english": "to order",
       "finnish": "tilata",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈt̪ilɑt̪ɑ]",
-      "context": "request some product or service",
       "register": [
         "All"
-      ]
+      ],
+      "image": "order"
     },
     {
       "id": "1c688155-9209-4c4c-b793-b537783941ee",
@@ -18567,15 +18665,15 @@
     {
       "id": "0f89150d-2913-44d0-b358-5f2698e11b5d",
       "part-of-speech": "noun",
-      "english": "tongue",
+      "english": "language; tongue",
       "finnish": "kieli",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkie̞̯li]",
       "plural": "kielet",
-      "context": "organ in the mouth",
       "register": [
         "All"
-      ]
+      ],
+      "image": "language"
     },
     {
       "id": "071613a0-1658-4619-8fce-d1d545a794ac",
@@ -18713,13 +18811,13 @@
       "part-of-speech": "noun",
       "english": "restaurant",
       "finnish": "ravintola",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈrɑʋin̪t̪o̞lɑ]",
       "plural": "ravintolat",
-      "context": "an eating establishment in which diners are served food at their tables",
       "register": [
         "All"
-      ]
+      ],
+      "image": "restaurant"
     },
     {
       "id": "e34e3c2c-1545-45e2-a37c-275806673e64",
@@ -18985,15 +19083,15 @@
     {
       "id": "d2a17011-d63d-4988-ba72-be667039f432",
       "part-of-speech": "noun",
-      "english": "dress, frock",
+      "english": "dress",
       "finnish": "mekko",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈme̞kːo̞]",
       "plural": "mekot",
-      "context": "woman's garment",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dress"
     },
     {
       "id": "923aa3a7-86ac-441c-b493-99af5650be00",
@@ -19039,12 +19137,12 @@
       "part-of-speech": "adjective",
       "english": "slow",
       "finnish": "hidas",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈhidɑs]",
-      "context": "at a low speed; not fast, not quick",
       "register": [
         "All"
-      ]
+      ],
+      "image": "slow"
     },
     {
       "id": "4d5f67b0-d5de-475c-a690-3db01bed09a6",
@@ -19095,15 +19193,15 @@
     {
       "id": "d7c3044a-079a-4b08-8d2f-402ce376ef00",
       "part-of-speech": "noun",
-      "english": "position, state, situation",
+      "english": "station",
       "finnish": "asema",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈɑse̞mɑ]",
       "plural": "asemat",
-      "context": "status with regard to conditions and circumstances",
       "register": [
         "All"
-      ]
+      ],
+      "image": "station"
     },
     {
       "id": "a7f2fca2-d446-47d4-981b-e5df150d488f",
@@ -19132,13 +19230,13 @@
       "part-of-speech": "noun",
       "english": "chicken",
       "finnish": "kana",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkɑnɑ]",
       "plural": "kanat",
-      "context": "domestic fowl of species Gallus gallus, Gallus domesticus",
       "register": [
         "All"
-      ]
+      ],
+      "image": "chicken"
     },
     {
       "id": "c7263b5a-303d-4f3c-b578-13ddff747e85",
@@ -19273,14 +19371,15 @@
     {
       "id": "c3056c5f-cef7-4f45-850d-0af7ac622bc2",
       "part-of-speech": "noun",
-      "english": "summer (season)",
+      "english": "summer",
       "finnish": "kesä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈke̞sæ]",
       "plural": "kesät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "summer"
     },
     {
       "id": "50928485-0af1-4c9e-9433-286624534834",
@@ -19413,14 +19512,15 @@
     {
       "id": "e50ad134-9d6e-40b9-961a-7e8285fb8213",
       "part-of-speech": "noun",
-      "english": "glass (substance)",
+      "english": "glass",
       "finnish": "lasi",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈlɑsi]",
       "plural": "lasit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "glass"
     },
     {
       "id": "d53bd7ad-cb10-4cb0-aac3-3c30b64f9e72",
@@ -19522,13 +19622,13 @@
       "part-of-speech": "noun",
       "english": "sea",
       "finnish": "meri",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈme̞ri]",
       "plural": "meret",
-      "context": "a single area or the seas altogether",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sea"
     },
     {
       "id": "ad7b4f7d-d381-428c-825e-5b1fee796068",
@@ -19597,13 +19697,13 @@
       "part-of-speech": "noun",
       "english": "bus",
       "finnish": "bussi",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈbusːi]",
       "plural": "bussit",
-      "context": "vehicle",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bus"
     },
     {
       "id": "9f86ae2e-eed6-4dde-aa23-e9cd9b1bd7a7",
@@ -19751,14 +19851,15 @@
     {
       "id": "82e05d9f-0567-4d8e-a6fa-746550588835",
       "part-of-speech": "noun",
-      "english": "help, aid, assistance, relief, succour",
+      "english": "help",
       "finnish": "apu",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈɑpu]",
       "plural": "avut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "first-aid"
     },
     {
       "id": "25685e26-064c-4aef-86fd-d600322e77fb",
@@ -19838,12 +19939,13 @@
       "part-of-speech": "noun",
       "english": "example",
       "finnish": "esimerkki",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈe̞sime̞rkːi]",
       "plural": "esimerkit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "example"
     },
     {
       "id": "3abb047a-76d5-4102-9cfb-48f211de08df",
@@ -19933,13 +20035,13 @@
       "part-of-speech": "noun",
       "english": "bar",
       "finnish": "baari",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈbɑːri]",
       "plural": "baarit",
-      "context": "public house",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bar"
     },
     {
       "id": "2dd5315b-d621-4863-91e8-d628bdca4478",
@@ -20159,13 +20261,13 @@
       "part-of-speech": "noun",
       "english": "nose",
       "finnish": "nenä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈne̞næ]",
       "plural": "nenät",
-      "context": "protuberance on the human face",
       "register": [
         "All"
-      ]
+      ],
+      "image": "nose"
     },
     {
       "id": "63c3b11c-d86c-4846-a020-1a40251e3bc7",
@@ -20336,12 +20438,13 @@
       "part-of-speech": "noun",
       "english": "weekend",
       "finnish": "viikonloppu",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈʋiːko̞nlo̞pːu]",
       "plural": "viikonloput",
       "register": [
         "All"
-      ]
+      ],
+      "image": "weekend"
     },
     {
       "id": "ec8ee76b-ef69-4d07-8f2f-69ee0efd630a",
@@ -20475,14 +20578,15 @@
     {
       "id": "73efc8d7-117e-49a3-9421-0328b095512d",
       "part-of-speech": "noun",
-      "english": "southwest",
+      "english": "lunch",
       "finnish": "lounas",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈlo̞u̯nɑs]",
       "plural": "lounaat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lunch"
     },
     {
       "id": "9e239a5d-605c-4957-bd88-3217d9d52f66",
@@ -20773,12 +20877,12 @@
       "part-of-speech": "adjective",
       "english": "interesting",
       "finnish": "kiinnostava",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkiːnːo̞st̪ɑʋɑ]",
-      "context": "arousing or holding the attention of",
       "register": [
         "All"
-      ]
+      ],
+      "image": "interesting"
     },
     {
       "id": "49b7f602-f1d2-40a3-91a7-50a1f14ce1dc",
@@ -21179,15 +21283,15 @@
     {
       "id": "b85a4ee6-6d37-476f-8d7c-2f4fe3d877d3",
       "part-of-speech": "noun",
-      "english": "aeroplane, airplane",
+      "english": "airplane",
       "finnish": "lentokone",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈle̞n̪t̪o̞ko̞ne̞]",
       "plural": "lentokoneet",
-      "context": "powered heavier-than-air aircraft with fixed wings",
       "register": [
         "All"
-      ]
+      ],
+      "image": "airplane"
     },
     {
       "id": "f1600ec4-1f0f-46f6-8f15-b8b8f0f6c5a6",
@@ -21266,13 +21370,13 @@
       "part-of-speech": "noun",
       "english": "village",
       "finnish": "kylä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkylæ]",
       "plural": "kylät",
-      "context": "rural habitation smaller than a town",
       "register": [
         "All"
-      ]
+      ],
+      "image": "village"
     },
     {
       "id": "b79e47bc-a72a-4e2e-b14d-a96481ac9829",
@@ -21301,15 +21405,15 @@
     {
       "id": "74baf3d9-5aaa-485d-9fad-bad2b479b84a",
       "part-of-speech": "noun",
-      "english": "toilet",
+      "english": "toilet, restroom",
       "finnish": "vessa",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈʋe̞sːɑ]",
       "plural": "vessat",
-      "context": "room or seat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "toilet"
     },
     {
       "id": "4e5afb44-2349-4098-a3d8-32499e8557de",
@@ -21350,27 +21454,28 @@
     {
       "id": "99ef108a-2aac-4381-b465-837068f82f67",
       "part-of-speech": "noun",
-      "english": "dinner (main meal of the day; midday meal)",
+      "english": "dinner",
       "finnish": "päivällinen",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpæi̯ʋælːine̞n]",
       "plural": "päivälliset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "dinner"
     },
     {
       "id": "131b78e1-912e-4dbe-9150-a25214158804",
       "part-of-speech": "noun",
-      "english": "wheel",
+      "english": "bike, bicycle; wheel",
       "finnish": "pyörä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpyø̞̯ræ]",
       "plural": "pyörät",
-      "context": "circular device capable of rotating on its axis",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bike"
     },
     {
       "id": "214c1dbc-f23c-4e6f-9b4e-35fb486d472d",
@@ -21447,12 +21552,13 @@
       "part-of-speech": "noun",
       "english": "student",
       "finnish": "opiskelija",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈo̞piske̞lijɑ]",
       "plural": "opiskelijat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "student"
     },
     {
       "id": "a4393251-aa31-4cd2-83f9-2faa2d7a4baf",
@@ -21543,12 +21649,13 @@
       "part-of-speech": "noun",
       "english": "birthday",
       "finnish": "syntymäpäivä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈsyn̪t̪ymæpæi̯ʋæ]",
       "plural": "syntymäpäivät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "birthday"
     },
     {
       "id": "dc7ce365-0220-4b00-bdef-adb2a55ff1fa",
@@ -21588,13 +21695,13 @@
       "part-of-speech": "noun",
       "english": "chair",
       "finnish": "tuoli",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈt̪uo̞̯li]",
       "plural": "tuolit",
-      "context": "piece of furniture for sitting",
       "register": [
         "All"
-      ]
+      ],
+      "image": "chair"
     },
     {
       "id": "f75467e2-f2fe-4a61-8531-84e938492d55",
@@ -21647,14 +21754,14 @@
     {
       "id": "3d02623a-3f06-4d32-b0e7-7441fbe14ba2",
       "part-of-speech": "verb",
-      "english": "to study [with translative ‘to be’]",
+      "english": "to study",
       "finnish": "opiskella",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈo̞piske̞lːɑ]",
-      "context": "to pursue studies of, e.g. at a university",
       "register": [
         "All"
-      ]
+      ],
+      "image": "student"
     },
     {
       "id": "3cdf4194-bad7-433d-a6a6-7a52eb77222e",
@@ -21817,15 +21924,15 @@
     },
     {
       "id": "b46fbcd7-16db-49a0-a5ae-45e4159817d1",
-      "part-of-speech": "noun",
-      "english": "The color yellow",
+      "part-of-speech": "adjective",
+      "english": "yellow",
       "finnish": "keltainen",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈke̞lt̪ɑi̯ne̞n]",
-      "plural": "keltaiset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "yellow"
     },
     {
       "id": "e00cfec1-b205-4ff9-b4b7-e75a58a1c047",
@@ -22011,13 +22118,13 @@
       "part-of-speech": "noun",
       "english": "pen",
       "finnish": "kynä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkynæ]",
       "plural": "kynät",
-      "context": "writing instrument",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pen"
     },
     {
       "id": "116aed33-72c8-42e6-8e39-3bb4bc8dee31",
@@ -22036,13 +22143,13 @@
       "part-of-speech": "noun",
       "english": "Friday",
       "finnish": "perjantai",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈpe̞rjɑn̪t̪ɑi̯]",
       "plural": "perjantait",
-      "context": "day of the week; the fifth day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "friday"
     },
     {
       "id": "2acbc8b7-38f0-41d3-97fb-5dedc865e162",
@@ -22119,15 +22226,15 @@
     {
       "id": "ab307426-19d7-42a3-9635-611b9bcb9584",
       "part-of-speech": "noun",
-      "english": "precipitation",
+      "english": "rain",
       "finnish": "sade",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈsɑde̞]",
       "plural": "sateet",
-      "context": "any kind of precipitation from the sky (e.g. rain, snow, sleet, hailstones)",
       "register": [
         "All"
-      ]
+      ],
+      "image": "rain"
     },
     {
       "id": "bb126f14-3acc-4a61-a2e0-1568012f6471",
@@ -22212,16 +22319,15 @@
     },
     {
       "id": "d958c8d2-7f06-49c9-9c49-8e065a664e8e",
-      "part-of-speech": "noun",
-      "english": "poor person, person in poverty; the poor",
+      "part-of-speech": "adjective",
+      "english": "poor",
       "finnish": "köyhä",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈkø̞y̯hæ]",
-      "plural": "köyhät",
-      "context": "in the plural",
       "register": [
         "All"
-      ]
+      ],
+      "image": "poor"
     },
     {
       "id": "3553daa9-9faf-4b0f-a289-aea7c924b6da",
@@ -22295,15 +22401,15 @@
     {
       "id": "49752f8a-7964-4d8a-b6c0-674a8f9f83bd",
       "part-of-speech": "noun",
-      "english": "bed, bedstead, bedframe",
+      "english": "bed",
       "finnish": "sänky",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈsæŋky]",
       "plural": "sängyt",
-      "context": "piece of furniture, usually flat and soft, on which to rest or sleep",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bed"
     },
     {
       "id": "6389077e-bdde-4f03-ad50-09e44ebcece0",
@@ -22593,14 +22699,14 @@
     {
       "id": "4fc33b32-ad5d-4a11-9021-e0051e6f320d",
       "part-of-speech": "verb",
-      "english": "to hurt, be sore",
+      "english": "to hurt",
       "finnish": "sattua",
-      "cefr": "B2",
+      "cefr": "A1",
       "ipa": "[ˈsɑt̪ːuɑ]",
-      "context": "physically or mentally",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hurt"
     },
     {
       "id": "632127fb-eb25-4621-a469-c3e4a98cf411",
@@ -22976,11 +23082,12 @@
       "part-of-speech": "verb",
       "english": "to hate",
       "finnish": "vihata",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈʋihɑt̪ɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "hate"
     },
     {
       "id": "46316f9e-6be6-4740-8967-0102043ed5ee",
@@ -23161,14 +23268,15 @@
     {
       "id": "eb9dd6cc-ff44-4d2a-bd14-98f0a789cad7",
       "part-of-speech": "noun",
-      "english": "mobile phone, cellular",
+      "english": "cell phone",
       "finnish": "kännykkä",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkænːykːæ]",
       "plural": "kännykät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "phone"
     },
     {
       "id": "d57b23e8-d775-41cb-8e61-e281748291ef",
@@ -23352,13 +23460,13 @@
       "part-of-speech": "noun",
       "english": "kitchen",
       "finnish": "keittiö",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈke̞i̯t̪ːiø̞]",
       "plural": "keittiöt",
-      "context": "room or area for preparing food",
       "register": [
         "All"
-      ]
+      ],
+      "image": "kitchen"
     },
     {
       "id": "0a5852b4-d10c-4f5a-9293-10ba7023deb0",
@@ -23769,13 +23877,13 @@
       "part-of-speech": "noun",
       "english": "age",
       "finnish": "ikä",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈikæ]",
       "plural": "iät",
-      "context": "time which someone or something has been alive or existed",
       "register": [
         "All"
-      ]
+      ],
+      "image": "age"
     },
     {
       "id": "f2b67594-759a-4b70-8a78-592fd1cb4dae",
@@ -23855,12 +23963,13 @@
       "part-of-speech": "noun",
       "english": "egg",
       "finnish": "muna",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈmunɑ]",
       "plural": "munat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "egg"
     },
     {
       "id": "34e1e132-0a67-40a6-b231-9b861008bd5c",
@@ -24197,26 +24306,26 @@
       "part-of-speech": "noun",
       "english": "cake",
       "finnish": "kakku",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkɑkːu]",
       "plural": "kakut",
-      "context": "rich, sweet dessert food",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cake"
     },
     {
       "id": "0cf00b0b-58ba-489a-b75c-269a88cf8c26",
       "part-of-speech": "noun",
       "english": "wine",
       "finnish": "viini",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈʋiːni]",
       "plural": "viinit",
-      "context": "alcoholic drink made from grapes",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wine"
     },
     {
       "id": "1b5a132c-d1a3-4859-a805-9bc0c603993c",
@@ -24370,12 +24479,13 @@
       "part-of-speech": "noun",
       "english": "breakfast",
       "finnish": "aamiainen",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈɑːmiɑi̯ne̞n]",
       "plural": "aamiaiset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "breakfast"
     },
     {
       "id": "8acc59c6-a8bf-44e3-ab55-5c869cabc906",
@@ -24584,13 +24694,13 @@
       "part-of-speech": "noun",
       "english": "Sunday",
       "finnish": "sunnuntai",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈsunːun̪t̪ɑi̯]",
       "plural": "sunnuntait",
-      "context": "day of the week; the seventh and last day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sunday"
     },
     {
       "id": "30be0c49-cdee-4c86-8c7d-ef948664a1c3",
@@ -24653,15 +24763,15 @@
     {
       "id": "d76fb344-5466-4c0a-9cb3-d631d186f0f2",
       "part-of-speech": "noun",
-      "english": "English",
+      "english": "English (language)",
       "finnish": "englanti",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈe̞ŋːlɑn̪t̪i]",
       "plural": "englannit",
-      "context": "language",
       "register": [
         "All"
-      ]
+      ],
+      "image": "english"
     },
     {
       "id": "b372aa45-4c59-4e89-9a24-4c322a4ae92c",
@@ -24700,14 +24810,15 @@
     {
       "id": "3ac2b52d-115e-45d4-bd5f-690cdd0d9f2e",
       "part-of-speech": "noun",
-      "english": "grandmother, grandma",
+      "english": "grandma",
       "finnish": "mummo",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈmumːo̞]",
       "plural": "mummot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "grandmother"
     },
     {
       "id": "ab3f4df1-9d24-4315-910e-01eb83af21ef",
@@ -24911,14 +25022,14 @@
     {
       "id": "3fd20094-3e81-4e1b-a92c-69ffaed4acea",
       "part-of-speech": "adjective",
-      "english": "cheap, inexpensive, low-end",
+      "english": "cheap",
       "finnish": "halpa",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈhɑlpɑ]",
-      "context": "low in price",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cheap"
     },
     {
       "id": "8995b57e-9102-4da8-a8c6-761d9650b6b4",
@@ -25040,9 +25151,9 @@
     {
       "id": "f2b313af-142e-461a-a46d-1c8ffc883715",
       "part-of-speech": "noun",
-      "english": "grandpa, grandfather",
+      "english": "grandpa",
       "finnish": "ukki",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈukːi]",
       "plural": "ukit",
       "register": [
@@ -25050,7 +25161,8 @@
         "arkikieli",
         "slangi",
         "alatyyli"
-      ]
+      ],
+      "image": "grandfather"
     },
     {
       "id": "85720286-fe56-4284-bf3a-79834a2d6993",
@@ -25202,15 +25314,15 @@
     {
       "id": "c8157009-ef90-497d-9357-35fd9f017a79",
       "part-of-speech": "noun",
-      "english": "flesh",
+      "english": "meat",
       "finnish": "liha",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈlihɑ]",
       "plural": "lihat",
-      "context": "soft tissue of the body, especially muscle and fat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "meat"
     },
     {
       "id": "33d17152-b1b9-46ca-b3fe-9f2dff98f6f1",
@@ -25613,13 +25725,13 @@
       "part-of-speech": "noun",
       "english": "Saturday",
       "finnish": "lauantai",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈlɑu̯ɑn̪t̪ɑi̯]",
       "plural": "lauantait",
-      "context": "day of the week; the sixth day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "saturday"
     },
     {
       "id": "e88340d1-aaa2-44c5-bd0b-937412e596a7",
@@ -25865,14 +25977,15 @@
     {
       "id": "e37199d6-6592-4a8f-9f95-f3d7dc2219fd",
       "part-of-speech": "noun",
-      "english": "kind, sort",
+      "english": "kind, type",
       "finnish": "laji",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈlɑji]",
       "plural": "lajit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "kind"
     },
     {
       "id": "1d4e07a6-c76a-477c-9963-b036f1530f97",
@@ -25901,27 +26014,28 @@
     {
       "id": "19942456-a8a4-4b54-a752-7789d8b5fe87",
       "part-of-speech": "noun",
-      "english": "French",
+      "english": "French (language)",
       "finnish": "ranska",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈrɑnskɑ]",
       "plural": "ranskamme",
-      "context": "language",
       "register": [
         "All"
-      ]
+      ],
+      "image": "french"
     },
     {
       "id": "68a30f14-eae9-42b2-9f92-997b483c676e",
       "part-of-speech": "noun",
-      "english": "holiday, vacation",
+      "english": "vacation",
       "finnish": "loma",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈlo̞mɑ]",
       "plural": "lomat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "vacation"
     },
     {
       "id": "a26deb7b-bb6e-414f-9260-baaa3fa6228a",
@@ -25940,13 +26054,13 @@
       "part-of-speech": "noun",
       "english": "cup",
       "finnish": "kuppi",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkupːi]",
       "plural": "kupit",
-      "context": "vessel for warm drinks",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cup"
     },
     {
       "id": "cf9d42c0-7d57-4bcf-bf62-66406f996550",
@@ -26864,13 +26978,13 @@
       "part-of-speech": "noun",
       "english": "thirst",
       "finnish": "jano",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈjɑno̞]",
       "plural": "janot",
-      "context": "sensation of dryness, craving for liquids",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thirst"
     },
     {
       "id": "6b61fe98-291e-46d6-9941-59861877e327",
@@ -27507,15 +27621,15 @@
     },
     {
       "id": "2568056e-9951-4f66-9e4f-d076dcacb4cf",
-      "part-of-speech": "noun",
-      "english": "The colour grey/gray.",
+      "part-of-speech": "adjective",
+      "english": "gray",
       "finnish": "harmaa",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈhɑrmɑː]",
-      "plural": "harmaat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "gray"
     },
     {
       "id": "58677264-e6f2-4f04-9235-d619ea1b3cde",
@@ -27959,13 +28073,13 @@
       "part-of-speech": "noun",
       "english": "street",
       "finnish": "katu",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkɑt̪u]",
       "plural": "kadut",
-      "context": "paved part of road in a village or a town, especially one bordered by pavements or sidewalks",
       "register": [
         "All"
-      ]
+      ],
+      "image": "street"
     },
     {
       "id": "b7efc339-25e4-42ba-8562-6aedd7fbd94e",
@@ -28207,13 +28321,14 @@
     {
       "id": "55c8b11a-f57e-481a-ba89-2910955b85b4",
       "part-of-speech": "adjective",
-      "english": "fresh (new or clean)",
+      "english": "fresh",
       "finnish": "tuore",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈt̪uo̞̯re̞]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fresh"
     },
     {
       "id": "36f4cc55-c174-4d81-a05e-738976a8f25c",
@@ -28373,12 +28488,13 @@
       "part-of-speech": "noun",
       "english": "winter",
       "finnish": "talvi",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈt̪ɑlʋi]",
       "plural": "talvet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "winter"
     },
     {
       "id": "e562afc3-8a1a-4568-932e-3b705571fe74",
@@ -28419,15 +28535,15 @@
     {
       "id": "3050f8a8-b846-4f3c-9b3c-d3810fdbf149",
       "part-of-speech": "noun",
-      "english": "class",
+      "english": "class, classroom",
       "finnish": "luokka",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈluo̞̯kːɑ]",
       "plural": "luokat",
-      "context": "group, collection, category or set sharing characteristics or attributes",
       "register": [
         "All"
-      ]
+      ],
+      "image": "classroom"
     },
     {
       "id": "dddc7d8f-a971-48e6-b0b4-6b8a5c825d01",
@@ -28494,15 +28610,15 @@
     {
       "id": "dfb07fd6-ac0f-43b5-83cb-ce82df36f08d",
       "part-of-speech": "noun",
-      "english": "spring, springtime",
+      "english": "spring",
       "finnish": "kevät",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈke̞ʋæt̪]",
       "plural": "keväät",
-      "context": "season of the year",
       "register": [
         "All"
-      ]
+      ],
+      "image": "spring"
     },
     {
       "id": "6378e8c1-0456-4cb5-9851-17992328a6a9",
@@ -28689,12 +28805,13 @@
       "part-of-speech": "noun",
       "english": "television",
       "finnish": "televisio",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈt̪e̞le̞ʋisio̞]",
       "plural": "televisiot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "television"
     },
     {
       "id": "ea84aa21-aa23-4c1f-86f2-912cf480202e",
@@ -29222,13 +29339,13 @@
       "part-of-speech": "noun",
       "english": "Tuesday",
       "finnish": "tiistai",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈt̪iːst̪ɑi̯]",
       "plural": "tiistait",
-      "context": "day of the week; the second day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tuesday"
     },
     {
       "id": "1281a816-e56c-44dc-b763-16b2b2358bf2",
@@ -29655,15 +29772,15 @@
     {
       "id": "d6295401-e6e9-4676-b993-b2bf48742503",
       "part-of-speech": "noun",
-      "english": "flower (reproductive structure in angiosperms)",
+      "english": "flower",
       "finnish": "kukka",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkukːɑ]",
       "plural": "kukat",
-      "context": "reproductive structure in angiosperms; plant with such structures",
       "register": [
         "All"
-      ]
+      ],
+      "image": "flower"
     },
     {
       "id": "15e25653-ec12-4616-8917-f6b6881e1fe0",
@@ -30056,13 +30173,13 @@
       "part-of-speech": "noun",
       "english": "Thursday",
       "finnish": "torstai",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈt̪o̞rst̪ɑi̯]",
       "plural": "torstait",
-      "context": "day of the week; the fourth day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "thursday"
     },
     {
       "id": "ea03ccee-fd21-4a65-91ab-a8ebf2957076",
@@ -30325,12 +30442,13 @@
       "part-of-speech": "noun",
       "english": "apple",
       "finnish": "omena",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈo̞me̞nɑ]",
       "plural": "omenat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "apple"
     },
     {
       "id": "e3c2f797-4057-4780-8a4a-565f0495183e",
@@ -30599,15 +30717,15 @@
     {
       "id": "562fddd1-cb91-49d7-baf1-ef786e536f3e",
       "part-of-speech": "noun",
-      "english": "belly, abdomen",
+      "english": "stomach",
       "finnish": "vatsa",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈʋɑt̪sɑ]",
       "plural": "vatsat",
-      "context": "part of the body between the thorax and the pelvis, not including the back",
       "register": [
         "All"
-      ]
+      ],
+      "image": "stomach"
     },
     {
       "id": "9d015aa9-d96d-46c9-94bc-544e582edf9c",
@@ -32293,13 +32411,13 @@
       "part-of-speech": "noun",
       "english": "tooth",
       "finnish": "hammas",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈhɑmːɑs]",
       "plural": "hampaat",
-      "context": "hard, calcareous structure present in the mouth of many vertebrate animals",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tooth"
     },
     {
       "id": "1f15dcf5-ca79-4ec8-acbf-8bb5ee426d2d",
@@ -32474,13 +32592,13 @@
       "part-of-speech": "noun",
       "english": "mountain",
       "finnish": "vuori",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈʋuo̞̯ri]",
       "plural": "vuoret",
-      "context": "large mass of earth and rock",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mountain"
     },
     {
       "id": "fa980e3e-4b5c-407d-99a2-e1595efeaf45",
@@ -32520,13 +32638,13 @@
       "part-of-speech": "noun",
       "english": "shoe",
       "finnish": "kenkä",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈke̞ŋkæ]",
       "plural": "kengät",
-      "context": "protective covering for the foot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shoe"
     },
     {
       "id": "66911591-f8be-49f4-97c2-c411758230e5",
@@ -32659,13 +32777,13 @@
       "part-of-speech": "noun",
       "english": "Wednesday",
       "finnish": "keskiviikko",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈke̞skiʋiːkːo̞]",
       "plural": "keskiviikot",
-      "context": "day of the week; the third day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "wednesday"
     },
     {
       "id": "740a4d3a-b8bd-4077-92de-ef4fd0f59741",
@@ -32838,12 +32956,13 @@
       "part-of-speech": "noun",
       "english": "passport",
       "finnish": "passi",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈpɑsːi]",
       "plural": "passit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "passport"
     },
     {
       "id": "fc79effb-ac0c-4e7e-b5bc-509d576c5cae",
@@ -33158,12 +33277,13 @@
       "part-of-speech": "noun",
       "english": "garden",
       "finnish": "puutarha",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈpuːt̪ɑrhɑ]",
       "plural": "puutarhat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "garden"
     },
     {
       "id": "2e97e3ae-77b6-4e06-b62b-be55093a8e1a",
@@ -33669,13 +33789,13 @@
       "part-of-speech": "noun",
       "english": "tower",
       "finnish": "torni",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈt̪o̞rni]",
       "plural": "tornit",
-      "context": "tall structure",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tower"
     },
     {
       "id": "617fbc27-ae24-496c-9b2b-b7891db50096",
@@ -34089,14 +34209,15 @@
     {
       "id": "c9d38a3a-2035-408a-9078-e2919b190cf4",
       "part-of-speech": "noun",
-      "english": "sofa, couch",
+      "english": "couch, sofa",
       "finnish": "sohva",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈso̞hʋɑ]",
       "plural": "sohvat",
       "register": [
         "All"
-      ]
+      ],
+      "image": "couch"
     },
     {
       "id": "f3a4d502-2bca-4268-9cb4-82b03962ec05",
@@ -34255,14 +34376,15 @@
     {
       "id": "203296db-3f5b-4edf-b64e-a3d2ead5c57f",
       "part-of-speech": "noun",
-      "english": "sign, signpost, signboard",
+      "english": "sign",
       "finnish": "kyltti",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkylt̪ːi]",
       "plural": "kyltit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sign"
     },
     {
       "id": "ef55d459-b195-4f81-892f-5d32c9722607",
@@ -34306,26 +34428,26 @@
       "part-of-speech": "noun",
       "english": "bathroom",
       "finnish": "kylpyhuone",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkylpyhuo̞ne̞]",
       "plural": "kylpyhuoneet",
-      "context": "room with a bathtub and/or shower",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bathroom"
     },
     {
       "id": "37701768-be18-440c-9f76-091ce972627c",
       "part-of-speech": "noun",
       "english": "Monday",
       "finnish": "maanantai",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈmɑːnɑn̪t̪ɑi̯]",
       "plural": "maanantait",
-      "context": "day of the week; the first day of the week in Finland and in the ISO 8601 standard",
       "register": [
         "All"
-      ]
+      ],
+      "image": "monday"
     },
     {
       "id": "8601ffed-c58d-488c-a077-ac60dd8b7f4a",
@@ -34380,15 +34502,15 @@
     {
       "id": "06de8ca4-6d8a-4fd9-9b69-0d945672c333",
       "part-of-speech": "noun",
-      "english": "association football, football, soccer",
+      "english": "soccer",
       "finnish": "jalkapallo",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈjɑlkɑpɑlːo̞]",
       "plural": "jalkapallot",
-      "context": "association football",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soccer"
     },
     {
       "id": "d8e6c59d-5f09-4d92-b130-8bef5599ee8c",
@@ -34590,13 +34712,13 @@
       "part-of-speech": "noun",
       "english": "milk",
       "finnish": "maito",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈmɑi̯t̪o̞]",
       "plural": "maidot",
-      "context": "white liquid produced by the mammary glands of female mammals",
       "register": [
         "All"
-      ]
+      ],
+      "image": "milk"
     },
     {
       "id": "302eb0dc-85d2-4209-b7bf-06fd66b7dbda",
@@ -34907,13 +35029,13 @@
       "part-of-speech": "noun",
       "english": "snow",
       "finnish": "lumi",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈlumi]",
       "plural": "lumet",
-      "context": "frozen, crystalline state of water that falls as precipitation; sometimes also similar frozen forms of other substances",
       "register": [
         "All"
-      ]
+      ],
+      "image": "snow"
     },
     {
       "id": "2c60a46f-4a6c-4970-9981-b96e18478010",
@@ -34957,12 +35079,13 @@
       "part-of-speech": "noun",
       "english": "airport",
       "finnish": "lentokenttä",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈle̞n̪t̪o̞ke̞n̪t̪ːæ]",
       "plural": "lentokentät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "airport"
     },
     {
       "id": "37aa40af-7f5e-46f7-804d-6ffd17d2e6c3",
@@ -35381,11 +35504,12 @@
       "part-of-speech": "verb",
       "english": "to arrive",
       "finnish": "saapua",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈsɑːpuɑ]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "arrive"
     },
     {
       "id": "960c606f-011f-4a15-ae99-deb0f44baf0c",
@@ -35986,13 +36110,13 @@
       "part-of-speech": "noun",
       "english": "bread",
       "finnish": "leipä",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈle̞i̯pæ]",
       "plural": "leivät",
-      "context": "foodstuff",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bread"
     },
     {
       "id": "b019a166-add9-4418-9adf-1ca34a8b841f",
@@ -36714,12 +36838,13 @@
       "part-of-speech": "noun",
       "english": "bedroom",
       "finnish": "makuuhuone",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈmɑkuːhuo̞ne̞]",
       "plural": "makuuhuoneet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bedroom"
     },
     {
       "id": "5f47e250-2b28-49cf-9b6e-8d288f8798f4",
@@ -36845,14 +36970,14 @@
     {
       "id": "22d13144-39f3-494e-9ee2-8ee5b9755f4d",
       "part-of-speech": "verb",
-      "english": "to lose, misplace (place somewhere and forget)",
+      "english": "to lose (something)",
       "finnish": "hukata",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈhukɑt̪ɑ]",
-      "context": "place somewhere and forget, so that one can no longer find it",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lose"
     },
     {
       "id": "b25d509e-c343-4c51-8498-cda0684a9de0",
@@ -37092,15 +37217,15 @@
     {
       "id": "a43b0de7-75f5-428d-b21b-71715ce6d2ef",
       "part-of-speech": "noun",
-      "english": "cabinet, closet, cupboard",
+      "english": "closet, cupboard",
       "finnish": "kaappi",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈkɑːpːi]",
       "plural": "kaapit",
-      "context": "a piece of furniture used for storage and closed with a door",
       "register": [
         "All"
-      ]
+      ],
+      "image": "closet"
     },
     {
       "id": "e38358bb-4840-43da-8aaa-eeaac5906074",
@@ -37594,13 +37719,13 @@
       "part-of-speech": "noun",
       "english": "lake",
       "finnish": "järvi",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈjærʋi]",
       "plural": "järvet",
-      "context": "large, landlocked stretch of water",
       "register": [
         "All"
-      ]
+      ],
+      "image": "lake"
     },
     {
       "id": "1136d244-3a0a-478a-898e-916a6e4351bb",
@@ -37748,28 +37873,28 @@
     {
       "id": "c400a79f-552f-450f-97d3-d7e70589fb58",
       "part-of-speech": "noun",
-      "english": "mail, post",
+      "english": "mail; post office",
       "finnish": "posti",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈpo̞st̪i]",
       "plural": "postit",
-      "context": "letters, parcels, etc. delivered to a particular address or person",
       "register": [
         "All"
-      ]
+      ],
+      "image": "mail"
     },
     {
       "id": "b2aadcff-6a88-428d-9dee-4a923843af68",
       "part-of-speech": "noun",
       "english": "park",
       "finnish": "puisto",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈpui̯st̪o̞]",
       "plural": "puistot",
-      "context": "area of land set aside for environment preservation or recreation",
       "register": [
         "All"
-      ]
+      ],
+      "image": "park"
     },
     {
       "id": "41b2a7fb-5ae2-4df8-9f65-d978f106bf26",
@@ -37998,15 +38123,15 @@
     {
       "id": "2bf5df4a-033a-4cd0-b482-80cb189c03eb",
       "part-of-speech": "noun",
-      "english": "jet",
+      "english": "shower",
       "finnish": "suihku",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈsui̯hku]",
       "plural": "suihkut",
-      "context": "collimated stream, spurt or flow of liquid or gas",
       "register": [
         "All"
-      ]
+      ],
+      "image": "shower"
     },
     {
       "id": "5f8f237f-bb56-47aa-a689-07a833921ef4",
@@ -38082,15 +38207,15 @@
     {
       "id": "79ab3d20-87dd-4884-bba5-5eeeeeb6fe2a",
       "part-of-speech": "noun",
-      "english": "clause",
+      "english": "sentence",
       "finnish": "lause",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈlɑu̯se̞]",
       "plural": "lauseet",
-      "context": "group of words which include a subject and any necessary predicate, such as can make up a simple sentence on its own",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sentence"
     },
     {
       "id": "cfda14b7-a3d0-4f66-b597-75514185f4ca",
@@ -38596,12 +38721,13 @@
       "part-of-speech": "noun",
       "english": "museum",
       "finnish": "museo",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈmuse̞o̞]",
       "plural": "museot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "museum"
     },
     {
       "id": "3f3b26fd-6b3b-41a0-a3d1-0e0fa92eccfd",
@@ -39842,14 +39968,15 @@
     {
       "id": "911ca992-c5ce-42fe-8cac-226277a499a8",
       "part-of-speech": "noun",
-      "english": "internet",
+      "english": "Internet",
       "finnish": "internet",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈin̪t̪e̞rne̞t̪]",
       "plural": "internetit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "internet"
     },
     {
       "id": "5e85080e-9816-45dc-9e1e-0a72b206d3c2",
@@ -40074,13 +40201,13 @@
       "part-of-speech": "noun",
       "english": "cheese",
       "finnish": "juusto",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈjuːst̪o̞]",
       "plural": "juustot",
-      "context": "dairy product",
       "register": [
         "All"
-      ]
+      ],
+      "image": "cheese"
     },
     {
       "id": "1ed3d58d-b436-4e0c-b95f-0ac3bd7249bc",
@@ -40169,15 +40296,15 @@
     {
       "id": "2389dc5c-1659-463a-83b4-9b92a975d9c0",
       "part-of-speech": "noun",
-      "english": "shore, strand, coast",
+      "english": "beach, shore",
       "finnish": "ranta",
-      "cefr": "C1",
+      "cefr": "A1",
       "ipa": "[ˈrɑn̪t̪ɑ]",
       "plural": "rannat",
-      "context": "the border of a body of water and land in general",
       "register": [
         "All"
-      ]
+      ],
+      "image": "beach"
     },
     {
       "id": "e28a9005-a9e1-4705-aeed-e810ce4e3028",
@@ -41349,14 +41476,15 @@
     {
       "id": "f10e3a0a-9bb3-4986-96f9-c605bb44e139",
       "part-of-speech": "noun",
-      "english": "An afternoon, roughly the period between 12 noon and 6 p.m.",
+      "english": "afternoon",
       "finnish": "iltapäivä",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈilt̪ɑpæi̯ʋæ]",
       "plural": "iltapäivät",
       "register": [
         "All"
-      ]
+      ],
+      "image": "afternoon"
     },
     {
       "id": "5f6b1922-e4fb-49e5-9a9a-540d05331f7b",
@@ -41646,12 +41774,13 @@
       "part-of-speech": "noun",
       "english": "refrigerator",
       "finnish": "jääkaappi",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈjæːkɑːpːi]",
       "plural": "jääkaapit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "refrigerator"
     },
     {
       "id": "0921fa21-b70d-46c4-bc52-7b6a137b79f1",
@@ -42859,13 +42988,13 @@
       "part-of-speech": "noun",
       "english": "fruit",
       "finnish": "hedelmä",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈhe̞de̞lmæ]",
       "plural": "hedelmät",
-      "context": "part of plant; food",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fruit"
     },
     {
       "id": "8d69f4f2-2a76-4ec7-89a9-dd77d0b98946",
@@ -44057,15 +44186,15 @@
     },
     {
       "id": "30df541c-b61d-4e9e-8e0e-4f3094dbe8b8",
-      "part-of-speech": "noun",
+      "part-of-speech": "adjective",
       "english": "pink",
       "finnish": "vaaleanpunainen",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈʋɑːle̞ɑnpunɑi̯ne̞n]",
-      "plural": "vaaleanpunaiset",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pink"
     },
     {
       "id": "3616d302-7c27-4ceb-8b99-89ca4a59bd8b",
@@ -45937,12 +46066,13 @@
       "part-of-speech": "noun",
       "english": "skirt",
       "finnish": "hame",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈhɑme̞]",
       "plural": "hameet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "skirt"
     },
     {
       "id": "b067e3c9-fbe8-48c8-b6c5-9791d77c67ad",
@@ -46019,13 +46149,13 @@
       "part-of-speech": "noun",
       "english": "chocolate",
       "finnish": "suklaa",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈsuklɑː]",
       "plural": "suklaat",
-      "context": "food made from ground roasted cocoa beans",
       "register": [
         "All"
-      ]
+      ],
+      "image": "chocolate"
     },
     {
       "id": "38d792a6-e67d-4112-8fe0-65da7034997a",
@@ -46499,15 +46629,15 @@
     {
       "id": "3d994f96-2eda-4ef0-95df-a90ed224a1bc",
       "part-of-speech": "noun",
-      "english": "plate (slightly curved but almost flat dish…)",
+      "english": "plate",
       "finnish": "lautanen",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈlɑu̯t̪ɑne̞n]",
       "plural": "lautaset",
-      "context": "slightly curved but almost flat dish from which food is served or eaten",
       "register": [
         "All"
-      ]
+      ],
+      "image": "plate"
     },
     {
       "id": "17a8ba12-bd50-439d-bc0c-717336d9a01a",
@@ -46773,13 +46903,13 @@
       "part-of-speech": "noun",
       "english": "salt",
       "finnish": "suola",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈsuo̞̯lɑ]",
       "plural": "suolat",
-      "context": "common table salt, sodium chloride, NaCl",
       "register": [
         "All"
-      ]
+      ],
+      "image": "salt"
     },
     {
       "id": "ecc74b5a-e4e8-4445-99eb-cf46561dfe73",
@@ -48680,12 +48810,13 @@
       "part-of-speech": "noun",
       "english": "banana",
       "finnish": "banaani",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈbɑnɑːni]",
       "plural": "banaanit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "banana"
     },
     {
       "id": "f161f3d4-98e1-46d4-bafb-d9bae25a5767",
@@ -49301,12 +49432,13 @@
       "part-of-speech": "noun",
       "english": "soup",
       "finnish": "keitto",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈke̞i̯t̪ːo̞]",
       "plural": "keitot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "soup"
     },
     {
       "id": "72766cf2-d079-4c9e-bf2b-d5dd77746252",
@@ -49322,14 +49454,15 @@
     {
       "id": "e904a870-0ac4-4085-9f9c-9f6695eb8556",
       "part-of-speech": "noun",
-      "english": "a metro, an underground, a subway, a Tube",
+      "english": "subway",
       "finnish": "metro",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈme̞t̪ro̞]",
       "plural": "metrot",
       "register": [
         "All"
-      ]
+      ],
+      "image": "subway"
     },
     {
       "id": "1c72220c-b095-4cfe-8841-6cf556501d0e",
@@ -49936,13 +50069,13 @@
       "part-of-speech": "noun",
       "english": "ear",
       "finnish": "korva",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈko̞rʋɑ]",
       "plural": "korvat",
-      "context": "organ of hearing",
       "register": [
         "All"
-      ]
+      ],
+      "image": "ear"
     },
     {
       "id": "610a2ac3-4f4b-4200-b79b-ce4e145d4b54",
@@ -50318,13 +50451,13 @@
       "part-of-speech": "noun",
       "english": "sugar",
       "finnish": "sokeri",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈso̞ke̞ri]",
       "plural": "sokerit",
-      "context": "sucrose as small crystals",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sugar"
     },
     {
       "id": "7e94333b-701a-43e8-8f90-a8128b4d38b5",
@@ -50806,12 +50939,13 @@
       "part-of-speech": "noun",
       "english": "living room",
       "finnish": "olohuone",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈo̞lo̞huo̞ne̞]",
       "plural": "olohuoneet",
       "register": [
         "All"
-      ]
+      ],
+      "image": "living-room"
     },
     {
       "id": "52696a72-a392-44cd-be59-7500b206fa4b",
@@ -53622,15 +53756,15 @@
     {
       "id": "76d6b8b2-dcba-4ed1-80e0-8f258844bf7a",
       "part-of-speech": "noun",
-      "english": "stop",
+      "english": "stop (bus or tram stop)",
       "finnish": "pysäkki",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈpysækːi]",
       "plural": "pysäkit",
-      "context": "place where line buses or trams halt",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bus-stop"
     },
     {
       "id": "412395dd-f4bf-49df-8b3f-3a117561dc12",
@@ -54185,15 +54319,15 @@
     {
       "id": "23b723d9-d3d4-469d-9f04-db8eb6325d22",
       "part-of-speech": "noun",
-      "english": "square",
+      "english": "market square, market",
       "finnish": "tori",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈt̪o̞ri]",
       "plural": "torit",
-      "context": "open space in a town",
       "register": [
         "All"
-      ]
+      ],
+      "image": "market"
     },
     {
       "id": "9b1e1ba9-fc33-430d-889e-6dd5190b456e",
@@ -54902,14 +55036,15 @@
     {
       "id": "9599530c-5874-4508-bb20-b0708eb47f56",
       "part-of-speech": "noun",
-      "english": "suitcase, trunk, portmanteau",
+      "english": "suitcase",
       "finnish": "matkalaukku",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈmɑt̪kɑlɑu̯kːu]",
       "plural": "matkalaukut",
       "register": [
         "All"
-      ]
+      ],
+      "image": "trip"
     },
     {
       "id": "3b1ba5fb-75e8-48aa-8812-c6922295b479",
@@ -54977,13 +55112,13 @@
       "part-of-speech": "noun",
       "english": "salad",
       "finnish": "salaatti",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈsɑlɑːt̪ːi]",
       "plural": "salaatit",
-      "context": "food made primarily of a mixture of raw or cold ingredients, typically vegetables",
       "register": [
         "All"
-      ]
+      ],
+      "image": "salad"
     },
     {
       "id": "f0421b82-0628-4b19-a452-faa06d4ae1e9",
@@ -57065,13 +57200,13 @@
       "part-of-speech": "noun",
       "english": "arm",
       "finnish": "käsivarsi",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈkæsiʋɑrsi]",
       "plural": "käsivarret",
-      "context": "appendage from the shoulder to the wrist, usually excluding the hand",
       "register": [
         "All"
-      ]
+      ],
+      "image": "arm"
     },
     {
       "id": "c8808fd4-35b5-492a-b420-af9d764b68c0",
@@ -57348,15 +57483,15 @@
     {
       "id": "70e70060-956c-40fe-ad81-5120ff4d1851",
       "part-of-speech": "noun",
-      "english": "sport, sports, athletics",
+      "english": "sport, sports",
       "finnish": "urheilu",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈurhe̞i̯lu]",
       "plural": "urheilut",
-      "context": "organized and often competitive physical activity in general",
       "register": [
         "All"
-      ]
+      ],
+      "image": "sport"
     },
     {
       "id": "3f0ae2d4-2c6c-4760-8dc6-9dd56914aa84",
@@ -59082,15 +59217,15 @@
     {
       "id": "b71740c4-1ab3-470c-9f49-42fb3227f854",
       "part-of-speech": "noun",
-      "english": "autumn, fall",
+      "english": "fall, autumn",
       "finnish": "syksy",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈsyksy]",
       "plural": "syksyt",
-      "context": "season of the year",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fall"
     },
     {
       "id": "1a341de4-7796-40aa-b5e8-2fa75331879a",
@@ -59177,13 +59312,13 @@
       "part-of-speech": "noun",
       "english": "spoon",
       "finnish": "lusikka",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈlusikːɑ]",
       "plural": "lusikat",
-      "context": "utensil",
       "register": [
         "All"
-      ]
+      ],
+      "image": "spoon"
     },
     {
       "id": "20d5c84f-7d7f-4db7-9c81-d59fdc36842b",
@@ -64533,12 +64668,13 @@
       "part-of-speech": "noun",
       "english": "pharmacy, drugstore",
       "finnish": "apteekki",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈɑpt̪e̞ːkːi]",
       "plural": "apteekit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pharmacy"
     },
     {
       "id": "059232c3-51ab-4e1a-b77c-8399f9a8c6cc",
@@ -66540,15 +66676,15 @@
     {
       "id": "a9242a9a-593a-4f99-80d1-69b3397bb87e",
       "part-of-speech": "noun",
-      "english": "potato, Solanum tuberosum",
+      "english": "potato",
       "finnish": "peruna",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈpe̞runɑ]",
       "plural": "perunat",
-      "context": "plant and the tuber",
       "register": [
         "All"
-      ]
+      ],
+      "image": "potato"
     },
     {
       "id": "c6490560-45f3-443a-8e0b-9dbfdb587c2a",
@@ -69883,13 +70019,13 @@
       "part-of-speech": "noun",
       "english": "fork",
       "finnish": "haarukka",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈhɑːrukːɑ]",
       "plural": "haarukat",
-      "context": "utensil",
       "register": [
         "All"
-      ]
+      ],
+      "image": "fork"
     },
     {
       "id": "6379550b-1836-4bd5-9cac-da8bfae198fc",
@@ -71577,13 +71713,13 @@
       "part-of-speech": "noun",
       "english": "vegetable",
       "finnish": "vihannes",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈʋihɑnːe̞s]",
       "plural": "vihannekset",
-      "context": "plant raised for some edible part of it, such as the leaves, roots, fruit or flowers, but excluding any plant considered to be a fruit, grain, herb, or spice in the culinary sense; an edible part of such a plant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "vegetable"
     },
     {
       "id": "7ce376a4-4ca3-41bf-8a2e-bbbc0c20b8ed",
@@ -73193,13 +73329,13 @@
       "part-of-speech": "noun",
       "english": "juice",
       "finnish": "mehu",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈme̞hu]",
       "plural": "mehut",
-      "context": "liquid from a plant or a beverage made of them",
       "register": [
         "All"
-      ]
+      ],
+      "image": "juice"
     },
     {
       "id": "167b2dd4-a8a2-44a1-9b68-e400f7687a2e",
@@ -74418,13 +74554,13 @@
       "part-of-speech": "noun",
       "english": "menu",
       "finnish": "ruokalista",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈruo̞̯kɑlist̪ɑ]",
       "plural": "ruokalistat",
-      "context": "list of dishes offered in a restaurant",
       "register": [
         "All"
-      ]
+      ],
+      "image": "menu"
     },
     {
       "id": "4ef0ffec-7e1e-4558-8817-e7a2d84fb32e",
@@ -80058,13 +80194,13 @@
       "part-of-speech": "noun",
       "english": "bakery",
       "finnish": "leipomo",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈle̞i̯po̞mo̞]",
       "plural": "leipomot",
-      "context": "a shop in which bread and such is baked and sold",
       "register": [
         "All"
-      ]
+      ],
+      "image": "bakery"
     },
     {
       "id": "d119cfd3-372b-448f-9ab0-da0f9dbb7bfd",
@@ -80154,15 +80290,15 @@
     {
       "id": "14c498c5-0641-4382-ae7b-390682095247",
       "part-of-speech": "noun",
-      "english": "rice, Oryza sativa",
+      "english": "rice",
       "finnish": "riisi",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈriːsi]",
       "plural": "riisit",
-      "context": "plant and seeds",
       "register": [
         "All"
-      ]
+      ],
+      "image": "rice"
     },
     {
       "id": "6e1d37f5-f688-482f-859e-94167fc0f974",
@@ -80335,13 +80471,13 @@
       "part-of-speech": "noun",
       "english": "pasta",
       "finnish": "pasta",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈpɑst̪ɑ]",
       "plural": "pastat",
-      "context": "food",
       "register": [
         "All"
-      ]
+      ],
+      "image": "pasta"
     },
     {
       "id": "ac821535-4af7-4349-9a8c-d98565e30e02",
@@ -80669,12 +80805,13 @@
       "part-of-speech": "noun",
       "english": "tomato",
       "finnish": "tomaatti",
-      "cefr": "C2",
+      "cefr": "A1",
       "ipa": "[ˈt̪o̞mɑːt̪ːi]",
       "plural": "tomaatit",
       "register": [
         "All"
-      ]
+      ],
+      "image": "tomato"
     },
     {
       "id": "5aa851db-5dc1-4a0e-a11e-2136013da127",
@@ -82201,37 +82338,39 @@
     },
     {
       "id": "7a5ffa69-7786-4f32-948d-42011cebc5d4",
-      "part-of-speech": "pronoun",
+      "part-of-speech": "adjective",
       "english": "other, else",
       "finnish": "muu",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[muː]",
-      "context": "muut: the others",
       "register": [
         "All"
-      ]
+      ],
+      "image": "other"
     },
     {
       "id": "878fd8a3-2265-4bcd-9692-ab0e048f3cdc",
       "part-of-speech": "pronoun",
-      "english": "every, each",
+      "english": "each, every; everyone",
       "finnish": "jokainen",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈjo̞kɑi̯ne̞n]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "each"
     },
     {
       "id": "6f8032b7-1def-4ccd-ada0-0a3bbcb53791",
       "part-of-speech": "pronoun",
       "english": "which (of two)",
       "finnish": "kumpi",
-      "cefr": "B1",
+      "cefr": "A1",
       "ipa": "[ˈkumpi]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "which"
     },
     {
       "id": "db20ce14-4bcf-4d9b-8d2f-33052c42e155",
@@ -82639,14 +82778,15 @@
     {
       "id": "914ef5c0-9b9d-4285-b437-74679918478d",
       "part-of-speech": "interjection",
-      "english": "don't mention it",
+      "english": "you're welcome, don't mention it",
       "finnish": "ei kestä",
       "cefr": "A1",
       "ipa": "[e̞i̯ ˈke̞st̪æ]",
       "context": "a reply to kiitos",
       "register": [
         "All"
-      ]
+      ],
+      "image": "youre-welcome"
     },
     {
       "id": "9922bf19-c527-4b78-9e91-b68fba6b62b2",
@@ -82677,50 +82817,50 @@
     {
       "id": "663b30fc-ef6a-44ae-bb19-3024c99a72f5",
       "part-of-speech": "postposition",
-      "english": "on top of, on",
+      "english": "on, on top of",
       "finnish": "päällä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈpæːlːæ]",
-      "context": "follows the genitive: pöydän päällä, on the table",
       "register": [
         "All"
-      ]
+      ],
+      "image": "on"
     },
     {
       "id": "838a5548-436e-443b-82b9-6d4fcdd229dc",
       "part-of-speech": "postposition",
-      "english": "next to, beside",
+      "english": "next to",
       "finnish": "vieressä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋie̞̯re̞sːæ]",
-      "context": "follows the genitive: talon vieressä",
       "register": [
         "All"
-      ]
+      ],
+      "image": "next-to"
     },
     {
       "id": "c56a00d3-ca5a-4b7b-b7b5-d87f6662420d",
       "part-of-speech": "postposition",
-      "english": "at (someone's place)",
+      "english": "at (someone's) place",
       "finnish": "luona",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈluo̞̯nɑ]",
-      "context": "follows the genitive: äidin luona, at Mom's",
       "register": [
         "All"
-      ]
+      ],
+      "image": "at-home-of"
     },
     {
       "id": "93fd53ba-a1a2-4baa-81b4-34cf3f0fd82e",
       "part-of-speech": "postposition",
       "english": "between",
       "finnish": "välissä",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈʋælisːæ]",
-      "context": "follows the genitive: talojen välissä",
       "register": [
         "All"
-      ]
+      ],
+      "image": "between"
     },
     {
       "id": "56ac8bcc-1cb1-4edd-a919-75456ede155c",
@@ -82774,23 +82914,24 @@
       "part-of-speech": "adverb",
       "english": "late",
       "finnish": "myöhään",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈmyø̞̯hæːn]",
-      "context": "nukkua myöhään: sleep late",
       "register": [
         "All"
-      ]
+      ],
+      "image": "late"
     },
     {
       "id": "089b8466-a9b6-4b95-a034-fb4dd5eef9c2",
       "part-of-speech": "adverb",
       "english": "early",
       "finnish": "aikaisin",
-      "cefr": "A2",
+      "cefr": "A1",
       "ipa": "[ˈɑi̯kɑi̯sin]",
       "register": [
         "All"
-      ]
+      ],
+      "image": "early"
     },
     {
       "id": "8abb831b-f063-437b-8012-71032b3d1e5b",
@@ -82967,6 +83108,606 @@
         "All"
       ],
       "image": "very"
+    },
+    {
+      "id": "a371dccc-93ed-4133-9783-963cc8e2d1d0",
+      "part-of-speech": "postposition",
+      "english": "above, over",
+      "finnish": "yläpuolella",
+      "cefr": "A1",
+      "ipa": "[ˈylæpuo̞̯le̞lːɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "above"
+    },
+    {
+      "id": "4db9f652-2a2c-49e6-97ac-d9712c823fd1",
+      "part-of-speech": "noun",
+      "english": "balcony",
+      "finnish": "parveke",
+      "cefr": "A1",
+      "ipa": "[ˈpɑrʋe̞ke̞]",
+      "plural": "parvekkeet",
+      "register": [
+        "All"
+      ],
+      "image": "balcony"
+    },
+    {
+      "id": "fb5baae4-d4a9-40ad-b3f0-7d9e0d7b9bce",
+      "part-of-speech": "adjective",
+      "english": "broken",
+      "finnish": "rikki",
+      "cefr": "A1",
+      "ipa": "[ˈrikːi]",
+      "register": [
+        "All"
+      ],
+      "image": "broken"
+    },
+    {
+      "id": "f021d2f6-59bc-4640-bc7e-6fbfeeaaf098",
+      "part-of-speech": "noun",
+      "english": "butter",
+      "finnish": "voi",
+      "cefr": "A1",
+      "ipa": "[ˈʋo̞i̯]",
+      "plural": "voit",
+      "register": [
+        "All"
+      ],
+      "image": "butter"
+    },
+    {
+      "id": "abe765e7-b836-406a-bc9f-3aa197c45621",
+      "part-of-speech": "adjective",
+      "english": "clear, bright",
+      "finnish": "kirkas",
+      "cefr": "A1",
+      "ipa": "[ˈkirkɑs]",
+      "register": [
+        "All"
+      ],
+      "image": "clear"
+    },
+    {
+      "id": "418658d1-3dd6-4d8d-a8e3-b5b3df2a5e46",
+      "part-of-speech": "noun",
+      "english": "clothes",
+      "finnish": "vaatteet",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑːt̪ːe̞ːt̪]",
+      "register": [
+        "All"
+      ],
+      "image": "clothes"
+    },
+    {
+      "id": "31be8652-378c-49fd-bc5c-654aeb179df5",
+      "part-of-speech": "verb",
+      "english": "to cook",
+      "finnish": "laittaa ruokaa",
+      "cefr": "A1",
+      "ipa": "[ˈlɑi̯t̪ːɑː ˈruo̞̯kɑː]",
+      "register": [
+        "All"
+      ],
+      "image": "cook"
+    },
+    {
+      "id": "8d04349f-9997-4750-bc25-992e0ff7aec7",
+      "part-of-speech": "noun",
+      "english": "croissant",
+      "finnish": "voisarvi",
+      "cefr": "A1",
+      "ipa": "[ˈʋo̞i̯sɑrʋi]",
+      "plural": "voisarvet",
+      "register": [
+        "All"
+      ],
+      "image": "croissant"
+    },
+    {
+      "id": "e1ff18bd-eb28-4dfe-bec0-5f46067434fa",
+      "part-of-speech": "noun",
+      "english": "euro",
+      "finnish": "euro",
+      "cefr": "A1",
+      "ipa": "[ˈe̞u̯ro̞]",
+      "plural": "eurot",
+      "register": [
+        "All"
+      ],
+      "image": "euro"
+    },
+    {
+      "id": "7a1b63a9-dd32-45b9-8c03-b2967a214d44",
+      "part-of-speech": "adjective",
+      "english": "free",
+      "finnish": "vapaa",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑpɑː]",
+      "register": [
+        "All"
+      ],
+      "image": "free"
+    },
+    {
+      "id": "fff94b2b-884f-4e67-abec-c43de881753f",
+      "part-of-speech": "noun",
+      "english": "free time",
+      "finnish": "vapaa-aika",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑpɑːˌɑi̯kɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "free-time"
+    },
+    {
+      "id": "9e57afcf-c30b-41f9-a4ed-0d3c31912653",
+      "part-of-speech": "verb",
+      "english": "to go to bed",
+      "finnish": "mennä nukkumaan",
+      "cefr": "A1",
+      "ipa": "[ˈme̞nːæ ˈnukːumɑːn]",
+      "register": [
+        "All"
+      ],
+      "image": "go-to-bed"
+    },
+    {
+      "id": "8183c82e-7b76-42f6-9b9a-33bb9e033ed0",
+      "part-of-speech": "noun",
+      "english": "grandparents",
+      "finnish": "isovanhemmat",
+      "cefr": "A1",
+      "ipa": "[ˈiso̞ʋɑnhe̞mːɑt̪]",
+      "register": [
+        "All"
+      ],
+      "image": "grandparents"
+    },
+    {
+      "id": "fb6a662f-186d-4546-83ae-465be11f5b5a",
+      "part-of-speech": "verb",
+      "english": "I have",
+      "finnish": "minulla on",
+      "cefr": "A1",
+      "ipa": "[ˈminulːɑ ˈo̞n]",
+      "register": [
+        "All"
+      ],
+      "image": "have"
+    },
+    {
+      "id": "7b0ec241-8e54-4ae1-8879-bd0854110f35",
+      "part-of-speech": "pronoun",
+      "english": "his, her",
+      "finnish": "hänen",
+      "cefr": "A1",
+      "ipa": "[ˈhæne̞n]",
+      "register": [
+        "All"
+      ],
+      "image": "his-her"
+    },
+    {
+      "id": "00835c49-dc41-4c20-9554-a87a3d7b0b56",
+      "part-of-speech": "noun",
+      "english": "hobby",
+      "finnish": "harrastus",
+      "cefr": "A1",
+      "ipa": "[ˈhɑrːɑst̪us]",
+      "plural": "harrastukset",
+      "register": [
+        "All"
+      ],
+      "image": "hobby"
+    },
+    {
+      "id": "53ddc9cf-e3d0-4d82-a11c-deda39e353a0",
+      "part-of-speech": "adverb",
+      "english": "at home",
+      "finnish": "kotona",
+      "cefr": "A1",
+      "ipa": "[ˈko̞t̪o̞nɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "home"
+    },
+    {
+      "id": "e5baca1e-803a-46db-acf4-6c95abc05606",
+      "part-of-speech": "noun",
+      "english": "homework",
+      "finnish": "läksy",
+      "cefr": "A1",
+      "ipa": "[ˈlæksy]",
+      "plural": "läksyt",
+      "register": [
+        "All"
+      ],
+      "image": "homework"
+    },
+    {
+      "id": "1fc08597-c7bf-4e33-a2f2-510933542aa4",
+      "part-of-speech": "adverb",
+      "english": "later",
+      "finnish": "myöhemmin",
+      "cefr": "A1",
+      "ipa": "[ˈmyø̞̯he̞mːin]",
+      "register": [
+        "All"
+      ],
+      "image": "later"
+    },
+    {
+      "id": "729f25e1-b068-46ab-9603-2255acd4f1df",
+      "part-of-speech": "adverb",
+      "english": "on the left",
+      "finnish": "vasemmalla",
+      "cefr": "A1",
+      "ipa": "[ˈʋɑse̞mːɑlːɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "left"
+    },
+    {
+      "id": "135a27d8-0b91-44f2-96e1-8da2e286368e",
+      "part-of-speech": "noun",
+      "english": "lemon",
+      "finnish": "sitruuna",
+      "cefr": "A1",
+      "ipa": "[ˈsit̪ruːnɑ]",
+      "plural": "sitruunat",
+      "register": [
+        "All"
+      ],
+      "image": "lemon"
+    },
+    {
+      "id": "920d8d3a-046c-4e8e-add8-b483e846ee5f",
+      "part-of-speech": "adverb",
+      "english": "less",
+      "finnish": "vähemmän",
+      "cefr": "A1",
+      "ipa": "[ˈʋæhe̞mːæn]",
+      "register": [
+        "All"
+      ],
+      "image": "less-degree"
+    },
+    {
+      "id": "4be41c64-c3a5-4c87-829a-7a9468838997",
+      "part-of-speech": "verb",
+      "english": "to lie (be lying down)",
+      "finnish": "maata",
+      "cefr": "A1",
+      "ipa": "[ˈmɑːt̪ɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "lie"
+    },
+    {
+      "id": "a3ab4034-b8a1-4113-9e33-1ffc2e455751",
+      "part-of-speech": "noun",
+      "english": "meter",
+      "finnish": "metri",
+      "cefr": "A1",
+      "ipa": "[ˈme̞t̪ri]",
+      "plural": "metrit",
+      "register": [
+        "All"
+      ],
+      "image": "meter"
+    },
+    {
+      "id": "00cbdea2-409c-4425-888a-77878f6c4565",
+      "part-of-speech": "adverb",
+      "english": "more",
+      "finnish": "enemmän",
+      "cefr": "A1",
+      "ipa": "[ˈe̞ne̞mːæn]",
+      "register": [
+        "All"
+      ],
+      "image": "more-degree"
+    },
+    {
+      "id": "a3841a56-625b-4f1f-9a9d-796a4ccced2e",
+      "part-of-speech": "pronoun",
+      "english": "my",
+      "finnish": "minun",
+      "cefr": "A1",
+      "ipa": "[ˈminun]",
+      "register": [
+        "All"
+      ],
+      "image": "my"
+    },
+    {
+      "id": "220c0e48-9224-429f-bc18-88cc94f70258",
+      "part-of-speech": "pronoun",
+      "english": "nobody, no one",
+      "finnish": "ei kukaan",
+      "cefr": "A1",
+      "ipa": "[ˈe̞i̯ ˈkukɑːn]",
+      "register": [
+        "All"
+      ],
+      "image": "nobody"
+    },
+    {
+      "id": "e6a84325-0fc8-4a53-9dce-9ee6cba4fb7f",
+      "part-of-speech": "noun",
+      "english": "notebook",
+      "finnish": "vihko",
+      "cefr": "A1",
+      "ipa": "[ˈʋihko̞]",
+      "plural": "vihot",
+      "register": [
+        "All"
+      ],
+      "image": "notebook"
+    },
+    {
+      "id": "cf761246-e7c3-47ba-84a4-56399ae39a09",
+      "part-of-speech": "pronoun",
+      "english": "nothing",
+      "finnish": "ei mitään",
+      "cefr": "A1",
+      "ipa": "[ˈe̞i̯ ˈmit̪æːn]",
+      "register": [
+        "All"
+      ],
+      "image": "nothing"
+    },
+    {
+      "id": "83db1dda-7a53-4d80-9de7-8831aef1e12b",
+      "part-of-speech": "pronoun",
+      "english": "our",
+      "finnish": "meidän",
+      "cefr": "A1",
+      "ipa": "[ˈme̞i̯dæn]",
+      "register": [
+        "All"
+      ],
+      "image": "our"
+    },
+    {
+      "id": "f0a11530-d0fc-41d4-b4f4-4a951a0a1379",
+      "part-of-speech": "noun",
+      "english": "party",
+      "finnish": "juhlat",
+      "cefr": "A1",
+      "ipa": "[ˈjuhlɑt̪]",
+      "register": [
+        "All"
+      ],
+      "image": "party"
+    },
+    {
+      "id": "e17f7c66-b2b9-4d20-8007-ed2ea7d74393",
+      "part-of-speech": "noun",
+      "english": "pear",
+      "finnish": "päärynä",
+      "cefr": "A1",
+      "ipa": "[ˈpæːrynæ]",
+      "plural": "päärynät",
+      "register": [
+        "All"
+      ],
+      "image": "pear"
+    },
+    {
+      "id": "45479d51-9a9c-494f-8870-776c221aeefe",
+      "part-of-speech": "noun",
+      "english": "pencil",
+      "finnish": "lyijykynä",
+      "cefr": "A1",
+      "ipa": "[ˈlyi̯jykynæ]",
+      "plural": "lyijykynät",
+      "register": [
+        "All"
+      ],
+      "image": "pencil"
+    },
+    {
+      "id": "861fbcbe-4a40-4860-8d52-f6d0498d7286",
+      "part-of-speech": "noun",
+      "english": "people",
+      "finnish": "ihmiset",
+      "cefr": "A1",
+      "ipa": "[ˈihmise̞t̪]",
+      "register": [
+        "All"
+      ],
+      "image": "people"
+    },
+    {
+      "id": "3d0089ee-27e4-4895-afb0-c89cb3795933",
+      "part-of-speech": "interjection",
+      "english": "please (when asking a favor)",
+      "finnish": "ole kiltti",
+      "cefr": "A1",
+      "ipa": "[ˈo̞le̞ ˈkilt̪ːi]",
+      "register": [
+        "All"
+      ],
+      "image": "please"
+    },
+    {
+      "id": "3bbe7ad3-cae5-4859-8ab3-47e898b1214b",
+      "part-of-speech": "adverb",
+      "english": "rather, preferably",
+      "finnish": "mieluummin",
+      "cefr": "A1",
+      "ipa": "[ˈmie̞̯luːmːin]",
+      "register": [
+        "All"
+      ],
+      "image": "prefer"
+    },
+    {
+      "id": "99ca2f39-e65c-4e4b-8e18-16f4a0db9b4d",
+      "part-of-speech": "adverb",
+      "english": "on the right",
+      "finnish": "oikealla",
+      "cefr": "A1",
+      "ipa": "[ˈo̞i̯ke̞ɑlːɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "right"
+    },
+    {
+      "id": "38b719ab-d73a-4b65-9608-cebd1ebbbfad",
+      "part-of-speech": "adjective",
+      "english": "same",
+      "finnish": "sama",
+      "cefr": "A1",
+      "ipa": "[ˈsɑmɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "same"
+    },
+    {
+      "id": "108aa1b4-a788-444a-b94f-6d036acb19a4",
+      "part-of-speech": "noun",
+      "english": "siblings",
+      "finnish": "sisarukset",
+      "cefr": "A1",
+      "ipa": "[ˈsisɑrukse̞t̪]",
+      "register": [
+        "All"
+      ],
+      "image": "siblings"
+    },
+    {
+      "id": "7ec550d8-2537-4d8a-adb9-305338cd0365",
+      "part-of-speech": "verb",
+      "english": "to stand",
+      "finnish": "seistä",
+      "cefr": "A1",
+      "ipa": "[ˈse̞i̯st̪æ]",
+      "register": [
+        "All"
+      ],
+      "image": "stand"
+    },
+    {
+      "id": "ad9ae290-2a0e-4c23-9958-5f8374113413",
+      "part-of-speech": "noun",
+      "english": "grocery store, supermarket",
+      "finnish": "ruokakauppa",
+      "cefr": "A1",
+      "ipa": "[ˈruo̞̯kɑkɑu̯pːɑ]",
+      "plural": "ruokakaupat",
+      "register": [
+        "All"
+      ],
+      "image": "supermarket"
+    },
+    {
+      "id": "558ecaca-4400-4b9d-abc5-e20a0be561dc",
+      "part-of-speech": "pronoun",
+      "english": "their",
+      "finnish": "heidän",
+      "cefr": "A1",
+      "ipa": "[ˈhe̞i̯dæn]",
+      "register": [
+        "All"
+      ],
+      "image": "their"
+    },
+    {
+      "id": "a0962c6a-a442-43b3-b333-dc03d9fff64f",
+      "part-of-speech": "verb",
+      "english": "to think, to believe (suppose)",
+      "finnish": "luulla",
+      "cefr": "A1",
+      "ipa": "[ˈluːlːɑ]",
+      "register": [
+        "All"
+      ],
+      "image": "think"
+    },
+    {
+      "id": "15cdf839-633b-4ca4-97c8-558a8efb7006",
+      "part-of-speech": "noun",
+      "english": "twenty",
+      "finnish": "kaksikymmentä",
+      "cefr": "A1",
+      "ipa": "[ˈkɑksikymːe̞nt̪æ]",
+      "register": [
+        "All"
+      ],
+      "image": "twenty"
+    },
+    {
+      "id": "4eeea7ed-502f-41f3-8ea2-ce2e99558bd6",
+      "part-of-speech": "postposition",
+      "english": "until, as far as",
+      "finnish": "asti",
+      "cefr": "A1",
+      "ipa": "[ˈɑst̪i]",
+      "register": [
+        "All"
+      ],
+      "image": "until"
+    },
+    {
+      "id": "e310a93c-9746-4cfd-b09b-0ad21d4fecf4",
+      "part-of-speech": "interjection",
+      "english": "well…",
+      "finnish": "no",
+      "cefr": "A1",
+      "ipa": "[ˈno̞]",
+      "register": [
+        "All"
+      ],
+      "image": "well-then"
+    },
+    {
+      "id": "10ef217f-4611-40f4-80e6-b902f647d3cd",
+      "part-of-speech": "verb",
+      "english": "to work",
+      "finnish": "tehdä töitä",
+      "cefr": "A1",
+      "ipa": "[ˈt̪e̞hdæ ˈt̪ø̞i̯t̪æ]",
+      "register": [
+        "All"
+      ],
+      "image": "work"
+    },
+    {
+      "id": "829b0c86-c3cc-4a94-8bcb-e1962ee6fd41",
+      "part-of-speech": "pronoun",
+      "english": "your (one person)",
+      "finnish": "sinun",
+      "cefr": "A1",
+      "ipa": "[ˈsinun]",
+      "register": [
+        "All"
+      ],
+      "image": "your"
+    },
+    {
+      "id": "7bbed73d-4015-49dd-a0ad-25da45ec3fee",
+      "part-of-speech": "pronoun",
+      "english": "your (plural or formal)",
+      "finnish": "teidän",
+      "cefr": "A1",
+      "ipa": "[ˈt̪e̞i̯dæn]",
+      "register": [
+        "All"
+      ],
+      "image": "your-all"
     }
   ]
 }

@@ -1,8 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
-  <path d="M6 88h88" stroke-width="2.5"/>
-  <circle cx="34" cy="42" r="6.5"/>
-  <path d="M34 49v20M34 69l-6 18M34 69l5 18M34 54l16-20M34 54l-10 10"/>
-  <path d="M38 87h-4M44 87h-4" stroke-width="2"/>
-  <path d="M54 30l18-10" stroke-width="2" stroke-dasharray="1 5"/>
-  <path class="pic-accent" d="M82 7.2l3.15 6.75 7.2 0.9-5.4 4.95 1.35 7.2-6.3-3.6-6.3 3.6 1.35-7.2-5.4-4.95 7.2-0.9z" stroke-width="2"/>
+  <path d="M4 92h92" stroke-width="2.5"/>
+  <path d="M90 92V20" stroke-width="4"/>
+  <rect x="80" y="12" width="10" height="28" rx="1" stroke-width="2.5"/>
+  <path d="M80 34H62" stroke-width="3"/>
+  <path d="M63 35l3 11h11l2-11M68 35l1.5 11M74 35l-1 11" stroke-width="1.8"/>
+  <circle class="pic-accent-line" cx="24" cy="34" r="7"/>
+  <path class="pic-accent-line" d="M24 41V68M24 68l-8 24M24 68l7 24M24 47l3 -19M24 47l11 -17"/>
+  <circle class="pic-accent" cx="31" cy="21" r="7" stroke-width="2.5"/>
+  <path d="M24 21h14M31 14v14" stroke="#fff" stroke-width="1.5"/>
+  <path d="M40 14Q56 -2 70 30" stroke-width="2" stroke-dasharray="1 5"/>
 </svg>

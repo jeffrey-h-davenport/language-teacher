@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <circle class="pic-faded" cx="18" cy="51.6" r="6.4"/>
+  <path class="pic-faded" d="M18 58V72.4M18 72.4l-5.6 13.6M18 72.4l5.6 13.6M18 62.8l-7.2 12M18 62.8l7.2 12"/>
+  <path d="M34 60h22M50 54l6 6-6 6" stroke-width="3"/>
+  <circle class="pic-accent-line" cx="76" cy="19.3" r="8.05"/>
+  <path class="pic-accent-line" d="M76 27.35V58.4M76 58.4l-8.05 27.6M76 58.4l8.05 27.6M76 34.25l-10.35 17.25M76 34.25l10.35 17.25"/>
+</svg>

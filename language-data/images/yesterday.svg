@@ -1,10 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
-  <rect class="pic-accent-soft" x="8" y="36" width="24" height="30" rx="2"/>
-  <path d="M8 44h24M15 32v8M25 32v8" stroke-width="2.5"/>
-  <rect x="38" y="36" width="24" height="30" rx="2"/>
-  <path d="M38 44h24M45 32v8M55 32v8" stroke-width="2.5"/>
-  <rect x="68" y="36" width="24" height="30" rx="2"/>
-  <path d="M68 44h24M75 32v8M85 32v8" stroke-width="2.5"/>
-  <circle cx="50" cy="56" r="3.5" fill="currentColor"/>
-  <path class="pic-accent-line" d="M40 80H18M24 74l-6 6 6 6"/>
+  <rect x="4" y="38" width="92" height="54" rx="5" stroke-width="2.5"/>
+  <rect x="6.4" y="41" width="12.6" height="48" rx="2" fill="currentColor" stroke="none" opacity="0.12"/>
+  <rect x="81.2" y="41" width="12.6" height="48" rx="2" fill="currentColor" stroke="none" opacity="0.12"/>
+  <rect x="7.4" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <rect x="20.0" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <rect x="32.6" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <rect class="pic-accent-soft" x="45.2" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <rect x="57.8" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <rect x="70.4" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <rect x="83.0" y="44" width="10.6" height="44" rx="2" stroke-width="2"/>
+  <circle cx="50.7" cy="66" r="3.2" fill="currentColor" stroke="none"/>
+  <path class="pic-accent-line" d="M50.5 32C58.5 2 29.9 2 37.9 33" stroke-width="4"/>
+  <path class="pic-accent-line" d="M31.9 27l6 7 6-7" stroke-width="4"/>
 </svg>

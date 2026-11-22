@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M6 82h88" stroke-width="2.5"/>
+  <path class="pic-accent" d="M30 78a22 22 0 1 1 40 0z"/>
+  <path d="M50 78a12 12 0 1 1 10-18" stroke="#fff" stroke-width="2.5"/>
+  <path d="M70 78h14a6 6 0 0 0 0-12h-6l2-14M76 52l4-10M80 52l8-8" stroke-width="3"/>
+  <path class="pic-faded" d="M6 66h12M10 56h10" stroke-width="2.5"/>
+</svg>

@@ -181,7 +181,7 @@ const AVAILABLE_COLUMNS = [
   { id: 'english',      label: 'English',       default: true,  render: w => escHtml(w.english || '') },
   { id: 'pos',          label: 'Part of Speech', default: true, render: w => `<span class="pos-badge">${escHtml((w['part-of-speech'] || '').slice(0, 8))}</span>` },
   { id: 'cefr',         label: 'CEFR Level',    default: true,  render: w => `<span class="cefr-badge cefr-${escHtml(w.cefr || '')}">${escHtml(w.cefr || '—')}</span>` },
-  { id: 'score',        label: 'Score',         default: true,  learnerOnly: true, render: w => escHtml(w.learned ? '✓ Learned' : (w.score > 0 ? `${w.score} / ${learnedThreshold()}` : '—')) },
+  { id: 'score',        label: 'Score',         default: true,  learnerOnly: true, render: w => escHtml(scoreText(w)) },
   { id: 'gender',       label: 'Gender',        default: false, render: w => escHtml(w.gender || '—') },
   { id: 'register',     label: 'Register',      default: false, render: w => escHtml((w.register && w.register.length ? w.register : ['All']).join(', ')) },
   { id: 'ipa',          label: 'IPA',           default: false, render: w => escHtml(formatPronunciation(w) || '—') },
@@ -600,10 +600,11 @@ function ensureDefaults(word) {
   if (word.totalAttempts   === undefined) word.totalAttempts   = 0
   if (word.correctAttempts === undefined) word.correctAttempts = 0
   if (word.lastSeen        === undefined) word.lastSeen        = null
+  if (hasInflections(word) && !word.inflectionProgress) word.inflectionProgress = {}
   return word
 }
 
-const PROGRESS_FIELDS = ['score', 'learned', 'totalAttempts', 'correctAttempts', 'lastSeen']
+const PROGRESS_FIELDS = ['score', 'learned', 'totalAttempts', 'correctAttempts', 'lastSeen', 'inflectionProgress']
 
 function stripProgress(word) {
   const content = {}
@@ -629,7 +630,8 @@ function persistProgress() {
   if (!currentMeta || editorMode) return
   const progress = {}
   for (const w of allWords) {
-    if (w.score > 0 || w.learned || w.totalAttempts > 0 || w.lastSeen) {
+    const forms = w.inflectionProgress && Object.keys(w.inflectionProgress).length ? w.inflectionProgress : null
+    if (w.score > 0 || w.learned || w.totalAttempts > 0 || w.lastSeen || forms) {
       progress[w.id] = {
         score:           w.score,
         learned:         w.learned,
@@ -637,6 +639,7 @@ function persistProgress() {
         correctAttempts: w.correctAttempts,
         lastSeen:        w.lastSeen,
       }
+      if (forms) progress[w.id].inflectionProgress = forms
     }
   }
   window.api.saveProgress({ meta: { languageCode: currentMeta.languageCode }, progress })
@@ -673,7 +676,7 @@ function sessionSizeForLevel(level) {
 
 function currentCefrLevel() {
   for (const level of CEFR_ORDER) {
-    if (allWords.some(w => !w.learned && w.cefr === level)) return level
+    if (allWords.some(w => !fullyLearned(w) && w.cefr === level)) return level
   }
   return null
 }
@@ -1004,7 +1007,11 @@ function displayQuestion(q) {
   setFlagAndText($('direction-badge'), currentMeta?.languageCode, `\u00a0 ${fromLang} → ${toLang}`)
 
   const level = currentCefrLevel()
-  $('cefr-level-chip').textContent = level ? `Level ${level}` : '✓ All'
+  $('cefr-level-chip').textContent = level ? `Your level: ${level}` : '✓ All'
+  $('cefr-level-chip').title = 'The level you are working through'
+  const wordLevel = $('word-level-badge')
+  wordLevel.className = `cefr-badge word-level-badge${word.cefr ? ` cefr-${word.cefr}` : ' hidden'}`
+  wordLevel.textContent = word.cefr ? `Word: ${word.cefr}` : ''
 
   const display = $('word-display')
   display.classList.toggle('word-display-picture', mode === 'picture-prompt')
@@ -1135,6 +1142,359 @@ function updateHeader() {
   $('session-score').textContent    = `${sessionScore > 0 ? '+' : ''}${sessionScore} pts`
 }
 
+// ── Inflections ───────────────────────────────────────
+// Inflecting languages (Czech) store a word's forms with its headword:
+//   inflections: [{ grammar: 'masc., locative sg', form, ipa?, english? }]
+// Each form has its own progress (inflectionProgress[grammar]), learned after
+// inflectionThreshold() first-try matches. A word only counts as learned once
+// its meaning (the vocabulary quiz) and every one of its forms are learned.
+function hasInflections(word) { return Array.isArray(word?.inflections) && word.inflections.length > 0 }
+function inflectionThreshold(word) { return word?.inflectionThreshold ?? currentMeta?.inflectionThreshold ?? 3 }
+function formProgress(word, grammar) {
+  if (!word.inflectionProgress) word.inflectionProgress = {}
+  if (!word.inflectionProgress[grammar]) {
+    word.inflectionProgress[grammar] = { score: 0, learned: false, totalAttempts: 0, correctAttempts: 0, lastSeen: null }
+  }
+  return word.inflectionProgress[grammar]
+}
+function formLearned(word, grammar) { return !!word.inflectionProgress?.[grammar]?.learned }
+function formsLearnedCount(word) {
+  return hasInflections(word) ? word.inflections.filter(i => formLearned(word, i.grammar)).length : 0
+}
+function fullyLearned(word) {
+  return !!word.learned && (!hasInflections(word) || formsLearnedCount(word) === word.inflections.length)
+}
+function setFullyLearned(word, learned) {
+  if (learned) {
+    word.learned = true
+    word.score   = Math.max(word.score, learnedThreshold())
+    for (const inf of word.inflections || []) {
+      const p = formProgress(word, inf.grammar)
+      p.learned = true
+      p.score   = Math.max(p.score, inflectionThreshold(word))
+    }
+  } else {
+    // Floor at 1, not 0 — a word that's been unlearned still has SOME
+    // history and should stay distinguishable from "never studied" in the
+    // progress file (which only keeps entries for engaged words).
+    word.learned = false
+    word.score   = Math.max(1, learnedThreshold() - 1)
+    for (const p of Object.values(word.inflectionProgress || {})) {
+      if (p.learned) { p.learned = false; p.score = Math.max(1, inflectionThreshold(word) - 1) }
+    }
+  }
+}
+function scoreText(w) {
+  if (fullyLearned(w)) return '✓ Learned'
+  const meaning = w.learned ? '✓ meaning' : (w.score > 0 ? `${w.score} / ${learnedThreshold()}` : '—')
+  if (!hasInflections(w) || (!w.learned && w.score === 0)) return meaning
+  return `${meaning} · forms ${formsLearnedCount(w)} / ${w.inflections.length}`
+}
+
+// Grammar labels as stored: "genitive sg", "fem., accusative pl",
+// "past 3sg masc.", "cond. 1pl", "present 2sg".
+const CASE_ORDER   = ['nominative', 'genitive', 'dative', 'accusative', 'vocative', 'locative', 'instrumental']
+const TENSE_ORDER  = ['present', 'past', 'future', 'cond.']
+const GENDER_ORDER = ['masc', 'fem', 'neut']
+const GENDER_NAME  = { masc: 'masculine', fem: 'feminine', neut: 'neuter' }
+const TENSE_NAME   = { present: 'present', past: 'past', future: 'future', 'cond.': 'conditional' }
+const PERSON_NAME  = { '1sg': 'I', '2sg': 'you', '3sg': 'he / she / it', '1pl': 'we', '2pl': 'you (plural)', '3pl': 'they' }
+const THIRD_SG     = { masc: 'he', fem: 'she', neut: 'it' }
+
+function parseGrammar(grammar) {
+  let s = (grammar || '').trim()
+  const t = {}
+  const g = s.match(/^(masc|fem|neut)\.,\s*/)
+  if (g) { t.gender = g[1]; s = s.slice(g[0].length) }
+  const tense = s.match(/^(present|past|future|cond\.)\s+/)
+  if (tense) { t.tense = tense[1]; s = s.slice(tense[0].length) }
+  const pers = s.match(/^([123])(sg|pl)\s*(masc|fem|neut)?/)
+  if (pers) {
+    t.person = Number(pers[1]); t.number = pers[2]
+    if (pers[3]) t.gender = pers[3]
+    return t
+  }
+  const c = s.match(/^([a-z]+)\s+(sg|pl)$/)
+  if (c) { t.case = c[1]; t.number = c[2] }
+  return t
+}
+
+function grammarSortKey(grammar) {
+  const t = parseGrammar(grammar)
+  return [TENSE_ORDER.indexOf(t.tense), t.number === 'pl' ? 1 : 0, GENDER_ORDER.indexOf(t.gender),
+          t.person || 0, CASE_ORDER.indexOf(t.case)]
+}
+function compareGrammar(a, b) {
+  const ka = grammarSortKey(a.grammar), kb = grammarSortKey(b.grammar)
+  for (let i = 0; i < ka.length; i++) if (ka[i] !== kb[i]) return ka[i] - kb[i]
+  return 0
+}
+
+function grammarLabel(grammar) {
+  const t = parseGrammar(grammar)
+  const number = t.number === 'pl' ? 'plural' : t.number === 'sg' ? 'singular' : null
+  if (t.tense && t.person) {
+    const key = `${t.person}${t.number}`
+    let who = PERSON_NAME[key] || key
+    if (key === '3sg' && t.gender) who = THIRD_SG[t.gender]
+    else if (t.gender) who += ` (${GENDER_NAME[t.gender]})`
+    return `${TENSE_NAME[t.tense]} · ${who}`
+  }
+  if (t.case) return [t.gender && GENDER_NAME[t.gender], t.case, number].filter(Boolean).join(' · ')
+  return grammar
+}
+
+// ── Inflections quiz ──────────────────────────────────
+const INFL_SESSION_WORDS = 5
+const INFL_ROUND_MAX     = 6
+const INFL_ROUND_MIN     = 4
+let inflSession  = []     // headwords in this session
+let inflIndex    = 0
+let inflRound    = null   // { word, items: [{ grammar, form, english, matched, missed, used }] }
+let inflSelected = null   // { kind: 'label' | 'form', idx } — click-to-match
+let inflScore    = 0
+let inflFirstTry = 0
+let inflTotal    = 0
+let inflResults  = []     // [{ word, gained, before, after }]
+
+// Words whose meaning you've started (or learned) and that still have forms
+// to learn, lowest level first; within a level, learned meanings first.
+function inflectionCandidates() {
+  const lv = w => { const i = CEFR_ORDER.indexOf(w.cefr); return i < 0 ? 99 : i }
+  return allWords
+    .filter(w => hasInflections(w) && (w.learned || w.score > 0) && formsLearnedCount(w) < w.inflections.length)
+    .sort((a, b) => lv(a) - lv(b) || (b.learned ? 1 : 0) - (a.learned ? 1 : 0) || formsLearnedCount(b) - formsLearnedCount(a))
+}
+
+function startInflectionSession() {
+  inflSession = inflectionCandidates().slice(0, INFL_SESSION_WORDS)
+  inflIndex = 0; inflScore = 0; inflFirstTry = 0; inflTotal = 0; inflResults = []
+  if (inflSession.length === 0) {
+    const any = allWords.some(hasInflections)
+    alert(any
+      ? 'No forms to practice yet. Forms come up for words whose meaning you have started learning in the Vocabulary Quiz.'
+      : 'This language has no inflected forms.')
+    resetWelcomePicker()
+    showScreen('welcome-screen')
+    return
+  }
+  inflRound = buildInflectionRound(inflSession[0])
+  displayInflectionRound()
+  showScreen('infl-screen')
+}
+
+// A round is up to six of the word's not-yet-learned forms, taken in teaching
+// order (singular before plural, masculine before feminine and neuter, cases
+// in their usual order); learned forms fill it out to at least four.
+function buildInflectionRound(word) {
+  const ordered   = [...word.inflections].sort(compareGrammar)
+  const unlearned = ordered.filter(i => !formLearned(word, i.grammar))
+  let pick = unlearned.slice(0, INFL_ROUND_MAX)
+  if (pick.length < INFL_ROUND_MIN) {
+    const extra = shuffle(ordered.filter(i => !pick.includes(i))).slice(0, INFL_ROUND_MIN - pick.length)
+    pick = [...pick, ...extra].sort(compareGrammar)
+  }
+  return { word, before: formsLearnedCount(word), gained: 0,
+           items: pick.map(i => ({ grammar: i.grammar, form: i.form, english: i.english, matched: false, missed: false, used: false })) }
+}
+
+function updateInflWordProgress() {
+  const w = inflRound.word
+  const n = w.inflections.length, done = formsLearnedCount(w)
+  $('infl-word-progress-fill').style.width = `${(done / n) * 100}%`
+  $('infl-word-progress-label').textContent = `Forms learned: ${done} / ${n}`
+}
+
+function displayInflectionRound() {
+  const { word, items } = inflRound
+  const total = inflSession.length
+  $('infl-counter').textContent = `${inflIndex + 1} / ${total}`
+  $('infl-progress-fill').style.width = `${(inflIndex / total) * 100}%`
+  $('infl-score').textContent = `${inflScore > 0 ? '+' : ''}${inflScore} pts`
+  setEmphasizedText($('infl-word'), formatTarget(word))
+  $('infl-meaning').textContent = word.english
+  $('infl-pos').textContent = word['part-of-speech']
+  const lvl = $('infl-level-badge')
+  lvl.className = `cefr-badge${word.cefr ? ` cefr-${word.cefr}` : ' hidden'}`
+  lvl.textContent = word.cefr ? `Word: ${word.cefr}` : ''
+  updateInflWordProgress()
+
+  const labels = $('infl-labels'), forms = $('infl-forms')
+  labels.replaceChildren(); forms.replaceChildren()
+  items.forEach((item, idx) => {
+    const el = document.createElement('div')
+    el.className = 'infl-chip infl-label'
+    el.dataset.kind = 'label'; el.dataset.idx = idx
+    const text = document.createElement('span')
+    text.className = 'infl-label-text'
+    text.textContent = grammarLabel(item.grammar)
+    const answer = document.createElement('bdi')
+    answer.className = 'infl-answer'
+    el.append(text, answer)
+    if (formLearned(word, item.grammar)) el.title = 'Review: already learned'
+    labels.appendChild(el)
+  })
+  shuffle(items.map((_, i) => i)).forEach(idx => {
+    const el = document.createElement('bdi')
+    el.className = 'infl-chip infl-form'
+    el.dataset.kind = 'form'; el.dataset.idx = idx
+    el.textContent = items[idx].form
+    forms.appendChild(el)
+  })
+  for (const el of [...labels.children, ...forms.children]) wireInflChip(el)
+
+  inflSelected = null
+  $('infl-feedback').classList.add('hidden')
+  $('infl-next-btn').classList.add('hidden')
+}
+
+function wireInflChip(el) {
+  el.draggable = true
+  el.addEventListener('dragstart', e => {
+    if (el.classList.contains('matched') || el.classList.contains('used')) { e.preventDefault(); return }
+    e.dataTransfer.setData('text/plain', `${el.dataset.kind}:${el.dataset.idx}`)
+    e.dataTransfer.effectAllowed = 'move'
+    el.classList.add('dragging')
+  })
+  el.addEventListener('dragend', () => el.classList.remove('dragging'))
+  el.addEventListener('dragover', e => {
+    if (el.classList.contains('matched') || el.classList.contains('used')) return
+    e.preventDefault()
+    el.classList.add('drag-over')
+  })
+  el.addEventListener('dragleave', () => el.classList.remove('drag-over'))
+  el.addEventListener('drop', e => {
+    e.preventDefault()
+    el.classList.remove('drag-over')
+    const [kind, idx] = (e.dataTransfer.getData('text/plain') || '').split(':')
+    if (!kind || kind === el.dataset.kind) return
+    const labelIdx = kind === 'label' ? Number(idx) : Number(el.dataset.idx)
+    const formIdx  = kind === 'form'  ? Number(idx) : Number(el.dataset.idx)
+    attemptInflMatch(labelIdx, formIdx)
+  })
+  el.addEventListener('click', () => {
+    if (el.classList.contains('matched') || el.classList.contains('used')) return
+    const kind = el.dataset.kind, idx = Number(el.dataset.idx)
+    if (inflSelected && inflSelected.kind !== kind) {
+      const labelIdx = kind === 'label' ? idx : inflSelected.idx
+      const formIdx  = kind === 'form'  ? idx : inflSelected.idx
+      clearInflSelection()
+      attemptInflMatch(labelIdx, formIdx)
+      return
+    }
+    clearInflSelection()
+    inflSelected = { kind, idx }
+    el.classList.add('selected')
+  })
+}
+
+function clearInflSelection() {
+  inflSelected = null
+  document.querySelectorAll('#infl-screen .infl-chip.selected').forEach(c => c.classList.remove('selected'))
+}
+
+function inflChip(kind, idx) {
+  return document.querySelector(`#infl-screen .infl-chip[data-kind="${kind}"][data-idx="${idx}"]`)
+}
+
+// A form matches a label when its text is that label's form — two labels can
+// share one spelling (Czech fem. genitive/dative/locative "dobré"), so the
+// check is by text, not by which chip it came from.
+function attemptInflMatch(labelIdx, formIdx) {
+  const { word, items } = inflRound
+  const label = items[labelIdx], formItem = items[formIdx]
+  if (!label || !formItem || label.matched || formItem.used) return
+  const p = formProgress(word, label.grammar)
+  const now = new Date().toISOString()
+  const labelEl = inflChip('label', labelIdx), formEl = inflChip('form', formIdx)
+
+  if (formItem.form === label.form) {
+    label.matched = true
+    formItem.used = true
+    p.totalAttempts++
+    p.lastSeen = now
+    inflTotal++
+    if (!label.missed) {
+      p.score++
+      p.correctAttempts++
+      inflScore++
+      inflFirstTry++
+    }
+    if (!p.learned && p.score >= inflectionThreshold(word)) { p.learned = true; inflRound.gained++ }
+    labelEl.classList.remove('wrong', 'selected')
+    labelEl.classList.add('matched')
+    labelEl.querySelector('.infl-answer').textContent = label.form
+    if (label.english) labelEl.title = label.english
+    formEl.classList.add('used')
+  } else {
+    if (!label.missed) {
+      label.missed = true
+      p.score = Math.max(p.score - 1, 0)
+      p.totalAttempts++
+      p.lastSeen = now
+      inflTotal++
+    }
+    for (const el of [labelEl, formEl]) {
+      el.classList.remove('wrong'); void el.offsetWidth; el.classList.add('wrong')
+      setTimeout(() => el.classList.remove('wrong'), 700)
+    }
+  }
+  $('infl-score').textContent = `${inflScore > 0 ? '+' : ''}${inflScore} pts`
+  updateInflWordProgress()
+  persistProgress()
+  if (items.every(i => i.matched)) finishInflectionRound()
+}
+
+function finishInflectionRound() {
+  const { word, items } = inflRound
+  const firstTry = items.filter(i => !i.missed).length
+  inflResults.push({ word, gained: inflRound.gained, before: inflRound.before, after: formsLearnedCount(word) })
+  const fb = $('infl-feedback')
+  fb.className = `feedback-bar ${firstTry === items.length ? 'correct-fb' : 'incorrect-fb'}`
+  $('infl-feedback-icon').textContent = firstTry === items.length ? '✓' : '•'
+  const left = word.inflections.length - formsLearnedCount(word)
+  $('infl-feedback-text').textContent =
+    `${firstTry} of ${items.length} matched on the first try` +
+    (left === 0 ? ` · all forms of "${word.english}" learned!` : ` · ${left} forms still to learn`)
+  const last = inflIndex >= inflSession.length - 1
+  $('infl-next-btn').textContent = last ? 'See Results →' : 'Next Word →'
+  $('infl-next-btn').classList.remove('hidden')
+}
+
+function nextInflectionWord() {
+  inflIndex++
+  if (inflIndex >= inflSession.length) { showInflectionSummary(); return }
+  inflRound = buildInflectionRound(inflSession[inflIndex])
+  displayInflectionRound()
+}
+
+function showInflectionSummary() {
+  $('infl-stat-score').textContent    = (inflScore > 0 ? '+' : '') + inflScore
+  $('infl-stat-accuracy').textContent = `${inflTotal ? Math.round((inflFirstTry / inflTotal) * 100) : 0}%`
+  $('infl-stat-learned').textContent  = inflResults.reduce((n, r) => n + r.gained, 0)
+  const list = $('infl-results-list')
+  list.replaceChildren()
+  for (const r of inflResults) {
+    const n = r.word.inflections.length
+    const row = document.createElement('div')
+    row.className = 'result-row'
+    const dot = document.createElement('div')
+    dot.className = `result-dot ${r.after === n ? 'learned' : r.after > 0 ? 'in-progress' : 'needs-work'}`
+    const words = document.createElement('div')
+    words.className = 'result-words'
+    const en = document.createElement('span'); en.className = 'result-native'; en.textContent = r.word.english
+    const sep = document.createElement('span'); sep.className = 'result-sep'; sep.textContent = '→'
+    const tg = document.createElement('bdi'); tg.className = 'result-target'; tg.textContent = formatTarget(r.word)
+    words.append(en, sep, tg)
+    const badge = document.createElement('span')
+    badge.className = `score-badge ${r.after === n ? 'learned-badge' : 'progress-badge'}`
+    badge.textContent = r.after === n ? 'All forms!' : `forms ${r.after}/${n}`
+    row.append(dot, words, badge)
+    list.appendChild(row)
+  }
+  showScreen('infl-summary-screen')
+}
+
 // ── Answer Handling ───────────────────────────────────
 function handleChoice(btn, chosen) {
   const correct = chosen.id === currentQ.word.id
@@ -1187,6 +1547,8 @@ function handleChoice(btn, chosen) {
   if (correct) {
     const msg = hinted
       ? `Correct, but a hint was used, so no point this time (${word.score}/${learnedThreshold()} pts)`
+      : word.score >= learnedThreshold() && !fullyLearned(word)
+      ? `Meaning learned! Its ${word.inflections.length - formsLearnedCount(word)} forms are next, in the Inflections quiz`
       : word.score >= learnedThreshold()
       ? `Excellent! "${currentQ.word.english}" is now learned!`
       : `Correct! (${word.score}/${learnedThreshold()} pts)`
@@ -1272,6 +1634,9 @@ function showEditScreen() {
   $('edit-countability').value = word.countability || 'countable'
   $('edit-hmuet').checked      = !!word.hMuet
   $('edit-grammar').value = word.grammar || ''
+  $('edit-infl-threshold-group').style.display = hasInflections(word) ? '' : 'none'
+  $('edit-infl-threshold').value = word.inflectionThreshold ?? ''
+  $('edit-infl-threshold').placeholder = `default (${currentMeta?.inflectionThreshold ?? 3})`
   $('countability-info-popover').classList.add('hidden')
   toggleNounFields($('edit-pos').value)
   updateHMuetVisibility()
@@ -1372,6 +1737,12 @@ function saveEdit() {
   const grammar = $('edit-grammar').value.trim()
   if (grammar) word.grammar = grammar; else delete word.grammar
   wordFamilies = null   // the grammar label is part of the form lookup key
+
+  if (hasInflections(word)) {
+    const perForm = parseInt($('edit-infl-threshold').value, 10)
+    if (Number.isInteger(perForm) && perForm > 0) word.inflectionThreshold = perForm
+    else delete word.inflectionThreshold
+  }
 
   if (REGISTER_OPTIONS[currentMeta?.languageCode?.toLowerCase()]) {
     word.register = getSelectedRegisters()
@@ -1709,6 +2080,14 @@ function renderModePicker(entry) {
     btn.addEventListener('click', () => loadVocabulary(entry.slug))
     container.appendChild(btn)
   }
+  if (entry.hasInflections) {
+    const btn = document.createElement('button')
+    btn.className   = 'level-btn'
+    btn.textContent = '🔤 Inflections'
+    btn.title       = 'Match the forms (cases, tenses…) of words you are learning'
+    btn.addEventListener('click', () => loadVocabulary(entry.slug, 'inflections'))
+    container.appendChild(btn)
+  }
   if (entry.hasReading) {
     const btn = document.createElement('button')
     btn.className   = 'level-btn'
@@ -1727,7 +2106,7 @@ function resetWelcomePicker() {
 }
 
 // ── File Loading ──────────────────────────────────────
-async function loadVocabulary(slug) {
+async function loadVocabulary(slug, mode = 'vocabulary') {
   const result = await window.api.loadVocabulary(slug)
   if (result.error) { alert(result.error); return }
 
@@ -1749,6 +2128,8 @@ async function loadVocabulary(slug) {
   if (editorMode) {
     resetWelcomePicker()
     showSearchScreen('welcome-screen')
+  } else if (mode === 'inflections') {
+    startInflectionSession()
   } else {
     startSession()
   }
@@ -2127,9 +2508,9 @@ function applySearch() {
     }
     if (pos    && w['part-of-speech'] !== pos)   return false
     if (cefr   && w.cefr !== cefr)               return false
-    if (status === 'learned'    && !w.learned)                     return false
-    if (status === 'inprogress' && (w.learned || w.score === 0))   return false
-    if (status === 'notstarted' && (w.learned || w.score > 0))     return false
+    if (status === 'learned'    && !fullyLearned(w))                                   return false
+    if (status === 'inprogress' && (fullyLearned(w) || (w.score === 0 && !w.learned)))  return false
+    if (status === 'notstarted' && (w.learned || w.score > 0))                         return false
     if (register) {
       const wordRegisters = w.register && w.register.length ? w.register : ['All']
       // 'All' means natural in every register, so it matches any filter
@@ -2198,8 +2579,8 @@ function renderSearchPage() {
   for (const word of slice) {
     const tr = document.createElement('tr')
     tr.classList.toggle('selected', selectedWordIds.has(word.id))
-    const learnedLabel = word.learned ? 'Unlearn' : 'Mark Learned'
-    const learnedAction = word.learned ? 'kebab-unlearn' : 'kebab-learned'
+    const learnedLabel = fullyLearned(word) ? 'Unlearn' : 'Mark Learned'
+    const learnedAction = fullyLearned(word) ? 'kebab-unlearn' : 'kebab-learned'
     tr.innerHTML =
       `<td class="col-select"><input type="checkbox" class="row-select" data-id="${escHtml(word.id)}" ${selectedWordIds.has(word.id) ? 'checked' : ''} aria-label="Select word"></td>` +
       columns.map(c => `<td class="col-${escHtml(c.id)}">${c.render(word)}</td>`).join('') +
@@ -2308,8 +2689,7 @@ function massMarkLearnedSelected() {
   for (const id of ids) {
     const word = allWords.find(w => w.id === id)
     if (!word) continue
-    word.learned = true
-    word.score   = learnedThreshold()
+    setFullyLearned(word, true)
   }
   selectedWordIds.clear()
   persistProgress()
@@ -2341,16 +2721,7 @@ function duplicateFromSearch(wordId) {
 function toggleLearnedFromSearch(wordId) {
   const word = allWords.find(w => w.id === wordId)
   if (!word) return
-  if (word.learned) {
-    word.learned = false
-    // Floor at 1, not 0 — a word that's been unlearned still has SOME
-    // history and should stay distinguishable from "never studied" in the
-    // progress file (which only keeps entries for engaged words).
-    word.score   = Math.max(1, learnedThreshold() - 1)
-  } else {
-    word.learned = true
-    word.score   = learnedThreshold()
-  }
+  setFullyLearned(word, !fullyLearned(word))
   persistProgress()
   applySearch()
 }
@@ -2533,6 +2904,25 @@ document.addEventListener('DOMContentLoaded', () => {
   })
 
   $('exit-btn').addEventListener('click', () => window.api.quitApp())
+
+  // ── Inflections quiz wiring ────────────────────────
+  $('infl-quit-btn').addEventListener('click', () => {
+    if (confirm('End this session?')) {
+      resetWelcomePicker()
+      showScreen('welcome-screen')
+    }
+  })
+  $('infl-next-btn').addEventListener('click', nextInflectionWord)
+  $('infl-new-session-btn').addEventListener('click', startInflectionSession)
+  $('infl-vocab-btn').addEventListener('click', startSession)
+  $('infl-load-file-btn').addEventListener('click', () => {
+    allWords    = []
+    wordFamilies = null
+    currentMeta = null
+    updateWelcomeScreen()
+    resetWelcomePicker()
+    showScreen('welcome-screen')
+  })
   $('welcome-exit-btn').addEventListener('click', () => window.api.quitApp())
 
   // ── Reading event wiring ───────────────────────────
@@ -2648,6 +3038,13 @@ function buildReadingHoverIndex(vocabWords, targetField) {
       const existing = index.get(key)
       if (!existing || (!existing.isBase && isBase)) {
         index.set(key, { english: gloss, isBase })
+      }
+    }
+    // Inflected forms stored with their headword gloss as the headword.
+    for (const inf of (w.inflections || [])) {
+      for (const variant of (inf.form || '').split(' / ')) {
+        const key = variant.trim().toLowerCase().split(/\s+/).join(' ')
+        if (key && !index.has(key)) index.set(key, { english: w.english, isBase: false })
       }
     }
   }

@@ -565,6 +565,13 @@ html, body {
 }
 
 /* ── Direction + Action Row ────────────────────────── */
+.question-row-left {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 0;
+}
+
 .question-row {
   display: flex;
   align-items: center;
@@ -2066,3 +2073,65 @@ html, body {
 
 /* Letters in a guide table (e.g. Arabic letter shapes), shown larger. */
 .guide-table .guide-script-cell { font-size: 1.6em; line-height: 1.3; text-align: center; }
+
+/* ── Inflections quiz ─────────────────────────────────── */
+.form-hint {
+  display: block;
+  margin-top: 4px;
+  font-size: 0.78rem;
+  color: var(--text-2);
+}
+
+.infl-card { padding: 24px 32px 18px; }
+.infl-card .word-display { font-size: 2.2rem; }
+
+.infl-columns {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 16px;
+  width: 100%;
+  max-width: 540px;
+}
+.infl-column-title {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--text-2);
+  margin: 0 0 8px 4px;
+}
+.infl-list { display: flex; flex-direction: column; gap: 8px; }
+
+.infl-chip {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  min-height: 44px;
+  padding: 8px 14px;
+  background: var(--surface);
+  border: 2px solid var(--border);
+  border-radius: var(--radius-sm);
+  box-shadow: var(--shadow);
+  font-size: 0.95rem;
+  cursor: grab;
+  user-select: none;
+  transition: border-color 0.15s, background 0.15s, opacity 0.2s;
+}
+.infl-form { font-size: 1.1rem; font-weight: 600; justify-content: center; }
+.infl-label-text { color: var(--text); }
+.infl-answer { font-weight: 700; color: #1a7f38; }
+
+.infl-chip:hover            { border-color: var(--accent); }
+.infl-chip.selected         { border-color: var(--accent); background: var(--accent-tint-medium); }
+.infl-chip.drag-over        { border-color: var(--accent); background: var(--accent-tint-light); }
+.infl-chip.dragging         { opacity: 0.5; }
+.infl-chip.matched          { border-color: var(--green); background: #f0fff4; cursor: default; }
+.infl-chip.used             { opacity: 0.25; border-style: dashed; box-shadow: none; cursor: default; pointer-events: none; }
+.infl-chip.wrong            { border-color: var(--red); background: #fff5f5; animation: infl-shake 0.4s; }
+
+@keyframes infl-shake {
+  0%, 100% { transform: translateX(0); }
+  25%      { transform: translateX(-5px); }
+  75%      { transform: translateX(5px); }
+}
